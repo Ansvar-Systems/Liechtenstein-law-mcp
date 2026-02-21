@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1990091000",
+  "type": "statute",
+  "title": "Verordnung vom 11. Dezember 1990 zum Gesetz über das Salzmonopol",
+  "title_en": "",
+  "short_name": "LGBl 1990.091",
+  "status": "in_force",
+  "issued_date": "1990-12-11",
+  "in_force_date": "1990-12-11",
+  "url": "https://www.gesetze.li/konso/1990091000",
+  "description": "Verordnung vom 11. Dezember 1990 zum Gesetz über das Salzmonopol",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Der Staat überträgt das Recht, Salz, Salzgemische mit einem Gehalt von 30 % oder mehr an Natriumchlorid sowie Sole zu verkaufen an die Schweizer Salinen AG."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Salz, Salzgemische und Sole dürfen nur bei dem in Art. 1 bezeichneten Saline-Betrieb oder bei von diesem belieferten Wiederverkäufern erworben werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wer dem Staat Monopolgebühren vorenthält, hat ihm den Ausfall in gleicher Höhe zu ersetzen. Zusätzlich ist für die Kosten des Verfahrens Ersatz zu leisten."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nArt. 1 abgeändert durch LGBl. 2021 Nr. 73 ."
+    }
+  ],
+  "definitions": []
+}

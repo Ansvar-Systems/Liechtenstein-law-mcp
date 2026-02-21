@@ -1,0 +1,45 @@
+{
+  "id": "li-konso-1942011000",
+  "type": "statute",
+  "title": "Ausführungsverordnung vom 12. März 1942 zum Gesetz vom 12. Dezember 1940 über die Heimarbeit",
+  "title_en": "",
+  "short_name": "LGBl 1942.011",
+  "status": "in_force",
+  "issued_date": "1942-03-12",
+  "in_force_date": "1942-03-12",
+  "url": "https://www.gesetze.li/konso/1942011000",
+  "description": "Ausführungsverordnung vom 12. März 1942 zum Gesetz vom 12. Dezember 1940 über die Heimarbeit",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1) Als Zentralstelle für den Vollzug des Gesetzes über die Heimarbeit amtet das Fürstliche Arbeitsamt Vaduz.\n2) Es übt die Aufsicht über die Handhabung des Gesetzes aus und erlässt die nötigen Weisungen.\n3) Es führt das Register der Arbeitgeber und Fergger.\n4) Es stellt der Fürstlichen Regierung Antrag über die Unterstellung unter das Gesetz, wenn im Einzelfalle hierüber Zweifel bestehen.\n5) Es legt der Regierung den alle zwei Jahre zu erstattenden Bericht vor."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1) Der Gemeinderat und der Gemeindevorsteher üben die direkte Aufsicht über die Handhabung der Vorschriften des Gesetzes aus.\n2) Sie sind für die fortlaufende Ermittlung der zur Eintragung in das Register der Arbeitgeber und Fergger Verpflichteten sowie der erforderlichen Änderungen und Streichungen in diesem Register besorgt und führen selbst ein Register der in ihrem Gemeindebesitz domizilierten Arbeitgeber oder Fergger sowie weiterer Heimarbeitsausgabestellen.\n3) Sie machen durch periodische Kontrolle in den Betrieben der Arbeitgeber und Fergger - und wenn erforderlich auch bei den Heimarbeitern - darüber, dass die Vorschriften eingehalten werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jede Amtsstelle, Person oder Organisation, die an der Anwendung oder Nichtanwendung des Gesetzes ein berechtigtes Interesse hat, ist befugt, der Fürstlichen Regierung die Eintragung oder Streichung eines Arbeitgebers oder Ferggers vorzuschlagen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Als Gerichtsstelle, welche Zivilstreitigkeiten zwischen Heimarbeitern und Arbeitgebern zu entscheiden hat, wird das Fürstliche Landgericht bezeichnet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Die Durchführung der Strafuntersuchungen ist Sache des Arbeitsamtes, die Beurteilung von Zuwiderhandlungen wird der Fürstlichen Regierung übertragen.\nVaduz, am 12. März 1942\nFürstliche Regierung:\ngez. Dr. Hoop"
+    }
+  ],
+  "definitions": []
+}

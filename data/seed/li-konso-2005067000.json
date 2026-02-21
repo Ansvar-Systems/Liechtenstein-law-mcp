@@ -1,0 +1,505 @@
+{
+  "id": "li-konso-2005067000",
+  "type": "statute",
+  "title": "Verordnung I vom 22. März 2005 zum Arbeitsgesetz (ArGV I)",
+  "title_en": "",
+  "short_name": "ArGV I",
+  "status": "in_force",
+  "issued_date": "2005-03-22",
+  "in_force_date": "2005-03-22",
+  "url": "https://www.gesetze.li/konso/2005067000",
+  "description": "Verordnung I vom 22. März 2005 zum Arbeitsgesetz (ArGV I)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "A. Begriffe und Bezeichnungen",
+      "section": "1",
+      "title": "Art. 1 Arbeitnehmer",
+      "content": "1) Als Arbeitnehmer gilt jede Person, die in einem unter das Gesetz fallenden Betrieb dauernd oder vorübergehend während der ganzen Arbeitszeit oder eines Teils davon beschäftigt wird.\n2) Als Arbeitnehmer gelten auch Lehrlinge, Praktikanten, Volontäre und andere Personen, die hauptsächlich zur Ausbildung oder zur Vorbereitung der Berufswahl im Betrieb tätig sind."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "A. Begriffe und Bezeichnungen",
+      "section": "2",
+      "title": "Art. 2 Grossbetriebe des Detailhandels",
+      "content": "Grossbetriebe des Detailhandels sind Betriebe, die im gleichen Gebäude oder in benachbarten Gebäuden insgesamt mehr als 50 Arbeitnehmer, einschliesslich das Kassenpersonal, im Detailhandel beschäftigen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Begriffe und Bezeichnungen",
+      "section": "3",
+      "title": "Art. 3 Bezeichnungen",
+      "content": "Sofern diese Verordnung nicht ausdrücklich etwas anderes bestimmt, sind unter den in dieser Verordnung verwendeten, auf Personen bezogenen männlichen Begriffen Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nB. Betrieblicher Geltungsbereich"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "B. Betrieblicher Geltungsbereich",
+      "section": "4",
+      "title": "Art. 4 Familienbetriebe",
+      "content": "Auf jugendliche Familienmitglieder im Sinne von Art. 4 Abs. 1 des Gesetzes sind Art. 29 Abs. 1 bis 3 sowie die Art. 30 und 31 des Gesetzes anwendbar."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. Betrieblicher Geltungsbereich",
+      "section": "5",
+      "title": "Art. 5 Betriebe des Staates und der Gemeinden",
+      "content": "Das Gesetz ist insbesondere anwendbar auf Betriebe des Staates und der Gemeinden:\na) zur Herstellung, Verarbeitung oder Behandlung von Gütern sowie zur Erzeugung, Umwandlung oder Übertragung von Energie;\nb) zur Beförderung von Personen oder Gütern;\nc) für die Abfuhr, Verbrennung oder Verarbeitung von Kehricht sowie für die Wasserversorgung und Abwasserreinigung.\nC. Ausnahmen vom betrieblichen Geltungsbereich"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "C. Ausnahmen vom betrieblichen Geltungsbereich",
+      "section": "6",
+      "title": "Art. 6 Landwirtschaftsbetriebe",
+      "content": "1) Als Betriebe der landwirtschaftlichen Urproduktion gelten Betriebe des Acker-, Wiesen-, Obst-, Wein- und Gemüsebaues, der Beerenkultur, der Zucht- und Nutztierhaltung sowie die zu einem Landwirtschaftsbetrieb gehörenden privaten Waldungen.\n2) Als örtliche Milchsammelstellen gelten Betriebe, die Verkehrsmilch aus einem örtlich beschränkten Einzugsgebiet unmittelbar von landwirtschaftlichen Betrieben übernehmen und sie ganz oder teilweise in damit verbundenen Räumlichkeiten verarbeiten oder an andere Betriebe zur Verarbeitung oder zum Verkauf weitergeben.\n3) Ein Nebenbetrieb liegt vor, wenn die darin verarbeiteten oder verwerteten Erzeugnisse des Hauptbetriebes für den Eigengebrauch oder den lokalen Markt bestimmt sind."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "C. Ausnahmen vom betrieblichen Geltungsbereich",
+      "section": "7",
+      "title": "Art. 7 Gartenbaubetriebe",
+      "content": "Als Betriebe mit überwiegend gärtnerischer Pflanzenproduktion gelten Gartenbaubetriebe, in denen die Mehrzahl der Arbeitnehmer in einer oder mehreren der folgenden Betriebsarten beschäftigt werden:\na) Gemüsebau;\nb) Topfpflanzen- und Schnittblumenkultur;\nc) Baumschulen und Obstbau, einschliesslich Stauden und Kleingehölze."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "C. Ausnahmen vom betrieblichen Geltungsbereich",
+      "section": "8",
+      "title": "Art. 8 Anstalten, Stiftungen und Körperschaften des öffentlichen Rechts",
+      "content": "Öffentlich-rechtliche Anstalten und Stiftungen ohne Rechtspersönlichkeit sowie Körperschaften des öffentlichen Rechts sind der Staatsverwaltung gleichgestellt, sofern die Mehrzahl der in ihnen beschäftigten Arbeitnehmer in einem öffentlich-rechtlichen Arbeitsverhältnis stehen.\nD. Ausnahmen vom persönlichen Geltungsbereich"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "D. Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "9",
+      "title": "Art. 9 Höhere leitende Tätigkeit",
+      "content": "Eine höhere leitende Tätigkeit übt aus, wer auf Grund seiner Stellung und Verantwortung sowie in Abhängigkeit von der Grösse des Betriebes über weitreichende Entscheidungsbefugnisse verfügt oder Entscheide von grosser Tragweite massgeblich beeinflussen kann."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "D. Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "10",
+      "title": "Art. 10 Wissenschaftliche Tätigkeit",
+      "content": "1) Zur wissenschaftlichen Tätigkeit gehören Forschung und Lehre. Eine wissenschaftliche Tätigkeit liegt vor, wenn dem Arbeitnehmer in Bezug auf die Zielsetzung der Arbeit, deren Ausführung und Einteilung eine grosse Freiheit zukommt.\n2) Die Forschung umfasst neben der Grundlagenforschung auch die angewandte Forschung, nicht aber deren Umsetzung in der Praxis wie die Entwicklung und die Produktion.\n3) Auf das technische und das administrative Personal in der Forschung sind die Arbeits- und Ruhezeitbestimmungen des Gesetzes und seiner Verordnungen anwendbar."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "D. Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "11",
+      "title": "Art. 11 Selbständige künstlerische Tätigkeit",
+      "content": "Eine selbständige künstlerische Tätigkeit liegt vor, wenn dem künstlerisch tätigen Arbeitnehmer in Bezug auf die Gestaltung der Arbeit, bei deren Ausführung und Einteilung eine grosse Freiheit zukommt."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "D. Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "12",
+      "title": "Art. 12 Assistenzärzte, Erzieher und Fürsorger",
+      "content": "1) Assistenzärzte sind Ärzte der Human-, Zahn-, und Tiermedizin, die nach Abschluss ihres Medizinstudiums eine Weiterbildung absolvieren:\na) zur Erlangung des ersten Facharzttitels; oder\nb) für die Zulassung zur Eröffnung einer eigenen Praxis.\n2) Erzieher sind Personen mit einer anerkannten pädagogischen Fachausbildung oder einer gleichwertigen Aus- und Weiterbildung.\n3) Fürsorger sind Personen mit einer anerkannten Fachausbildung sozial-pädagogischer oder sozial-psychologischer Richtung oder einer gleichwertigen Aus- und Weiterbildung.\nII. Arbeits- und Ruhezeit\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "13",
+      "title": "Art. 13 Begriff der Arbeitszeit",
+      "content": "1) Als Arbeitszeit im Sinne des Gesetzes gilt die Zeit, während der sich der Arbeitnehmer zur Verfügung des Arbeitgebers zu halten hat; der Weg zu und von der Arbeit gilt nicht als Arbeitszeit. Vorbehalten bleiben die Bestimmungen über die Beschäftigung von schwangeren Frauen und stillenden Müttern sowie Art. 15 Abs. 2.\n2) Ist die Arbeit ausserhalb des Arbeitsortes zu leisten, an dem der Arbeitnehmer normalerweise seine Arbeit verrichtet, und fällt dadurch die Wegzeit länger als üblich aus, so stellt die zeitliche Differenz zur normalen Wegzeit Arbeitszeit dar.\n3) Durch die Rückreise von einem auswärtigen Arbeitsort im Sinne von Abs. 2 darf der Zeitraum der täglichen Arbeitszeit oder die wöchentliche Höchstarbeitszeit überschritten werden; dabei beginnt die tägliche Ruhezeit von elf Stunden erst nach dem Eintreffen des Arbeitnehmers an seinem Wohnort zu laufen.\n4) Muss sich ein Arbeitnehmer auf Anordnung des Arbeitgebers oder auf Grund seiner beruflichen Tätigkeit von Gesetzes wegen weiter- oder fortbilden, dann stellt die dafür aufgewendete Ausbildungszeit Arbeitszeit dar.\nPikettdienst\nArt. 14\na) Grundsatz\n1) Beim Pikettdienst hält sich der Arbeitnehmer neben der normalen Arbeit für allfällige Arbeitseinsätze bereit für die Behebung von Störungen, die Hilfeleistung in Notsituationen, für Kontrollgänge oder für ähnliche Sonderereignisse. Der Pikettdienst kann sowohl im Betrieb (Arbeitsbereitschaft) als auch ausserhalb des Betriebs (Rufbereitschaft) geleistet werden.\n2) Der einzelne Arbeitnehmer darf im Zeitraum von vier Wochen an höchstens sieben Tagen auf Pikett sein oder Piketteinsätze leisten. Nach Beendigung des letzten Pikettdienstes darf der Arbeitnehmer während den zwei darauf folgenden Wochen nicht mehr zum Pikettdienst aufgeboten werden.\n3) Ausnahmsweise kann ein Arbeitnehmer bei Rufbereitschaft im Zeitraum von acht Wochen an höchstens vier Wochen auf Pikett sein, sofern die Anzahl der Tage, an denen tatsächlich Piketteinsätze erfolgt sind, im Durchschnitt eines Kalenderjahres nicht mehr als fünf Tage pro Monat ausmacht.\n4) In begründeten Fällen kann die Dauer der Rufbereitschaft nach Abs. 3 verlängert werden.\n5) Kurzfristige Änderungen in der Pikettplanung und -einteilung und sich daraus ergebende Einsätze dürfen für Arbeitnehmer mit Familienpflichten nur mit deren Einverständnis vorgenommen werden und soweit, als eine andere Lösung für den Betrieb nicht zumutbar ist."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "15",
+      "title": "Art. 15 b) Anrechnung an die Arbeitszeit",
+      "content": "1) Wird der Pikettdienst im Betrieb (Arbeitsbereitschaft) geleistet, stellt die gesamte zur Verfügung gestellte Zeit Arbeitszeit dar.\n2) Wird der Pikettdienst ausserhalb des Betriebes (Rufbereitschaft) geleistet, so ist die zur Verfügung gestellte Zeit soweit an die Arbeitszeit anzurechnen, als der Arbeitnehmer tatsächlich zur Arbeit herangezogen wird. Die Wegzeit zu und von der Arbeit ist in diesem Fall an die Arbeitszeit anzurechnen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "16",
+      "title": "Art. 16 Verteilung der Arbeitszeit",
+      "content": "1) Die Woche im Sinne des Gesetzes (Arbeitswoche) beginnt mit dem Montag oder bei mehrschichtigen Systemen in der Sonntag/Montag-Nacht und endet mit dem Sonntag. Vorbehalten bleiben die Bestimmungen über den ununterbrochenen Betrieb.\n2) Für den einzelnen Arbeitnehmer darf die Arbeitswoche höchstens fünfeinhalb Arbeitstage umfassen. Sie kann auf sechs Arbeitstage ausgedehnt werden, sofern die wöchentlichen freien Halbtage im Einverständnis mit dem Arbeitnehmer für längstens vier Wochen zusammengelegt werden.\n3) Die wöchentliche Arbeitszeit kann auf die einzelnen Arbeitstage und die einzelnen Arbeitnehmer oder Gruppen von Arbeitnehmern gleichmässig oder zeitlich verschieden verteilt werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "17",
+      "title": "Art. 17 Entschädigung für Ruhe- und Ausgleichsruhezeiten",
+      "content": "Werden bei Beendigung des Arbeitsverhältnisses die gesetzlichen Ruhe- und Ausgleichsruhezeiten durch eine Geldleistung abgegolten, so ist für deren Bemessung Art. 32 anwendbar.\nB. Pausen und Ruhezeiten"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "B. Pausen und Ruhezeiten",
+      "section": "18",
+      "title": "Art. 18 Pausen",
+      "content": "1) Die Pausen können für einzelne Arbeitnehmer oder Gruppen von Arbeitnehmern gleichmässig oder zeitlich verschieden angesetzt werden.\n2) Pausen von mehr als einer halben Stunde dürfen im Einverständnis mit dem Arbeitnehmer aufgeteilt werden.\n3) Bei flexiblen Arbeitszeiten, wie etwa bei der gleitenden Arbeitszeit, ist für die Bemessung der Pausen die durchschnittliche tägliche Arbeitszeit massgebend.\n4) Arbeitsplatz im Sinne von Art. 15 Abs. 2 des Gesetzes ist jeder Ort im Betrieb oder ausserhalb des Betriebes, an dem sich der Arbeitnehmer zur Ausführung der ihm zugewiesenen Arbeit aufzuhalten hat."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "B. Pausen und Ruhezeiten",
+      "section": "19",
+      "title": "Art. 19 Tägliche Ruhezeit",
+      "content": "1) Fallen zwei oder mehrere Ruhetage oder gesetzliche Feiertage in eine Woche, so kann die zusammenhängende wöchentliche Ruhezeit von 35 Stunden nach Art. 21 Abs. 2 einmal auf 24 Stunden verkürzt werden.\n2) Wird die tägliche Ruhezeit nach Art. 15a Abs. 2 des Gesetzes verkürzt, so darf der Arbeitnehmer beim darauf folgenden Arbeitseinsatz nicht zu Überzeiteinsätzen nach Art. 25 herangezogen werden.\n3) Durch Piketteinsätze nach Art. 14 darf die tägliche Ruhezeit unterbrochen werden, sie muss jedoch im Anschluss an den Piketteinsatz im restlichen Umfang nachgewährt werden. Kann durch die Piketteinsätze eine minimale Ruhezeit von vier aufeinander folgenden Stunden nicht erreicht werden, so muss im Anschluss an den letzten Einsatz die tägliche Ruhezeit von elf Stunden nachgewährt werden."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "B. Pausen und Ruhezeiten",
+      "section": "20",
+      "title": "Art. 20 Wöchentlicher freier Halbtag",
+      "content": "1) Der wöchentliche freie Halbtag umfasst sechs Stunden, die unmittelbar vor oder nach der täglichen Ruhezeit an einem Werktag zu gewähren sind.\n2) Der wöchentliche freie Halbtag gilt als gewährt, wenn zwischen 6 Uhr und 20 Uhr eine zusammenhängende Dauer von sechs Stunden freigegeben wird.\n3) An wöchentlichen freien Halbtagen darf der Arbeitnehmer nicht zur Leistung von Arbeit herangezogen werden; vorbehalten bleibt die Leistung von Arbeit in Sonderfällen nach Art. 26. In diesen Fällen ist der wöchentliche freie Halbtag innert vier Wochen nachzugewähren.\n4) Vom Gesetz vorgeschriebene Ruhezeiten können nicht an den wöchentlichen freien Halbtag angerechnet werden. Der wöchentliche freie Halbtag gilt jedoch als bezogen, wenn der Werktag, an dem er üblicherweise gewährt wird, mit einem arbeitsfreien Feiertag im Sinne von Art. 18 Abs. 2 des Gesetzes zusammenfällt."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "B. Pausen und Ruhezeiten",
+      "section": "21",
+      "title": "Art. 21 Wöchentlicher Ruhetag sowie Ersatzruhetag für Sonn- und Feiertagsarbeit",
+      "content": "1) Wöchentlicher Ruhetag ist grundsätzlich der Sonntag.\n2) Der wöchentliche Ruhetag und die tägliche Ruhezeit müssen zusammen mindestens 35 aufeinander folgende Stunden ergeben.\n3) Muss am Sonntag gearbeitet werden, darf der Arbeitnehmer nicht mehr als an sechs aufeinander folgenden Tagen beschäftigt werden. Vorbehalten bleiben die Bestimmungen über den ununterbrochenen Betrieb.\n4) Arbeitnehmern, die sonntags arbeiten, dürfen Sonntage, die in ihre Ferienzeit fallen, nicht an die gesetzlich vorgeschriebenen freien Sonntage angerechnet werden.\n5) Der Ersatzruhetag im Sinne von Art. 20 Abs. 2 des Gesetzes weist zusammen mit der täglichen Ruhezeit 35 aufeinander folgende Stunden auf; er hat in jedem Fall den Zeitraum von 6 Uhr bis 23 Uhr zu umfassen.\n6) Der Ersatzruhetag darf nicht auf einen Tag fallen, an dem der Arbeitnehmer üblicherweise seinen Ruhetag oder freien Tag bezieht.\n7) Der Freizeitausgleich für geleistete Sonntagsarbeit von bis zu fünf Stunden ist innert vier Wochen vorzunehmen.\nC. Wöchentliche Höchstarbeitszeit"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "C. Wöchentliche Höchstarbeitszeit",
+      "section": "22",
+      "title": "Art. 22 Verlängerung mit Ausgleich",
+      "content": "1) Die wöchentliche Höchstarbeitszeit von 40, 45 bzw. 48 Stunden kann, sofern sie im Durchschnitt von vier Monaten nicht überschritten wird, um höchstens vier Stunden verlängert werden:\na) bei Tätigkeiten mit witterungsbedingtem Arbeitsausfall; oder\nb) in Betrieben mit erheblichen saisonalen Schwankungen des Arbeitsanfalles.\n2) Die wöchentliche Höchstarbeitszeit von 45 Stunden kann für Arbeitnehmer mit einer im Durchschnitt des Kalenderjahres gewährten Fünf-Tage-Woche verlängert werden:\na) um zwei Stunden, sofern sie im Durchschnitt von acht Wochen nicht überschritten wird; oder\nb) um vier Stunden, sofern sie im Durchschnitt von vier Wochen nicht überschritten wird.\n3) Der Arbeitgeber darf die Verlängerung der wöchentlichen Höchstarbeitszeit nach Abs. 1 oder 2 ohne Bewilligung anordnen, wenn nicht nach einem bewilligungspflichtigen Stundenplan gearbeitet wird.\n4) Ist ein Arbeitsverhältnis befristet, so ist die durchschnittliche wöchentliche Höchstarbeitszeit nach Abs. 1 oder 2 während der Dauer des Arbeitsverhältnisses einzuhalten, sofern dieses weniger lang als die in den Abs. 1 und 2 genannten Ausgleichszeiträume dauert."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "C. Wöchentliche Höchstarbeitszeit",
+      "section": "23",
+      "title": "Art. 23 Verkürzung der wöchentlichen Höchstarbeitszeit",
+      "content": "1) In Wochen, in denen ein oder mehrere den Sonntagen gleichgestellte gesetzliche Feiertage auf einen Werktag fallen, an dem der Arbeitnehmer üblicherweise zu arbeiten hat, wird die wöchentliche Höchstarbeitszeit anteilsmässig verkürzt.\n2) Arbeitnehmern, die an einem den Sonntagen gleichgestellten gesetzlichen Feiertag arbeiten, ist die anteilsmässige Verkürzung der wöchentlichen Höchstarbeitszeit in der Woche anzurechnen, in welcher der Ersatzruhetag für den Feiertag gewährt wird."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "C. Wöchentliche Höchstarbeitszeit",
+      "section": "24",
+      "title": "Art. 24 Ausgleich ausfallender Arbeitszeit",
+      "content": "1) Der Ausgleich ausfallender Arbeitszeit nach Art. 11 des Gesetzes ist unmittelbar vor oder nach dem Arbeitsausfall innerhalb von höchstens 14 Wochen vorzunehmen, sofern Arbeitgeber und Arbeitnehmer nicht eine längere Frist vereinbaren, die aber zwölf Monate nicht überschreiten darf. Die Arbeitsausfälle über Weihnachten und Neujahr gelten als eine Ausfallperiode.\n2) Ausfallende Arbeitszeit darf nur soweit ausgeglichen werden, als dadurch die zulässige tägliche Arbeitsdauer nicht überschritten wird.\n3) Gesetzliche Ruhezeiten und Ausgleichsruhezeiten stellen keine ausfallende Arbeitszeit dar; diese dürfen weder vor- noch nachgeholt werden.\nD. Überzeitarbeit"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "D. Überzeitarbeit",
+      "section": "25",
+      "title": "Art. 25 Grundsatz",
+      "content": "1) Unter Vorbehalt von Art. 26 ist Überzeitarbeit nach Art. 12 Abs. 1 Bst. a und b des Gesetzes nur als Tagesarbeit nach Art. 10 des Gesetzes und nur an Werktagen zulässig.\n2) Der Ausgleich von Überzeitarbeit durch Freizeit nach Art. 13 Abs. 2 des Gesetzes ist innert 14 Wochen vorzunehmen, sofern Arbeitgeber und Arbeitnehmer nicht eine längere Frist vereinbaren, die aber zwölf Monate nicht überschreiten darf."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "D. Überzeitarbeit",
+      "section": "26",
+      "title": "Art. 26 Sonderfälle",
+      "content": "1) Überzeitarbeit darf auch in der Nacht und an Sonntagen sowie in Überschreitung der zulässigen täglichen Arbeitsdauer geleistet werden, wenn es sich um vorübergehende Arbeiten in Notfällen handelt, die unabhängig vom Willen der Betroffenen eintreten und deren Folgen nicht auf andere zumutbare Weise beseitigt werden können, insbesondere wenn:\na) Arbeitsergebnisse gefährdet sind und dadurch unverhältnismässiger Schaden droht;\nb) Piketteinsätze für die Schadensvorbeugung oder -behebung notwendig sind;\nc) Arbeitsmaschinen, Geräte, Transporteinrichtungen und Fahrzeuge, die für die Aufrechterhaltung des Betriebes unabdingbar sind, wegen schwerwiegender Störungen oder erlittener Schäden in Stand gestellt werden müssen;\nd) Betriebsstörungen infolge unmittelbarer Einwirkung höherer Gewalt vermieden oder behoben werden müssen;\ne) Störungen bei der Versorgung mit Energie und Wasser sowie Störungen des öffentlichen oder privaten Verkehrs vermieden oder behoben werden müssen;\nf) dem unvermeidlichen Verderb von Gütern, namentlich Rohstoffen oder Lebensmitteln, vorgebeugt werden muss, und damit keine Steigerung der Produktion verbunden ist;\ng) unaufschiebbare Verrichtungen zur Erhaltung des Lebens und der Gesundheit von Mensch und Tier sowie zur Vermeidung von Umweltschäden vorgenommen werden müssen.\n2) Überzeitarbeit, die in Überschreitung der zulässigen täglichen Arbeitsdauer geleistet wird, ist innerhalb von sechs Wochen durch Freizeit von gleicher Dauer auszugleichen. Vorbehalten bleibt Art. 20 Abs. 3 des Gesetzes.\nE. Voraussetzungen für Nacht- und Sonntagsarbeit und den ununterbrochenen Betrieb"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "E. Voraussetzungen für Nacht- und Sonntagsarbeit und den ununterbrochenen Betrieb",
+      "section": "27",
+      "title": "Art. 27 Dringendes Bedürfnis",
+      "content": "1) Ein dringendes Bedürfnis liegt vor, wenn:\na) zusätzliche Arbeiten kurzfristig anfallen, deren Erledigung zeitlich nicht aufschiebbar ist und die am Tag und während den Werktagen weder mit planerischen Mitteln noch mit organisatorischen Massnahmen bewältigt werden können;\nb) Arbeiten aus Gründen der öffentlichen Sicherheit oder aus sicherheitstechnischen Gründen nur in der Nacht oder am Sonntag erledigt werden können; oder\nc) Ereignisse kultureller, gesellschaftlicher oder sportlicher Art in Abhängigkeit von den örtlichen Verhältnissen und Gebräuchen oder den spezifischen Bedürfnissen von Kunden die Erbringung von zeitlich begrenzten Arbeitseinsätzen in der Nacht oder am Sonntag erfordern.\n2) Ein dringendes Bedürfnis für Nachtarbeit im Sinne von Art. 17 Abs. 4 des Gesetzes liegt vor, wenn Betriebe mit einem zweischichtigen Arbeitszeitsystem:\na) aus Gründen der täglichen Auslastung regelmässig auf eine Betriebszeit von 18 Stunden angewiesen sind;\nb) dabei nicht mehr als eine Randstunde in Anspruch nehmen; und\nc) dadurch die Leistung von weiterer Nachtarbeit zwischen 24 Uhr und 5 Uhr vermieden werden kann."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "E. Voraussetzungen für Nacht- und Sonntagsarbeit und den ununterbrochenen Betrieb",
+      "section": "28",
+      "title": "Art. 28 Unentbehrlichkeit von Nacht- und Sonntagsarbeit",
+      "content": "1) Technische Unentbehrlichkeit liegt insbesondere vor, wenn ein Arbeitsverfahren oder Arbeiten nicht unterbrochen oder aufgeschoben werden können, weil:\na) mit der Unterbrechung oder dem Aufschub erhebliche und unzumutbare Nachteile für die Produktion und das Arbeitsergebnis oder die Betriebseinrichtungen verbunden sind;\nb) andernfalls die Gesundheit der Arbeitnehmer oder die Umgebung des Betriebes gefährdet werden.\n2) Wirtschaftliche Unentbehrlichkeit liegt vor, wenn:\na) die Unterbrechung eines Arbeitsverfahrens und dessen wieder Ingangsetzung hohe Zusatzkosten verursachen, die ohne die Leistung von Nacht- oder Sonntagsarbeit eine merkliche Schwächung der Wettbewerbsfähigkeit des Betriebes gegenüber seinen Konkurrenten zur Folge hat oder haben könnte;\nb) das angewandte Arbeitsverfahren mit unvermeidlich hohen Investitionskosten verbunden ist, die ohne Nacht- oder Sonntagsarbeit nicht amortisiert werden können; oder\nc) die Konkurrenzfähigkeit gegenüber Ländern mit vergleichbarem sozialem Standard wegen längerer Arbeitszeiten oder anderer Arbeitsbedingungen im Ausland erheblich beeinträchtigt ist und durch die Bewilligung die Beschäftigung mit grosser Wahrscheinlichkeit gesichert wird.\n3) Der wirtschaftlichen Unentbehrlichkeit gleichgestellt sind die besonderen Konsumbedürfnisse, deren Befriedigung im öffentlichen Interesse liegt und nicht ohne Nacht- oder Sonntagsarbeit möglich ist. Solche Konsumbedürfnisse sind:\na) täglich notwendige und unentbehrliche Waren oder Dienstleistungen, deren Fehlen von einem Grossteil der Bevölkerung als wesentlicher Mangel empfunden würde; und\nb) bei denen das Bedürfnis dauernd oder in der Nacht oder am Sonntag besonders hervortritt.\n4) Unentbehrlichkeit wird für die im Anhang aufgeführten Produktions- und Arbeitsverfahren vermutet.\nF. Besondere Formen der Nachtarbeit"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "F. Besondere Formen der Nachtarbeit",
+      "section": "29",
+      "title": "Art. 29 Verlängerte Dauer der Nachtarbeit",
+      "content": "1) Bei 25 und mehr Nachteinsätzen pro Kalenderjahr ist eine Arbeitszeit von zehn Stunden im Zeitraum von zwölf Stunden nach Art. 17a Abs. 2 des Gesetzes zulässig, sofern:\na) für den Arbeitnehmer keine erhöhten Risiken bezüglich chemischer, biologischer und physikalischer Einwirkungen bestehen;\nb) der Arbeitnehmer keinen ausserordentlichen physischen, psychischen und mentalen Belastungen ausgesetzt ist;\nc) der Arbeitseinsatz so organisiert ist, dass die Leistungsfähigkeit des Arbeitnehmers erhalten bleibt und dadurch die Entstehung von Gefahrensituationen vermieden werden kann;\nd) in einer medizinischen Untersuchung die Eignung des Arbeitnehmers festgestellt worden ist; und\ne) die effektiv zu leistende Arbeitszeit innert 24 Stunden zehn Stunden nicht überschreitet.\n2) Bei weniger als 25 Nachteinsätzen pro Kalenderjahr ist eine Arbeitszeit von zehn Stunden im Zeitraum von zwölf Stunden nach Art. 17a Abs. 2 des Gesetzes zulässig, sofern:\na) der Arbeitseinsatz so organisiert ist, dass die Leistungsfähigkeit des Arbeitnehmers erhalten bleibt und dadurch die Entstehung von Gefahrensituationen vermieden werden kann;\nb) die effektiv zu leistende Arbeitszeit innert 24 Stunden zehn Stunden nicht überschreitet; und\nc) der Arbeitnehmer einverstanden ist."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "F. Besondere Formen der Nachtarbeit",
+      "section": "30",
+      "title": "Art. 30 Nachtarbeit ohne Wechsel mit Tagesarbeit",
+      "content": "1) Nachtarbeit von mehr als sechs Wochen ohne Wechsel mit Tagesarbeit nach Art. 25 Abs. 3 des Gesetzes ist zulässig, sofern:\na) der Arbeitnehmer schriftlich sein Einverständnis erklärt;\nb) der Arbeitnehmer schriftlich erklärt, dass er während der übrigen Zeit keine weitere Erwerbstätigkeit als Arbeitnehmer ausübt, die zu einer Überschreitung der Höchstarbeitszeiten oder Unterschreitung der Ruhezeiten führt; und\nc) innert 24 Wochen die Tagesarbeits-Perioden insgesamt mindestens gleich lang sind wie die Nachtarbeits-Perioden.\n2) Nachtarbeit von mehr als zwölf Wochen ohne Wechsel mit Tagesarbeit nach Art. 25 Abs. 3 des Gesetzes ist zulässig, sofern:\na) für den Arbeitnehmer keine erhöhten Risiken bezüglich chemischer, biologischer und physikalischer Einwirkungen bestehen;\nb) der Arbeitnehmer keinen ausserordentlichen physischen, psychischen und mentalen Belastungen ausgesetzt ist;\nc) der Arbeitseinsatz so organisiert ist, dass die Leistungsfähigkeit des Arbeitnehmers erhalten bleibt und dadurch die Entstehung von Gefahrensituationen vermieden werden kann;\nd) in einer medizinischen Untersuchung die Eignung des Arbeitnehmers festgestellt worden ist;\ne) der Arbeitnehmer schriftlich sein Einverständnis erklärt; und\nf) der Arbeitnehmer schriftlich erklärt, dass er während der übrigen Zeit keine weitere Erwerbstätigkeit als Arbeitnehmer ausübt, die zu einer Überschreitung der Höchstarbeitszeiten oder Unterschreitung der Ruhezeiten führt.\n3) Arbeitnehmer in Nachtarbeit nach Abs. 2 dürfen:\na) höchstens eingesetzt werden:\n1. in fünf von sieben aufeinander folgenden Nächten; oder\n2. in sieben von zehn aufeinander folgenden Nächten; und\nb) an ihren freien Tagen keine Überzeitarbeit nach Art. 25 leisten.\n4) Auf Arbeitnehmer, die höchstens für eine Randstunde zwischen 5 Uhr und 6 Uhr oder 23 Uhr und 24 Uhr dauernd Nachtarbeit leisten, sind die Voraussetzungen und die Bedingungen nach den Abs. 1 bis 3 nicht anwendbar.\nG. Lohnzuschlag"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "G. Lohnzuschlag",
+      "section": "31",
+      "title": "Art. 31 Lohnzuschlag bei Nachtarbeit",
+      "content": "1) Vorübergehende Nachtarbeit nach Art. 17b des Gesetzes leistet ein Arbeitnehmer, der in der Nacht beschäftigt wird:\na) in der Regel weniger als drei Stunden seiner täglichen Arbeitszeit; und\nb) höchstens 600 Stunden pro Kalenderjahr.\n2) Stellt sich erst im Verlaufe eines Kalenderjahres heraus, dass ein Arbeitnehmer wider Erwarten den Schwellenwert nach Abs. 1 überschreitet, so darf seine tägliche Arbeitszeit für das restliche Kalenderjahr im Durchschnitt nicht mehr als acht Stunden betragen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "G. Lohnzuschlag",
+      "section": "32",
+      "title": "Art. 32 Berechnung des Lohnzuschlages",
+      "content": "1) Der Lohnzuschlag für Überzeitarbeit, Nachtarbeit und Sonntagsarbeit ist bei Zeitlohn nach dem auf die Stunde berechneten Lohn, ohne Orts-, Haushaltungs- und Kinderzulagen, zu bemessen.\n2) Bei Akkordarbeit ist der Lohnzuschlag in der Regel nach dem in der Zahltagsperiode durchschnittlich erzielten Lohn, ohne Orts-, Haushaltungs- und Kinderzulagen, zu bemessen.\n3) Für die Bewertung des Naturallohnes sowie der Bedienungs- und Trinkgelder sind die Vorschriften der Gesetzgebung über die Alters- und Hinterlassenenversicherung sinngemäss anwendbar.\n4) Sind für die gleiche Zeitspanne verschiedene Vorschriften des Gesetzes über die Ausrichtung von Lohnzuschlägen anwendbar, so ist der für den Arbeitnehmer günstigste Zuschlag auszurichten.\nH. Schichtarbeit"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "H. Schichtarbeit",
+      "section": "33",
+      "title": "Art. 33 Schichtarbeit und Schichtwechsel",
+      "content": "1) Schichtarbeit liegt vor, wenn zwei oder mehrere Gruppen von Arbeitnehmern nach einem bestimmten Zeitplan gestaffelt und wechselweise am gleichen Arbeitsplatz zum Einsatz gelangen.\n2) Bei der Gestaltung von Schichtarbeit sind die arbeitsmedizinischen und arbeitswissenschaftlichen Erkenntnisse zu beachten.\n3) Bei zweischichtigen Arbeitszeitsystemen, die nicht in den Nachtzeitraum fallen, darf die einzelne Schichtdauer, Pausen inbegriffen, elf Stunden nicht überschreiten. Die Leistung von Überzeitarbeit nach Art. 25 ist nur an sonst arbeitsfreien Werktagen zulässig und soweit, als an diesen Tagen nicht gesetzliche Ruhe- oder Ausgleichsruhezeiten bezogen werden.\n4) Bei drei- und mehrschichtigen Arbeitszeitsystemen, bei denen der Arbeitnehmer in der Regel alle Schichten durchläuft, gilt Folgendes:\na) die einzelne Schichtdauer darf zehn Stunden, Pausen inbegriffen, nicht überschreiten;\nb) der Schichtwechsel hat von der Früh- zur Spät- und von dieser zur Nachtschicht (Vorwärtsrotation) zu erfolgen. Eine Rückwärtsrotation ist ausnahmsweise zulässig, wenn dadurch der Arbeitnehmer regelmässig längere wöchentliche Ruhezeiten von drei und mehr Tagen erhält;\nc) die Leistung von Überzeitarbeit nach Art. 25 ist nur an sonst arbeitsfreien Werktagen zulässig und soweit, als an diesen Tagen nicht gesetzliche Ruhe- oder Ausgleichsruhezeiten bezogen werden."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "H. Schichtarbeit",
+      "section": "34",
+      "title": "Art. 34 Verzicht auf den Schichtwechsel bei zweischichtigem Arbeitszeitsystem",
+      "content": "Auf den Schichtwechsel bei zweischichtigem Arbeitszeitsystem nach Art. 33 Abs. 3 kann verzichtet werden, sofern:\na) Arbeitnehmer aus besonderen persönlichen Gründen nur am Morgen oder am Abend arbeiten können; oder\nb) eine der beiden Schichten wesentlich kürzer ist und nicht mehr als fünf Stunden beträgt.\nI. Ununterbrochener Betrieb"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "I. Ununterbrochener Betrieb",
+      "section": "35",
+      "title": "Art. 35 Begriff",
+      "content": "1) Als ununterbrochener Betrieb gilt ein Arbeitszeitsystem:\na) bei dem während 24 Stunden und an sieben Tagen der Woche Schichtarbeit geleistet wird; und\nb) das aus mehreren Schichten besteht, wobei der einzelne Arbeitnehmer in der Regel alle Schichten durchläuft.\n2) Das Amt für Volkswirtschaft kann ausnahmsweise geringfügige Abweichungen von den Voraussetzungen nach Abs. 1 bewilligen."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "I. Ununterbrochener Betrieb",
+      "section": "36",
+      "title": "Art. 36 Ruhetage",
+      "content": "1) Bei ununterbrochenem Betrieb sind den Arbeitnehmern im Kalenderjahr wenigstens 65 Ruhetage zu gewähren, die zusammen mit der täglichen Ruhezeit mindestens 35 aufeinander folgende Stunden umfassen. Davon müssen wenigstens 26 Ruhetage auf einen Sonntag fallen und mindestens die Zeit von 6 Uhr bis 16 Uhr umfassen.\n2) Unter der Voraussetzung, dass der Sonntag die Zeit von Samstag 23 Uhr bis Sonntag 23 Uhr umfasst, kann die Zahl der auf einen Sonntag fallenden Ruhetage wie folgt herabgesetzt werden:\na) auf 17, wenn die tägliche Arbeitszeit des einzelnen Arbeitnehmers acht Stunden nicht übersteigt;\nb) auf 13, wenn zusätzlich zu der in Bst. a genannten Voraussetzung die durchschnittliche wöchentliche Arbeitszeit einschliesslich der Pausen nicht mehr als 42 Stunden beträgt.\n3) Kann aus betrieblichen oder organisatorischen Gründen nicht in jeder Woche ein wöchentlicher Ruhetag gewährt werden, so ist dieser spätestens in der Folgewoche zu gewähren. Dieser Ruhetag kann mit anderen wöchentlichen Ruhetagen zusammengelegt werden.\n4) Nach spätestens sieben Tagen ist dem Arbeitnehmer eine wöchentliche Ruhezeit von 24 Stunden zuzüglich der täglichen Ruhezeit von elf Stunden zu gewähren."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "I. Ununterbrochener Betrieb",
+      "section": "37",
+      "title": "Art. 37 Arbeitszeit",
+      "content": "1) Die wöchentliche Höchstarbeitszeit nach Art. 9 des Gesetzes ist beim ununterbrochenen Betrieb im Durchschnitt von 16 Wochen einzuhalten.\n2) Die wöchentliche Höchstarbeitszeit kann für einzelne Zeiträume von sieben aufeinander folgenden Tagen auf 52 Stunden verlängert werden. Ausnahmsweise kann sie auf 60 Stunden verlängert werden, wenn ein grosser Teil der Arbeitszeit aus reiner Präsenzzeit besteht und der Arbeitnehmer keinen physisch, psychisch und mental belastenden Tätigkeiten ausgesetzt ist. Die wöchentliche Höchstarbeitszeit ist aber in jedem Fall im Durchschnitt von 16 Wochen einzuhalten.\n3) Für den einzelnen Arbeitnehmer darf die Arbeitszeit innert 24 Stunden nicht mehr als neun Stunden betragen und muss, mit Einschluss der Pausen, innert eines Zeitraumes von zehn Stunden liegen. Wird zwischen Freitagabend und Montagmorgen in zwei Schichten gearbeitet, so kann die Arbeitszeit bis auf zwölf Stunden verlängert werden, doch ist in diesem Falle eine Pause von zwei Stunden zu gewähren, die innerhalb der Schicht hälftig geteilt und gestaffelt angeordnet werden kann.\n4) Auf den ununterbrochenen Betrieb sind im Übrigen die Vorschriften dieser Verordnung über die Nacht- und Sonntagsarbeit sowie über die Schichtarbeit anwendbar, sofern die Art. 36 und 37 nichts anderes bestimmen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "I. Ununterbrochener Betrieb",
+      "section": "38",
+      "title": "Art. 38 Zusammengesetzter ununterbrochener Betrieb",
+      "content": "1) Auf Arbeitnehmer, die im Rahmen eines ununterbrochenen Betriebssystems nur in einzelnen Schichten oder an bestimmten Tagen eingesetzt werden, sind die Art. 36 und 37 nicht anwendbar.\n2) Die Beschäftigung von Arbeitnehmern in Wochenendschichten zwischen Donnerstagabend (20 Uhr) und Montagmorgen (5 Uhr bis 7 Uhr) ist zulässig, sofern:\na) die Arbeitnehmer - abgesehen von Ausnahmefällen wie Ferienablösungen - in der übrigen Zeit der Woche keiner weiteren Erwerbstätigkeit als Arbeitnehmer nachgehen;\nb) die Arbeitnehmer in keiner Schicht mehr als zehn Stunden Arbeitszeit innerhalb von zwölf Stunden leisten müssen;\nc) die tägliche Ruhezeit von elf Stunden nicht verkürzt wird;\nd) die Arbeitnehmer nicht zu Überzeitarbeit nach Art. 25 herangezogen werden; und\ne) die Arbeitnehmer mindestens fünf auf einen Sonntag fallende Ruhetage pro Kalenderjahr haben.\nK. Arbeitszeitbewilligung"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "K. Arbeitszeitbewilligung",
+      "section": "39",
+      "title": "Art. 39 Abgrenzungskriterien für die Bewilligung",
+      "content": "1) Vorübergehend ist Nachtarbeit im Sinne von Art. 17 des Gesetzes, wenn sie:\na) bei sporadisch oder periodisch wiederkehrenden Einsätzen nicht mehr als drei Monate pro Betrieb und Kalenderjahr umfasst; oder\nb) bei zeitlich befristeten Einsätzen von bis zu sechs Monaten einen einmaligen Charakter aufweist. Eine einmalige Verlängerung um sechs Monate ist möglich.\n2) Dauernd oder regelmässig wiederkehrend ist Nachtarbeit, wenn diese die in Abs. 1 genannten Bedingungen vom zeitlichen Umfang her überschreitet.\n3) Vorübergehend ist Sonntagsarbeit im Sinne von Art. 19 des Gesetzes, wenn sie:\na) bei sporadisch vorkommenden Einsätzen nicht mehr als 13 Sonntage, gesetzliche Feiertage inbegriffen, pro Betrieb und Kalenderjahr umfasst; oder\nb) bei zeitlich befristeten Einsätzen von bis zu drei Monaten einen einmaligen Charakter aufweist.\n4) Dauernd und regelmässig wiederkehrend ist Sonntagsarbeit, wenn diese die in Abs. 3 genannten Bedingungen vom zeitlichen Umfang her überschreitet."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "K. Arbeitszeitbewilligung",
+      "section": "40",
+      "title": "Art. 40 Gesuch",
+      "content": "Das Gesuch um eine Arbeitszeitbewilligung ist schriftlich beim Amt für Volkswirtschaft einzureichen und hat folgende Angaben zu enthalten:\na) die Bezeichnung des Betriebes oder der Betriebsteile, für welche die Bewilligung nachgesucht wird;\nb) die Zahl der beteiligten Arbeitnehmer, getrennt nach Männern, Frauen und Jugendlichen;\nc) den vorgesehenen Stundenplan, mit Einschluss der Ruhezeit und Pausen, sowie den Schichtenwechsel oder allfällige Abweichungen; für die Nachtarbeit, für die drei- und mehrschichtige Arbeit sowie für den ununterbrochenen Betrieb kann auf graphische Darstellungen von Stunden- und Schichtenplänen verwiesen werden;\nd) die vorgesehene Dauer der Bewilligung;\ne) die Bestätigung, dass das Einverständnis der beteiligten Arbeitnehmer eingeholt worden ist;\nf) die Bestätigung, dass der Arbeitnehmer keiner weiteren Erwerbstätigkeit nachgeht, die zu einer Überschreitung der Höchstarbeitszeiten oder Unterschreitung der Ruhezeiten führt;\ng) das Ergebnis der medizinischen Untersuchung hinsichtlich der Eignung der betroffenen Arbeitnehmer, soweit von Gesetz oder Verordnung vorgesehen;\nh) den Nachweis des dringenden Bedürfnisses oder der Unentbehrlichkeit;\ni) die Zustimmung Dritter, soweit von Gesetz oder Verordnung vorgesehen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "K. Arbeitszeitbewilligung",
+      "section": "41",
+      "title": "Art. 41 Bewilligungserteilung",
+      "content": "1) In den Arbeitszeitbewilligungen sind anzuführen:\na) die Rechtsgrundlage;\nb) der Betrieb oder der Betriebsteil oder die Art der Tätigkeit;\nc) die Begründung der Bewilligung;\nd) die Zahl der im Ganzen und, bei Schichtarbeit und ununterbrochenem Betrieb, der an den einzelnen Schichten beteiligten Arbeitnehmer, getrennt nach Männern, Frauen und Jugendlichen;\ne) die bewilligten Tage, Nächte oder Stunden, der bewilligte Stundenplan, die einzuhaltenden Ruhezeiten und Pausen, der Schichtwechsel sowie allfällige Abweichungen;\nf) allfällige Auflagen und Bedingungen zum Schutze der Arbeitnehmer.\n2) Die Arbeitszeitbewilligungen sind nach ihrem Zweck zeitlich zu befristen.\n3) Die Bewilligung darf nur von den im Gesetz oder in einer Verordnung vorgesehenen Voraussetzungen abhängig gemacht werden. Sie darf auch keine anderen Auflagen enthalten, als im Gesetz oder in einer Verordnung vorgesehen sind.\nIII. Massnahmen bei Nachtarbeit\nA. Medizinische Untersuchung und Beratung"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "A. Medizinische Untersuchung und Beratung",
+      "section": "42",
+      "title": "Art. 42 Begriff der medizinischen Untersuchung und Beratung",
+      "content": "1) Die medizinische Untersuchung beinhaltet eine Basiskontrolle des Gesundheitszustandes des betroffenen Arbeitnehmers. Der Umfang richtet sich nach der Art der auszuübenden Tätigkeit und den Gefährdungen am Arbeitsplatz.\n2) Die medizinische Untersuchung nach Art. 29, 30 und 43 ist von einem Arzt vorzunehmen, der sich mit dem Arbeitsprozess, den Arbeitsverhältnissen und den arbeitsmedizinischen Grundlagen vertraut gemacht hat. Frauen haben Anspruch auf medizinische Untersuchung und Beratung bei einer Ärztin.\n3) Die Beratung nach Art. 17c des Gesetzes umfasst spezifische Gesichtspunkte, die im Zusammenhang mit der Nachtarbeit stehen. Das können Fragen familiärer und sozialer Art oder Ernährungsprobleme sein, soweit diese einen Einfluss auf die Gesundheit des in der Nacht beschäftigten Arbeitnehmers haben können.\n4) Die im Rahmen des Obligatoriums beigezogenen Ärzte und anderen beigezogenen medizinischen Fachkräfte sind Sachverständige nach Art. 41 Abs. 2 des Gesetzes."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "A. Medizinische Untersuchung und Beratung",
+      "section": "43",
+      "title": "Art. 43 Anspruch auf medizinische Untersuchung und Beratung",
+      "content": "1) Arbeitnehmer, die 25 und mehr Nachteinsätze pro Kalenderjahr leisten, haben auf Verlangen Anspruch auf medizinische Untersuchung und Beratung.\n2) Der Anspruch auf medizinische Untersuchung und Beratung kann in regelmässigen Abständen von zwei Jahren geltend gemacht werden. Nach Vollendung des 45. Lebensjahres steht den Arbeitnehmern dieses Recht in Zeitabständen von einem Jahr zu.\n3) Der Arbeitgeber hat die Arbeitnehmer über den Anspruch auf medizinische Untersuchung zu unterrichten."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "A. Medizinische Untersuchung und Beratung",
+      "section": "44",
+      "title": "Art. 44 Obligatorische medizinische Untersuchung und Beratung",
+      "content": "1) Die medizinische Untersuchung und Beratung ist obligatorisch für Jugendliche, die zwischen 22 Uhr und 6 Uhr Nachtarbeit leisten, und für Arbeitnehmer, die in erhöhtem Ausmass belastende oder gefährliche Tätigkeiten verrichten oder belastenden oder gefährlichen Situationen ausgesetzt sind. Belastende und gefährliche Tätigkeiten oder Situationen sind:\na) gehörschädigender Lärm, starke Erschütterungen und Arbeit in Hitze oder in Kälte;\nb) Luftschadstoffe, sofern sie den Bereich von 50 % der maximal zulässigen Arbeitsplatzkonzentration für gesundheitsgefährdende Stoffe nach dem Gesetz über die Unfallversicherung übersteigen;\nc) ausserordentliche physische, psychische und mentale Belastungen;\nd) Arbeit als allein arbeitende Person in einem Betrieb oder Betriebsteil;\ne) verlängerte Dauer der Nachtarbeit und Nachtarbeit ohne Wechsel mit Tagesarbeit.\n2) Die medizinische Untersuchung und Beratung erfolgt:\na) erstmals vor Antritt zu einer in Abs. 1 genannten Tätigkeit; und\nb) anschliessend alle zwei Jahre bei Tätigkeiten nach Abs. 1 Bst. a bis d oder jährlich bei Tätigkeiten nach Abs. 1 Bst. e.\n3) Der untersuchende Arzt teilt dem betroffenen Arbeitnehmer, dem Arbeitgeber und dem Amt für Volkswirtschaft die Schlussfolgerungen hinsichtlich der Eignung oder Nichteignung mit.\n4) Arbeitnehmer, die nach Feststellung des Arztes nicht geeignet sind oder sich nicht untersuchen lassen, dürfen für Arbeiten nach Abs. 1 nicht in der Nacht eingesetzt werden. Eignet sich ein Arbeitnehmer nur bedingt, kann das Amt für Volkswirtschaft nach Rücksprache mit dem untersuchenden Arzt die Beschäftigung des betroffenen Arbeitnehmers in der Nacht ganz oder teilweise auf Gesuch hin zulassen, sofern der Betrieb die als notwendig erachteten Massnahmen für die Erhaltung der Gesundheit ergreift.\n5) Bei bedingter Eignung werden die untersuchenden Ärzte von ihrem ärztlichen Berufsgeheimnis gegenüber dem Arbeitgeber soweit entbunden, als es für das Treffen von Massnahmen im Betrieb notwendig ist und der betroffene Arbeitnehmer einwilligt.\nB. Weitere Massnahmen"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "B. Weitere Massnahmen",
+      "section": "45",
+      "title": "Art. 45 Weitere Massnahmen",
+      "content": "Der Arbeitgeber hat als weitere Massnahmen bei Nachtarbeit insbesondere:\na) ein sicheres Transportmittel zur Verfügung zu stellen, wenn die persönliche Sicherheit eines Arbeitnehmers auf dem Weg zum und vom Arbeitsplatz gefährdet sein könnte;\nb) Transportmöglichkeiten beim Fehlen öffentlicher Verkehrsmittel bereitzustellen;\nc) Kochgelegenheiten für die Zubereitung warmer Mahlzeiten in einem geeigneten Raum bereitzustellen oder warme Mahlzeiten abzugeben;\nd) Arbeitnehmer mit Erziehungs- oder Betreuungspflichten nach Art. 36 des Gesetzes zu unterstützen, damit sie diese Aufgaben selber oder durch Dritte wahrnehmen können.\nIV. Sonderschutz von Frauen\nA. Beschäftigung bei Mutterschaft"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "A. Beschäftigung bei Mutterschaft",
+      "section": "46",
+      "title": "Art. 46 Arbeitszeit und Stillzeit bei Schwangerschaft und Mutterschaft",
+      "content": "1) Schwangere Frauen und stillende Mütter dürfen nicht über die vereinbarte ordentliche Dauer der täglichen Arbeit hinaus beschäftigt werden, jedoch keinesfalls über neun Stunden hinaus.\n2) Wird die tägliche Arbeitszeit durch Stillen unterbrochen, ist die Stillzeit im ersten Lebensjahr zur Berechnung der täglichen Höchstarbeitszeit nach Abs. 1 wie folgt anzurechnen:\na) die ganze Zeit, sofern im Betrieb gestillt wird;\nb) die Hälfte der Abwesenheitsdauer, sofern ausserhalb des Betriebs gestillt wird.\n3) Die Stillzeit darf weder vor- noch nachgeholt werden; sie darf auch nicht anderen gesetzlichen Ruhe- oder Ausgleichsruhezeiten angerechnet werden."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "A. Beschäftigung bei Mutterschaft",
+      "section": "47",
+      "title": "Art. 47 Beschäftigungserleichterung",
+      "content": "1) Bei hauptsächlich stehend zu verrichtender Tätigkeit ist schwangeren Frauen ab dem vierten Schwangerschaftsmonat eine tägliche Ruhezeit von zwölf Stunden und nach jeder zweiten Stunde zusätzlich zu den Pausen nach Art. 15 des Gesetzes eine Kurzpause von zehn Minuten zu gewähren.\n2) Ab dem sechsten Schwangerschaftsmonat sind stehende Tätigkeiten auf insgesamt vier Stunden pro Tag zu beschränken.\nB. Gesundheitsschutz bei Mutterschaft"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "B. Gesundheitsschutz bei Mutterschaft",
+      "section": "48",
+      "title": "Art. 48 Gefährliche und beschwerliche Arbeiten bei Schwangerschaft und Mutterschaft",
+      "content": "1) Der Arbeitgeber darf schwangere Frauen und stillende Mütter zu gefährlichen und beschwerlichen Arbeiten nur beschäftigen, wenn auf Grund einer Risikobeurteilung feststeht, dass dabei keine konkrete gesundheitliche Belastung für Mutter und Kind vorliegt, oder wenn eine solche durch geeignete Schutzmassnahmen ausgeschaltet werden kann. Vorbehalten bleiben weitere Ausschlussgründe nach Abs. 4.\n2) Kann eine gefährliche gesundheitliche Belastung für Mutter und Kind nur durch das Ergreifen geeigneter Schutzmassnahmen ausgeschaltet werden, ist deren Wirksamkeit periodisch, mindestens vierteljährlich zu überprüfen. Stellt sich dabei heraus, dass das Schutzziel nicht erreicht wird, ist nach den Art. 50 Abs. 3 bzw. Art. 51 zu verfahren.\n3) Als gefährliche und beschwerliche Arbeiten für schwangere Frauen und stillende Mütter gelten alle Arbeiten, die sich erfahrungsgemäss nachteilig auf die Gesundheit dieser Frauen und ihrer Kinder auswirken. Dazu gehören namentlich:\na) das Bewegen schwerer Lasten von Hand;\nb) Bewegungen und Körperhaltungen, die zu vorzeitiger Ermüdung führen;\nc) Arbeiten, die mit Einwirkungen wie Stössen, Erschütterungen oder Vibrationen verbunden sind;\nd) Arbeiten bei Überdruck, z.B. in Druckkammern, beim Tauchen usw.;\ne) Arbeiten bei Kälte oder Hitze oder bei Nässe;\nf) Arbeiten unter Einwirkung schädlicher Strahlen oder Lärm;\ng) Arbeiten unter Einwirkung schädlicher Stoffe oder Mikroorganismen;\nh) Arbeiten in Arbeitszeitsystemen, die erfahrungsgemäss zu einer starken Belastung führen.\n4) Als Grundlage für die Beurteilung der in Abs. 3 aufgeführten gefährlichen und beschwerlichen Arbeiten gelten die Vorschriften der Verordnung des Eidgenössischen Volkswirtschaftsdepartement über gefährliche und beschwerliche Arbeiten bei Schwangerschaft und Mutterschutz (Mutterschutzverordnung; SR 822.111 )."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "B. Gesundheitsschutz bei Mutterschaft",
+      "section": "49",
+      "title": "Art. 49 Risikobeurteilung und Unterrichtung",
+      "content": "1) Ein Betrieb mit gefährlichen und beschwerlichen Arbeiten für Mutter und Kind nach Art. 48 hat die Risikobeurteilung durch eine fachlich kompetente Person vorzunehmen.\n2) Die Risikobeurteilung erfolgt erstmals vor Beginn der Beschäftigung von Frauen in einem Betrieb oder Betriebsteil nach Art. 48 und bei jeder bedeutenden Änderung der Arbeitsbedingungen.\n3) Das Ergebnis der Risikobeurteilung ist schriftlich festzuhalten, ebenso die vom Spezialisten der Arbeitssicherheit vorgeschlagenen Schutzmassnahmen. Bei der Risikobeurteilung sind insbesondere zu beachten:\na) die Vorschriften nach Art. 48 Abs. 4;\nb) die Vorschriften der Verordnung über die Sicherheit und den Gesundheitsschutz der Arbeitnehmer am Arbeitsplatz; und\nc) die Verordnung betreffend die Verhütung von Berufskrankheiten.\n4) Der Arbeitgeber hat dafür zu sorgen, dass Frauen mit beschwerlichen und gefährlichen Arbeiten über die mit der Schwangerschaft und der Mutterschaft in Zusammenhang stehenden Gefahren und Massnahmen rechtzeitig, umfassend und angemessen informiert sowie angeleitet werden.\nC. Beschäftigungseinschränkungen und -verbote"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "C. Beschäftigungseinschränkungen und -verbote",
+      "section": "50",
+      "title": "Art. 50 Arbeitsbefreiung und Versetzung",
+      "content": "1) Schwangere Frauen und stillende Mütter sind auf ihr Verlangen von Arbeiten zu befreien, die für sie beschwerlich sind.\n2) Frauen, die gemäss ärztlichem Zeugnis in den ersten Monaten nach der Entbindung nicht voll leistungsfähig sind, dürfen nicht zu Arbeiten herangezogen werden, die ihre Leistungsfähigkeit übersteigen.\n3) Der Arbeitgeber hat eine schwangere Frau oder eine stillende Mutter an einen für sie ungefährlichen und gleichwertigen Arbeitsplatz zu versetzen, wenn:\na) die Risikobeurteilung eine Gefahr für die Sicherheit und Gesundheit von Mutter oder Kind ergibt und keine geeignete Schutzmassnahme getroffen werden kann; oder\nb) feststeht, dass die betroffene Frau Umgang hat mit Stoffen, Mikroorganismen oder Arbeiten ausführt, die mit einem hohen Gefahrenpotenzial nach Art. 48 Abs. 4 verbunden sind."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "C. Beschäftigungseinschränkungen und -verbote",
+      "section": "51",
+      "title": "Art. 51 Verbotene Arbeiten während der Mutterschaft",
+      "content": "Ist eine Versetzung nach Art. 50 Abs. 3 nicht möglich, darf die betroffene Frau im von der Gefahr betroffenen Betrieb oder Betriebsteil nicht mehr beschäftigt werden."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "C. Beschäftigungseinschränkungen und -verbote",
+      "section": "52",
+      "title": "Art. 52 Verbotene Arbeiten",
+      "content": "Frauen dürfen nicht zu Arbeiten auf Untertage-Baustellen herangezogen werden, ausser für:\na) wissenschaftliche Tätigkeiten;\nb) Dienstleistungen der ersten Hilfe und der medizinischen Erstversorgung;\nc) kurzfristige Tätigkeiten im Rahmen einer geregelten Berufsausbildung; oder\nd) kurzfristige Tätigkeiten nicht handwerklicher Art.\nV. Besondere Pflichten der Arbeitgeber und Arbeitnehmer\nA. Betriebsordnung"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "A. Betriebsordnung",
+      "section": "53",
+      "title": "Art. 53 Vereinbarte oder erlassene Betriebsordnung",
+      "content": "1) Als frei gewählt im Sinne von Art. 37 Abs. 4 des Gesetzes gilt die Arbeitnehmervertretung, wenn die Wahl nach den Grundsätzen der Art. 4 und 5 des Mitwirkungsgesetzes erfolgt ist.\n2) Wird die Betriebsordnung vom Arbeitgeber erlassen, so ist der Entwurf im Betrieb gut sichtbar anzuschlagen oder den Arbeitnehmern auszuhändigen. Innert vier Wochen können die Arbeitnehmer schriftlich dazu Stellung nehmen oder sind vom Arbeitgeber mündlich anzuhören."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "A. Betriebsordnung",
+      "section": "54",
+      "title": "Art. 54 Bekanntmachung",
+      "content": "1) Die Betriebsordnung ist dem Amt für Volkswirtschaft in zwei Ausfertigungen zuzustellen.\n2) Die vom Amt für Volkswirtschaft genehmigte Betriebsordnung ist im Betrieb gut sichtbar anzuschlagen oder den Arbeitnehmern auszuhändigen.\nB. Weitere Pflichten gegenüber Arbeitnehmern"
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "B. Weitere Pflichten gegenüber Arbeitnehmern",
+      "section": "55",
+      "title": "Art. 55 Bekanntgabe der Arbeitszeiten und Schutzvorschriften",
+      "content": "1) Bei der Planung für die im Betrieb massgeblichen Arbeitszeiten, wie Rahmeneinsatzzeiten, Pikettdienst, Einsatzpläne, bewilligte Stundenpläne und deren Änderungen sind die Arbeitnehmer beizuziehen. Über den Zeitpunkt der konkreten Einführung der massgeblichen Arbeitszeiten sind die Arbeitnehmer möglichst frühzeitig zu informieren, in der Regel zwei Wochen vor einem geplanten Einsatz mit neuen Arbeitszeiten.\n2) Die Bekanntgabe des Stundenplanes und der Arbeitszeitbewilligungen umfasst auch die damit zusammenhängenden Schutzvorschriften des Gesetzes und dieser Verordnung über den Jugendschutz, die Mutterschaft und die zu gewährenden Ausgleichsruhezeiten für geleistete Nachtarbeit."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "B. Weitere Pflichten gegenüber Arbeitnehmern",
+      "section": "56",
+      "title": "Art. 56 Information und Anleitung der Arbeitnehmer",
+      "content": "1) Der Arbeitgeber muss dafür sorgen, dass alle in seinem Betrieb beschäftigten Arbeitnehmer, einschliesslich der dort tätigen Arbeitnehmer eines andern Betriebes, ausreichend und angemessen informiert und angeleitet werden über die Organisation der Arbeitszeit, die Gestaltung der Stundenpläne und die bei Nachtarbeit vorgesehenen Massnahmen im Sinne von Art. 17e des Gesetzes. Diese Anleitung hat im Zeitpunkt des Stellenantritts und bei jeder Änderung der Arbeitsbedingungen zu erfolgen und ist nötigenfalls zu wiederholen.\n2) Die Information und die Anleitung müssen während der Arbeitszeit erfolgen und dürfen nicht zu Lasten der Arbeitnehmer gehen."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "B. Weitere Pflichten gegenüber Arbeitnehmern",
+      "section": "57",
+      "title": "Art. 57 Beizug der Arbeitnehmer",
+      "content": "1) Die Arbeitnehmer oder ihre Vertretung im Betrieb sind vorgängig über Besuche der Vollzugsbehörde zu informieren und auf ihren Wunsch in geeigneter Form zu Abklärungen und Betriebsbesuchen derselben beizuziehen. Bei unangemeldeten Betriebsbesuchen sind die Arbeitnehmer ebenfalls beizuziehen.\n2) Der Arbeitgeber hat den Arbeitnehmern oder deren Vertretung im Betrieb von Anordnungen der Vollzugsbehörde Kenntnis zu geben.\nC. Pflichten gegenüber Vollzugs- und Aufsichtsbehörden"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "C. Pflichten gegenüber Vollzugs- und Aufsichtsbehörden",
+      "section": "58",
+      "title": "Art. 58 Zutritt zum Betrieb",
+      "content": "1) Der Arbeitgeber hat den Vollzugs- und Aufsichtsorganen Zutritt zu allen Räumen des Betriebes, mit Einschluss der Ess-, Aufenthalts- und Unterkunftsräume, zu gewähren.\n2) Die Vollzugs- und Aufsichtsorgane sind befugt, im Rahmen ihrer Aufgaben den Arbeitgeber und, ohne Anwesenheit von Drittpersonen, die im Betrieb beschäftigten Arbeitnehmer über die Durchführung des Gesetzes, der Verordnungen und der Verfügungen zu befragen."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "C. Pflichten gegenüber Vollzugs- und Aufsichtsbehörden",
+      "section": "59",
+      "title": "Art. 59 Verzeichnisse oder andere Unterlagen",
+      "content": "1) Die Verzeichnisse und Unterlagen haben Angaben zu enthalten, die für den Vollzug des Gesetzes notwendig sind, namentlich müssen daraus ersichtlich sein:\na) die Personalien der Arbeitnehmer;\nb) die Art der Beschäftigung sowie Ein- und Austritt der Arbeitnehmer;\nc) die wöchentliche Arbeitszeit einschliesslich der Ausgleichs- und Überzeitarbeit;\nd) die gewährten wöchentlichen Ruhe- oder Ersatzruhetage, soweit diese nicht regelmässig auf einen Sonntag fallen;\ne) die Pausen und Ruhezeiten;\nf) die betrieblichen Abweichungen von der Tag-, Nacht- und Sonntagsdefinition nach den Art. 10, 16 und 18 des Gesetzes;\ng) die nach Gesetz geschuldeten Lohnzuschläge;\nh) Regelungen für Arbeitnehmer, welche unter Art. 17a Abs. 3 des Gesetzes fallen;\ni) die Ergebnisse der medizinischen Abklärungen hinsichtlich der Eignung oder Nichteignung bei Nachtarbeit oder Mutterschaft;\nk) das Vorliegen von Ausschlussgründen oder die Ergebnisse der Risikobeurteilung bei Mutterschaft und gestützt darauf getroffene betriebliche Massnahmen.\n2) Besteht der begründete Verdacht, dass die Vorschriften über die Arbeits- und Ruhezeiten nicht eingehalten werden, sind auf Verlangen des Amtes für Volkswirtschaft folgende zusätzliche Angaben zu machen:\na) die geleistete tägliche und wöchentliche Arbeitszeit einschliesslich der Ausgleichs- und Überzeitarbeit sowie ihre Lage;\nb) die Lage und Dauer der Pausen und Ruhezeiten.\n3) Verzeichnisse und andere Unterlagen sind nach Ablauf ihrer Gültigkeit für mindestens fünf Jahre aufzubewahren.\n4) Die Vollzugs- und Aufsichtsorgane können Einsicht nehmen in weitere Verzeichnisse und Unterlagen, soweit das für die Erfüllung ihrer Aufgaben notwendig ist. Sofern es für die Ermittlung notwendig ist, kann das Amt für Volkswirtschaft diese Unterlagen und Verzeichnisse mitnehmen. Nach Abschluss der Ermittlungen sind diese dem Arbeitgeber zurückzugeben."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "C. Pflichten gegenüber Vollzugs- und Aufsichtsbehörden",
+      "section": "60",
+      "title": "Art. 60 Altersausweis",
+      "content": "Für jeden Jugendlichen hat der Arbeitgeber einen Altersausweis zur Verfügung der Vollzugs- und Aufsichtsbehörden zu halten.\nVI. Überwachung"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "VI. Überwachung",
+      "section": "61",
+      "title": "Art. 61 Kontrolle und Beratung",
+      "content": "1) Das Amt für Volkswirtschaft hat in den Betrieben über die Einhaltung der Vorschriften des Gesetzes und der Verordnungen Kontrollen durchzuführen und die Arbeitgeber und Arbeitnehmer bei der Anwendung des Gesetzes und der Verordnungen zu beraten.\n2) Das Amt für Volkswirtschaft kann für einzelne Aufsichtsdienste besondere Sachverständige beiziehen.\nVII. Datenschutz und Datenverwaltung\nA. Schweigepflicht"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "A. Schweigepflicht",
+      "section": "62",
+      "title": "Art. 62 Schweigepflicht",
+      "content": "1) Die Schweigepflicht nach Art. 41a des Gesetzes erstreckt sich auf die Aufsichts- und Vollzugsbehörden des Arbeitsgesetzes, beigezogene Sachverständige und Fachinspektoren.\n2) Werden Sachverständige und Fachinspektoren beigezogen, sind diese auf die Schweigepflicht gegenüber Dritten schriftlich aufmerksam zu machen."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "A. Schweigepflicht",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "A. Schweigepflicht",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Aufgehoben\nB. Informations- und Dokumentationssysteme"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "B. Informations- und Dokumentationssysteme",
+      "section": "65",
+      "title": "Art. 65 Betriebsregister",
+      "content": "1) Das Amt für Volkswirtschaft führt für die Erfüllung seiner gesetzlichen Aufgaben ein Betriebsregister insbesondere für:\na) alle Betriebe;\nb) Arbeitszeitbewilligungen;\nc) Betriebe, die im Rahmen des Vollzugs besucht werden;\nd) Plangenehmigungen und Betriebsbewilligungen.\n2) Das Betriebsregister enthält insbesondere folgende Daten:\na) Name und Adresse des Betriebes und des Arbeitgebers;\nb) Name der mit der Arbeitssicherheit betrauten Personen;\nc) Anzahl der Arbeitnehmer;\nd) Betriebsordnungen und Betriebsreglemente;\ne) Art der wirtschaftlichen Tätigkeit;\nf) Protokolle der Betriebsbesuche;\ng) Plangenehmigungs- und Betriebsbewilligungsunterlagen;\nh) Risikobeurteilungen und Gutachten;\ni) Anzeigen und Strafurteile."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "B. Informations- und Dokumentationssysteme",
+      "section": "66",
+      "title": "Art. 66 Aufbewahrungspflicht",
+      "content": "Personenbezogene Daten sind fünf Jahre nach Ablauf ihrer Gültigkeit zu vernichten, sofern sie nicht dem Landesarchiv oder anderen Archiven im Sinne des Archivgesetzes abzuliefern sind. Für anonymisierte Daten, die zu Zwecken der Planung, Forschung oder Statistik erarbeitet worden sind, gilt diese Frist nicht."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "B. Informations- und Dokumentationssysteme",
+      "section": "67",
+      "title": "Art. 67 Rechte der betroffenen Person",
+      "content": "Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Löschungsrecht, richten sich nach den Bestimmungen der Datenschutzgesetzgebung, soweit das Arbeitsgesetz keine abweichenden Bestimmungen vorsieht."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "B. Informations- und Dokumentationssysteme",
+      "section": "68",
+      "title": "Art. 68 Verletzung des Datenschutzes",
+      "content": "Die Strafverfolgung für Verletzungen des Datenschutzes und der Auskunftspflicht richtet sich nach der Datenschutzgesetzgebung.\nVIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "69",
+      "title": "Art. 69 Übergangsbestimmung",
+      "content": "1) Betriebe, die aufgrund dieser Verordnung umfangreiche organisatorische oder vertragliche Anpassungen vornehmen müssen wie namentlich von Gesamtarbeitsverträgen, Betriebshandbüchern oder -reglementen, ISO-Zertifizierungen, Stunden- und Schichtplänen, haben ab Inkrafttreten dieser Verordnung bis zum 31. Dezember 2005 Zeit für die betriebliche Umsetzung, sofern sich die Anpassungen nicht auf den Zeitpunkt des Inkrafttretens hin verwirklichen lassen.\n2) Während der Übergangsfrist gilt das bisherige Recht weiter."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "70",
+      "title": "Art. 70 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Verordnung I vom 8. Januar 1968 zum Gesetz über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz), LGBl. 1968 Nr. 15;\nb) Verordnung vom 19. Januar 1999 betreffend die Abänderung der Verordnung I zum Gesetz über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz), LGBl. 1999 Nr. 18;\nc) Verordnung vom 7. April 1992 über die Herabsetzung der wöchentlichen Höchstarbeitszeit für einzelne Gruppen von Betrieben und Arbeitnehmern, LGBl. 1992 Nr. 37."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "71",
+      "title": "Art. 71 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 2005 in Kraft.\nFürstliche Regierung:\ngez. Otmar Hasler\nFürstlicher Regierungschef\nAnhang\n(Art. 28 Abs. 4)\nNachweis der technischen oder wirtschaftlichen Unentbehrlichkeit von Nacht- oder Sonntagsarbeit für einzelne Arbeitsverfahren\nDer Nachweis der Unentbehrlichkeit von dauernder oder regelmässig wiederkehrender Nacht- und Sonntagsarbeit gilt für die nachstehend genannten Arbeitsverfahren im bezeichneten Umfang als vermutet:\nMilchverarbeitung:\nNacht- und Sonntagsarbeit für die Annahme und Behandlung von Milch sowie die Herstellung von Milchprodukten und die zugehörigen Reinigungsarbeiten.\nTeigwarenherstellung:\nNachtarbeit für automatisierte Produktionsanlagen inkl. Trocknereien.\nHerstellung von Bäckerei- und Konditoreiwaren:\nNachtarbeit für die Produktion.\nDruckereien:\nNacht- und Sonntagsarbeit für den Druck von Tages- und Wochenzeitungen, soweit sie einen hohen Aktualitätsbezug aufweisen.\nKunststoffverarbeitung und Folienherstellung durch Spritzgiessen, Blasen, Extrudieren, inkl. direkt damit verbundene Veredelungsverfahren:\nNacht- und Sonntagsarbeit für alle direkten Herstellverfahren.\nChemische, chemisch-physikalische und biologische Arbeitsverfahren:\nNacht- und Sonntagsarbeit für Verfahren, die aus technischen Gründen nicht unterbrochen werden können;\nNacht- und Sonntagsarbeit für die Durchführung langfristiger technischer oder wissenschaftlicher Versuche;\nNacht- und Sonntagsarbeit für Arbeiten mit Versuchstieren und die unerlässlichen Arbeiten in Gewächshäusern;\nSonntagsarbeit für die Betreuung von Versuchstieren.\nTextilindustrie:\nNacht- und Sonntagsarbeit in Spinnereien, Zwirnereien für die Herstellung von Garnen und Zwirnen, inkl. direkt damit verbundene Veredelungsverfahren;\nNacht- und Sonntagsarbeit in Webereien, Wirkereien und Strickereien für die Herstellung von Geweben und Gestricken, inkl. damit verbundene Veredelungsverfahren;\nNacht- und Sonntagsarbeit in Stickereien, inkl. damit verbundene Veredelungsverfahren.\nKeramische Industrie (Ziegeleien, Keramik- und Porzellanfabrikation):\nNacht- und Sonntagsarbeit für Brenn- und Trockenverfahren.\nMetallindustrie:\nNachtarbeit für\n- die Bedienung von Elektroschmelzöfen, Vorwärmeöfen sowie der damit unmittelbar in Zusammenhang stehenden Anlagen;\n- die Bedienung von Kalt- und Warmwalzwerken sowie der damit unmittelbar in Zusammenhang stehenden Anlagen;\n- das Schweissen von Werkstücken, an denen die Arbeit aus technischen Gründen nicht unterbrochen werden kann;\n- das Bedienen von Druckguss- und Strangpressanlagen.\nNacht- und Sonntagsarbeit für die Bedienung von Wärmebehandlungsanlagen.\nElektronikindustrie:\nNacht- und Sonntagsarbeit für die Produktion integrierter Schaltkreise (Mikroelektronik).\n1\nLR 822.10\n2\nArt. 22 Abs. 1 abgeändert durch LGBl. 2020 Nr. 249 .\n3\nArt. 44 Abs. 1 abgeändert durch LGBl. 2007 Nr. 1 .\n4\nÜberschrift vor Art. 62 abgeändert durch LGBl. 2018 Nr. 437 .\n5\nArt. 63 aufgehoben durch LGBl. 2018 Nr. 437 .\n6\nArt. 64 aufgehoben durch LGBl. 2018 Nr. 437 .\n7\nArt. 66 abgeändert durch LGBl. 2025 Nr. 368 .\n8\nArt. 67 abgeändert durch LGBl. 2018 Nr. 437 .\n9\nArt. 68 abgeändert durch LGBl. 2018 Nr. 437 ."
+    }
+  ],
+  "definitions": []
+}

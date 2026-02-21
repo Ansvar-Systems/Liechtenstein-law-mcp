@@ -1,0 +1,134 @@
+{
+  "id": "li-konso-1997211000",
+  "type": "statute",
+  "title": "Gesetz vom 23. Oktober 1997 über die Unterrichtung und Anhörung der Arbeitnehmerschaft in den Betrieben (Mitwirkungsgesetz; MWG)",
+  "title_en": "",
+  "short_name": "MWG",
+  "status": "in_force",
+  "issued_date": "1997-10-23",
+  "in_force_date": "1997-10-23",
+  "url": "https://www.gesetze.li/konso/1997211000",
+  "description": "Gesetz vom 23. Oktober 1997 über die Unterrichtung und Anhörung der Arbeitnehmerschaft in den Betrieben (Mitwirkungsgesetz; MWG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand, Begriffe und Bezeichnungen",
+      "content": "1) Dieses Gesetz regelt die Mitwirkung der Arbeitnehmerschaft in Betrieben.\n2) Die Arbeitnehmerschaft im Sinne dieses Gesetzes umfasst die Voll- und Teilzeitbeschäftigten sowie die unbefristet und befristet beschäftigten Arbeitnehmer.\n3) Unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Geltungsbereich",
+      "content": "1) Dieses Gesetz findet auf Betriebe in Liechtenstein Anwendung, die ständig Arbeitnehmer beschäftigen.\n2) Es findet keine Anwendung auf die Landesverwaltung und die Gemeindeverwaltung sowie weitere Betriebe und Betriebsbereiche, welche der Wahrnehmung hoheitlicher Aufgaben dienen."
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2a",
+      "title": "Art. 2a Abweichungen",
+      "content": "1) Zugunsten der Arbeitnehmerschaft darf von diesem Gesetz abgewichen werden.\n2) Zu Ungunsten der Arbeitnehmerschaft darf von den Art. 3, 3a, 4, 6, 6a, 7, 7a, 8, 10 und 11 Abs. 2 Bst. b nicht und von den übrigen Bestimmungen nur durch Gesamtarbeitsverträge abgewichen werden.\nII. Arbeitnehmervertretung"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Arbeitnehmervertretung",
+      "section": "3",
+      "title": "Art. 3 Anspruch auf Vertretung",
+      "content": "1) Die Arbeitnehmerschaft hat Anspruch auf eine Vertretung aus ihrer Mitte:\na) in Betrieben (Unternehmen) mit mindestens 50 Beschäftigten;\nb) in Betrieben, die einem Unternehmen zuzurechnen und gleichzeitig eigenständige Steuersubjekte sind (Unternehmensteile), mit mindestens 20 Beschäftigten.\n2) Für die Ermittlung der nach Abs. 1 zu berücksichtigenden Beschäftigtenzahl ist die Anzahl der im Durchschnitt während der letzten zwei Jahre beschäftigten Arbeitnehmer massgebend."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "II. Arbeitnehmervertretung",
+      "section": "3a",
+      "title": "Art. 3a Mitwirkung ohne Arbeitnehmervertretung",
+      "content": "1) In Betrieben, die den Schwellenwert nach Art. 3 Abs. 1 erreichen, bei denen jedoch keine Arbeitnehmervertretung bestellt wird, stehen die Mitwirkungsrechte nach Art. 6a ff. der Arbeitnehmerschaft direkt zu.\n2) In Betrieben, die den Schwellenwert nach Art. 3 Abs. 1 nicht erreichen, stehen die Mitwirkungsrechte nach Art. 7 Abs. 1 Bst. a und b und Art. 8 der Arbeitnehmerschaft direkt zu."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Arbeitnehmervertretung",
+      "section": "4",
+      "title": "Art. 4 Bestellung",
+      "content": "1) Innert sechs Monaten nach dem Inkrafttreten dieses Gesetzes oder nach Erreichen des Schwellenwertes von Art. 3 Abs. 1 hat eine geheime Abstimmung über die Bestellung einer Arbeitnehmervertretung zu erfolgen. Befürwortet die Mehrheit der Stimmenden eine Arbeitnehmervertretung, so ist die Wahl der Vertretung durchzuführen.\n2) Lehnt die Mehrheit der Stimmenden eine Arbeitnehmervertretung ab, so kann ein Jahr nach der ersten und jeder weiteren Ablehnung von einem Fünftel der Beschäftigten verlangt werden, durch eine geheime Abstimmung erneut festzustellen, ob die Mehrheit der Stimmenden sich für eine Arbeitnehmervertretung ausspricht.\n3) Abstimmung und Wahl werden von Arbeitgeber- und Arbeitnehmerseite gemeinsam durchgeführt. Die Arbeitnehmervertretung wird nach den Grundsätzen einer freien, geheimen, schriftlichen und allgemeinen Wahl bestellt."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Arbeitnehmervertretung",
+      "section": "5",
+      "title": "Art. 5 Grösse",
+      "content": "1) Die Grösse der Arbeitnehmervertretung wird von der Arbeitgeber- und der Arbeitnehmerseite gemeinsam festgelegt. Der Grösse und Eigenart des Betriebes ist Rechnung zu tragen.\n2) Die Arbeitnehmervertretung besteht aus mindestens drei Personen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Arbeitnehmervertretung",
+      "section": "6",
+      "title": "Art. 6 Aufgaben",
+      "content": "1) Die Arbeitnehmervertretung nimmt dem Arbeitgeber gegenüber die gemeinsamen Interessen der Arbeitnehmerschaft wahr.\n2) Die Arbeitnehmervertretung unterrichtet die Arbeitnehmerschaft regelmässig über ihre Tätigkeit.\nIII. Mitwirkungsrechte"
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "III. Mitwirkungsrechte",
+      "section": "6a",
+      "title": "Art. 6a Unterrichtungs- und Anhörungsrechte",
+      "content": "1) Die Mitwirkung der Arbeitnehmervertretung umfasst das Recht auf Unterrichtung und Anhörung.\n2) Unterrichtung ist die Weitergabe von Informationen vom Arbeitgeber an die Arbeitnehmervertretung.\n3) Anhörung ist die Einrichtung eines Dialogs und Meinungsaustausches zwischen Arbeitgeber und Arbeitnehmervertretung. Im Rahmen der Anhörung hat die Arbeitnehmervertretung insbesondere das Recht, eine Stellungnahme einzubringen, die vom Arbeitgeber entsprechend zu würdigen ist.\n4) Der Arbeitgeber hat Zeitpunkt, Form und Inhalt der Unterrichtung so zu gestalten, dass die Arbeitnehmervertretung die Informationen angemessen prüfen und sich gegebenenfalls auf die Anhörung vorbereiten kann."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Mitwirkungsrechte",
+      "section": "7",
+      "title": "Art. 7 Unterrichtung und Anhörung",
+      "content": "1) Der Arbeitgeber hat die Arbeitnehmervertretung zu unterrichten:\na) über alle Angelegenheiten, deren Kenntnis eine Voraussetzung für die ordnungsgemässe Erfüllung ihrer Aufgaben ist;\nb) mindestens einmal jährlich über die wirtschaftliche Situation des Betriebes und deren voraussichtliche Weiterentwicklung;\nc) über die Beschäftigungslage und ihre voraussichtliche Entwicklung sowie gegebenenfalls geplante antizipative Massnahmen, insbesondere bei Bedrohung der Beschäftigung;\nd) über grundlegende Änderungen in der Arbeitsorganisation, insbesondere bei Änderungen von bestehenden Arbeitsverträgen.\n2) Die Arbeitnehmervertretung hat in den Fällen von Abs. 1 Bst. c und d das Recht auf Anhörung.\n3) Vorbehalten bleiben die besonderen Mitwirkungsrechte nach Art. 8."
+    },
+    {
+      "provision_ref": "art7a",
+      "chapter": "III. Mitwirkungsrechte",
+      "section": "7a",
+      "title": "Art. 7a Ausnahmen",
+      "content": "1) In begründeten Fällen kann der Arbeitgeber von der Unterrichtung und Anhörung gemäss Art. 7 Abs. 1 und 2 der Arbeitnehmervertretung oder Arbeitnehmerschaft absehen.\n2) Begründete Fälle nach Abs. 1 liegen vor, wenn:\na) die Unterrichtung oder Anhörung nach objektiven Kriterien die Tätigkeit des Betriebs erheblich beeinträchtigen oder dem Betrieb schaden könnte;\nb) betriebliche Änderungen, welche der Arbeitgeber vornimmt, auf die Anordnung einer Kontroll- oder Aufsichtsbehörde zurückzuführen sind."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III. Mitwirkungsrechte",
+      "section": "8",
+      "title": "Art. 8 Besondere Mitwirkungsrechte",
+      "content": "Der Arbeitnehmervertretung stehen insbesondere folgende gesetzliche Mitwirkungsrechte zu:\na) in Fragen der Arbeitssicherheit und des Gesundheitsschutzes im Sinne von Art. 70 des Gesetzes über die obligatorische Unfallversicherung und Art. 6 und 45 des Arbeitsgesetzes;\nb) beim Übergang von Betrieben im Sinne des § 1173a Art. 43a des Allgemeinen bürgerlichen Gesetzbuches;\nc) bei Massenentlassungen im Sinne des § 1173a Art. 59a bis 59c des Allgemeinen bürgerlichen Gesetzbuches.\nIV. Zusammenarbeit"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "IV. Zusammenarbeit",
+      "section": "9",
+      "title": "Art. 9 Grundsatz",
+      "content": "1) Der Arbeitgeber und die Arbeitnehmervertretung arbeiten nach Treu und Glauben zusammen.\n2) Die Arbeitnehmervertretung wird vom Arbeitgeber in ihrer Tätigkeit in dem für die Erfüllung ihrer Aufgaben notwendigen Umfang, beispielsweise durch die Zurverfügungstellung von Räumen, Hilfsmitteln und administrativen Dienstleistungen, unterstützt.\n3) Sie kann ihre Tätigkeit während der Arbeitszeit ausüben, wenn die Wahrnehmung ihrer Aufgabe es erfordert und ihre Berufsarbeit es zulässt."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "IV. Zusammenarbeit",
+      "section": "10",
+      "title": "Art. 10 Schutz der Arbeitnehmervertretung",
+      "content": "1) Der Arbeitgeber darf die Arbeitnehmervertretung in der ordnungsgemässen Erfüllung ihrer Aufgaben nicht behindern.\n2) Die Mitglieder der Arbeitnehmervertretung dürfen während des Mandats und nach dessen Beendigung wegen Ausübung dieser Tätigkeit nicht benachteiligt werden. Dies gilt auch für alle, die sich zur Wahl in eine Arbeitnehmervertretung stellen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "IV. Zusammenarbeit",
+      "section": "11",
+      "title": "Art. 11 Verschwiegenheitspflicht",
+      "content": "1) Die Mitglieder der Arbeitnehmervertretung sind über betriebliche Angelegenheiten, die ihnen in dieser Eigenschaft zur Kenntnis gelangen, betriebsfremden Personen gegenüber zur Verschwiegenheit verpflichtet, sofern diese nicht mit der Wahrung der Interessen der Arbeitnehmerschaft betraut sind.\n2) Der Arbeitgeber sowie die Mitglieder der Arbeitnehmervertretung sind zur Verschwiegenheit gegenüber allen Personen verpflichtet:\na) in betrieblichen Angelegenheiten, sofern dies einem berechtigten Interesse des Arbeitgebers oder der Arbeitnehmervertretung entspricht;\nb) in persönlichen Angelegenheiten von Beschäftigten.\n3) Die Arbeitnehmerschaft von Betrieben ohne Arbeitnehmervertretung, der gestützt auf Art. 3a die Mitwirkungsrechte direkt zustehen, sowie betriebsfremde Personen, die nach Abs. 1 informiert werden dürfen, sind ebenfalls zur Verschwiegenheit verpflichtet. Das gleiche gilt für Beschäftigte, die von der Arbeitnehmervertretung nach Art. 6 Abs. 2 über ihre Tätigkeit unterrichtet worden sind.\n4) Die Pflicht zur Verschwiegenheit bleibt auch nach dem Ausscheiden aus der Arbeitnehmervertretung bestehen.\nV. Verfahren"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "V. Verfahren",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1) Über Streitigkeiten, die sich aus diesem Gesetz oder einer vertraglichen Mitwirkungsordnung ergeben, entscheidet, unter Vorbehalt vertraglicher Schlichtungs- und Schiedsstellen, das Landgericht. § 1173a Art. 71 Abs. 1 bis 3 des Allgemeinen bürgerlichen Gesetzbuches findet entsprechend Anwendung.\n2) Zur Klage oder zum Antrag berechtigt sind:\na) die Arbeitnehmerschaft;\nb) die Arbeitnehmervertretung;\nc) der Arbeitgeber;\nd) der Liechtensteinische ArbeitnehmerInnenverband. Für diesen gilt der Anspruch nur auf Feststellung.\nVI. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "VI. Schlussbestimmung",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Hans-Adam\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\n1\nTitel abgeändert durch LGBl. 2006 Nr. 39 .\n2\nArt. 1 abgeändert durch LGBl. 2006 Nr. 39 .\n3\nArt. 2 abgeändert durch LGBl. 2006 Nr. 39 .\n4\nArt. 2a eingefügt durch LGBl. 2006 Nr. 39 .\n5\nArt. 3 abgeändert durch LGBl. 2006 Nr. 39 .\n6\nArt. 3a eingefügt durch LGBl. 2006 Nr. 39 .\n7\nÜberschrift vor Art. 6a eingefügt durch LGBl. 2006 Nr. 39 .\n8\nArt. 6a eingefügt durch LGBl. 2006 Nr. 39 .\n9\nArt. 7 abgeändert durch LGBl. 2006 Nr. 39 .\n10\nArt. 7a eingefügt durch LGBl. 2006 Nr. 39 .\n11\nArt. 11 Abs. 3 abgeändert durch LGBl. 2006 Nr. 39 .\n12\nArt. 12 abgeändert durch LGBl. 2006 Nr. 39 ."
+    }
+  ],
+  "definitions": []
+}

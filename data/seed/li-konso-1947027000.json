@@ -1,0 +1,51 @@
+{
+  "id": "li-konso-1947027000",
+  "type": "statute",
+  "title": "Gesetz vom 5. Juni 1947",
+  "title_en": "",
+  "short_name": "LGBl 1947.027",
+  "status": "in_force",
+  "issued_date": "1947-06-05",
+  "in_force_date": "1947-06-05",
+  "url": "https://www.gesetze.li/konso/1947027000",
+  "description": "Gesetz vom 5. Juni 1947",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Es werden je 10 000 Goldmünzen zu 10 und 20 Franken ausgegeben. Die Prägung erfolgt in der Eidgenössischen Münzstätte in Bern."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1) Diese Goldmünzen werden in einem Mischungsverhältnis von 900 Tausendteilen Gold und 100 Tausendteilen Kupfer ausgeprägt. Aus 1 kg Münzgold werden daher 310 Stücke zu 10 Franken und 155 Stücke zu 20 Franken ausgeprägt.\n2) Das Rohgewicht des 10 Franken-Goldstückes beträgt daher 3.225805 g, das Feingewicht 2.90322 g, das Rohgewicht des 20 Franken-Goldstückes 6.45161 g das Feingewicht 5.80644 g."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1) Die Goldmünzen werden auf der Aversseite das Brustbild des regierenden Fürsten Franz Josef II. mit der Umschrift \"Franz Josef II\" und auf der Reversseite das Landeswappen mit der Wertbezeichnung 10 beziehungsweise 20 Franken sowie die Jahreszahl 1946 tragen. Der Rand des 10 Franken-Goldstückes wird gerippt sein, während das 20 Franken-Goldstück die Randschrift AD LEGEM ANNI MCMXXXI tragen wird.\n2) Die Goldmünzen zu 10 Franken messen 19 mm, jene zu 20 Franken 21 mm im Durchmesser."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Der Feingehalt der neuen Goldmünzen wird vom Eidgenössischen Zentralamt für Edelmetallkontrolle geprüft. Es wird eine Gewichtstoleranz von 2 &permil; und eine Feingehaltstoleranz von 1 &permil; gestattet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1) Goldmünzen, deren Gewicht um mehr als 1/2 % unter die in Art. 4 bezeichnete Gewichtstolerenz gesunken ist, werden von den öffentlichen Kassen nur zum tatsächlichen Goldwert eingelöst.\n2) Das Passiergewicht der Goldmünzen beträgt:\nbeim Zwanzig-Frankenstück 6.407 g\nbeim Zehn-Frankenstück 3.203 g"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Dieses Gesetz wird als nicht dringlich erklärt und tritt mit dem Tage der Kundmachung in Kraft. Mit der Durchführung ist die Fürstliche Regierung beauftragt.\nVaduz, am 5. Juni 1947\ngez. Franz Josef\ngez. A. Frick\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

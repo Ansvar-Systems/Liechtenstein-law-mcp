@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1940010000",
+  "type": "statute",
+  "title": "Verfassungsgesetz vom 20. Mai 1940",
+  "title_en": "",
+  "short_name": "LGBl 1940.010",
+  "status": "in_force",
+  "issued_date": "1940-05-20",
+  "in_force_date": "1940-05-20",
+  "url": "https://www.gesetze.li/konso/1940010000",
+  "description": "Verfassungsgesetz vom 20. Mai 1940",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Die Regierung erhält unbeschränkte Vollmacht, Evakuierungsmassnahmen zu treffen, eine eventuell notwendige Evakuierung vorzubereiten und die Organisation durchzuführen. Zu diesem Zwecke wird die Regierung bevollmächtigt, die diesbezüglichen Anordnungen und Verordnungen unbeschadet bestehender verfassungsrechtlicher oder gesetzlicher Bestimmungen zu treffen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Die Regierung erhält unbeschränkten Kredit für die Durchführung dieser Massnahmen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Oberste Evakuierungsbehörde im Ortsbereich der Gemeinde ist der Vorsteher bzw. der Gemeinderat unter Oberaufsicht der Regierung. Für den Fall der Evakuierung oder zu deren unmittelbaren Vorbereitung erhält der Vorsteher unbeschränkte Entscheidungs- und Polizeigewalt in seinem Ortsbereiche."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Das Gesetz wird als dringlich erklärt und tritt mit dem Tage der Kundmachung in Kraft.\nVaduz, am 20. Mai 1940\ngez. Franz Josef\ngez. Dr. Hoop\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

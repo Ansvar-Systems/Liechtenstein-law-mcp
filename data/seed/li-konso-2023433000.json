@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-2023433000",
+  "type": "statute",
+  "title": "Verordnung vom 21. November 2023 über die Anpassung der Einkommensgrenze sowie der Höhe der Mietbeiträge nach dem Mietbeitragsgesetz an die Teuerung",
+  "title_en": "",
+  "short_name": "LGBl 2023.433",
+  "status": "in_force",
+  "issued_date": "2023-11-21",
+  "in_force_date": "2023-11-21",
+  "url": "https://www.gesetze.li/konso/2023433000",
+  "description": "Verordnung vom 21. November 2023 über die Anpassung der Einkommensgrenze sowie der Höhe der Mietbeiträge nach dem Mietbeitragsgesetz an die Teuerung",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Anpassung der Einkommensgrenze",
+      "content": "Die Einkommensgrenzen nach dem Mietbeitragsgesetz werden teuerungsbedingt angepasst, sodass das jährliche Haushaltseinkommen nachstehende Höchstgrenzen nicht überschreiten darf:\nAnzahl Personen:\nEinkommensgrenze in Franken:\n2\n58 355\n3\n68 965\n4\n74 270\n5\n79 575\n6 und mehr\n84 880"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Anpassung der Höhe der Mietbeiträge",
+      "content": "Die Höhe der monatlichen Mietbeiträge nach dem Mietbeitragsgesetz wird teuerungsbedingt nach Massgabe des Anhangs angepasst."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Übergangsbestimmung",
+      "content": "Auf im Zeitpunkt des Inkrafttretens dieser Verordnung hängige Verfahren findet das neue Recht Anwendung."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2024 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nAnhang\n(Art. 2)\nMietbeiträge (in CHF) pro Monat\nmaximales Bruttoeinkommen nach Art. 5 des Gesetzes\nZahl der im gemeinsamen Haushalt lebenden Personen nach Art. 3 des Gesetzes\njährlich\n2\n3\n4\n5\n6\n(maximal)\n37 135\n806\n1 040\n1 210\n1 326\n1 379\n42 440\n690\n923\n1 093\n1 210\n1 273\n47 745\n584\n806\n976\n1 093\n1 156\n53 050\n467\n690\n870\n976\n1 040\n58 355\n233\n584\n753\n870\n923\n63 660\n467\n637\n753\n806\n68 965\n233\n520\n637\n690\n74 270\n286\n520\n584\n79 575\n286\n467\n84 880\n233"
+    }
+  ],
+  "definitions": []
+}

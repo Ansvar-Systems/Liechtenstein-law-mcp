@@ -1,0 +1,396 @@
+{
+  "id": "li-konso-2016113000",
+  "type": "statute",
+  "title": "Investmentunternehmensverordnung (IUV) vom 22. März 2016",
+  "title_en": "",
+  "short_name": "LGBl 2016.113",
+  "status": "in_force",
+  "issued_date": "2016-03-22",
+  "in_force_date": "2016-03-22",
+  "url": "https://www.gesetze.li/konso/2016113000",
+  "description": "Investmentunternehmensverordnung (IUV) vom 22. März 2016",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "1) Diese Verordnung regelt in Durchführung des Investmentunternehmensgesetzes (IUG) das Nähere über die Aufnahme, Ausübung und Beaufsichtigung der Tätigkeit von Investmentunternehmen sowie deren Verwaltungsgesellschaften, insbesondere:\na) die Kategorien von Investmentunternehmen;\nb) die Rechtsformen und die Ausgestaltung des Prospekts von Investmentunternehmen;\nc) die Geschäftstätigkeit von Investmentunternehmen;\nd) die Bewilligung und Pflichten von Verwaltungsgesellschaften;\ne) die Verwahrstelle;\nf) die Anlagepolitik und Anlegerrechte;\ng) die Wirtschaftsprüfer; und\nh) die Aufsicht.\n2) Soweit in dieser Verordnung nichts anderes bestimmt ist, finden auf selbstverwaltete Investmentunternehmen die Vorschriften für die Verwaltungsgesellschaft mit der Massgabe entsprechend Anwendung, dass an die Stelle der Verwaltungsgesellschaft die Organe des Investmentunternehmens treten."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Einanleger\": eine natürliche oder juristische Person, die ein qualifizierter Anleger im Sinne von Art. 4 Abs. 1 Bst. a oder b IUG ist;\nb) \"Familie\": ein oder mehrere Familienmitglieder;\nc) \"Familienmitglieder\": Ehegatten, eingetragene Partner, faktische Lebenspartner und nahe Angehörige, wie Eltern, Geschwister, Kinder, Neffen, Nichten und Enkel, Onkel und Tanten, Cousinen und Cousins ersten Grades, sowie die jeweiligen Hinterbliebenen;\nd) \"Interessengemeinschaft\": eine vor Bescheinigung des Investmentunternehmens (Art. 17 IUG) bestehende Gruppe von natürlichen oder juristischen Personen und deren Erben bzw. Rechtsnachfolger, wobei jede natürliche oder juristische Person ein qualifizierter Anleger im Sinne von Art. 4 Abs. 1 Bst. a oder b IUG ist;\ne) \"Konzern\": eine Unternehmensgruppe mit einem Mutterunternehmen, das ein oder mehrere Tochterunternehmen unmittelbar oder mittelbar kontrolliert und zur konsolidierten Rechnungslegung verpflichtet ist; jedes Tochterunternehmen eines Tochterunternehmens wird auch als Tochterunternehmen eines Mutterunternehmens, das an der Spitze dieser Unternehmen steht, betrachtet; die einzelnen Unternehmen sind Konzernunternehmen;\nf) \"Publikationsorgan\": im Prospekt bezeichnete Printmedien oder elektronische Plattformen, über welche die Verwaltungsgesellschaft den Anlegern die von Gesetz oder Verordnung verlangten Informationen zur Verfügung stellt.\n2) Soweit nicht ausdrücklich etwas anderes bestimmt ist, gelten die in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen für Personen männlichen und weiblichen Geschlechts."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Zeichnungsschein",
+      "content": "1) Ein vom Anleger unterzeichneter Zeichnungsschein ist Voraussetzung für den Erwerb eines Anteils an einem Investmentunternehmen.\n2) Der Inhalt des Zeichnungsscheins enthält insbesondere folgende Angaben:\na) Name und Geburtsdatum bzw. Firma und Gründungsdatum des Anlegers;\nb) Kategorie des Investmentunternehmens;\nc) Angaben zum konkreten Auftrag;\nd) Bestätigung des Anlegers, dass er ein qualifizierter Anleger nach Art. 4 Abs. 1 IUG ist;\ne) Bestätigung des Anlegers, dass er dem zulässigen Anlegerkreis gemäss dem Prospekt (Anhang 1 Ziff. 2) angehört.\n3) Die FMA kann gemeinsam mit den Marktteilnehmern Musterzeichnungsscheine ausarbeiten und deren Verwendung für verbindlich erklären.\nII. Investmentunternehmen\nA. Kategorien"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Kategorien",
+      "section": "4",
+      "title": "Art. 4 Investmentunternehmen für Einanleger",
+      "content": "Ein Investmentunternehmen für Einanleger ist ein Investmentunternehmen:\na) das gemäss dem Prospekt ausschliesslich für einen einzigen qualifizierten Anleger bestimmt ist;\nb) das kein Vermögen anlegt, welches von mehr als einer natürlichen oder juristischen Person stammt; und\nc) dessen Anleger nicht aus einer Einrichtung oder Struktur besteht, die insgesamt mehr als einen Anleger hat."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Kategorien",
+      "section": "5",
+      "title": "Art. 5 Investmentunternehmen für eine Familie",
+      "content": "Ein Investmentunternehmen für eine Familie ist ein Investmentunternehmen, das ausschliesslich für die Anlage des Vermögens einer Familie bestimmt ist, unabhängig von der Art der rechtlichen Struktur, die von ihr möglicherweise eingerichtet wird."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Kategorien",
+      "section": "6",
+      "title": "Art. 6 Investmentunternehmen für eine Interessengemeinschaft",
+      "content": "Ein Investmentunternehmen für eine Interessengemeinschaft ist ein Investmentunternehmen, das ausschliesslich für die Anlage des Vermögens bestimmter, qualifizierter Anleger dieser Interessengemeinschaft bestimmt ist, unabhängig von der Art der rechtlichen Struktur, die von ihnen möglicherweise eingerichtet wird."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Kategorien",
+      "section": "7",
+      "title": "Art. 7 Investmentunternehmen für einen Konzern",
+      "content": "Ein Investmentunternehmen für einen Konzern ist ein Investmentunternehmen, das ausschliesslich für die Anlage des Vermögens seiner Konzernunternehmen bestimmt ist, unabhängig von der Art der rechtlichen Struktur, die von ihnen möglicherweise eingerichtet wird.\nB. Rechtsformen"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Rechtsformen",
+      "section": "8",
+      "title": "Art. 8 Eintragung in das Handelsregister",
+      "content": "1) Die Verwaltungsgesellschaft hat binnen 30 Tagen nach Zustellung der Bescheinigung nach Art. 17 Abs. 2 IUG für das Investmentunternehmen in Vertragsform und die Kollektivtreuhänderschaft beim Amt für Justiz die Eintragung in das Handelsregister zu beantragen.\n2) Der Prospekt des Investmentunternehmens, in welchem die jeweilige Gründungsurkunde (Vertrag, Treuhandvertrag, Satzung, Gesellschaftsvertrag) nach Anhang 1 Ziff. 1 integriert ist, ist beim Amt für Justiz zu hinterlegen.\n3) Die im Handelsregister eingetragenen Tatsachen sind durch das Amt für Justiz auszugsweise in den amtlichen Publikationsorganen zu veröffentlichen.\n4) Änderungen von im Handelsregister eingetragenen Tatsachen sind dem Amt für Justiz so bald wie möglich, spätestens jedoch innerhalb einer Frist von 30 Tagen, zu melden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Rechtsformen",
+      "section": "9",
+      "title": "Art. 9 Anerkennung anderer Rechtsformen einer Investmentgesellschaft",
+      "content": "1) Die FMA kann auf Antrag der Verwaltungsgesellschaft eine Anstalt, Stiftung oder Gesellschaft mit beschränkter Haftung als Rechtsform einer Investmentgesellschaft nach Art. 9 IUG anerkennen.\n2) Der Gesellschaftsvertrag bzw. die Stiftungsurkunde richtet sich nach den Bestimmungen des PGR."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Rechtsformen",
+      "section": "10",
+      "title": "Art. 10 Entstehung der Anlage-Kommanditgesellschaft und der Anlage-Kommanditärengesellschaft",
+      "content": "Solange die Anlage Kommanditgesellschaft oder die Anlage-Kommanditärengesellschaft nicht im Handelsregister eingetragen ist, gilt sie als einfache Gesellschaft. Sobald Anleger beteiligt sind, gelten zugunsten der Anleger die Art. 733 bis 755 PGR entsprechend. Die Gründer haften jedoch bis zur Eintragung weiterhin wie einfache Gesellschafter."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Rechtsformen",
+      "section": "11",
+      "title": "Art. 11 Ausschluss von Anlegern",
+      "content": "1) Ein Anleger, der die Anlagevoraussetzungen nicht erfüllt, kann gegen Rückerstattung seiner Einlagen nach Massgabe der Gründungsurkunde ausgeschlossen werden. Im Übrigen kann ein Anleger ausgeschlossen werden, wenn dies die Gründungsurkunde vorsieht.\n2) Beim Ausschluss ist eine finanzielle Gleichbehandlung zu gewährleisten.\nC. Segmente"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "C. Segmente",
+      "section": "12",
+      "title": "Art. 12 Segmentierte Investmentunternehmen",
+      "content": "1) Segmentierte Investmentunternehmen mit einem einzigen Segment sind zulässig. Auf den Umstand, dass nur ein Segment besteht, ist im Prospekt hinzuweisen.\n2) Werden weitere Segmente eröffnet, bestehende aufgelöst oder vereinigt, ist der Prospekt entsprechend anzupassen.\n3) Eine Umwandlung von einem segmentierten Investmentunternehmen in ein nicht segmentiertes und umgekehrt ist zulässig. Sämtliche für ein Investmentunternehmen zu erstellende Dokumente sind entsprechend anzupassen.\n4) Im Prospekt ist insbesondere darauf hinzuweisen, dass:\na) eine Trennung der Vermögenswerte der einzelnen Segmente sichergestellt ist;\nb) Vergütungen und Verbindlichkeiten den einzelnen Segmenten verursachergerecht zugeordnet werden;\nc) Kosten, die nicht verursachergerecht zugeordnet werden können, den einzelnen Segmenten im Verhältnis zum Vermögen belastet werden; und\nd) der Anleger nur am Vermögen und Ertrag jener Segmente berechtigt ist, an denen er beteiligt ist.\n5) Falls der Wechsel von einem Segment zu einem anderen nicht spesenfrei ist, muss im Prospekt darauf hingewiesen werden.\nD. Geschäftstätigkeit"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "13",
+      "title": "Art. 13 Prospektinhalt und Veröffentlichung",
+      "content": "1) Der Mindestinhalt des Prospekts richtet sich nach dem Anhang 1.\n2) Soweit das IUG, diese Verordnung oder der Prospekt nicht ausdrücklich eine Veröffentlichung von Informationen im Publikationsorgan vorsehen, kann die Verwaltungsgesellschaft die entsprechenden Informationen dem Anleger in anderer physischer oder elektronischer Form zur Verfügung stellen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "14",
+      "title": "Art. 14 Prospektänderungen bei Umstrukturierungen oder Vermögensübertragungen",
+      "content": "1) Für eine Prospektänderung nach Art. 19 Abs. 3 Bst. a und c IUG gelten folgende Voraussetzungen:\na) die Bestimmungen des Art. 18 IUG sind einzuhalten;\nb) die Prospekte dürfen hinsichtlich der Anlagepolitik und der dem Vermögen des Investmentunternehmens belasteten Kosten nicht wesentlich voneinander abweichen;\nc) die Investmentunternehmen müssen zum Zeitpunkt der Verschmelzung oder Übertragung auf der gleichen Bewertungsgrundlage bewertet werden, das Umtauschverhältnis hat festzustehen und die Aktiven und Passiven müssen übernommen werden; und\nd) dem Investmentunternehmen und den Anlegern dürfen keine direkten Kosten entstehen.\n2) Auf die Verschmelzung, Spaltung und Übertragung von Segmenten ist Abs. 1 sinngemäss anwendbar.\n3) Den Anteilsinhabern ist die Möglichkeit zur Rückgabe ihrer Anteile ohne zusätzliche Kosten in angemessener Frist einzuräumen. Ausgenommen sind die in den Prospekten vorgesehenen Kosten.\n4) Die FMA kann im Einzelfall zusätzliche Voraussetzungen festlegen oder Erleichterungen gewähren."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "15",
+      "title": "Art. 15 Verfahrensgrundsätze für die Verschmelzung, Spaltung und Vermögensübertragung",
+      "content": "1) Die Einzelheiten des Verfahrens der Verschmelzung von Investmentunternehmen werden im Prospekt festgehalten. Dieser enthält insbesondere Ausführungen über das Recht der Anleger zur Rückgabe ihrer Anteile.\n2) Die Anleger erhalten zum Zeitpunkt der Verschmelzung oder Übertragung Anteile nach Massgabe des festgelegten Umtauschverhältnisses.\n3) Bei einer Verschmelzung oder Übertragung von Investmentunternehmen sind die entsprechenden Bestimmungen des Personen- und Gesellschaftsrechts über die Liquidation nicht anwendbar.\n4) Die FMA kann einen Aufschub für die Rücknahme von Anteilen bewilligen, wenn die Verschmelzung oder die Übertragung des Vermögens mehr als einen Tag in Anspruch nimmt.\n5) Die Verwaltungsgesellschaft meldet der FMA den formellen Abschluss der Verschmelzung oder Übertragung. Der externe Wirtschaftsprüfer bestätigt der FMA den Abschluss.\n6) Die Bestimmungen dieses Artikels sind auf die Spaltung von Investmentunternehmen sinngemäss anwendbar."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "16",
+      "title": "Art. 16 Umbildung eines Investmentunternehmens in einen OGAW oder AIF",
+      "content": "Investmentunternehmen können in Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) oder in alternative Investmentfonds (AIF) umgebildet werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "17",
+      "title": "Art. 17 Grundsätze der Buchführung",
+      "content": "1) Soweit das Gesetz und diese Verordnung nichts anderes bestimmen, gelten für Investmentunternehmen die Bestimmungen über die kaufmännische Rechnungslegung (Art. 1045 ff. PGR).\n2) Aktive und passive Vermögensbestandteile sowie Aufwands- und Ertragspositionen dürfen vorbehaltlich besonderer Bestimmungen nicht miteinander verrechnet werden.\n3) Bei segmentierten Investmentunternehmen muss die Verwaltungsgesellschaft für jedes Segment gesondert Buch führen.\n4) Bei segmentierten Investmentunternehmen sind die Segmente im Geschäftsbericht einzeln und bei Anlagegesellschaften auch in aggregierter Form darzustellen, wobei die Beträge in Schweizer Franken oder in einer anderen Währung nach den massgeblichen Vorschriften des PGR anzugeben sind."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "18",
+      "title": "Art. 18 Bewertung des Vermögens und der Anteile",
+      "content": "1) Das Vermögen ist zum Verkehrswert nach Massgabe der Bewertungsvorschriften im Prospekt zu berechnen:\na) auf das Ende des Rechnungsjahres; und\nb) für jeden Tag, an dem Anteile ausgegeben oder zurückgenommen werden.\n2) Der Verkehrswert einer Sache oder eines Rechtes entspricht dem Preis, der bei sorgfältigem Verkauf im Zeitpunkt der Schätzung wahrscheinlich erzielt werden würde. Bei kotierten oder an einem geregelten, dem Publikum offen stehenden Markt gehandelten Wertpapieren oder Wertrechten entspricht er dem Kurswert.\n3) Der Nettoinventarwert eines Anteils ergibt sich aus dem Verkehrswert des Vermögens, vermindert um allfällige Schuldverpflichtungen des Investmentunternehmens sowie um die bei der Liquidation des Vermögens voraussichtlich anfallenden Steuern, dividiert durch die Anzahl der umlaufenden Anteile."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "19",
+      "title": "Art. 19 Lineare Ab- und Zuschreibung",
+      "content": "1) Bei Anlagen in Wertpapiere oder Geldmarktinstrumente mit einer Restlaufzeit von weniger als 397 Tagen kann die Differenz zwischen Einstandspreis (Erwerbspreis) und Rückzahlungspreis (Preis bei Endfälligkeit) linear ab- oder zugeschrieben werden und eine Bewertung zum aktuellen Marktpreis unterbleiben, wenn der Rückzahlungspreis bekannt und fixiert ist. Eine allfällige Anpassung aufgrund von Bonitätsveränderungen bleibt vorbehalten.\n2) Für Obligationenfonds ist die lineare Abschreibung nicht zulässig."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "20",
+      "title": "Art. 20 Kapitalgewinne und Kapitalverluste",
+      "content": "1) Gewinne und Verluste aus der Veräusserung von Sachen und Rechten, die zum Investmentunternehmen gehören, sind im Verlauf des Rechnungsjahres auf dem Konto \"Kapitalgewinne und Kapitalverluste\" der Erfolgsrechnung zu buchen.\n2) Realisierte Kapitalgewinne der Rechnungsperiode dürfen auch dann ausgeschüttet werden, wenn Kapitalverluste früherer Rechnungsjahre bestehen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "21",
+      "title": "Art. 21 Aufwertungen und Abschreibungen",
+      "content": "Aufwertungen der Anlagen zugunsten und Abschreibungen zulasten der Erfolgsrechnung sind nicht zulässig. Ausgenommen sind:\na) die linearen Abschreibungen nach Art. 19;\nb) die Aufwertung von Bauland und angefangenen Bauten durch Bauzinsen zum marktüblichen Satz, sofern dadurch die Anlagekosten des betreffenden Objekts nicht über den geschätzten Verkehrswert hinaus erhöht werden;\nc) die den Umständen angemessenen Abschreibungen auf Grundstücken; und\nd) die Abschreibung von aktivierten Gründungskosten bei der Errichtung eines Investmentunternehmens."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "22",
+      "title": "Art. 22 Jahresbericht",
+      "content": "1) Der Jahresbericht enthält zumindest nachstehende Angaben samt allfälliger Erläuterungen:\na) die Jahresrechnung, bestehend aus einer Vermögensrechnung zu Verkehrswerten und der Erfolgsrechnung, sowie die Angaben über die Verwendung des Erfolges;\nb) die Zahl der im Berichtsjahr zurückgenommenen und der neu ausgegebenen Anteile sowie den Schlussbestand der ausgegebenen Anteile;\nc) Veränderungen in der Zusammensetzung des Wertpapierbestandes während des Berichtszeitraums;\nd) die von der Verwahrstelle beauftragten Hinterlegungsstellen;\ne) die Namen der Personen, an die Anlageentscheide delegiert sind;\nf) Auskünfte über Angelegenheiten von besonderer wirtschaftlicher oder rechtlicher Bedeutung, mit denen sich die Verwaltungsgesellschaft im Berichtsjahr befasste, insbesondere über die Änderung des Prospekts oder über wesentliche Fragen der Auslegung von Gesetz und Prospekt;\ng) einen Kurzbericht des externen Wirtschaftsprüfers zu den Angaben nach Bst. a bis f;\nh) eine vergleichende Übersicht der letzten drei Geschäftsjahre über die Entwicklung des Nettovermögens und des Wertes eines Anteils; und\ni) die Kommissionen und Kosten, die laufend dem Vermögen eines Investmentunternehmens belastet werden (Ausweis der TER; Total Expense Ratio).\n2) Die Gliederung des Jahresberichts sowie weitere Inhalte ergeben sich aus Anhang 2.\n3) Die FMA kann zum Inhalt des Berichts nach Art. 20 Abs. 3 IUG ein Formular zur Verfügung stellen."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "D. Geschäftstätigkeit",
+      "section": "22a",
+      "title": "Art. 22a Regelungen zur Abwicklung eines Investmentunternehmens",
+      "content": "1) Die Regelungen im Vertrag (Art. 7 Abs. 3 IUG), Treuhandvertrag (Art. 8 Abs. 3 IUG) oder in den Anlagebedingungen (Art. 9 Abs. 4a IUG) zur Abwicklung eines Investmentunternehmens haben mindestens vorzusehen, dass die Verwaltungsgesellschaft den Beschluss über die Abwicklung eines Investmentunternehmens oder eines Teilfonds:\na) den Anlegern unverzüglich, mindestens aber 30 Tage vor dem Beginn der Abwicklung mitteilt; und\nb) der FMA unverzüglich nach Mitteilung an die Anleger mitteilt; gleichzeitig ist bei der FMA eine Kopie der Anlegerinformation einzureichen.\n2) Sofern die Dokumente nach Abs. 1 keine hinreichend konkreten Regelungen zur Abwicklung enthalten, gilt Art. 28 Abs. 1 sinngemäss.\nIII. Verwaltungsgesellschaft"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "III. Verwaltungsgesellschaft",
+      "section": "23",
+      "title": "Art. 23 Antragsunterlagen",
+      "content": "1) Der Antrag für eine Bewilligung als Verwaltungsgesellschaft muss die gesetzlichen Bewilligungsvoraussetzungen dokumentieren. Der Antrag hat insbesondere folgende Angaben und Unterlagen zu enthalten:\na) die Statuten der Verwaltungsgesellschaft;\nb) die personelle Zusammensetzung des Verwaltungsrats und der Geschäftsleitung der Verwaltungsgesellschaft;\nc) einen Geschäftsplan (Businessplan);\nd) Dokumente zum Nachweis der Gewähr für die einwandfreie Geschäftstätigkeit der mit der Verwaltung und Geschäftsleitung der Verwaltungsgesellschaft betrauten Personen nach Art. 31 und 32 IUG, insbesondere:\n1. dokumentierte Lebensläufe;\n2. aktuelle Strafregisterauszüge;\n3. Angaben über allfällige Straf- und Verwaltungsstrafverfahren sowie über Exekutions- und Konkursverfahren, sofern dadurch die Ausübung der jeweiligen Funktion beeinträchtigt wird, sowie die Verpflichtung, Änderungen diesbezüglich zu melden;\n4. Annahmeerklärungen der mit der Verwaltung betrauten Personen der Verwaltungsgesellschaft; und\n5. Firmenzeichnungserklärungen der mit der Geschäftsleitung und Verwaltung betrauten Personen der Verwaltungsgesellschaft;\ne) der Name des Wirtschaftsprüfers sowie dessen Erklärung, die bestätigt, dass:\n1. er das Mandat als externer Wirtschaftsprüfer annimmt; und\n2. die überprüften Dokumente Gesetz und Verordnung entsprechen;\nf) die Benennung der Gründer (zur Gründung einer Aktiengesellschaft bedarf es mindestens zweier Aktionäre);\ng) die im Einzelfall gemäss Wegleitung notwendigen Verträge;\nh) das Organisations- und Geschäftsreglement der Verwaltungsgesellschaft, welches die Aufgabenteilung zwischen Verwaltungsrat und Geschäftsleitung regelt;\ni) eine Bestätigung des Amtes für Justiz, dass die Eintragungsfähigkeit des Namens gegeben ist; und\nk) eine Erklärung über die Kenntnis und Einhaltung der Wohlverhaltensregeln.\n2) Die FMA regelt das Nähere über die Einreichung der Antragsunterlagen nach Abs. 1 in Wegleitungen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "III. Verwaltungsgesellschaft",
+      "section": "24",
+      "title": "Art. 24 Qualifizierte Beteiligungen",
+      "content": "1) Die Absicht, eine qualifizierte Beteiligung im Sinne von Art. 25 Abs. 1 IUG zu erwerben, zu erhöhen oder zu veräussern, liegt vor, wenn ein verbindliches Angebot oder ein endgültiger Beschluss der Geschäftsleitung oder des Verwaltungsrats zum Erwerb, zur Erhöhung oder zur Veräusserung gefasst wurde. Der jeweils frühere Zeitpunkt ist massgeblich.\n2) Das Verfahren und die Kriterien zur Beurteilung des Erwerbs, der Erhöhung oder der Veräusserung qualifizierter Beteiligungen richten sich sinngemäss nach Art. 10b und 10c VVG."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "III. Verwaltungsgesellschaft",
+      "section": "25",
+      "title": "Art. 25 Meldepflichten",
+      "content": "Eine Änderung der Besitzverhältnisse nach Art. 28 Abs. 1 Bst. c IUG ist der FMA unverzüglich unter Beifügung insbesondere folgender Angaben und Unterlagen mitzuteilen:\na) Benennung der qualifiziert Beteiligten und Aufschlüsselung der Besitzverhältnisse an der Verwaltungsgesellschaft;\nb) Dokumente zum Nachweis der Gewähr der Zuverlässigkeit der qualifiziert Beteiligten, insbesondere aktuelle Lebensläufe und aktuelle Strafregisterauszüge."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "III. Verwaltungsgesellschaft",
+      "section": "26",
+      "title": "Art. 26 Wohlverhaltensregeln (Code of Conduct)",
+      "content": "1) Die Verwaltungsgesellschaft bestätigt, dass sie die Wohlverhaltensregeln kennt und einhalten wird.\n2) Die FMA erlässt Wohlverhaltensregeln, die zumindest folgende Grundsätze enthalten:\na) die Verwaltungsgesellschaft muss ihre Aufgaben nach Art. 33 IUG nach Recht und Billigkeit sowie mit der gebotenen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit im besten Interesse des Anlegers und der Marktintegrität ausüben;\nb) das Investmentunternehmen muss über die für eine ordnungsgemässe Geschäftstätigkeit erforderlichen Mittel und Verfahren verfügen und diese wirksam einsetzen; und\nc) die Verwaltungsgesellschaft muss sich um die Vermeidung von Interessenkonflikten bemühen. Sollte sich ein Interessenkonflikt dennoch nicht vermeiden lassen, muss sie dafür sorgen, dass die von ihr verwalteten Investmentunternehmen nach Recht und Billigkeit behandelt werden.\n3) Die FMA kann geeignete Massnahmen zur Durchsetzung der Wohlverhaltensregeln nach Abs. 2 ergreifen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "III. Verwaltungsgesellschaft",
+      "section": "27",
+      "title": "Art. 27 Delegation",
+      "content": "1) Jede Delegation von Aufgaben nach Art. 34 IUG ist im Prospekt anzuführen.\n2) Bei Investmentunternehmen für Einanleger kann die Verwaltungsgesellschaft die Anlageentscheide an den Einanleger delegieren, sofern es sich beim Einanleger um einen der folgenden qualifizierten Anleger handelt:\na) ein beaufsichtigtes Versicherungsunternehmen; oder\nb) eine Vorsorgeeinrichtung mit professioneller Tresorerie. Professionelle Tresorerie liegt vor, wenn mindestens eine fachlich ausgewiesene und im Finanzbereich erfahrene Person damit betraut ist, die Anlageentscheide zu treffen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "III. Verwaltungsgesellschaft",
+      "section": "28",
+      "title": "Art. 28 Auflösung und Liquidation, Fortsetzung der Verwaltungsgesellschaft",
+      "content": "1) Soweit im IUG nichts anderes bestimmt wird und die FMA zum Schutz der Anleger kein anderes Verfahren anordnet, richten sich die Auflösung und Liquidation (Art. 39 und 41 IUG) nach den Bestimmungen des PGR. Der Liquidator muss fachlich geeignet sein oder eine fachlich geeignete Person beiziehen.\n2) Mit Zustimmung der FMA kann die nach Art. 39 Abs. 1 IUG aufgelöste Verwaltungsgesellschaft die Fortsetzung ihrer Geschäftstätigkeit mit einem anderen Gesellschaftszweck beschliessen. Der Fortsetzungsbeschluss kann auch so gefasst werden, dass er zusammen mit der Auflösung nach Art. 39 Abs. 1 IUG wirksam wird.\n3) Eine Verwaltungsgesellschaft kann auf die Bewilligung erst verzichten, wenn sie keine Investmentunternehmen mehr verwaltet.\nIV. Verwahrstelle"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "IV. Verwahrstelle",
+      "section": "29",
+      "title": "Art. 29 Verwahrstellenvertrag",
+      "content": "1) Der Verwahrstellenvertrag nach Art. 42 Abs. 1 IUG zwischen der Verwahrstelle einerseits und der Verwaltungsgesellschaft andererseits enthält insbesondere folgende Elemente:\na) eine Beschreibung der Schnittstellen, der Verantwortlichkeiten, des Überwachungsablaufs hinsichtlich der Einhaltung der gesetzlichen und vertraglichen Bestimmungen, der Gebühren sowie der gegenseitigen Informationspflichten;\nb) Laufzeit und Bedingungen für Änderungen und die Kündigung des Vertrages einschliesslich einer Beschreibung der Situationen, die zur Kündigung des Vertrages führen können, und der Einzelheiten des Kündigungsverfahrens sowie gegebenenfalls der Verfahren zur Übermittlung der relevanten Informationen durch die Verwahrstelle an ihre Nachfolgerin;\nc) die gemäss einschlägigen Rechts- und Verwaltungsvorschriften für die Vertragsparteien geltenden Geheimhaltungspflichten. Diese Pflichten dürfen den Zugang der FMA zu relevanten Unterlagen und Informationen nicht beeinträchtigen.\n2) Änderungen des Vertrages nach Abs. 1 erfolgen in schriftlicher Form.\n3) Die Parteien können sich darauf einigen, die zwischen ihnen ausgetauschten Informationen ganz oder teilweise elektronisch zu übermitteln, sofern eine ordnungsgemässe Aufzeichnung dieser Informationen gewährleistet ist.\n4) Es besteht keine Verpflichtung, für jedes Investmentunternehmen einen eigenen schriftlichen Vertrag zu schliessen; die Verwaltungsgesellschaft und die Verwahrstelle können in einem Rahmenvertrag alle von der betreffenden Verwaltungsgesellschaft verwalteten Investmentunternehmen auflisten, für die der Vertrag gilt.\nV. Anlagepolitik"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "V. Anlagepolitik",
+      "section": "30",
+      "title": "Art. 30 Anlagen",
+      "content": "Im Prospekt genannte Anlagen, die nicht an einem geregelten Markt gehandelt werden oder für die kein Kurs erhältlich ist, müssen zu dem Preis bewertet werden, der bei einem Verkauf zum Zeitpunkt der Bewertung wahrscheinlich erzielt würde."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "V. Anlagepolitik",
+      "section": "31",
+      "title": "Art. 31 Abweichung von Anlagevorschriften",
+      "content": "1) Die Anlagevorschriften müssen von einem Investmentunternehmen während der ersten sechs Monate ab dem Datum der Erstliberierung nicht eingehalten werden.\n2) Stellt die Verwaltungsgesellschaft, die Verwahrstelle oder der externe Wirtschaftsprüfer eine unbeabsichtigte oder aufgrund der Ausübung von Bezugsrechten eingetretene Abweichung von den Anlagevorschriften fest, so ist als vorrangiges Ziel die Normalisierung dieser Lage unter Berücksichtigung der Interessen der Anleger anzustreben."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "V. Anlagepolitik",
+      "section": "32",
+      "title": "Art. 32 Wertpapierleihe und Pensionsgeschäft",
+      "content": "1) Wertpapierleihe und Pensionsgeschäfte sind zulässig. Die Verwaltungsgesellschaft regelt das Vorgehen beim Abschluss einer Wertpapierleihe oder eines Pensionsgeschäfts sowie deren Kontrolle in einer Richtlinie.\n2) Die Verwahrstelle haftet für die marktkonforme und fachlich qualifizierte Abwicklung der Wertpapierleihe und des Pensionsgeschäfts.\n3) Banken, Wertpapierfirmen, Kreditinstitute, Finanzdienstleistungsinstitute, Versicherungsunternehmen und Clearing-Organisationen dürfen bei der Wertpapierleihe als Entleiher herangezogen werden, sofern sie auf die Wertpapierleihe spezialisiert sind und Sicherheiten leisten, die dem Umfang und dem Risiko der beabsichtigten Geschäfte entsprechen. Unter den gleichen Bedingungen darf das Pensionsgeschäft mit den genannten Instituten abgewickelt werden.\n4) Die Wertpapierleihe und das Pensionsgeschäft sind in einem standardisierten Rahmenvertrag zu regeln.\n5) Ausgeliehene Wertschriften sind bei der Einhaltung der Anlagevorschriften weiterhin zu berücksichtigen.\n6) Aus Pensionsgeschäften stammende Wertpapiere dürfen weder ausgeliehen, verkauft noch als Deckung für derivative Finanzinstrumente verwendet werden.\n7) Die Verwaltungsgesellschaft informiert in den periodischen Berichten des Investmentunternehmens über Art und Umfang der zum Stichtag des jeweiligen Berichts ausgeliehenen Wertschriften sowie über die Höhe der durch die Wertschriftenleihe vereinnahmten Kommissionen und die getätigten Pensionsgeschäfte.\n8) Die FMA kann Richtlinien über die Wertpapierleihe und das Pensionsgeschäft erlassen.\nVI. Anlegerrechte"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VI. Anlegerrechte",
+      "section": "33",
+      "title": "Art. 33 Ausnahme vom Recht auf jederzeitige Kündigung",
+      "content": "1) Der Prospekt kann bei Investmentunternehmen, deren Anlagen beschränkt marktgängig oder erschwert bewertbar sind, vorsehen, dass die Kündigung nur auf bestimmte Termine, jedoch mindestens einmal im Jahr, erklärt werden kann.\n2) Die FMA kann auf Antrag einer Verwaltungsgesellschaft in begründeten Einzelfällen je nach Art der Anlagen zusätzliche Kündigungstermine oder die Verkürzung der Auszahlungsfrist zulassen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VI. Anlegerrechte",
+      "section": "34",
+      "title": "Art. 34 Aufschub der Rückzahlung durch die Verwaltung",
+      "content": "1) Der Prospekt kann vorsehen, dass bei ausserordentlichen Verhältnissen die Rückzahlung unter gleichzeitiger Aussetzung der Ausgabe von Anteilen vorübergehend und ausnahmsweise von der Verwaltungsgesellschaft aufgeschoben werden kann:\na) wenn ein Markt, welcher Grundlage für die Bewertung eines wesentlichen Teils des Vermögens bildet, unerwartet geschlossen ist, oder wenn der Handel an einem solchen Markt beschränkt oder ausgesetzt ist;\nb) bei politischen, wirtschaftlichen oder anderen Notfällen; oder\nc) wenn wegen Beschränkungen der Übertragung von Vermögenswerten Geschäfte für das Investmentunternehmen undurchführbar werden.\n2) Die Verwaltungsgesellschaft teilt den Aufschub unverzüglich der FMA, dem externen Wirtschaftsprüfer und in geeigneter Weise den Anlegern mit.\n3) Ist eine ordnungsgemässe Bewertung des Vermögens nicht möglich, hat die Verwaltungsgesellschaft unverzüglich die FMA zu informieren und Vorschläge über geeignete Massnahmen zu unterbreiten.\nVII. Wirtschaftsprüfer"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "35",
+      "title": "Art. 35 Qualifikation des Wirtschaftsprüfers",
+      "content": "1) Wirtschaftsprüfer sind nach Art. 61 Abs. 5 IUG qualifiziert, wenn sie über die für die Prüfung der Anlageverwaltung der Verwaltungsgesellschaft erforderlichen Kenntnisse verfügen und aufgrund ihrer Betriebsorganisation eine sachgemässe und dauernde Erfüllung der Prüfungs- und Berichtstätigkeiten - insbesondere durch angemessene Vertretungsregeln - gewährleisten.\n2) Wirtschaftsprüfer im Sinne des Gesetzes oder dieser Verordnung sind auch nach dem Wirtschaftsprüfergesetz bewilligte oder registrierte Wirtschaftsprüfungsgesellschaften."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "36",
+      "title": "Art. 36 Nachweis der Qualifikation",
+      "content": "1) Der Wirtschaftsprüfer hat der FMA gegenüber den Nachweis für seine Qualifikation zu erbringen.\n2) Die FMA veröffentlicht auf ihrer Internetseite eine Liste der Wirtschaftsprüfer, die im Sinne von Art. 61 Abs. 5 IUG und Art. 35 dieser Verordnung qualifiziert sind."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "37",
+      "title": "Art. 37 Vorgaben zur Prüfung",
+      "content": "1) Die FMA kann nach Anhörung der Liechtensteinischen Wirtschaftsprüfervereinigung verbindliche Prüfungsformulare für Investmentunternehmen und deren Verwaltungsgesellschaften bereitstellen.\n2) Die FMA kann den Grundsatz der risikoorientierten Prüfung sowie Form und Inhalt des jährlichen Prüfungsberichts durch Richtlinien konkretisieren."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "38",
+      "title": "Art. 38 Pflichten der Wirtschaftsprüfer",
+      "content": "1) Die Honorareinnahmen aus einem Prüfungsmandat dürfen im Durchschnitt nicht mehr als 20 % der gesamten jährlichen Honorareinnahmen des Wirtschaftsprüfers ausmachen. Prüfungsmandate aller Organismen für die gemeinsamen Anlagen, die von derselben Verwaltungsgesellschaft verwaltet werden, gelten als ein einziges Prüfungsmandat.\n2) Die Wirtschaftsprüfer sind verpflichtet:\na) der FMA jede Änderung der Statuten und Reglemente sowie jede personelle Änderung in der Zusammensetzung ihrer Organe und der leitenden Wirtschaftsprüfer zu melden;\nb) die Prüfungsleitung nur Wirtschaftsprüfern anzuvertrauen, die der FMA gemeldet wurden und die erforderlichen Voraussetzungen erfüllen;\nc) den Mandatsleiter und den leitenden Wirtschaftsprüfer der FMA vor Prüfungsbeginn zu melden; und\nd) der FMA alljährlich den Geschäftsbericht einzureichen.\n3) Die FMA kann über die Gründe des Ausscheidens von Mitgliedern der Geschäftsleitung und den der FMA gemeldeten leitenden Wirtschaftsprüfern Auskunft verlangen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "39",
+      "title": "Art. 39 Wechsel des Wirtschaftsprüfers",
+      "content": "1) Die Verwaltungsgesellschaft hat den Wechsel des Wirtschaftsprüfers sechs Wochen vor Wirksamkeit schriftlich begründet anzuzeigen.\n2) Die Anzeige nach Abs. 1 ist vom bisherigen Wirtschaftsprüfer mit zu unterzeichnen. Können sich Verwaltungsgesellschaft und Wirtschaftsprüfer über den Grund für den Wechsel nicht einigen, hat der bisherige Wirtschaftsprüfer eine eigene Anzeige nach Abs. 1 zu machen.\n3) Der Wechsel des Wirtschaftsprüfers ist im Zeitpunkt des Wirksamwerdens von der Verwaltungsgesellschaft im Publikationsorgan zu veröffentlichen. Dabei sind die Anleger darauf hinzuweisen, dass sie die Rückgabe ihrer Anteile verlangen können.\n4) Entfällt die Qualifikation des Wirtschaftsprüfers oder wird einem Wirtschaftsprüfer die Zulassung entzogen, hat die Verwaltungsgesellschaft unverzüglich, spätestens binnen eines Monats, einen neuen Wirtschaftsprüfer zu bestellen. In Ausnahmefällen kann die FMA auf Antrag diese Frist angemessen verlängern. Der FMA ist die Bestellung des neuen Wirtschaftsprüfers binnen einer Woche nach Beauftragung mitzuteilen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "40",
+      "title": "Art. 40 Zwischenprüfung der Verwaltungsgesellschaft und des Investmentunternehmens",
+      "content": "1) Der Wirtschaftsprüfer führt im Laufe des Rechnungsjahres mindestens eine unangemeldete Zwischenprüfung bei der Verwaltungsgesellschaft durch.\n2) Anlässlich der Zwischenprüfung der Verwaltungsgesellschaft prüft der Wirtschaftsprüfer unter Beachtung des risikobasierten Ansatzes insbesondere die Einhaltung:\na) der Bewilligungsvoraussetzungen;\nb) der Vorschriften zu den internen Kontrollmechanismen;\nc) der Wohlverhaltensregeln; sowie\nd) der Vorschriften zur Delegation und damit verbundener Pflichten der Verwaltungsgesellschaft.\n3) Anlässlich der Zwischenprüfung des Investmentunternehmens prüft der Wirtschaftsprüfer insbesondere, ob:\na) die Buchhaltung ordnungsgemäss geführt wird;\nb) der Gegenwert der neu ausgegebenen Anteile dem Vermögen des Investmentunternehmens zugeflossen ist;\nc) die Bewertung des Vermögens, die Berechnung der Ausgabe- und Rücknahmepreise sowie die Ausgabe und Rücknahme von Anteilen den Vorschriften des Gesetzes und dem Prospekt entsprechen;\nd) die das Vermögen bildenden Vermögenswerte vollständig erhalten sind;\ne) die Anlagevorschriften eingehalten werden;\nf) allfällige unbelehnte Schuldbriefe von der Verwahrstelle aufbewahrt werden.\n4) Die FMA ist berechtigt, weitere Prüfungsschwerpunkte festzulegen.\n5) Über das Ergebnis der Zwischenprüfung ist im jährlichen Prüfungsbericht zu berichten.\n6) Stellt der Wirtschaftsprüfer anlässlich der Zwischenprüfung schwere Verstösse oder Missstände fest, benachrichtigt er unverzüglich die FMA und übermittelt ihr innert 30 Tagen einen Bericht über die Zwischenprüfung."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "41",
+      "title": "Art. 41 Bestellung des Wirtschaftsprüfers für Verwaltungsgesellschaften nach IUG mit einer Zulassung als Verwaltungsgesellschaft nach UCITSG oder als AIFM nach AIFMG",
+      "content": "Eine Verwaltungsgesellschaft hat für Tätigkeiten nach dem IUG, dem UCITSG oder dem AIFMG denselben Wirtschaftsprüfer zu bestellen."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "42",
+      "title": "Art. 42 Anzeigepflichten",
+      "content": "Anzeigen im Sinne von Art. 52 Abs. 1 IUG sind innerhalb von drei Arbeitstagen ab der Verifizierung des Sachverhalts bei der FMA zu erstatten."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "VII. Wirtschaftsprüfer",
+      "section": "43",
+      "title": "Art. 43 Prüfungsberichte",
+      "content": "1) Die Prüfungsberichte sind die vertraulichen, ausführlichen Berichte des Wirtschaftsprüfers über die aufsichtsrechtliche Prüfung der Verwaltungsgesellschaft und der von ihr verwalteten Investmentunternehmen. Sie sind nicht zu veröffentlichen.\n2) Der Prüfungsbericht muss auf alle der Verwaltungsgesellschaft und der von ihr verwalteten Investmentunternehmen schriftlich und mündlich erteilten Informationen und Hinweise mit Bezug zu Beanstandungen und rechtlichen Zweifeln eingehen.\n3) Der Prüfungsbericht für die Verwaltungsgesellschaft hat über die Angaben im Jahresbericht hinaus zumindest zu enthalten:\na) Angaben über die dauernde Einhaltung der Bewilligungsvoraussetzungen nach Art. 23 IUG;\nb) Angaben über die Einhaltung der Pflichten der Verwaltungsgesellschaft nach Art. 24 bis 35 IUG; und\nc) die Ergebnisse der Zwischenprüfung der Verwaltungsgesellschaft nach Art. 40.\n4) Der Prüfungsbericht für das Investmentunternehmen hat über die Angaben im Jahresbericht hinaus zumindest zu enthalten:\na) Angaben über die dauernde Einhaltung der Bestimmungen zur Anlagepolitik nach Art. 44 und 45 IUG; und\nb) die Ergebnisse der Zwischenprüfung des Investmentunternehmens nach Art. 40.\n5) Sofern der Wirtschaftsprüfer der Verwaltungsgesellschaft und des Investmentunternehmens identisch sind, dürfen Prüfungsberichte über die Verwaltungsgesellschaft und solche über das Investmentunternehmen zusammengefasst werden. Die Ausführungen über die Verwaltungsgesellschaft und über das Investmentunternehmen sind in getrennten Abschnitten eines Prüfungsberichts aufzuführen. Der Prüfungsbericht über das Investmentunternehmen darf sich auf die Angaben im Prüfungsbericht über die Verwaltungsgesellschaft beziehen.\n6) Die Prüfungsberichte nach dem IUG, UCITSG und AIFMG dürfen zusammengefasst werden. Im Übrigen gilt Abs. 5 entsprechend.\nVIII. Aufsicht"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "VIII. Aufsicht",
+      "section": "44",
+      "title": "Art. 44 Verzeichnisse",
+      "content": "1) Die FMA erstellt jeweils ein gesondertes Verzeichnis über die in Liechtenstein bewilligten:\na) Investmentunternehmen;\nb) Verwaltungsgesellschaften; und\nc) Verwahrstellen.\n2) Die Verzeichnisse werden Interessenten in geeigneter Weise zur Verfügung gestellt."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "VIII. Aufsicht",
+      "section": "45",
+      "title": "Art. 45 Ausserordentliche Prüfungen",
+      "content": "1) Die FMA kann für die Durchführung einer ausserordentlichen Prüfung im Sinne von Art. 61 Abs. 4 Bst. e IUG einen qualifizierten Wirtschaftsprüfer nach Art. 61 Abs. 5 IUG iVm Art. 35 dieser Verordnung beauftragen.\n2) Die FMA kann von der Verwaltungsgesellschaft oder vom Investmentunternehmen einen Kostenvorschuss verlangen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "VIII. Aufsicht",
+      "section": "46",
+      "title": "Art. 46 Halbjahresbericht in Bezug auf die Verwaltungsgesellschaft",
+      "content": "Verwaltungsgesellschaften haben halbjährlich einen Bericht nach Massgabe des von der FMA zur Verfügung gestellten Formulars zu erstellen und diesen jeweils innerhalb von zwei Monaten nach dem entsprechenden Stichtag bei der FMA einzureichen.\nIX. Aussergerichtliche Streitbeilegung"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "IX. Aussergerichtliche Streitbeilegung",
+      "section": "47",
+      "title": "Art. 47 Aussergerichtliche Schlichtungsstelle",
+      "content": "Auf die aussergerichtliche Schlichtungsstelle finden die Bestimmungen der Finanzdienstleistungs-Schlichtungsstellen-Verordnung Anwendung.\nX. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "X. Schlussbestimmungen",
+      "section": "48",
+      "title": "Art. 48 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Verordnung vom 23. August 2005 über Investmentunternehmen für andere Werte oder Immobilien (Investmentunternehmensverordnung; IUV), LGBl. 2005 Nr. 179;\nb) Verordnung vom 20. Dezember 2005 betreffend die Abänderung der Verordnung über Investmentunternehmen (IUV), LGBl. 2005 Nr. 290;\nc) Verordnung vom 16. Dezember 2008 betreffend die Abänderung der Verordnung über Investmentunternehmen, LGBl. 2008 Nr. 367;\nd) Verordnung vom 29. September 2009 über die Abänderung der Investmentunternehmensverordnung, LGBl. 2009 Nr. 257;\ne) Verordnung vom 9. Dezember 2009 betreffend die Abänderung der Verordnung über Investmentunternehmen, LGBl. 2009 Nr. 317;\nf) Verordnung vom 5. Juli 2011 betreffend die Abänderung der Verordnung über Investmentunternehmen, LGBl. 2011 Nr. 313."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "X. Schlussbestimmungen",
+      "section": "49",
+      "title": "Art. 49 Inkrafttreten",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Beschluss des Gemeinsamen EWR-Ausschusses betreffend die Übernahme der Richtlinie 2011/61/EU in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\nAnhang 1\n(Art. 13 Abs. 1)\nMindestinhalt des Prospekts für ein Investmentunternehmen\nDer Prospekt für ein Investmentunternehmen beinhaltet mindestens:\n1. Allgemeine Informationen über das Investmentunternehmen\n1.1 Gründungsurkunde und Gründungsdatum;\n1.2 Sitzstaat;\n1.3 Hinweis, wenn nur ein einziges Segment vorliegt; gegebenenfalls Hinweis auf verschiedene Segmente;\n1.4 Name der Verwaltungsgesellschaft;\n1.5 sämtliche Delegationen;\n1.6 Laufzeitdauer bei Investmentunternehmen mit bestimmter Laufzeit;\n1.7 Ausführungen über die Ausgabe und/oder Rücknahme von Anteilen;\n1.8 Name der Verwahrstelle;\n1.9 Name des externen Wirtschaftsprüfers.\n2. Festlegung der Kategorie des Investmentunternehmens - Kreis der qualifizierten Anleger\n3. Anlageinformationen\n3.1 Definition der Anlageziele, der Anlagepolitik bzw. -strategie und deren Beschränkungen, der zulässigen Anlagetechnik und Instrumente, insbesondere die Verwendung von derivativen Finanzinstrumenten und die Kreditaufnahme sowie deren Umfang;\n3.2 Profil des typischen Anlegers.\n4. Wirtschaftliche Informationen über das Investmentunternehmen\n4.1 Hinweis auf die für den Anleger relevanten Steuervorschriften (einschliesslich mögliche Abzüge auf Erträge);\n4.2 Angaben über die Ausgabe- und Rücknahmegebühren;\n4.3 Angaben über die Konversionsgebühren zwischen den verschiedenen Segmenten eines Investmentunternehmens;\n4.4 Angaben über die weiteren Kosten, aufgeschlüsselt nach denjenigen, die vom Anleger oder vom Investmentunternehmen zu entrichten sind, Hinweis auf die TER.\n5. Informationen über die Zeichnung und den Erwerb der Anteile des Investmentunternehmens\n5.1 Angabe über die Zeichnung und den Erwerb sowie die Ausgabe und Rücknahme von Anteilen;\n5.2 Angaben darüber, über welche Stellen die Anteile gezeichnet werden können;\n5.3 Art der Gewinnverwendung, gegebenenfalls Termin, Art und Weise einer Ausschüttung.\n6. Zusätzliche Informationen\n6.1 Hinweis darauf, wo auf Anfrage der Prospekt und die Jahresberichte erhältlich sind;\n6.2 Zuständige Aufsichtsbehörde;\n6.3 Angabe einer Kontaktstelle, bei der gegebenenfalls weitere Auskünfte eingeholt werden können;\n6.4 Datum der Bescheinigung nach Art. 17 Abs. 2 IUG.\nAnhang 2\n(Art. 22 Abs. 2)\nGliederung des Jahresberichts\nA. Allgemeines\nInvestmentunternehmen erstellen einen Jahresbericht nach den folgenden Gliederungen. Die nachfolgenden Vorschriften gelten für die übrigen zulässigen Anlagen entsprechend mit der Massgabe, dass für jede wesentliche Anlageklasse ein eigener Gliederungspunkt zu verwenden ist.\nB. Jahresbericht\nI. Jahresrechnung\n1. Vermögensrechnung\nDie Vermögensrechnung ist mindestens zu gliedern in:\n1.1 Bankguthaben (einschliesslich Treuhandanlagen bei Drittbanken), aufgeteilt in:\n1.1.1 Sichtguthaben;\n1.1.2 Zeitguthaben;\n1.2 Geldmarktinstrumente;\n1.3 Wertpapiere (einschliesslich ausgeliehene Wertpapiere);\n1.4 andere Wertpapiere und Wertrechte;\n1.5 sonstige, den Wertpapieren gleichgestellte Rechte;\n1.6 derivative Finanzinstrumente;\n1.7 sonstige Vermögenswerte;\n1.8 Gesamtvermögen;\n1.9 Verbindlichkeiten;\n1.10 Nettovermögen;\n1.11 Anzahl Anteile im Umlauf;\n1.12 Nettoinventarwert pro Anteil.\n2. Ausserbilanzgeschäfte (sofern anwendbar)\nDie Ausserbilanzgeschäfte sind mindestens zu gliedern in:\n2.1 Angaben über das Volumen der am Bilanzstichtag offenen Kontrakte in derivativen Finanzinstrumenten, aufgeteilt nach Geschäftsarten;\n2.2 Angaben über die flüssigen Mittel, welche durch am Bilanzstichtag offene Kontrakte in derivativen Finanzinstrumenten gebunden sind;\n2.3 Angaben über die Basiswerte, welche durch am Bilanzstichtag offene Kontrakte gebunden sind;\n2.4 Angaben über die Summe der am Bilanzstichtag aufgenommenen Kredite;\n2.5 Angaben über die Belastung am Bilanzstichtag des Vermögens einschliesslich Margendepots für Kontrakte in derivativen Finanzinstrumenten;\n2.6 Angaben über Art und Umfang der am Bilanzstichtag ausgeliehenen Wertpapiere und die Höhe der durch die Wertschriftenleihe im Rechnungsjahr vereinnahmten Kommissionen.\n3. Erfolgsrechnung\nDie Erfolgsrechnung ist mindestens zu gliedern in:\n3.1 Erträge der Bankguthaben;\n3.2 Erträge der Geldmarktinstrumente;\n3.3 Erträge der Wertpapiere, aufgeteilt in:\n3.3.1 Obligationen, Wandelobligationen, Optionsanleihen;\n3.3.2 Aktien und sonstige Beteiligungspapiere einschliesslich Erträge aus Gratisaktien;\n3.3.3 Anteile anderer Investmentunternehmen/Fonds;\n3.4 Erträge der anderen Wertpapiere und Wertrechte;\n3.5 Erträge der sonstigen, den Wertpapieren gleichgestellten Rechte;\n3.6 Erträge der derivativen Finanzinstrumente;\n3.7 sonstige Erträge;\n3.8 Einkauf in laufende Erträge bei der Ausgabe von Anteilen;\n3.9 Total Erträge;\n3.10 Passivzinsen;\n3.11 Revisionsaufwand;\n3.12 reglementarische Vergütung an die Verwaltungsgesellschaft;\n3.13 reglementarische Vergütung an die Depotbank;\n3.14 sonstige Aufwendungen;\n3.15 Ausrichtung laufender Erträge bei der Rücknahme von Anteilen;\n3.16 Nettoertrag;\n3.17 realisierte Kapitalgewinne und Kapitalverluste;\n3.18 realisierter Erfolg;\n3.19 nicht realisierte Kapitalgewinne und Kapitalverluste;\n3.20 Gesamterfolg.\n4. Verwendung des Erfolgs\nDie Aufstellung über die Verwendung des Erfolgs ist mindestens zu gliedern in:\n4.1 Nettoertrag des Rechnungsjahres;\n4.2 zur Ausschüttung bestimmte Kapitalgewinne des Rechnungsjahres;\n4.3 zur Ausschüttung bestimmte Kapitalgewinne früherer Rechnungsjahre;\n4.4 Vortrag des Vorjahres;\n4.5 zur Verteilung verfügbarer Erfolg;\n4.6 zur Ausschüttung an die Anleger vorgesehener Erfolg;\n4.7 zur Wiederanlage zurückbehaltener Erfolg;\n4.8 Vortrag auf neue Rechnung.\n5. Veränderung des Nettovermögens\nFür jedes Investmentunternehmen ist eine Aufstellung über die Veränderung des Nettovermögens zu erstellen, die mindestens zu gliedern ist in:\n5.1 Nettovermögen zu Beginn des Berichtsjahres;\n5.2 Ausschüttungen;\n5.3 Saldo aus dem Anteilverkehr;\n5.4 Gesamterfolg;\n5.5 Nettovermögen am Ende des Berichtsjahres.\nII. Sonstige Informationen\n6. Anzahl Anteile im Umlauf\n6.1 Anzahl Anteile zu Beginn der Periode;\n6.2 neu ausgegebene Anteile;\n6.3 zurückgenommene Anteile;\n6.4 Anzahl Anteile am Ende der Periode.\n7. Entwicklung des Nettoinventarwertes (über drei Jahre)\n7.1 Nettofondsvermögen;\n7.2 Anzahl Anteile im Umlauf;\n7.3 Nettoinventarwert pro Anteil;\n7.4 Nettoinventarwert zu Beginn der Periode;\n7.5 prozentuale Veränderung.\n8. Vermögensinventar\nDas Investmentunternehmen hat im Jahresbericht das Vermögensinventar per Stichtag zu veröffentlichen. Dabei sind die einzelnen Vermögensgegenstände genau zu bezeichnen.\n9. Ergänzende Angaben\n9.1 von der Depotbank beauftragte Hinterlegungsstellen;\n9.2 Namen der Personen, an die Aufgaben delegiert sind;\n9.3 Auskünfte über Angelegenheiten von besonderer wirtschaftlicher oder rechtlicher Bedeutung, mit denen sich die Verwaltungsgesellschaft im Berichtsjahr befasste, insbesondere über die Änderung des vollständigen und des vereinfachten Prospekts oder über wesentliche Fragen der Auslegung von Gesetz und vollständigem Prospekt;\n9.4 Ausweis der TER.\n10. Kurzbericht des externen Wirtschaftsprüfers (Testat)\nAusführungen zu den vorstehenden Angaben.\n1\nIngress abgeändert durch LGBl. 2020 Nr. 26 .\n2\nArt. 9 abgeändert durch LGBl. 2020 Nr. 26 .\n3\nArt. 22a eingefügt durch LGBl. 2020 Nr. 26 .\n4\nArt. 24 Abs. 2 abgeändert durch LGBl. 2022 Nr. 135 .\n5\nArt. 35 Abs. 2 abgeändert durch LGBl. 2020 Nr. 483 .\n6\nInkrafttreten: 1. Oktober 2016 ( LGBl. 2016 Nr. 305 )."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Einanleger",
+      "definition": "eine natürliche oder juristische Person, die ein qualifizierter Anleger im Sinne von Art. 4 Abs. 1 Bst. a oder b IUG ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Familie",
+      "definition": "ein oder mehrere Familienmitglieder;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Familienmitglieder",
+      "definition": "Ehegatten, eingetragene Partner, faktische Lebenspartner und nahe Angehörige, wie Eltern, Geschwister, Kinder, Neffen, Nichten und Enkel, Onkel und Tanten, Cousinen und Cousins ersten Grades, sowie die jeweiligen Hinterbliebenen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Interessengemeinschaft",
+      "definition": "eine vor Bescheinigung des Investmentunternehmens (Art. 17 IUG) bestehende Gruppe von natürlichen oder juristischen Personen und deren Erben bzw. Rechtsnachfolger, wobei jede natürliche oder juristische Person ein qualifizierter Anleger im Sinne von Art. 4 Abs. 1 Bst. a oder b IUG ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Konzern",
+      "definition": "eine Unternehmensgruppe mit einem Mutterunternehmen, das ein oder mehrere Tochterunternehmen unmittelbar oder mittelbar kontrolliert und zur konsolidierten Rechnungslegung verpflichtet ist; jedes Tochterunternehmen eines Tochterunternehmens wird auch als Tochterunternehmen eines Mutterunternehmens, das an der Spitze dieser Unternehmen steht, betrachtet; die einzelnen Unternehmen sind Konzernunternehmen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Publikationsorgan",
+      "definition": "im Prospekt bezeichnete Printmedien oder elektronische Plattformen, über welche die Verwaltungsgesellschaft den Anlegern die von Gesetz oder Verordnung verlangten Informationen zur Verfügung stellt.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "li-konso-2016202000",
+  "type": "statute",
+  "title": "Verordnung vom 7. Juni 2016 über die Informationssysteme der Landespolizei (Pol-ISV)",
+  "title_en": "",
+  "short_name": "Pol-ISV",
+  "status": "in_force",
+  "issued_date": "2016-06-07",
+  "in_force_date": "2016-06-07",
+  "url": "https://www.gesetze.li/konso/2016202000",
+  "description": "Verordnung vom 7. Juni 2016 über die Informationssysteme der Landespolizei (Pol-ISV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Geltungsbereich",
+      "content": "1) Diese Verordnung regelt die Führung und Nutzung der elektronischen Informationssysteme der Landespolizei.\n2) Sie findet keine Anwendung auf:\na) das Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros;\nb) die Informationssysteme nach dem Waffen- und Strafvollzugsgesetz."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Soweit nicht ausdrücklich etwas anderes bestimmt ist, sind unter den in dieser Verordnung verwendeten Personen-, Berufs- und Funktionsbezeichnungen Personen männlichen und weiblichen Geschlechts zu verstehen.\nII. Polizeiliche Informationssysteme\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Allgemeines",
+      "section": "3",
+      "title": "Art. 3 Grundsatz",
+      "content": "1) Die Landespolizei führt folgende elektronische Informationssysteme:\na) das zentrale Informationssystem \"Nationale Polizeiapplikation (NPA)\" (Art. 4 bis 8);\nb) das Informationssystem \"Hotelkontrolle\" (Art. 9);\nc) das Informationssystem \"Staatsschutz\" (Art. 10);\nd) das Informationssystem \"Vorermittlung\" (Art. 11);\ne) das Einsatzleitsystem (Art. 12);\nf) das Informationssystem \"Ordnungsbussen\" (Art. 13).\n2) Sie kann zudem folgende elektronische Informationssysteme führen:\na) Geschäftskontrollsysteme (Art. 14);\nb) Statistiksysteme (Art. 16).\nB. Nationale Polizeiapplikation"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "B. Nationale Polizeiapplikation",
+      "section": "4",
+      "title": "Art. 4 Grundsatz",
+      "content": "1) Die Landespolizei führt ein zentrales Informationssystem \"Nationale Polizeiapplikation\" (NPA) für folgende Zwecke:\na) Dokumentation der polizeilichen Ereignisse und des polizeilichen Handelns;\nb) Erstellen von Berichten und Lagebeurteilungen;\nc) Sicherstellung der Verfügbarkeit von Daten, die für die Polizeiermittlungen, insbesondere zur Aufklärung von Straftatbeständen, der Gefahrenabwehr, der Gefahrenvorsorge und der Suche nach Vermissten, benötigt werden;\nd) Analyse und Recherche;\ne) Überprüfung von Personen im Waffenregister, im Schengener Informationssystem, im Fahndungssystem von INTERPOL, in den Registern des Amts für Strassenverkehr und im Zentralen Personenregister der Landesverwaltung;\nf) Datenübernahme aus dem Einsatzleitsystem (Art. 12), dem Zentralen Personenregister der Landesverwaltung und den Registern des Amts für Strassenverkehr;\ng) Datenübermittlung an das Schengener Informationssystem;\nh) Datenübermittlung an die Informationssysteme der Staatsanwaltschaft und des Landgerichts;\ni) zentrale Geschäfts- und Aktenverwaltung;\nk) Erstellen und Auswerten von Statistiken;\nl) Kontaktverwaltung, namentlich von Dolmetschern, Sachverständigen, Spezialisten, Lieferanten und Dienstleistern.\n2) Die NPA besteht aus folgenden Modulen:\na) chronologische Abfolge interner und externer Meldungen (Modul \"Nachrichten\");\nb) Fallverwaltung und Schriftguterstellung (Modul \"Geschäft/Fall\");\nc) fallbeteiligte natürliche und juristische Personen (Modul \"Personenstamm\");\nd) Kontaktverwaltung (Modul \"Kontakte\").\n3) Die Module nach Abs. 2 Bst. a bis c werden miteinander verknüpft."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. Nationale Polizeiapplikation",
+      "section": "5",
+      "title": "Art. 5 Modul \"Nachrichten\"",
+      "content": "1) Das Modul \"Nachrichten\" enthält folgende Datenkategorien:\na) Angaben zur Nachricht wie Laufnummer, Art des Ereignisses, Meldedatum, Ereigniszeit und -ort;\nb) Personalien des Meldeerstatters und Inhalt der Meldung;\nc) Massnahmen der Landespolizei und Zuständigkeiten.\n2) Im Modul \"Nachrichten\" können Bilder und Dokumente gespeichert werden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Nationale Polizeiapplikation",
+      "section": "6",
+      "title": "Art. 6 Modul \"Geschäft/Fall\"",
+      "content": "1) Das Modul \"Geschäft/Fall\" enthält folgende Datenkategorien:\na) Grunddaten zum Geschäft, insbesondere Geschäftsnummer, Eröffnungsdatum, Zuständigkeiten, Ereignisort und -datum, Ereignisart und Status;\nb) Dokumente (NPA-Dokumente und Fremddokumente);\nc) Bildarchiv;\nd) Fahndungen;\ne) Gerichtsentscheide;\nf) Verkehrsunfallstatistik;\ng) Fallvorgänge;\nh) Sachverhalt/Tatbestand;\ni) Personalien der involvierten Personen zum Zeitpunkt der Fallbearbeitung sowie ergänzende Informationen wie:\n1. Adressen;\n2. Kommunikationsmittel (z.B. Telefonnummer, Email-Adresse);\n3. Beteiligungsart (\"Tatverdächtiger\", \"Opfer\", \"Geschädigter\", \"Zeuge\" und dergleichen);\n4. Führerausweise;\n5. Inhaftierungen;\n6. angeordnete Massnahmen;\n7. Bemerkungen;\nk) Spuren;\nl) Fahrzeuge, Kontrollschilder;\nm) Sachen;\nn) Waffen;\no) Ausweise.\n2) Die im Modul \"Geschäft/Fall\" erfasste Person ist über die Beteiligungsart mit dem Modul \"Personenstamm\" verknüpft."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Nationale Polizeiapplikation",
+      "section": "7",
+      "title": "Art. 7 Modul \"Personenstamm\"",
+      "content": "Das Modul \"Personenstamm\" enthält folgende Datenkategorien:\na) Personalien mit Stand der zeitlich letzten Fallbearbeitung;\nb) Alias-Name(n);\nc) involvierte Fälle und Beteiligungsart;\nd) Gefahreneinschätzung;\ne) erkennungsdienstliche Daten;\nf) Löschfristen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Nationale Polizeiapplikation",
+      "section": "8",
+      "title": "Art. 8 Modul \"Kontakte\"",
+      "content": "Das Modul \"Kontakte\" dient insbesondere der Adressverwaltung von Dolmetschern, Sachverständigen, Lieferanten und Dienstleistern. Es enthält folgende Datenfelder:\na) Firmenname;\nb) Name und Vorname;\nc) Strasse, Hausnummer, Adresszusatz, Land, Postleitzahl und Ort;\nd) Kommunikationsmittel;\ne) Fachgebiet/Fähigkeiten.\nC. Weitere Informationssysteme"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "9",
+      "title": "Art. 9 Informationssystem \"Hotelkontrolle\"",
+      "content": "1) Die Landespolizei führt zum Zweck der Personenfahndung sowie im Einzelfall zur Unterstützung von Ermittlungen in Strafverfahren oder bei der Gefahrenabwehr ein Informationssystem über die in Beherbergungsbetrieben logierenden Personen (Informationssystem \"Hotelkontrolle\"). Dieses beinhaltet die vom Meldesystem nach Art. 7 der Verordnung über die Melde- und Taxpflicht bei Beherbergungen automatisiert übermittelten Daten.\n2) Das Informationssystem \"Hotelkontrolle\" enthält folgende Datenfelder:\na) Name, Adresse (Land, Postleitzahl, Ort, Strasse und Hausnummer, Adresszusatz) und Telefonnummer des Beherbergers;\nb) Melde-Laufnummer;\nc) Name, Vorname, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Ausweisart und -nummer und Adresse (Land, Postleitzahl, Ort, Strasse, Hausnummer, Adresszusatz) der beherbergten Person;\nd) Name, Vorname und Geburtsdatum der Begleitpersonen;\ne) Unterschriftsdatum des Meldescheins;\nf) Ankunftsdatum;\ng) geplantes und tatsächliches Abreisedatum;\nh) Druckdatum des Meldescheins;\ni) Erfassungsdatum, letztes Mutationsdatum;\nk) erfassende und mutierende Personen.\n3) Die Daten des Informationssystems \"Hotelkontrolle\" können systematisch und automatisiert abgeglichen werden:\na) bei der Erfassung mit den polizeilichen Fahndungssystemen;\nb) mit eingehenden internationalen Fahndungsersuchen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "10",
+      "title": "Art. 10 Informationssystem \"Staatsschutz\"",
+      "content": "1) Die Landespolizei führt zur Erfüllung ihrer Aufgaben im präventiven Staatsschutz ein Informationssystem (Informationssystem \"Staatsschutz\").\n2) Das Informationssystem \"Staatsschutz\" ist strukturiert nach:\na) Objekten (Zusammenstellungen von Daten, die sich auf eine Person oder ein Ereignis beziehen);\nb) Meldungen (einzelne Informationseingänge zu einem Objekt);\nc) Verbindungen (Beziehungen zwischen einzelnen Objekten).\n3) Das Informationssystem \"Staatsschutz\" kann folgende Daten enthalten:\na) im Objekt \"Person\":\n1. Name, Vornamen;\n2. Geburtsdatum und -ort;\n3. Alias-Namen;\n4. Staatsangehörigkeit;\n5. Symbol (z.B. Mann, Frau, Rechtsradikalismus) mit Bemerkungen;\n6. Erfassungsdatum;\n7. Meldungen;\nb) im Objekt \"Ereignis\":\n1. Symbol (für Ereignis) mit Bemerkung;\n2. Vorfall;\n3. Datum;\n4. Postleitzahl, Ort;\n5. Staat;\n6. Erfassungsdatum;\n7. Meldungen;\nc) in den Verbindungen:\n1. Beschreibung;\n2. Bewertung;\n3. Quelle;\n4. Klassifizierung;\n5. Datum;\n6. Ablage;\n7. Code/Operation;\n8. Erfassungsdatum und Erfasser.\n4) Meldungen werden vor der Erfassung im Informationssystem \"Staatsschutz\" nach Herkunft, Inhalt und bereits vorliegenden Erkenntnissen bewertet und bei der Eingabe entsprechend qualifiziert.\n5) Die Landespolizei überprüft spätestens alle fünf Jahre die bearbeiteten Daten auf ihre Aktualität und die Notwendigkeit für die weitere Bearbeitung. Nicht mehr benötigte Daten werden gelöscht.\n6) Das Informationssystem \"Staatsschutz\" wird getrennt von anderen Systemen geführt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "11",
+      "title": "Art. 11 Informationssystem \"Vorermittlung\"",
+      "content": "1) Die Landespolizei führt im Rahmen der vorbeugenden Bekämpfung von Straftaten ein Informationssystem für die Vorermittlung (Informationssystem \"Vorermittlung\").\n2) Im Informationssystem \"Vorermittlung\" werden Daten zur Verdachtsgewinnung und -verdichtung insbesondere der folgenden Deliktstypen bearbeitet:\na) Kontrolldelikte, insbesondere Betäubungsmitteldelikte, Menschenhandel, Pornografie im Internet (§ 218a StGB) oder illegale Prostitution;\nb) Organisationsdelikte, insbesondere das Bilden, Fortführen oder Unterstützen von Vereinigungen zum Zweck der Begehung von Straftaten;\nc) Sexualdelikte.\n3) Im Übrigen findet Art. 10 Abs. 2 bis 6 sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "12",
+      "title": "Art. 12 Einsatzleitsystem",
+      "content": "1) Die Landespolizei führt ein Einsatzleitsystem. Dieses dient:\na) der Unterstützung bei der Bewältigung polizeilicher Ereignisse;\nb) der Dokumentation des polizeilichen Handelns;\nc) der Bereithaltung der notwendigen Stammdaten von Verwaltungsbehörden und Gerichten sowie von in- und ausländischen Sicherheitsbehörden, Rettungsorganisationen und Institutionen, deren Mithilfe bei der Erfüllung der polizeilichen Aufgaben benötigt wird;\nd) der Alarmierung in- und ausländischer Rettungsorganisationen.\n2) Für die Zwecke nach Abs. 1 können alle notwendigen Daten bearbeitet werden, insbesondere:\na) Ort, Datum, Uhrzeit, Ereignis;\nb) Name, Vornamen, Adresse und Kommunikationsmittel des Meldeerstatters;\nc) Nachrichten, Massnahmen, Einsatzmittel;\nd) Sprachaufzeichnung der eingesetzten Kommunikationsmittel;\ne) Name, Vornamen, Adresse, Funktion, Kommunikations- und Alarmierungsmittel der Mitglieder von Rettungsorganisationen oder anderer Institutionen, deren besondere Kenntnisse oder Fähigkeiten zur Bewältigung polizeilicher Ereignisse benötigt werden;\nf) Name, Vornamen, Adresse, Kommunikationsmittel und Funktion der Verantwortlichen von Anlagen oder Einrichtungen, von denen eine erhebliche Gefahr ausgehen kann, oder deren Anlagen oder Einrichtungen gefährdet sind;\ng) Name, Adresse, Kommunikationsmittel und Funktion von Behörden, Organisationen und Institutionen nach Abs. 1 Bst. c.\n3) Die Daten nach Abs. 2 Bst. a bis c können automatisiert ins Modul \"Nachrichten\" der NPA übermittelt werden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "13",
+      "title": "Art. 13 Informationssystem \"Ordnungsbussen\"",
+      "content": "1) Die Landespolizei führt im Rahmen des Vollzugs der Verkehrspolizei ein Informationssystem für die Ordnungsbussenverwaltung (Informationssystem \"Ordnungsbussen\"). Dieses dient:\na) der Geschäftsüberwachung der im vereinfachten Verfahren nach dem Ordnungsbussengesetz und der entsprechenden Verordnung geahndeten Übertretungen der Strassenverkehrsvorschriften;\nb) der Geschäftsüberwachung bei Anzeigen wegen Geschwindigkeitsüberschreitungen und Missachtung des Rotlichts.\n2) Das Informationssystem \"Ordnungsbussen\" enthält folgende Datenfelder:\na) Registernummer;\nb) Messungs-, Film- und Fotonummer;\nc) Aussteller, Ordnungsbussen-Nummer;\nd) Fahrzeugtyp, -marke, -farbe, Kontrollschild;\ne) Tatort und örtliche Beschreibung;\nf) Tatzeit;\ng) Tatbestand, Sachverhalt;\nh) Bussenbetrag;\ni) Personalien des Fahrzeughalters und -lenkers, insbesondere:\n1. Name, Vornamen;\n2. Geburtsdatum;\n3. Heimatort, Staatsangehörigkeit;\n4. Beruf;\n5. Adresse;\nk) Aktenvorgänge;\nl) Bemerkungen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "14",
+      "title": "Art. 14 Geschäftskontrollsysteme",
+      "content": "1) Die einzelnen Abteilungen der Landespolizei können zur Überwachung und Kontrolle der Aktenvorgänge in ihrem Aufgabengebiet Geschäftskontrollsysteme führen, die insbesondere folgende Datenfelder enthalten können:\na) Aktenzahl, Betreff;\nb) Eröffnungsdatum, Auftraggeber;\nc) Sachbearbeiter;\nd) Bearbeitungshinweise;\ne) Aktenvorgänge;\nf) Erledigungsdatum;\ng) Bemerkungen.\n2) Geschäftskontrollsysteme für die Kriminaltechnik können auch Daten über die Abnahme von DNA-Profilen, Finger- und Handflächenabdrücken sowie deren Bearbeitungsstand, die betroffene Person und das Ergebnis enthalten."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Weitere Informationssysteme",
+      "section": "15",
+      "title": "Art. 15 Statistiksysteme",
+      "content": "Die Landespolizei kann zusätzliche Informationssysteme zur Erstellung von Statistiken führen, sofern darin keine Personendaten bearbeitet werden.\nIII. Löschung von Daten\nA. Nationale Polizeiapplikation"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "A. Nationale Polizeiapplikation",
+      "section": "16",
+      "title": "Art. 16 Modul \"Nachrichten\"",
+      "content": "Die Daten im Modul \"Nachrichten\" werden fünf Jahre nach der Erfassung gelöscht."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "A. Nationale Polizeiapplikation",
+      "section": "17",
+      "title": "Art. 17 Modul \"Personenstamm\"",
+      "content": "Die Daten im Modul \"Personenstamm\" werden gelöscht, wenn keine Verknüpfung mehr zu einem Fall/Geschäft besteht."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "A. Nationale Polizeiapplikation",
+      "section": "18",
+      "title": "Art. 18 Löschung der Verknüpfung zwischen den Modulen \"Personenstamm\" und \"Fall/Geschäft\"",
+      "content": "1) Sofern in den nachfolgenden Absätzen nichts anderes geregelt ist, wird die Verknüpfung zwischen den Modulen \"Personenstamm\" und \"Fall/Geschäft\" spätestens nach zehn Jahren gelöscht.\n2) Die Verknüpfung wird abweichend von Abs. 1 gelöscht nach:\na) 30 Jahren bei:\n1. aussergewöhnlichen Todesfällen;\n2. Vermisstenfällen;\nb) 20 Jahren bei Verbrechen (§ 17 Abs. 1 StGB);\nc) 15 Jahren bei Verlust von Ausweisen;\nd) fünf Jahren bei Übertretungen und bestimmten Vergehen nach § 317 StPO.\n3) Die Löschung der Verknüpfung bei den Beteiligungsarten \"Tatverdächtiger\" und \"Verurteilter\" unterbleibt bei Verbrechen (§ 17 Abs. 1 StGB), Vergehen (§ 17 Abs. 2 StGB) und Übertretungen nach dem Betäubungsmittelgesetz, wenn zum Zeitpunkt der anstehenden Löschung eine weitere Verknüpfung zu einem solchen \"Fall/Geschäft\" mit diesen Beteiligungsarten besteht. In diesem Fall erfolgt die Löschung aller Verknüpfungen gemeinsam mit der zuletzt zu löschenden Verknüpfung.\n4) Die Beteiligungsarten \"Meldeerstatter\", \"Geschädigter\", \"Opfer\" und \"Zeuge\" werden vorbehaltlich Abs. 5 jedenfalls nach fünf Jahren gelöscht.\n5) Die Löschung der Verknüpfung zwischen den Modulen \"Personenstamm\" und \"Fall/Geschäft\" unterbleibt, solange noch erkennungsdienstliche Daten oder Fahndungsdaten bearbeitet werden. In diesen Fällen erfolgt die Löschung spätestens ein Jahr nach Löschung der Fahndungs- bzw. erkennungsdienstlichen Daten.\n6) Die Frist beginnt mit Rechtskraft des Urteils, in Ermangelung eines solchen mit der Archivierung des \"Falls/Geschäfts\" im System."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "A. Nationale Polizeiapplikation",
+      "section": "19",
+      "title": "Art. 19 Löschung von erkennungsdienstlichen Daten und Fahndungsdaten",
+      "content": "1) Erkennungsdienstliche Daten werden spätestens 15 Jahre nach deren Beschaffung gelöscht. Gelten für einzelne erkennungsdienstliche Massnahmen besondere gesetzliche Fristen, so erfolgt die Löschung sämtlicher erkennungsdienstlicher Daten gemeinsam mit der am spätesten eintretenden Löschfrist.\n2) Fahndungsdaten werden spätestens ein Jahr nach Widerruf der Fahndung gelöscht."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "A. Nationale Polizeiapplikation",
+      "section": "20",
+      "title": "Art. 20 Module \"Fall/Geschäft\" und \"Kontakte\"",
+      "content": "1) Spätestens nach Ablauf der in § 39d Abs. 3 StPO genannten Frist bietet die Landespolizei die Daten des Moduls \"Fall/Geschäft\" dem Landesarchiv an und löscht anschliessend die Daten in der NPA. Die Frist beginnt mit dem Datum, an dem der Fall archiviert wird.\n2) Die Daten des Moduls \"Kontakte\" werden solange aufbewahrt, als sie zur Aufgabenerfüllung erforderlich sind.\nB. Weitere Informationssysteme"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "B. Weitere Informationssysteme",
+      "section": "21",
+      "title": "Art. 21 Informationssystem \"Hotelkontrolle\"",
+      "content": "Die Daten des Informationssystems \"Hotelkontrolle\" werden fünf Jahre nach der Erfassung gelöscht."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "B. Weitere Informationssysteme",
+      "section": "22",
+      "title": "Art. 22 Informationssystem \"Staatsschutz\"",
+      "content": "1) Die Daten des Informationssystems \"Staatsschutz\" werden nur solange aufbewahrt, als dies zur Aufgabenerfüllung nach Art. 2 Abs. 2 des Gesetzes erforderlich ist, längstens aber für 15 Jahre.\n2) Miteinander verknüpfte Daten werden grundsätzlich als Datenblock gelöscht, spätestens mit Ablauf der maximalen Aufbewahrungsfrist des letzten erfassten Vorgangs. Ergibt die periodische Gesamtbeurteilung (Art. 10 Abs. 5), dass einzelne Vorgänge für die weitere Aufgabenerfüllung nicht mehr benötigt werden, so sind diese vorgängig zu löschen.\n3) Die maximale Aufbewahrungsfrist nach Abs. 1 kann einmal um drei weitere Jahre verlängert werden, wenn die Daten unter Beurteilung der aktuellen Risiken und Gefahren für die Erfüllung der gesetzlichen Aufgaben nach Art. 2 Abs. 2 des Gesetzes nach Entscheid des Abteilungsleiters der Kriminalpolizei unentbehrlich sind."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "B. Weitere Informationssysteme",
+      "section": "23",
+      "title": "Art. 23 Informationssystem \"Vorermittlung\"",
+      "content": "Auf die Löschung der Daten des Informationssystems \"Vorermittlung\" findet Art. 22 sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "B. Weitere Informationssysteme",
+      "section": "24",
+      "title": "Art. 24 Einsatzleitsystem",
+      "content": "1) Die Daten des Einsatzleitsystems werden solange aufbewahrt, als sie zur Aufgabenerfüllung erforderlich sind.\n2) Die Daten nach Art. 12 Abs. 2 Bst. a bis d werden spätestens fünf Jahre nach der Erfassung gelöscht, sofern sie nicht für Beweiszwecke benötigt werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "B. Weitere Informationssysteme",
+      "section": "25",
+      "title": "Art. 25 Informationssystem \"Ordnungsbussen\"",
+      "content": "Die Daten des Informationssystems \"Ordnungsbussen\" werden zehn Jahre nach Abschluss des Verfahrens gelöscht.\nIV. Datenschutz und -sicherheit"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "IV. Datenschutz und -sicherheit",
+      "section": "26",
+      "title": "Art. 26 Datenzugriff",
+      "content": "1) Die Mitarbeiter der Landespolizei haben Zugriff auf diejenigen Daten der Informationssysteme, die sie zur Erfüllung ihrer jeweiligen gesetzlichen Aufgaben benötigen.\n2) Der Zugriff auf die Informationssysteme wird mit individuellen Benutzerprofilen und personalisierten Identifikationsmitteln gesichert.\n3) Die technischen und organisatorischen Massnahmen zum Schutz der in den Informationssystemen gespeicherten Daten richten sich nach der Datenschutzverordnung.\n4) Die Landespolizei regelt das Nähere in den Dienstvorschriften, insbesondere:\na) die Art und den Umfang des Zugriffs auf die in den Informationssystemen gespeicherten Daten;\nb) die Pflichten der Mitarbeiter der Landespolizei im Umgang mit den Informationssystemen;\nc) den Zugang zu den Datenstationen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "IV. Datenschutz und -sicherheit",
+      "section": "27",
+      "title": "Art. 27 Rechte der Betroffenen",
+      "content": "1) Will eine Person ihr Auskunfts-, Berichtigungs- und Löschungsrecht geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch einzureichen:\na) in den Fällen nach Art. 34h des Gesetzes bei der Datenschutzstelle;\nb) in allen übrigen Fällen bei der Landespolizei.\n2) Wird das Gesuch nicht persönlich bei der Landespolizei oder der Datenschutzstelle eingereicht, so haben Personen mit Wohnsitz im Ausland dem Gesuch eine öffentlich beglaubigte Kopie des Reisepasses beizulegen.\nV. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "28",
+      "title": "Art. 28 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 22. Juni 2010 über die Informationssysteme der Landespolizei (PolISV), LGBl. 2010 Nr. 173, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "29",
+      "title": "Art. 29 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2016 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nArt. 4 Abs. 1 Bst. e abgeändert durch LGBl. 2019 Nr. 222 .\n2\nArt. 4 Abs. 1 Bst. f abgeändert durch LGBl. 2019 Nr. 222 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,541 @@
+{
+  "id": "li-konso-2009240000",
+  "type": "statute",
+  "title": "Bauverordnung (BauV) vom 22. September 2009",
+  "title_en": "",
+  "short_name": "LGBl 2009.240",
+  "status": "in_force",
+  "issued_date": "2009-09-22",
+  "in_force_date": "2009-09-22",
+  "url": "https://www.gesetze.li/konso/2009240000",
+  "description": "Bauverordnung (BauV) vom 22. September 2009",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt insbesondere:\na) den Inhalt der Zonen-, Richt-, Überbauungs- und Gestaltungspläne sowie der Planungen des Landes;\nb) die baurechtlichen Anforderungen an Bauten und Anlagen;\nc) das Baubewilligungs- und Anzeigeverfahren;\nd) die für die Baustatistik zu erhebenden Daten;\ne) die Gebühren."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Abstellplätze\": Einstellplätze und Freistellplätze für Motorfahrzeuge;\nb) \"Einstellplätze\": Einzel- und Doppelgaragen, Abstellflächen in Parkierungshallen und gedeckte, höchstens an zwei Seiten geschlossene Unterstellplätze (Carports);\nc) \"Freistellplätze\": nicht gedeckte Abstellflächen;\nd) \"Wohneinheit\": eine Wohnung, die durch einen separaten Zugang erschlossen ist, eine eigene Wohn-, Schlaf- und Kochgelegenheit hat und als in sich geschlossene funktionelle Einheit benutzbar ist;\ne) \"gewendelte Treppen\": Treppen, die eine Änderung der Laufrichtungen von mindestens 90&deg; aufweisen;\nf) \"Aufzugsanlagen\": alle ortsfesten Fördereinrichtungen für den Personen- und Warentransport, insbesondere Liftanlagen, Rolltreppen, Fahrbänder, Aufzüge für Hochregallager, Hebebühnen und Aufzüge für Behinderte, die längs einer oder mehrerer Führungen bewegt werden. Ausgenommen sind Bahnanlagen und spezielle Betriebseinrichtungen nach besonderen Vorschriften.\ng) \"Einliegerwohnung\": eine zusätzliche kleine Wohneinheit mit höchstens 50 m&sup2; in einem Einfamilienhaus, die gegenüber der Hauptwohnung von untergeordneter Bedeutung ist. Sie verfügt über ein bis zwei Wohnräume, eigene sanitäre Anlagen sowie eine Kochmöglichkeit. Einliegerwohnungen sind durch einen separaten Zugang erschlossen.\n2) Unter den in dieser Verordnung verwendeten Personen- und Berufsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Gleichwertigkeit von Normen",
+      "content": "Soweit nach den Bestimmungen dieser Verordnung die Normen des Schweizerischen Ingenieur- und Architektenvereins (SIA) bzw. der Vereinigung Schweizerischer Strassenfachleute (VSS) anzuwenden sind , können auch gleichwertige europäische Normen oder gleichwertige Normen eines anderen EWR-Mitgliedstaates herangezogen werden.\nII. Planungsrecht"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Planungsrecht",
+      "section": "4",
+      "title": "Art. 4 Bebauungszonen und Zonen anderer Nutzung",
+      "content": "Bebauungszonen und Zonen anderer Nutzung im Sinne von Art. 12 des Gesetzes sind Grundnutzungszonen. Sie bestimmen die Art und das zulässige Mass der Nutzung des Bodens. Sie können durch weitere Zonenarten mit Nutzungs- und Schutzvorschriften überlagert werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Planungsrecht",
+      "section": "5",
+      "title": "Art. 5 Bauzone",
+      "content": "Bei der Berücksichtigung der Bedürfnisse der Bevölkerung und der Wirtschaft im Sinne von Art. 14 des Gesetzes ist einer nachhaltigen Raumentwicklung angemessen Rechnung zu tragen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Planungsrecht",
+      "section": "6",
+      "title": "Art. 6 Zone für öffentliche Bauten und Anlagen",
+      "content": "1) Öffentliche Bauten und Anlagen im Sinne von Art. 15 des Gesetzes haben öffentlichen Aufgaben zu dienen. Untergeordnete private Nutzungen sind zulässig.\n2) Aufgehoben\nLandwirtschaftszone\nArt. 7\na) Ökonomiegebäude\nBei der Errichtung, beim Umbau oder bei der Erweiterung von landwirtschaftlichen Ökonomiegebäuden richtet sich das Volumen der Bauten und Anlagen nach der Art und den Bedürfnissen des Landwirtschaftsbetriebes."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Planungsrecht",
+      "section": "8",
+      "title": "Art. 8 b) Wohnbauten",
+      "content": "In der Landwirtschaftszone sind nur Wohnbauten von anerkannten Landwirtschaftsbetrieben im Sinne von Art. 6 des Landwirtschaftsgesetzes zonenkonform:\na) die der Deckung des Wohnbedarfs des Bewirtschafters und seiner Familienangehörigen sowie der Angestellten dienen;\nb) bei denen das höchst zulässige Bauvolumen beträgt:\n1. 800 m&sup3; für den Bewirtschafter und seine nächsten Familienangehörigen (Ehegatte, Lebenspartner und Kinder);\n2. zusätzlich 400 m&sup3; für die abtretende Generation oder den Nachfolger des Bewirtschafters;\n3. zusätzlich 400 m&sup3; für Angestellte."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II. Planungsrecht",
+      "section": "9",
+      "title": "Art. 9 Überprüfung und Änderung von Bauordnung und Zonenplänen",
+      "content": "1) Bauordnungen und Zonenpläne sind zu überprüfen und allenfalls abzuändern, wenn es aus wichtigen öffentlichen Interessen geboten ist, insbesondere wenn sich die tatsächlichen oder rechtlichen Verhältnisse wesentlich geändert haben oder wesentliche neue Bedürfnisse nachgewiesen sind.\n2) Für Änderungen der Bauordnungen und Zonenpläne ist das gleiche Verfahren durchzuführen wie für deren Erlass."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Planungsrecht",
+      "section": "10",
+      "title": "Art. 10 Inhalt des Richtplans",
+      "content": "Der Richtplan enthält insbesondere Aussagen über:\na) die siedlungsbauliche und räumliche Entwicklung der Gemeinde, des Landes und der grenzüberschreitenden Region;\nb) die angestrebte Wirtschaftsstruktur, die zu sichernden Freiräume für die Landwirtschaft, die Erhaltung und Entwicklung von Natur und Landschaft sowie die Naherholung;\nc) die angestrebte Siedlungsgestaltung, -entwicklung und -gliederung sowie die zeitliche Abfolge der Erschliessung unter Berücksichtigung der infrastrukturellen Erfordernisse;\nd) die Verkehrsabwicklung und die Ausgestaltung des Verkehrswegenetzes;\ne) die erforderlichen gemeinschaftlichen Einrichtungen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Planungsrecht",
+      "section": "11",
+      "title": "Art. 11 Inhalt des Gestaltungsplans",
+      "content": "1) Gestaltungspläne können für ein bestimmtes Gebiet konkrete Nutzungsmöglichkeiten bestimmen und Einzelheiten zu Bauästhetik und Gebäudenutzung vorsehen.\n2) Sie bezwecken eine architektonisch und wohnhygienisch gute, der baulichen und landschaftlichen Umgebung angepasste Überbauung, Gestaltung und Erschliessung zusammenhängender Flächen.\n3) Sie können die Zahl, Art, Lage, die äusseren Abmessungen, die Geschosszahl, die Durchmischung der Nutzung und weitere bauliche Einzelheiten der im Planungsperimeter zu erstellenden Bauten und Anlagen bestimmen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Planungsrecht",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Planungsrecht",
+      "section": "13",
+      "title": "Art. 13 Genehmigungsverfahren betreffend Überbauungs- und Gestaltungspläne",
+      "content": "1) Überbauungs- und Gestaltungspläne einschliesslich deren Abänderungen und Aufhebungen bedürfen der Genehmigung der Baubehörde (Art. 28 Abs. 1 und 3 des Gesetzes).\n1a) Die Baubehörde hat die von den Gemeinden eingereichten Anträge auf Genehmigung von Überbauungs- und Gestaltungsplänen nach Abs. 1 der Gestaltungskommission vorgängig zur Beurteilung vorzulegen.\n2) Der Vorsitzende der Gestaltungskommission hat über jede Sitzung, die die Beurteilung von Überbauungs- und Gestaltungsplänen nach Art. 93 Abs. 4 des Gesetzes zum Gegenstand hat, ein Protokoll zu erstellen; eine Protokollausfertigung ist der Gemeinde innert drei Wochen nach der Sitzung zu übermitteln.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Planungsrecht",
+      "section": "14",
+      "title": "Art. 14 Vorprüfung von Planungsinstrumenten",
+      "content": "Entwürfe für genehmigungspflichtige Planungsinstrumente der Gemeinden können vor der öffentlichen Auflage der Regierung zur Vorprüfung unterbreitet werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Planungsrecht",
+      "section": "15",
+      "title": "Art. 15 Planungen des Landes",
+      "content": "1) Mit den Planungen des Landes, insbesondere dem Landesrichtplan, werden die raumwirksamen Tätigkeiten des Landes und der Gemeinden im Hinblick auf die anzustrebende räumliche Entwicklung aufeinander abgestimmt. Die Planungen des Landes zeigen auf, in welcher zeitlichen Abfolge und mit welchen Mitteln auf die angestrebte räumliche Entwicklung hingewirkt wird.\n2) Vor der Genehmigung von Planungen des Landes, insbesondere des Landesrichtplans, sind die Bevölkerung und interessierte Kreise in geeigneter Weise zu informieren.\n3) Die Planungen des Landes sind insbesondere bei der Überarbeitung bestehender und der Erarbeitung neuer kommunaler Planungsinstrumente zu beachten. Für Grundeigentümer begründen sich weder Rechte noch Pflichten.\n4) Die Regierung überprüft die in Planungen des Landes vorgesehenen Massnahmen und Prozesse regelmässig auf ihre zeitliche und inhaltliche Verwirklichung. Die Regierung erstattet periodisch Bericht über die Raumordnung und Raumentwicklung des Landes.\nIII. Baurecht\nA. Bauvorschriften\n1. Baureife und Erschliessung"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. Baureife und Erschliessung",
+      "section": "16",
+      "title": "Art. 16 Grundsatz",
+      "content": "1) Die Baubehörde kann im Einvernehmen mit der Gemeinde das bebaubare Gebiet, für welches die Baureifekriterien nach Art. 37 des Gesetzes gelten, auf eine Bautiefe einschränken.\n2) Grundlage für die Beurteilung der Baureife im Sinne von Art. 37 Abs. 2 Bst. c des Gesetzes sind die von der Regierung genehmigte Naturgefahrenkarte und die darauf gestützten besonderen Bebauungs- und Bauvorschriften der Gemeinde.\n3) Nachbargrundstücke dürfen durch die projektierte Bebauung in ihrer Erschliessung, der Sicherstellung wohnhygienischer Kriterien, der Ableitung von Abwässern und der Versorgung mit den notwendigen Infrastrukturanlagen nicht beeinträchtigt werden.\n4) Die für die Erschliessung eines Grundstücks erforderlichen projektierten oder vorhandenen Strassen müssen den motorisierten Fahrverkehr ermöglichen. Einspurige Fahrbahnen sind ausnahmsweise zulässig, soweit die erforderlichen Sichtverhältnisse gewährleistet sind. Die Strasse ist ausreichend und zweckmässig zu dimensionieren; die Mindestbreite nach Art. 39 Abs. 1 des Gesetzes ist einzuhalten. Die einschlägige Norm der VSS betreffend die Grundstückszufahrten ist anzuwenden; die Baubehörde kann in begründeten Einzelfällen Abweichungen von dieser Norm zulassen.\n5) Eine vorzeitige Erschliessung durch einen oder mehrere Grundeigentümer innerhalb der Bauzone ist zulässig, wenn dies nicht im Widerspruch zu orts- und landesplanerischen Zielen steht und die Erschliessung genehmigten Gemeindeprojekten und Reglementen entspricht. Die Versorgungsanlagen müssen ohne weitere Kosten für die Gemeinde an die bestehenden Anlagen angeschlossen werden können."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. Baureife und Erschliessung",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Aufgehoben\n2. Bauweise"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Bauweise",
+      "section": "18",
+      "title": "Art. 18 Gebäudelänge",
+      "content": "1) Als besonders berücksichtigungswürdige Fälle bei der Bewilligung von Mehrlängen beim Umbau oder der Erweiterung bestehender Bauten und Anlagen im Sinne von Art. 40 Abs. 2 Bst. c des Gesetzes gelten:\na) die architektonisch und ortsbaulich bedeutend bessere Gestaltung;\nb) durch den Zweck objektiv bestimmte Mehrlängen.\n2) Bei unterirdischen Bauten und Bauteilen sind Mehrlängen von mehr als 30.00 m gestalterisch zu unterbrechen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Bauweise",
+      "section": "19",
+      "title": "Art. 19 Gebäudehöhe",
+      "content": "1) In das Gelände eingeschnittene Keller- und Hauszugänge sowie Garagenzufahrten, die optisch auf die Gesamthöhe des Baukörpers nicht wirksam sind, werden bei der Ermittlung der Gebäudehöhe nicht berücksichtigt.\n2) Wird das Sockelgeschoss für einen Hauszugang sowie die Garagenzufahrt teilweise oder vollständig abgegraben, so wird die Gebäudehöhe vom abgegrabenen Terrain aus als Bezugspunkt gemessen. Ausgenommen hiervon bleibt ein 1.50 m breiter Hauszugang sowie eine Zufahrt mit einer Maximalbreite vom Mindestmass einer Doppelgarage."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Bauweise",
+      "section": "20",
+      "title": "Art. 20 Spezielle Bauweise",
+      "content": "Wird von den Höchstmassen der Regelbauweise nach Massgabe von Art. 41 des Gesetzes abgewichen, haben Bauten und Anlagen folgende Anforderungen zu erfüllen:\na) in der Landwirtschaftszone: Abmessungen, Standortwahl, Gebäude- und Dachform sowie Material- und Farbwahl sind in ihre bauliche und landschaftliche Umgebung so einzufügen, dass eine gute Gesamtwirkung entsteht. Sie dürfen das Orts- und Landschaftsbild nicht beeinträchtigen;\nb) Wird von den Höchstmassen der Regelbauweise nach Massgabe von Art. 41 des Gesetzes abgewichen, haben Bauten und Anlagen folgende Anforderungen zu erfüllen:\n1. Bauten und Anlagen müssen sich besonders gut ins Orts- und Landschaftsbild einfügen, insbesondere hinsichtich Stellung, Grösse der Baukuben, Wirkung im Strassenraum, Form, Staffelung, Gliederung der Baumasse, Dachform, Dachneigung, Fassadengliederung, Materialwahl sowie Terrain- und Umgebungsgestaltung;\n2. Aufgehoben\n3. auf den Umgebungsbereich von geschützten Ortsbildern ist Rücksicht zu nehmen;\n4. es muss eine zweckmässige Verkehrserschliessung vorliegen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Bauweise",
+      "section": "21",
+      "title": "Art. 21 Dachausbauten",
+      "content": "1) Über eine Linie, die von einem in der zulässigen Gebäudehöhe gelegenen Fassadenpunkt aus nach der Bautiefe mit 45&deg; Neigung zur Horizontalen verläuft, dürfen ausser Kaminen, technischen Aufbauten und dergleichen keinerlei Bauteile hinausragen. Ausgenommen sind 0.50 m auskragende Vordachkonstruktionen oder Bauteile.\n2) Abweichungen von Abs. 1 sind nur zulässig, wenn dies notwendig ist für:\na) die freie Aussicht bei einer Brüstungshöhe von 1.40 m; oder\nb) die Belichtung von Dachräumen bei der Ausführung mittels Dachaufbaute oder -gaube."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Bauweise",
+      "section": "22",
+      "title": "Art. 22 Wiederaufbau",
+      "content": "1) Das Wiederaufbaurecht im Sinne von Art. 71 Abs. 1 des Gesetzes schliesst auch die Errichtung von neuen unterirdischen Bauteilen und Räumlichkeiten mit ein, wenn der unterirdische Grenzabstand eingehalten wird.\n2) Zulässige Abweichungen zur baulichen Verbesserung des bisherigen Zustands sind insbesondere die Ergänzung mittels Dachgauben, Dachaufbauten und Dacheinschnitte sowie rückspringende Gebäudeteile.\n3. Ausnützungsziffer"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "3. Ausnützungsziffer",
+      "section": "23",
+      "title": "Art. 23 Grundsatz",
+      "content": "1) Die Vorschriften über die Ausnützungsziffer nach Art. 42 des Gesetzes sind auch bei zonengerechten Umbauten einzuhalten, soweit in der Bauordnung nichts anderes festgelegt ist.\n2) Waschküchen und Trockenräume werden nur dann nicht der Bruttogeschossfläche nach Art. 42 Abs. 4 Bst. c des Gesetzes angerechnet, wenn sie sich aufgrund ihrer baulichen Ausführung nicht als Wohn- oder Arbeitsräume eignen. Dies gilt insbesondere bei Räumen mit einer für Aufenthaltszwecke unzureichenden Belichtungsfläche, bei unterirdischen Räumen oder bei innenliegenden Räumen.\n3) Der massgeblichen Bruttogeschossfläche anzurechnen sind:\na) gedeckte Haus- und Innenzugänge für Haupterschliessungen bis 1.20 m Breite; und\nb) Installationsschächte für Haustechnikanlagen, insbesondere für kontrollierte Lüftungssysteme.\n4) Nicht im Sinne von Art. 42 Abs. 4 Bst. a des Gesetzes anzurechnen sind Kellerräume in Wohneinheiten, wenn im Untergeschoss nachweislich solche Räume, bemessen mit der jeweiligen Mindestgrösse, nicht integriert werden können.\n5) Bei der Berechnung der Bruttogeschossfläche eines Dachgeschosses nach Art. 42 Abs. 4 Bst. b des Gesetzes dürfen tragende oder nicht tragende Zwischenkonstruktionen bei der Ermittlung der Raumhöhe nicht berücksichtigt werden.\n4. Abstände"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. Abstände",
+      "section": "24",
+      "title": "Art. 24 Vorspringende Gebäudeteile",
+      "content": "1) Absturzsicherungen bei Balkonen sind bei der Berechnung der Fläche von vorspringenden Gebäudeteilen nach Art. 47 Abs. 3 des Gesetzes miteinzubeziehen.\n2) Bei nicht bewilligungs- und anzeigepflichtigen Klein- und Nebenbauten, welche den Mindestgrenzabstand einhalten, sind Dachvorsprünge auf höchstens 0.50 m begrenzt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Abstände",
+      "section": "25",
+      "title": "Art. 25 Grenz- und Gebäudeabstand",
+      "content": "1) Der Grenzabstand ist im rechten Winkel zur Parzellengrenze zu messen.\n2) Aufgehoben\n3) Die Baubehörde kann im Einzelfall zur Beurteilung möglicher Auswirkungen auf Nachbargebäude Schattenwurfdiagramme verlangen und heranziehen.\n4) Bei der Herabsetzung des Mindestgebäudeabstandes nach Art. 49 Abs. 2 des Gesetzes durch die Baubehörde ist auf eine deutliche und klar erkennbare Trennung der direkt nebeneinander liegenden Bauten zu achten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "4. Abstände",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Aufgehoben\n5. Gestaltung"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "5. Gestaltung",
+      "section": "27",
+      "title": "Art. 27 Schutz des Orts- und Landschaftsbildes",
+      "content": "Eine architektonisch gute Gestaltung und Einfügung in das Orts- und Landschaftsbild im Sinne von Art. 57 Abs. 2 des Gesetzes liegt vor, wenn Bauten und Anlagen:\na) hinsichtlich Positionierung, Form, Kubatur, Proportionen, Funktionen und Konstruktion gut aufeinander abgestimmt sind;\nb) sich so in ihre bauliche und landschaftliche Umgebung einfügen, dass eine gute Gesamtwirkung entsteht;\nc) eine gute Beziehung zur Umgebung durch Formgebung, Farbgestaltung und Materialwahl sowie Sichtbezügen, Raumabfolgen und Wegführungen herstellen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "5. Gestaltung",
+      "section": "28",
+      "title": "Art. 28 Archäologischer Perimeter",
+      "content": "1) Alle Arten von Erdbewegungen (Hoch- und Tiefbau), die innerhalb des Archäologischen Perimeters erfolgen, sind vor ihrer Durchführung dem Amt für Kultur bekannt zu geben. Das Amt für Kultur legt im Rahmen der archäologischen Bauüberwachung fest, ob die allfälligen Untersuchungen vor Baubeginn oder baubegleitend durchgeführt werden.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "5. Gestaltung",
+      "section": "29",
+      "title": "Art. 29 Kinderspielplätze",
+      "content": "1) Bei der Errichtung von Wohnüberbauungen mit mindestens vier Wohneinheiten muss ausserhalb öffentlicher Flächen in unmittelbarer Nähe der Baute ein Kinderspielplatz vorhanden sein. Davon ausgenommen sind Wohnüberbauungen, bei denen in einer Entfernung von höchstens 300 m vom Baugrundstück ein öffentlich zugänglicher Kinderspielplatz zur Verfügung steht.\n2) Das Mindestausmass der anrechenbaren Spielfläche eines Kinderspielplatzes beträgt - sofern der Gestaltungsplan nichts anderes bestimmt - je Wohnüberbauung 60 m&sup2; zuzüglich 3 m&sup2; für jede Wohneinheit. Als anrechenbare Spielfläche gilt jene Fläche, die zum Spielen geeignet und für diesen Zweck bestimmt ist. Zum Spielen nicht geeignete Bepflanzungen, Wege und dergleichen zählen nicht zur anrechenbaren Spielfläche.\n3) Aufgehoben\n4) Aufgehoben"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "5. Gestaltung",
+      "section": "30",
+      "title": "Art. 30 Fahrradabstellplätze",
+      "content": "Bei Neubauten im Sinne von Art. 58 des Gesetzes ist in der Regel pro Wohneinheit ein Fahrradabstellplatz vorzusehen. Allfällige Sonderbauvorschriften sind zu berücksichtigen.\n6. Einfriedungen und Stützmauern"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "6. Einfriedungen und Stützmauern",
+      "section": "31",
+      "title": "Art. 31 Einfriedungen und Bepflanzungen",
+      "content": "1) Der bestimmungsgemässe Gebrauch und Unterhalt der Strassen, Wege und Gewässerläufe darf durch Einfriedungen und andere Vorrichtungen nicht eingeschränkt werden.\n2) Die Gemeinde kann Einfriedungen und Bepflanzungen entlang von Gemeindestrassen untersagen, soweit die Verkehrssicherheit dies erfordert. Sie kann anordnen, dass bereits vorhandene Einfriedungen und Bepflanzungen, welche den bestimmungsgemässen Gebrauch der öffentlichen Strassen und Wege behindern, durch den Eigentümer soweit zurückzuversetzen sind, dass die gesetzlichen Abstände eingehalten werden. Die Baubehörde hat diese Ermächtigung im Bereich der Landstrassen.\n3) Türen und Tore dürfen beim Öffnen nicht in öffentliche Strassen und Wege hineinragen.\n4) Bei der Bemessung der Höhe von Einfriedungen ist die konstruktiv maximale Höhe massgebend. Rücksprünge oder Maueranzüge werden für die Abstandsbemessung nicht berücksichtigt.\n5) Die Gemeinde kann für das ganze Gemeindegebiet oder für bestimmte Teile davon Vorschriften über die Ausgestaltung von Einfriedungen, insbesondere hinsichtlich der zu verwendenden Materialien, der Höhe und der Abstände, erlassen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "6. Einfriedungen und Stützmauern",
+      "section": "32",
+      "title": "Art. 32 Stützmauern",
+      "content": "1) Aufgehoben\n2) Erfordert die Errichtung einer Stützmauer aufgrund der örtlichen Gegebenheiten eine Absturzsicherung, so ist die Höhe bis zur Oberkante dieser Sicherung als Gesamthöhe zu bemessen; die Kosten der Absturzsicherung sind von der Bauherrschaft zu tragen.\n3) Aufgehoben\n7. Abstellplätze für Motorfahrzeuge"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "7. Abstellplätze für Motorfahrzeuge",
+      "section": "33",
+      "title": "Art. 33 Mindestanzahl",
+      "content": "1) Die Anzahl der zu schaffenden Abstellplätze für Motorfahrzeuge ist von der Baubehörde festzulegen und richtet sich nach dem voraussichtlichen Bedarf unter Bedachtnahme auf die Verkehrsfrequenz, die aufgrund der Art, Lage, Grösse und Verwendung der Baute oder Anlage zu erwarten ist.\n2) Die Mindestanzahl der Abstellplätze bei Bauten und Anlagen richtet sich nach Anhang 1.\n3) Vorplätze zu Garagen und Carports gelten nicht als Freistellplätze.\n4) Bei der Erweiterung bestehender Bauten und Anlagen ist der tatsächliche Zusatzbedarf zu ermitteln.\n5) Die Benutzung der erforderlichen Abstellplätze muss auf die Dauer des Bestandes der Baute oder Anlage rechtlich und tatsächlich gesichert sein.\n6) Bei Bauten und Anlagen mit starkem Güterumschlagverkehr dürfen die für den Güterumschlag benötigten Flächen auf die Zahl der erforderlichen Abstellplätze nicht angerechnet werden.\n7) Die Berechnung der Abstellplätze ist jeweils auf Platzeinheiten aufzurunden.\n8) Lager-, Archiv-, Server- und Tresorräume in grösseren Dienstleistungs-, Industrie- und Gewerbebauten und deren zentrale Empfangsbereiche, die keiner anderen Nutzung zugeführt werden können, werden bei der Berechnung des Parkplatzbedarfes nicht berücksichtigt.\n9) Aufgehoben\n10) Die Baubehörde kann anstelle der vorgeschriebenen Einstellplätze im Einzelfall die Errichtung von Freistellplätzen gestatten, wenn die Errichtung der Einstellplätze insbesondere aufgrund schwieriger topografischer Verhältnisse oder in Fällen verdichteter Bauweise mit einem unverhältnismässigen Aufwand verbunden wäre. Vorbehalten bleiben weitergehende Bestimmungen im Rahmen von Sonderbauvorschriften, Ortsplanungskonzepten oder Verkehrsrichtplänen einer Gemeinde."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "7. Abstellplätze für Motorfahrzeuge",
+      "section": "34",
+      "title": "Art. 34 Überschreitung der Mindestanzahl",
+      "content": "Die Baubehörde kann unter Berücksichtigung der Grundsätze nach Art. 57 Abs. 2 des Gesetzes bestimmen, dass eine über die Mindestanzahl nach Art. 33 hinausgehende Anzahl an Abstellplätzen unzulässig ist."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "7. Abstellplätze für Motorfahrzeuge",
+      "section": "35",
+      "title": "Art. 35 Reduktion von Abstellplätzen",
+      "content": "1) Die Baubehörde kann bei grösseren Dienstleistungs-, Industrie- und Gewerbebauten eine Reduktion von Abstellplätzen bewilligen, sofern in einem Mobilitätskonzept nachgewiesen wird, wie und in welchem Umfang der motorisierte Individualverkehr im Rahmen eines ganzheitlichen Mobilitätssystems reduziert wird. Ein Mobilitätskonzept kann insbesondere folgende Massnahmen umfassen:\na) Parkraumbewirtschaftung;\nb) Anreizsysteme zur Benützung von Fahrrad, öffentlichen Verkehrsmitteln und zur Bildung von Fahrgemeinschaften;\nc) Mitfinanzierung von Linien oder Kursen des öffentlichen Verkehrs;\nd) Einsatz von Firmenbussen;\ne) organisierte gemeinschaftliche Nutzung eines oder mehrerer Motorfahrzeuge.\n2) Aufgehoben\n3) Aufgehoben\n4) Bei zu erwartender Mehrfachnutzung von Abstellplätzen, insbesondere bei der Nutzungsdurchmischung im Rahmen von Überbauungs- und Gestaltungsplänen, kann die Baubehörde eine entsprechende Reduktion zulassen. Bei Bauten und Anlagen mit verschiedenen Nutzungen ist die Anzahl für die einzelnen Nutzungen getrennt zu ermitteln."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "7. Abstellplätze für Motorfahrzeuge",
+      "section": "36",
+      "title": "Art. 36 Ausführung und Erschliessung von Abstellplätzen",
+      "content": "1) Soweit nachfolgend nichts anderes bestimmt ist, gelten für die Ausführung der Abstellplätze sowie deren Erschliessung und Hauszufahrten die einschlägigen Normen der VSS. Die Baubehörde kann Abweichungen im Einzelfall zulassen, sofern die Verkehrssicherheit nachweislich gewährleistet ist.\n2) Einzelgaragen müssen ein Innenmass von mindestens 5.50 m x 3.00 m, Doppelgaragen von mindestens 5.50 m x 5.50 m aufweisen. Bei Carports wird die Tiefe von der der Strassenseite zugeordneten Abstützung aus berechnet; ohne Abstützung ist die Fläche der vertikalen Projektion massgebend.\n3) Die Tiefe des Garagenvorplatzes hat in der Regel 5.50 m zu betragen, bei Carports genügt der gesetzlich festgeschriebene Strassenabstand.\n4) Die Baubehörde kann bei schwierigen topografischen Verhältnissen oder aus ortsbaulichen Gründen, insbesondere bei sehr steilen Hanglagen oder bei der Weiterführung einer bestehenden Strassenflucht, Ausnahmen gestatten, sofern die Verkehrssicherheit gewährleistet bleibt.\n5) Die Zugänglichkeit von Freistellplätzen ist stets zu gewährleisten."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "7. Abstellplätze für Motorfahrzeuge",
+      "section": "37",
+      "title": "Art. 37 Anbindung an öffentliche Strassen",
+      "content": "1) Zu- und Abfahrten von Abstellplätzen sind im Bereich öffentlicher Strassen so anzuordnen, dass der Verkehr auf den öffentlichen Strassen gut übersehbar ist und durch das Zu- und Abfahren so wenig wie möglich beeinträchtigt wird. Es ist auf den Zweck der Baute oder Anlage und auf die zu erwartende Verkehrsbelastung Bedacht zu nehmen.\n2) Aufgehoben\n3) Die Zu- und Abfahrten sind in der Regel auf einen Anschluss an die öffentliche Strasse zu beschränken. Dies gilt insbesondere bei der Erschliessung von grossflächigen oberirdischen Abstellplätzen und Sammelgaragen.\n4) Der Nachweis der Sichtweiten richtet sich nach den Normen der VSS. Die Baubehörde kann bei siedlungsorientierten Nebenstrassen, bei topographisch schwierigen Verhältnissen oder aus ortsbaulichen Gründen Abweichungen zulassen, sofern die Verkehrssicherheit gewährleistet ist.\n8. Bautechnische Vorschriften"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "38",
+      "title": "Art. 38 Baustatik",
+      "content": "1) Bauten und Anlagen müssen eine ihrer Art und Verwendung entsprechende Festigkeit sowie Standsicherheit und Brandwiderstandsfähigkeit aufweisen. Sie müssen selbständig und unabhängig von benachbarten Bauten und Anlagen bestehen können. Sie haben die Sicherheit und Gesundheit von Personen und Tieren zu gewährleisten.\n2) Aufgehoben\n3) Die Berechnung hat nach den anerkannten Regeln der Baustatik unter Berücksichtigung der Normen des SIA oder der Regelung in der Anlage der Verordnung über den Verkehr mit Bauprodukten im Europäischen Wirtschaftsraum zu erfolgen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "39",
+      "title": "Art. 39 Erdbebensicherheit",
+      "content": "1) Für den Nachweis der erdbebensicheren Planung und Ausführung einer Baute oder Anlage sind die von der Baubehörde vorgegebenen Formulare zu verwenden.\n2) Die Baubehörde kann Ausnahmen von den Anforderungen und Vorschriften zur Erdbebensicherheit gestatten, wenn:\na) der erhaltens- oder schützenswerte Charakter einer Baute oder Anlage beeinträchtigt würde;\nb) die bauliche Massnahme als nicht personengefährdend einzustufen ist; oder\nc) die bauliche Massnahme und die damit zusammenhängenden Aufwendungen nachweislich unverhältnismässig wären.\n3) Ob eine Baute oder Anlage im Sinne von Art. 69 des Gesetzes als gefährdet gilt, ist anhand der Kriterien nach Anhang 2 zu beurteilen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "42",
+      "title": "Art. 42 Anforderungen an Wohneinheiten",
+      "content": "1) Bei Wohneinheiten ist durch eine geeignete Gebäudeorientierung, Grundrissgliederung und Fensteranordnung eine den wohnhygienischen Anforderungen entsprechende Besonnung, Belichtung und Belüftung zu gewährleisten.\n2) In Mehrfamilienhäusern sind gut erreichbare und angemessen grosse Abstell- und Fahrradräume von mindestens 12 m&sup2; Raumgrösse zu errichten. Jedem Einfamilienhaus und jeder Wohneinheit ist ein Keller oder Abstellraum mit einer zusammenhängenden mindestens 8 m&sup2; grossen Grundfläche und einer lichten Mindestraumhöhe von 2.20 m zuzuordnen. In Einliegerwohnungen genügt eine Raumgrösse von 4 m&sup2;, für Zweizimmerwohnungen von 6 m&sup2;.\n3) Bei Ferienhäusern, denkmalgeschützten Bauten sowie Bauten der Alp- und Forstwirtschaft kann die Baubehörde in begründeten Fällen Abweichungen zulassen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "43",
+      "title": "Art. 43 Abfälle",
+      "content": "Bei Mehrfamilienhäusern ist für die Unterbringung von Müllcontainern und Sperrgutabfällen in der Umgebungsgestaltung ein ausreichend grosser Platz vorzusehen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "44",
+      "title": "Art. 44 Belichtung und Belüftung",
+      "content": "Räume, die zum Aufenthalt von Personen bestimmt sind, insbesondere Wohn- und Schlafräume, Küchen, Arbeitsräume und Werkstätten, sind ausreichend natürlich zu belichten und zu belüften. Die Mindestfläche der Belichtung hat 10 % der jeweiligen Fussbodenfläche zu betragen, wobei auf eine gleichmässige Verteilung der Belichtungsflächen, bezogen auf die jeweilige Räumlichkeit, zu achten ist. Abweichungen können im Einzelfall in Hanglagen bei unter dem gewachsenen Terrain liegenden Räumlichkeiten gestattet werden."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "45",
+      "title": "Art. 45 Raumniveau",
+      "content": "1) Der Fussboden von Wohnräumen in Untergeschossen darf mindestens an einer Fensterseite nicht tiefer als 0.70 m unter dem angrenzenden Gelände liegen. Bei Gewerbe- und Dienstleistungsbauten sowie topographisch schwierigem Gelände können Abweichungen gestattet werden, sofern die natürlichen Belichtungsverhältnisse gewährleistet sind.\n2) Für die Sicherstellung der natürlichen Belichtung bei Wohnräumen in Untergeschossen ist vor der massgeblichen Fensterseite eine mindestens 2.50 m breite, ebene Fläche mit anschliessender flacher Böschung auszuführen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "46",
+      "title": "Art. 46 Raumhöhe und Raumgrösse",
+      "content": "1) Die lichte Höhe von Räumen ist nach deren Zweckbestimmung und unter Berücksichtigung des Flächenausmasses festzulegen. Sie beträgt in Aufenthaltsräumen mindestens 2.30 m. Im Dachgeschoss muss mindestens in einer Breite von 2.50 m eine lichte Höhe von 2.30 m auf wenigstens der Hälfte der nutzbaren Fläche nachgewiesen werden. In Keller- und Abstellräumen genügt eine Mindesthöhe von 2.20 m.\n2) Mit Ausnahme von Sanitär- und Abstellräumen sowie Küchen hat die Mindestraumgrösse 9 m&sup2; zu betragen.\n3) Bei Renovationen und Umbauten bestehender Wohn- oder Arbeitsräume kann die Baubehörde Abweichungen von den Mindestmassen nach Abs. 1 und 2 gestatten, sofern die bisherige Nutzung gewährleistet bleibt.\n4) Bei Ferienhäusern und denkmalgeschützten Bauten können Abweichungen von den Vorschriften nach Abs. 1 und 2 gestattet werden, sofern Wohnwert und Funktion gewährleistet sind.\n5) Für Gebäude der Alp- und Forstwirtschaft oder andere nach Nutzungsart gleich einzustufende Objekte sind niedrigere Raumhöhen zulässig."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "47",
+      "title": "Art. 47 Treppen und Verbindungsgänge",
+      "content": "1) Jedes Geschoss ist durch eine Treppe zu erschliessen. Ein Aufzug ist ersatzweise nicht zulässig.\n2) Die Ausbaubreite der Verbindungsgänge, Treppen und Podeste hat der Zweckbestimmung des Gebäudes und den daraus resultierenden Benutzerfrequenzen zu entsprechen und mindestens 1.20 m zu betragen. In Einfamilienhäusern und innerhalb von Wohneinheiten ist eine Mindestbreite von Verbindungsgängen, Treppen und Podesten von 1.00 m, in Ferienhäusern von 0.70 m zulässig. Vorbehalten bleiben weitergehende Bestimmungen nach der Behindertengleichstellungsverordnung.\n3) Aufgehoben\n4) Aufgehoben\n5) Nach höchstens 18 Stufen ist ein Podest vorzusehen. Bei Podesten mit Richtungsänderung hat die Podestbreite 1.20 m zu betragen.\n6) Der Mindestdurchmesser einer gewendelten Treppe beträgt 2.30 m, bezogen auf die nutzbare Treppenbreite. In Mehrfamilienhäusern ab sechs Wohneinheiten, Dienstleistungsbauten, öffentlichen, industriellen und gewerblichen Bauten sind ausschliesslich gewendelte Treppen als Haupttreppen untersagt.\n7) Bei Treppen ab fünf Stufen ist mindestens ein fester Handlauf vorzusehen. Ausgenommen sind Bauten und Anlagen, die durch die Eigentümer oder Bauherrschaft selbst genutzt werden oder maximal fünf Wohneinheiten einer Gesamtüberbauung umfassen.\n8) Bei innenliegenden Treppen sind Geländer und Brüstungen in der Höhe von mindestens 0.90 m anzubringen, sofern Absturzgefahr besteht.\n9) Bei Renovationen und Umbauten von erhaltens- und schützenswerten Bauten kann die Baubehörde Ausnahmen gestatten."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "48",
+      "title": "Art. 48 Absturzgefährdete Stellen und Verglasungen",
+      "content": "1) Bei Rampen, Balkonen, Dachterrassen und anderen absturzgefährdeten Stellen sind Sicherheitsvorkehrungen zu treffen. Es gelten die Norm SIA 358 und die Empfehlungen des SIA.\n2) Als Schutzvorrichtungen sind auch dichte Bepflanzungen möglich, wenn dadurch ausreichende Sicherheit gewährleistet wird.\n3) Als massgebliche Höhe, ab der Schutzvorrichtungen notwendig sind, gilt die Absturzhöhe von mindestens 1.00 m.\n4) An den absturzgefährdeten Stellen sind die Schutzvorrichtungen mindestens 1.00 m hoch auszuführen, bei festen Brüstungen von mindestens 0.20 m Dicke beträgt die Mindesthöhe 0.90 m. Fenster mit zu geringer Brüstungshöhe sind mit zulässigen Schutzvorrichtungen gegen Absturz zu sichern. Demontierbare oder absperrbare Fenstergriffe sind keine zulässigen Schutzvorrichtungen; Drehsperren sind gestattet. Die Baubehörde kann Abweichungen gestatten, wenn die bestimmungsgemässe Nutzung verunmöglicht wird.\n5) Wird im Bereich einer absturzgefährdeten Stelle, die zum Aufenthalt von Personen dient, die maximal zulässige Gebäudehöhe erreicht, ist die Schutzvorrichtung mit einem Neigungswinkel von 45&deg; rückzuversetzen. Davon ausgenommen sind unterirdische Bauteile, soweit die Absturzsicherung eine maximale Höhe von 1.00 m nicht übersteigt.\n6) Verglasungen unter einer Brüstungshöhe von 0.90 m sowie Schutzvorrichtungen in Glasbauweise, die als Absturzsicherung dienen, sind in Verbundsicherheitsglas auszuführen.\n7) Weist die Brüstungshöhe von Fenstern, die geöffnet werden können, nicht wenigstens eine Höhe von 0.90 m über dem Fussboden auf, so sind die Fenster bis zu dieser Höhe gegen Absturzgefahr zu sichern. Als zulässige Schutzvorrichtungen gelten insbesondere Brüstungen, Geländer und Fixverglasungen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "8. Bautechnische Vorschriften",
+      "section": "49",
+      "title": "Art. 49 Aufzugsanlagen",
+      "content": "Aufzugsanlagen dürfen nur in Verkehr gebracht und in Betrieb genommen werden, wenn sie die grundlegenden Sicherheits- und Gesundheitsanforderungen der Richtlinie 2014/33/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aufzüge und Sicherheitsbauteile für Aufzüge (EWR-Rechtssammlung: Anh. II - Kap. III - 6.01) und der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG (EWR-Rechtssammlung: Anh. II - Kap. XXIV - 1c.01) erfüllen.\nB. Baubewilligungs- und Anzeigeverfahren\n1. Baubewilligungsverfahren"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "50",
+      "title": "Art. 50 Antrag auf Durchführung einer Vorprüfung",
+      "content": "1) Der Antrag auf Durchführung einer Vorprüfung nach Art. 74 des Gesetzes ist bei der Baubehörde unter Verwendung eines amtlichen Formulars einzureichen.\n2) Er hat zu enthalten:\na) Informationen über Art, Lage, Umfang, Nutzung und Bauweise des Bauvorhabens;\nb) Angaben zur Zonenzugehörigkeit des Baugrundstückes; und\nc) Angaben über die erforderlichen Abstellplätze.\n3) Dem Antrag sind beizufügen:\na) ein Übersichtsplan im Massstab 1:5 000 oder 1:10 000;\nb) ein amtlicher Situationsplan im Massstab 1:500, der nicht älter als ein Jahr sein darf;\nc) Skizzen der Geschossumrisse im Massstab 1:200;\nd) Skizzen aller Ansichten im Massstab 1:200."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "51",
+      "title": "Art. 51 Baugesuch",
+      "content": "1) Dem Baugesuch nach Art. 75 des Gesetzes sind beizufügen:\na) die zur Beurteilung des Bauvorhabens erforderlichen Planunterlagen, Berechnungen und Beschreibungen;\nb) der Nachweis des Eigentums oder Baurechts am Baugrundstück (Grundbuchauszug) oder, wenn der Gesuchsteller nicht selbst Eigentümer oder bauberechtigt ist, der Zustimmung des Eigentümers oder Bauberechtigten (Vollmacht);\nc) der Nachweis einer rechtlich gesicherten Verbindung des Baugrundstücks mit einer öffentlichen Strasse;\nd) Aufgehoben\ne) gegebenenfalls privatrechtliche Vereinbarungen über Dienstbarkeiten, insbesondere Grenz- und Näherbaurechte, Fuss- und Fahrwegrechte sowie Durchleitungsrechte;\nf) gegebenenfalls die rechtskräftige Bewilligung nach dem Gesetz über die Umweltverträglichkeitsprüfung und/oder dem Naturschutzgesetz;\ng) allfällig erforderliche Nachweise nach dem Energieausweisgesetz, dem Behindertengleichstellungsgesetz, der Verordnung zum Brandschutzgesetz und der Energieverordnung;\nh) allfällige Detailpläne und Beschreibungen zu Photovoltaik- und solarthermischen Anlagen;\ni) die erforderlichen Gesuchsunterlagen für die Bewilligung der Liegenschaftsentwässerung gemäss den Vorgaben des Abwasserreglements der Standortgemeinde.\n2) Das Baugesuch und die Planunterlagen sind vom Bauherrn und vom verantwortlichen Projektanten im Original zu unterzeichnen.\n3) Wird eine Ausnahme von den Bauvorschriften beantragt, ist dem Baugesuch eine schriftliche Begründung samt den erforderlichen Angaben und Unterlagen beizufügen.\n4) Unvollständige oder nicht unterzeichnete Baugesuche werden unter Ansetzung einer angemessenen Frist zur Vervollständigung an den Gesuchsteller zurückgesandt. Bei ungenütztem Ablauf der Frist ist das Baugesuch unter Hinweis auf die fehlenden Unterlagen zurückzuweisen."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "52",
+      "title": "Art. 52 Planunterlagen und Berechnungen",
+      "content": "1) Die Planunterlagen haben den Übersichtsplan, Situationsplan, sämtliche Grundrisse und Fassaden, die zur Beurteilung des Bauvorhabens erforderlichen Schnitte sowie ein Werkleitungsplan zu umfassen. Die Planunterlagen sind in Art und Darstellung nach den Grundsätzen der einschlägigen SIA-Norm auszuführen.\n2) Der Situationsplan ist bei Neubauten sechsfach, bei Umbauten vierfach einzureichen. Das Ausstellungsdatum darf höchstens ein Jahr, gerechnet vom Zeitpunkt der Einreichung des Baugesuchs, zurückliegen. Er hat zu enthalten:\na) die Nordrichtung;\nb) das Baugrundstück und auf ihm bestehende Bauten und Anlagen sowie die Lage der Nachbargrundstücke und Nachbargebäude;\nc) die äusseren Begrenzungslinien der geplanten Neubauten, Umbauten und Anbauten unter Angabe der wesentlichen Masse;\nd) die Grenz- und Gebäudeabstände innerhalb des zu bebauenden Grundstücks sowie die Abstände zu bestehenden und projektierten Gebäuden und Strassen;\ne) die Verbindung zu öffentlichen Strassen;\nf) Grünflächen und Abstellplätze für Motorfahrzeuge.\n3) Die Grundrisse sind vierfach, bei öffentlich zugänglichen Bauten und Anlagen im Sinne des Behindertengleichstellungsgesetzes fünffach, einzureichen. Die Grundrisse haben zu enthalten:\na) die Nordrichtung;\nb) in einem Hauptgeschossplan, in der Regel im Erdgeschoss: die Parzellengrenzen, die Zufahrt, die Kotierung des Geländes, Kinderspielplätze, Grünflächen, Bepflanzung, Abstellplätze für Motorfahrzeuge und Grenzabstände;\nc) die Wände und sonstigen Tragkonstruktionen, Treppen und Rampen, Fenster und Türöffnungen, Heizanlagen und Kamine;\nd) die Anordnung der Garagen und Carports sowie der übrigen Abstellplätze;\ne) die Zweckbestimmung der einzelnen Räume;\nf) die Kotierung der Geschosse, der Garageneinfahrt und des Strassenanschlusses;\ng) die Angabe eines kotierten Bezugspunktes (bezogen auf die Meereshöhe), der zweckmässigerweise im Bereich des Strassenanschlusses liegt;\nh) in Wohnbauten die Nettowohnfläche.\n4) Die Schnitte und Fassaden sind vierfach einzureichen und haben zu enthalten:\na) Konstruktionsangaben zu Decken, Wänden, Treppen, Rampen und Dachaufbauten;\nb) den gewachsenen Terrainverlauf mit Angabe der relevanten Höhenkoten (bezogen auf den Bezugspunkt) sowie die Kennzeichnung der Gebäudehöhe;\nc) die äusseren Ansichten des Bauvorhabens, bei Anbauten einschliesslich der Ansichten des Altbestandes; runde und sonstige nicht rechtwinklige Fassadenteile sind auch in ihrer Abwicklung darzustellen;\nd) bei öffentlich zugänglichen Bauten und Anlagen sowie anpassbaren Wohnbauten im Sinne der Behindertengleichstellungsgesetzgebung: die definitive Zugangssituation und allfällige Darstellung von Niveauunterschieden und -anpassungen;\ne) den Verlauf des anstossenden Geländes vor und nach der Bauausführung;\nf) in Hanglagen: ein Höhenlinienplan, erstellt von einem Vermessungs-, Kultur-, Geomatik- oder Bauingenieur;\ng) die massgeblichen Höhenkoten der bestehenden Gebäudehöhen des Altbestands im Falle eines Wiederaufbauprojekts.\n5) Aufgehoben\n6) Den Planunterlagen sind die Berechnungen der Kubatur gemäss SIA-Norm, der Bruttogeschossfläche nach Art. 42 des Gesetzes und der Nachweis der festgelegten Ausnützungsziffer beizubringen."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "53",
+      "title": "Art. 53 Massstab und Ausführung der Pläne",
+      "content": "1) Der Situationsplan ist im Massstab 1:500 oder gegebenenfalls im Massstab 1:1 000 unter Verwendung der Daten der Amtlichen Vermessung einzureichen. Die Grundrisse, Schnitte und Fassaden sowie der Kanalisationsplan sind im Massstab 1:100 auszuführen. Bei grossen Bauvorhaben kann im Einvernehmen mit der Baubehörde der Massstab 1:200, bei Kleinobjekten und kleinen Umbauten der Massstab 1:50 verwendet werden.\n2) In den Plänen sind die wichtigsten Masse einzutragen. Die Grundrisse haben die Innen- und Aussenmasse mit den Wandquerschnitten zu enthalten. In den Schnitten sind die Masse der Hauptkonstruktionen und die lichten Raumhöhen darzustellen. Bei Umbauten und Anbauten sind durch entsprechende Farbgebung der Altbestand (grau oder schwarz), Abbruch (gelb) und Neubestand (rot) ersichtlich zu machen.\n3) Werden bereits genehmigte Pläne nachträglich geändert, so sind die Änderungen durch die farbliche Kennzeichnung gelb/rot (Änderung zur Baueingabe) in einem ergänzenden Plansatz sichtbar zu machen. Die Pläne der effektiven Bauausführung sind vierfach einzureichen.\n4) Beim Abbruch von Bauten und Anlagen sind in der Regel die Bestandspläne ausreichend. Die Baubehörde kann je nach Qualität der vorhandenen Projektunterlagen eine Bauaufnahme verlangen. Die Baubehörde kann ausnahmsweise anstelle von Plänen fotografische Unterlagen zulassen sowie die Höhen- und Gebäudegrundmasse in exakter Darstellung verlangen.\n5) Die Pläne sind gefaltet im Normalformat (29.7 cm x 21 cm) einzureichen."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "54",
+      "title": "Art. 54 Ergänzende Unterlagen",
+      "content": "1) Soweit erforderlich, kann die Baubehörde ergänzende Unterlagen, wie Geländeaufnahmen, geologische Untersuchungen, Modelle, Farb- und Materialmuster, Pläne der Baustelleninstallation insbesondere bei Beanspruchung von öffentlichem Grund, Parkierungs- und Bepflanzungspläne, Konstruktions- und Detailpläne, statische Berechnungen, Höhenprofile, Höhenlinienpläne, ergänzende Nachweise zu Brandschutzkonzepten und den energetischen Anforderungen nach der Energieverordnung, Gutachten und dergleichen, verlangen.\n2) Bei Abbruchgesuchen betreffend erhaltens- oder schutzwürdige Objekte hat die Baubehörde nach Anhörung des Amtes für Kultur die Vorlage einer baugeschichtlichen Analyse zu veranlassen. Das Amt für Kultur legt den Rahmen und den zeitlichen Ablauf der baugeschichtlichen Analyse fest und beauftragt den Fachexperten.\n3) Für die Prüfung der Erschliessung kann die Baubehörde zusätzlich Signalisations- und Markierungspläne, Verkehrserschliessungspläne sowie Zusatzabklärungen zur Naturgefahrensituation verlangen.\n4) Die Vorlage von ergänzenden Unterlagen und Nachweisen kann auch als Bedingung oder Auflage in die Baubewilligung aufgenommen werden."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "55",
+      "title": "Art. 55 Gefahrentechnische Unterlagen und Nachweise",
+      "content": "1) Bei Bauten und Anlagen, die nach Massgabe der Naturgefahrenkarten in einer Gefahrenzone Blau, Blau+ oder Rot liegen, bestimmt das Amt für Bevölkerungsschutz Art und Umfang der dem Baugesuch beizulegenden gefahrentechnischen Unterlagen.\n2) Bei gefährdeten Bauten und Anlagen im Sinne von Art. 2 Abs. 1 Bst. g des Gesetzes, die in durch Naturgefahren gefährdeten, nicht von Abs. 1 erfassten Gebieten liegen, kann das Amt für Bevölkerungsschutz Art und Umfang der dem Baugesuch beizulegenden gefahrentechnischen Unterlagen bestimmen.\n3) Bei Bauten und Anlagen, die in durch Naturgefahren gefährdeten Gebieten liegen, ist der Nachweis zu erbringen, dass die Planung und Ausführung nach den anerkannten Regeln der Baukunst unter Berücksichtigung der Normen des SIA erfolgen; für diesen Nachweis sind die vom Amt für Bevölkerungsschutz vorgegebenen Formulare zu verwenden."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "56",
+      "title": "Art. 56 Bewilligungspflichtige Tiefbauvorhaben",
+      "content": "Dem Baugesuch für die Erstellung von Privatstrassen oder sonstigen nach Art. 72 des Gesetzes bewilligungspflichtigen privaten Tiefbauten sind ein Situationsplan, die notwendigen Längen- und Querprofile sowie die je nach Tiefbauvorhaben ergänzenden Detailpläne beizulegen. Bei gleichzeitiger Erstellung mit einem anderen Bauvorhaben sind diese Angaben in die ordentlichen Baugesuchsunterlagen zu integrieren."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "57",
+      "title": "Art. 57 Bewilligung von Vorbereitungsarbeiten",
+      "content": "1) Sofern aufgrund des Standes eines Baubewilligungsverfahrens offenkundig ist, dass kein Grund für die Zurückweisung oder Abweisung des Baugesuchs vorliegt, kann die Baubehörde auf Antrag insbesondere bei grösseren oder komplexeren Bauvorhaben noch vor Erteilung der Baubewilligung die Durchführung von Aushub-, Pfählungs-, Baugrubensicherungs- und Wasserhaltungsarbeiten sowie Ankerarbeiten gestatten.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "58",
+      "title": "Art. 58 Verweigerung des Abbruchs",
+      "content": "Eine Baubewilligung für den Abbruch einer Baute kann von der Baubehörde verweigert werden, wenn das Objekt im Interesse des Denkmal- oder Ortsbildschutzes oder aus Gründen besonderer geschichtlicher, architektonischer oder landschaftlicher Bedeutung erhaltenswert ist. Die Gemeinde ist hierüber vorgängig zu informieren und die Denkmalschutzkommission anzuhören. Vorbehalten bleibt eine allfällige Unterschutzstellung der Baute durch die Regierung."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "59",
+      "title": "Art. 59 Koordinationsverfahren",
+      "content": "1) Folgende Stellen sind von der Baubehörde im Rahmen des Koordinationsverfahrens nach Art. 78 des Gesetzes einzubeziehen:\na) die entscheidungsbefugten Stellen nach Anhang 3;\nb) die anhörungsberechtigten Stellen nach Anhang 4.\n2) Die Baubehörde hat dem Amt für Kultur nach Eingang des Baugesuches Kopien des Übersichts- und Situationsplanes zur Information zu übermitteln."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "60",
+      "title": "Art. 60 Einspracheverfahren",
+      "content": "1) Ist einem Einspracheberechtigten die Teilnahme an der Vermittlungsverhandlung nach Art. 77 des Gesetzes nicht möglich, kann er sich durch eine bevollmächtigte Person vertreten lassen.\n2) Die Zustellung der Einladung zur Vermittlungsverhandlung erfolgt nach den Bestimmungen des Zustellgesetzes.\n3) Die Baubehörde erstellt über den massgeblichen rechtlichen Inhalt der Vermittlungsverhandlung ein Protokoll. Dieses wird sämtlichen Beteiligten übermittelt."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Baubewilligungsverfahren",
+      "section": "61",
+      "title": "Art. 61 Planänderungen",
+      "content": "1) Als geringfügige Änderungen im Sinne von Art. 82 Abs. 3 des Gesetzes gelten ohne Änderung der Nutzungsart insbesondere innere Umbauten, Fassadenänderungen ohne direkte Einflussnahme auf die Nachbarschaft, der Aufbau von Photovoltaik- und Solaranlagen sowie Änderungen in der Umgebungsgestaltung. Die Genehmigung der Änderung hat nach Anhörung der Gemeinde schriftlich zu erfolgen.\n2) Die Baubehörde hat bei Planänderungen, die Auswirkungen auf die Nachbarn erwarten lassen, das Verständigungsverfahren nach Art. 77 des Gesetzes erneut durchzuführen.\n2. Anzeigeverfahren"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "2. Anzeigeverfahren",
+      "section": "62",
+      "title": "Art. 62 Bauanzeige",
+      "content": "1) Die Bauanzeige nach Art. 85 des Gesetzes ist unter Verwendung eines von der Bauherrschaft unterschriebenen amtlichen Formulars bei der Baubehörde einzureichen.\n2) Der Bauanzeige sind die in Art. 51 Abs. 1 Bst. b, c und h angeführten Unterlagen sowie die für die Beurteilung der Bauanzeige erforderlichen Pläne, Skizzen, Fotos oder dergleichen dreifach beizufügen.\n3) Bei anzeigepflichtigen Tiefbauvorhaben gilt Art. 56 sinngemäss."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "2. Anzeigeverfahren",
+      "section": "63",
+      "title": "Art. 63 Einbezug der Gemeinden",
+      "content": "Die Baubehörde hört im Anzeigeverfahren die Gemeinden je nach Natur des Bauvorhabens an.\n3. Baukontrolle"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "3. Baukontrolle",
+      "section": "64",
+      "title": "Art. 64 Schnurgerüst",
+      "content": "1) Das Protokoll über die Abnahme des Schnurgerüsts nach Art. 87 Abs. 1 Bst. b des Gesetzes ist von einem zugelassenen Vermessungs-, Kultur-, Bau- oder Geomatikingenieur zu erstellen und unmittelbar nach dessen Erstellung an die Baubehörde zu übermitteln. Im Protokoll sind neben dem kotierten Bezugspunkt (bezogen auf die Meereshöhe) auch die Lage der fertigen Aussenwand mit Grenzabständen anzugeben. Die Übermittlung kann auch elektronisch erfolgen.\n2) Die Baubehörde kann zur Überprüfung der Einhaltung der massgeblichen Gebäudehöhe entsprechende Nachweise eines zugelassenen Vermessungs-, Kultur-, Bau- oder Geomatikingenieurs verlangen."
+    },
+    {
+      "provision_ref": "art64a",
+      "chapter": "3. Baukontrolle",
+      "section": "64a",
+      "title": "Art. 64a Bauten und Anlagen in gefährdeten Gebieten",
+      "content": "1) Die Verantwortlichen nach Art. 84 des Gesetzes haben nach Fertigstellung von Bauten und Anlagen nach Art. 55 Abs. 1 und 2 zu bestätigen, dass:\na) alle nach Art. 64 Abs. 3 des Gesetzes festgelegten bautechnischen Schutzmassnahmen getroffen wurden; und\nb) die anzuwendenden SIA-Normen erfüllt sind.\n2) Für die Bestätigung nach Abs. 1 sind die vom Amt für Bevölkerungsschutz vorgegebenen Formulare zu verwenden; es erfolgt kein gesonderter Beizug des Amtes für Bevölkerungsschutz bei der Bauschlussabnahme nach Art. 87 Abs. 5 des Gesetzes.\nIV. Baustatistische Daten"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "IV. Baustatistische Daten",
+      "section": "65",
+      "title": "Art. 65 Datenerfassung",
+      "content": "1) Die Baubehörde erfasst im Zuge des Baubewilligungsverfahrens laufend die Daten, die für die Erstellung der Baustatistik erforderlich sind.\n2) Zu jedem bewilligungspflichtigen Bauvorhaben werden insbesondere die folgenden Merkmale erfasst:\na) Projektnummer und Projektstatus, Verfahrensart, Datum der Baugesuchseingabe und Datum der Erteilung der Baubewilligung;\nb) Gebäudeidentifikatoren;\nc) Standortadresse (Strasse, Hausnummer, Postleitzahl, Ort, Gemeinde);\nd) Parzellennummer und Zonenzugehörigkeit des Baugrundstücks;\ne) Name, Adresse und Typ des Auftraggebers (Bauwerbers);\nf) Art der Arbeiten;\ng) Art und Typ der Bauten und Anlagen;\nh) Bauweise;\ni) Anzahl der Gebäude;\nk) Anzahl neuer Wohnungen nach Anzahl Zimmer und Anzahl Geschosse;\nl) projektierte Bauvolumen, Bruttogeschossflächen und Baukosten;\nm) Überbauungsfläche und Verkehrsfläche;\nn) technische Ausstattung der Gebäude;\no) geplanter und tatsächlicher Baubeginn sowie geplantes und tatsächliches Bauende;\np) Merkmale, die für die Weiterentwicklung der Baustatistik zur Verbesserung der internationalen Vergleichbarkeit erforderlich sind."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "IV. Baustatistische Daten",
+      "section": "66",
+      "title": "Art. 66 Datenlieferungen für die Baustatistik",
+      "content": "1) Die Baubehörde liefert dem Amt für Statistik die Einzeldaten nach Art. 65:\na) vierteljährlich für Bauvorhaben, die im Vorquartal bewilligt oder abgeschlossen wurden;\nb) jährlich für Bauvorhaben, die im vergangenen Jahr bewilligt oder abgeschlossen wurden.\n2) Die Baubehörde stellt die Daten dem Amt für Statistik spätestens am letzten Tag des Folgemonats der Berichtsperiode zur Verfügung.\n3) Die Datenlieferung erfolgt in elektronischer Form gemäss der technischen Spezifikation des Amtes für Statistik.\nV. Gebühren"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "V. Gebühren",
+      "section": "67",
+      "title": "Art. 67 Höhe und Berechnung",
+      "content": "1) Die Baubehörde erhebt für nachstehende Tätigkeiten folgende Gebühren:\na) Bewilligung für die Errichtung, Veränderung und den Abbruch von Bauten und Anlagen sowie die Änderung der Nutzungsart oder Zweckbestimmung (Art. 72 Bst. a und b des Gesetzes): 0.60 Franken pro m&sup3;, mindestens jedoch 100 Franken;\nb) Bewilligung für die Errichtung von privaten Abstellplätzen für Motorfahrzeuge sowie von Mehrzweckplätzen, die Anlage und Veränderung von Lagerplätzen und Deponien sowie für den ober- und unterirdischen Materialabbau, Terrainveränderungen, die Errichtung von Sende- und Empfangsanlagen, die Errichtung und Abänderung von Privatstrassen und anderen privaten Tiefbauten, die Anlage von Campingplätzen sowie die Aufstellung von Wohnwagen und Mobilheimen ausserhalb der dafür genehmigten Plätze sowie die Errichtung von Beschneiungsanlagen (Art. 72 Bst. c bis h und k des Gesetzes): je nach Aufwand, mindestens jedoch 100 Franken;\nc) Bewilligung für die Errichtung und Abänderung von Anlagen der Haustechnik (Art. 72 Bst. i des Gesetzes): je nach Aufwand, mindestens jedoch 100 Franken und höchstens 300 Franken;\nd) Bewilligung von Planänderung: je nach Aufwand, mindestens jedoch 100 Franken;\ne) Erledigung von Bauanzeigen nach Art. 86 des Gesetzes: je nach Aufwand, mindestens jedoch 100 Franken;\nf) Sonderaufwendungen infolge der besonderen Natur des Baugesuchs, mangelhafter Pläne, mangelhafter Ausführung von Arbeiten, Einholung externer Gutachten und Expertisen: je nach Aufwand; die Kosten für externe Gutachten und Expertisen werden gesondert in Rechnung gestellt;\ng) Durchführung einer Vorprüfung nach Art. 74 des Gesetzes: je nach Aufwand, mindestens jedoch 1 000 Franken;\nh) Ausfertigung von Entscheidungen im Rahmen der Erledigung einer Einsprache: je nach Aufwand, mindestens jedoch 600 Franken je einsprechender Partei;\ni) Durchführung von zusätzlichen oder ergänzenden Bauschlussabnahmen, Abnahmen haustechnischer Anlagen, Nachkontrollen aufgrund bau-, energie- und feuerpolizeilicher Mängel: je nach Aufwand, mindestens jedoch 200 Franken;\nk) gefahrentechnische Überprüfung des Bauvorhabens: je nach Aufwand, mindestens jedoch 100 Franken;\nl) fachliche Begleitung und Überprüfung von Konzepten, insbesondere von Brandschutz-, Energie-, Erschliessungs- und Verkehrskonzepten: je nach Aufwand, mindestens jedoch 600 Franken;\nm) Aufgehoben\nn) Aufgehoben\no) Bewilligung für die Benützung von öffentlichem Grund des Landes:\n1. für Gerüste, Ablagerungen oder Baustelleninstallationen: 500 Franken pro Monat;\n2. für Grabarbeiten: 400 Franken pro m&sup2; Belagsfläche;\np) Prüfung von Baugrubenabschlüssen und Sicherungsmassnahmen: nach Aufwand, mindestens jedoch 300 Franken.\n2) Für nachstehende Tätigkeiten der Gestaltungskommission werden folgende Gebühren erhoben:\na) Beurteilung und Prüfung von Überbauungs- und Gestaltungsplänen: je nach Aufwand, mindestens jedoch 3 000 Franken;\nb) Beurteilung und Prüfung von Abänderungen genehmigter Überbauungs- und Gestaltungspläne: je nach Aufwand, mindestens jedoch 1 500 Franken.\n3) Aufgehoben\n4) Werden Gebühren nach Aufwand berechnet, so ist der Aufwandsberechnung ein Stundensatz von 150 Franken zu Grunde zu legen.\n5) Das Land ist von der Entrichtung von Gebühren nach Abs. 1 bis 3, die Gemeinden von den Gebühren nach Abs. 1 Bst. a und d befreit.\n6) Vorbehalten bleibt die Erhebung von Gebühren durch entscheidungsbefugte Stellen im Koordinationsverfahren nach der jeweiligen Spezialgesetzgebung.\nVI. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "68",
+      "title": "Art. 68 Zusammenarbeit von Baubehörde und Gemeinden",
+      "content": "Die Gemeinden unterstützen die Baubehörde beim Vollzug der baurechtlichen Vorschriften."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "69",
+      "title": "Art. 69 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Verordnung vom 30. März 1993 zum Baugesetz, LGBl. 1993 Nr. 62;\nb) Verordnung vom 6. Juni 1995 über die Abänderung der Verordnung zum Baugesetz, LGBl. 1995 Nr. 166;\nc) Verordnung vom 19. September 1995 über die Abänderung der Verordnung zum Baugesetz, LGBl. 1995 Nr. 189;\nd) Verordnung vom 9. September 1998 über die Abänderung der Verordnung zum Baugesetz, LGBl. 1998 Nr. 153;\ne) Kundmachung vom 6. Oktober 1998 der Aufhebung von Art. 17 Abs. 2 Satz 2 der Verordnung zum Baugesetz durch die Entscheidung des Fürstlich Liechtensteinischen Staatsgerichtshofes vom 3. September 1998 (StGH 1998/12), LGBl. 1998 Nr. 180;\nf) Verordnung vom 19. Januar 1999 über die Abänderung der Verordnung zum Baugesetz, LGBl. 1999 Nr. 17;\ng) Verordnung vom 14. Dezember 1999 über die Abänderung der Verordnung zum Baugesetz, LGBl. 1999 Nr. 251;\nh) Verordnung vom 15. April 2003 über die Abänderung der Verordnung zum Baugesetz, LGBl. 2003 Nr. 104;\ni) Kundmachung vom 16. Dezember 2003 der Aufhebung von Art. 35 Abs. 1 Bst. e der Verordnung zum Baugesetz durch das Urteil des Fürstlich Liechtensteinischen Staatsgerichtshofes vom 17. November 2003 (StGH 2002/70), LGBl. 2003 Nr. 275;\nk) Verordnung vom 13. April 2004 über die Abänderung der Verordnung zum Baugesetz, LGBl. 2004 Nr. 104;\nl) Verordnung vom 16. Mai 2006 über die Abänderung der Verordnung zum Baugesetz, LGBl. 2006 Nr. 80."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "70",
+      "title": "Art. 70 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2009 in Kraft.\nFürstliche Regierung:\ngez. Dr. Martin Meyer\nRegierungschef-Stellvertreter\nAnhang 1\n(Art. 33 Abs. 2)\nMindestanzahl von Abstellplätzen für Motorfahrzeuge bei Bauten und Anlagen\nEinstellplätze\nFreistellplätze\n1. Wohnbauten\n1.1 Einfamilienhäuser\n1 je Wohneinheit\n1 je Wohneinheit\nFür Einliegerwohnungen in Einfamilienhäusern genügt ein Freistellplatz.\n1.2 Mehrfamilienhäuser\n1 je Wohneinheit\n0.5 je Wohneinheit unter 100 m&sup2; Bruttogeschossfläche, darüber 1 je Wohneinheit\nBei Mehrfamilienhäusern mit mindestens sechs Wohneinheiten sind zusätzlich pro Wohneinheit 0.3 Abstellplätze für Besucher vorzusehen. Ab zehn Wohneinheiten sowie bei grösseren Überbauungen sind für Besucher 0.25 Abstellplätze nachzuweisen. Diese können auch in unterirdischen Parkierungshallen angeordnet sein, wenn sie stets frei zugänglich sind. Die Baubehörde kann bei topographisch schwierigen Verhältnissen und Kleinwohnungen bis 50 m&sup2; Bruttogeschossfläche Abweichungen gestatten. Die ermittelte Anzahl wird aufgerundet.\n1.3 Ferienhäuser\n2 je Wohneinheit\nDie Spezialbauvorschriften der Gemeinde bleiben vorbehalten.\n2. Industrie und Gewerbe\n2.1 Produktionsstätte\n1 je 3 Arbeitsplätze\n2.2 Verwaltungsflächen zu Industrie- und Gewerbegebäuden einschliesslich Administration\n1 je 60 m&sup2; Bruttogeschossfläche (BGF)\nFür den Güterumschlag sind je nach Betriebsstruktur separate Abstellplätze vorzusehen.\nFür Besucher der Verwaltungsbereiche sind Abstellplätze entsprechend der zu erwartenden Besucherfrequenz zu errichten.\n3. Dienstleistungsbetriebe, insbesondere öffentliche und private Verwaltung, Bank- und Postgebäude, Arztpraxen, Rechtsanwaltskanzleien, Verlage, Technische Büros, Coiffeur\n1 je 60 m&sup2; BGF\n1 je 60 m&sup2; BGF\nFür einzelne, nicht in einer grösseren Überbauung befindliche Dienstleistungsbetriebe bis 150 m&sup2; Bruttogeschossfläche können anstelle von Einstellplätzen ersatzweise Freistellplätze errichtet werden, wobei die gesamte Nutzungsstruktur und Parkierungsplanung des Objektes bzw. der Überbauung zu berücksichtigen sind.\n4. Verkaufsgeschäfte\n1 je 30 m&sup2; Nettoladenfläche\nFür den Güterumschlag sowie das Personal sind je nach Bedarf zusätzliche Abstellplätze zu errichten.\nBei Supermärkten, Warenhäusern und Einkaufszentren ab 500 m&sup2; Nettoladenfläche ist der Bedarf an Abstellplätzen im Einzelfall zu ermitteln.\n4.1 Verkaufsgeschäfte für Güter des nicht täglichen Bedarfs\n1 je 60 m&sup2; Nettoladenfläche\n5. Beherbergungsbetriebe, insbesondere Hotels, Pensionen und Ferienheime\n0.2 je Gästezimmer\n1 je 0.8 Gästezimmer\n6. Gastgewerbebetriebe\n1 je 3 Sitzplätze\nAuf die Mehrfachnutzung von Terrassen und innenliegenden Räumlichkeiten ist ausreichend Bedacht zu nehmen.\nFür das Personal sowie bei Erhöhung der Sitzplatzanzahl ist der Bedarf an Abstellplätzen im Einzelfall zu ermitteln.\n7. Unterhaltungsstätten, insbesondere Theater, Kino und Kleinbühnen\nje nach Bedarf\n1 je 4 Sitzplätze\n8. Öffentliche Bauten und Anlagen (ohne öffentliche Verwaltung und Schulen), insbesondere Alters- und Pflegeheime, Sportanlagen, Gemeindesäle und Vereinshäuser\nje nach Bedarf\nje nach Bedarf\n9. Schulen\nje nach Bedarf\n1 je Klassenzimmer\n10. Seilbahn- und Liftanlagen, Sesselbahnen\nje nach Bedarf\nje nach Bedarf\nAnhang 2\n(Art. 39 Abs. 3)\nKriterien für die Beurteilung gefährdeter Bauten und Anlagen\nMerkmale\nBeispiele\nBauwerksklasse II\nGrössere Menschenansammlungen wahrscheinlich.\nBesondere wertvolle Güter und Einrichtungen.\nBedeutende Infrastrukturfunktion.\nBeschränkte Gefährdung der Umwelt.\nSpitäler samt Anlagen und Einrichtungen, sofern sie nicht der Bauwerksklasse III zuzuordnen sind.\nEinkaufszentren, Sportstadien, Kinos, Theater, Schulen und Kirchen.\nGebäude der öffentlichen Verwaltung.\nBrücken von erheblicher Bedeutung nach einem Erdbeben sowie Brücken, welche über Verkehrswege mit erheblicher Bedeutung nach einem Erdbeben führen.\nStützmauern und Böschungen im Bereich von Verkehrswegen mit erheblicher Bedeutung nach einem Erdbeben.\nBauwerke sowie Anlagen und Einrichtungen für Versorgung, Entsorgung und elektronische Kommunikation, sofern sie nicht in die Bauwerksklasse III eingeordnet sind.\nHochkamine.\nBauwerksklasse III\nLebenswichtige Infrastrukturfunktion.\nErhebliche Gefährdung der Umwelt.\nAkutspitäler samt Anlagen und Einrichtungen.\nBauwerke sowie Anlagen und Einrichtungen für den Bevölkerungsschutz (z.B. Feuerwehrgebäude oder Ambulanzgaragen).\nBrücken von grosser Bedeutung für die Zugänglichkeit eines Gebietes nach einem Erdbeben.\nStützmauern und Böschungen im Bereich von Verkehrswegen mit grosser Bedeutung für die Zugänglichkeit ausgewählter Bauwerke oder eines Gebietes nach einem Erdbeben.\nLebenswichtige Bauwerke für Versorgung, Entsorgung, elektronische Kommunikation.\nAnmerkung: Die Einteilung in Bauwerksklassen erfolgt nach Massgabe der SIA-Norm 261.\nAnhang 3\n(Art. 59 Abs. 1 Bst. a)\nEntscheidungsbefugte Stellen\nBauten / Massnahmen\nBetroffene Stellen\nSämtliche bewilligungspflichtige Bauten und Anlagen nach Art. 72 des Gesetzes\nGemeinden und Amt für Umwelt\nGaststätten und nahrungsmittelverarbeitende Betriebe sowie Ladengeschäfte\nAmt für Lebensmittelkontrolle und Veterinärwesen sowie Amt für Volkswirtschaft\nBauten und Anlagen, in denen Tiere gehalten werden; Landwirtschaftsbetriebe\nAmt für Lebensmittelkontrolle und Veterinärwesen\nIndustrie- und Gewerbebauten sowie Arztpraxen\nAmt für Volkswirtschaft\nAnhang 4\n(Art. 59 Abs. 1 Bst. b)\nStellen, die im Rahmen des Koordinationsverfahrens zur Abgabe einer Stellungnahme eingeladen werden\nBauten / Massnahmen\nBetroffene Stellen\nBauvorhaben nach Art. 55 Abs. 1 und 2\nAmt für Bevölkerungsschutz\nAufgehoben\nAufgehoben\nBauvorhaben in den Gefahrenzonen Gelb, Blau, Blau+ und Rot bei den Gefahrenprozessen \"Wasser\" und \"Rutschungen\"\nAmt für Bevölkerungsschutz\nBauvorhaben in den Gefahrenzonen Gelb, Blau und Rot bei den Gefahrenprozessen \"Steinschlaggefahr\" und \"Lawinen\"\nAmt für Bevölkerungsschutz\nBauten und Anlagen im Waldgebiet oder am Waldrand\nAmt für Umwelt\nMassnahmen, Bauten und Anlagen ausserhalb der Bauzone\nAmt für Umwelt\nBauvorhaben an Gewässern\nAmt für Bevölkerungsschutz\nSämtliche Bauten und Anlagen ausserhalb der Bauzone sowie in Grundwasserschutzgebieten\nAmt für Umwelt\nBauvorhaben, die an oder in erhaltenswerten oder denkmalgeschützten Bauten ausgeführt werden und/oder in den Ortsbildinventaren und/oder im Archäologischen Perimeter enthalten sind\nAmt für Kultur und Denkmalschutzkommission\nBauvorhaben, bei denen eine Zivilschutzanlage vorgesehen ist\nAmt für Bevölkerungsschutz\nÖffentlich zugängliche Bauten\nLiechtensteiner Behindertenverband\nLandwirtschaftliche Bauten\nAmt für Umwelt\nKliniken, Arztpraxen, Labors\nAmt für Gesundheit\nAnbindung an öffentliche Strassenzufahrten (Grundstückszufahrten)\nAmt für Tiefbau und Geoinformation\nTerrainveränderungen und Einfriedungen im Bereich von Knoten an öffentlichen Strassen\nAmt für Tiefbau und Geoinformation\nParkierung (Kontrolle der Geometrie und Erreichbarkeit von Pflichtparkplätzen)\nAmt für Tiefbau und Geoinformation\nÜbergangsbestimmungen\n701.01 Bauverordnung (BauV)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2020 Nr. 53 ausgegeben am 7. Februar 2020\nVerordnung\nvom 4. Februar 2020\nüber die Abänderung der Bauverordnung\n...\nII.\nÜbergangsbestimmung\nAuf zum Zeitpunkt des Inkrafttretens dieser Verordnung hängige Verfahren findet das bisherige Recht Anwendung.\n...\n1\nLR 701.0\n2\nArt. 2 Abs. 1 Bst. g eingefügt durch LGBl. 2016 Nr. 295 .\n3\nArt. 3 abgeändert durch LGBl. 2016 Nr. 295 .\n4\nDie Normen des SIA und VSS können beim Amt für Hochbau und Raumplanung kostenlos eingesehen oder gegen Rechnung bei der Geschäftsstelle des SIA ( www.sia.ch ) bezogen werden.\n5\nArt. 6 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n6\nArt. 12 aufgehoben durch LGBl. 2016 Nr. 295 .\n7\nArt. 13 Abs. 1 abgeändert durch LGBl. 2013 Nr. 107 .\n8\nArt. 13 Abs. 1a eingefügt durch LGBl. 2013 Nr. 107 .\n9\nArt. 13 Abs. 2 abgeändert durch LGBl. 2016 Nr. 295 .\n10\nArt. 13 Abs. 3 aufgehoben durch LGBl. 2013 Nr. 107 .\n11\nArt. 16 Abs. 5 eingefügt durch LGBl. 2012 Nr. 290 .\n12\nArt. 17 aufgehoben durch LGBl. 2016 Nr. 295 .\n13\nArt. 20 Sachüberschrift abgeändert durch LGBl. 2016 Nr. 295 .\n14\nArt. 20 Bst. b Einleitungssatz abgeändert durch LGBl. 2016 Nr. 295 .\n15\nArt. 20 Bst. b Ziff. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n16\nArt. 21 Abs. 1 abgeändert durch LGBl. 2016 Nr. 295 .\n17\nArt. 21 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2012 Nr. 290 .\n18\nArt. 23 Abs. 3 abgeändert durch LGBl. 2016 Nr. 295 .\n19\nArt. 23 Abs. 4 abgeändert durch LGBl. 2016 Nr. 295 .\n20\nArt. 24 Abs. 2 eingefügt durch LGBl. 2012 Nr. 290 .\n21\nArt. 25 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n22\nArt. 26 aufgehoben durch LGBl. 2016 Nr. 295 .\n23\nArt. 28 abgeändert durch LGBl. 2012 Nr. 330 .\n24\nArt. 28 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n25\nArt. 29 Abs. 3 aufgehoben durch LGBl. 2016 Nr. 295 .\n26\nArt. 29 Abs. 4 aufgehoben durch LGBl. 2016 Nr. 295 .\n27\nÜberschrift vor Art. 31 abgeändert durch LGBl. 2016 Nr. 295 .\n28\nArt. 31 Abs. 1 abgeändert durch LGBl. 2016 Nr. 295 .\n29\nArt. 31 Abs. 2 abgeändert durch LGBl. 2012 Nr. 330 .\n30\nArt. 32 Sachüberschrift abgeändert durch LGBl. 2016 Nr. 295 .\n31\nArt. 32 Abs. 1 aufgehoben durch LGBl. 2016 Nr. 295 .\n32\nArt. 32 Abs. 3 aufgehoben durch LGBl. 2012 Nr. 290 .\n33\nArt. 33 Abs. 8 abgeändert durch LGBl. 2016 Nr. 295 .\n34\nArt. 33 Abs. 9 aufgehoben durch LGBl. 2016 Nr. 295 .\n35\nArt. 35 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2016 Nr. 295 .\n36\nArt. 35 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n37\nArt. 35 Abs. 3 aufgehoben durch LGBl. 2016 Nr. 295 .\n38\nArt. 36 Abs. 1 abgeändert durch LGBl. 2016 Nr. 295 .\n39\nArt. 36 Abs. 5 abgeändert durch LGBl. 2016 Nr. 295 .\n40\nArt. 37 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n41\nArt. 37 Abs. 3 abgeändert durch LGBl. 2016 Nr. 295 .\n42\nArt. 37 Abs. 4 eingefügt durch LGBl. 2016 Nr. 295 .\n43\nArt. 38 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n44\nArt. 39 Abs. 2 abgeändert durch LGBl. 2016 Nr. 295 .\n45\nArt. 40 aufgehoben durch LGBl. 2016 Nr. 295 .\n46\nArt. 41 aufgehoben durch LGBl. 2016 Nr. 295 .\n47\nArt. 42 Abs. 2 abgeändert durch LGBl. 2016 Nr. 295 .\n48\nArt. 42 Abs. 3 eingefügt durch LGBl. 2012 Nr. 290 .\n49\nArt. 43 abgeändert durch LGBl. 2016 Nr. 295 .\n50\nArt. 44 abgeändert durch LGBl. 2016 Nr. 295 .\n51\nArt. 45 Abs. 1 abgeändert durch LGBl. 2016 Nr. 295 .\n52\nArt. 46 Abs. 3 abgeändert durch LGBl. 2012 Nr. 290 .\n53\nArt. 46 Abs. 4 abgeändert durch LGBl. 2012 Nr. 290 .\n54\nArt. 47 Abs. 2 abgeändert durch LGBl. 2012 Nr. 290 .\n55\nArt. 47 Abs. 3 aufgehoben durch LGBl. 2016 Nr. 295 .\n56\nArt. 47 Abs. 4 aufgehoben durch LGBl. 2016 Nr. 295 .\n57\nArt. 47 Abs. 6 abgeändert durch LGBl. 2016 Nr. 295 .\n58\nArt. 47 Abs. 7 abgeändert durch LGBl. 2016 Nr. 295 .\n59\nArt. 48 Abs. 3 abgeändert durch LGBl. 2012 Nr. 290 .\n60\nArt. 48 Abs. 4 abgeändert durch LGBl. 2016 Nr. 295 .\n61\nArt. 48 Abs. 5 abgeändert durch LGBl. 2012 Nr. 290 .\n62\nArt. 48 Abs. 6 abgeändert durch LGBl. 2016 Nr. 295 .\n63\nArt. 48 Abs. 7 abgeändert durch LGBl. 2016 Nr. 295 .\n64\nArt. 49 abgeändert durch LGBl. 2015 Nr. 156 .\n65\nArt. 51 Abs. 1 Bst. d aufgehoben durch LGBl. 2016 Nr. 295 .\n66\nArt. 51 Abs. 1 Bst. g abgeändert durch LGBl. 2012 Nr. 290 .\n67\nArt. 51 Abs. 1 Bst. h eingefügt durch LGBl. 2012 Nr. 290 .\n68\nArt. 51 Abs. 1 Bst. i eingefügt durch LGBl. 2016 Nr. 295 .\n69\nArt. 52 Abs. 1 abgeändert durch LGBl. 2016 Nr. 295 .\n70\nArt. 52 Abs. 4 Bst. g eingefügt durch LGBl. 2016 Nr. 295 .\n71\nArt. 52 Abs. 5 aufgehoben durch LGBl. 2016 Nr. 295 .\n72\nArt. 53 Abs. 4 abgeändert durch LGBl. 2012 Nr. 290 .\n73\nArt. 54 Abs. 2 abgeändert durch LGBl. 2014 Nr. 5 .\n74\nArt. 55 abgeändert durch LGBl. 2020 Nr. 53 .\n75\nArt. 57 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 295 .\n76\nArt. 59 Abs. 2 abgeändert durch LGBl. 2012 Nr. 330 .\n77\nArt. 60 Abs. 3 abgeändert durch LGBl. 2016 Nr. 295 .\n78\nArt. 61 Abs. 1 abgeändert durch LGBl. 2016 Nr. 295 .\n79\nArt. 62 Abs. 1 abgeändert durch LGBl. 2012 Nr. 290 .\n80\nArt. 62 Abs. 2 abgeändert durch LGBl. 2012 Nr. 290 .\n81\nArt. 64a eingefügt durch LGBl. 2020 Nr. 53 .\n82\nArt. 67 Abs. 1 Bst. d abgeändert durch LGBl. 2016 Nr. 295 .\n83\nArt. 67 Abs. 1 Bst. g abgeändert durch LGBl. 2016 Nr. 295 .\n84\nArt. 67 Abs. 1 Bst. h abgeändert durch LGBl. 2016 Nr. 295 .\n85\nArt. 67 Abs. 1 Bst. i abgeändert durch LGBl. 2016 Nr. 295 .\n86\nArt. 67 Abs. 1 Bst. l abgeändert durch LGBl. 2016 Nr. 295 .\n87\nArt. 67 Abs. 1 Bst. m aufgehoben durch LGBl. 2015 Nr. 156 .\n88\nArt. 67 Abs. 1 Bst. n aufgehoben durch LGBl. 2015 Nr. 156 .\n89\nArt. 67 Abs. 1 Bst. o eingefügt durch LGBl. 2012 Nr. 330 .\n90\nArt. 67 Abs. 1 Bst. p eingefügt durch LGBl. 2012 Nr. 330 .\n91\nArt. 67 Abs. 2 abgeändert durch LGBl. 2016 Nr. 295 .\n92\nArt. 67 Abs. 3 aufgehoben durch LGBl. 2012 Nr. 330 .\n93\nAnhang 1 abgeändert durch LGBl. 2012 Nr. 290 und LGBl. 2016 Nr. 295 .\n94\nAnhang 3 abgeändert durch LGBl. 2012 Nr. 330 .\n95\nAnhang 4 abgeändert durch LGBl. 2012 Nr. 330 , LGBl. 2020 Nr. 53 und LGBl. 2022 Nr. 56 .\n96\nInkrafttreten: 8. Februar 2020."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Abstellplätze",
+      "definition": "Einstellplätze und Freistellplätze für Motorfahrzeuge;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Einstellplätze",
+      "definition": "Einzel- und Doppelgaragen, Abstellflächen in Parkierungshallen und gedeckte, höchstens an zwei Seiten geschlossene Unterstellplätze (Carports);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Freistellplätze",
+      "definition": "nicht gedeckte Abstellflächen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Wohneinheit",
+      "definition": "eine Wohnung, die durch einen separaten Zugang erschlossen ist, eine eigene Wohn-, Schlaf- und Kochgelegenheit hat und als in sich geschlossene funktionelle Einheit benutzbar ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "gewendelte Treppen",
+      "definition": "Treppen, die eine Änderung der Laufrichtungen von mindestens 90&deg; aufweisen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aufzugsanlagen",
+      "definition": "alle ortsfesten Fördereinrichtungen für den Personen- und Warentransport, insbesondere Liftanlagen, Rolltreppen, Fahrbänder, Aufzüge für Hochregallager, Hebebühnen und Aufzüge für Behinderte, die längs einer oder mehrerer Führungen bewegt werden. Ausgenommen sind Bahnanlagen und spezielle Betriebseinrichtungen nach besonderen Vorschriften.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Einliegerwohnung",
+      "definition": "eine zusätzliche kleine Wohneinheit mit höchstens 50 m&sup2; in einem Einfamilienhaus, die gegenüber der Hauptwohnung von untergeordneter Bedeutung ist. Sie verfügt über ein bis zwei Wohnräume, eigene sanitäre Anlagen sowie eine Kochmöglichkeit. Einliegerwohnungen sind durch einen separaten Zugang erschlossen.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "li-konso-2008349000",
+  "type": "statute",
+  "title": "Verordnung vom 16. Dezember 2008 über die Zustellung behördlicher Dokumente (Zustellverordnung; ZustV)",
+  "title_en": "",
+  "short_name": "ZustV",
+  "status": "in_force",
+  "issued_date": "2008-12-16",
+  "in_force_date": "2008-12-16",
+  "url": "https://www.gesetze.li/konso/2008349000",
+  "description": "Verordnung vom 16. Dezember 2008 über die Zustellung behördlicher Dokumente (Zustellverordnung; ZustV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Physische Zustellung",
+      "section": "1",
+      "title": "Art. 1 Zustellnachweis",
+      "content": "1) Jeder Zustellnachweis (Zustellschein, Rückschein) hat folgende Mindestangaben zu enthalten:\na) Geschäftszahl des zuzustellenden Dokuments;\nb) Datum der Zustellung;\nc) Ort der Zustellung;\nd) Identifikation des Zustellers;\ne) Name, Unterschrift und Eigenschaft des Übernehmers (Empfänger, Vertreter des Empfängers, Ersatzempfänger).\n2) Besondere Umstände, wie die Verweigerung der Übernahmebestätigung, sind vom Zusteller auf dem Zustellnachweis gesondert zu vermerken.\n3) Systeme zur elektronischen Übermittlung des Zustellnachweises sowie zur elektronischen Beurkundung der Zustellung nach Art. 24 Abs. 3 und 4 des Gesetzes dürfen nur mit Genehmigung der Regierung verwendet werden."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Physische Zustellung",
+      "section": "2",
+      "title": "Art. 2 Verständigung über die Hinterlegung",
+      "content": "1) Für die Verständigung über die Hinterlegung nach Art. 19 Abs. 2 des Gesetzes ist das Formular gemäss Anhang zu verwenden. Im Formular ist in den mit \"< >\" gekennzeichneten Feldern die jeweils zutreffende Ausprägung der Information einzusetzen.\n2) Die Verständigung über die Hinterlegung ist in die für die Abgabestelle bestimmte Abgabeeinrichtung einzulegen oder, wenn dies nicht möglich ist, an der Abgabestelle zurückzulassen oder an der Eingangstüre (Wohnungs-, Haus-, Gartentüre) anzubringen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Physische Zustellung",
+      "section": "3",
+      "title": "Art. 3 Information der Behörde",
+      "content": "Die mit der Durchführung der Zustellung betrauten Organe informieren die zustellende Behörde unverzüglich über zustellrelevante Umstände, die ihnen bekannt sind oder anlässlich eines Zustellversuchs bekannt werden; dazu gehört insbesondere eine längere Abwesenheit des Empfängers oder die Änderung der Zustelladresse.\nII. Elektronische Zustellung"
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "II. Elektronische Zustellung",
+      "section": "3a",
+      "title": "Art. 3a Hinterlegung der qualifizierten elektronischen Zustelladresse",
+      "content": "1) Der Antrag auf Eintragung oder Änderung einer qualifizierten elektronischen Zustelladresse nach Art. 30a des Gesetzes ist unter Verwendung des Online-Eingabeformulars beim Amt für Informatik einzureichen.\n2) Die Hinterlegung einer qualifizierten elektronischen Zustelladresse kann auch im Rahmen der erstmaligen Aktivierung eines Unternehmens nach Art. 13a der E-Government-Verordnung erfolgen."
+    },
+    {
+      "provision_ref": "art3b",
+      "chapter": "II. Elektronische Zustellung",
+      "section": "3b",
+      "title": "Art. 3b Einrichtung und Betrieb des elektronischen Zustelldienstes",
+      "content": "1) Für die elektronische Zustellung von behördlichen Dokumenten nach Art. 30b und 30c des Gesetzes wird ein elektronischer Zustelldienst eingerichtet.\n2) Die Regierung bestimmt einen Betreiber für den elektronischen Zustelldienst.\n3) Der Betreiber hat die für den ordnungsgemässen Betrieb des Zustelldienstes erforderlichen technischen und organisatorischen Anforderungen zu erfüllen. Zu diesem Zweck hat er folgende Unterlagen vorzulegen:\na) ein Sicherheits- und Betriebskonzept, aus dem insbesondere hervorgeht, wie die Zustellung mit Zustellnachweis durch elektronische Abholung nach Art. 30b des Gesetzes gewährleistet wird;\nb) ein Muster des Vertrages, den der Betreiber mit seinen Kunden abzuschliessen beabsichtigt;\nc) Angaben über die Gestaltung des barrierefreien Zugangs zum Zustelldienst und zur Mehrsprachigkeit.\n4) Er hat jährlich einen Nachweis über die Gewährleistung des Datenschutzes im Sinne der Datenschutzgesetzgebung und der Datensicherheit zu erbringen.\n5) Er hat die vom Amt für Informatik vorgegebenen technischen Schnittstellen und Formate zu unterstützen.\n6) Er hat bereitzustellen:\na) elektronisch zugestellte Dokumente den berechtigten Personen und Behörden während 12 Monaten;\nb) weitere Daten der Zustellung den berechtigten Behörden während 24 Monaten."
+    },
+    {
+      "provision_ref": "art3c",
+      "chapter": "II. Elektronische Zustellung",
+      "section": "3c",
+      "title": "Art. 3c Zustellung durch öffentliche Bekanntmachung bei fehlender elektronischer Zustelladresse",
+      "content": "Auf die Zustellung von behördlichen Dokumenten an Unternehmen findet Art. 28 des Gesetzes sinngemäss Anwendung, wenn:\na) eine Verpflichtung zur elektronischen Kommunikation (Art. 5 E-GovG) besteht; und\nb) eine elektronische Zustellung nach Massgabe von Art. 30 ff. des Gesetzes mangels Eintragung einer elektronischen Zustelladresse im Zentralen Personenregister (ZPR) nicht möglich ist.\nIII. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "III. Schlussbestimmung",
+      "section": "4",
+      "title": "Art. 4 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2009 in Kraft.\nFürstliche Regierung:\ngez. Otmar Hasler\nFürstlicher Regierungschef\nAnhang\n(Art. 2 Abs. 1)\nFormular über die Verständigung der Hinterlegung\n(Farbe hellblau, Format A5, Papierstärke mind. 240g/m&sup2;)\n(Vorderseite)\nVerständigung über die Hinterlegung eines behördlichen Dokuments\nEmpfänger\nAbsender Geschäftszahl\nHeute konnte Ihnen ein\n□ zu eigenen Handen zuzustellendes behördliches Dokument\n□ behördliches Dokument\nnicht zugestellt werden. Das Dokument wird daher hinterlegt.\nDas Dokument ist abzuholen Schalterzeiten am Hinterlegungsort:\n□ heute ab □□:□□ Uhr < Öffnungszeiten Mo bis Sa >\n□ ab dem nächstem Werktag\n□ ab dem nächstem Werktag ausser Samstag\n□ ab dem □□.□□.□□□□\nbis zum □□.□□.□□□□\nbei < Hinterlegungsort >\nBitte bringen Sie diese Verständigung und einen amtlichen Lichtbildausweis mit.\n...................................................... □□.□□.□□□□\nZusteller Datum\nBeachten Sie bitte die Rückseite!\n(Rückseite)\nWichtige Information!\nAuch wenn Sie das Dokument nicht abholen, können die Rechtswirkungen der Zustellung (z.B. der Beginn des Laufes von Fristen) eintreten:\n- Grundsätzlich gilt das Dokument als an jenem Tag zugestellt, an dem es zum ersten Mal zur Abholung bereitgehalten wird.\n- Anderes gilt nur dann, wenn Sie gegenüber der Behörde glaubhaft machen, dass Sie aufgrund eines Hindernisses (z.B. wegen Urlaubs oder Krankenhausaufenthalts) nicht binnen drei Werktagen vom Zustellvorgang Kenntnis erlangen konnten. In diesem Fall gilt das Dokument nur dann als zugestellt, wenn das Hindernis spätestens am vorletzten Tag der Abholfrist weggefallen ist und das hinterlegte Dokument am folgenden Tag behoben werden könnte. Sollte die Abholfrist bei Kenntnisnahme von dieser Verständigung schon abgelaufen sein, setzen Sie sich bitte umgehend mit dem Absender in Verbindung!\nZu eigenen Handen zuzustellende behördliche Dokumente werden nur dem Empfänger (bzw. dem Übernahmeberechtigten) ausgehändigt.\nSonstige Dokumente werden auch Personen ausgehändigt, an die ersatzweise zugestellt werden kann; das sind erwachsene Personen, die mit dem Empfänger im gemeinsamen Haushalt leben oder die Arbeitnehmer oder Arbeitgeber des Empfängers sind. Im Zweifelsfall ist nachzuweisen, dass eine Ersatzzustellung zulässig ist.\nAmtliche Lichtbildausweise sind Urkunden, die Namen und Lichtbild desjenigen, dem das Dokument ausgehändigt werden soll, enthalten und von Behörden oder von Einrichtungen des öffentlichen Rechts ausgestellt sind (z.B. Führerschein, Identitätskarte oder Reisepass).\nÜbernahmebestätigung\nIch habe heute das umseitig angeführte Dokument übernommen.\n□□.□□.□□□□ .......................................................\nDatum Unterschrift\n1\nLR 172.023\n2\nÜberschrift vor Art. 1 eingefügt durch LGBl. 2011 Nr. 601 .\n3\nÜberschrift vor Art. 3a eingefügt durch LGBl. 2011 Nr. 601 .\n4\nArt. 3a eingefügt durch LGBl. 2011 Nr. 601 .\n5\nBezeichnung geändert durch LGBl. 2011 Nr. 601 .\n6\nArt. 3a Abs. 2 eingefügt durch LGBl. 2026 Nr. 37 .\n7\nArt. 3b eingefügt durch LGBl. 2011 Nr. 601 .\n8\nBezeichnung geändert durch LGBl. 2011 Nr. 601 .\n9\nArt. 3c eingefügt durch LGBl. 2026 Nr. 37 .\n10\nÜberschrift vor Art.4 eingefügt durch LGBl. 2011 Nr. 601 ."
+    }
+  ],
+  "definitions": []
+}

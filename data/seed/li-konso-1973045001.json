@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-1973045001",
+  "type": "statute",
+  "title": "Gesetz vom 17. Juli 1973 betreffend die Einführung des Gesetzes über das Konkursverfahren (Konkursordnung)",
+  "title_en": "",
+  "short_name": "Konkursordnung",
+  "status": "in_force",
+  "issued_date": "1973-07-17",
+  "in_force_date": "1973-07-17",
+  "url": "https://www.gesetze.li/konso/1973045001",
+  "description": "Gesetz vom 17. Juli 1973 betreffend die Einführung des Gesetzes über das Konkursverfahren (Konkursordnung)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1) Die beiliegende Konkursordnung tritt am 1. Oktober 1973 in Kraft.\n2) Mit diesem Tage werden aufgehoben:\na) die Konkursordnung vom 1. Januar 1809;\nb) Art. 115 Abs. 4 und 5 der Rechtssicherungsordnung vom 9. Februar 1923, LGBl. 1923 Nr. 8;\nc) das Gesetz vom 6. September 1950 betreffend die Änderung der Konkursordnung, LGBl. 1950 Nr. 22.\n3) Zugleich treten alle übrigen Bestimmungen in Gesetzen und Verordnungen, die mit den Vorschriften der Konkursordnung im Widerspruch stehen, ausser Kraft.\n4) Unberührt bleiben die Vorschriften anderer Gesetze über die Wirkungen des Konkurses auf die bürgerlichen, politischen und Ehrenrechte des Gemeinschuldners."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Soweit in Gesetzen und Verordnungen auf die Konkursordnung oder eine der aufgehobenen gesetzlichen Bestimmungen verwiesen wird, treten die entsprechenden, mit dieser Konkursordnung erlassenen Vorschriften an deren Stelle."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1) Die vor dem Tage der Wirksamkeit der Konkursordnung eröffneten Konkurse sind nach den bisherigen Vorschriften zu Ende zu führen.\n2) In einem nach Beginn der Wirksamkeit der Konkursordnung eröffneten Konkursverfahren sind die Bestimmungen der Konkursordnung über Absonderungsrechte und diesen gleichgestellte Rechte sowie über sonstige einen Vorzug im Konkursverfahren geniessenden Rechte anzuwenden, auch wenn diese Rechte vor Beginn der Wirksamkeit der Konkursordnung erworben worden sind.\ngez. Franz Josef\ngez. Dr. Alfred Hilbe\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

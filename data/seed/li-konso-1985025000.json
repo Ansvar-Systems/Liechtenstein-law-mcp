@@ -1,0 +1,344 @@
+{
+  "id": "li-konso-1985025000",
+  "type": "statute",
+  "title": "Schwachstromverordnung vom 7. August 1984",
+  "title_en": "",
+  "short_name": "LGBl 1985.025",
+  "status": "in_force",
+  "issued_date": "1984-08-07",
+  "in_force_date": "1984-08-07",
+  "url": "https://www.gesetze.li/konso/1985025000",
+  "description": "Schwachstromverordnung vom 7. August 1984",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Geltungsbereich",
+      "content": "1) Diese Verordnung gilt für alle Schwachstromanlagen nach Art. 3 des Elektrizitätsgesetzes, die nach ihrem Inkrafttreten erstellt werden.\n2) Für in Betrieb stehende Anlagen gilt sie, wenn:\na) solche Anlagen erweitert oder in grossem Umfang umgebaut oder repariert werden;\nb) der Betrieb durch andere elektrische Anlagen gestört wird;\nc) Personen oder Sachen gefährdet werden.\n3) Können einzelne Bestimmungen dieser Verordnung nur unter ausserordentlichen Schwierigkeiten befolgt werden oder erweisen sie sich für die technische Entwicklung als hinderlich, so kann die Regierung oder in weniger bedeutenden Fällen die von ihr bezeichnete Kontrollstelle auf begründetes Gesuch hin Abweichungen bewilligen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Andere Vorschriften",
+      "content": "1) Soweit diese Verordnung nichts anderes bestimmt, gelten:\na) die Verordnung vom 7. August 1984 über die Erstellung, den Betrieb und den Unterhalt von elektrischen Starkstromanlagen;\nb) die Verordnung vom 7. August 1984 über die Parallelführungen und Kreuzungen elektrischer Leitungen unter sich und mit Eisenbahnen;\nc) die Verordnung vom 7. August 1984 über die Erstellung, den Betrieb und den Unterhalt der elektrischen Einrichtungen von Bahnen.\n2) Im übrigen sind die anerkannten Regeln der Technik zu beachten.\n3) Vorbehalten bleiben die Bestimmungen der Verordnung vom 9. Mai 1995 über den Verkehr mit elektrischen Betriebsmitteln im Europäischen Wirtschaftsraum, LGBl. 1995 Nr. 143, sowie der Verordnung vom 9. Mai 1995 über die elektromagnetische Verträglichkeit von Geräten im Europäischen Wirtschaftsraum, LGBl. 1995 Nr. 155."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffe",
+      "content": "In dieser Verordnung bedeutet:\n1. Abspannmast\nEin Mast, der die gesamten Zug- und Verdrehkräfte einer Leitung übernimmt. Er muss an kritischen Stellen in den Leitungszug eingebaut werden, um den Zusammenbruch grösserer Leitungsstrecken zu verhindern.\n2. Anlageerdung\nDie Erdung (Ziff. 8) einer Hochspannungsanlage.\n3. Betriebserdung\nDie für den Betrieb einer Schwachstromanlage erforderliche Erdung (Ziff. 8).\n4. Bezugserde\nDerjenige Teil der Erdoberfläche ausserhalb des Einflussbereiches der Erdung (Ziff. 8), in dem zwischen zwei beliebigen Punkten keine erheblichen, vom Erdungsstrom herrührende Spannungen auftreten (neutrale Erde).\n5. Eckmast\nEin Mast, der in Winkelpunkten von Leitungen steht und die resultierenden Zugkräfte übernimmt. Er kann zusätzlich als Abspannmast ausgebaut werden.\n6. Erden\nEinen leitfähigen Gegenstand über eine Erdungsleitung (Ziff. 9) mit Erdern (Ziff. 7) verbinden.\n7. Erder\nLeiter, die ausschliesslich zum Erden im Erdreich oder in Betonfundamenten eingebettet sind und mit dem Erdreich in gut leitender Verbindung stehen. Als Erder können auch Wasserleitungen oder metallene Hüllen von Kabeln und dergleichen dienen.\n8. Erdung\nDie miteinander verbundenen Erder (Ziff. 7) und Erdungsleitungen (Ziff. 9).\n9. Erdungsleitung\nDie von den zu erdenden Anlageteilen zu Erdern (Ziff. 7) führende Leitung, soweit sie ausserhalb des Erdreichs oder isoliert im Erdreich verlegt ist.\n10. Gemeinschaftstragwerk\nEin Tragwerk, auf dem sowohl Niederspannungs- als auch Schwachstromleitungen geführt werden.\n11. Hochspannungsbereich\nEr umfasst den Werk- (Ziff. 15) und den Übergangsbereich (Ziff. 13).\n12. Tragmast\nMast in gerader Leitungsstrecke. Er ist im wesentlichen zur Abstützung von Leitungen bestimmt und darf weder durch Zug- noch durch Verdrehkräfte stark beansprucht werden.\n13. Übergangsbereich\nDas unmittelbar an den Werkbereich (Ziff. 15) anschliessende, zwischen diesem und der Bezugserde (Ziff. 4) liegende Gebiet, in dem zwischen zwei Punkten erhebliche, vom Erdungsstrom der Hochspannungsanlage herrührende Spannungen auftreten können.\n14. Überspannungsschutz-Erdung\nDie für die Überspannungs-Schutzeinrichtung erforderliche Erdung (Ziff. 8).\n15. Werkbereich\nDerjenige Bereich der Hochspannungsanlage und des angrenzenden Gebietes, in dem die Spannungsverteilung durch die Anlageerdung (Ziff. 2) so gesteuert wird, dass der Spannungsabfall am Boden erst ausserhalb erfolgt."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Benachbarte Anlagen",
+      "content": "Schwachstromanlagen müssen, soweit dies ohne aussergewöhnlichen Aufwand möglich ist, so erstellt werden, dass ihr Betrieb durch andere elektrische Anlagen möglichst wenig gefährdet oder gestört wird und sie ihrerseits andere elektrische Anlagen möglichst wenig beeinträchtigen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Benachrichtigung anderer Betriebsinhaber",
+      "content": "Wer Schwachstromanlagen, die benachbarte elektrische Anlagen stören oder gefährden könnten, erstellen oder umbauen will, muss die Betriebsinhaber der benachbarten Anlagen von seinem Vorhaben rechtzeitig schriftlich benachrichtigen, damit im voraus Schutzmassnahmen getroffen werden können."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Art. 6 Verfahren bei Gefährdungen und Störungen",
+      "content": "1) Wird eine Schwachstromanlage durch eine elektrische Anlage gefährdet oder gestört und erhält die Kontrollstelle davon Kenntnis, so prüft diese zunächst, ob die Schwachstromanlage vorschriftsgemäss erstellt ist. Trifft dies zu oder hören die Gefährdungen oder Störungen trotz Verbesserungen an der Schwachstromanlage nicht auf, so ermittelt die Kontrollstelle die Ursachen.\n2) Im Rahmen der von der Kontrollstelle vorgeschlagenen Massnahmen bleibt es zunächst den Betriebsinhabern überlassen, sich zu verständigen. Wird keine Verständigung erzielt, so entscheidet die Regierung."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Art. 7 Verpflichtete Personen",
+      "content": "Wo die nachfolgenden Vorschriften nichts anderes bestimmen, verpflichten sie den Betriebsinhaber.\nII. Schutzmassnahmen\n1. Anlagen- und Personenschutz"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Anlagen- und Personenschutz",
+      "section": "8",
+      "title": "Art. 8 Anlagen",
+      "content": "Zur Vermeidung von Gefahren und Beschädigungen müssen folgende Anlagen geschützt werden:\na) oberirdische Leitungen und daran angeschlossene Anlageteile, einschliesslich der Erdkabel, gegen Überspannung und Überstrom. In nicht besonders blitzgefährdeten Gegenden kann bei Anlagen ohne Betriebserdung auf einen Überspannungsschutz im Gebäude verzichtet werden, wenn die oberirdische Leitung nicht länger als 100 m ist und keine oberirdischen Starkstromanlagen kreuzt;\nb) unterirdische Leitungen und angeschlossene Anlageteile gegen die von Starkstromanlagen verursachten Überspannungen. Gegen atmosphärische Überspannungen müssen Kabelanlagen nur bei besonders ungünstigen topographischen oder geologischen Verhältnissen geschützt werden;\nc) Aussenantennen gegen Blitzeinschläge;\nd) Leitungen und daran angeschlossene Anlageteile in explosionsgefährlichen Bereichen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "1. Anlagen- und Personenschutz",
+      "section": "9",
+      "title": "Art. 9 Schwachstromanlagen im Bereich von Hochspannungsanlagen",
+      "content": "1) Kann unter dem Einfluss eines Erdschlusses in einer Hochspannungsanlage oder auf einer Hochspannungsleitung zwischen der Erde und Teilen einer Schwachstromanlage eine Spannung von mehr als 500 V effektiv auftreten, so sind folgende Massnahmen zu treffen:\n1. Die gefährdeten Teile müssen gegen ihre Umgebung für eine Prüfspannung vom 1.3fachen der höchstmöglich auftretenden Spannung, wenigstens aber für 4 kV effektiv isoliert werden.\n2. Ist wegen der Eigenschaften der Schwachstromanlagen (Ausdehnung, mangelnde Übersichtlichkeit) damit zu rechnen, dass die Isolationsfestigkeit nicht dauernd aufrecht erhalten werden kann, so müssen Schutzübertrager mit entsprechender Spannungsfestigkeit in die Anlage eingebaut werden. Die Betriebserdung der Schwachstromanlage muss an die örtliche Erdung der Hochspannungsanlage angeschlossen werden.\n2) Die metallische Hülle eines Schwachstromkabels kann mit der Anlageerdung verbunden werden, wenn dabei die Spannung nach Abs. 1 unter 500 V effektiv bleibt und keine gefährlichen, schwer kontrollierbaren Potentialverschleppungen oder Korrosionsschäden entstehen.\n3) Erdkabel von Schwachstromanlagen müssen, wenn sie nahe bei Erdungen von Hochspannungsanlagen verlaufen, gegen gefährliche Einwirkungen geschützt werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Anlagen- und Personenschutz",
+      "section": "10",
+      "title": "Art. 10 Berührungsschutz",
+      "content": "An denjenigen Teilen der Schwachstromanlage, an denen die nach der Starkstromverordnung vom 7. August 1984 zulässige Berührungsspannung überschritten werden kann, müssen Schutzeinrichtungen angebracht werden, die unbeabsichtigte Berührungen verhindern."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Anlagen- und Personenschutz",
+      "section": "11",
+      "title": "Art. 11 Anforderungen an die Schutzeinrichtungen",
+      "content": "1) Die Schutzeinrichtungen müssen so beschaffen und angebracht sein, dass sie die Anlagen gegen Überspannung und Überstrom soweit wie möglich schützen. Sie dürfen, wenn sie ansprechen, weder Personen noch Sachen gefährden.\n2) Die Schutzwirkung muss auch bei einer Beschädigung durch aussergewöhnlich starke Beanspruchung wenigstens teilweise erhalten bleiben.\n3) In Gebäuden müssen die Schutzeinrichtungen so beschaffen und angebracht sein, dass sie die Brandgefährdung bei dauernder Berührung einer oberirdischen Schwachstromleitung mit einer oberirdischen Niederspannungsleitung verhindern.\n2. Erdung"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Erdung",
+      "section": "12",
+      "title": "Art. 12 Überspannungsschutz-Erdung",
+      "content": "1) Bei oberirdischer Einführung von Schwachstromleitungen in ein Gebäude muss die Überspannungsschutz-Einrichtung auf dem kürzesten Weg geerdet werden, vorzugsweise an ein metallenes Wasserleitungsnetz. Wo dies nicht möglich ist, muss ein Erder verlegt und mit den Wasserleitungen des Gebäudes verbunden werden.\n2) Beim Übergang von oberirdischen Leitungen auf Erdkabel müssen über möglichst kurze Verbinder Überspannungsschutz-Einrichtungen zwischen die Leitungen und die Kabelhüllen geschaltet werden. Sind die metallenen Kabelhüllen vom Erdboden isoliert, so müssen Erdbänder oder metallene Kabelkanäle zur Erdung der Überspannungs-Einrichtungen verwendet werden.\n3) Zur Vermeidung von gefährlichen Spannungen zwischen den verschiedenen Erdungen von Schwachstromeinrichtungen können diese innerhalb einer Anlage miteinander verbunden werden. Dabei müssen die Korrosionsverhältnisse berücksichtigt werden und die Verbindungen leicht kontrollierbar sein."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Erdung",
+      "section": "13",
+      "title": "Art. 13 Erder für Überspannungsschutz-Erdung",
+      "content": "1) Als Erder sind Band oder Runddraht von mindestens 10 m Länge zu verwenden. Sie müssen mindestens 50 cm tief, gestreckt und wenn möglich in dauernd feuchtes Erdreich verlegt werden. Die Querschnitte richten sich nach Abs. 4.\n2) Die Erder müssen ausreichend korrosionsbeständig sein; insbesondere muss die Bildung galvanischer Elemente (Korrosion) mit anderen im Boden vorhandenen Metallteilen verhindert werden.\n3) Bei der Erstellung der Überspannungsschutz-Erdung von Schwachstromanlagen ist ein so grosser Abstand zu benachbarten Hochspannungsanlagen einzuhalten, dass die in Art. 9 zugelassenen Werte nicht überschritten werden.\n4) Die minimalen Abmessungen von Erdern betragen:\nRunddraht\nBand\nMaterial\n&Oslash; mm\nmm\nFeuerverzinkter oder verbleiter Stahl\n8\n3 &times; 25\nKupfer\n6\n2 &times; 20"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Erdung",
+      "section": "14",
+      "title": "Art. 14 Betriebserdung",
+      "content": "1) Die Betriebserdung muss den betrieblichen Anforderungen genügen.\n2) Ist neben der Betriebserdung noch eine Überspannungsschutz-Erdung vorhanden, so müssen beide miteinander verbunden werden. Die Verbindung ist so zu erstellen, dass die durch Ausgleichströme entstehenden Spannungen zwischen den Anlageteilen möglichst klein sind. Dabei müssen auch besondere Einwirkungen wie Kurzschlüsse in benachbarten Starkstromanlagen (Art. 9) und Blitzeinschläge berücksichtigt werden.\n3) Die Betriebserdung darf nicht an Ableitungen der Gebäude-Blitzschutzanlage angeschlossen werden. Sie kann jedoch mit Wasser- und Zentralheizungsleitungen verbunden werden, auch wenn diese in die Gebäude-Blitzschutzanlage einbezogen sind."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Erdung",
+      "section": "15",
+      "title": "Art. 15 Anforderungen an Erdungsleitungen",
+      "content": "1) Der Querschnitt der Betriebserdungsleitung richtet sich nach den betrieblichen Anforderungen.\n2) Die Überspannungsschutz-Erdungsleitungen und ihre Verbindungsstellen müssen bezüglich Belastbarkeit, Haltbarkeit und mechanischer Festigkeit mindestens einem Kupferquerschnitt von 7 mm bei oberirdischer und 20 mm bei unterirdischer Verlegung entsprechen; der oberirdische Teil der Erdungsleitung von Antennen muss mindestens einem Kupferquerschnitt von 12 mm entsprechen. In explosionsgefährlichen Bereichen muss die Erdungsleitung mindestens einem Kupferquerschnitt von 10 mm entsprechen.\n3) Verschraubte metallische Montagegestelle dürfen nur als Erdungsleitung benützt werden, wenn bei der Demontage von Anlageteilen die Verbindung gewährleistet bleibt.\nIII. Leitungen\n1. Oberirdische Schwachstromleitungen\na) Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "a) Allgemeine Bestimmungen",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1) Leitungen sollen wenn möglich nicht über oder neben Hauptstrassen geführt werden.\n2) Bäume dürfen nicht als Tragwerke benützt werden.\n3) Leitungen sind so zu erstellen, dass sie auch bei extremen Witterungsverhältnissen nicht durch Bäume und Sträucher beeinträchtigt werden.\nb) Leiter"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "b) Leiter",
+      "section": "17",
+      "title": "Art. 17 Leiterarten",
+      "content": "1) Leiter können blank oder isoliert verwendet werden.\n2) Luftkabel können entweder aus selbsttragenden Leitern oder aus nicht selbsttragenden Leitern mit Tragelementen erstellt werden."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "b) Leiter",
+      "section": "18",
+      "title": "Art. 18 Leitermaterial",
+      "content": "Leiter und Tragelemente müssen ausreichend korrosionsbeständig oder mit einem lückenlosen Schutzüberzug versehen sein."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "b) Leiter",
+      "section": "19",
+      "title": "Art. 19 Festigkeit",
+      "content": "Selbsttragende Leiter sowie Tragelemente mit einer absoluten Bruchlast von weniger als 1250 N (125 kg) dürfen nicht verwendet werden."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "b) Leiter",
+      "section": "20",
+      "title": "Art. 20 Höchstbeanspruchung",
+      "content": "Die höchstzulässige Beanspruchung der selbsttragenden Leiter sowie der Tragelemente darf, unter Berücksichtigung von Art. 21, den elastischen Bereich nicht überschreiten."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "b) Leiter",
+      "section": "21",
+      "title": "Art. 21 Belastungsannahmen",
+      "content": "1) Zugbeanspruchung und Durchhang sind aufgrund folgender Belastungsannahmen zu berechnen:\na) tiefste Ortstemperatur, ohne Zusatzlast und ohne Wind. Als tiefste Ortstemperatur sind mindestens folgende Werte einzusetzen:\nbis 1 000 m ü. M. - 20&deg; C\nvon 1 000 bis 1 500 m ü. M. - 25&deg; C\nüber 1 500 m ü. M. - 30&deg; C;\nb) Temperatur von 0&deg; C und eine gleichmässig verteilte Zusatzlast, z. B. Schnee, Eis und Rauhreif, von mindestens 8 N (0.8 kg) pro Meter Leiterlänge, ohne Wind.\n2) Für Gegenden, wo erfahrungsgemäss wesentlich günstigere oder ungünstigere Verhältnisse herrschen, kann die Kontrollstelle in Einzelfällen auf Gesuch hin oder von Amts wegen andere Zusatzlasten oder Temperaturen festsetzen.\n3) Die Berechnungen sind nach folgenden Methoden durchzuführen:\na) bei Spannweiten bis 300 m und einem Winkel zwischen der Horizontalen und der Verbindungsgeraden der beiden Aufhängepunkte bis zu 30&deg; nach der Parabelgleichung;\nb) bei allen anderen Spannweiten und bei Winkeln von mehr als 30&deg; nach der Gleichung der Kettenlinie."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "b) Leiter",
+      "section": "22",
+      "title": "Art. 22 Bodenabstände",
+      "content": "1) Die Leiter müssen sowohl bei + 40&deg; C als auch bei 0&deg; C und der nach Art. 21 angenommenen Zusatzlast mindestens folgende Abstände vom Erdboden haben:\na) 4 m auf nicht befahrbarem, wenig begangenem Gebiet;\nb) 5 m in Ortschaften, über Strassen und Plätzen sowie auf freiem Feld, falls mit hohen landwirtschaftlichen Fahrzeugen zu rechnen ist.\n2) Die Kontrollstelle kann in begründeten Ausnahmefällen kleinere Abstände bewilligen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "b) Leiter",
+      "section": "23",
+      "title": "Art. 23 Verbindungen von Leitern und Tragelementen",
+      "content": "1) Die Verbindungen der Leiter müssen denselben übertragungstechnischen Anforderungen genügen wie das Leitermaterial.\n2) Die Verbindungen der selbsttragenden Leiter oder der Tragelemente müssen die Anforderungen nach den Art. 19 und 20 erfüllen.\n3) Die Verbindungen der Leiter sind normalerweise an den Tragwerken zu erstellen.\n4) Die Verbindungen selbsttragender Leiter können auch in freier Spannweite erstellt werden.\n5) Die Verbindungen der nichtselbsttragenden Leiter der Luftkabel können ebenfalls in freier Spannweite erstellt werden, wenn sie vom Zug entlastet sind.\n6) Wird von einem Leiter ein anderer abgezweigt, so muss die Verbindungsstelle vom Zug des abzweigenden Leiters entlastet werden."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "b) Leiter",
+      "section": "24",
+      "title": "Art. 24 Befestigung",
+      "content": "1) Für die Befestigung der blanken Leiter müssen witterungsbeständige Isolatoren verwendet werden, die gegen mechanische und elektrische Beanspruchungen widerstandsfähig genug sind.\n2) Ein blanker Leiter muss am Isolator so befestigt sein, dass die richtige Lage dauernd und ohne nennenswerte Beeinträchtigung seiner Festigkeit gewährleistet ist.\n3) Isolierte Leiter und Luftkabel müssen mit witterungsbeständigen Konstruktionselementen befestigt werden, die gegen mechanische Beanspruchung widerstandsfähig genug sind. Die Konstruktionselemente dürfen die Leiterisolation oder den Luftkabelmantel weder mechanisch noch elektrisch beeinträchtigen.\n4) Für die Berechnung der Befestigungselemente müssen berücksichtigt werden:\na) bei Stütz- oder Hängeelementen an Tragmasten der Betriebszustand der Leitung und die Zusatzlast nach Art. 21;\nb) bei Abspannelementen an Abspannmasten oder an zur Abspannung ausgebauten Eckmasten der einseitige Leiterzug und die Höchstbeanspruchung der Leiter nach Art. 20.\nc) Tragwerke\naa) Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "c) Tragwerke",
+      "section": "25",
+      "title": "Art. 25 Kennzeichnung",
+      "content": "1) Alle Tragwerke müssen die Initialen des Leitungseigentümers tragen und fortlaufend numeriert werden.\n2) Wenn es die Sicherheit erfordert, sind folgende Bezeichnungen zusätzlich anzubringen:\na) Jahr der Aufstellung;\nb) Gesamtlänge des Tragwerks;\nc) Jahr der Behandlung gegen Fäulnis und die Initialen der ausführenden Unternehmung.\n3) Alle Aufschriften müssen vom Boden aus gut lesbar sein."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "c) Tragwerke",
+      "section": "26",
+      "title": "Art. 26 Tragwerkmaterial",
+      "content": "Das Material muss eine genügende Lebensdauer der Tragwerke gewährleisten und die Festigkeitsanforderungen erfüllen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "c) Tragwerke",
+      "section": "27",
+      "title": "Art. 27 Erdung",
+      "content": "1) Folgende Tragwerke oder Tragwerkteile sind zu erden:\na) Kabelüberführungstragwerke aus leitendem Material;\nb) metallische Konstruktionsteile an Kabelüberführungstragwerken aus nichtleitendem Material;\nc) Tragwerke aus leitendem Material an allgemein zugänglichen Stellen, wenn sie wegen ihres Standorts den atmosphärischen Entladungen besonders stark ausgesetzt sind.\n2) Leitende Tragwerke an oder auf Gebäuden müssen geerdet werden.\nbb) Berechnung der Tragwerke"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "c) Tragwerke",
+      "section": "28",
+      "title": "Art. 28 Kräfteannahmen",
+      "content": "1) Für die Berechnung der Festigkeit von Tragwerken gelten unter Berücksichtigung des Endausbaus folgende Kräfteannahmen:\na) das Eigengewicht der Tragwerke und der Leiter, dazu die gleichmässig verteilte Zusatzlast nach Art. 21;\nb) der Leiterzug ohne Zusatzlast, mit senkrecht zur Leitungsrichtung waagrecht wirkendem Winddruck;\nc) der Leiterzug mit Zusatzlast nach Art. 21, jedoch ohne Winddruck;\nd) ein Winddruck für jeden Quadratmeter Fläche von:\n1 000 N ( 100 kg)\nfür senkrecht getroffene, ebene Flächen;\n700 N ( 70 kg)\nfür die Ansichtsfläche zylindrischer Tragwerkteile und der Isolatoren;\n500 N ( 50 kg)\nfür die Ansichtsfläche von Drähten und Draht-\nseilen.\n2) Für Gegenden, wo erfahrungsgemäss wesentlich günstigere oder ungünstigere Verhältnisse herrschen, kann die Kontrollstelle in Einzelfällen auf Gesuch hin oder von Amts wegen andere Werte für den Winddruck festsetzen.\n3) Die vom Wind getroffenen Flächen F eines Fachwerks sind nach folgender Formel zu bestimmen:\nIn dieser Formel bedeuten:\nF'g\ndie ganze Umrissfläche der vorderen, dem Winde zugekehrten Mastwand,\nF'm\ndie Fläche der Lücken der vorderen Mastwand,\nF\"g\ndie ganze Umrissfläche der hinteren Mastwand,\nF\"m\ndie Fläche der Lücken der hinteren Mastwand.\n4) Die vorgeschriebenen Kräfteannahmen sind zu ergänzen für:\na) Tragmasten\ndurch den einseitigen Zug von 2 % der nach Art. 21 Abs. 1 Bst. b berechneten Belastung sämtlicher Leiter, der in Leitungsrichtung, auf der Höhe der Mittelkraft der Leiterzüge wirkt.\nb) Eckmasten\ndurch den einseitigen Zug von 10 % der nach Art. 21 Abs. 1 Bst. b berechneten Belastung sämtlicher Leiter, der in Leitungsrichtung auf der Höhe der Mittelkraft der Leiterzüge wirkt.\nc) Abspannmasten\ndurch die nach Art. 21 berechneten grössten Kräfte des einseitigen Leiterzuges.\nIn besonderen Fällen sind den Berechnungen die ungünstigsten wirklich zu erwartenden Belastungen zugrundezulegen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "c) Tragwerke",
+      "section": "29",
+      "title": "Art. 29 Sicherheitswerte",
+      "content": "Die Festigkeit der Tragwerke muss Gewähr dafür bieten, dass bei Einwirken der nach Art. 28 angenommenen Kräfte die folgenden Sicherheitswerte nicht unterschritten werden:\nHolz 2.5fach\nMetall 2.25fach\nandere Materialien 2.5fach."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "c) Tragwerke",
+      "section": "30",
+      "title": "Art. 30 Holztragwerke",
+      "content": "Der Berechnung der erforderlichen Festigkeit von Holztragwerken sind folgende Werte zugrunde zu legen:\nZulässige Beanspruchung\nEinheit\nZug\nDruck\nBiegung\nAbscherung\nWeich- und Hartholz (in der Faserrichtung)\nN/mm\n10\n10\n19\n1.5\n(kg/cm )\n(100)\n(100)\n(190)\n(15)\nElastizitätsmodul 8 000 N/mm (80 000 kg/cm )"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "c) Tragwerke",
+      "section": "31",
+      "title": "Art. 31 Knicksicherheit der Konstruktionsteile aus Holz",
+      "content": "1) Auf Druck beanspruchte Konstruktionsteile aus Holz, bei denen Knickgefahr besteht, sind auf ihre Knicksicherheit zu untersuchen.\n2) Die Beanspruchung σ\nk\ndarf bei ganz oder annähernd zentrischem Kraftangriff höchstens betragen:\nIn diesen Formeln ist die Sicherheit nach Art. 29 eingeschlossen. Für die freie Knicklänge l ist in der Regel die ganze freie Systemlänge, in Zentimeter, einzusetzen; handelt es sich indessen um Konstruktionsteile, die mit mehreren mechanischen Verbindungselementen befestigt sind, so darf der 0.8fache Betrag der Systemlänge in Rechnung gesetzt werden. Exzentrischer Kraftangriff oder besondere Einspannungs- oder Führungsverhältnisse, durch welche die Knicksicherheit besonders ungünstig beeinflusst wird, sind zu berücksichtigen.\nDer in Betracht fallende Trägheitshalbmesser i ist in Zentimeter in den Formeln zu verwenden. Wird der Durchmesser des Konstruktionsteils mit d bezeichnet, so ist i = d/4 ."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "c) Tragwerke",
+      "section": "32",
+      "title": "Art. 32 Metall und andere Materialien",
+      "content": "Tragwerke können auch aus Metall oder anderen geeigneten Materialien erstellt werden, wenn deren Festigkeit genügt. Die Kontrollstelle kann eine Festigkeitsprüfung durch eine Prüfanstalt anordnen.\ncc) Tragwerkfundamente"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "c) Tragwerke",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1) Alle Tragwerke müssen so im Boden befestigt werden, dass sie bei der nach Art. 28 zu erwartenden Belastung weder verschoben noch schiefgestellt werden.\n2) Holzstangen, die direkt in den Boden gesteIlt werden, sind fest zu verrammen. In besonderen Fällen muss, je nach Bodenbeschaffenheit, die Druckfläche vergrössert werden.\n3) Holzstangen bis zu 7 m Gesamtlänge müssen normalerweise 120 cm tief eingegraben werden. Für jeden weiteren Meter Stangenlänge vergrössert sich die Eingrabtiefe um 10 cm.\n4) Holzstangen dürfen nicht unmittelbar in den Boden einbetoniert werden. Als besondere Fundamente können Stangenfüsse aus Material verwendet werden, das gegen die Einwirkungen des Erdbodens widerstandsfähig ist. Die Stangen müssen auswechselbar und vor Erdfeuchtigkeit und Wasseransammlungen geschützt befestigt werden. Die Festigkeit der Stangenfüsse muss wenigstens gleich gross sein wie die der Tragwerke.\n5) Fundamente anderer Tragwerke sind für die zu erwartende Höchstbelastung unter Berücksichtigung der Fundamenteinspannung zu berechnen. Die Kippsicherheit muss mindestens 1.5fach sein.\n6) Betonfundamente für metallene Tragwerke sind wenn möglich über den Boden hinauszuführen.\ndd) Verstrebungen und Verankerungen von Tragwerken"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "c) Tragwerke",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1) Das Material muss eine genügende Lebensdauer der Verstrebungen und Verankerungen gewährleisten und die Festigkeitsanforderungen erfüllen.\n2) Werden Abspann- oder Eckmaste verstrebt oder verankert, so ist wo es die örtlichen Verhältnisse erlauben, die Strebe vorzuziehen. Durch geeignete Vorkehren muss verhindert werden, dass die Strebenenden ausreissen oder ausweichen.\n3) Der aus dem Boden herausragende massive Ankerteil muss einen Querschnitt von mindestens 50 mm aufweisen.\n4) In die Verankerungen sind Nachspannvorrichtungen und in der Regel nichtstarre Verbindungen einzubauen.\n5) Elektrisch leitende Verankerungen müssen so an den Tragwerken befestigt werden, dass unbeabsichtigte Berührungen mit unter Spannung stehenden Anlageteilen unmöglich sind.\nee) Sicherheitsnachweis"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "c) Tragwerke",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Die Festigkeit kann im Einvernehmen mit der Kontrollstelle durch Belastungsproben am fertigen Tragwerk geprüft werden. Sie wird als ausreichend erachtet, wenn die Proben die in Art. 29 vorgeschriebenen Sicherheitswerte ergeben.\n2. Erdkabel"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Erdkabel",
+      "section": "36",
+      "title": "Art. 36 Allgemeine Bestimmungen",
+      "content": "1) Die Leiter sind mit einer zweckentsprechenden Hülle zu versehen.\n2) Die leitenden Kabelmäntel und Armaturen sind unter Beachtung der Schutzvorschriften (Art. 8 bis 15) zu erden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "2. Erdkabel",
+      "section": "37",
+      "title": "Art. 37 Lagepläne",
+      "content": "1) Der Verlauf der Erdkabel ist vom Betriebsinhaber in topographischen Karten, Lageplänen oder speziellen Aufzeichnungen festzuhalten. Diese Unterlagen müssen über die Lage von Bauwerken, Erdkabeln, Spleissungen, Linienausrüstungen und soweit möglich über Kreuzungen und Parallelführungen mit anderen Leitungen Aufschluss geben.\n2) Bei Anlagen in öffentlichem Gebiet muss dem Amt für Tiefbau und Geoinformation und der zuständigen Gemeinde in der Regel die Lage der Kabel oder dann der Ort, wo die Pläne zur Einsicht aufliegen, bekanntgegeben werden."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "2. Erdkabel",
+      "section": "38",
+      "title": "Art. 38 Verlegungstiefe",
+      "content": "Kabel, Kanäle, Rohre usw. müssen in der Regel so tief verlegt werden, dass eine Überdeckung von wenigstens 40 cm gewährleistet ist. Wo diese Verlegungstiefe nicht eingehalten werden kann oder nicht zweckmässig ist, müssen die Kabel durch geeignete Mittel gegen mechanische Beschädigung geschützt werden."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "2. Erdkabel",
+      "section": "39",
+      "title": "Art. 39 Schutz",
+      "content": "1) Erdkabel müssen, wo dies erforderlich ist, gegen äussere Einwirkungen zusätzlich geschützt werden.\n2) Damit die nach den Umständen gebotene Lebensdauer der Erdkabel gewährleistet ist, muss das Schutzmaterial den chemischen, elektrischen und mechanischen Einflüssen widerstehen.\n3) Spleissungen und Linienausrüstungen von Erdkabelanlagen müssen, den örtlichen Verhältnissen entsprechend, gegen äussere Einwirkungen geschützt werden."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "2. Erdkabel",
+      "section": "40",
+      "title": "Art. 40 Kabeleinführung in Bauwerke",
+      "content": "Kabeleinführungen in Bauwerke sind den technischen und örtlichen Verhältnissen angepasst auszuführen. Sie müssen das Eindringen von gasförmigen und flüssigen Stoffen soweit wie möglich verhindern.\nIV. Stillegung"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "IV. Stillegung",
+      "section": "41",
+      "title": "Art. 41 Oberirdische Schwachstromleitungen",
+      "content": "1) Ausser Betrieb gesetzte oberirdische Schwachstromleitungen müssen instandgehalten oder abgebrochen werden.\n2) Bleiben ausser Betrieb gesetzte oberirdische Schwachstromleitungen stehen, so müssen entweder die Überspannungsschutz-Einrichtungen belassen oder die Drähte geerdet werden."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "IV. Stillegung",
+      "section": "42",
+      "title": "Art. 42 Unterirdische Kabelanlagen",
+      "content": "Ausser Betrieb gesetzte, aber nicht entfernte unterirdische Kabelanlagen dürfen in den bestehenden Plänen nicht gelöscht und müssen in neue Pläne übernommen werden. Sie sind in den Plänen mit \"Ausser Betrieb\" zu kennzeichnen.\nV. Kontrollen und Unterhalt"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "V. Kontrollen und Unterhalt",
+      "section": "43",
+      "title": "Art. 43 Schutzeinrichtungen gegen Überspannung und Überstrom",
+      "content": "1) Der Betriebsinhaber muss die Schutzeinrichtungen gegen Überspannung und Überstrom, einschliesslich aller dazugehörigen Teile wie Erdungen usw., auf ihre vorschriftsgemässe Ausführung prüfen.\n2) Er muss die Kontrollen in Zeitabständen, die der Gefährdung der Anlage angemessen sind, und bei baulichen Veränderungen wiederholen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "V. Kontrollen und Unterhalt",
+      "section": "44",
+      "title": "Art. 44 Leitungen",
+      "content": "1) Der Betriebsinhaber muss die Leitungen dauernd in gutem Zustand halten.\n2) Er muss ausserdem Kreuzungen und Parallelführungen von oberirdischen Schwachstromleitungen mit öffentlichen Strassen, Plätzen, Eisenbahnen, Seilbahnen, schiffbaren Gewässern und Starkstromleitungen regelmässig überprüfen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "V. Kontrollen und Unterhalt",
+      "section": "45",
+      "title": "Art. 45 Aufzeichnungen",
+      "content": "1) Der Betriebsinhaber muss über die Kontrollen und die erfolgten Instandstellungen Aufzeichnungen führen.\n2) Die Kontrollstelle kann verlangen, dass ihr die Aufzeichnungen vorgelegt werden.\nVI. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "46",
+      "title": "Art. 46 Widerhandlungen",
+      "content": "Wer eine Schwachstromanlage unter Verletzung einer Bewilligungspflicht nach den Art. 1 Abs. 3, Art. 21 Abs. 2, Art. 22 Abs. 2 oder Art. 28 Abs. 2 erstellt oder ändert, wird nach Art. 30 Elektrizitätsgesetz bestraft."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "47",
+      "title": "Art. 47 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nLR 734.0\n2\nArt. 2 Abs. 3 eingefügt durch LGBl. 1995 Nr. 158 .\n3\nArt. 37 Abs. 2 abgeändert durch LGBl. 2022 Nr. 56 ."
+    }
+  ],
+  "definitions": []
+}

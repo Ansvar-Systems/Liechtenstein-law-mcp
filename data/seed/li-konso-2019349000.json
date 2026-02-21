@@ -1,0 +1,78 @@
+{
+  "id": "li-konso-2019349000",
+  "type": "statute",
+  "title": "Verordnung vom 10. Dezember 2019 über Token und VT-Dienstleister (Token- und VT-Dienstleister-Verordnung; TVTV)",
+  "title_en": "",
+  "short_name": "TVTV",
+  "status": "in_force",
+  "issued_date": "2019-12-10",
+  "in_force_date": "2019-12-10",
+  "url": "https://www.gesetze.li/konso/2019349000",
+  "description": "Verordnung vom 10. Dezember 2019 über Token und VT-Dienstleister (Token- und VT-Dienstleister-Verordnung; TVTV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung des Gesetzes das Nähere über:\na) die für den Registrierungsantrag erforderlichen Angaben und Unterlagen;\nb) die Melde- und Anzeigepflichten an die FMA."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Personen des weiblichen und männlichen Geschlechts zu verstehen.\nII. Registrierung von VT-Dienstleistern"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Registrierung von VT-Dienstleistern",
+      "section": "3",
+      "title": "Art. 3 Antragsunterlagen",
+      "content": "1) Dem Antrag nach Art. 18 des Gesetzes sind folgende Angaben und Unterlagen beizulegen:\na) eine Beschreibung des Geschäftsmodells, aus der insbesondere die Art der geplanten VT-Dienstleistung sowie Angaben über die verwendeten VT-Systeme hervorgehen;\nb) ein Nachweis über das Mindestkapital nach Art. 4 sowie ein Nachweis der Mittelherkunft;\nc) eine Beschreibung der verschriftlichten internen Verfahren und Kontrollmechanismen nach Art. 13 Abs. 1 Bst. g des Gesetzes;\nd) eine Beschreibung der besonderen internen Kontrollmechanismen, die der Antragsteller eingeführt hat, um die Anforderungen nach Art. 17 des Gesetzes und der Sorgfaltspflichtgesetzgebung zu erfüllen;\ne) eine Darstellung des organisatorischen Aufbaus des Antragstellers einschliesslich einer Darstellung der Auslagerungsvereinbarungen nach Art. 27 des Gesetzes;\nf) die Namen der Personen, die direkt oder indirekt eine qualifizierte Beteiligung im Sinne von Art. 14 Abs. 3 des Gesetzes am Antragsteller halten, die Höhe ihrer Beteiligung sowie der Nachweis, dass sie zuverlässig sind;\ng) die Namen der Mitglieder der Organe des Antragstellers sowie der Nachweis, dass sie zuverlässig sind;\nh) die Namen der Mitglieder der Geschäftsleitung, die für die VT-Dienstleistung verantwortlich sind, sowie der Nachweis, dass sie geeignet sind, um eine solide und umsichtige Geschäftsführung zu gewährleisten;\ni) die Namen der für die Erbringung der VT-Dienstleistung verantwortlichen Personen sowie der Nachweis, dass sie fachlich geeignet sind;\nk) der Name des nach Art. 22 Abs. 1 des Sorgfaltspflichtgesetzes zuständigen Mitglieds der Leitungsebene sowie der Nachweis, dass dieses im Sinne von Art. 36 Abs. 1 der Sorgfaltspflichtverordnung fachlich geeignet ist;\nl) die Rechtsform des Antragstellers;\nm) der Sitz und die Anschrift der Hauptverwaltung des Antragstellers;\nn) auf Verlangen der FMA weitere Angaben und Unterlagen, soweit dies für die Beurteilung des Registrierungsantrags erforderlich ist.\n2) Ist der Antragsteller eine natürliche Person, so findet Abs. 1 Bst. a bis e, h bis k, m und n sinngemäss Anwendung.\n3) Art. 18 Abs. 4 des Gesetzes bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "II. Registrierung von VT-Dienstleistern",
+      "section": "3a",
+      "title": "Art. 3a Angaben und Unterlagen im vereinfachten Registrierungsverfahren",
+      "content": "Im vereinfachten Registrierungsverfahren nach Art. 19b des Gesetzes sind der FMA die Angaben und Unterlagen nach Art. 3 Abs. 1 Bst. a bis c sowie h und i zu übermitteln; ein Nachweis über die fachliche Eignung nach Art. 3 Abs. 1 Bst. h ist nicht erforderlich."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Registrierung von VT-Dienstleistern",
+      "section": "4",
+      "title": "Art. 4 Nachweis des Mindestkapitals",
+      "content": "1) Als Nachweis des erforderlichen Mindestkapitals nach Art. 16 des Gesetzes gelten:\na) eine aktuelle, nicht mehr als drei Monate alte Saldobestätigung eines Kapitaleinzahlungs- oder Sperrkontos einer Bank mit Sitz im EWR oder in der Schweiz; oder\nb) bei einer Sacheinlage in Form von Token:\n1. eine aktuelle, nicht mehr als drei Monate alte Bewertung dieser Token durch einen von der FMA anerkannten Wirtschaftsprüfer oder eine von der FMA anerkannte Wirtschaftsprüfungsgesellschaft; und\n2. eine aktuelle, nicht mehr als drei Monate alte Bestätigung eines registrierten VT-Schlüssel- oder Token-Verwahrers, dass der Antragsteller tatsächlich über diese Token verfügungsberechtigt ist.\n2) Die FMA kann gleichwertige Bürgschaften oder Garantien akzeptieren.\nIII. Melde- und Anzeigepflichten"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "III. Melde- und Anzeigepflichten",
+      "section": "5",
+      "title": "Art. 5 Periodische Meldungen",
+      "content": "1) VT-Dienstleister haben der FMA bis zum 31. März eines Kalenderjahres schriftlich zu bestätigen, dass die Registrierungsvoraussetzungen nach Art. 13 des Gesetzes während des Vorjahres dauerhaft eingehalten wurden.\n2) VT-Dienstleister haben der FMA bis zum 31. März eines Kalenderjahres den Nachweis zu erbringen, dass das erforderliche Mindestkapital im Vorjahr dauerhaft vorhanden war. Wird das Mindestkapital in Form von Token gehalten, haben die VT-Dienstleister den Nachweis jeweils bis zum 31. März und 30. September eines Kalenderjahres zu erbringen. Tokendarlehensunternehmen nach Art. 16 Abs. 4 des Gesetzes haben den Nachweis quartalsweise zu erbringen.\n3) In begründeten Einzelfällen kann die FMA von der Häufigkeit der Meldungen nach Abs. 1 und 2 abweichen.\n4) Die Meldepflicht nach Abs. 2 entfällt bei VT-Dienstleistern, die:\na) bereits über eine Bewilligung nach der Finanzmarktaufsichtsgesetzgebung verfügen; und\nb) im Rahmen dieser Bewilligung ein höheres Mindestkapital aufweisen müssen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "III. Melde- und Anzeigepflichten",
+      "section": "6",
+      "title": "Art. 6 Änderung der Registrierungsvoraussetzungen",
+      "content": "1) VT-Dienstleister haben nach Massgabe von Art. 28 Abs. 1 Bst. a des Gesetzes insbesondere zu melden:\na) die Änderung von qualifizierten Beteiligungen;\nb) den Wechsel des für die VT-Dienstleistung zuständigen Mitglieds der Geschäftsleitung sowie sonstige Änderungen von Organfunktionen;\nc) den Abschluss neuer Auslagerungsvereinbarungen.\n2) Der FMA sind gemeinsam mit der Meldung nach Abs. 1 die Nachweise nach Art. 18 Abs. 1 Bst. e des Gesetzes beizubringen.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Melde- und Anzeigepflichten",
+      "section": "7",
+      "title": "Art. 7 Anzeige der Token-Emission",
+      "content": "1) Die Anzeige der Token-Emission nach Art. 30 Bst. c des Gesetzes hat mindestens folgende Informationen zu enthalten:\na) Angaben zum Token-Emittenten;\nb) Angaben zum Token;\nc) Angaben zum verwendeten VT-System;\nd) Ausgabezeitraum;\ne) Aufgehoben\nf) Zielmärkte.\n2) Die FMA kann erforderlichenfalls weitere Angaben verlangen.\nIV. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "IV. Schlussbestimmung",
+      "section": "8",
+      "title": "Art. 8 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2020 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nIngress abgeändert durch LGBl. 2024 Nr. 24 .\n2\nArt. 3a eingefügt durch LGBl. 2024 Nr. 24 .\n3\nArt. 5 Abs. 2 abgeändert durch LGBl. 2024 Nr. 24 .\n4\nArt. 6 Abs. 3 aufgehoben durch LGBl. 2025 Nr. 160 .\n5\nArt. 7 Abs. 1 Bst. e aufgehoben durch LGBl. 2025 Nr. 160 ."
+    }
+  ],
+  "definitions": []
+}

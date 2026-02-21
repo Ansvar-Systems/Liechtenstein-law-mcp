@@ -1,0 +1,778 @@
+{
+  "id": "li-konso-1990070000",
+  "type": "statute",
+  "title": "Verordnung vom 4. September 1990 über die obligatorische Unfallversicherung (Unfallversicherungsverordnung; UVersV)",
+  "title_en": "",
+  "short_name": "UVersV",
+  "status": "in_force",
+  "issued_date": "1990-09-04",
+  "in_force_date": "1990-09-04",
+  "url": "https://www.gesetze.li/konso/1990070000",
+  "description": "Verordnung vom 4. September 1990 über die obligatorische Unfallversicherung (Unfallversicherungsverordnung; UVersV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "1",
+      "title": "Art. 1 Versicherungspflicht in Sonderfällen",
+      "content": "1) Obligatorisch versichert sind auch:\na) Personen, die zur Abklärung der Berufswahl bei einem Arbeitgeber tätig sind, für die Dauer dieser Tätigkeit;\nb) Insassen des Gefangenenhauses, für die Zeit, während der sie ausserhalb desselben von Dritten gegen Lohn beschäftigt werden;\nc) Angehörige religiöser Gemeinschaften für die Zeit, während der sie ausserhalb der Gemeinschaft von Dritten gegen Lohn beschäftigt werden.\n2) Bei Versicherten nach Abs. 1 Bst. b und c gelten Unfälle auf dem Arbeitsweg als Berufsunfälle."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "2",
+      "title": "Art. 2 Ausnahmen von der Versicherungspflicht",
+      "content": "Nicht obligatorisch versichert sind:\na) mitarbeitende Familienmitglieder, die keinen Barlohn beziehen und keine Beiträge an die Alters- und Hinterlassenenversicherung entrichten;\nb) Akkordanten, Reisevertreter und Mittelspersonen zwischen Arbeitgebern und Arbeitnehmern, wenn sie aufgrund des von ihnen getragenen Unternehmerrisikos als Selbständigerwerbende zu betrachten sind; als selbständigerwerbend gelten insbesondere:\n1. Akkordanten, die über eine Betriebsorganisation verfügen oder regelmässig Direktaufträge von Dritten übernehmen,\n2. Reisevertreter, die besondere Geschäftsräume benützen, Personal beschäftigen und die Geschäftskosten im wesentlichen selbst tragen;\nc) Arbeitnehmer von juristischen Personen und personenrechtlichen Gemeinschaften, die im Sinne der gesetzlichen Bestimmungen über die Beitragspflicht zur Alters- und Hinterlassenenversicherung als Selbständigerwerbende gelten;\nd) Personen, die einen Nebenerwerb oder ein Nebenamt ausüben, auf deren Entgelt keine Beiträge der Alters- und Hinterlassenenversicherung erhoben werden, für diese Tätigkeit;\ne) Mitglieder von Verwaltungsräten, die nicht im Betrieb tätig sind, für diese Tätigkeit."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "3",
+      "title": "Art. 3 Personen mit Vorrechten nach internationalem Recht",
+      "content": "Die Versicherungspflicht erstreckt sich nicht auf das in Liechtenstein beschäftigte Personal öffentlicher Verwaltungen ausländischer Staaten oder internationaler Organisationen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "4",
+      "title": "Art. 4 Entsandte Arbeitnehmer",
+      "content": "Die Versicherung wird nicht unterbrochen, wenn ein Arbeitnehmer unmittelbar vor seiner Entsendung ins Ausland in Liechtenstein obligatorisch versichert war und weiterhin zu einem Arbeitgeber mit Wohnsitz oder Sitz in Liechtenstein in einem Arbeitsverhältnis bleibt und diesem gegenüber einen Lohnanspruch hat. Die Weiterdauer der Versicherung beträgt ein Jahr. Sie kann auf Gesuch hin vom Versicherer bis auf insgesamt sechs Jahre verlängert werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "5",
+      "title": "Art. 5 Öffentliche Verwaltung",
+      "content": "Versichert sind bei vorübergehender oder dauernder Tätigkeit im Ausland die von der Regierung nach Massgabe des Gesetzes betreffend das Dienstverhältnis und die Besoldung der Staatsbeamten, Staatsangestellten und Lehrpersonen angestellten Arbeitnehmer."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "6",
+      "title": "Art. 6 Arbeitnehmer von Arbeitgebern mit Sitz im Ausland",
+      "content": "1) Führt ein Arbeitgeber mit Wohnsitz oder Sitz im Ausland in Liechtenstein Arbeiten aus, so sind die in Liechtenstein angestellten Arbeitnehmer bei einer in Liechtenstein konzessionierten Versicherungsgesellschaft zu versichern. Vorbehalten bleibt Art. 60 des Gesetzes.\n2) Nach Liechtenstein entsandte Arbeitnehmer sind für das erste Jahr nicht versichert. Diese Frist kann, falls der Versicherungsschutz anderweitig gewährleistet ist, auf Gesuch hin vom Amt für Gesundheit bis auf insgesamt sechs Jahre verlängert werden. Ist der Versicherungsschutz nicht gewährleistet, weist das Amt für Gesundheit den Arbeitnehmer einer konzessionierten Versicherung zu."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "7",
+      "title": "Art. 7 Ende der Versicherung bei Wegfall des Lohnes",
+      "content": "1) Als Lohn im Sinne von Art. 3 Abs. 2 des Gesetzes gelten:\na) der nach der Gesetzgebung über die Alters- und Hinterlassenenversicherung massgebende Lohn;\nb) Taggelder der obligatorischen Unfallversicherung, der Invalidenversicherung, der Arbeitslosenversicherung sowie der Krankenversicherung, die die Lohnfortzahlung ersetzen;\nc) Löhne, auf denen wegen des Alters der Versicherten keine Beiträge der AHV erhoben werden.\n2) Nicht als Lohn gelten:\na) Entschädigungen bei Auflösung des Arbeitsverhältnisses, bei Betriebsschliessung, bei Betriebszusammenlegung oder bei ähnlichen Gelegenheiten;\nb) Vergütungen wie Gratifikationen, Weihnachtszulagen, Erfolgsbeteiligungen, Abgabe von Arbeitnehmeraktien, Tantiemen, Treueprämien und Dienstaltersgeschenke."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "8",
+      "title": "Art. 8 Verlängerung der Versicherung durch Abrede",
+      "content": "Abreden mit dem Versicherer über die Verlängerung der Nichtberufsunfallversicherung müssen einzeln oder kollektiv vor dem Ende dieser Versicherung getroffen werden."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "A. Obligatorische Versicherung",
+      "section": "8a",
+      "title": "Art. 8a Eingetragene Partnerschaft",
+      "content": "1) Solange eine eingetragene Partnerschaft dauert, ist sie in dieser Verordnung einer Ehe gleichgestellt.\n2) Die gerichtliche Auflösung einer eingetragenen Partnerschaft ist einer Scheidung gleichgestellt.\n3) Der überlebende eingetragene Partner ist einem verwitweten Ehegatten gleichgestellt.\nB. Freiwillige Versicherung"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Freiwillige Versicherung",
+      "section": "9",
+      "title": "Art. 9 Versicherungsfähige Personen",
+      "content": "1) Eine freiwillige Versicherung kann auch abschliessen, wer teilweise als Arbeitnehmer tätig ist.\n2) Personen, die im Sinne von Art. 55 des Gesetzes vom 14. Dezember 1952 über die Alters- und Hinterlassenenversicherung, LGBl. 1952 Nr. 29, Anspruch auf eine einfache Altersrente haben, haben nur dann ein Anrecht, eine freiwillige Versicherung neu zu begründen, wenn sie unmittelbar zuvor während eines Jahres obligatorisch versichert waren."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Freiwillige Versicherung",
+      "section": "10",
+      "title": "Art. 10 Versicherer",
+      "content": "1) Die jeweiligen Versicherer führen die freiwillige Versicherung durch für die Arbeitgeber der bei ihnen obligatorisch versicherten Arbeitnehmer sowie für mitarbeitende Familienmitglieder solcher Arbeitgeber.\n2) Den Selbständigerwerbenden ohne Arbeitnehmer steht die Wahl unter den konzessionierten Versicherungen frei."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Freiwillige Versicherung",
+      "section": "11",
+      "title": "Art. 11 Begründung des Versicherungsverhältnisses",
+      "content": "Das Versicherungsverhältnis wird durch schriftlichen Vertrag begründet. Dieser muss namentlich den Beginn, die Mindestdauer und das Ende der Versicherung regeln."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Freiwillige Versicherung",
+      "section": "12",
+      "title": "Art. 12 Ende der Versicherung",
+      "content": "1) Die Versicherung endet:\na) mit der Aufgabe der selbständigen Erwerbstätigkeit oder der Mitarbeit als Familienmitglied oder mit dem Einbezug in die obligatorische Versicherung;\nb) infolge Kündigung oder Ausschluss.\n2) Der Vertrag kann vorsehen, dass die Versicherung nach Aufgabe der Erwerbstätigkeit bis zu drei Monaten fortbesteht.\n3) Der Versicherte kann die Versicherung nach Ablauf der Mindestdauer mit einer im Vertrag festzusetzenden Kündigungsfrist von höchstens drei Monaten jeweils auf das Ende eines Versicherungsjahres kündigen.\n4) Der Versicherer kann den Versicherten, der trotz schriftlicher Mahnung die Prämie nicht bezahlt oder bei Abschluss des Vertrages oder über einen Unfall unwahre Angaben macht, von der Versicherung ausschliessen. Art. 61 des Gesetzes bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Freiwillige Versicherung",
+      "section": "13",
+      "title": "Art. 13 Grundlage für die Bemessung der Prämien und Geldleistungen",
+      "content": "Die Prämien und Geldleistungen werden im Rahmen von Art. 28 Abs. 1 nach dem vereinbarten Verdienst bemessen, der bei Vertragsabschluss vereinbart wird und jeweils auf Beginn eines Kalenderjahres angepasst werden kann. Dieser Verdienst darf bei Selbständigerwerbenden nicht weniger als 45 % und bei Familienmitgliedern nicht weniger als 30 % des Höchstbetrages des versicherten Verdienstes betragen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "B. Freiwillige Versicherung",
+      "section": "14",
+      "title": "Art. 14 Prämien",
+      "content": "1) Die Versicherer können in der freiwilligen Versicherung eine Nettoprämie vorsehen, die gesamthaft für die Berufs- und die Nichtberufsunfallversicherung gilt. Die Prämie ist so zu bemessen, dass die freiwillige Versicherung selbsttragend ist.\n2) In der freiwilligen Versicherung werden für die Verhütung von Berufsunfällen, Berufskrankheiten und Nichtberufsunfällen keine Prämienzuschläge erhoben.\nII. Gegenstand der Versicherung"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Gegenstand der Versicherung",
+      "section": "15",
+      "title": "Art. 15 Unfälle und unfallähnliche Körperschädigungen",
+      "content": "1) Als Unfall gilt die plötzliche, nicht beabsichtigte schädigende Einwirkung eines ungewöhnlichen äusseren Faktors auf den menschlichen Körper, die eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit oder den Tod zur Folge hat.\n2) Aufgehoben\n3) Keine Körperschädigung im Sinne von Art. 6 Abs. 2 des Gesetzes stellen nicht unfallbedingte Schäden an Sachen dar, die infolge einer Krankheit eingesetzt wurden und einen Körperteil oder eine Körperfunktion ersetzen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Gegenstand der Versicherung",
+      "section": "16",
+      "title": "Art. 16 Weitere Körperschädigungen",
+      "content": "Der Versicherer erbringt seine Leistungen auch für Körperschädigungen, die der Versicherte durch eine von ihm angeordnete oder sonstwie notwendig gewordene medizinische Abklärungsuntersuchung erleidet."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II. Gegenstand der Versicherung",
+      "section": "17",
+      "title": "Art. 17 Rückfälle und Spätfolgen",
+      "content": "Die Versicherungsleistungen werden auch für Rückfälle und Spätfolgen gewährt, für Bezüger von Invalidenrenten jedoch nur unter den Voraussetzungen von Art. 21 des Gesetzes."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "II. Gegenstand der Versicherung",
+      "section": "18",
+      "title": "Art. 18 Berufsunfälle",
+      "content": "1) Als Berufsunfälle im Sinne von Art. 7 Abs. 1 des Gesetzes gelten insbesondere auch Unfälle, die dem Versicherten zustossen:\na) auf Geschäfts- und Dienstreisen nach Verlassen der Wohnung und bis zur Rückkehr in diese, ausser wenn sich der Unfall während der Freizeit ereignet;\nb) bei Betriebsausflügen, die der Arbeitgeber organisiert oder finanziert;\nc) beim Besuch von Schulen und Kursen, die nach Gesetz oder Vertrag vorgesehen oder vom Arbeitgeber gestattet sind, ausser wenn sich der Unfall während der Freizeit ereignet;\nd) bei Transporten mit betriebseigenen Fahrzeugen, die der Arbeitgeber organisiert und finanziert, auf dem Arbeitsweg.\n2) Als Arbeitsstätte nach Art. 7 Abs. 1 Bst. b des Gesetzes gelten für landwirtschaftliche Arbeitnehmer das landwirtschaftliche Heimwesen und alle dazugehörenden Grundstücke; für Arbeitnehmer, welche in Hausgemeinschaft mit dem Arbeitgeber leben, auch die Räumlichkeiten für Unterkunft und Verpflegung."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "II. Gegenstand der Versicherung",
+      "section": "19",
+      "title": "Art. 19 Teilzeitbeschäftigte",
+      "content": "1) Teilzeitbeschäftigte Arbeitnehmer, deren wöchentliche Arbeitszeit bei einem Arbeitgeber mindestens acht Stunden beträgt, sind auch gegen Nichtberufsunfälle versichert.\n2) Für teilzeitbeschäftigte Arbeitnehmer, deren wöchentliche Arbeitszeit dieses Mindestmass nicht erreicht, gelten Unfälle auf dem Arbeitsweg als Berufsunfälle."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "II. Gegenstand der Versicherung",
+      "section": "20",
+      "title": "Art. 20 Berufskrankheiten",
+      "content": "Die schädigenden Stoffe und arbeitsbedingten Erkrankungen im Sinne von Art. 9 Abs. 1 des Gesetzes sind im Anhang 1 aufgeführt.\nIII. Versicherungsleistungen\nA. Pflegeleistungen und Kostenvergütungen"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "21",
+      "title": "Art. 21 Behandlung in einer Einrichtung des Gesundheitswesens",
+      "content": "1) Der Versicherte hat Anspruch auf Behandlung, Verpflegung und Unterkunft in der allgemeinen Abteilung einer Einrichtung des Gesundheitswesens (Art. 72 Abs. 1), mit der ein Zusammenarbeits- und Tarifvertrag abgeschlossen wurde.\n2) Begibt sich der Versicherte in eine andere als die allgemeine Abteilung einer Einrichtung des Gesundheitswesens, so übernimmt die Versicherung unter Vorbehalt von Abs. 3 die Kosten, die ihr bei der Behandlung in der allgemeinen Abteilung dieser oder der nächstgelegenen entsprechenden Einrichtung nach Abs. 1 erwachsen wären.\n3) Ist aus medizinischen Gründen die Behandlung eines Versicherten in einer anderen als den in Abs. 1 genannten Einrichtungen erforderlich, übernehmen die Versicherer die Kosten für die Behandlung, Verpflegung und Unterkunft in der allgemeinen Abteilung in der Liechtenstein nächstgelegenen Einrichtung des Gesundheitswesens. Die Versicherer haben das Recht, sich die Notwendigkeit der Behandlung in einer solchen Einrichtung ärztlich oder durch ein Vertragsspital bescheinigen zu lassen.\n4) Die Versicherer leisten auf Verlangen der Einrichtung des Gesundheitswesens die entsprechenden Kostengutsprachen.\n5) Art. 23 bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "22",
+      "title": "Art. 22 Wechsel des Arztes, des Zahnarztes, des Chiropraktors oder der Einrichtung des Gesundheitswesens",
+      "content": "Will der Versicherte den von ihm gewählten Arzt, Zahnarzt oder Chiropraktor oder die Einrichtung des Gesundheitswesens wechseln, so hat er dies dem Versicherer unverzüglich zu melden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "23",
+      "title": "Art. 23 Behandlung im Ausland",
+      "content": "Für eine notwendige Heilbehandlung im Ausland wird dem Versicherten höchstens der doppelte Betrag der Kosten vergütet, die bei der Behandlung in Liechtenstein oder in einer Liechtenstein nächstgelegenen geeigneten Einrichtung des Gesundheitswesens entstehen. Vorbehalten bleibt Art. 21 Abs. 3."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "24",
+      "title": "Art. 24 Leistungen bei Hauskrankenpflege",
+      "content": "Bei ärztlich angeordneter Hauskrankenpflege durch Pflegefachfrauen oder von Einrichtungen des Gesundheitswesens im nicht stationären Bereich decken die Versicherer die Kosten für Grundpflege und Behandlungspflege nach Art. 61 der Verordnung vom 14. März 2000 zum Gesetz über die Krankenversicherung."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "25",
+      "title": "Art. 25 Hilfsmittel",
+      "content": "Die Liste der Hilfsmittel im Sinne von Art. 11 des Gesetzes sowie Bestimmungen über deren Abgabe sind im Anhang 2 aufgeführt."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "26",
+      "title": "Art. 26 Rettungs-, Bergungs-, Reise- und Transportkosten",
+      "content": "1) Die notwendigen Rettungs- und Bergungskosten sowie die medizinisch notwendigen Reise- und Transportkosten werden vergütet. Weitergehende Reise- und Transportkosten werden vergütet, wenn es die familiären Verhältnisse rechtfertigen.\n2) Entstehen solche Kosten im Ausland, so werden sie höchstens bis zu einem Fünftel des Höchstbetrages des versicherten Jahresverdienstes vergütet."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "A. Pflegeleistungen und Kostenvergütungen",
+      "section": "27",
+      "title": "Art. 27 Kosten von Leichentransporten im Ausland",
+      "content": "1) Im Ausland entstehende Kosten für die Überführung der Leiche an den Bestattungsort werden höchstens bis zu einem Fünftel des Höchstbetrages des versicherten Jahresverdienstes vergütet.\n2) Die Vergütung erhält, wer nachweist, dass er die Kosten getragen hat.\nB. Geldleistungen\n1. Versicherter Verdienst"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Versicherter Verdienst",
+      "section": "28",
+      "title": "Art. 28 Versicherter Verdienst",
+      "content": "1) Der Höchstbetrag des versicherten Verdienstes beläuft sich auf 148 200 Franken im Jahr und 406 Franken im Tag.\n2) Als versicherter Verdienst gilt der nach der Gesetzgebung über die Alters- und Hinterlassenenversicherung massgebende Lohn mit den folgenden Abweichungen:\na) Löhne, auf denen wegen des Alters des Versicherten keine Beiträge der Alters- und Hinterlassenenversicherung erhoben werden, gelten ebenfalls als versicherter Verdienst;\nb) für mitarbeitende Familienmitglieder, Gesellschafter, Aktionäre und Genossenschafter wird mindestens der berufs- und ortsübliche Lohn berücksichtigt;\nc) Entschädigungen bei Auflösung des Arbeitsverhältnisses, bei Betriebsschliessung, Betriebszusammenlegung oder bei ähnlichen Gelegenheiten werden nicht berücksichtigt.\n3) Als Grundlage für die Bemessung der Taggelder gilt der letzte vor dem Unfall bezogene Lohn, einschliesslich noch nicht ausbezahlter Lohnbestandteile, auf die ein Rechtsanspruch besteht. Er wird auf ein volles Jahr umgerechnet und durch 365 geteilt.\n3a) Hatte eine versicherte Person bis zum Unfall Anspruch auf ein Taggeld nach dem Gesetz über die Invalidenversicherung (IVG), so entspricht das Taggeld mindestens dem bisher bezogenen Gesamtbetrag des Taggeldes der Invalidenversicherung, höchstens aber 80 % des Höchstbetrages des versicherten Verdienstes nach Abs. 1.\n4) Als Grundlage für die Bemessung der Renten gilt der innerhalb eines Jahres vor dem Unfall bei einem oder mehreren Arbeitgebern bezogene Lohn, einschliesslich noch nicht ausbezahlter Lohnbestandteile, auf die ein Rechtsanspruch besteht. Dauerte das Arbeitsverhältnis nicht das ganze Jahr, so wird der in dieser Zeit bezogene Lohn auf ein volles Jahr umgerechnet. Bei einer zum Voraus befristeten Beschäftigung bleibt die Umrechnung auf die vorgesehene Dauer beschränkt, ausser wenn sich nach der bisherigen oder beabsichtigten Ausgestaltung der Erwerbsarbeitsbiografie eine andere Normaldauer der Beschäftigung ergibt. Die Umrechnung ist auf die ausländerrechtlich zulässige Zeitspanne beschränkt."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "1. Versicherter Verdienst",
+      "section": "29",
+      "title": "Art. 29 Massgebender Lohn für das Taggeld in Sonderfällen",
+      "content": "1) Bezieht der Versicherte wegen Unfall, Krankheit, Mutterschaft, Kurzarbeit oder Erfüllung öffentlich-rechtlicher Pflichten keinen oder einen verminderten Lohn, so wird der Verdienst berücksichtigt, den er ohne Unfall, Krankheit, Mutterschaft, Kurzarbeit oder Erfüllung öffentlich-rechtlicher Pflichten erzielt hätte.\n2) Ist der Versicherte ganz arbeitslos, so ist der vor der Arbeitslosigkeit erzielte Lohn massgebend. Vorbehalten bleibt Art. 31 Abs. 2.\n3) Übt der Versicherte keine regelmässige Erwerbstätigkeit aus oder unterliegt sein Lohn starken Schwankungen, so wird auf einen angemessenen Durchschnittslohn pro Tag abgestellt.\n4) Für einen Versicherten, der während einer Saisonbeschäftigung einen Unfall erleidet, gilt Art. 28 Abs. 3. Ereignet sich der Unfall in der Zeit, in der er nicht erwerbstätig ist, so wird der im vorangegangenen Jahr tatsächlich erzielte Lohn durch 365 geteilt.\n5) War der Versicherte vor dem Unfall bei mehr als einem Arbeitgeber tätig, so ist der Gesamtlohn massgebend.\n6) Bei Praktikanten, Volontären und zur Abklärung der Berufswahl tätigen Personen sowie bei Personen, die in beschützenden Betrieben oder in Invalidenbetrieben tätig sind, wird ab vollendetem 20. Altersjahr von einem Tagesverdienst von mindestens 20 %, vor vollendetem 20. Altersjahr von mindestens 10 % des Höchstbetrages des versicherten Tagesverdienstes ausgegangen.\n7) Hat die Taggeldberechtigung wenigstens drei Monate gedauert und wäre der Lohn des Versicherten in dieser Zeit um mindestens 10 % erhöht worden, so wird der massgebende Lohn für die Zukunft neu bestimmt.\n8) Bei Rückfällen ist der unmittelbar zuvor bezogene Lohn, mindestens aber ein Tagesverdienst von 10 % des Höchstbetrages des versicherten Tagesverdienstes massgebend, ausgenommen bei Rentnern der Sozialversicherung."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Versicherter Verdienst",
+      "section": "30",
+      "title": "Art. 30 Massgebender Lohn für Renten in Sonderfällen",
+      "content": "1) Hat der Versicherte im Jahre vor dem Unfall wegen Unfall, Krankheit, Mutterschaft, Erfüllung öffentlich-rechtlicher Pflichten, Arbeitslosigkeit oder Kurzarbeit einen verminderten Lohn bezogen, so wird der versicherte Verdienst nach dem Lohn festgesetzt, den der Versicherte ohne Unfall, Krankheit, Mutterschaft, Erfüllung öffentlich-rechtlicher Pflichten, Arbeitslosigkeit oder Kurzarbeit erzielt hätte.\n2) Beginnt die Rente mehr als fünf Jahre nach dem Unfall oder dem Ausbruch der Berufskrankheit, so ist der Lohn massgebend, den der Versicherte ohne den Unfall oder die Berufskrankheit im Jahre vor dem Rentenbeginn bezogen hätte, sofern er höher ist als der letzte vor dem Unfall oder dem Ausbruch der Berufskrankheit erzielte Lohn.\n3) Bezog der Versicherte wegen beruflicher Ausbildung am Tage des Unfalles nicht den Lohn eines Versicherten mit voller Leistungsfähigkeit derselben Berufsart, so wird der versicherte Verdienst von dem Zeitpunkt an, da er die Ausbildung abgeschlossen hätte, nach dem Lohn festgesetzt, den er im Jahr vor dem Unfall als voll Leistungsfähiger erzielt hätte.\n4) Erleidet der Bezüger einer Invalidenrente einen weiteren versicherten Unfall, der zu einer höheren Invalidität führt, so ist für die neue Rente der Lohn massgebend, den der Versicherte im Jahre vor dem letzten Unfall bezogen hätte, wenn früher kein versicherter Unfall eingetreten wäre. Ist dieser Lohn kleiner als der vor dem ersten versicherten Unfall bezogene Lohn, so ist der höhere Lohn massgebend.\n5) Aufgehoben\n2. Taggeld"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Taggeld",
+      "section": "31",
+      "title": "Art. 31 Höhe",
+      "content": "1) Das Taggeld wird für alle Tage, einschliesslich der Sonn- und Feiertage, ausgerichtet. Das Taggeld ist bei ärztlich bescheinigter Arbeitsunfähigkeit von der Versicherung oder, sofern eine entsprechende Vereinbarung besteht, vom Arbeitgeber mindestens einmal pro Monat auszubezahlen.\n2) Bezog der Versicherte vor dem Unfall eine Arbeitslosenentschädigung der Arbeitslosenversicherung, so darf das Taggeld der Unfallversicherung jenes der Arbeitslosenversicherung nicht übersteigen.\n3) Die Unfallversicherung erbringt die ganze Leistung, wenn die Arbeitsunfähigkeit eines arbeitslosen Versicherten mehr als 50 % beträgt, und die halbe Leistung, wenn die Arbeitsunfähigkeit mehr als 25, aber höchstens 50 % beträgt. Bei einer Arbeitsunfähigkeit von 25 und weniger % besteht kein Taggeldanspruch.\n4) Das Taggeld wird nach der Formel gemäss Anhang 3 berechnet."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Taggeld",
+      "section": "32",
+      "title": "Art. 32 Taggeld- und Hinterlassenenrente",
+      "content": "Entsteht mit dem Tod des Taggeldberechtigten ein Anspruch auf Hinterlassenenrente, so haben die Hinterlassenen bis zum Beginn dieser Rente weiterhin Anspruch auf das Taggeld.\n3. Invalidenrenten"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "3. Invalidenrenten",
+      "section": "33",
+      "title": "Art. 33 Sonderfälle der Bestimmung des Invaliditätsgrades",
+      "content": "1) Konnte der Versicherte wegen einer Invalidität, welche die Folge eines versicherten Unfalles ist, eine nachweislich geplante und seinen Fähigkeiten entsprechende berufliche Ausbildung nicht aufnehmen oder eine begonnene Ausbildung nicht abschliessen, so ist für die Bestimmung des Invaliditätsgrades dasjenige Erwerbseinkommen massgebend, das er ohne die Invalidität in jenem Beruf erzielen könnte.\n2) Bei Versicherten, die gleichzeitig mehr als eine unselbständige Erwerbstätigkeit ausüben, ist der Invaliditätsgrad entsprechend der Behinderung in sämtlichen Tätigkeiten zu bestimmen. Übt der Versicherte neben der unselbständigen eine nicht nach dem Gesetz versicherte oder eine nicht entlöhnte Tätigkeit aus, so wird die Behinderung in diesen Tätigkeiten nicht berücksichtigt.\n3) War die Leistungsfähigkeit des Versicherten vor dem Unfall dauernd wesentlich herabgesetzt, so ist für die Bestimmung des Invaliditätsgrades das Erwerbseinkommen massgebend, das der Versicherte auf Grund der vor dem Unfall bestandenen Leistungsfähigkeit hätte erzielen können.\n4) Nimmt ein Versicherter nach dem Unfall die Erwerbstätigkeit altershalber nicht mehr auf oder wirkt sich das vorgerückte Alter erheblich als Ursache der Beeinträchtigung der Erwerbsfähigkeit aus, so sind für die Bestimmung des Invaliditätsgrades die Erwerbseinkommen massgebend, die ein Versicherter im mittleren Alter bei einer entsprechenden Gesundheitsschädigung erzielen könnte.\n5) Aufgehoben"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "3. Invalidenrenten",
+      "section": "34",
+      "title": "Art. 34 Invalidität beim Verlust paariger Organe",
+      "content": "1) Als paarige Organe gelten Augen, Ohren und Nieren.\n2) Beim Verlust eines paarigen Organs infolge eines versicherten Unfalles wird der Invaliditätsgrad ohne Berücksichtigung des Risikos eines Verlustes des anderen Organs bestimmt.\n3) Ist nur der erste oder der zweite Verlust eines paarigen Organs nach dem Gesetz versichert, so wird bei Verlust des zweiten Organs der Invaliditätsgrad nach dem Gesamtschaden bestimmt und der Versicherer ist dafür leistungspflichtig. Leistungen einer Unfall- oder Krankenversicherung oder eines Haftpflichtigen für den nicht versicherten Verlust eines paarigen Organs werden an die Rente angerechnet. Stehen solche Leistungen noch aus, so muss der Versicherte seine Ansprüche an den leistungspflichtigen Versicherer abtreten."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Invalidenrenten",
+      "section": "35",
+      "title": "Art. 35 Übergangsrente",
+      "content": "1) Ist von der Fortsetzung der ärztlichen Behandlung keine namhafte Besserung des Gesundheitszustandes des Versicherten mehr zu erwarten, wird jedoch der Entscheid der Invalidenversicherung über die berufliche Eingliederung erst später gefällt, so wird vom Abschluss der ärztlichen Behandlung an vorübergehend eine Rente ausgerichtet; diese wird aufgrund der in diesem Zeitpunkt bestehenden Erwerbsunfähigkeit festgesetzt. Der Anspruch erlischt:\na) beim Beginn des Anspruchs auf ein Taggeld der Invalidenversicherung;\nb) mit dem negativen Entscheid der Invalidenversicherung über die berufliche Eingliederung;\nc) mit der Festsetzung der definitiven Rente.\n2) Bei Versicherten, die im Ausland beruflich eingegliedert werden, wird die Übergangsrente bis zum Abschluss der Eingliederung ausgerichtet. Bei Geldleistungen ausländischer Sozialversicherungen wird die Übergangsrente nach Massgabe von Art. 40 des Gesetzes soweit gekürzt als sie zusammen mit den Geldleistungen ausländischer Sozialversicherungen den mutmasslich entgangenen Verdienst übersteigt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "3. Invalidenrenten",
+      "section": "36",
+      "title": "Art. 36 Berechnung der Komplementärrenten im allgemeinen",
+      "content": "Bei der Berechnung der Komplementärrenten für Invalide werden auch die Zusatz- und Kinderrenten der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung voll berücksichtigt. Wird als Folge eines Unfalles eine Ehepaarrente der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung ausgerichtet, so wird diese vorbehältlich Art. 37 Abs. 1 und 2 dem verunfallten Ehegatten zu zwei Dritteln angerechnet."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "3. Invalidenrenten",
+      "section": "37",
+      "title": "Art. 37 Höhe der Komplementärrenten in Sonderfällen",
+      "content": "1) Vor dem Unfall gewährte Renten der Invalidenversicherung werden bei der Berechnung der Komplementärrenten nur so weit berücksichtigt, als sie wegen des Unfalles erhöht werden. In den Fällen von Art. 30 Abs. 4 wird die Rente der Invalidenversicherung voll angerechnet.\n2) Hat ein Ehegatte aus einem Unfall bereits Anspruch auf eine Rente und wurde bei deren Berechnung eine Rente der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung schon berücksichtigt, so wird dem anderen Ehegatten, der durch Unfall invalid wird, die Ehepaarrente nur zu einem Drittel angerechnet.\n3) Wird eine Witwe, die eine Rente der Alters- und Hinterlassenenversicherung bezieht, wegen eines Unfalles invalid, so wird ihr die Rente der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung nur zu zwei Dritteln angerechnet.\n4) Hat der Rentenberechtigte vor Eintritt der Invalidität neben der unselbständigen noch eine selbständige Erwerbstätigkeit ausgeübt, so wird für die Festsetzung der Grenze von 100 % nach Art. 20 Abs. 2 des Gesetzes neben dem versicherten Verdienst auch das Einkommen aus selbständiger Erwerbstätigkeit bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt.\n5) Teuerungszulagen werden bei der Bemessung der Komplementärrenten nicht berücksichtigt."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "3. Invalidenrenten",
+      "section": "38",
+      "title": "Art. 38 Anpassung der Komplementärrenten",
+      "content": "1) Bei Umwandlung einer Rente der Invalidenversicherung in eine Altersrente der Alters- und Hinterlassenenversicherung erfolgt keine Neuberechnung der Komplementärrente.\n2) Die Komplementärrenten werden den veränderten Verhältnissen angepasst, wenn:\na) Zusatz- und Kinderrenten der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung oder gleichartige Renten ausländischer Sozialversicherungen dahinfallen oder neu hinzukommen;\nb) die Rente der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung infolge einer Änderung der Berechnungsgrundlagen erhöht oder herabgesetzt wird;\nc) sich der für die Unfallversicherung massgebende Invaliditätsgrad erheblich ändert;\nd) sich der versicherte Verdienst nach Art. 30 Abs. 3 ändert.\n3) Die Kürzungen nach den Art. 36 bis 39 des Gesetzes werden bei den Komplementärrenten vorgenommen. Die Teuerungszulagen werden auf der gekürzten Komplementärrente berechnet."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "3. Invalidenrenten",
+      "section": "39",
+      "title": "Art. 39 Revision der Invalidenrente",
+      "content": "1) Wird eine Rente der Invalidenversicherung als Folge der Revision geändert, so erfolgt auch eine Revision der Rente oder Komplementärrente der Unfallversicherung.\n2) Die Art. 58 bis 63 sind sinngemäss anwendbar."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "3. Invalidenrenten",
+      "section": "40",
+      "title": "Art. 40 Abfindung des Versicherten",
+      "content": "1) Die Höhe der Abfindung entspricht der Summe der Raten einer Rente, deren Höhe und Dauer aufgrund der Schwere und des Verlaufs des Leidens und des Gesundheitszustandes des Versicherten zur Zeit der Abfindung und im Hinblick auf die Wiedererlangung der Erwerbsfähigkeit festzusetzen ist.\n2) Die Abfindung kann auch bei einer Revision der Rente zugesprochen werden.\n4. Integritätsentschädigung"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "4. Integritätsentschädigung",
+      "section": "41",
+      "title": "Art. 41 Feststellung",
+      "content": "1) Ein Integritätsschaden gilt als dauernd, wenn er voraussichtlich während des ganzen Lebens mindestens in gleichem Umfang besteht. Er ist erheblich, wenn die körperliche, geistige oder psychische Integrität, unabhängig von der Erwerbsfähigkeit, augenfällig oder stark beeinträchtigt wird.\n2) Für die Bemessung der Integritätsentschädigung gelten die Richtlinien des Anhangs 4.\n3) Fallen mehrere körperliche, geistige oder psychische Integritätsschäden aus einem oder mehreren Unfällen zusammen, so wird die Integritätsentschädigung nach der gesamten Beeinträchtigung festgesetzt. Die Gesamtentschädigung darf den Höchstbetrag des versicherten Jahresverdienstes nicht übersteigen. Bereits nach dem Gesetz bezogene Entschädigungen werden prozentual angerechnet.\n4) Voraussehbare Verschlimmerungen des Integritätsschadens werden angemessen berücksichtigt. Revisionen sind nur im Ausnahmefall möglich, wenn die Verschlimmerung von grosser Tragweite ist und nicht voraussehbar war.\n5) Bei Berufskrankheiten, bei denen die betroffene Person an einem Mesotheliom oder anderen Tumoren mit prognostisch ähnlich kurzer Überlebenszeit leidet, entsteht der Anspruch auf eine Integritätsentschädigung mit dem Ausbruch der Krankheit.\n5. Hilflosenentschädigung"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "5. Hilflosenentschädigung",
+      "section": "42",
+      "title": "Art. 42 Entstehung und Erlöschen des Anspruches",
+      "content": "Der Anspruch auf eine Hilflosenentschädigung entsteht am ersten Tag des Monats, in dem die Voraussetzungen erfüllt sind. Er erlischt am Ende des Monats, in dem die Anspruchsvoraussetzungen dahinfallen oder der Berechtigte stirbt."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "5. Hilflosenentschädigung",
+      "section": "43",
+      "title": "Art. 43 Höhe",
+      "content": "1) Die monatliche Hilflosenentschädigung beträgt bei Hilflosigkeit schweren Grades das Sechsfache, bei Hilflosigkeit mittleren Grades das Vierfache, bei Hilflosigkeit leichten Grades das Doppelte des Höchstbetrages des versicherten Tagesverdienstes.\n2) Die Hilflosigkeit gilt als schwer, wenn der Versicherte vollständig hilflos ist. Dies ist der Fall, wenn er in allen alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist und überdies der dauernden Pflege oder der persönlichen Überwachung bedarf.\n3) Die Hilflosigkeit gilt als mittelschwer, wenn der Versicherte trotz der Abgabe von Hilfsmitteln\na) in den meisten alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist oder\nb) in mindestens zwei alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist und überdies einer dauernden persönlichen Überwachung bedarf.\n4) Die Hilflosigkeit gilt als leicht, wenn der Versicherte trotz der Abgabe von Hilfsmitteln\na) in mindestens zwei alltäglichen Lebensverrichtungen regelmässig in erheblicher Weise auf die Hilfe Dritter angewiesen ist oder\nb) einer dauernden persönlichen Überwachung bedarf oder\nc) einer durch das Gebrechen bedingten ständigen und besonders aufwendigen Pflege bedarf oder\nd) wegen einer schweren Sinnesschädigung oder eines schweren körperlichen Gebrechens nur dank regelmässiger und erheblicher Dienstleistungen Dritter gesellschaftliche Kontakte pflegen kann.\n5) Der Versicherer kann für Hilflosigkeit, die nur zum Teil auf einen Unfall zurückzuführen ist, von der Alters- und Hinterlassenenversicherung oder der Invalidenversicherung den Betrag der Hilflosenentschädigung beanspruchen, den diese Versicherungen dem Versicherten ausrichten würden, wenn er keinen Unfall erlitten hätte.\n6. Hinterlassenenrenten"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "6. Hinterlassenenrenten",
+      "section": "44",
+      "title": "Art. 44 Geschiedener und getrennter Ehegatte",
+      "content": "Die Verpflichtung zu Unterhaltsbeiträgen an den geschiedenen oder getrennten Ehegatten nach Art. 29 Abs. 4 des Gesetzes muss durch einen rechtskräftigen Gerichtsentscheid oder eine schriftliche Unterhaltsvereinbarung ausgewiesen sein."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "6. Hinterlassenenrenten",
+      "section": "45",
+      "title": "Art. 45 Pflegekinder",
+      "content": "1) Kinder, die zur Zeit des Unfalles unentgeltlich zu dauernder Pflege und Erziehung aufgenommen waren, sind Kindern nach Art. 30 Abs. 1 des Gesetzes gleichgestellt.\n2) Der Rentenanspruch erlischt, wenn das Pflegekind zu den Eltern zurückkehrt oder von diesen unterhalten wird.\n3) Rentenberechtigte Pflegekinder können beim späteren Tode ihres Vaters oder ihrer Mutter keinen weiteren Rentenanspruch geltend machen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "6. Hinterlassenenrenten",
+      "section": "46",
+      "title": "Art. 46 Unterhaltsbeiträge nach ausländischem Recht",
+      "content": "War der verstorbene Versicherte aufgrund ausländischen Rechts nur zur Leistung eines Unterhaltsbeitrages an ein aussereheliches Kind verpflichtet, so hat dieses Anspruch auf eine Waisenrente, sofern die Verpflichtung durch ein rechtskräftiges Gerichtsurteil ausgewiesen ist."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "6. Hinterlassenenrenten",
+      "section": "47",
+      "title": "Art. 47 Vollwaisen",
+      "content": "Sterben Vater und Mutter an den Folgen versicherter Unfälle, so wird die Vollwaisenrente aufgrund des versicherten Verdienstes des Vaters und jenes der Mutter berechnet, wobei die Summe der beiden Verdienste nur bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt wird."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "6. Hinterlassenenrenten",
+      "section": "48",
+      "title": "Art. 48 Komplementärrenten an Hinterlassene",
+      "content": "1) Bei der Berechnung der Komplementärrenten für Hinterlassene werden die Renten der Alters- und Hinterlassenenversicherung und der Invalidenversicherung, einschliesslich der Kinderrenten, sowie gleichartige Renten ausländischer Versicherungen voll berücksichtigt. Bei der Berechnung der Komplementärrenten an Vollwaisen wird die Summe der versicherten Verdienste beider Elternteile bis zum Höchstbetrag des versicherten Verdienstes berücksichtigt.\n2) Die Art. 37 Abs. 5 und 38 gelten sinngemäss.\n7. Anpassung der Renten an die Teuerung"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "7. Anpassung der Renten an die Teuerung",
+      "section": "49",
+      "title": "Art. 49 Berechnungsgrundlagen",
+      "content": "1) Als Grundlage für die Berechnung und Gewährung der Teuerungszulagen gilt jeweils der für den Monat September massgebende Landesindex der Konsumentenpreise.\n2) Für die erstmalige Berechnung der Teuerungszulagen zu einer Rente, die seit dem Inkrafttreten des Gesetzes oder seit der letzten Gewährung einer Teuerungszulage entstanden ist, wird auf den Septemberindex im Unfalljahr und in den Fällen nach Art. 30 Abs. 2 auf jenen im Vorjahr des Rentenbeginnes abgestellt."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "7. Anpassung der Renten an die Teuerung",
+      "section": "50",
+      "title": "Art. 50 Bemessung beim Wiederaufleben des Rentenanspruchs",
+      "content": "Beim Wiederaufleben einer Rente sind die Teuerungszulagen gleich hoch, wie wenn die Rente ununterbrochen gewährt worden wäre.\n8. Auskauf von Renten"
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "8. Auskauf von Renten",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1) Komplementärrenten können nur mit dem Einverständnis und im offenkundigen langfristigen Interesse des Rentenberechtigten ausgekauft werden.\n2) Der Barwert einer auszukaufenden Rente wird aufgrund der Rechnungsgrundlagen nach Art. 77 Abs. 1 des Gesetzes berechnet. Die Umwandlung in eine Komplementärrente im Zeitpunkt der Erreichung des Rentenalters nach Art. 55 des Gesetzes vom 14. Dezember 1952 über die Alters- und Hinterlassenenversicherung, LGBl. 1952 Nr. 29, wird berücksichtigt.\n3) Bei einem späteren Unfall gilt eine ausgekaufte Rente für die Berechnung einer Komplementärrente als fortbestehend.\nC. Kürzung und Verweigerung von Versicherungsleistungen"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "C. Kürzung und Verweigerung von Versicherungsleistungen",
+      "section": "52",
+      "title": "Art. 52 Zusammentreffen verschiedener Schadensursachen",
+      "content": "Das Mass der Kürzung von Renten und Integritätsentschädigungen beim Vorliegen unfallfremder Ursachen richtet sich nach deren Bedeutung für die Gesundheitsschädigung oder den Tod, wobei den persönlichen und wirtschaftlichen Verhältnissen des Berechtigten ebenfalls Rechnung getragen werden kann."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "C. Kürzung und Verweigerung von Versicherungsleistungen",
+      "section": "53",
+      "title": "Art. 53 Aussergewöhnliche Gefahren",
+      "content": "1) Sämtliche Versicherungsleistungen werden verweigert für Nichtberufsunfälle, die sich ereignen bei:\na) ausländischem Militärdienst;\nb) Teilnahme an kriegerischen Handlungen, Terrorakten und bandenmässigen Verbrechen.\n2) Die Geldleistungen werden mindestens um die Hälfte gekürzt für Nichtberufsunfälle, die sich ereignen bei:\na) Beteiligung an Raufereien und Schlägereien, es sei denn, der Versicherte sei als Unbeteiligter oder bei Hilfeleistung für einen Wehrlosen durch die Streitenden verletzt worden;\nb) Gefahren, denen sich der Versicherte dadurch aussetzt, dass er andere stark provoziert;\nc) Teilnahme an Unruhen."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "C. Kürzung und Verweigerung von Versicherungsleistungen",
+      "section": "54",
+      "title": "Art. 54 Wagnisse",
+      "content": "1) Bei Nichtberufsunfällen, die auf ein Wagnis zurückgehen, werden die Geldleistungen um die Hälfte gekürzt und in besonders schweren Fällen verweigert.\n2) Wagnisse sind Handlungen, mit denen sich der Versicherte einer besonders grossen Gefahr aussetzt, ohne die Vorkehren zu treffen oder treffen zu können, die das Risiko auf ein vernünftiges Mass beschränken. Rettungshandlungen zugunsten von Personen sind indessen auch dann versichert, wenn sie an sich als Wagnisse zu betrachten sind."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "C. Kürzung und Verweigerung von Versicherungsleistungen",
+      "section": "55",
+      "title": "Art. 55 Zusammentreffen mit anderen Sozialversicherungsleistungen",
+      "content": "1) Der Versicherte oder seine Hinterlassenen müssen dem leistungspflichtigen Versicherer sämtliche Geldleistungen anderer in- und ausländischer Sozialversicherungen bekanntgeben.\n2) Der leistungspflichtige Versicherer kann das Mass seiner Leistungen von der Anmeldung des Falles bei anderen Sozialversicherungen abhängig machen.\n3) Der mutmasslich entgangene Verdienst entspricht jenem Verdienst, den der Versicherte ohne schädigendes Ereignis erzielen würde.\n4) In Härtefällen kann auf die Kürzung ganz oder teilweise verzichtet werden.\nD. Rückgriff"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "D. Rückgriff",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1) Die Versicherer sind verpflichtet, die Möglichkeiten zur Regressnahme vollumfänglich und ohne Verzug wahrzunehmen, insbesondere auch in Fällen, in denen sie gleichzeitig Haftpflichtversicherer eines für den Schadenfall Haftenden sind.\n2) Sind mehrere Sozialversicherungen am Rückgriff beteiligt, so sind sie Gesamtgläubiger und einander im Verhältnis der von ihnen zu erbringenden Leistungen ausgleichspflichtig.\nE. Festsetzung und Gewährung der Leistungen\n1. Feststellung des Unfalles"
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "57",
+      "title": "Art. 57 Unfallmeldung",
+      "content": "1) Der Verunfallte oder seine Angehörigen müssen dem Arbeitgeber oder dem Versicherer den Unfall unverzüglich melden und Auskunft geben über:\na) Zeit, Ort, Hergang und Folgen des Unfalles;\nb) den behandelnden Arzt oder die Heilanstalt;\nc) betroffene Haftpflichtige und Versicherungen.\n2) Der Arbeitgeber überprüft ohne Verzug Ursache und Hergang von Berufsunfällen; bei Nichtberufsunfällen nimmt er die Angaben des Versicherten in die Unfallmeldung auf. Dem Verunfallten wird, ausser in Bagatellfällen, ein Unfallschein übergeben; dieser bleibt bis zum Abschluss der ärztlichen Behandlung im Besitze des Versicherten und ist nachher dem Arbeitgeber zur Weiterleitung an den Versicherer zurückzugeben.\n3) Für die Meldung von Unfällen und Berufskrankheiten geben die Versicherer unentgeltlich Formulare ab, die vom Arbeitgeber beziehungsweise vom behandelnden Arzt vollständig und wahrheitsgetreu auszufüllen und unverzüglich dem zuständigen Versicherer zuzustellen sind. Diese Formulare müssen insbesondere die Angaben enthalten, die erforderlich sind:\na) zur Abklärung des Unfallherganges oder der Entstehung einer Berufskrankheit;\nb) für die medizinische Abklärung der Folgen eines Unfalles oder einer Berufskrankheit;\nc) für die Festsetzung der Leistungen;\nd) für die Beurteilung der Arbeitssicherheit und die Führung von Statistiken.\n4) Die Versicherer melden die Unfalldaten dem Amt für Volkswirtschaft. Art und Umfang der Meldung richtet sich nach den Richtlinien über die Meldung von Berufsunfällen und Berufskrankheiten, welche die Versicherer mit dem Amt für Volkswirtschaft vereinbart haben."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "58",
+      "title": "Art. 58 Mitwirkung der Behörden",
+      "content": "Der Versicherer kann bei der zuständigen Behörde die erforderlichen Auskünfte einholen und unentgeltlich Kopien von amtlichen Berichten und Polizeirapporten einfordern. Ausserordentliche Auslagen, namentlich die Kosten für zusätzlich verlangte Expertisen, sind den Behörden zu vergüten."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "59",
+      "title": "Art. 59 Mitwirkung des Versicherten oder seiner Hinterlassenen",
+      "content": "1) Der Versicherte oder seine Hinterlassenen müssen alle erforderlichen Auskünfte erteilen und ausserdem die Unterlagen zur Verfügung halten, die für die Klärung des Unfallsachverhaltes und die Unfallfolgen sowie für die Festsetzung der Versicherungsleistungen benötigt werden, insbesondere medizinische Berichte, Gutachten, Röntgenbilder und Belege über die Verdienstverhältnisse. Sie müssen Dritte ermächtigen, solche Unterlagen herauszugeben und Auskunft zu erteilen.\n2) Der Versicherte muss sich weiteren, von den Versicherern angeordneten Abklärungsmassnahmen unterziehen, insbesondere zumutbaren medizinischen Untersuchungen, die der Diagnose und der Bestimmung der Leistungen dienen. Unzumutbar sind medizinische Massnahmen, die eine Gefahr für Leben und Gesundheit des Versicherten darstellen."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "60",
+      "title": "Art. 60 Mitwirkung des Arbeitgebers",
+      "content": "Der Arbeitgeber muss dem Versicherer alle erforderlichen Auskünfte erteilen und ausserdem die Unterlagen zur Verfügung halten, die für die Klärung des Unfallsachverhaltes benötigt werden, und den Beauftragten des Versicherers freien Zutritt zum Betrieb gewähren."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "61",
+      "title": "Art. 61 Gutachten",
+      "content": "Der Versicherer kann auf seine Kosten von Ärzten, medizinischen Hilfspersonen und anderen Fachleuten Gutachten einholen, insbesondere über den Gesundheitszustand und die Arbeitsfähigkeit des Versicherten."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "62",
+      "title": "Art. 62 Kostenvergütung",
+      "content": "1) Der Versicherer vergütet dem Versicherten oder seinen Hinterlassenen die durch die angeordneten Abklärungen entstandenen notwendigen Reise-, Unterkunfts- und Verpflegungskosten, Lohnausfälle im Rahmen des versicherten Verdienstes sowie Aufwendungen für Unterlagen, die auf Verlangen des Versicherers beschafft werden.\n2) Dem Arbeitgeber werden Kosten, die ihm aus der Abklärung des Unfallsachverhaltes erwachsen, nicht vergütet."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "63",
+      "title": "Art. 63 Erschwerung der Abklärung",
+      "content": "Sieht der Versicherer von weiteren Erhebungen ab, weil der Versicherte oder seine Hinterlassenen die Klärung des Unfallsachverhaltes oder der Unfallfolgen oder die Ermittlung des Invaliditätsgrades oder der Versicherungsleistungen erheblich erschweren, so muss er dies den Betroffenen zuvor androhen und ihnen eine angemessene Frist zur Mitwirkung ansetzen."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "1. Feststellung des Unfalles",
+      "section": "64",
+      "title": "Art. 64 Obduktionen und ähnliche Eingriffe",
+      "content": "1) Besteht Grund zur Annahme, dass der für die Leistungspflicht massgebende Sachverhalt durch eine Obduktion oder einen ähnlichen Eingriff an einem tödlich Verunfallten oder an einem an einer Berufskrankheit Verstorbenen besser abgeklärt werden kann, so kann der Versicherer die Vornahme der entsprechenden Handlungen verlangen. Als ähnlicher Eingriff gilt namentlich die Muskelentnahme zur Bestimmung des Blutalkoholgehaltes.\n2) Eine Obduktion darf nicht vorgenommen werden, wenn eine Einsprache der nächsten Angehörigen oder eine entsprechende Willenserklärung des Verstorbenen vorliegt. Als nächste Angehörige gelten bei Verheirateten der Ehegatte, bei Unverheirateten oder Verwitweten die Eltern oder volljährige Kinder. Der Zeitpunkt der Obduktion ist so zu wählen, dass den nächsten Angehörigen unter normalen Verhältnissen die Möglichkeit zur Einsprache gewahrt bleibt, ohne dass der Abklärungserfolg in Frage gestellt wird.\n2. Gewährung der Leistungen"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "2. Gewährung der Leistungen",
+      "section": "65",
+      "title": "Art. 65 Zumutbare Behandlung oder Eingliederungsmassnahme",
+      "content": "1) Entzieht sich ein Versicherter einer zumutbaren Behandlung oder Eingliederungsmassnahme, so wird er schriftlich auf die Rechtsfolgen der Weigerung unter Ansetzung einer angemessenen Überlegungsfrist aufmerksam gemacht.\n2) Dem Versicherten, der sich ohne zureichenden Grund weigert, sich einer zumutbaren Behandlung oder Eingliederungsmassnahme zu unterziehen, werden lediglich die Leistungen gewährt, die beim erwarteten Erfolg dieser Massnahmen wahrscheinlich hätten entrichtet werden müssen.\n3) Behandlungen und Eingliederungsmassnahmen, die eine Gefahr für Leben und Gesundheit darstellen, sind nicht zumutbar."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "2. Gewährung der Leistungen",
+      "section": "66",
+      "title": "Art. 66 Rentenauszahlung",
+      "content": "1) Die Renten und Hilflosenentschädigungen werden in der Regel durch Vermittlung der Post ausbezahlt. Die Zahlungsaufträge werden spätestens am ersten Werktag des Monats erteilt, für den die Leistung geschuldet ist.\n2) Kann die Höhe der Hinterlassenenrenten nicht innert eines Monats nach dem Tode des Versicherten bestimmt werden, so richtet der Versicherer wenn nötig provisorische Leistungen aus, die mit den definitiven Renten verrechnet werden.\n3) Die Versicherer können Lebenskontrollen vornehmen und die Auszahlung der Leistungen einstellen, falls vom Berechtigten keine Lebensbescheinigung erhältlich ist.\n4) Ist der Bezüger einer Invalidenrente in hoher Todesgefahr verschwunden oder seit langem nachrichtlos abwesend und richtet die Alters- und Hinterlassenenversicherung keine Hinterlassenenrenten aus, so können die Versicherer die Invalidenrenten während höchstens zwei weiteren Jahren dem Ehegatten und den Kindern auszahlen."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "2. Gewährung der Leistungen",
+      "section": "67",
+      "title": "Art. 67 Gewährleistung zweckgemässer Verwendung",
+      "content": "1) Verwendet der Bezugsberechtigte die Geldleistungen nicht für den Unterhalt seiner selbst und der Personen, für die er zu sorgen hat, oder ist er nachweisbar nicht imstande, die Geldleistungen hierfür zu verwenden, und fallen er oder die Personen, für die er zu sorgen hat, deswegen ganz oder teilweise der öffentlichen oder privaten Fürsorge zur Last, so kann der Versicherer die Geldleistungen ganz oder teilweise einer geeigneten Drittperson oder Behörde, die dem Bezugsberechtigten gegenüber gesetzlich oder sittlich unterstützungspflichtig ist oder ihn dauernd fürsorgerisch betreut, auszahlen.\n2) Ist der Bezugsberechtigte bevormundet oder ist ihm für diese Angelegenheit ein Sachwalter bestellt, so werden die Geldleistungen dem Vormund, dem Sachwalter oder einer von diesen bezeichneten Person ausbezahlt.\n3) Die einer Drittperson oder Behörde ausbezahlten Geldleistungen dürfen von diesen nicht mit Forderungen gegenüber dem Bezugsberechtigten verrechnet werden und sind ausschliesslich zum Lebensunterhalt des Berechtigten und der Personen, für die er zu sorgen hat, zu verwenden.\n4) Die Drittperson oder Behörde hat dem Versicherer auf Verlangen über die Verwendung der Geldleistungen Bericht zu erstatten."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "2. Gewährung der Leistungen",
+      "section": "68",
+      "title": "Art. 68 Verrechnung",
+      "content": "Der Versicherer hat bei der Verrechnung darauf zu achten, dass dem Versicherten oder dessen Hinterlassenen die zum Leben notwendigen Mittel verbleiben."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "2. Gewährung der Leistungen",
+      "section": "69",
+      "title": "Art. 69 Verzicht auf Leistungen",
+      "content": "Der Versicherte oder seine Hinterlassenen können schriftlich den Verzicht auf Versicherungsleistungen erklären. Liegt der Verzicht im schutzwürdigen Interesse des Versicherten oder seiner Hinterlassenen, so hält der Versicherer diesen Verzicht in einer Verfügung fest.\n3. Nachzahlung und Rückforderung von Leistungen"
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "3. Nachzahlung und Rückforderung von Leistungen",
+      "section": "70",
+      "title": "Art. 70 Nachzahlung",
+      "content": "Hat ein Anspruchsberechtigter keine oder niedrigere Leistungen bezogen als ihm zustehen, so kann er sie vom Versicherer nachfordern. Erhält ein Versicherer davon Kenntnis, dass keine oder zu niedrige Leistungen bezahlt wurden, so hat er den entsprechenden Betrag nachzuzahlen, auch wenn der Anspruchsberechtigte es nicht verlangt."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "3. Nachzahlung und Rückforderung von Leistungen",
+      "section": "71",
+      "title": "Art. 71 Rückforderung",
+      "content": "1) Rückerstattungspflichtig sind der Bezüger unrechtmässig gewährter Leistungen, seine Erben sowie Drittpersonen oder Behörden, denen sie nach Art. 70 ausgerichtet wurden.\n2) Die Rückforderung wird gegenüber dem Versicherten nicht geltend gemacht, wenn ein anderer Versicherer für die Leistung einzustehen hat. Der Rückforderungsanspruch richtet sich dann gegen den anderen Versicherer.\n3) Einem Rückerstattungspflichtigen, der selbst oder dessen gesetzlicher Vertreter in gutem Glauben annehmen konnte, die Leistung zu Recht bezogen zu haben, ist die Rückerstattung ganz oder teilweise zu erlassen, wenn sie für den Pflichtigen angesichts seiner Verhältnisse eine grosse Härte bedeuten würde. Behörden, welchen die Leistungen nach Art. 67 ausgerichtet wurden, können sich nicht auf die grosse Härte berufen.\n4) Der Versicherer weist in der Rückforderungsverfügung auf die Möglichkeit des Erlasses hin. Der Erlass wird auf schriftliches Gesuch des Rückerstattungspflichtigen gewährt. Das Gesuch ist zu begründen, mit den nötigen Belegen zu versehen und innert 30 Tagen seit der Zustellung der Rückforderungsverfügung einzureichen.\n5) Der Versicherer kann von sich aus ganz oder teilweise auf die Rückforderung verzichten, wenn die Voraussetzungen nach Abs. 3 offensichtlich erfüllt sind.\nIV. Medizinalrecht und Tarifwesen\n1. Einrichtungen des Gesundheitswesens"
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "1. Einrichtungen des Gesundheitswesens",
+      "section": "72",
+      "title": "Art. 72 Begriffsbestimmung",
+      "content": "1) Als Einrichtungen des Gesundheitswesens gelten Einrichtungen im Sinne von Art. 37 Abs. 1 Bst. a des Gesundheitsgesetzes oder Abteilungen von solchen, die:\na) der stationären, teilstationären oder ambulanten Behandlung von akuten Krankheiten oder Unfallfolgen oder der Durchführung von Massnahmen der medizinischen Rehabilitation dienen;\nb) unter ärztlicher Leitung stehen; und\nc) über das erforderliche Pflegepersonal und zweckentsprechende medizinische Einrichtungen verfügen.\n2) Dem Versicherten steht die Wahl unter den Einrichtungen nach Abs. 1, mit denen ein Zusammenarbeits- und Tarifvertrag abgeschlossen wurde, im Rahmen der Art. 48 und 54 des Gesetzes frei. Vorbehalten bleiben Art. 21 Abs. 3 und Art. 23.\n2. Zusammenarbeit und Tarife"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "2. Zusammenarbeit und Tarife",
+      "section": "73",
+      "title": "Art. 73 Vereinbarungen",
+      "content": "1) Die Zusammenarbeits- und Tarifverträge zwischen den Versicherern und den Ärzten, Zahnärzten, Chiropraktoren und Personen, die einen anderen Gesundheitsberuf ausüben, müssen mit den entsprechenden liechtensteinischen Verbänden auf Landesebene abgeschlossen werden.\n2) Die Frist zur Kündigung von Zusammenarbeits- und Tarifverträgen beträgt mindestens ein Jahr."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "2. Zusammenarbeit und Tarife",
+      "section": "74",
+      "title": "Art. 74 Koordination der Tarife",
+      "content": "1) Die Tarife nach Art. 73 Abs. 1 sind nach Grundsätzen auszugestalten, wie sie auch für andere Sozialversicherungszweige, insbesondere für die obligatorische Krankenpflegeversicherung, Anwendung finden.\n2) Die Versicherer vergüten Arzneimittel, pharmazeutische Spezialitäten, Laboranalysen und Medizinprodukte nach Massgabe der Verordnung vom 14. März 2000 zum Gesetz über die Krankenversicherung."
+    },
+    {
+      "provision_ref": "art74a",
+      "chapter": "2. Zusammenarbeit und Tarife",
+      "section": "74a",
+      "title": "Art. 74a Rechnungsstellung",
+      "content": "Die Leistungserbringer haben in ihren Rechnungen die Angaben nach Art. 76 der Verordnung vom 14. März 2000 zum Gesetz über die Krankenversicherung zu machen.\nV. Durchführung und Organisation\n1. Leistungspflicht"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "1. Leistungspflicht",
+      "section": "75",
+      "title": "Art. 75 Leistungspflicht bei Versicherten mit mehreren Arbeitgebern",
+      "content": "1) Erleidet ein Versicherter, der bei mehreren Arbeitgebern beschäftigt ist, einen Berufsunfall, so ist der Versicherer jenes Arbeitgebers leistungspflichtig, in dessen Dienst der Versicherte verunfallt ist.\n2) Bei Nichtberufsunfällen ist der Versicherer jenes Arbeitgebers leistungspflichtig, bei dem der Versicherte vor dem Unfall zuletzt tätig und für Nichtberufsunfälle versichert war. Die anderen Versicherer müssen dem leistungspflichtigen Versicherer bei Unfällen, die zu einer Rentenleistung oder zu einer Integritätsentschädigung führen, einen Teil der Versicherungsleistungen zurückerstatten. Ihr Anteil richtet sich nach dem Verhältnis des bei ihnen versicherten Verdienstes zum gesamten versicherten Verdienst."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "1. Leistungspflicht",
+      "section": "76",
+      "title": "Art. 76 Leistungspflicht bei mehreren Unfallereignissen",
+      "content": "1) Verunfallt ein Versicherter, während aufgrund eines früheren versicherten Unfalles ein Anspruch auf Taggeld besteht, so erbringt der bisher leistungspflichtige Versicherer auch die Pflegeleistungen und Kostenvergütungen nach den Art. 10 bis 13 des Gesetzes sowie die Taggelder für den neuen Unfall. Die beteiligten Versicherer können untereinander von dieser Regelung abweichende Vereinbarungen treffen, namentlich wenn der neue Unfall wesentlich schwerwiegendere Folgen hat als der frühere. Die Leistungspflicht des für den früheren Unfall leistungspflichtigen Versicherers endet, wenn der frühere Unfall für den weiterbestehenden Gesundheitsschaden nicht mehr ursächlich ist.\n2) Verunfallt ein Versicherter, während er aufgrund eines früheren versicherten Unfalles in Behandlung nach Art. 10 des Gesetzes steht, ohne dass aufgrund dieses Unfalles ein Anspruch auf Taggeld besteht, so erbringt der für den neuen Unfall leistungspflichtige Versicherer auch die Pflegeleistungen und Kostenvergütungen nach den Art. 10 bis 13 des Gesetzes für die früheren Unfälle. Die Leistungspflicht des für den neuen Unfall leistungspflichtigen Versicherers endet, wenn der neue Unfall für den weiterbestehenden Gesundheitsschaden nicht mehr ursächlich ist.\n3) Bei einem Rückfall oder bei Spätfolgen aufgrund von mehreren versicherten Unfällen erbringt der für den letzten Unfall leistungspflichtige Versicherer die Pflegeleistungen und Kostenvergütungen nach den Art. 10 bis 13 des Gesetzes sowie die Taggelder.\n4) In den Fällen nach den Abs. 1 bis 3 sind die anderen Versicherer dem leistungspflichtigen Versicherer nicht zur Vergütung verpflichtet.\n5) Entsteht für die Folgen von mehreren Unfällen neu ein Anspruch auf eine Rente, auf eine Integritätsentschädigung oder auf eine Hilflosenentschädigung, so werden diese Leistungen durch den für den letzten Unfall leistungspflichtigen Versicherer ausgerichtet. Die beteiligten Versicherer können untereinander von dieser Regelung abweichende Vereinbarungen treffen, namentlich wenn der letzte Unfall wesentlich geringere Folgen hat als die früheren oder der bei dem für den letzten Unfall leistungspflichtigen Versicherer versicherte Verdienst wesentlich tiefer ist als der bei einem anderen Versicherer versicherte Verdienst. Die anderen beteiligten Versicherer vergüten dem leistungspflichtigen Versicherer diese Leistungen, ohne Teuerungszulagen, nach Massgabe der Verursachung; damit ist ihre Leistungspflicht abgegolten.\n6) Erleidet ein Versicherter, der aus einem früheren Unfall eine Invalidenrente oder eine Hilflosenentschädigung bezieht, einen neuen Unfall und führt dieser zu einer Änderung der Invalidenrente oder des Grades der Hilflosigkeit, so muss der für den zweiten Unfall leistungspflichtige Versicherer die gesamte Invalidenrente oder Hilflosenentschädigung ausrichten. Der für den ersten Unfall leistungspflichtige Versicherer vergütet dem anderen Versicherer den Betrag, der dem Barwert des Rentenanteils, ohne Teuerungszulagen, beziehungsweise des Anteils der Hilflosenentschädigung aus dem ersten Unfall entspricht; damit ist seine Leistungspflicht abgegolten."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "1. Leistungspflicht",
+      "section": "77",
+      "title": "Art. 77 Leistungspflicht beim Tod beider Elternteile",
+      "content": "Sterben Vater und Mutter an den Folgen versicherter Unfälle, so erhält die Vollwaise die nach Art. 47 festgesetzte Rente von jenem Versicherer, der für den zweiten Todesfall oder, bei gleichzeitigem Tod, für den Todesfall des Vaters leistungspflichtig ist. Der die Rente ausrichtende Versicherer erhält vom anderen einen Betrag, welcher dem Barwert der Rente, ohne Teuerungszulagen, für den Tod des anderen Elternteils entspricht. Damit ist die Leistungspflicht des anderen Versicherers abgegolten."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "1. Leistungspflicht",
+      "section": "78",
+      "title": "Art. 78 Leistungspflicht bei Berufskrankheiten",
+      "content": "1) Bei Berufskrankheiten, die in mehreren, bei verschiedenen Versicherern versicherten Betrieben verursacht wurden, ist der Versicherer des Betriebes leistungspflichtig, bei dem der Versicherte zur Zeit der letzten Gefährdung beschäftigt war.\n2) Bezieht sich die Leistungspflicht auf eine Staublunge oder auf eine Lärmschwerhörigkeit, so müssen die andern beteiligten Versicherer dem leistungspflichtigen Versicherer einen Teil der Versicherungsleistungen zurückerstatten. Ihr Anteil richtet sich nach dem Verhältnis der Dauer der gefährdenden Arbeit bei den jeweiligen Arbeitgebern zur Gesamtdauer der Gefährdung."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "1. Leistungspflicht",
+      "section": "79",
+      "title": "Art. 79 Zusammenwirken der Versicherer",
+      "content": "Die Versicherer müssen sich auf Anfrage gegenseitig über Unfälle, Berufskrankheiten, Leistungen und Einstufung im Prämientarif unentgeltlich Auskunft geben, soweit es die Durchführung der Unfallversicherung erfordert.\n2. Aufsicht und gemeinsame Regelung der Versicherer"
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "2. Aufsicht und gemeinsame Regelung der Versicherer",
+      "section": "80",
+      "title": "Art. 80 Amt für Gesundheit",
+      "content": "Dem Amt für Gesundheit obliegen neben den im Gesetz und in anderen Bestimmungen dieser Verordnung zugewiesenen Aufgaben auch:\na) die Überwachung der Durchführung der Versicherung auf ihre Übereinstimmung mit der Gesetzgebung;\nb) die Überprüfung der von den Versicherern beantragten Tarifstruktur und Tarife sowie die Antragstellung an die Regierung nach Anhörung der nach Art. 80 Abs. 5 des Gesetzes eingesetzten Kommission;\nc) die Überprüfung der von den Versicherern vorgelegten Betriebsrechnungen und Fondsrechnungen auf ihre Übereinstimmung mit der Gesetzgebung.\nd) die Überprüfung der von den Versicherern vorgelegten Gesamtbetriebsrechnung auf ihre Übereinstimmung mit der Gesetzgebung und deren Weiterleitung an die Regierung zur Kenntnisnahme."
+    },
+    {
+      "provision_ref": "art80a",
+      "chapter": "2. Aufsicht und gemeinsame Regelung der Versicherer",
+      "section": "80a",
+      "title": "Art. 80a Finanzmarktaufsicht",
+      "content": "1) Die Finanzmarktaufsicht übt die Aufsicht über die Versicherungsunternehmen, die dem Versicherungsaufsichtsgesetz unterstehen, nach Massgabe der Versicherungsaufsichtsgesetzgebung aus.\n2) Die Finanzmarktaufsicht koordiniert ihre Aufsicht mit dem Amt für Gesundheit."
+    },
+    {
+      "provision_ref": "art80b",
+      "chapter": "2. Aufsicht und gemeinsame Regelung der Versicherer",
+      "section": "80b",
+      "title": "Art. 80b Registrierung",
+      "content": "1) Versicherer, welche die Voraussetzungen nach Art. 57 des Gesetzes erfüllen, können sich jeweils ab Beginn eines Kalenderjahres an der Durchführung der Unfallversicherung beteiligen. Sie müssen hierfür bis zum 30. Juni des Vorjahres beim Amt für Gesundheit um die Registrierung nachsuchen.\n2) Das Gesuch muss schriftlich und in drei Exemplaren eingereicht werden. Es sind Unterlagen beizulegen, aus denen hervorgeht, dass der Versicherer alle Voraussetzungen von Art. 57 für die Durchführung der Unfallversicherung erfüllt.\n3) Das Amt für Gesundheit prüft, ob die Voraussetzungen des Gesetzes erfüllt sind. Es eröffnet dem Gesuchsteller den Registereintrag oder die Ablehnung durch Verfügung. Es veröffentlicht die Liste der registrierten Versicherer.\n4) Mit dem Registereintrag übernehmen die Versicherer die Verpflichtung, die Unfallversicherung ordnungsgemäss durchzuführen. Strukturelle Änderungen, die die Erfüllung dieser Aufgabe in Frage stellen, sind dem Amt für Gesundheit ohne Verzug zu melden."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "2. Aufsicht und gemeinsame Regelung der Versicherer",
+      "section": "81",
+      "title": "Art. 81 Vertrag zwischen den Versicherern",
+      "content": "1) Die Versicherer haben die folgenden Bereiche in Form eines Vertrages gemeinsam zu regeln:\na) die Erstellung von einheitlichen Statistiken zur Beschaffung von:\n1. versicherungstechnischen Grundlagen;\n2. Unterlagen für die Prämienbemessung;\n3. Unterlagen für die Verhütung von Unfällen und Berufskrankheiten;\nb) die Erstellung einer einheitlichen Betriebsrechnung und einer Gesamtbetriebsrechnung einschliesslich der dazu gehörenden Fondsrechnungen;\nc) das Vorgehen zur Vorbereitung eines gemeinsamen Antrages an die Regierung zur Festlegung des Prämientarifs.\n2) Sind keine oder nur ungenügende Unterlagen oder Daten zur Erstellung von aussagekräftigen Statistiken nach Abs. 1 Bst. a vorhanden, so können die Versicherer Statistiken aus entsprechenden Versicherungssystemen beiziehen.\n3) Die Versicherer bezeichnen einen geschäftsführenden Versicherer und legen dessen Aufgaben zur Durchführung der gemeinsamen Aufgaben nach Abs. 1 fest. Dem geschäftsführenden Versicherer können vertraglich weitere Aufgaben zur Koordination der Durchführung zwischen den Versicherern übertragen werden.\n4) Der Vertrag ist von jedem Versicherer zu unterzeichnen. Er ist dem Amt für Gesundheit zur Genehmigung zu unterbreiten. Kommt der Vertrag nicht zustande, erlässt die Regierung die erforderlichen Bestimmungen mit Verordnung.\nVI. Finanzierung\n1. Rechnungsgrundlagen und Finanzierungsverfahren"
+    },
+    {
+      "provision_ref": "art81a",
+      "chapter": "1. Rechnungsgrundlagen und Finanzierungsverfahren",
+      "section": "81a",
+      "title": "Art. 81a Rechnungsgrundlagen",
+      "content": "1) Die Versicherer arbeiten gemeinsam für die Durchführung der Unfallversicherung einheitliche Rechnungsgrundlagen aus und unterbreiten sie dem Amt für Gesundheit zur Genehmigung. Mit der Genehmigung werden die Rechnungsgrundlagen für alle Versicherer verbindlich. Können sich die Versicherer nicht einigen, so erlässt die Regierung Richtlinien.\n2) Die Rechnungsgrundlagen sind von den Versicherern periodisch zu überprüfen."
+    },
+    {
+      "provision_ref": "art81b",
+      "chapter": "1. Rechnungsgrundlagen und Finanzierungsverfahren",
+      "section": "81b",
+      "title": "Art. 81b Rechnungsführung",
+      "content": "1) Für jedes Rechnungsjahr sind zu erstellen:\na) eine Betriebsrechnung für jeden Versicherungszweig;\nb) eine Übersicht über die Rückstellungen;\nc) ein Jahresbericht.\n2) Der Betriebsrechnung jedes Versicherungszweiges sind die Prämieneinnahmen gutzuschreiben und die Versicherungsleistungen einschliesslich der Änderungen der versicherungstechnischen Rückstellungen zu belasten.\n3) Die übrigen Erträge sind nach ihrer Herkunft und die übrigen Aufwendungen nach ihrer Verursachung auf die Betriebsrechnungen aufzuteilen.\n4) Die Versicherer müssen jeweils bis zum 30. Juni des nachfolgenden Jahres dem Amt für Gesundheit Jahresbericht und Jahresrechnung, der geschäftsführende Versicherer bis zum 31. Juli des nachfolgenden Jahres die Gesamtbetriebsrechnung einreichen."
+    },
+    {
+      "provision_ref": "art81c",
+      "chapter": "1. Rechnungsgrundlagen und Finanzierungsverfahren",
+      "section": "81c",
+      "title": "Art. 81c",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art81d",
+      "chapter": "1. Rechnungsgrundlagen und Finanzierungsverfahren",
+      "section": "81d",
+      "title": "Art. 81d Fonds für Teuerungszulagen",
+      "content": "1) Jeder Versicherer führt für jeden Versicherungszweig einen Fonds für Teuerungszulagen, welche vom geschäftsführenden Versicherer nach Art. 81 Abs. 3 zu gemeinsamen Fonds für Teuerungszulagen zusammengefasst werden.\n2) Die Einnahmen jedes Fonds sind Zinsüberschüsse, soweit diese positiv sind, Umlagebeiträge sowie die Verzinsung der Fondsbestände. Die Ausgaben jedes Fonds sind Zinsüberschüsse, soweit diese negativ sind, ausbezahlte Teuerungszulagen sowie die Anpassung der Hilflosenentschädigungen bei einer Anhebung des Höchstbetrages des versicherten Verdienstes.\n3) Wird ein Fondsbestand eines Versicherers negativ, so hat er Anrecht auf eine Ausgleichszahlung des Fonds für Teuerungszulagen.\n4) Der geschäftsführende Versicherer stellt jährlich die Fondsresultate der Versicherer und der Bestände der Fonds für Teuerungszulagen dar und organisiert die Ausgleichszahlungen.\n5) Die Versicherer überwachen die Fondsverläufe und beantragen bei der Regierung bei Bedarf die Erhebung der Umlagebeiträge. Sie stützen sich dabei auf die Erfahrungen in der Vergangenheit, auf die Abweichungen von früheren Prognosen und auf Prognosen für die Zukunft."
+    },
+    {
+      "provision_ref": "art81e",
+      "chapter": "1. Rechnungsgrundlagen und Finanzierungsverfahren",
+      "section": "81e",
+      "title": "Art. 81e Reserven",
+      "content": "1) Jeder Versicherer muss für jeden Versicherungszweig durch jährliche Einlagen von mindestens 1 % der Prämieneinnahmen eine Reserve äufnen, bis die Reserve insgesamt mindestens 30 % der durchschnittlichen jährlichen Gesamtprämieneinnahmen der letzten fünf Jahre erreichen. Der Kapitalertrag der Reserven ist den Versicherungszweigen anteilsmässig gutzuschreiben.\n2) Entnahmen aus der Reserve zur Deckung von Aufwandüberschüssen sind zurückzuerstatten. Muss ein Versicherungszweig auf die Reserven eines anderen Versicherungszweiges greifen, so ist die Entnahme zum technischen Zinsfuss zu verzinsen.\n3) Jeder Versicherer kann überdies für jeden Versicherungszweig eine Ausgleichsreserve errichten."
+    },
+    {
+      "provision_ref": "art81f",
+      "chapter": "1. Rechnungsgrundlagen und Finanzierungsverfahren",
+      "section": "81f",
+      "title": "Art. 81f Wechsel des Versicherers",
+      "content": "Für Unfälle, die sich vor dem Wechsel des Versicherers ereignet haben, bleibt der bisherige Versicherer zuständig.\n2. Prämien"
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "2. Prämien",
+      "section": "82",
+      "title": "Art. 82 Massgebender Lohn",
+      "content": "1) Die Prämien werden auf dem versicherten Verdienst im Sinne von Art. 28 Abs. 1 und 2 erhoben. Für Praktikanten, Volontäre und zur Abklärung der Berufswahl oder in beschützenden Betrieben oder Invalidenbetrieben tätige Personen sind die Prämien ab vollendetem 20. Altersjahr auf einem Betrag von mindestens 20 %, vor vollendetem 20. Altersjahr von mindestens 10 % des Höchstbetrages des versicherten Tagesverdienstes zu entrichten.\n2) Bei mehrfach Beschäftigten wird der Lohn je Arbeitsverhältnis erfasst, insgesamt jedoch nur bis zum Höchstbetrag des versicherten Verdienstes. Übersteigt die Summe der Löhne diesen Höchstbetrag, so ist er entsprechend den prozentualen Verdienstanteilen auf die einzelnen Arbeitsverhältnisse aufzuteilen. Dies gilt auch für Personen, die neben der unselbstständigen eine selbstständige, nach dem Gesetz freiwillig versicherte Tätigkeit ausüben."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "2. Prämien",
+      "section": "83",
+      "title": "Art. 83 Lohnaufzeichnungen und Abrechnung",
+      "content": "1) Die Arbeitgeber müssen nach den Weisungen der Versicherer Lohnaufzeichnungen führen. Löhne von Arbeitnehmern, die nur gegen Berufsunfälle versichert sind, werden besonders bezeichnet.\n2) Die Arbeitgeber müssen die Lohnaufzeichnungen sowie die zu deren Revision dienenden Buchhaltungsunterlagen und weitere Belege während mindestens fünf Jahren aufbewahren. Die Aufbewahrungsfrist beginnt am Ende des Kalenderjahres, für das die letzten Eintragungen vorgenommen wurden."
+    },
+    {
+      "provision_ref": "art83a",
+      "chapter": "2. Prämien",
+      "section": "83a",
+      "title": "Art. 83a Prämienzuschlag für Verwaltungskosten",
+      "content": "1) Der Zuschlag für die Verwaltungskosten dient der Deckung der ordentlichen Aufwendungen, die den Versicherern aus der Durchführung der Unfallversicherung erwachsen, einschliesslich der nicht der Heilbehandlung dienenden Aufwendungen für Dienstleistungen Dritter wie Rechts-, Beratungs- und Begutachtungskosten.\n2) Der Mindest- und der Höchstbetrag des Zuschlages für Verwaltungskosten wird bei jeder Festlegung des Prämientarifs bestimmt.\n3) Jeder Versicherer legt den Zuschlag für Verwaltungskosten im Rahmen des Mindest- und Höchstbetrages nach Abs. 2 selber fest.\n4) Das Amt für Gesundheit kann von den Versicherern Auskünfte über die Erhebung des Zuschlages für die Verwaltungskosten verlangen."
+    },
+    {
+      "provision_ref": "art83b",
+      "chapter": "2. Prämien",
+      "section": "83b",
+      "title": "Art. 83b Grundlagen für eine Änderung des Prämientarifs",
+      "content": "1) Grundlagen für die von den Versicherern beantragte Tarifänderung bilden:\na) die Rechnungsgrundlagen nach Art. 81a;\nb) die Betriebs- und Fondsrechnungen nach Art. 77 Abs. 2 des Gesetzes; sowie\nc) die Ergebnisse früherer Rechnungsjahre und die Prognosen für zukünftige Rechnungsjahre.\n2) Müssen Prämienzuschläge für nicht durch Zinsüberschüsse gedeckte Teuerungszulagen erhoben werden, so begründen die Versicherer den Zuschlag anhand der Zulagen nach Art. 81d Abs. 5."
+    },
+    {
+      "provision_ref": "art83c",
+      "chapter": "2. Prämien",
+      "section": "83c",
+      "title": "Art. 83c Antrag auf Tarifänderung",
+      "content": "1) Der Antrag der Versicherer auf Änderung des Prämientarifs ist ausführlich zu begründen und hat insbesondere Ausführungen über die Notwendigkeit einer Tarifänderung zu enthalten.\n2) Dem Antrag sind beizufügen:\na) die Unterlagen nach Art. 83b; und\nb) eine Erklärung über die Angemessenheit aller Rückstellungen, Deckungskapitalien und Fondsbestände im Vergleich zu den Grundsätzen der Finanzierungsverfahren und den Vorgaben der Rechnungsgrundlagen."
+    },
+    {
+      "provision_ref": "art83d",
+      "chapter": "2. Prämien",
+      "section": "83d",
+      "title": "Art. 83d Abweichungen vom Prämientarif in Sonderfällen",
+      "content": "1) Der Versicherer kann für Betriebe die Nettoprämien nach dem Prämientarif ab Beginn des nächsten Rechnungsjahres um höchstens drei (Berufsunfallversicherung) beziehungsweise sechs Gefahrenstufen (Nichtberufsunfallversicherung) erhöhen, wenn:\na) eine überdurchschnittliche Unfallhäufigkeit in den letzten drei Jahren festgestellt wird; und\nb) die Schadenbelastung in den letzten drei Jahren mindestens 50 % über dem aktuellen Prämienbedarf liegt.\n2) Die Berechnungen nach Abs. 1 sind getrennt nach Versicherungszweigen der obligatorischen Versicherung durchzuführen.\n3) Die gesamte Erhöhung während einer Tarifperiode darf höchstens sechs Gefahrenstufen in der Berufsunfallversicherung beziehungsweise zwölf Gefahrenstufen in der Nichtberufsunfallversicherung betragen.\n4) Legt die Regierung einen neuen Prämientarif fest, ist die Einstufung zu überprüfen und bei Bedarf anzupassen."
+    },
+    {
+      "provision_ref": "art83e",
+      "chapter": "2. Prämien",
+      "section": "83e",
+      "title": "Art. 83e Minimalprämie",
+      "content": "Die Versicherer können für jeden Versicherungszweig der obligatorischen Versicherung eine Minimalprämie von höchstens 100 Franken pro Jahr vorsehen. In diesem Betrag sind die Prämienzuschläge nach Art. 80 Abs. 3 des Gesetzes enthalten."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "2. Prämien",
+      "section": "84",
+      "title": "Art. 84 Zuschlag für ratenweise Prämienzahlung und Verzugszinsen",
+      "content": "1) Der Zuschlag für ratenweise Prämienzahlung beträgt bei halbjährlicher Prämienzahlung 1.250 % und bei vierteljährlicher Prämienzahlung 1.875 % der Jahresprämie. Der Versicherer kann pro Rate einen Mindestzuschlag von 10 Franken erheben.\n2) Die Zahlungsfrist für Prämien beträgt einen Monat nach Fälligkeit. Nach dieser Frist ist pro Monat 0.5 % Verzugszins zu erheben.\n3) Ist als Ersatzprämie der einfache Prämienbetrag zu entrichten, so wird pro Monat ein Verzugszins von 0.5 % erhoben.\n4) Zuschlag und Verzugszinsen dürfen dem Arbeitnehmer nicht vom Lohn abgezogen werden."
+    },
+    {
+      "provision_ref": "art84a",
+      "chapter": "2. Prämien",
+      "section": "84a",
+      "title": "Art. 84a",
+      "content": "Aufgehoben\nVII. Verfahren und Rechtsmittel"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "VII. Verfahren und Rechtsmittel",
+      "section": "85",
+      "title": "Art. 85 Ausnahmen von der Schweigepflicht",
+      "content": "1) Unter Vorbehalt wesentlicher privater Interessen des Verunfallten und seiner Angehörigen sowie des Arbeitgebers entfällt die Schweigepflicht gegenüber:\na) den zur Akteneinsicht Berechtigten;\nb) den Organen der Alters- und Hinterlassenen- und Invalidenversicherungs-Anstalten für Auskünfte, die zur Festsetzung, Änderung oder Rückforderung von Leistungen der Alters- und Hinterlassenenversicherung, zur Verhinderung ungerechtfertigter Bezüge, für die Festsetzung und den Bezug der Beiträge oder für den Rückgriff auf haftpflichtige Dritte notwendig sind;\nc) den Zivilgerichten in familien- und erbrechtlichen Streitigkeiten hinsichtlich der Höhe von Versicherungsleistungen;\nd) dem Ehegatten und den Kindern hinsichtlich des Anspruchs auf Versicherungsleistungen und deren Höhe;\ne) dem Amt für Volkswirtschaft als Durchführungsorgan der Unfallverhütung nach Art. 73 Abs. 1 des Gesetzes sowie den unmittelbar von einer Verfügung dieses Amtes betroffenen Arbeitgebern und Arbeitnehmern für Auskünfte, die sie für Massnahmen zur Verhütung von Berufsunfällen und Berufskrankheiten benötigen;\nf) den Strafgerichten und Strafuntersuchungsbehörden, sofern sie die Akten zur Abklärung einer Straftat benötigen;\ng) dem Amt für Volkswirtschaft oder von ihm betrauten Vollzugsorganen betreffend die Sicherheit von technischen Einrichtungen und Geräten für Auskünfte, die sie für die Überwachung der Einhaltung der Sicherheitsanforderungen benötigen;\nh) den in Bst. b nicht genannten Sozialversicherungen sowie den Amtsstellen des Landes und der Gemeinden, sofern sie die Auskünfte und Unterlagen zur Beurteilung von Begehren um Versicherungs- oder Sozialleistungen oder zur Geltendmachung eines gesetzlichen Rückgriffsrechtes benötigen.\n2) Die Schweigepflicht entfällt gegenüber weiteren Personen und Stellen, wenn der Betroffene oder sein gesetzlicher Vertreter schriftlich eingewilligt hat, sowie ausnahmsweise gegenüber anderen Personen, sofern sie nachweisen, dass sie im Interesse des Versicherten oder seiner Hinterlassenen handeln und die schriftliche Einwilligung nicht eingeholt werden kann.\n3) Die Schweigepflicht entfällt ausnahmsweise dann, wenn ein höheres Interesse die Bekanntgabe von Wahrnehmungen gebietet, namentlich zur Abwendung einer Gefahr für Leben, Gesundheit oder Eigentum oder zur Abwendung einer Straftat."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "VII. Verfahren und Rechtsmittel",
+      "section": "86",
+      "title": "Art. 86 Verhältnis zur Alters- und Hinterlassenenversicherung und zur Invalidenversicherung",
+      "content": "Die Organe der Alters- und Hinterlassenenversicherung und der Invalidenversicherung und die Versicherer melden sich gegenseitig unentgeltlich die Tatsachen, die für die Festsetzung und Änderung von Leistungen massgebend sind."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "VII. Verfahren und Rechtsmittel",
+      "section": "87",
+      "title": "Art. 87 Leistungen bei Unfall und Krankheit",
+      "content": "1) Erkrankt ein verunfallter Versicherter in einer Einrichtung des Gesundheitswesens, so erbringt der Unfallversicherer für die Dauer der stationären Behandlung der Unfallfolgen die Pflegeleistungen, Kostenvergütungen und Taggelder für die gesamte Gesundheitsschädigung. Der Krankenversicherer erbringt subsidiär die Taggelder, soweit keine Überversicherung besteht.\n2) Verunfallt ein erkrankter Versicherter in einer Einrichtung des Gesundheitswesens, so erbringt der Krankenversicherer für die Dauer der stationären Behandlung der Krankheit die versicherten Leistungen für die gesamte Gesundheitsschädigung. Der Unfallversicherer ist im Ausmass der Leistungen des Krankenversicherers von der Leistungspflicht befreit."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "VII. Verfahren und Rechtsmittel",
+      "section": "88",
+      "title": "Art. 88 Verfügungen",
+      "content": "Eine schriftliche Verfügung ist von den Versicherern insbesondere zu erlassen über:\na) die Zusprechung von Invalidenrenten, Abfindungen, Integritätsentschädigungen, Hilflosenentschädigungen, Hinterlassenenrenten und Witwenabfindungen sowie die Revision von Renten und Hilflosenentschädigungen;\nb) die Kürzung oder Verweigerung von Versicherungsleistungen;\nc) die Rückforderung von Versicherungsleistungen;\nd) die erstmalige Einreihung eines Betriebes in die Klassen und Stufen der Prämientarife sowie die Änderung der Einreihung;\ne) die Einforderung von Ersatzprämien;\nf) die Festsetzung der Prämien, wenn der Arbeitgeber die erforderlichen Angaben nicht gemacht hat."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "VII. Verfahren und Rechtsmittel",
+      "section": "89",
+      "title": "Art. 89 Beschwerderecht der Versicherer",
+      "content": "Erlässt ein Versicherer oder ein anderer Träger der Sozialversicherung eine Verfügung, die die Aufteilung der Leistungspflicht zwischen der Unfallversicherung und einer anderen Sozialversicherung zum Gegenstand hat, so ist die Verfügung auch dem mitbetroffenen Versicherer oder Träger zu eröffnen. Der Versicherer oder Träger kann die gleichen Rechtsmittel ergreifen wie der Versicherte.\nVIII. Übergangsbestimmungen"
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "VIII. Übergangsbestimmungen",
+      "section": "90",
+      "title": "Art. 90 Versicherungsleistungen für Berufskrankheiten",
+      "content": "Für die im Anhang 1 aufgeführten Krankheiten, die nach der Verordnung vom 14. Oktober 1963 über die Berufskrankheiten, LGBl. 1963 Nr. 36, keinen Anspruch begründeten, werden Versicherungsleistungen ab dem Inkrafttreten dieser Verordnung ausgerichtet."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "VIII. Übergangsbestimmungen",
+      "section": "91",
+      "title": "Art. 91 Teuerungszulagen",
+      "content": "Zu Hinterlassenenrenten, die Geschwistern, Eltern oder Grosseltern des Versicherten nach bisherigem Recht gewährt wurden, werden keine Teuerungszulagen ausgerichtet."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "VIII. Übergangsbestimmungen",
+      "section": "92",
+      "title": "Art. 92 Wegfall bestehender Versicherungsverträge",
+      "content": "1) Unfallversicherungsverträge im Sinne von Art. 96 Abs. 2 des Gesetzes fallen mit dessen Inkrafttreten dahin, sofern auf diesen Zeitpunkt oder innerhalb von sechs Monaten danach schriftlich der Rücktritt vom Vertrag erklärt wird. Vorausbezahlte Prämien werden zurückerstattet. Die Versicherer haben die Versicherten in geeigneter Weise auf das Rücktrittsrecht aufmerksam zu machen.\n2) Bei Versicherungsverträgen, die neben andern Risiken auch das Unfallrisiko decken, kann der Rücktritt gemäss Abs. 1 mit Bezug auf das Unfallrisiko erklärt werden, sofern es sich nicht um Lebensversicherungen handelt.\nIX. Inkrafttreten"
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "IX. Inkrafttreten",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Diese Verordnung tritt am 1. Januar 1991 in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\nAnhang 1\nBerufskrankheiten\nListe der schädigenden Stoffe und der arbeitsbedingten Erkrankungen (Art. 20)\n1. Als schädigende Stoffe im Sinne von Art. 9 Abs. 1 des Gesetzes gelten:\nAcetaldehyd\nAcetate, nur Methyl-, Äthyl-, Butyl-, Amyl-, Vinylacetat\nAceton\nAcetylen\nAcridin\nAcrolein\nAcrylamid\nAcrylate\nAethylenimin\nAethylenoxid\nAliphatische Amine\nAlkaloide\nAlkylamine\nAluminiumchlorid\nAmeisensäure\nAmmoniak\nAnthracen\nAntimon und seine Verbindungen\nAromatische Amine\nArsen und seine Verbindungen\nAsbeststaub\nBarium und seine in verdünnten Säuren löslichen Verbindungen\nBenzine\nBenzol\nBeryllium, seine Verbindungen und Legierungen\nBitumen\nBlei, seine Verbindungen und Legierungen\nBrom\nCadmium und seine Verbindungen\nCalciumcarbid\nCalciumhydroxid (gelöschter Kalk)\nCalciumoxid (gebrannter Kalk)\nCarbamate und ihre Verbindungen\nChlor\nChlorkalk\nChlorschwefel\nChlorsulfonsäure\nChromverbindungen\nCyan und seine Verbindungen\nDesinfektionsmittel: Alkohole, Kresole, Aldehyde, Biguanide und quartäre Ammoniumverbindungen\nDiazomethan\nDimethylformamid\nDioxan\nEpoxidharze (Giessharze)\nEssigsäure\nEssigsäureanhydrid\nFluor und seine Verbindungen\nFormaldehyd\nFormamid\nGlutaraldehyd\nGlykole, ihre Äther und deren Ester\nHalogenierte organische Verbindungen\nHolzstaub\nHydrazin und seine Derivate\nHydroxylamin\nIsocyanate\nIsothiazolinone\nJod\nKaliumchlorat (chlorsaures Kalium)\nKaliumhydroxid (Ätzkali)\nKautschukadditive\nKeten\nKobalt und seine Verbindungen\nKohlenmonoxid\nKolophonium\nMaleinsäureanhydrid\nMangan und seine Verbindungen\nMethylalkohol (Methanol)\nMethyläthylketon\nMineralöladditive\nMineralöle\nNaphtalin und seine Verbindungen\nNatriumchlorat (chlorsaures Natrium)\nNatriumhydroxid (Ätznatron)\nNickel\nNickelcarbonyl\nNitroglycerin\nNitroglykole (Salpetersäureester der Glykole)\nNitrose Gase\nNitroverbindungen, organische\nOzon\nParaffin\nPara-Phenylendiamin\nPeroxide\nPersulfate\nPetrol\nPhenol (Carbolsäure) und seine Homologen\nPhenylhydroxylamin\nPhosgen (Kohlenoxychlorid)\nPhosphor und seine Verbindungen\nPhthalsäureanhydrid\nPlatin-Komplexsalze\nPyridin und seine Homologen\nQuecksilber, seine Verbindungen und Legierungen\nSalpetersäure\nSalpetrige Säure, ihre Salze (Nitrite) und Ester\nSalzsäure\nSchwefeldioxid\nSchwefelkohlenstoff\nSchwefelnatrium\nSchwefelsäure, ihre Salze (Sulfate) und Ester\nSchwefelsäureanhydrid\nSchwefelwasserstoff\nSchweflige Säure und ihre Salze (Sulfite)\nSelen und seine Verbindungen\nStickstoffwasserstoffsäure und ihre Salze (Azide)\nStyrol\nSulfurylchlorid\nSynthetische Kühlschmiermittel\nTeer\nTeerpech\nTenside\nTerpentinöl\nThalliumverbindungen\nThiocyanate (Sulfocyanate)\nThionylchlorid\nToluol\n2,4,6-Trichlor-1,3,5-triazin (Cyanursäurechlorid)\nTrimellithsäureanhydrid\nVanadium und seine Verbindungen\nXylole\nZement\nZinkoxid\nZinnverbindungen\n2. Als arbeitsbedingte Erkrankungen im Sinne von Art. 9 Abs. 1 des Gesetzes gelten:\nErkrankungen\nArbeiten\na) Erkrankungen durch physikalische Einwirkungen:\nHautblasen, -risse, -schrunden, -schürfungen, -schwielen\nAlle Arbeiten\nChronische Erkrankungen der Schleimbeutel durch ständigen Druck\nAlle Arbeiten\nDrucklähmungen der Nerven\nAlle Arbeiten\nSogenannte Sehnenscheidenentzündung (Peritendinitis crepitans)\nAlle Arbeiten\nErhebliche Schädigungen des Gehörs\nArbeiten im Lärm\nErkrankungen durch Arbeit in Druckluft\nAlle Arbeiten\nErfrierungen, ausgenommen Frostbeulen\nAlle Arbeiten\nSonnenbrand, Sonnenstich, Hitzschlag\nAlle Arbeiten\nErkrankungen durch Ultraschall und Infraschall\nAlle Arbeiten\nErkrankungen durch Vibrationen (nur radiologisch nachweisbare Einwirkungen auf Knochen und Gelenke, Einwirkungen auf den peripheren Kreislauf, Einwirkungen auf die peripheren Nerven)\nAlle Arbeiten\nErkrankungen durch ionisierende Strahlen\nAlle Arbeiten\nErkrankungen durch nicht ionisierende Strahlen (Laser, Mikrowellen, Ultraviolett, Infrarot usw.)\nAlle Arbeiten\nHypothenar-Hammer-Syndrom\nAlle Arbeiten\nb) Andere Erkrankungen:\nStaublungen\nArbeiten in Stäuben von Aluminium, Silikaten, Graphit, Kieselsäure, (Quarz) Hartmetallen\nErkrankungen der Atmungsorgane\nArbeiten in Stäuben von Baumwolle, Hanf, Flachs, Getreide und deren Mehle, Enzymen, Schimmelpilzen und in anderen organischen Stäuben\nHautkrebse und hiezu neigende Hautveränderungen\nAlle Arbeiten mit Verbindungen, Produkten oder Rückständen von Teer, Pech, Erdpech, Mineralöl, Paraffin\nInfektionskrankheiten\nArbeiten in Spitälern, Laboratorien, Versuchsanstalten und dergleichen\nDurch Kontakt mit Pflanzen verursachte Krankheiten\nArbeiten im Umgang mit Pflanzen und einzelnen Pflanzenbestandteilen\nDurch Kontakt mit Tieren verursachte Krankheiten\nTierhaltung und Tierpflege sowie Tätigkeiten, die durch Umgang oder Berührung mit Tieren, mit tierischen Teilen, Erzeugnissen und Abgängen zur Erkrankung Anlass geben; Ein- und Ausladen sowie Beförderung von Waren\nAmöbiasis, Gelbfieber, Hepatitis A, Hepatitis E, Malaria\nBeruflich bedingter Aufenthalt ausserhalb Europas\nAnkylostomiasis, Cholera, Clonorchiasis, Filariasis, Hämorrhagische Fieber, Leishmaniasis, Lepra, Onchozerciasis, Salmonellosen, Shigellosen, Schistosomiasis, Strongyloidiasis, Trachom, Trypanosomiasis\nBeruflich bedingter Aufenthalt in tropischen/subtropischen Gebieten\nAnhang 2\nAbgabe von Hilfsmitteln durch die Unfallversicherung (Art. 25)\n1. Anspruch auf Hilfsmittel\n1) Der Versicherte hat Anspruch auf die in der nachfolgenden Liste aufgeführten Hilfsmittel, soweit diese durch Unfall oder Berufskrankheit bedingte körperliche Schädigungen oder Funktionsausfälle ausgleichen.\n2) Der Anspruch erstreckt sich auf die notwendigen und dem Gesundheitsschaden angepassten Hilfsmittel in einfacher und zweckmässiger Ausführung, das erforderliche Zubehör und die Anpassungen, die wegen des Gesundheitsschadens nötig sind. Ausstattung und Anzahl der Hilfsmittel müssen den Anforderungen des privaten sowie des beruflichen Lebens entsprechen.\n3) Ist die Unfallversicherung für ein Hilfsmittel leistungspflichtig, so entfällt ein entsprechender Anspruch gegenüber der Invalidenversicherung.\n2. Kostenbeteiligung\nErsetzt ein Hilfsmittel einen Gegenstand, den der Versicherte auch ohne die unfallbedingte Gesundheitsschädigung benützen würde, so kann er an den Kosten des von der Unfallversicherung abgegebenen Hilfsmittels beteiligt werden.\n3. Verträge mit Abgabestellen\n1) Unter Vorbehalt der Genehmigung durch die Regierung sind die Versicherer befugt, mit den Abgabestellen für Hilfsmittel vertraglich die Zusammenarbeit zu regeln und die Tarife festzulegen.\n2) Soweit keine Verträge bestehen, kann die Regierung für die Vergütung von Hilfsmitteln Höchstbeträge festlegen.\n4. Abgabeform\nKostspielige Hilfsmittel, die ihrer Art nach auch für andere Versicherte Verwendung finden können, werden leihweise abgegeben. Alle übrigen Hilfsmittel erhält der Versicherte zu Eigentum.\n5. Sorgfaltspflicht\n1) Die Hilfsmittel sind sorgfältig und zweckmässig zu verwenden.\n2) Wird ein Hilfsmittel vorzeitig untauglich, weil es unsorgfältig benützt wurde, so hat der Versicherte eine angemessene Entschädigung zu leisten.\n6. Gebrauchstraining, Reparatur und Betrieb\n1) Bedarf der Versicherte zum Gebrauch des Hilfsmittels eines besonderen Trainings, so übernimmt der Versicherer die dafür entstehenden Kosten.\n2) Muss ein Hilfsmittel trotz sorgfältiger Verwendung repariert, angepasst oder erneuert werden, so übernimmt der Versicherer die Kosten, soweit nicht ein Dritter ersatzpflichtig ist.\n3) Die Kosten für Betrieb und Unterhalt von Hilfsmitteln werden vom Versicherer nicht übernommen. In Härtefällen gewährt der Versicherer an solche Kosten einen Beitrag.\nListe der Hilfsmittel\n1 Prothesen\n1.01 Funktionelle Fuss- und Beinprothesen\n1.02 Hand- und Armprothesen\n1.03 Brustexoprothesen\n2 Stütz- und Führungsapparate für Gliedmassen\n2.01 Beinapparate\n2.02 Armapparate\n3 Orthopädische Stützkorsetts\n3.01 Stützkorsetts\n3.02 Lendenmieder\n4 Orthopädisches Schuhwerk\n4.01 Orthopädische Mass-Schuhe\n4.02 Kostspielige orthopädische Änderungen an Serienschuhen\n4.03 Schuheinlagen\n5 Hilfsmittel für Defekte im Kopfbereich\n5.01 Augenprothesen und Augenepithesen\n5.02 Ohrmuschelersatz\n5.03 Nasenersatzstücke\n5.04 Kieferersatzstücke und Gaumenplatten\n5.05 Zahnprothesen\n5.06 Perücken\n6 Hörapparate\n6.01 Hörapparate\n7 Brillen\n7.01 Brillen\n7.02 Kontaktlinsen\n8 Sprechhilfegeräte\n8.01 Sprechhilfegeräte als Ersatz für die Kehlkopffunktion\n9 Fahrstühle\n9.01 Fahrstühle ohne motorischen Antrieb\n9.02 Fahrstühle mit elektromotorischem Antrieb,\nsofern gehunfähige Versicherte infolge von Lähmungen oder anderen Gebrechen der oberen Extremitäten einen gewöhnlichen Fahrstuhl nicht bedienen und sich nur dank elektromotorischem Antrieb selbständig fortbewegen können.\n10 Hilfsmittel für Blinde und hochgradig Sehschwache\n10.01 Blindenlangstöcke\n10.02 Lupenbrillen\n11 Gehhilfen\n11.01 Krückstöcke\n11.02 Gehwagen und Gehböcke\nAnhang 3\nTaggeld-Berechnung (Art. 31 Abs. 4)\nDas Taggeld wird mit folgender verbindlichen Formel berechnet:\n(versicherter Jahresverdienst/365) x 80 %\nBeispiele\na)\nMonatslohn\nGrundlohn pro Monat\nFr.\n3650.00\n13. Monatslohn\nFr.\n3650.00\nJahreslohn: Fr. 3650.00 x 12\nFr.\n43800.00\n13. Monatslohn\nFr.\n3650.00\nJahresverdienst\nFr.\n47450.00\nTaggeld:\n(47450.00/365) x 80 % =\nFr.\n104.00\nAnzahl Tage: 13\nTotal: 13 x 104.00 = Fr. 1352.00\nFr.\n1352.00\nb)\nStundenlohn\nGrundlohn pro Stunde\nFr.\n18.25\n13. Monatslohn 8,33 %\nArbeitszeit: 45 Stunden pro Woche\nJahreslohn: Fr. 18.25 x 45 x 52\nFr.\n42705.00\n13. Monatslohn\nFr.\n3557.30\nJahresverdienst\nFr.\n46262.30\nTaggeld:\n(46262.30/365) x 80 % =\nFr.\n101.00\nAnzahl Tage: 22\nTotal: 22 x 101.00\nFr.\n2222.00\nAnhang 4\nBemessung der Integritätsentschädigung (Art. 41 Abs. 2)\n1. Für die nachstehend genannten Integritätsschäden entspricht die Entschädigung im Regelfall dem angegebenen Prozentsatz des Höchstbetrages des versicherten Verdienstes.\nDie Entschädigung für spezielle oder nicht aufgeführte Integritätsschäden wird nach dem Grad der Schwere vom Skalenwert abgeleitet. Das gilt auch für das Zusammenfallen mehrerer körperlicher, geistiger und psychischer Integritätsschäden.\nIntegritätsschäden, die gemäss nachstehender Skala 5 % nicht erreichen, geben keinen Anspruch auf Entschädigung.\nDer Integritätsschaden wird - mit Ausnahme der Sehhilfen - ohne Hilfsmittel beurteilt.\n2. Völlige Gebrauchsunfähigkeit eines Organs wird dem Verlust gleichgestellt. Bei teilweisem Verlust und bei teilweiser Gebrauchsunfähigkeit wird der Integritätsschaden entsprechend geringer; die Entschädigung entfällt jedoch ganz, wenn der Integritätsschaden weniger als 5 % des Höchstbetrages des versicherten Verdienstes ergäbe.\nSkala der Integritätsentschädigung\nVerlust von mindestens zwei Gliedern eines Langfingers oder eines Gliedes des Daumens\n5 %\nVerlust eines Daumens\n20 %\nVerlust einer Hand\n40 %\nVerlust eines Arms im Ellbogen oder oberhalb desselben\n50 %\nVerlust einer Grosszehe\n5 %\nVerlust eines Fusses\n30 %\nVerlust einer Niere\n20 %\nVerlust der Milz\n10 %\nVerlust der Geschlechtsorgane oder der Fortpflanzungsfähigkeit\n40 %\nVerlust des Geruchs- oder Geschmacksinnes\n15 %\nVerlust eines Beines im Kniegelenk\n40 %\nVerlust eines Beines oberhalb des Kniegelenks\n50 %\nVerlust einer Ohrmuschel\n10 %\nVerlust der Nase\n30 %\nSkalpierung\n30 %\nSehr schwere Entstellung im Gesicht\n50 %\nSchwere Beeinträchtigung der Kaufähigkeit\n25 %\nSehr starke schmerzhafte Funktionseinschränkung der\nWirbelsäule\n50 %\nParaplegie\n90 %\nTetraplegie\n100 %\nVerlust des Gehörs auf einem Ohr\n15 %\nVerlust des Sehvermögens auf einer Seite\n30 %\nVollständige Taubheit\n85 %\nVollständige Blindheit\n100 %\nHabituelle Schulterluxation\n10 %\nSehr schwere Beeinträchtigung der Lungenfunktion\n80 %\nSehr schwere Beeinträchtigung der Nierenfunktion\n80 %\nBeeinträchtigung von psychischen Teilfunktionen wie\nGedächtnis und Konzentrationsfähigkeit\n20 %\nPosttraumatische Epilepsie mit Anfällen oder in Dauermedikation ohne Anfälle\n30 %\nSehr schwere organische Sprachstörungen, sehr schweres\nmotorisches oder psychoorganisches Syndrom\n80 %\nÜbergangsbestimmungen\n832.201 Unfallversicherungsverordnung (UVersV)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2011 Nr. 441 ausgegeben am 20. September 2011\nVerordnung\nvom 13. September 2011\nüber die Abänderung der Unfallversicherungsverordnung\n...\nII.\nÜbergangsbestimmung\nDie Versicherer haben die Schlussrechnung über den Beitrag des Landes an die Prämien der obligatorischen Versicherung der Nichtberufsunfälle für das Jahr 2011 anhand der definitiven für das Jahr 2011 ermittelten Lohnsumme und einer detaillierten Aufstellung der Versicherten zu erstellen. Die entsprechenden Dokumente sind beim Amt für Gesundheit einzureichen. Der Landesbeitrag kann mit fälligen Forderungen des Landes gegenüber dem Versicherer verrechnet werden.\n...\n1\nTitel abgeändert durch LGBl. 2006 Nr. 203 .\n2\nLR 832.20\n3\nArt. 1 Abs. 2 eingefügt durch LGBl. 2006 Nr. 203 .\n4\nArt. 2 Bst. e eingefügt durch LGBl. 2006 Nr. 203 .\n5\nArt. 6 Abs. 2 abgeändert durch LGBl. 2006 Nr. 224 .\n6\nArt. 8a eingefügt durch LGBl. 2011 Nr. 423 .\n7\nArt. 13 abgeändert durch LGBl. 2016 Nr. 372 .\n8\nArt. 15 Abs. 1 abgeändert durch LGBl. 2006 Nr. 203 .\n9\nArt. 15 Abs. 2 aufgehoben durch LGBl. 2019 Nr. 295 .\n10\nArt. 15 Abs. 3 abgeändert durch LGBl. 2019 Nr. 295 .\n11\nArt. 19 Abs. 1 abgeändert durch LGBl. 2000 Nr. 218 .\n12\nArt. 21 abgeändert durch LGBl. 2008 Nr. 45 .\n13\nArt. 22 abgeändert durch LGBl. 2008 Nr. 45 .\n14\nArt. 23 abgeändert durch LGBl. 2008 Nr. 45 .\n15\nArt. 24 abgeändert durch LGBl. 2008 Nr. 45 .\n16\nArt. 26 abgeändert durch LGBl. 2006 Nr. 203 .\n17\nArt. 28 Abs. 1 abgeändert durch LGBl. 2016 Nr. 211 .\n18\nArt. 28 Abs. 3a eingefügt durch LGBl. 2006 Nr. 203 .\n19\nArt. 28 Abs. 4 abgeändert durch LGBl. 2019 Nr. 295 .\n20\nArt. 29 Abs. 6 abgeändert durch LGBl. 2000 Nr. 218 .\n21\nArt. 30 Abs. 5 aufgehoben durch LGBl. 2006 Nr. 203 .\n22\nArt. 31 Abs. 4 abgeändert durch LGBl. 2000 Nr. 218 .\n23\nArt. 33 Abs. 5 aufgehoben durch LGBl. 2006 Nr. 203 .\n24\nArt. 35 abgeändert durch LGBl. 2006 Nr. 203 .\n25\nArt. 38 abgeändert durch LGBl. 2006 Nr. 203 .\n26\nArt. 38 Abs. 2 Bst. a abgeändert durch LGBl. 2019 Nr. 295 .\n27\nArt. 41 Abs. 1 abgeändert durch LGBl. 2006 Nr. 203 .\n28\nArt. 41 Abs. 3 abgeändert durch LGBl. 2006 Nr. 203 .\n29\nArt. 41 Abs. 4 eingefügt durch LGBl. 2006 Nr. 203 .\n30\nArt. 41 Abs. 5 eingefügt durch LGBl. 2019 Nr. 295 .\n31\nArt. 42 abgeändert durch LGBl. 2019 Nr. 295 .\n32\nArt. 47 abgeändert durch LGBl. 2019 Nr. 295 .\n33\nArt. 48 Abs. 1 abgeändert durch LGBl. 2019 Nr. 295 .\n34\nArt. 57 Abs. 4 abgeändert durch LGBl. 2019 Nr. 295 .\n35\nArt. 67 Abs. 2 abgeändert durch LGBl. 2011 Nr. 443 .\n36\nÜberschrift vor Art. 72 abgeändert durch LGBl. 2008 Nr. 45 .\n37\nÜberschrift vor Art. 72 abgeändert durch LGBl. 2008 Nr. 45 .\n38\nArt. 72 abgeändert durch LGBl. 2008 Nr. 45 .\n39\nArt. 73 Abs. 1 abgeändert durch LGBl. 2008 Nr. 45 .\n40\nArt. 74 abgeändert durch LGBl. 2006 Nr. 203 .\n41\nArt. 74a eingefügt durch LGBl. 2006 Nr. 203 .\n42\nArt. 75 Abs. 2 abgeändert durch LGBl. 2006 Nr. 203 .\n43\nArt. 76 abgeändert durch LGBl. 2019 Nr. 295 .\n44\nÜberschrift vor Art. 80 abgeändert durch LGBl. 2006 Nr. 203 .\n45\nArt. 80 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 203 und LGBl. 2006 Nr. 224 .\n46\nArt. 80 Einleitungssatz abgeändert durch LGBl. 2006 Nr. 203 und LGBl. 2006 Nr. 224 .\n47\nArt. 80 Bst. a abgeändert durch LGBl. 2006 Nr. 203 .\n48\nArt. 80 Bst. b abgeändert durch LGBl. 2006 Nr. 203 .\n49\nArt. 80 Bst. c abgeändert durch LGBl. 2006 Nr. 203 .\n50\nArt. 80 Bst. d abgeändert durch LGBl. 2006 Nr. 203 .\n51\nArt. 80a Sachüberschrift eingefügt durch LGBl. 2006 Nr. 203 .\n52\nArt. 80a Abs. 1 eingefügt durch LGBl. 2006 Nr. 203 .\n53\nArt. 80a Abs. 2 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n54\nArt. 80b Sachüberschrift eingefügt durch LGBl. 2006 Nr. 203 .\n55\nArt. 80b Abs. 1 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n56\nArt. 80b Abs. 2 eingefügt durch LGBl. 2006 Nr. 203 .\n57\nArt. 80b Abs. 3 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n58\nArt. 80b Abs. 4 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n59\nArt. 81 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 203 .\n60\nArt. 81 Abs. 1 abgeändert durch LGBl. 2006 Nr. 203 .\n61\nArt. 81 Abs. 2 abgeändert durch LGBl. 2006 Nr. 203 .\n62\nArt. 81 Abs. 3 abgeändert durch LGBl. 2006 Nr. 203 .\n63\nArt. 81 Abs. 4 abgeändert durch LGBl. 2006 Nr. 203 und LGBl. 2006 Nr. 224 .\n64\nÜberschrift vor Art. 81a eingefügt durch LGBl. 2006 Nr. 203 .\n65\nÜberschrift vor Art. 81a eingefügt durch LGBl. 2006 Nr. 203 .\n66\nArt. 81a Sachüberschrift eingefügt durch LGBl. 2006 Nr. 203 .\n67\nArt. 81a Abs. 1 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n68\nArt. 81a Abs. 2 eingefügt durch LGBl. 2006 Nr. 203 .\n69\nArt. 81b Sachüberschrift eingefügt durch LGBl. 2006 Nr. 203 .\n70\nArt. 81b Abs. 1 eingefügt durch LGBl. 2006 Nr. 203 .\n71\nArt. 81b Abs. 2 eingefügt durch LGBl. 2006 Nr. 203 .\n72\nArt. 81b Abs. 3 eingefügt durch LGBl. 2006 Nr. 203 .\n73\nArt. 81b Abs. 4 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n74\nArt. 81c aufgehoben durch LGBl. 2019 Nr. 295 .\n75\nArt. 81d eingefügt durch LGBl. 2006 Nr. 203 .\n76\nArt. 81e eingefügt durch LGBl. 2006 Nr. 203 .\n77\nArt. 81f eingefügt durch LGBl. 2006 Nr. 203 .\n78\nÜberschrift vor Art. 82 eingefügt durch LGBl. 2006 Nr. 203 .\n79\nAtr. 82 Abs. 1 abgeändert durch LGBl. 2000 Nr. 218 .\n80\nArt. 82 Abs. 2 abgeändert durch LGBl. 2019 Nr. 295 .\n81\nArt. 83a Sachüberschrift eingefügt durch LGBl. 2006 Nr. 203 .\n82\nArt. 83a Abs. 1 eingefügt durch LGBl. 2006 Nr. 203 .\n83\nArt. 83a Abs. 2 eingefügt durch LGBl. 2006 Nr. 203 .\n84\nArt. 83a Abs. 3 eingefügt durch LGBl. 2006 Nr. 203 .\n85\nArt. 83a Abs. 4 eingefügt durch LGBl. 2006 Nr. 203 und abgeändert durch LGBl. 2006 Nr. 224 .\n86\nArt. 83b eingefügt durch LGBl. 2006 Nr. 203 .\n87\nArt. 83b Abs. 2 abgeändert durch LGBl. 2016 Nr. 372 .\n88\nArt. 83c eingefügt durch LGBl. 2006 Nr. 203 .\n89\nArt. 83d eingefügt durch LGBl. 2006 Nr. 203 .\n90\nArt. 83e eingefügt durch LGBl. 2016 Nr. 372 .\n91\nArt. 84 abgeändert durch LGBl. 2006 Nr. 203 .\n92\nArt. 84a aufgehoben durch LGBl. 2011 Nr. 441 .\n93\nArt. 85 Abs. 1 Bst. e abgeändert durch LGBl. 2019 Nr. 295 .\n94\nArt. 85 Abs. 1 Bst. g abgeändert durch LGBl. 2019 Nr. 295 .\n95\nArt. 87 abgeändert durch LGBl. 2008 Nr. 45 .\n96\nAnhang 1 abgeändert durch LGBl. 2006 Nr. 203 und LGBl. 2019 Nr. 55 .\n97\nAnhang 3 abgeändert durch LGBl. 2007 Nr. 254 .\n98\nAnhang 4 abgeändert durch LGBl. 2006 Nr. 203 ."
+    }
+  ],
+  "definitions": []
+}

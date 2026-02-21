@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-02-21T22:39:00Z",
+  "source_portal": "https://www.gesetze.li/konso",
+  "discovery": {
+    "pages_crawled": 117,
+    "lrstart_nodes": 116,
+    "law_links_discovered": 3614
+  },
+  "ingestion": {
+    "attempted": 3614,
+    "ingested": 3594,
+    "cached": 20,
+    "skipped": 0,
+    "total_provisions": 72239,
+    "total_definitions": 2665
+  },
+  "database_build": {
+    "documents": 3614,
+    "provisions": 73213,
+    "definitions": 2665,
+    "eu_documents": 3370,
+    "eu_references": 12631
+  },
+  "verification": {
+    "provision_char_match": [
+      {
+        "document_id": "li-datenschutzgesetz",
+        "provision_ref": "art1",
+        "result": "MATCH"
+      },
+      {
+        "document_id": "li-cybersicherheitsgesetz",
+        "provision_ref": "art3",
+        "result": "MATCH"
+      },
+      {
+        "document_id": "li-konso-1003001000",
+        "provision_ref": "par2",
+        "result": "MATCH"
+      }
+    ]
+  }
+}

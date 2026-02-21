@@ -1,0 +1,162 @@
+{
+  "id": "li-konso-2019180000",
+  "type": "statute",
+  "title": "Verordnung vom 9. Juli 2019 über elektronische Signaturen und Vertrauensdienste für elektronische Transaktionen (Signatur- und Vertrauensdiensteverordnung; SigVV)",
+  "title_en": "",
+  "short_name": "SigVV",
+  "status": "in_force",
+  "issued_date": "2019-07-09",
+  "in_force_date": "2019-07-09",
+  "url": "https://www.gesetze.li/konso/2019180000",
+  "description": "Verordnung vom 9. Juli 2019 über elektronische Signaturen und Vertrauensdienste für elektronische Transaktionen (Signatur- und Vertrauensdiensteverordnung; SigVV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung des Signatur- und Vertrauensdienstegesetzes (SigVG) und der Verordnung (EU) Nr. 910/2014 :\na) die besonderen Anforderungen an qualifizierte Vertrauensdiensteanbieter (VDA) und ihr Personal;\nb) nähere Anforderungen an qualifizierte Zertifikate und den Antrag auf deren Ausstellung;\nc) nähere Anforderungen an die Zertifikatsdatenbank und deren Weiterführung durch die Aufsichtsstelle;\nd) die Kriterien und das Verfahren hinsichtlich der Feststellung der Eignung einer Einrichtung als Bestätigungsstelle;\ne) die Erhebung von Gebühren."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Besondere Anforderungen an qualifizierte VDA und ihr Personal"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Besondere Anforderungen an qualifizierte VDA und ihr Personal",
+      "section": "3",
+      "title": "Art. 3 Mindestkapital und Haftpflichtversicherung",
+      "content": "1) Ein qualifizierter VDA, der qualifizierte Vertrauensdienste erbringt, hat über ein Mindestkapital in Höhe von 500 000 Franken zu verfügen. Dieses Mindestkapital muss in Form von Eigenmitteln (Nennkapital bzw. eingezahltes Kapital, Kapitalrücklagen, Gewinnrücklagen, Bilanzgewinn, unversteuerte Rücklagen) oder gleichwertigen sofort liquiden Finanzmitteln vorliegen.\n2) Ein qualifizierter VDA, der qualifizierte Vertrauensdienste erbringt, hat zudem eine Haftpflichtversicherung mit einer Mindestversicherungssumme von 1 500 000 Franken abzuschliessen, die zumindest drei Versicherungsfälle im Jahr deckt. Die Vereinbarung eines Selbstbehalts bis zu einem Prozent der Mindestversicherungssumme ist zulässig. Von der Leistungspflicht der Versicherung können nur Ersatzansprüche aus einer vorsätzlich begangenen Pflichtverletzung des qualifizierten VDA oder der für ihn handelnden Personen, für die er einzustehen hat, ausgeschlossen werden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Besondere Anforderungen an qualifizierte VDA und ihr Personal",
+      "section": "4",
+      "title": "Art. 4 Organisatorische und technische Anforderungen",
+      "content": "1) Werden die Einrichtungen eines qualifizierten VDA organisatorisch oder technisch getrennt geführt, so ist durch Sicherheitsmassnahmen sicherzustellen, dass die Übertragung der Daten zwischen den Teileinrichtungen nicht zu einer Kompromittierung der qualifizierten Vertrauensdienste führt.\n2) Die technischen Einrichtungen eines qualifizierten VDA sind so zu gestalten, dass deren Funktionen und Anwendungen, die zu den bereitgestellten qualifizierten Vertrauensdiensten gehören, von anderen Funktionen und Anwendungen getrennt sind und eine Beeinflussung ausgeschlossen ist. Dies muss sowohl für den regulären Betrieb, für besondere Betriebssituationen und ausserhalb des Betriebs sichergestellt sein. Besondere Betriebssituationen wie beispielweise eine Wartung sind zu dokumentieren.\n3) Ein qualifizierter VDA hat geeignete Vorkehrungen zu treffen, die seine Einrichtungen zur Erbringung von qualifizierten Vertrauensdiensten vor unbefugtem Zutritt schützen.\n4) Werden die Signatur- oder Siegelerstellungsdaten beim qualifizierten VDA oder bei der Produktion der Signatur- oder Siegelerstellungseinheit erzeugt, so muss vom qualifizierten VDA sichergestellt werden, dass die Signatur- oder Siegelerstellungsdaten nur in den alleinigen Verfügungsbereich des Signators oder des Siegelerstellers gelangen. Davor muss die Möglichkeit der Verwendung der Signatur- oder Siegelerstellungsdaten ausgeschlossen sein. In jedem Fall hat sich der qualifizierte VDA darüber zu vergewissern, dass die Signatur- oder Siegelerstellungsdaten des Signators oder des Siegelerstellers und die Signatur- oder Siegelvalidierungsdaten des entsprechenden Zertifikats in komplementärer Weise anwendbar sind."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Besondere Anforderungen an qualifizierte VDA und ihr Personal",
+      "section": "5",
+      "title": "Art. 5 Anforderungen an das Personal",
+      "content": "1) Ein qualifizierter VDA darf im Rahmen der bereitgestellten qualifizierten Vertrauensdienste nur zuverlässiges Personal beschäftigen. Die Zuverlässigkeit ist jedenfalls bei Personen nicht gegeben, die wegen einer mit Vorsatz begangenen strafbaren Handlung zu einer Freiheitsstrafe von mehr als einem Jahr oder wegen strafbarer Handlungen gegen das Vermögen oder gegen die Zuverlässigkeit von Urkunden und Beweiszeichen zu einer Freiheitsstrafe von mehr als drei Monaten verurteilt wurden. Verurteilungen, die nach den Bestimmungen des Gesetzes über das Strafregister und die Tilgung gerichtlicher Verurteilungen getilgt sind oder der beschränkten Auskunft unterliegen, bleiben ausser Betracht.\n2) Das Personal eines qualifizierten VDA muss im Hinblick auf die zu erfüllenden Aufgaben über ausreichendes Fachwissen in folgenden Bereichen verfügen:\na) allgemeine EDV-Ausbildung;\nb) Sicherheitstechnologie, Kryptographie, elektronische Signatur und Public Key Infrastructure;\nc) technische Normen, insbesondere Evaluierungsnormen;\nd) Hard- und Software;\ne) Vorschriften für die Sicherheit und den Schutz personenbezogener Daten; sowie\nf) Anwendung von Verwaltungs- und Managementverfahren.\n3) Auf Verlangen der Aufsichtsstelle hat der qualifizierte VDA Auskunft über das erforderliche Fachwissen des Personals zu geben. Das erforderliche Fachwissen des Personals kann insbesondere erworben werden durch:\na) Absolvierung einer fachlich einschlägigen Ausbildung; oder\nb) eine fachlich einschlägige Tätigkeit in der Dauer von zumindest drei Jahren.\nIII. Anforderungen an qualifizierte Zertifikate und den Antrag auf deren Ausstellung"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "III. Anforderungen an qualifizierte Zertifikate und den Antrag auf deren Ausstellung",
+      "section": "6",
+      "title": "Art. 6 Ausstellung qualifizierter Zertifikate für einen Vertrauensdienst",
+      "content": "1) Zur Feststellung der Identität von persönlich anwesenden natürlichen Personen oder Vertretern einer juristischen Person, denen ein qualifiziertes Zertifikat ausgestellt werden soll, sind geeignet:\na) ein amtlicher Lichtbildausweis; oder\nb) ein Nachweis, der bescheinigt, dass die Identität zumindest mit jener Verlässlichkeit geprüft wurde, wie sie bei der Zustellung zu eigenen Handen (Art. 23 ZustG) einzuhalten ist.\n2) Die Daten des Lichtbildausweises oder des anderen Nachweises (Art. 7 Abs. 2 SigVG) sind zu erfassen und mit dem Antrag zu dokumentieren, sofern sie nicht schon dokumentiert wurden. Die Erfassung und Dokumentation kann auch in ausschliesslich elektronischer Form erfolgen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Anforderungen an qualifizierte Zertifikate und den Antrag auf deren Ausstellung",
+      "section": "7",
+      "title": "Art. 7 Qualifizierte Zertifikate",
+      "content": "1) Stellt ein VDA neben qualifizierten Zertifikaten auch andere Zertifikate aus, so muss er für die Signatur oder das Siegel der qualifizierten Zertifikate gesonderte Signatur- oder Siegelerstellungsdaten verwenden.\n2) Bis zum Ablauf der Gültigkeit eines qualifizierten Zertifikats ist es zulässig, mit Ausnahme der Gültigkeitsdauer und der eindeutigen Kennung, dieselben Inhalte samt denselben Signatur- oder Siegelvalidierungsdaten neu zu zertifizieren und auf diese Weise ein neues Zertifikat auszustellen.\n3) Im Fall der Übernahme nach Art. 8 Abs. 2 SigVG ist auch eine Änderung der Angaben und Inhalte des qualifizierten Zertifikats zulässig, soweit diese Änderung zur Weiterführung des qualifizierten Zertifikats erforderlich ist. Der Beginn der Gültigkeit des neu ausgestellten qualifizierten Zertifikats hat dabei unmittelbar an das Ende der Gültigkeit des bestehenden qualifizierten Zertifikats anzuschliessen. In allen anderen Fällen bewirkt der Umstand, dass für Signatur- oder Siegelzwecke ausgestellte qualifizierte Zertifikate dieselben Signatur- oder Siegelvalidierungsdaten, aber unterschiedliche Inhalte aufweisen, eine Kompromittierung der betroffenen qualifizierten Zertifikate.\nIV. Anforderungen an die Zertifikatsdatenbank und deren Weiterführung durch die Aufsichtsstelle"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "IV. Anforderungen an die Zertifikatsdatenbank und deren Weiterführung durch die Aufsichtsstelle",
+      "section": "8",
+      "title": "Art. 8 Zertifikatsdatenbank",
+      "content": "1) Der qualifizierte VDA hat sicherzustellen, dass die Formate der Zertifikatsdatenbank (Art. 24 Abs. 2 Bst. k eIDAS-VO) für deren Weiterführung durch die Aufsichtsstelle geeignet sind. Die Formate der Zertifikatsdatenbank dürfen während der Geltungsdauer des Zertifikats nicht verändert werden. Jedenfalls muss die Zertifikatsdatenbank die Feststellung zulassen, ob das Zertifikat zu einem bestimmten Zeitpunkt widerrufen war. Die Zertifikatsdatenbank muss allgemein frei zugänglich sein. Die Abfrage der Zertifikatsdatenbank muss unentgeltlich und ohne Identifikation möglich sein.\n2) Der qualifizierte VDA hat den Signatoren, den Siegelerstellern und sonstigen dazu Berechtigten geeignete Kommunikationsmöglichkeiten bekannt zu geben, mit denen diese jederzeit einen Widerruf des Zertifikats veranlassen können. Dafür muss ein Authentifizierungsverfahren vorgesehen werden. Der Widerruf eines Zertifikats muss jedenfalls auch in Papierform möglich sein.\n3) Die Zertifikatsdatenbank muss vor Fälschung, Verfälschung und unbefugtem Zugriff ausreichend geschützt sein. Es muss sichergestellt sein, dass nur befugte Personen Eintragungen und Veränderungen in der Zertifikatsdatenbank vornehmen können. Darüber hinaus darf eine Aussetzung nicht unbemerkt rückgängig gemacht werden können.\n4) Die Aktualisierung der Zertifikatsdatenbank muss an Werktagen, ausgenommen Samstagen, von 9 bis 17 Uhr spätestens innerhalb von drei Stunden ab Bekanntwerden des Widerrufsgrundes erfolgen. Ausserhalb dieser Zeit hat der qualifizierte VDA jedenfalls dafür Sorge zu tragen, dass ein Verlangen auf Widerruf eines qualifizierten Zertifikats jederzeit automatisiert entgegengenommen wird und die Aussetzung spätestens innerhalb von sechs Stunden auslöst.\n5) Die Zertifikatsdatenbank muss ständig verfügbar sein. Eine durchgehende Unterbrechung der Zertifikatsdatenbank von mehr als 30 Minuten ist als Störfall zu dokumentieren. Für Wartungs- und Ausfallsituationen der Zertifikatsdatenbank ist ein Ersatzsystem bereitzustellen. Fällt auch das Ersatzsystem aus, so ist dies innerhalb eines Kalendertags der Aufsichtsstelle anzuzeigen. Die Aufsichtsstelle hat durch geeignete Mittel dafür Sorge zu tragen, dass die Wiederherstellung der Zertifikatsdatenbank durch den VDA innerhalb von drei Kalendertagen erfolgt.\n6) Führt die Aufsichtsstelle die Zertifikatsdatenbank nach Art. 8 Abs. 2 SigVG weiter, so ist Art. 24 Abs. 4 eIDAS-VO sinngemäss anzuwenden.\n7) Im Fall einer Aussetzung eines qualifizierten Zertifikats ist der Signator oder der Siegelersteller unverzüglich zu verständigen. Die Aussetzung kann aufgehoben werden. Eine aufgehobene Aussetzung hat auf die Gültigkeit des Zertifikats keinen Einfluss. Wird eine Aussetzung nicht aufgehoben, so ist das Zertifikat zu widerrufen. Erfolgt auf Grund einer Aussetzung der Widerruf eines Zertifikats, so gilt bereits die Aussetzung als Widerruf.\n8) Werden die Signatur- oder Siegelerstellungsdaten des Signators oder des Siegelerstellers bekannt oder kommen diese ausser beim Signator oder Siegelersteller als Signatur- oder Siegelerstellungsdaten oder in anderer Form ein weiteres Mal vor, so liegt eine Kompromittierung der Signatur- oder Siegelerstellungsdaten vor.\nV. Kriterien und Verfahren hinsichtlich der Feststellung der Eignung einer Einrichtung als Bestätigungsstelle"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "V. Kriterien und Verfahren hinsichtlich der Feststellung der Eignung einer Einrichtung als Bestätigungsstelle",
+      "section": "9",
+      "title": "Art. 9 Kriterien",
+      "content": "Für die Feststellung der Eignung als Bestätigungsstelle hat eine Einrichtung die Anforderungen und Kriterien zu erfüllen:\na) nach Art. 6 Abs. 2 Bst. a bis d SigVG;\nb) der Entscheidung der Europäischen Kommission 2000/709/EG vom 6. November 2000 über die Mindestkriterien bei der Benennung solcher Stellen (EWR-Rechtssammlung: Anh. XI - 5ga.01);\nc) der nach Massgabe von Art. 30 Abs. 4 eIDAS-VO von der EU-Kommission erlassenen delegierten Rechtsakte."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "V. Kriterien und Verfahren hinsichtlich der Feststellung der Eignung einer Einrichtung als Bestätigungsstelle",
+      "section": "10",
+      "title": "Art. 10 Antrag auf Feststellung der Eignung",
+      "content": "1) Anträge auf Feststellung der Eignung einer Einrichtung als Bestätigungsstelle sind bei der Aufsichtsstelle einzureichen.\n2) Dem Antrag sind sämtliche zum Nachweis der Anforderungen und Kriterien erforderlichen Angaben und Unterlagen beizulegen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "V. Kriterien und Verfahren hinsichtlich der Feststellung der Eignung einer Einrichtung als Bestätigungsstelle",
+      "section": "11",
+      "title": "Art. 11 Prüfung des Antrags und Feststellung der Eignung",
+      "content": "1) Die Aufsichtsstelle bestimmt für die Prüfung des Antrags einen oder mehrere Begutachter. Soweit erforderlich erfolgt die Begutachtung unter Beizug zuständiger Amtsstellen.\n2) Der Antragsteller hat den Begutachtern für die Prüfung des Antrags Zutritt zu seinen Geschäftsräumlichkeiten zu gewähren sowie sämtliche erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen. Er hat auf Verlangen insbesondere:\na) Einsicht in seine Handbücher und Prüfunterlagen zu gewähren;\nb) seine Prüf- und Messgeräte vorzuführen;\nc) Leistungs- oder Vergleichsprüfungen durchzuführen;\nd) die Einzelheiten seines Qualitätssicherungssystems offenzulegen.\n3) Nach Abschluss der Prüfung gibt die Aufsichtsstelle dem Antragsteller das Ergebnis der Begutachtung bekannt und lädt ihn zur Stellungnahme innert einer Frist von mindestens zwei Wochen ein.\n4) Die Aufsichtsstelle leitet die Begutachtung und die Stellungnahme nach Abs. 3 an die Regierung für den Erlass der Verfügung nach Art. 6 Abs. 3 SigVG weiter."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "V. Kriterien und Verfahren hinsichtlich der Feststellung der Eignung einer Einrichtung als Bestätigungsstelle",
+      "section": "12",
+      "title": "Art. 12 Schweigepflicht",
+      "content": "Von der Aufsichtsstelle zum Verfahren beigezogene Dritte, insbesondere Gutachter und Sachverständige, haben über die ihnen im Rahmen ihrer Tätigkeit zur Kenntnis gelangten Geschäfts- oder Betriebsgeheimnisse Stillschweigen zu bewahren. Sie unterstehen im Rahmen ihrer Tätigkeit dem Amtsgeheimnis.\nVI. Gebühren"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "VI. Gebühren",
+      "section": "13",
+      "title": "Art. 13 Grundsatz",
+      "content": "Für den Erlass von Verfügungen und sonstige Amtshandlungen nach der eIDAS-VO, dem SigVG oder dieser Verordnung werden Gebühren erhoben."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "VI. Gebühren",
+      "section": "14",
+      "title": "Art. 14 Gebührenpflicht",
+      "content": "1) Gebührenpflichtig ist, wer gestützt auf die eIDAS-VO, das SigVG oder diese Verordnung eine Verfügung oder sonstige Amtshandlung beantragt oder veranlasst.\n2) Haben mehrere Personen gemeinsam eine oder mehrere Verfügungen oder sonstige Amtshandlungen beantragt oder veranlasst, so sind sie solidarisch gebührenpflichtig."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "VI. Gebühren",
+      "section": "15",
+      "title": "Art. 15 Gebührenbemessung",
+      "content": "1) Die Gebühren werden festgesetzt:\na) nach den festen Gebührenansätzen nach Art. 19;\nb) in den übrigen Fällen nach Aufwand.\n2) Für die Berechnung des Aufwands beträgt der Stundenansatz 250 Franken."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "VI. Gebühren",
+      "section": "16",
+      "title": "Art. 16 Gebührenzuschlag",
+      "content": "1) Für Amtshandlungen von aussergewöhnlichem Umfang, besonderer Schwierigkeit oder Dringlichkeit kann ein Zuschlag von höchstens 50 % der ordentlichen Gebühr erhoben werden.\n2) Gebührenzuschläge sind zu begründen und gesondert auszuweisen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "VI. Gebühren",
+      "section": "17",
+      "title": "Art. 17 Verwaltungskosten",
+      "content": "1) Verwaltungskosten werden gesondert berechnet, jedoch zusammen mit den Gebühren erhoben.\n2) Folgende Verwaltungskosten sind vom Gebührenpflichtigen zu tragen:\na) Kosten für den Beizug geeigneter Personen oder Einrichtungen;\nb) Kosten für Gutachten, Untersuchungen und Analysen; sowie\nc) Barauslagen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "VI. Gebühren",
+      "section": "18",
+      "title": "Art. 18 Rechnungsstellung",
+      "content": "1) Gebühren und Verwaltungskosten werden fällig:\na) mit Rechtskraft der Verfügung, sofern sie mit Verfügung erhoben werden; oder\nb) mit der Rechnungsstellung.\n2) Die Zahlungsfrist beträgt:\na) in den Fällen nach Abs. 1 Bst. a: 14 Tage ab Fälligkeit;\nb) in den Fällen nach Abs. 1 Bst. b: 30 Tage ab Fälligkeit.\n3) Wiederkehrende Gebühren nach Art. 19 Bst. f und g werden in der Regel jährlich im Voraus für das laufende Kalenderjahr in Rechnung gestellt. Beginnt die Gebührenpflicht in einem laufenden Kalenderjahr, so wird die Gebühr pro rata temporis erhoben. Wird ein Vertrauensdienst, ein Zertifikat oder ein Vertrauensdiensteanbieter während eines Kalenderjahres aus der Vertrauensliste gelöscht, so werden die Gebühren nicht zurückerstattet.\n4) Verursacht der Gebührenpflichtige einen Unterbruch oder Abbruch einer von ihm beantragten Amtshandlung, so werden die bereits angefallenen Gebühren und Verwaltungskosten in Rechnung gestellt.\n5) Wird eine Rechnung trotz zweifacher Mahnung nicht beglichen, ergeht eine kostenpflichtige Verfügung."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "VI. Gebühren",
+      "section": "19",
+      "title": "Art. 19 Gebührenpflichtige Amtshandlungen",
+      "content": "Für folgende Amtshandlungen der Aufsichtsstelle werden nachstehende Gebühren erhoben:\na) Analyse der Konformitätsbewertungsberichte nach Art. 17 Abs. 4 Bst. b iVm Art. 20 Abs. 1 und Art. 21 Abs. 1 eIDAS-VO: 4 000 Franken;\nb) Durchführung von Überprüfungen der qualifizierten VDA nach Art. 17 Abs. 4 Bst. e iVm Art. 20 Abs. 2 erster Fall eIDAS-VO:\n1. bei Überprüfungen aufgrund sicherheitsrelevanter Anlässe: 7 000 Franken;\n2. bei Überprüfungen ohne sicherheitsrelevante Anlässe: 1 500 Franken;\nc) Verleihung des Qualifikationsstatus an VDA und die von ihnen erbrachten Dienste sowie Entzug dieses Status nach Art. 17 Abs. 4 Bst. g iVm Art. 20 und 21 eIDAS-VO: 1000 Franken;\nd) Erteilung von Auflagen nach Art. 17 Abs. 4 Bst. j eIDAS-VO: 1 000 Franken;\ne) Überprüfung des Vorliegens und der ordnungsgemässen Anwendung von Vorschriften über Beendigungspläne (Art. 8 SigVG) nach Art. 17 Abs. 4 Bst. i iVm Art. 24 Abs. 2 Bst. h eIDAS-VO: 2 500 Franken;\nf) Weiterführung der Zertifikatsdatenbank durch die Aufsichtsstelle (Art. 8 SigVG): pro Jahr und Zertifikat, das in der Zertifikatsdatenbank geführt wird: 2 Franken, insgesamt jedoch pro Jahr nicht mehr als 7 500 Franken;\ng) Führung der Vertrauensliste bei der Aufsichtsstelle (Art. 22 eIDAS-VO):\n1. 200 Franken pro Jahr und aufgenommenem VDA;\n2. zusätzlich 1 000 Franken pro Jahr und aufgenommenem Zertifikat eines VDA.\nVII. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VII. Schlussbestimmungen",
+      "section": "20",
+      "title": "Art. 20 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 1. Juni 2004 über elektronische Signaturen (Signaturverordnung; SigV), LGBl. 2004 Nr. 130, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "VII. Schlussbestimmungen",
+      "section": "21",
+      "title": "Art. 21 Inkrafttreten",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Signatur- und Vertrauensdienstegesetz vom 27. Februar 2019 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nVerordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (nachfolgend eIDAS-VO) ( ABl. L 257 vom 28.8.2014, S. 73 ; EWR-Rechtssammlung: Anh. XI - 5i.01)."
+    }
+  ],
+  "definitions": []
+}

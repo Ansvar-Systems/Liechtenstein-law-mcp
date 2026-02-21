@@ -1,0 +1,36 @@
+{
+  "id": "li-konso-1995068141",
+  "type": "statute",
+  "title": "Protokoll 41 über bestehende Abkommen",
+  "title_en": "",
+  "short_name": "LGBl 1995.068",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/1995068141",
+  "description": "Protokoll 41 über bestehende Abkommen",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "über bestehende Abkommen",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "In Übereinstimmung mit Art. 120 des EWR-Abkommens sind die Vertragsparteien übereingekommen, dass die nachstehenden bilateralen oder multilateralen Abkommen zwischen der Europäischen Wirtschaftsgemeinschaft einerseits und einem oder mehreren EFTA-Staaten andererseits nach dem Inkrafttreten des EWR-Abkommens weiterhin angewendet werden:"
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "über bestehende Abkommen",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "Übereinkommen zwischen der Republik Österreich einerseits und der Bundesrepublik Deutschland und der Europäischen Wirtschaftsgemeinschaft andererseits über die wasserwirtschaftliche Zusammenarbeit im Einzugsgebiet der Donau."
+    },
+    {
+      "provision_ref": "abs5",
+      "chapter": "über bestehende Abkommen",
+      "section": "5",
+      "title": "Abs. 5",
+      "content": "Abkommen in Form eines Briefwechsels zwischen der Europäischen Wirtschaftsgemeinschaft und der Republik Österreich über das Inverkehrbringen von in Flaschen abgefüllten Tafelweinen und \"Landwein\" aus der Gemeinschaft in Österreich.\n1\nProtokoll 41 abgeändert durch LGBl. 1995 Nr. 69 ."
+    }
+  ],
+  "definitions": []
+}

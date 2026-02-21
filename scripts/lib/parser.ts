@@ -238,6 +238,71 @@ function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
   return definitions;
 }
 
+function extractFallbackChapter(frameHtml: string): string | undefined {
+  const htit2 = frameHtml.match(/<div class="htit2"[^>]*>([\s\S]*?)<\/div>/i);
+  if (htit2) {
+    const text = cleanInlineText(htit2[1]);
+    if (text) return text;
+  }
+
+  const htit1 = frameHtml.match(/<div class="htit1"[^>]*>([\s\S]*?)<\/div>/i);
+  if (htit1) {
+    const text = cleanInlineText(htit1[1]);
+    if (text) return text;
+  }
+
+  return undefined;
+}
+
+function extractFallbackProvisions(frameHtml: string): ParsedProvision[] {
+  const provisions: ParsedProvision[] = [];
+  const chapter = extractFallbackChapter(frameHtml);
+
+  const blockStartRegex = /<div class="(abs|ab)"[^>]*>/gi;
+  const starts: number[] = [];
+  let match: RegExpExecArray | null;
+  while ((match = blockStartRegex.exec(frameHtml)) !== null) {
+    starts.push(match.index);
+  }
+
+  for (let i = 0; i < starts.length; i++) {
+    const start = starts[i];
+    const end = i + 1 < starts.length ? starts[i + 1] : frameHtml.length;
+    const block = frameHtml.slice(start, end);
+    const content = normalizeText(block);
+    if (!content || content.length < 20) {
+      continue;
+    }
+
+    const section = String(i + 1);
+    provisions.push({
+      provision_ref: `abs${section}`,
+      chapter,
+      section,
+      title: `Abs. ${section}`,
+      content,
+    });
+  }
+
+  if (provisions.length > 0) {
+    return provisions;
+  }
+
+  const bodyMatch = frameHtml.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+  const bodyText = normalizeText(bodyMatch?.[1] ?? frameHtml);
+  if (!bodyText || bodyText.length < 40) {
+    return [];
+  }
+
+  return [{
+    provision_ref: 'abs1',
+    chapter,
+    section: '1',
+    title: chapter ?? 'Text',
+    content: bodyText,
+  }];
+}
+
 function extractProvisions(frameHtml: string): ParsedProvision[] {
   const provisions: ParsedProvision[] = [];
   const seenRefs = new Set<string>();
@@ -304,7 +369,11 @@ function extractProvisions(frameHtml: string): ParsedProvision[] {
     seenRefs.add(provisionRef);
   }
 
-  return provisions;
+  if (provisions.length > 0) {
+    return provisions;
+  }
+
+  return extractFallbackProvisions(frameHtml);
 }
 
 export function parseLiechtensteinFrameHtml(frameHtml: string, law: TargetLaw): ParsedAct {

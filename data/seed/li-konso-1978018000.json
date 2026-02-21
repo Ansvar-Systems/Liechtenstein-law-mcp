@@ -1,0 +1,876 @@
+{
+  "id": "li-konso-1978018000",
+  "type": "statute",
+  "title": "Strassenverkehrsgesetz (SVG) vom 30. Juni 1978",
+  "title_en": "",
+  "short_name": "LGBl 1978.018",
+  "status": "in_force",
+  "issued_date": "1978-06-30",
+  "in_force_date": "1978-06-30",
+  "url": "https://www.gesetze.li/konso/1978018000",
+  "description": "Strassenverkehrsgesetz (SVG) vom 30. Juni 1978",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Geltungsbereich",
+      "content": "1) Dieses Gesetz ordnet den Verkehr auf den öffentlichen Strassen sowie die Haftung und die Versicherung für Schäden, die durch Motorfahrzeuge, Fahrräder oder fahrzeugähnliche Geräte verursacht werden.\n2) Die Verkehrsregeln (Art. 24 ff) gelten für die Führer von Motorfahrzeugen und die Radfahrer auf allen dem öffentlichen Verkehr dienenden Strassen, für die übrigen Strassenbenützer nur auf den für Motorfahrzeuge oder Fahrräder ganz oder beschränkt offenen Strassen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Zuständigkeiten",
+      "content": "1) Die Regierung ist ermächtigt: a) Strassen, die für den allgemeinen Durchgangsverkehr notwendig sind, mit oder ohne Einschränkungen für den Motorfahrzeug- und Fahrradverkehr offen zu erklären;\nb) für alle Strassen Fahrverbote, Verkehrsbeschränkungen und Verkehrsanordnungen zur Regelung des Verkehrs zu erlassen;\nc) für alle oder einzelne Arten von Motorfahrzeugen zeitliche Fahrverbote zu erlassen;\nd) Massnahmen für die übrigen Fahrzeugarten und Strassenbenützer zu ergreifen, soweit sie nicht zur Regelung des Motorfahrzeug- und Fahrradverkehrs erforderlich sind;\ne) den Verkehr auf den Bergpoststrassen zu beschränken;\nf) andere Beschränkungen oder Anordnungen zu erlassen, soweit der Schutz der Bewohner oder gleichermassen Betroffener vor Lärm und Luftverschmutzung, die Sicherheit, die Erleichterung oder die Regelung des Verkehrs, der Schutz der Strasse oder andere in den örtlichen Verhältnissen liegende Gründe dies erfordern. Aus solchen Gründen können insbesondere in Wohnquartieren der Verkehr beschränkt und das Parkieren besonders geregelt werden.\n2) Die Regierung verfügt ein Nacht- und Sonntagsfahrverbot für schwere Motorwagen zur Güterbeförderung und bestimmt die Ausnahmen.\n3) In besonderen Fällen kann die Landespolizei die erforderlichen Massnahmen treffen, namentlich den Verkehr vorübergehend beschränken oder umleiten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Verkehrshindernisse",
+      "content": "1) Verkehrshindernisse dürfen nicht ohne zwingende Gründe geschaffen werden; sie sind ausreichend kenntlich zu machen und möglichst bald zu beseitigen.\n2) Wer die Strasse aufbrechen, zur Ablage von Materialien oder zu ähnlichen Zwecken benützen muss, bedarf einer Bewilligung des Amtes für Tiefbau und Geoinformation."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Signale und Markierungen",
+      "content": "1) Beschränkungen und Anordnungen für den Motorfahrzeug- und Fahrradverkehr müssen durch Signale oder Markierungen angezeigt werden, sofern sie nicht für das ganze Land gelten.\n2) Strassen und Plätze, die offensichtlich privater Benützung oder besonderen Zwecken vorbehalten sind, bedürfen keiner besonderen Kennzeichnung.\n3) Im Bereich der für Motorfahrzeuge oder Fahrräder offenen Strassen dürfen nur die von der Regierung vorgesehenen Signale und Markierungen verwendet und nur von ihr oder mit ihrer Ermächtigung angebracht werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Reklamen",
+      "content": "Im Bereich der für Motorfahrzeuge oder Fahrräder offenen Strassen sind Reklamen und andere Ankündigungen untersagt, die zur Verwechslung mit Signalen oder Markierungen Anlass geben oder sonst namentlich zur Ablenkung der Strassenbenützer die Verkehrssicherheit beeinträchtigen könnten.\nII. Teil\nFahrzeuge und Fahrzeugführer\n1. Abschnitt\nMotorfahrzeuge und ihre Führer"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "6",
+      "title": "Art. 6 Motorfahrzeuge",
+      "content": "Motorfahrzeuge im Sinne dieses Gesetzes ist jedes Fahrzeug mit eigenem Antrieb, durch den es auf dem Erdboden, unabhängig von Schienen, fortbewegt wird."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "7",
+      "title": "Art. 7 Bau und Ausrüstung",
+      "content": "1) Die Regierung erlässt Vorschriften über Bau und Ausrüstung der Motorfahrzeuge und ihrer Anhänger.\n2) Sie trifft dabei die Anordnungen, die der Sicherheit im Verkehr dienen sowie der Vermeidung von Lärm, Staub, Rauch, Geruch und andern schädlichen oder lästigen Auswirkungen des Fahrzeugbetriebes."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "8",
+      "title": "Art. 8 Ausmasse und Gewicht",
+      "content": "1) Die Regierung erlässt Vorschriften über Ausmasse und Gewichte der Motorfahrzeuge und ihrer Anhänger. Dabei trägt sie den Interessen der Verkehrssicherheit, der Wirtschaft, der Infrastruktur und der Umwelt Rechnung und berücksichtigt internationale Regelungen. Sie kann gleichzeitig mit der Höhe der Strassenverkehrsabgaben das höchstzulässige Gewicht für Fahrzeuge oder Fahrzeugkombinationen auf 40 t, beziehungsweise 44 t im kombinierten Verkehr, festlegen.\n2) Die Regierung setzt die Achslast sowie ein angemessenes Verhältnis zwischen der Motorleistung und dem Gesamtgewicht des Fahrzeuges beziehungsweise der Fahrzeugkombination fest.\n3) Die Regierung kann Ausnahmen vorsehen für Motorfahrzeuge und Anhänger im Linienverkehr und für solche Fahrzeuge, die wegen ihres besonderen Zweckes unvermeidbar höhere Masse oder Gewichte erfordern. Sie umschreibt die Voraussetzungen, unter denen im Einzelfall unumgängliche Fahrten anderer Fahrzeuge mit höheren Massen oder Gewichten bewilligt werden können.\n4) Auf Gesuch des Fahrzeughalters kann das zugelassene Gesamtgewicht eines Motorfahrzeuges oder eines Anhängers verändert werden, jedoch höchstens einmal jährlich oder anlässlich eines Halterwechsels. Die Gewichtsgarantien des Fahrzeugherstellers dürfen nicht überschritten werden.\n5) Signalisierte Beschränkungen der Breite, der Höhe, des Gewichtes und der Achslast der Fahrzeuge bleiben in jedem Fall vorbehalten."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "9",
+      "title": "Art. 9 Ausweise",
+      "content": "1) Motorfahrzeuge und ihre Anhänger dürfen nur mit Fahrzeugausweis und Kontrollschildern in Verkehr gebracht werden.\n2) Wer ein Motorfahrzeug führt, bedarf des Führerausweises, wer Lernfahrten unternimmt, des Lernfahrausweises.\n3) Aufgehoben\n4) Die Ausweise sind stets mitzuführen und den Kontrollorganen auf Verlangen vorzuweisen; dasselbe gilt für besondere Bewilligungen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "10",
+      "title": "Art. 10 Fahrzeugausweis",
+      "content": "1) Die Regierung darf den Fahrzeugausweis nur erteilen, wenn das Fahrzeug den Vorschriften entspricht, verkehrssicher ist und wenn die vorgeschriebene Haftpflichtversicherung besteht.\n2) Der Fahrzeugausweis kann verweigert werden, wenn der Halter die Motorfahrzeugsteuern oder -gebühren für das Fahrzeug nicht entrichtet. Der Ausweis für Fahrzeuge, die im Ausland hergestellt wurden, darf erst erteilt werden, wenn nachgewiesen ist, dass sie verzollt oder von der Verzollung befreit sind.\n3) Geht ein Fahrzeug auf einen andern Halter über, so ist ein neuer Fahrzeugausweis einzuholen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "11",
+      "title": "Art. 11 Typengenehmigung",
+      "content": "1) Serienmässig hergestellte Motorfahrzeuge und Motorfahrzeuganhänger unterliegen der Typengenehmigung. Die Regierung kann ferner der Typengenehmigung unterstellen: a) Bestandteile und Ausrüstungsgegenstände für Motorfahrzeuge und Fahrräder;\nb) Vorrichtungen für andere Fahrzeuge, soweit die Verkehrssicherheit es erfordert;\nc) Schutzvorrichtungen für die Benützer von Fahrzeugen.\n2) Fahrzeuge und Gegenstände, die der Typengenehmigung unterliegen, dürfen nur in der genehmigten Ausführung in den Handel gebracht werden.\n3) Die Regierung kann auf eine liechtensteinische Typengenehmigung von Motorfahrzeugen und Motorfahrzeuganhängern verzichten, wenn: a) eine ausländische Typengenehmigung vorliegt, die aufgrund von Ausrüstungs- und Prüfvorschriften erteilt worden ist, welche den in Liechtenstein geltenden gleichwertig sind; und\nb) die erforderlichen Daten zur Verfügung stehen.\n4) Keiner liechtensteinischen Typengenehmigung bedürfen Motorfahrzeuge und Motorfahrzeuganhänger, für die eine EWR-konforme Typengenehmigung nachgewiesen wird.\n5) Die Regierung regelt das Nähere mit Verordnung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "12",
+      "title": "Art. 12 Fahrzeugprüfung",
+      "content": "1) Vor der Erteilung des Ausweises ist das Fahrzeug amtlich zu prüfen.\n2) Die Regierung kann den Verzicht auf die Einzelprüfung von typengenehmigten Fahrzeugen vorsehen.\n3) Das Fahrzeug kann jederzeit kontrolliert werden; es ist neu zu prüfen, wenn wesentliche Änderungen daran vorgenommen wurden oder Zweifel an seiner Betriebssicherheit bestehen.\n4) Die Regierung schreibt regelmässige Nachprüfungen für Fahrzeuge vor."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "13",
+      "title": "Art. 13 Fahreignung und Fahrkompetenz",
+      "content": "1) Motorfahrzeugführer müssen über Fahreignung und Fahrkompetenz verfügen.\n2) Über Fahreignung verfügt, wer: a) das Mindestalter erreicht hat;\nb) die erforderliche körperliche und psychische Leistungsfähigkeit zum sicheren Führen von Motorfahrzeugen hat;\nc) frei von einer Sucht ist, die das sichere Führen von Motorfahrzeugen beeinträchtigt; und\nd) nach seinem bisherigen Verhalten Gewähr bietet, als Motorfahrzeugführer die Vorschriften zu beachten und auf die Mitmenschen Rücksicht zu nehmen.\n3) Über Fahrkompetenz verfügt, wer: a) die Verkehrsregeln kennt; und\nb) Fahrzeuge der Kategorie, für die der Ausweis gilt, sicher führen kann."
+    },
+    {
+      "provision_ref": "art13a",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "13a",
+      "title": "Art. 13a Lernfahrausweis",
+      "content": "1) Die Regierung erteilt den Lernfahrausweis, wenn der Bewerber: a) die Theorieprüfung besteht und dadurch nachweist, dass er die Verkehrsregeln kennt;\nb) nachweist, dass er über die erforderliche körperliche und psychische Leistungsfähigkeit zum sicheren Führen von Motorfahrzeugen verfügt.\n2) Der Nachweis nach Abs. 1 Bst. b ist zu erbringen: a) von den berufsmässigen Motorfahrzeugführern: durch ein vertrauensärztliches Zeugnis;\nb) von den übrigen Motorfahrzeugführern: durch einen behördlich anerkannten Sehtest und durch eine Selbstdeklaration über ihren Gesundheitszustand."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "14",
+      "title": "Art. 14 Aus- und Weiterbildung der Motorfahrzeugführer",
+      "content": "1) Lernfahrten auf Motorwagen dürfen nur mit einem Begleiter unternommen werden, der das 23. Altersjahr vollendet hat und seit wenigstens drei Jahren den entsprechenden Führerausweis besitzt.\n2) Der Begleiter sorgt dafür, dass die Lernfahrt gefahrlos durchgeführt wird und der Fahrschüler die Verkehrsvorschriften nicht verletzt.\n3) Wer gewerbsmässig Fahrunterricht erteilt, bedarf der Fahrlehrerbewilligung.\n4) Die Regierung erlässt Vorschriften über die Ausbildung der Motorfahrzeugführer. Sie kann vorschreiben, dass ein Teil der Ausbildung durch einen Inhaber der Fahrlehrerbewilligung zu erfolgen hat. Die Regierung kann den Höchsttarif für den obligatorischen Fahrunterricht festlegen.\n5) Die Regierung kann Vorschriften über die Weiterbildung der Motorfahrzeugführer erlassen.\n6) Die Regierung kann für Bewerber um den Führerausweis eine Ausbildung in Erster Hilfe vorschreiben."
+    },
+    {
+      "provision_ref": "art14a",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "14a",
+      "title": "Art. 14a Führerausweis",
+      "content": "Die Regierung erteilt den Führerausweis, wenn der Bewerber: a) die vorgeschriebene Ausbildung besucht hat; und\nb) die praktische Führerprüfung bestanden hat."
+    },
+    {
+      "provision_ref": "art14b",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "14b",
+      "title": "Art. 14b Abklärung der Fahreignung oder der Fahrkompetenz",
+      "content": "1) Bestehen Zweifel an der Fahreignung einer Person, so wird diese einer Fahreignungsuntersuchung unterzogen.\n2) Jeder Arzt kann der Regierung oder dem Amt für Gesundheit eine Person melden, die wegen einer körperlichen oder psychischen Krankheit, wegen eines Gebrechens oder wegen einer Sucht Motorfahrzeuge nicht sicher führen kann; er ist in Bezug auf solche Meldungen vom Berufsgeheimnis entbunden.\n3) Bestehen Zweifel an der Fahrkompetenz einer Person, so kann diese einer Kontrollfahrt, einer Theorieprüfung, einer praktischen Führerprüfung oder einer andern geeigneten Massnahme wie einer Aus- oder Weiterbildung oder einer Nachschulung unterzogen werden."
+    },
+    {
+      "provision_ref": "art14c",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "14c",
+      "title": "Art. 14c Sperrfrist nach Fahren ohne Ausweis",
+      "content": "Wer ein Motorfahrzeug geführt hat, ohne einen Führerausweis zu besitzen, erhält während mindestens sechs Monaten nach der Widerhandlung weder Lernfahr- noch Führerausweis. Erreicht die Person das Mindestalter erst nach der Widerhandlung, so beginnt die Sperrfrist ab diesem Zeitpunkt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "15",
+      "title": "Art. 15 Entzug der Ausweise",
+      "content": "1) Ausweise und Bewilligungen sind von der Regierung zu entziehen, wenn festgestellt wird, dass die gesetzlichen Voraussetzungen zur Erteilung nicht oder nicht mehr bestehen; sie können entzogen werden, wenn die mit der Erteilung im Einzelfall verbundenen Beschränkungen oder Auflagen missachtet werden.\n2) Der Führer- oder Lernfahrausweis kann entzogen werden, wenn der Führer Verkehrsregeln verletzt und dadurch den Verkehr gefährdet oder andere belästigt hat. In leichten Fällen kann eine Verwarnung ausgesprochen werden, wenn in den vorangegangenen zwei Jahren keine Administrativmassnahme verfügt wurde. In besonders leichten Fällen kann auch auf eine Verwarnung verzichtet werden.\n3) Der Führer- oder Lernfahrausweis muss entzogen werden, wenn der Führer: a) den Verkehr in schwerer Weise gefährdet hat,\nb) in fahrunfähigem Zustand ein Motorfahrzeug geführt hat (Art. 29 Abs. 2 und Art. 51 Abs. 4),\nc) nach Verletzung oder Tötung eines Menschen die Flucht ergriffen hat,\nd) ein Motorfahrzeug zum Gebrauch entwendet hat,\ne) nicht bestrebt oder nicht fähig ist, ohne Gefährdung oder Belästigung anderer zu fahren,\nf) ein Motorfahrzeug zur Begehung eines Verbrechens oder mehrmals zu vorsätzlichen Vergehen verwendet hat,\ng) sich vorsätzlich einer Blutprobe oder einer von der Regierung geregelten Voruntersuchung (Art. 51), die angeordnet wurde oder mit deren Anordnung er rechnen musste, oder einer zusätzlichen ärztlichen Untersuchung widersetzt oder entzogen hat oder den Zweck dieser Massnahmen vereitelt hat.\n3a) Bei der Festsetzung der Dauer des Führer- oder Lernfahrausweisentzugs sind die Umstände des Einzelfalls zu berücksichtigen, namentlich die Gefährdung der Verkehrssicherheit, das Verschulden, der Leumund als Motorfahrzeugführer sowie die berufliche Notwendigkeit, ein Motorfahrzeug zu führen. Die Mindestentzugsdauer darf jedoch nicht unterschritten werden, ausser wenn die Strafe nach Art. 95 Abs. 4 dritter Satz gemildert wurde.\n4) Der Fahrzeugausweis kann auf angemessene Dauer entzogen werden: a) wenn Ausweis und Kontrollschilder missbräuchlich verwendet wurden;\nb) wenn und solange die Motorfahrzeugsteuern oder -gebühren für Fahrzeuge desselben Halters nicht entrichtet sind.\nDauer des Führerausweisentzugs\nArt. 16 a) nach einer Widerhandlung\n1) Der Führer- oder Lernfahrausweis wird einer Person nach einer Widerhandlung entzogen für: a) mindestens einen Monat;\nb) mindestens zwei Monate, wenn der Führer den Verkehr in schwerer Weise gefährdet hat;\nb ) mindestens drei Monate, wenn der Führer: 1. in fahrunfähigem Zustand ein Motorfahrzeug geführt hat; oder\n2. sich vorsätzlich einer Blutprobe oder einer von der Regierung geregelten Voruntersuchung (Art. 51), die angeordnet wurde oder mit deren Anordnung er rechnen musste, oder einer zusätzlichen ärztlichen Untersuchung widersetzt oder entzogen hat oder den Zweck dieser Massnahmen vereitelt hat;\nc) mindestens sechs Monate, wenn: 1. der Führer trotz Ausweisentzug ein Motorfahrzeug geführt hat; oder\n2. dem Führer der Ausweis wegen einer Widerhandlung nach Bst. b oder b entzogen werden muss, die er innert zwei Jahren seit Ablauf des letzten Entzuges begangen hat;\nd) mindestens ein Jahr, wenn der Führer innert fünf Jahren seit Ablauf eines früheren Entzuges: 1. wegen Führens eines Motorfahrzeuges in fahrunfähigem Zustand aufgrund Alkohol-, Betäubungsmittel- oder Arzneimitteleinfluss erneut in einem solchen Zustand ein Motorfahrzeug geführt hat; oder\n2. wegen Vereitelung einer Massnahme zur Feststellung der Fahrunfähigkeit (Bst. b Ziff. 2) erneut vorsätzlich eine solche Massnahme vereitelt.\n1bis) Aufgehoben\n2) Aufgehoben\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art16a",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "16a",
+      "title": "Art. 16a b) bei fehlender Fahreignung",
+      "content": "1) Der Führer- oder Lernfahrausweis wird einer Person auf unbestimmte Zeit entzogen, wenn: a) ihre körperliche und geistige Leistungsfähigkeit nicht oder nicht mehr ausreicht, ein Motorfahrzeug sicher zu führen;\nb) sie an einer Sucht leidet, welche die Fahreignung ausschliesst;\nc) sie auf Grund ihres bisherigen Verhaltens nicht Gewähr bietet, dass sie künftig beim Führen eines Motorfahrzeuges die Vorschriften beachten und auf die Mitmenschen Rücksicht nehmen wird.\n2) Tritt der Entzug nach Abs. 1 an die Stelle eines Entzugs nach Art. 16, wird damit eine Sperrfrist verbunden, die bis zum Ablauf der für die begangene Widerhandlung vorgesehenen Mindestentzugsdauer läuft.\n3) Unverbesserlichen Personen wird der Ausweis für immer entzogen."
+    },
+    {
+      "provision_ref": "art16b",
+      "chapter": "Motorfahrzeuge und ihre Führer",
+      "section": "16b",
+      "title": "Art. 16b Wiedererteilung der Führerausweise",
+      "content": "1) Ein für längere Zeit entzogener Führer- oder Lernfahrausweis kann nach Ablauf von mindestens sechs Monaten bedingt und unter angemessenen Auflagen wiedererteilt werden, wenn das Verhalten der betroffenen Person zeigt, dass die Administrativmassnahme ihren Zweck erfüllt hat. Die Mindestentzugsdauer (Art. 16 Abs. 1 Bst. d) darf nicht unterschritten werden.\n2) Der auf unbestimmte Zeit entzogene Führer- oder Lernfahrausweis kann bedingt und unter Auflagen wiedererteilt werden, wenn eine allfällige gesetzliche oder verfügte Sperrfrist abgelaufen ist und die betroffene Person die Behebung des Mangels nachweist, der die Fahreignung ausgeschlossen hat.\n3) Der für immer entzogene Führerausweis kann nur unter den Bedingungen des Art. 22 wiedererteilt werden.\n4) Missachtet die betroffene Person die Auflagen oder missbraucht sie in anderer Weise das in sie gesetzte Vertrauen, so ist der Ausweis wieder zu entziehen.\n2. Abschnitt\nMotorlose Fahrzeuge und ihre Führer"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Motorlose Fahrzeuge und ihre Führer",
+      "section": "17",
+      "title": "Art. 17 Fahrräder",
+      "content": "1) Fahrräder müssen den Vorschriften entsprechen.\n2) Die Regierung erlässt Vorschriften über Bau und Ausrüstung der Fahrräder und ihrer Anhänger.\n3) Die Regierung kann anordnen, dass die Gemeinden Prüfungen der Fahrräder durchführen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Motorlose Fahrzeuge und ihre Führer",
+      "section": "18",
+      "title": "Art. 18 Radfahrer",
+      "content": "1) Kinder dürfen vor dem vollendeten sechsten Altersjahr auf Hauptstrassen nur unter Aufsicht einer mindestens 16 Jahre alten Person Rad fahren.\n2) Wer an einer körperlichen oder geistigen Krankheit oder an einer Sucht leidet, die das sichere Radfahren ausschliesst, darf nicht Rad fahren. Die Regierung kann einer solchen Person das Radfahren verbieten.\n3) In gleicher Weise kann die Regierung einem Radfahrer, der den Verkehr schwer oder mehrmals gefährdet hat oder in angetrunkenem Zustand gefahren ist, das Radfahren untersagen. Die Mindestdauer des Fahrverbotes beträgt einen Monat.\n4) Radfahrer, über deren Eignung Bedenken bestehen, können einer Prüfung unterworfen werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Motorlose Fahrzeuge und ihre Führer",
+      "section": "19",
+      "title": "Art. 19 Andere Fahrzeuge",
+      "content": "Auf den für Motorfahrzeuge offenen Strassen dürfen andere Fahrzeuge nicht verwendet werden, wenn sie mit der Ladung breiter sind als 2,50 m. Die Regierung sieht Ausnahmen vor, namentlich mit Rücksicht auf die Bedürfnisse der Landwirtschaft."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Motorlose Fahrzeuge und ihre Führer",
+      "section": "20",
+      "title": "Art. 20 Fuhrleute",
+      "content": "1) Wer das vierzehnte Altersjahr vollendet hat, darf Tierfuhrwerke führen.\n2) Wer an einer körperlichen oder geistigen Krankheit oder an einer Sucht leidet, die das sichere Führen eines Fuhrwerks ausschliesst, darf kein Tierfuhrwerk führen. Die Regierung kann einer solchen Person das Führen eines Tierfuhrwerks verbieten.\n3. Abschnitt\nGemeinsame Bestimmungen"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "21",
+      "title": "Art. 21 Verfahren",
+      "content": "Verweigerung und Entzug eines Fahrzeug- oder Führerausweises sowie das Verbot des Radfahrens oder des Führens von Tierfuhrwerken sind schriftlich zu verfügen und zu begründen. Vor dem Entzug eines Führerausweises oder der Auflage eines Fahrverbotes ist der Betroffene in der Regel anzuhören."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "22",
+      "title": "Art. 22 Geltungsdauer der Massnahmen",
+      "content": "Hat eine gegen einen Fahrzeugführer gerichtete Massnahme fünf Jahre gedauert, so hat die Regierung auf Verlangen eine neue Verfügung zu treffen, wenn glaubhaft gemacht wird, dass die Voraussetzungen weggefallen sind."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "23",
+      "title": "Art. 23 Ergänzung der Zulassungsvorschriften",
+      "content": "1) Die Regierung kann die nachstehenden Fahrzeugarten und deren Anhänger sowie ihre Führer ganz oder teilweise von den Bestimmungen dieses Gesetzes ausnehmen und nötigenfalls ergänzende Vorschriften für sie aufstellen: a) Fahrräder mit Hilfsmotor, Motorhandwagen und andere Fahrzeuge von geringer Motorkraft oder Geschwindigkeit sowie solche, die selten auf öffentlichen Strassen verwendet werden,\nb) Landwirtschaftstraktoren mit beschränkter Geschwindigkeit sowie landwirtschaftliche Anhängewagen,\nc) Arbeitsmaschinen und Motorkarren.\n2) Die Regierung erlässt Vorschriften über: a) Lichter und Rückstrahler der motorlosen Strassenfahrzeuge,\nb) ausländische Motorfahrzeuge und Fahrräder und ihre Führer sowie internationale Fahrzeug- und Führerausweise,\nc) die Fahrlehrer und ihre Fahrzeuge,\nd) Ausweise und Kontrollschilder, inbegriffen kurzfristig gültige, für geprüfte oder nicht geprüfte Motorfahrzeuge und Anhänger sowie Unternehmen des Motorfahrzeuggewerbes,\ne) Kennzeichnung besonderer Fahrzeuge,\nf) Warnsignale der Feuerwehr-, der Sanitäts- und der Polizeifahrzeuge sowie der Fahrzeuge der Post auf Bergpoststrassen,\ng) Reklamen an Motorfahrzeugen,\nh) Aufgehoben\ni) Geräte zur Aufzeichnung der Fahrzeit, der Geschwindigkeit und dergleichen; sie schreibt solche Einrichtungen vor namentlich zur Kontrolle der Arbeitszeit berufsmässiger Motorfahrzeugführer sowie allenfalls für Fahrzeuge von Personen, die wegen zu schnellen Fahrens bestraft wurden.\n3) Die Regierung stellt Vorschriften auf über: a) Mindestanforderungen, denen Motorfahrzeugführer in körperlicher und psychischer Hinsicht genügen müssen,\nb) Durchführung der Fahrzeug- und Führerprüfungen,\nc) Mindestanforderungen an die Sachverständigen, welche die Prüfungen abnehmen,\nd) Vermieten von Motorfahrzeugen an Selbstfahrer,\ne) Verkehrsunterricht für Motorfahrzeugführer und Radfahrer, die wiederholt Verkehrsregeln übertreten haben,\nf) Inhalt und Umfang der Fahreignungsuntersuchung sowie das Vorgehen bei Zweifelsfällen,\ng) Mindestanforderungen an die Personen, die Fahreignungsuntersuchungen durchführen, an das Untersuchungsverfahren und an die Qualitätssicherung.\n3bis) Die Regierung kann eine Zusatzausbildung vorschreiben für Führer, die den Führerausweis weniger als ein Jahr besitzen und die in verkehrsgefährdender Weise eine Verkehrsregel verletzt haben.\n4) Die Regierung fördert die Hebung der Verkehrssicherheit, namentlich die Verkehrserziehung.\nIII. Teil\nVerkehrsregeln"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Verkehrsregeln",
+      "section": "24",
+      "title": "Art. 24 Grundregel",
+      "content": "1) Jedermann muss sich im Verkehr so verhalten, dass er andere in der ordnungsgemässen Benützung der Strasse weder behindert noch gefährdet.\n2) Besondere Vorsicht ist geboten gegenüber Kindern, Gebrechlichen und alten Leuten, ebenso wenn Anzeichen dafür bestehen, dass sich ein Strassenbenützer nicht richtig verhalten wird.\n1. Abschnitt\nRegeln für alle Strassenbenützer"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Regeln für alle Strassenbenützer",
+      "section": "25",
+      "title": "Art. 25 Beachten der Signale, Markierungen und Weisungen",
+      "content": "1) Signale und Markierungen sowie die Weisungen der Polizei sind zu befolgen. Die Signale und Markierungen gehen den allgemeinen Regeln, die Weisungen der Polizei den allgemeinen Regeln, Signalen und Markierungen vor.\n2) Den Feuerwehr-, Sanitäts-, Polizei- und Zollfahrzeugen ist beim Wahrnehmen der besonderen Warnsignale die Strasse sofort freizugeben. Fahrzeuge sind nötigenfalls anzuhalten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Regeln für alle Strassenbenützer",
+      "section": "26",
+      "title": "Art. 26 Verhalten vor Bahnübergängen",
+      "content": "Vor Bahnübergängen ist anzuhalten, wenn Schranken sich schliessen oder Signale Halt gebieten und, wo solche fehlen, wenn Eisenbahnfahrzeuge herannahen.\n2. Abschnitt\nRegeln für den Fahrverkehr\na) Allgemeine Fahrregeln"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "a) Allgemeine Fahrregeln",
+      "section": "27",
+      "title": "Art. 27 Betriebssicherheit",
+      "content": "Fahrzeuge dürfen nur in betriebssicherem und vorschriftsgemässem Zustand verkehren. Sie müssen so beschaffen und unterhalten sein, dass die Verkehrsregeln befolgt werden können und dass Führer, Mitfahrende und andere Strassenbenützer nicht gefährdet und die Strassen nicht beschädigt werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "a) Allgemeine Fahrregeln",
+      "section": "28",
+      "title": "Art. 28 Mitfahrende, Ladung, Anhänger",
+      "content": "1) Der Führer darf auf Motorfahrzeugen und Fahrrädern Personen nur auf den dafür eingerichteten Plätzen mitführen. Die Regierung kann Ausnahmen vorsehen; sie erlässt Vorschriften über die Personenbeförderung mit Anhängern.\n2) Fahrzeuge dürfen nicht überladen werden. Die Ladung ist so anzubringen, dass sie niemanden gefährdet oder belästigt und nicht herunterfallen kann. Überhängende Ladungen sind bei Tag und Nacht auffällig zu kennzeichnen.\n3) Zum Ziehen von Anhängern und zum Abschleppen von Fahrzeugen dürfen Motorfahrzeuge nur verwendet werden, wenn Zugkraft und Bremsen ausreichen und die Anhängevorrichtung betriebssicher ist.\n4) Die Regierung erlässt Vorschriften über die Beförderung von Tieren sowie von gefährlichen, gesundheitsschädlichen oder ekelerregenden Stoffen und Gegenständen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "a) Allgemeine Fahrregeln",
+      "section": "29",
+      "title": "Art. 29 Beherrschen des Fahrzeuges",
+      "content": "1) Der Führer muss das Fahrzeug ständig so beherrschen, dass er seinen Vorsichtspflichten nachkommen kann.\n2) Wer wegen Alkohol-, Betäubungsmittel- oder Arzneimitteleinfluss oder aus anderen Gründen nicht über die erforderliche körperliche und geistige Leistungsfähigkeit verfügt, gilt während dieser Zeit als fahrunfähig und darf kein Fahrzeug führen.\n2a) Die Regierung kann folgenden Personengruppen das Fahren unter Alkoholeinfluss verbieten: a) Personen, die den konzessionierten oder den grenzüberschreitenden Personenverkehr auf der Strasse durchführen (Art. 9 Abs. 1 und Art. 10 Abs. 1 des Personenbeförderungsgesetzes sowie Art. 4 Abs. 1 des Strassentransportgesetzes);\nb) Personen, die berufsmässig Personentransporte oder mit schweren Motorwagen Gütertransporte durchführen oder die gefährliche Güter transportieren;\nc) Fahrlehrern;\nd) Inhabern des Lernfahrausweises;\ne) Personen, die Lernfahrten begleiten.\n2b) Die Regierung legt fest, ab welcher Atemalkohol- und Blutalkoholkonzentration Fahren unter Alkoholeinfluss vorliegt.\n3) Der Führer hat dafür zu sorgen, dass er weder durch die Ladung noch auf andere Weise behindert wird. Mitfahrende dürfen ihn nicht behindern oder stören."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "a) Allgemeine Fahrregeln",
+      "section": "30",
+      "title": "Art. 30 Geschwindigkeit",
+      "content": "1) Die Geschwindigkeit ist stets den Umständen anzupassen, namentlich den Besonderheiten von Fahrzeug und Ladung sowie den Strassen-, Verkehrs- und Sichtverhältnissen. Wo das Fahrzeug den Verkehr stören könnte, ist langsam zu fahren und nötigenfalls anzuhalten, namentlich vor unübersichtlichen Stellen, vor nicht frei überblickbaren Strassenverzweigungen sowie vor Bahnübergängen.\n2) Innerorts wird auf Gemeindestrassen auf Antrag und in Absprache mit der jeweiligen Gemeinde die allgemeine Höchstgeschwindigkeit auf 30, 40 oder 50 km/h generell festgelegt.\n3) Bei Gemeinden oder Zentren ohne Durchgangsverkehr kann die allgemeine bzw. generelle Höchstgeschwindigkeit auch auf Landstrassen gemäss Abs. 2 festgelegt werden.\n4) Die Regierung beschränkt die Geschwindigkeit der Motorfahrzeuge auf allen Strassen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "a) Allgemeine Fahrregeln",
+      "section": "31",
+      "title": "Art. 31 Pflichten gegenüber Fussgängern",
+      "content": "1) Den Fussgängern ist das Überqueren der Fahrbahn in angemessener Weise zu ermöglichen.\n2) Vor Fussgängerstreifen hat der Fahrzeugführer besonders vorsichtig zu fahren und nötigenfalls anzuhalten, um den Fussgängern den Vortritt zu lassen, die sich schon auf dem Streifen befinden oder im Begriffe sind, ihn zu betreten.\n3) An den Haltestellen öffentlicher Verkehrsmittel ist auf ein- und aussteigende Personen Rücksicht zu nehmen.\nb) Einzelne Verkehrsvorgänge"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "b) Einzelne Verkehrsvorgänge",
+      "section": "32",
+      "title": "Art. 32 Rechtsfahren",
+      "content": "1) Fahrzeuge müssen rechts, auf breiten Strassen innerhalb der rechten Fahrbahnhälfte, fahren. Sie haben sich möglichst an den rechten Strassenrand zu halten, namentlich bei langsamer Fahrt und auf unübersichtlichen Strecken.\n2) Auf Strassen mit Sicherheitslinien ist immer rechts dieser Linien zu fahren.\n3) Der Führer, der seine Fahrrichtung ändern will, wie zum Abbiegen, Überholen, Einspuren und Wechseln des Fahrstreifens, hat auf den Gegenverkehr und auf die ihm nachfolgenden Fahrzeuge Rücksicht zu nehmen.\n4) Gegenüber allen Strassenbenützern ist ausreichender Abstand zu wahren, namentlich beim Kreuzen und Überholen sowie beim Neben- und Hintereinanderfahren."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "b) Einzelne Verkehrsvorgänge",
+      "section": "33",
+      "title": "Art. 33 Kreuzen, Überholen",
+      "content": "1) Es ist rechts zu kreuzen, links zu überholen.\n2) Überholen und Vorbeifahren an Hindernissen ist nur gestattet, wenn der nötige Raum übersichtlich und frei ist und der Gegenverkehr nicht behindert wird. Im Kolonnenverkehr darf nur überholen, wer die Gewissheit hat, rechtzeitig und ohne Behinderung anderer Fahrzeuge wieder einbiegen zu können.\n3) Wer überholt, muss auf die übrigen Strassenbenützer, namentlich auf jene, die er überholen will, besonders Rücksicht nehmen.\n4) In unübersichtlichen Kurven, auf und unmittelbar vor Bahnübergängen ohne Schranken sowie vor Kuppen darf nicht überholt werden, auf Strassenverzweigungen nur, wenn sie übersichtlich sind und das Vortrittsrecht anderer nicht beeinträchtigt wird.\n5) Fahrzeuge dürfen nicht überholt werden, wenn der Führer die Absicht anzeigt, nach links abzubiegen, oder wenn er vor einem Fussgängerstreifen anhält, um Fussgängern das Überqueren der Strasse zu ermöglichen.\n6) Fahrzeuge, die zum Abbiegen nach links eingespurt haben, dürfen nur rechts überholt werden.\n7) Dem sich ankündigenden, schneller fahrenden Fahrzeug ist die Strasse zum Überholen freizugeben. Wer überholt wird, darf die Geschwindigkeit nicht erhöhen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "b) Einzelne Verkehrsvorgänge",
+      "section": "34",
+      "title": "Art. 34 Einspuren, Vortritt",
+      "content": "1) Wer nach rechts abbiegen will, hat sich an den rechten Strassenrand, wer nach links abbiegen will, gegen die Strassenmitte zu halten.\n2) Auf Strassenverzweigungen hat das von rechts kommende Fahrzeug den Vortritt. Fahrzeuge auf gekennzeichneten Hauptstrassen haben den Vortritt, auch wenn sie von links kommen. Vorbehalten bleibt die Regelung durch Signale oder durch die Polizei.\n3) Vor dem Abbiegen nach links ist den entgegenkommenden Fahrzeugen der Vortritt zu lassen.\n4) Der Führer, der sein Fahrzeug in den Verkehr einfügen, wenden oder rückwärtsfahren will, darf andere Strassenbenützer nicht behindern; diese haben den Vortritt."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "b) Einzelne Verkehrsvorgänge",
+      "section": "35",
+      "title": "Art. 35 Anhalten, Parkieren",
+      "content": "1) Der Führer, der anhalten will, hat nach Möglichkeit auf die nachfolgenden Fahrzeuge Rücksicht zu nehmen.\n2) Fahrzeuge dürfen dort nicht angehalten oder aufgestellt werden, wo sie den Verkehr behindern oder gefährden könnten. Womöglich sind sie auf Parkplätzen aufzustellen.\n3) Der Führer muss das Fahrzeug vor dem Verlassen angemessen sichern.\nc) Sicherungsvorkehren"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "c) Sicherungsvorkehren",
+      "section": "36",
+      "title": "Art. 36 Zeichengebung",
+      "content": "1) Jede Richtungsänderung ist mit dem Richtungsanzeiger oder durch deutliche Handzeichen rechtzeitig bekanntzugeben. Dies gilt namentlich für: a) das Einspuren, Wechseln des Fahrstreifens und Abbiegen,\nb) das Überholen und das Wenden,\nc) das Einfügen eines Fahrzeuges in den Verkehr und das Anhalten am Strassenrand.\n2) Die Zeichengebung entbindet den Fahrzeugführer nicht von der gebotenen Vorsicht."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "c) Sicherungsvorkehren",
+      "section": "37",
+      "title": "Art. 37 Warnsignale",
+      "content": "Wo die Sicherheit des Verkehrs es erfordert, hat der Fahrzeugführer die übrigen Strassenbenützer zu warnen. Unnötige und übermässige Warnsignale sind zu unterlassen. Rufzeichen mit der Warnvorrichtung sind untersagt."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "c) Sicherungsvorkehren",
+      "section": "38",
+      "title": "Art. 38 Fahrzeugbeleuchtung",
+      "content": "1) Während der Fahrt müssen Motorfahrzeuge stets beleuchtet sein, die übrigen Fahrzeuge nur vom Beginn der Abenddämmerung bis zur Tageshelle sowie bei schlechten Sichtverhältnissen.\n2) Abgestellte Motorfahrzeuge und mehrspurige nicht motorisierte Fahrzeuge müssen vom Beginn der Abenddämmerung bis zur Tageshelle sowie bei schlechten Sichtverhältnissen beleuchtet sein, ausser auf Parkplätzen oder im Bereich einer genügenden Strassenbeleuchtung.\n2a) Die Regierung kann für bestimmte Fälle Rückstrahler anstelle von Lichtern vorsehen.\n3) Die Fahrzeuge dürfen nach vorn keine roten und nach hinten keine weissen Lichter oder Rückstrahler tragen. Die Regierung kann Ausnahmen gestatten.\n4) Die Beleuchtung ist so zu handhaben, dass niemand unnötig geblendet wird."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "c) Sicherungsvorkehren",
+      "section": "39",
+      "title": "Art. 39 Vermeiden von Belästigungen",
+      "content": "1) Der Fahrzeugführer hat jede vermeidbare Belästigung von Strassenbenützern und Anwohnern, namentlich durch Lärm, Staub, Rauch und Geruch, zu unterlassen und das Erschrecken von Tieren möglichst zu vermeiden.\n2) Der Betrieb von Lautsprechern an Motorfahrzeugen ist untersagt, ausgenommen für Mitteilungen an Mitfahrende. Die Regierung kann in Einzelfällen Ausnahmen gestatten.\nd) Regeln für besondere Strassenverhältnisse"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "d) Regeln für besondere Strassenverhältnisse",
+      "section": "40",
+      "title": "Art. 40 Verkehrstrennung",
+      "content": "1) Wege, die sich für den Verkehr mit Motorfahrzeugen oder Fahrrädern nicht eignen oder offensichtlich nicht dafür bestimmt sind, wie Fuss- und Wanderwege, dürfen mit solchen Fahrzeugen nicht befahren werden.\n2) Das Trottoir ist den Fussgängern, der Radweg den Radfahrern vorbehalten. Die Regierung kann Ausnahmen vorsehen.\n3) Auf Strassen, die den Motorfahrzeugen vorbehalten sind, dürfen nur die von der Regierung bezeichneten Arten von Motorfahrzeugen verkehren. Der Zutritt ist untersagt, die Zufahrt ausschliesslich an den dafür vorgesehenen Stellen gestattet. Die Regierung kann Benützungsvorschriften und besondere Verkehrsregeln erlassen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "d) Regeln für besondere Strassenverhältnisse",
+      "section": "41",
+      "title": "Art. 41 Fahrstreifen, Kolonnenverkehr",
+      "content": "1) Auf Strassen, die für den Verkehr in gleicher Richtung in mehrere Fahrstreifen unterteilt sind, darf der Führer seinen Streifen nur verlassen, wenn er dadurch den übrigen Verkehr nicht gefährdet.\n2) Das gleiche gilt sinngemäss, wenn auf breiten Strassen ohne Fahrstreifen Fahrzeugkolonnen in gleicher Richtung nebeneinander fahren."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "d) Regeln für besondere Strassenverhältnisse",
+      "section": "42",
+      "title": "Art. 42 Steile Strassen, Bergstrassen",
+      "content": "1) Auf Strassen mit starkem Gefälle und auf Bergstrassen ist so zu fahren, dass die Bremsen nicht übermässig beansprucht werden. Wo das Kreuzen schwierig ist, hat in erster Linie das abwärts fahrende Fahrzeug rechtzeitig anzuhalten. Ist das Kreuzen nicht möglich, so muss das abwärts fahrende Fahrzeug zurückfahren, sofern das andere sich nicht offensichtlich näher bei einer Ausweichstelle befindet.\n2) Die Regierung kann für Bergstrassen weitere Vorschriften erlassen und Ausnahmen von den Verkehrsregeln vorsehen.\ne) Besondere Fahrzeugarten"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "e) Besondere Fahrzeugarten",
+      "section": "43",
+      "title": "Art. 43 Regeln für Radfahrer",
+      "content": "1) Radfahrer müssen die Radwege und -streifen benützen.\n2) Radfahrer dürfen nicht nebeneinander fahren. Die Regierung kann Ausnahmen vorsehen.\n3) Radfahrer dürfen sich nicht durch Fahrzeuge oder Tiere ziehen lassen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "e) Besondere Fahrzeugarten",
+      "section": "44",
+      "title": "Art. 44 Regeln für Motorradfahrer",
+      "content": "1) Motorradfahrer dürfen nicht nebeneinander fahren, soweit es nicht beim Fahren innerhalb einer Kolonne von Motorwagen geboten erscheint.\n2) Wenn der Verkehr angehalten wird, haben die Motorradfahrer ihren Platz in der Fahrzeugkolonne beizubehalten.\n3. Abschnitt\nRegeln für den übrigen Verkehr"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Regeln für den übrigen Verkehr",
+      "section": "45",
+      "title": "Art. 45 Fussgänger",
+      "content": "1) Fussgänger müssen die Trottoirs benützen. Wo solche fehlen, haben sie am Strassenrand und, wenn besondere Gefahren es erfordern, hintereinander zu gehen. Wenn nicht besondere Umstände entgegenstehen, haben sie sich an den linken Strassenrand zu halten, namentlich ausserorts in der Nacht.\n2) Die Fussgänger haben die Fahrbahn vorsichtig und auf dem kürzesten Weg zu überschreiten, nach Möglichkeit auf einem Fussgängerstreifen. Sie haben den Vortritt auf diesem Streifen, dürfen ihn aber nicht überraschend betreten."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Regeln für den übrigen Verkehr",
+      "section": "46",
+      "title": "Art. 46 Reiter, Tiere",
+      "content": "1) Reiter haben sich an den rechten Strassenrand zu halten.\n2) Vieh darf nicht unbewacht auf die Strasse gelassen werden, ausser in signalisierten Weidegebieten.\n3) Viehherden müssen von den nötigen Treibern begleitet sein; die linke Strassenseite ist nach Möglichkeit für den übrigen Verkehr freizuhalten. Einzelne Tiere sind am rechten Strassenrand zu führen.\n4) Für ihr Verhalten im Verkehr haben die Reiter und Führer von Tieren die Regeln des Fahrverkehrs (Einspuren, Vortritt, Zeichengebung usw.) sinngemäss zu beachten.\n4. Abschnitt\nVerhalten bei Unfällen"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Verhalten bei Unfällen",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1) Ereignet sich ein Unfall, an dem ein Motorfahrzeug oder Fahrrad beteiligt ist, so müssen alle Beteiligten sofort anhalten. Sie haben nach Möglichkeit für die Sicherung des Verkehrs zu sorgen.\n2) Sind Personen verletzt, so haben alle Beteiligten für Hilfe zu sorgen, Unbeteiligte, soweit es ihnen zumutbar ist. Die Beteiligten, in erster Linie die Fahrzeugführer, haben die Landespolizei zu benachrichtigen. Alle Beteiligten, namentlich auch Mitfahrende, haben bei der Feststellung des Tatbestandes mitzuwirken. Ohne Zustimmung der Landespolizei dürfen sie die Unfallstelle nur verlassen, soweit sie selbst Hilfe benötigen oder um Hilfe oder die Landespolizei herbeizurufen.\n3) Ist nur Sachschaden entstanden, so hat der Schädiger sofort den Geschädigten zu benachrichtigen und Namen und Adresse anzugeben. Wenn dies nicht möglich ist, hat er unverzüglich die Landespolizei zu verständigen.\n4) Bei Unfällen auf Bahnübergängen haben die Beteiligten die Bahnverwaltung unverzüglich zu benachrichtigen.\n5. Abschnitt\nSportliche Veranstaltungen, Versuchsfahrten"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Sportliche Veranstaltungen, Versuchsfahrten",
+      "section": "48",
+      "title": "Art. 48 Sportliche Veranstaltungen",
+      "content": "1) Öffentliche Rundstreckenrennen mit Motorfahrzeugen sind verboten. Die Regierung kann einzelne Ausnahmen gestatten oder das Verbot auf andere Arten von Motorfahrzeugrennen ausdehnen; sie berücksichtigt bei ihrem Entscheid vor allem die Erfordernisse der Verkehrssicherheit und der Verkehrserziehung.\n2) Andere motor- und radsportliche Veranstaltungen auf öffentlichen Strassen, ausgenommen Ausflugsfahrten, bedürfen der Bewilligung der Regierung.\n3) Die Bewilligung darf nur erteilt werden, wenn: a) die Veranstalter Gewähr bieten für einwandfreie Durchführung,\nb) die Rücksicht auf den Verkehr es gestattet,\nc) die nötigen Sicherheitsmassnahmen getroffen werden,\nd) die vorgeschriebene Haftpflichtversicherung abgeschlossen ist.\n4) Die Regierung kann Ausnahmen von den Verkehrsvorschriften gestatten, wenn genügende Sicherheitsmassnahmen getroffen sind."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Sportliche Veranstaltungen, Versuchsfahrten",
+      "section": "49",
+      "title": "Art. 49 Versuchsfahrten",
+      "content": "Versuchsfahrten, auf denen die Verkehrsregeln oder die Vorschriften über die Fahrzeuge nicht eingehalten werden können, bedürfen der Bewilligung der Regierung. Diese ordnet die nötigen Sicherheitsmassnahmen an.\n6. Abschnitt\nDurchführungsbestimmungen"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Durchführungsbestimmungen",
+      "section": "50",
+      "title": "Art. 50 Verkehrspolizei",
+      "content": "1) Die Kontrolle des Verkehrs auf öffentlichen Strassen obliegt - vorbehaltlich der Befugnisse der Gemeindepolizei - der Landespolizei.\n2) Die Landespolizei: a) wirkt helfend und verkehrserziehend, verhindert Widerhandlungen, verzeigt Fehlbare und erhebt Ordnungsbussen nach dem Ordnungsbussengesetz; vorbehalten bleibt Art. 95 Abs. 1a;\nb) nimmt den Tatbestand auf bei Verkehrsunfällen, die nach Art. 47 zu melden sind;\nc) führt regelmässig Verkehrskontrollen durch.\n3) Die Regierung regelt das Nähere mit Verordnung. Sie kann im Zusammenhang mit der Zollkontrolle von Fahrzeugen und Ladungen weitere Stellen mit Vollzugsaufgaben betrauen."
+    },
+    {
+      "provision_ref": "art50a",
+      "chapter": "Durchführungsbestimmungen",
+      "section": "50a",
+      "title": "Art. 50a Besondere Befugnisse der Landespolizei",
+      "content": "1) Die Landespolizei kann die Kontrolle von Ausweisen und Bewilligungen durchführen: a) auf öffentlichen Strassen: jederzeit;\nb) ausserhalb öffentlicher Strassen: zur Abklärung von Widerhandlungen und Unfällen, die in einem örtlichen und zeitlichen Zusammenhang zur Kontrolle stehen.\n2) Stellt die Landespolizei Fahrzeuge im Verkehr fest, die nicht zugelassen sind, deren Zustand oder Ladung den Verkehr gefährden oder die vermeidbaren Lärm erzeugen, so verhindert sie die Weiterfahrt. Sie kann den Fahrzeugausweis abnehmen und nötigenfalls das Fahrzeug sicherstellen.\n3) Befindet sich ein Fahrzeugführer in einem Zustand, der die sichere Führung des Fahrzeugs ausschliesst, oder darf er aus einem andern gesetzlichen Grund nicht fahren, so verhindert die Landespolizei die Weiterfahrt und nimmt den Führerausweis ab.\n4) Hat sich ein Motorfahrzeugführer durch grobe Verletzung wichtiger Verkehrsregeln als besonders gefährlich erwiesen oder hat er mutwillig vermeidbaren Lärm verursacht, so kann ihm die Landespolizei auf der Stelle den Führerausweis abnehmen.\n5) Von der Landespolizei abgenommene Ausweise sind sofort der Regierung zu übermitteln; diese entscheidet unverzüglich über den Entzug. Bis zu ihrem Entscheid hat die Abnahme eines Ausweises durch die Landespolizei die Wirkung des Entzuges.\n6) Stellt die Landespolizei Fahrzeuge im Verkehr fest, die nicht den Bestimmungen über die Personenbeförderung oder die Zulassung als Strassentransportunternehmen entsprechen, so kann sie die Weiterfahrt verhindern, den Fahrzeugausweis abnehmen und nötigenfalls das Fahrzeug sicherstellen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Durchführungsbestimmungen",
+      "section": "51",
+      "title": "Art. 51 Feststellung der Fahrunfähigkeit",
+      "content": "1) Fahrzeugführer sowie an Unfällen beteiligte Strassenbenützer, bei denen Anzeichen von Fahrunfähigkeit vorliegen, können einem Atemalkoholtest und, soweit die Anzeichen von Fahrunfähigkeit nicht oder nicht allein auf Alkoholeinfluss zurückzuführen sind, weiteren Voruntersuchungen, namentlich Urin-, Speichel- und Schweisstests unterzogen werden.\n1a) Fahrzeugführer nach Art. 29 Abs. 2a können auch ohne Anzeichen von Fahrunfähigkeit einem Atemalkoholtest unterzogen werden.\n2) Eine Blutprobe muss angeordnet werden, wenn: a) Anzeichen von Fahrunfähigkeit vorliegen;\nb) Anzeichen vorliegen, dass Fahrzeugführer nach Art. 29 Abs. 2a das Verbot, unter Alkoholeinfluss zu fahren, missachten.\n3) Die Blutprobe kann aus wichtigen Gründen auf Anordnung des Landgerichtes auch gegen den Willen der verdächtigen Person abgenommen werden. Andere Beweismittel für die Feststellung der Fahrunfähigkeit bleiben vorbehalten.\n4) Die Regierung: a) legt fest, bei welcher Blutalkoholkonzentration unabhängig von weiteren Beweisen und individueller Alkoholverträglichkeit Fahrunfähigkeit im Sinne dieses Gesetzes angenommen wird (Angetrunkenheit);\nb) kann für andere die Fahrfähigkeit herabsetzende Substanzen festlegen, bei welchen Konzentrationen im Blut unabhängig von weiteren Beweisen und individueller Verträglichkeit Fahrunfähigkeit im Sinne dieses Gesetzes angenommen wird;\nc) erlässt Vorschriften über die Voruntersuchungen (Abs. 1), das Vorgehen bei der Blutprobe, die Auswertung dieser Probe und die zusätzliche ärztliche Untersuchung der der Fahrunfähigkeit verdächtigten Person;\nd) kann vorschreiben, dass zur Feststellung einer Sucht, welche die Fahreignung einer Person herabsetzt, nach diesem Artikel gewonnene Proben, namentlich Blut-, Haar- und Nagelproben, ausgewertet werden;\ne) bestimmt, wer für die Anordnung der Massnahmen nach Abs. 1 und 2 zuständig ist."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Durchführungsbestimmungen",
+      "section": "52",
+      "title": "Art. 52 Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer",
+      "content": "1) Die Regierung ordnet die Arbeits- und Präsenzzeit der berufsmässigen Motorfahrzeugführer. Sie sichert ihnen eine ausreichende tägliche Ruhezeit sowie Ruhetage, so dass ihre Beanspruchung nicht grösser ist als nach den gesetzlichen Regelungen für vergleichbare Tätigkeiten. Sie sorgt für eine wirksame Kontrolle der Einhaltung dieser Bestimmungen.\n2) Die Regierung regelt die Anwendung der Bestimmungen über die Arbeits- und Ruhezeit: a) auf berufsmässige Führer, die mit liechtensteinisch immatrikulierten Motorwagen Fahrten im Ausland durchführen,\nb) auf berufsmässige Führer, die mit ausländisch immatrikulierten Motorwagen Fahrten im Fürstentum Liechtenstein ausführen.\n3) Die Regierung kann verbieten, dass der Lohn berufsmässiger Motorfahrzeugführer nach der zurückgelegten Fahrstrecke oder der beförderten Gütermenge berechnet wird."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Durchführungsbestimmungen",
+      "section": "53",
+      "title": "Art. 53 Ergänzung der Verkehrsregeln",
+      "content": "1) Die Regierung kann weitere Verkehrsvorschriften erlassen und für besondere Verhältnisse Ausnahmen von den Verkehrsregeln vorsehen, namentlich für Einbahnstrassen.\n2) Sie bezeichnet die Hauptstrassen mit Vortrittsrecht.\n3) Sie erlässt Bestimmungen über: a) die Zeichengebung durch die Polizei und die Kennzeichnung der Verkehrspolizei,\nb) die Kontrolle der Fahrzeuge und ihrer Führer an der Landesgrenze.\n4) Aufgehoben\n5) Die Regierung kann vorschreiben, dass Sicherheitsvorrichtungen, wie Sicherheitsgurten und Schutzhelme, benützt werden müssen.\n7. Abschnitt\nStörung von Strassenverkehrskontrollen"
+    },
+    {
+      "provision_ref": "art53a",
+      "chapter": "Störung von Strassenverkehrskontrollen",
+      "section": "53a",
+      "title": "Art. 53a",
+      "content": "1) Geräte und Vorrichtungen, welche die behördliche Kontrolle des Strassenverkehrs erschweren, stören oder unwirksam machen (z. B. Radar-Warngeräte), dürfen weder in Verkehr gebracht oder erworben noch in Fahrzeuge eingebaut, darin mitgeführt, an ihnen befestigt oder in irgendeiner Form verwendet werden.\n2) Als Inverkehrbringen gilt das Herstellen, das Einführen, das Anpreisen, das Weitergeben, das Verkaufen sowie das sonstige Abgeben und Überlassen.\n3) Die Kontrollorgane stellen solche Geräte und Vorrichtungen sicher. Das Gericht ordnet deren Einziehung und Vernichtung an.\nIV. Teil\nHaftpflicht und Versicherung\n1. Abschnitt\nHaftpflicht"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Haftpflicht",
+      "section": "54",
+      "title": "Art. 54 Haftpflicht des Motorfahrzeughalters",
+      "content": "1) Wird durch den Betrieb eines Motorfahrzeuges ein Mensch getötet oder verletzt oder Sachschaden verursacht, so haftet der Halter für den Schaden.\n2) Wird ein Verkehrsunfall durch ein nicht in Betrieb befindliches Motorfahrzeug veranlasst, so haftet der Halter, wenn der Geschädigte beweist, dass den Halter oder Personen, für die er verantwortlich ist, ein Verschulden trifft oder dass fehlerhafte Beschaffenheit des Motorfahrzeuges mitgewirkt hat.\n3) Der Halter haftet nach Ermessen des Richters auch für Schäden infolge der Hilfeleistung nach Unfällen seines Motorfahrzeuges, sofern er für den Unfall haftbar ist oder die Hilfe ihm selbst oder den Insassen seines Fahrzeuges geleistet wurde.\n4) Für das Verschulden des Fahrzeugführers und Mitwirken der Hilfspersonen ist der Halter wie für eigenes Verschulden verantwortlich."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Haftpflicht",
+      "section": "55",
+      "title": "Art. 55 Ermässigung oder Ausschluss der Halterhaftung",
+      "content": "1) Der Halter wird von der Haftpflicht befreit, wenn er beweist, dass der Unfall durch höhere Gewalt oder grobes Verschulden des Geschädigten oder eines Dritten verursacht wurde, ohne dass ihn selbst oder Personen, für die er verantwortlich ist, ein Verschulden trifft und ohne dass fehlerhafte Beschaffenheit des Fahrzeuges zum Unfall beigetragen hat.\n2) Beweist der Halter, der nicht nach Abs. 1 befreit wird, dass ein Verschulden des Geschädigten beim Unfall mitgewirkt hat, so bestimmt der Richter die Ersatzpflicht unter Würdigung aller Umstände.\n3) Nach den Bestimmungen des ABGB bestimmt sich: a) die Haftung im Verhältnis zwischen dem Halter und dem Eigentümer eines Fahrzeuges für Schaden an diesem Fahrzeug,\nb) die Haftung des Halters für Schaden an den mit seinem Fahrzeug beförderten Sachen, ausgenommen an Gegenständen, die der Geschädigte mit sich führte, namentlich Reisegepäck und dergleichen; vorbehalten bleiben die Bestimmungen über den Postverkehr."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "Haftpflicht",
+      "section": "56",
+      "title": "Art. 56 Mehrere Schädiger",
+      "content": "1) Sind bei einem Unfall, an dem ein Motorfahrzeug beteiligt ist, mehrere für den Schaden eines Dritten ersatzpflichtig, so haften sie solidarisch.\n2) Auf die beteiligten Haftpflichtigen wird der Schaden unter Würdigung aller Umstände verteilt. Mehrere Motorfahrzeughalter tragen den Schaden nach Massgabe des von ihnen zu vertretenden Verschuldens, wenn nicht besondere Umstände, namentlich die Betriebsgefahren, eine andere Verteilung rechtfertigen."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "Haftpflicht",
+      "section": "57",
+      "title": "Art. 57 Schadenersatz zwischen Motorfahrzeughaltern",
+      "content": "1) Wird bei einem Unfall, an dem mehrere Motorfahrzeuge beteiligt sind, ein Halter körperlich geschädigt, so wird der Schaden den Haltern aller beteiligten Motorfahrzeuge nach Massgabe des von ihnen zu vertretenden Verschuldens auferlegt, wenn nicht besondere Umstände, namentlich die Betriebsgefahren, eine andere Verteilung rechtfertigen.\n2) Für Sachschaden eines Halters haftet ein anderer Halter nur, wenn der Geschädigte beweist, dass der Schaden verursacht wurde durch Verschulden oder vorübergehenden Verlust der Urteilsfähigkeit des beklagten Halters oder einer Person, für die er verantwortlich ist, oder durch fehlerhafte Beschaffenheit seines Fahrzeuges.\n3) Mehrere ersatzpflichtige Halter haften dem geschädigten Halter solidarisch."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Haftpflicht",
+      "section": "58",
+      "title": "Art. 58 Schadenersatz, Genugtuung",
+      "content": "1) Art und Umfang des Schadenersatzes sowie die Zusprechung einer Genugtuung richten sich nach den Bestimmungen des ABGB.\n2) Hatte der Getötete oder Verletzte ein ungewöhnlich hohes Einkommen, so kann das Gericht die Entschädigung unter Würdigung aller Umstände angemessen ermässigen.\n3) Leistungen an den Geschädigten aus einer privaten Versicherung, deren Prämien ganz oder teilweise vom Halter bezahlt wurden, sind im Verhältnis seines Prämienbeitrages auf seine Ersatzpflicht anzurechnen, wenn der Versicherungsvertrag nichts anderes vorsieht.\n2. Abschnitt\nVersicherung"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Versicherung",
+      "section": "59",
+      "title": "Art. 59 Versicherungspflicht",
+      "content": "1) Kein Motorfahrzeug darf in den öffentlichen Verkehr gebracht werden, bevor eine Haftpflichtversicherung nach den folgenden Bestimmungen abgeschlossen ist.\n2) Die Versicherung deckt die Haftpflicht des Halters und der Personen, für die er nach diesem Gesetz verantwortlich ist, zumindest in jenen Staaten, in denen das liechtensteinische Kontrollschild als Versicherungsnachweis gilt.\n3) Von der Versicherung können ausgeschlossen werden: a) Ansprüche des Halters aus Sachschäden, die Personen verursacht haben, für die er nach diesem Gesetz verantwortlich ist;\nb) Ansprüche aus Sachschäden des Ehegatten oder eingetragenen Partners des Halters, seiner Verwandten in auf- und absteigender Linie sowie seiner mit ihm in gemeinsamem Haushalt lebenden Geschwister;\nc) Ansprüche aus Sachschäden, für die der Halter nicht nach diesem Gesetz haftet;\nd) Ansprüche aus Unfällen bei Rennen, für welche die nach Art. 68 vorgeschriebene Versicherung besteht."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Versicherung",
+      "section": "60",
+      "title": "Art. 60 Mindestversicherung",
+      "content": "Die Regierung bestimmt die Beträge, die als Ersatzansprüche der Geschädigten aus Personen- und Sachschäden von der Haftpflichtversicherung gedeckt werden müssen."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Versicherung",
+      "section": "61",
+      "title": "Art. 61 Unmittelbarer Anspruch gegen den Versicherer, Einreden",
+      "content": "1) Der Geschädigte hat im Rahmen der vertraglichen Versicherungsdeckung ein Forderungsrecht unmittelbar gegen den Versicherer.\n2) Einreden aus dem Versicherungsvertrag oder aus dem Versicherungsvertragsgesetz können dem Geschädigten nicht entgegengehalten werden.\n3) Der Versicherer hat ein Rückgriffsrecht gegen den Versicherungsnehmer oder den Versicherten, soweit er nach dem Versicherungsvertrag oder dem Versicherungsvertragsgesetz zur Ablehnung oder Kürzung seiner Leistung befugt wäre."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Versicherung",
+      "section": "62",
+      "title": "Art. 62 Mehrere Geschädigte",
+      "content": "1) Übersteigen die den Geschädigten zustehenden Forderungen die vertragliche Versicherungsdeckung, so ermässigt sich der Anspruch jedes Geschädigten gegen den Versicherer im Verhältnis der Versicherungsdeckung zur Summe der Forderungen.\n2) Der Geschädigte, der als erster klagt, sowie der beklagte Versicherer können die übrigen Geschädigten durch das angerufene Gericht unter Hinweis auf die Rechtsfolgen auffordern lassen, ihre Ansprüche innert bestimmter Frist beim gleichen Gericht einzuklagen. Das angerufene Gericht hat über die Verteilung der Versicherungsleistung auf die mehreren Ansprüche zu entscheiden. Bei der Verteilung der Versicherungsleistung sind die fristgemäss eingeklagten Ansprüche ohne Rücksicht auf die übrigen vorab zu decken.\n3) Hat der Versicherer in Unkenntnis anderweitiger Ansprüche gutgläubig einem Geschädigten eine Zahlung geleistet, die dessen verhältnismässigen Anteil übersteigt, so ist er im Umfang seiner Leistung auch gegenüber den andern Geschädigten befreit."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Versicherung",
+      "section": "63",
+      "title": "Art. 63 Halterwechsel, Ersatzfahrzeuge",
+      "content": "1) Beim Halterwechsel gehen die Rechte und Pflichten aus dem Versicherungsvertrag auf den neuen Halter über. Wird der neue Fahrzeugausweis aufgrund einer andern Haftpflichtversicherung ausgestellt, so erlischt der alte Vertrag.\n2) Der bisherige Versicherer ist berechtigt, innert 14 Tagen seitdem er vom Halterwechsel Kenntnis erhalten hat, vom Vertrag zurückzutreten.\n3) Verwendet der Halter anstelle des versicherten Fahrzeuges und mit dessen Kontrollschildern ein Ersatzfahrzeug der gleichen Kategorie, so gilt die Versicherung ausschliesslich für dieses.\n4) Ein Ersatzfahrzeug darf nur mit Bewilligung der Regierung verwendet werden. Wird es während mehr als 30 Tagen verwendet, so hat der Halter den Versicherer zu benachrichtigen. Unterlässt er dies oder wurde die behördliche Bewilligung für die Verwendung des Ersatzfahrzeuges nicht eingeholt, so hat der Versicherer den Rückgriff."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Versicherung",
+      "section": "64",
+      "title": "Art. 64 Versicherungsnachweis, Aussetzen und Aufhören der Versicherung",
+      "content": "1) Der Versicherer hat zu Handen der Regierung, die den Fahrzeugausweis abgibt, eine Versicherungsbescheinigung auszustellen.\n2) Aussetzen und Aufhören der Versicherung sind vom Versicherer der Regierung zu melden und werden, sofern die Versicherung nicht vorher durch eine andere ersetzt wurde, gegenüber Geschädigten erst wirksam, wenn der Fahrzeugausweis und die Kontrollschilder abgegeben sind, spätestens jedoch 60 Tage nach Eingang der Meldung des Versicherers. Die Regierung hat Fahrzeugausweis und Kontrollschilder einzuziehen, sobald die Meldung eintrifft.\n3) Werden die Kontrollschilder bei der Regierung hinterlegt, so ruht die Versicherung. Die Regierung gibt dem Versicherer davon Kenntnis.\n4) Bestimmungen, wonach die Versicherung erlischt, wenn das Fahrzeug in einem anderen Vertragsstaat des EWR-Abkommens zugelassen wird, sind nichtig."
+    },
+    {
+      "provision_ref": "art64a",
+      "chapter": "Versicherung",
+      "section": "64a",
+      "title": "Art. 64a Bescheinigung über den Schadenverlauf und die Schadenfreiheit",
+      "content": "Der Versicherer hat dem Versicherungsnehmer auf dessen Antrag Bescheinigungen über den Schadenverlauf oder die Schadenfreiheit auszustellen. Die Regierung regelt das Nähere mit Verordnung.\n3. Abschnitt\nBesondere Fälle"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "Besondere Fälle",
+      "section": "65",
+      "title": "Art. 65 Motorfahrzeuganhänger; geschleppte Motorfahrzeuge",
+      "content": "1) Für den durch einen Anhänger oder ein geschlepptes Motorfahrzeug verursachten Schaden haftet der Halter des ziehenden Motorfahrzeuges; die Bestimmungen über die Haftung bei Motorfahrzeugen gelten sinngemäss. Wird das geschleppte Motorfahrzeug von einem Führer gelenkt, so haftet sein Halter solidarisch mit dem Halter des Zugfahrzeuges.\n2) Die Versicherung des Zugfahrzeuges erstreckt sich auch auf die Haftpflicht für Schäden, die verursacht werden: a) vom Anhänger;\nb) vom geschleppten Motorfahrzeug, das nicht von einem Führer gelenkt wird;\nc) vom geschleppten Motorfahrzeug, das von einem Führer gelenkt wird und nicht versichert ist.\n3) Anhänger zum Personentransport dürfen nur in Verkehr gebracht werden, wenn durch eine Zusatzversicherung auf den Anhänger die von der Regierung nach Art. 60 festgelegte Mindestversicherung des ganzen Zuges gewährleistet ist.\n4) Die Haftung des Halters des Zugfahrzeuges für körperliche Schäden der Mitfahrer auf Anhängern sowie die Haftung für Schäden zwischen dem Zugfahrzeug und dem geschleppten Motorfahrzeug richten sich nach diesem Gesetz. Für Sachschäden am Anhänger haftet der Halter des Zugfahrzeuges nach den Bestimmungen des ABGB."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Besondere Fälle",
+      "section": "66",
+      "title": "Art. 66 Fahrräder",
+      "content": "Radfahrer haften nach den Bestimmungen des ABGB."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Besondere Fälle",
+      "section": "67",
+      "title": "Art. 67 Unternehmen des Motorfahrzeuggewerbes",
+      "content": "1) Der Unternehmer im Motorfahrzeuggewerbe haftet wie ein Halter für den Schaden, der durch ein Motorfahrzeug verursacht wird, das ihm zur Aufbewahrung, Reparatur, Wartung, zum Umbau oder zu ähnlichen Zwecken übergeben wurde. Der Halter und sein Haftpflichtversicherer haften nicht.\n2) Diese Unternehmer sowie solche, die Motorfahrzeuge herstellen oder damit Handel treiben, haben für die Gesamtheit ihrer eigenen und der ihnen übergebenen Motorfahrzeuge eine Haftpflichtversicherung abzuschliessen. Die Bestimmungen über die Halterversicherung gelten sinngemäss."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Besondere Fälle",
+      "section": "68",
+      "title": "Art. 68 Rennen",
+      "content": "1) Die Bestimmungen dieses Artikels gelten für motor- und radsportliche Veranstaltungen, bei denen die Bewertung hauptsächlich nach der erzielten Geschwindigkeit erfolgt oder eine Durchschnittsgeschwindigkeit von mehr als 50 km/h verlangt wird. Sie gelten auch, wenn die Strecke für den übrigen Verkehr gesperrt ist. Die Regierung kann weitere Veranstaltungen einbeziehen.\n2) Die Veranstalter haften in sinngemässer Anwendung der Bestimmungen über die Haftpflicht der Motorfahrzeughalter für den Schaden, der durch Fahrzeuge der Teilnehmer oder Begleitfahrzeuge oder andere im Dienst der Veranstaltung verwendete Fahrzeuge verursacht wird.\n3) Die Haftung für Schäden der Rennfahrer und ihrer Mitfahrer sowie an den im Dienst der Veranstaltung verwendeten Fahrzeugen richtet sich nicht nach diesem Gesetz.\n4) Zur Deckung der Haftpflicht der Veranstalter, Teilnehmer und Hilfspersonen gegenüber Dritten, wie Zuschauern, andern Strassenbenützern und Anwohnern, ist eine Versicherung abzuschliessen. Die Regierung setzt die Mindestdeckung nach den Umständen fest; bei Rennen mit Motorfahrzeugen darf diese jedoch nicht geringer sein als bei der ordentlichen Versicherung. Die Art. 61 und 62 gelten sinngemäss.\n5) Muss bei einem nicht behördlich bewilligten Rennen ein Schaden durch die ordentliche Versicherung des schadenverursachenden Motorfahrzeuges, den schadenverursachenden Radfahrer oder seine private Haftpflichtversicherung gedeckt werden, so hat der Versicherer oder der Radfahrer den Rückgriff auf die Haftpflichtigen, die wussten oder bei pflichtgemässer Aufmerksamkeit wissen konnten, dass eine besondere Versicherung für das Rennen fehlte."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Besondere Fälle",
+      "section": "69",
+      "title": "Art. 69 Motorfahrzeuge und Fahrräder des Staates",
+      "content": "1) Der Staat untersteht als Halter von Motorfahrzeugen den Haftpflichtbestimmungen dieses Gesetzes, jedoch nicht der Versicherungspflicht. Ausserdem sind von der Versicherungspflicht Motorfahrzeuge ausgenommen, für die der Staat die Deckungspflicht wie ein Versicherer übernimmt.\n2) Aufgehoben\n3) Der Staat reguliert nach den für die Haftpflichtversicherung geltenden Bestimmungen die Schäden, die durch Motorfahrzeuge, Anhänger und Fahrräder verursacht werden, für die er haftet. Er teilt der Auskunftsstelle (Art. 75a) mit, welche Stelle für die Schadenregulierung zuständig ist."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "Besondere Fälle",
+      "section": "70",
+      "title": "Art. 70 Nationales Versicherungsbüro",
+      "content": "1) Die in Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungsunternehmen bilden und betreiben gemeinsam das Nationale Versicherungsbüro, das eigene Rechtspersönlichkeit hat.\n2) Das Nationale Versicherungsbüro hat folgende Aufgaben: a) es deckt die Haftung für Schäden, die durch ausländische Motorfahrzeuge und Anhänger in Liechtenstein verursacht werden, soweit nach diesem Gesetz eine Versicherungspflicht besteht;\nb) es betreibt die Auskunftsstelle nach Art. 75a;\nc) es koordiniert den Abschluss von Grenzversicherungen für in Liechtenstein einreisende Motorfahrzeuge, die nicht über den erforderlichen Versicherungsschutz verfügen.\n3) Die Regierung regelt: a) die Pflicht zum Abschluss einer Grenzversicherung;\nb) die Koordination der Leistungen der Sozialversicherungen mit den Schadenersatzleistungen des Nationalen Versicherungsbüros.\n4) Sie kann einstweilige Verfügungen zur Sicherung von Ersatzansprüchen für Schäden, die durch ausländische Motorfahrzeuge oder Anhänger verursacht werden, ausschliessen oder beschränken."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Besondere Fälle",
+      "section": "71",
+      "title": "Art. 71 Strolchenfahrten",
+      "content": "1) Wer ein Motorfahrzeug zum Gebrauch entwendet, haftet wie ein Halter. Solidarisch mit ihm haftet der Führer, der bei Beginn der Fahrt wusste oder bei pflichtgemässer Aufmerksamkeit wissen konnte, dass das Fahrzeug zum Gebrauch entwendet wurde. Der Halter haftet mit, ausser gegenüber Benützern des Fahrzeugs, die bei Beginn der Fahrt von der Entwendung zum Gebrauch Kenntnis hatten oder bei pflichtgemässer Aufmerksamkeit haben konnten.\n2) Der Halter und sein Haftpflichtversicherer haben den Rückgriff auf die Personen, die das Motorfahrzeug entwendeten, sowie auf den Führer, der bei Beginn der Fahrt von der Entwendung zum Gebrauch Kenntnis hatte oder bei pflichtgemässer Aufmerksamkeit haben konnte.\n3) Der Versicherer darf den Halter nicht finanziell belasten, wenn diesen an der Entwendung keine Schuld trifft."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Besondere Fälle",
+      "section": "72",
+      "title": "Art. 72 Nationaler Garantiefonds",
+      "content": "1) Die in Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungsunternehmen bilden und betreiben gemeinsam den Nationalen Garantiefonds, der eigene Rechtspersönlichkeit hat.\n2) Der Nationale Garantiefonds hat folgende Aufgaben: a) er deckt die Haftung für Schäden, die in Liechtenstein verursacht werden durch: 1. nicht ermittelte oder nicht versicherte Motorfahrzeuge und Anhänger, soweit nach diesem Gesetz eine Versicherungspflicht besteht;\n2. Radfahrer oder Benützer fahrzeugähnlicher Geräte, sofern der Schädiger nicht ermittelt werden kann oder der Schaden weder vom Schädiger noch von einer Haftpflichtversicherung noch von einer für ihn verantwortlichen Person oder einer anderen Versicherung gedeckt wird;\nb) er kommt für Schäden von Geschädigten mit Wohnsitz in Liechtenstein auf, die in Liechtenstein oder in einem anderen EWR-Mitgliedstaat durch Motorfahrzeuge und Anhänger verursacht werden, wenn über das Vermögen des leistungspflichtigen Haftpflichtversicherers ein Insolvenzverfahren eröffnet oder mangels kostendeckenden Vermögens nicht eröffnet wurde;\nc) er betreibt die Entschädigungsstelle nach Art. 75d;\nd) er deckt Regressansprüche ausländischer Garantiefonds aus Leistungen, welche diese für Schäden erbracht haben, die durch nach diesem Gesetz nicht der Versicherungspflicht unterstehende liechtensteinische Motorfahrzeuge oder Anhänger im Ausland verursacht wurden;\ne) er deckt Regressansprüche aus Leistungen, welche Entschädigungsstellen für Insolvenzfälle in einem anderen EWR-Mitgliedstaat für Schäden erbracht haben, die durch Motorfahrzeuge oder Anhänger verursacht wurden, wenn über das Vermögen des leistungspflichtigen liechtensteinischen Haftpflichtversicherer ein Insolvenzverfahren eröffnet oder mangels kostendeckenden Vermögens nicht eröffnet wurde.\n3) Die Regierung regelt: a) die Aufgaben des Nationalen Garantiefonds nach Abs. 2;\nb) einen Selbstbehalt des Geschädigten für Sachschäden.\n4) Im Falle von Abs. 2 Bst. a entfällt die Leistungspflicht des Nationalen Garantiefonds in dem Umfange, in dem der Geschädigte Leistungen aus einer Schadenversicherung oder einer Sozialversicherung beanspruchen kann.\n5) Die Regierung kann im Falle von Abs. 2 Bst. a: a) den Nationalen Garantiefonds zur Vorleistung verpflichten, wenn der Schädiger keine leistungspflichtige Haftpflichtversicherung hat oder das Fehlen einer solchen Versicherung strittig ist;\nb) die Leistungspflicht des Nationalen Garantiefonds gegenüber im Ausland wohnhaften ausländischen Geschädigten bei fehlender Reziprozität beschränken oder aufheben.\n6) Mit der Zahlung der Ersatzleistung an den Geschädigten tritt der Nationale Garantiefonds für die von ihm gedeckten gleichartigen Schadenposten in die Rechte des Geschädigten ein."
+    },
+    {
+      "provision_ref": "art72a",
+      "chapter": "Besondere Fälle",
+      "section": "72a",
+      "title": "Art. 72a Finanzierung, Durchführung",
+      "content": "1) Der Halter eines Motorfahrzeuges leistet jährlich je einen Beitrag nach der Art des versicherten Risikos, der zur Deckung des Aufwandes nach den Art. 70, 72, 75a und 75d bestimmt ist.\n2) Das Nationale Versicherungsbüro und der Nationale Garantiefonds bestimmen diese Beiträge; sie bedürfen der Genehmigung durch die Regierung.\n3) Die Motorfahrzeug-Haftpflichtversicherer erheben diese Beiträge gleichzeitig mit der Prämie.\n4) Der Staat ist von der Beitragspflicht ausgenommen.\n5) Die Regierung regelt die Berechnungsgrundlagen für den Beitrag und dessen Genehmigung."
+    },
+    {
+      "provision_ref": "art72b",
+      "chapter": "Besondere Fälle",
+      "section": "72b",
+      "title": "Art. 72b Gemeinsame Bestimmungen für das Nationale Versicherungsbüro und den Nationalen Garantiefonds",
+      "content": "1) Geschädigte haben ein Forderungsrecht unmittelbar gegen das Nationale Versicherungsbüro und den Nationalen Garantiefonds.\n2) Das Nationale Versicherungsbüro und der Nationale Garantiefonds stehen unter der Aufsicht der Regierung.\n3) Personen, die Aufgaben des Nationalen Versicherungsbüros und des Nationalen Garantiefonds wahrnehmen oder deren Ausführung beaufsichtigen, sind Dritten gegenüber zur Verschwiegenheit verpflichtet. Sie sind zur Erfüllung der ihnen übertragenen Aufgaben befugt, die dafür benötigten personenbezogenen Daten, einschliesslich besonderer Kategorien personenbezogener Daten, zu verarbeiten oder verarbeiten zu lassen.\n4) Das Nationale Versicherungsbüro und der Nationale Garantiefonds können: a) ihre Mitglieder oder Dritte mit der Erfüllung der ihnen obliegenden Aufgaben betrauen und einen geschäftsführenden Versicherer bezeichnen;\nb) mit anderen nationalen Versicherungsbüros und nationalen Garantiefonds sowie mit ausländischen Stellen, die gleichartige Aufgaben wahrnehmen, Vereinbarungen zur Erleichterung des grenzüberschreitenden Verkehrs und über den Schutz von Verkehrsopfern im grenzüberschreitenden Verkehr abschliessen.\n5) Die Regierung erlässt Bestimmungen über die Aufgaben und Befugnisse des Nationalen Versicherungsbüros und des Nationalen Garantiefonds betreffend: a) Schadendeckung im In- und Ausland;\nb) Förderung und Entwicklung des Versicherungsschutzes und des Verkehrsopferschutzes im grenzüberschreitenden Verkehr."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "Besondere Fälle",
+      "section": "73",
+      "title": "Art. 73 Nicht versicherte Fahrzeuge",
+      "content": "1) Gibt die Regierung Fahrzeugausweise und Kontrollschilder für Motorfahrzeuge ab, ohne dass die vorgeschriebene Versicherung besteht, haftet der Staat im Rahmen der gesetzlichen Mindestversicherung für den Schaden, für den die Halter der Motorfahrzeuge aufzukommen haben. Er haftet in gleicher Weise, wenn er es versäumt, Fahrzeugausweis und Kontrollschilder innert 60 Tagen nach der Meldung des Versicherers im Sinne von Art. 64 oder nach der Meldung des Halters über die endgültige Ausserverkehrsetzung eines Fahrzeuges einzuziehen.\n2) Der Staat oder sein Versicherer hat den Rückgriff gegen den Halter, der nicht im guten Glauben war, er sei durch die vorgeschriebene Versicherung gedeckt."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Besondere Fälle",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "Besondere Fälle",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art75a",
+      "chapter": "Besondere Fälle",
+      "section": "75a",
+      "title": "Art. 75a Auskunftsstelle",
+      "content": "1) Die Auskunftsstelle erteilt berechtigten Personen, insbesondere Geschädigten und beteiligten Sozial- und Haftpflichtversicherern, die erforderlichen Auskünfte, damit sie Schadenersatzansprüche geltend machen können.\n2) Sie führt ein Verzeichnis der Polizeirapporte zu Unfällen, an denen eine Person mit Wohnsitz im Ausland oder ein im Ausland immatrikuliertes Fahrzeug beteiligt war.\n3) Die Regierung: a) bestimmt, welche Auskünfte zu erteilen sind;\nb) kann Behörden und Private verpflichten, der Auskunftsstelle die erforderlichen Daten zur Verfügung zu stellen;\nc) regelt die Einsicht in das Verzeichnis der Polizeirapporte;\nd) kann einschränkende oder ergänzende Bestimmungen zum Verzeichnis der Polizeirapporte erlassen."
+    },
+    {
+      "provision_ref": "art75b",
+      "chapter": "Besondere Fälle",
+      "section": "75b",
+      "title": "Art. 75b Schadenregulierungsbeauftragte",
+      "content": "1) In Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassene Versicherungsunternehmen sind verpflichtet, in jedem anderen Staat des Europäischen Wirtschaftsraumes einen Schadenregulierungsbeauftragten zu benennen. Sie übermitteln dessen Namen und Adresse den Auskunftsstellen dieser Staaten und der Auskunftsstelle nach Art. 75a.\n2) Die Regierung kann die Versicherungsunternehmen nach Abs. 1 zur Ernennung von Schadenregulierungsbeauftragten in weiteren Staaten verpflichten.\n3) Schadenregulierungsbeauftragte sind natürliche oder juristische Personen, die in ihrem Tätigkeitsstaat Versicherungsunternehmen mit Sitz in einem anderen Staat vertreten. Sie bearbeiten und regulieren nach den Bestimmungen von Art. 75c Haftpflichtansprüche, die Geschädigte mit Wohnsitz in ihrem Tätigkeitsstaat gegen das von ihnen vertretene Versicherungsunternehmen erheben.\n4) Sie müssen: a) in ihrem Tätigkeitsstaat domiziliert sein;\nb) über ausreichende Befugnisse verfügen, um das Versicherungsunternehmen gegenüber Geschädigten zu vertreten und deren Schadenersatzansprüche in vollem Umfang zu befriedigen;\nc) in der Lage sein, die Fälle in der Amtssprache beziehungsweise den Amtssprachen ihrer Tätigkeitsstaaten zu bearbeiten.\n5) Sie können auf Rechnung eines oder mehrerer Versicherungsunternehmen tätig sein."
+    },
+    {
+      "provision_ref": "art75c",
+      "chapter": "Besondere Fälle",
+      "section": "75c",
+      "title": "Art. 75c Schadenregulierung",
+      "content": "1) Die in Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungsunternehmen, die in Liechtenstein tätigen Schadenregulierungsbeauftragten, der Staat für seine Fahrzeuge, die nicht versichert sind, sowie das Nationale Versicherungsbüro und der Nationale Garantiefonds haben Geschädigten, die Haftpflichtansprüche gegen sie erheben, innert dreier Monate: a) ein begründetes Schadenersatzangebot vorzulegen, sofern die Haftung unstreitig und der Schaden beziffert worden ist;\nb) eine begründete Antwort auf die mit der Schadenersatzforderung gemachten Darlegungen zu erteilen, sofern die Haftung bestritten wird oder nicht eindeutig feststeht oder der Schaden nicht vollständig beziffert worden ist.\n2) Die dreimonatige Frist beginnt für die mit der Schadenersatzforderung konkret geltend gemachten Ansprüche mit dem Eingang der Ersatzforderung bei der vom Geschädigten angegangenen Stelle.\n3) Nach Ablauf der dreimonatigen Frist beginnt die Pflicht zur Leistung von Verzugszinsen. Weitergehende Ansprüche des Geschädigten bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art75d",
+      "chapter": "Besondere Fälle",
+      "section": "75d",
+      "title": "Art. 75d Entschädigungsstelle",
+      "content": "1) Geschädigte mit Wohnsitz in Liechtenstein können ihre Haftpflichtansprüche bei der Entschädigungsstelle des Nationalen Garantiefonds geltend machen, wenn: a) die zur Schadenregulierung angegangene Stelle ihren Verpflichtungen gemäss Art. 75c nicht nachgekommen ist;\nb) der leistungspflichtige ausländische Haftpflichtversicherer in Liechtenstein keinen Schadenregulierungsbeauftragten benannt hat;\nc) sie in einem ausländischen Staat, dessen nationales Versicherungsbüro dem System der grünen Karte beigetreten ist, durch ein Motorfahrzeug geschädigt worden sind, das nicht ermittelt werden kann oder dessen Versicherer nicht innert zweier Monate ermittelt werden kann.\n2) Keine Ansprüche gegen die Entschädigungsstelle bestehen, wenn die geschädigte Person: a) im In- oder Ausland gerichtliche Schritte zur Durchsetzung ihrer Ersatzansprüche eingeleitet hat; oder\nb) einen Schadenersatzanspruch direkt an den ausländischen Versicherer gerichtet und dieser innert dreier Monate eine begründete Antwort erteilt hat.\n4. Abschnitt\nVerhältnis zu andern Versicherungen"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "Verhältnis zu andern Versicherungen",
+      "section": "76",
+      "title": "Art. 76 Obligatorische Unfallversicherung",
+      "content": "Geschädigten, die nach dem Unfallversicherungsgesetz versichert sind, bleiben die Ansprüche aus diesem Gesetz unter Vorbehalt von Art. 44 des Unfallversicherungsgesetzes gewahrt.\n5. Abschnitt\nGemeinsame Bestimmungen"
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "77",
+      "title": "Art. 77 Versicherer",
+      "content": "1) Die durch dieses Gesetz vorgeschriebenen Versicherungen sind bei einem zum Geschäftsbetrieb im Fürstentum Liechtenstein zugelassenen Versicherungsunternehmen abzuschliessen.\n2) Vorbehalten bleiben: a) die Anerkennung der im Ausland abgeschlossenen Versicherungen für ausländische Fahrzeuge; und\nb) von der Regierung erlassene abweichende Bestimmungen für provisorisch immatrikulierte Fahrzeuge."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "78",
+      "title": "Art. 78 Verjährung",
+      "content": "1) Schadenersatz- und Genugtuungsansprüche aus Unfällen mit Motorfahrzeugen, Fahrrädern und fahrzeugähnlichen Geräten verjähren in zwei Jahren vom Tag hinweg, an dem der Geschädigte Kenntnis vom Schaden und von der Person des Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablauf von zehn Jahren vom Tag des Unfalls an. Wird die Klage aus einer strafbaren Handlung hergeleitet, für die das Strafgesetzbuch eine längere Verjährung vorsieht, so gilt diese auch für den Zivilanspruch.\n2) Die Unterbrechung der Verjährung gegenüber den Haftpflichtigen wirkt auch gegenüber dem Versicherer und umgekehrt.\n3) Der Regress unter den Haftpflichtigen aus einem Unfall mit Motorfahrzeugen, Fahrrädern und fahrzeugähnlichen Geräten und die übrigen in diesem Gesetz vorgesehenen Regressrechte verjähren in zwei Jahren vom Tag hinweg, an dem die zugrunde liegende Leistung vollständig erbracht und der Pflichtige bekannt wurde.\n4) Im übrigen gelten die Bestimmungen des ABGB."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "79",
+      "title": "Art. 79 Gerichtsstand",
+      "content": "Für Klagen aus Haftpflichtansprüchen ist das Fürstliche Landgericht in Vaduz zuständig. Art. 80 bleibt durch diese Regelung unberührt."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "80",
+      "title": "Art. 80 Unfälle im Ausland",
+      "content": "1) Für Schadenersatzklagen aus Unfällen mit Motorfahrzeugen, Fahrrädern oder fahrzeugähnlichen Geräten im Ausland gilt sowohl der Gerichtsstand des Unfallortes als auch des Wohnsitzes des Beklagten zur Zeit der Klageerhebung; Art. 79 dieses Gesetzes ist nicht anwendbar.\n2) Verursacht ein mit gültigen liechtensteinischen Kontrollschildern versehenes Motorfahrzeug, ein Fahrrad oder ein fahrzeugähnliches Gerät einen Unfall im Ausland, so wendet das liechtensteinische Gericht die Haftpflicht- und Versicherungsbestimmungen dieses Gesetzes an auf Ansprüche: a) aus dem Schaden von Personen, die mit einem solchen Motorfahrzeug gegen Entgelt befördert wurden und die Fahrt im Fürstentum Liechtenstein angetreten haben oder beenden wollten;\nb) von Geschädigten, die zur Zeit des Unfalles ihren Wohnsitz im Fürstentum Liechtenstein hatten."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "81",
+      "title": "Art. 81 Beweiswürdigung",
+      "content": "Bei Streitigkeiten über Ansprüche aus Unfällen mit Motorfahrzeugen, Fahrrädern und fahrzeugähnlichen Geräten beurteilt das Gericht die Tatsachen nach dem Grundsatz der freien Beweiswürdigung."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "82",
+      "title": "Art. 82 Vereinbarungen",
+      "content": "1) Vereinbarungen, welche die Haftpflicht nach diesem Gesetz wegbedingen oder beschränken, sind nichtig.\n2) Vereinbarungen, die offensichtlich unzulängliche Entschädigungen festsetzen, sind binnen Jahresfrist seit ihrem Abschluss anfechtbar."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "83",
+      "title": "Art. 83 Bedingungen des Regresses",
+      "content": "Wird einem Geschädigten durch Versicherungsleistungen der Schaden nicht voll gedeckt, so können Versicherer ihre Regressrechte gegen den Haftpflichtigen oder dessen Haftpflichtversicherer nur geltend machen, soweit dadurch der Geschädigte nicht benachteiligt wird."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "Gemeinsame Bestimmungen",
+      "section": "84",
+      "title": "Art. 84 Zusatzbestimmungen über Haftpflicht und Versicherung",
+      "content": "1) Die Regierung kann Motorfahrzeuge von geringer Motorkraft oder Geschwindigkeit und solche, die selten auf öffentlichen Strassen verwendet werden, von den Bestimmungen dieses Teils ganz oder teilweise ausnehmen.\n2) Sie erlässt die erforderlichen Vorschriften über die Versicherung bei Händlerschildern, Wechselschildern und in ähnlichen Fällen.\nV. Teil\nStrafbestimmungen"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "Strafbestimmungen",
+      "section": "85",
+      "title": "Art. 85 Verletzung der Verkehrsregeln",
+      "content": "1) Wer Verkehrsregeln dieses Gesetzes oder der aufgrund desselben erlassenen Verordnungen verletzt, wird wegen Übertretung mit einer Busse bis zu 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft.\n2) Wer durch grobe Verletzung der Verkehrsregeln eine ernstliche Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt, wird wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "Strafbestimmungen",
+      "section": "86",
+      "title": "Art. 86 Fahren in fahrunfähigem Zustand und Missachtung des Verbots, unter Alkoholeinfluss zu fahren",
+      "content": "1) Wer in fahrunfähigem Zustand ein Motorfahrzeug führt, wird wegen Übertretung mit einer Busse bis zu 50 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu sechs Monaten bestraft.\n2) Wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten, wird bestraft, wer: a) das Verbot, unter Alkoholeinfluss zu fahren, missachtet, sofern die Tat nicht nach Abs. 1 strafbar ist;\nb) in fahrunfähigem Zustand ein motorloses Fahrzeug führt."
+    },
+    {
+      "provision_ref": "art86a",
+      "chapter": "Strafbestimmungen",
+      "section": "86a",
+      "title": "Art. 86a Vereitelung von Massnahmen zur Feststellung der Fahrunfähigkeit",
+      "content": "1) Wer sich als Motorfahrzeugführer vorsätzlich einer Blutprobe oder einer von der Regierung geregelten Voruntersuchung (Art. 51), die angeordnet wurde oder mit deren Anordnung er rechnen musste, oder einer zusätzlichen ärztlichen Untersuchung widersetzt oder entzogen oder den Zweck dieser Massnahmen vereitelt hat, wird wegen Übertretung mit einer Busse bis zu 50 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu sechs Monaten bestraft.\n2) Hat der Täter ein motorloses Fahrzeug geführt oder war er als Strassenbenützer an einem Unfall beteiligt, so wird er wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "Strafbestimmungen",
+      "section": "87",
+      "title": "Art. 87 Pflichtwidriges Verhalten bei Unfall",
+      "content": "1) Wer bei einem Unfall die Pflichten verletzt, die ihm dieses Gesetz auferlegt, wird wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft.\n2) Ergreift ein Fahrzeugführer, der bei einem Verkehrsunfall einen Menschen getötet oder verletzt hat, die Flucht, so wird er wegen Vergehens mit einer Freiheitsstrafe bis zu drei Jahren bestraft."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "Strafbestimmungen",
+      "section": "88",
+      "title": "Art. 88 Nicht betriebssichere Fahrzeuge",
+      "content": "1) Wer die Betriebssicherheit eines Fahrzeuges beeinträchtigt, so dass die Gefahr eines Unfalles entsteht, wird wegen Übertretung mit einer Busse bis zu 50 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu sechs Monaten bestraft.\n2) Wer ein Fahrzeug führt, von dem er weiss oder bei pflichtgemässer Aufmerksamkeit wissen kann, dass es den Vorschriften nicht entspricht, wird wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft.\n3) Der Halter oder wer wie ein Halter für die Betriebssicherheit eines Fahrzeuges verantwortlich ist, untersteht der Strafdrohung des Abs. 2, wenn er wissentlich oder aus Sorglosigkeit den Gebrauch des nicht den Vorschriften entsprechenden Fahrzeuges duldet."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "Strafbestimmungen",
+      "section": "89",
+      "title": "Art. 89 Entwendung zum Gebrauch",
+      "content": "1) Aufgehoben\n2) Wer ein ihm anvertrautes Motorfahrzeug zu Fahrten verwendet, zu denen er offensichtlich nicht ermächtigt ist, wird wegen Übertretung mit einer Busse bis zu 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft.\n3) Wer ein Fahrrad unberechtigt verwendet, wird wegen Übertretung mit Busse bis zu 5 000 Franken, im Nichteinbringlichkeitsfalle mit bis zu einem Monat Freiheitsstrafe bestraft."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "Strafbestimmungen",
+      "section": "90",
+      "title": "Art. 90 Fahren ohne Berechtigung",
+      "content": "1) Wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten, wird bestraft, wer: a) ohne den erforderlichen Führerausweis ein Motorfahrzeug führt;\nb) ein Motorfahrzeug führt, obwohl ihm der Lernfahr- oder Führerausweis verweigert, entzogen oder aberkannt wurde;\nc) die mit dem Führerausweis im Einzelfall verbundenen Beschränkungen oder Auflagen missachtet;\nd) ein Motorfahrzeug einem Führer überlässt, von dem er weiss oder bei pflichtgemässer Aufmerksamkeit wissen kann, dass er den erforderlichen Ausweis nicht hat;\ne) ohne Lernfahrausweis oder ohne die vorgeschriebene Begleitung Lernfahrten ausführt;\nf) bei einer Lernfahrt die Aufgabe des Begleiters übernimmt, ohne die Voraussetzungen zu erfüllen;\ng) ohne Fahrlehrerbewilligung gewerbsmässig Fahrunterricht erteilt.\n2) Aufgehoben\n3) Wer ein Fahrrad führt, obwohl ihm das Rad fahren untersagt wurde, wird wegen Übertretung mit einer Busse bis zu 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft.\n4) Wer ein Tierfuhrwerk führt, obwohl ihm das Führen eines Tierfuhrwerkes untersagt wurde, wird wegen Übertretung mit einer Busse bis zu 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "Strafbestimmungen",
+      "section": "91",
+      "title": "Art. 91 Fahren ohne Fahrzeugausweis, Bewilligung oder Haftpflichtversicherung",
+      "content": "1) Wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten, wird bestraft, wer: a) ohne den erforderlichen Fahrzeugausweis oder die Kontrollschilder ein Motorfahrzeug führt oder einen Anhänger mitführt;\nb) ohne Bewilligung Fahrten durchführt, die nach diesem Gesetz einer Bewilligung bedürfen;\nc) die mit dem Fahrzeugausweis oder der Bewilligung von Gesetzes wegen oder im Einzelfall verbundenen Beschränkungen oder Auflagen, namentlich über das zulässige Gesamtgewicht, missachtet.\n2) Wer ein Motorfahrzeug führt, obwohl er weiss oder bei pflichtgemässer Aufmerksamkeit wissen konnte, dass die vorgeschriebene Haftpflichtversicherung nicht besteht, wird wegen Übertretung mit einer Busse bis zu 50 000 Franken, im Nichteinbringlichkeitsfalle mit Freiheitsstrafe bis zu sechs Monaten bestraft.\n3) Der Halter oder wer an seiner Stelle über das Fahrzeug verfügt, untersteht den gleichen Strafandrohungen, wenn er von den Widerhandlungen Kenntnis hatte oder bei pflichtgemässer Aufmerksamkeit haben konnte."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "Strafbestimmungen",
+      "section": "92",
+      "title": "Art. 92 Missbrauch von Ausweisen und Schildern",
+      "content": "1) Wegen Übertretung mit einer Busse bis zu 50 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu sechs Monaten wird bestraft, wer: a) Ausweise und Kontrollschilder verwendet, die nicht für ihn oder sein Fahrzeug bestimmt sind;\nb) ungültige oder entzogene Ausweise oder Kontrollschilder trotz behördlicher Aufforderung nicht abgibt;\nc) andern Ausweise oder Kontrollschilder zur Verwendung überlässt, die nicht für sie oder ihre Fahrzeuge bestimmt sind;\nd) vorsätzlich durch unrichtige Angaben, Verschweigen erheblicher Tatsachen oder Vorlage von falschen Bescheinigungen einen Ausweis oder eine Bewilligung erschleicht;\ne) Kontrollschilder verfälscht oder falsche zur Verwendung herstellt;\nf) falsche oder verfälschte Kontrollschilder verwendet;\ng) sich vorsätzlich Kontrollschilder widerrechtlich aneignet, um sie zu verwenden oder andern zum Gebrauch zu überlassen.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "Strafbestimmungen",
+      "section": "93",
+      "title": "Art. 93 Signale und Markierungen",
+      "content": "Wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten, wird bestraft, wer: a) vorsätzlich ein Signal versetzt oder beschädigt;\nb) vorsätzlich ein Signal oder eine Markierung entfernt, unleserlich macht oder verändert;\nc) eine von ihm unabsichtlich verursachte Beschädigung eines Signals nicht der Landespolizei meldet;\nd) ohne behördliche Ermächtigung ein Signal oder eine Markierung anbringt."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "Strafbestimmungen",
+      "section": "94",
+      "title": "Art. 94 Weitere Widerhandlungen",
+      "content": "1) Wegen Übertretung mit einer Busse bis zu 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat wird bestraft, wer: a) Fahrzeuge, Bestandteile oder Ausrüstungsgegenstände, die der Typengenehmigung unterliegen, in nicht genehmigter Ausführung in den Handel bringt;\nb) als Halter nach Übernahme eines Motorfahrzeuges oder Motorfahrzeuganhängers von einem anderen Halter nicht fristgemäss einen neuen Fahrzeugausweis einholt;\nc) als Fahrzeugführer die erforderlichen Ausweise oder Bewilligungen nicht mit sich führt;\nd) sich weigert, den Polizeiorganen auf Verlangen die erforderlichen Ausweise oder Bewilligungen vorzuweisen.\ne) Aufgehoben\nf) Aufgehoben\n2) Wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten wird bestraft, wer: a) die besonderen Warnsignale der Feuerwehr, der Sanität, der Polizei, des Zolls oder der Bergpost nachahmt;\nb) sich die Verwendung von Kennzeichen der Verkehrspolizei anmasst;\nc) unerlaubterweise an Motorfahrzeugen Lautsprecher verwendet;\nd) unerlaubterweise motor- oder radsportliche Veranstaltungen oder Versuchsfahrten durchführt oder bei bewilligten Veranstaltungen dieser Art die verlangten Sicherheitsmassnahmen nicht trifft;\ne) Geräte oder Vorrichtungen, welche die behördliche Kontrolle des Strassenverkehrs erschweren, stören oder unwirksam machen können, in Verkehr bringt, erwirbt, in Fahrzeuge einbaut, darin mitführt, an ihnen befestigt oder in irgendeiner Form verwendet."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "Strafbestimmungen",
+      "section": "95",
+      "title": "Art. 95 Strafbarkeit",
+      "content": "1) Bestimmt es dieses Gesetz nicht ausdrücklich anders, so ist auch die fahrlässige Handlung strafbar.\n1a) Ist das Verschulden gering und sind die Folgen einer Übertretung unbedeutend, so ist die Tat nicht strafbar. Unter denselben Voraussetzungen können die Landes- und Gemeindepolizei von der Verhängung einer Ordnungsbusse oder von der Erstattung einer Anzeige absehen; sie können den Täter in solchen Fällen in geeigneter Weise auf die Rechtswidrigkeit seines Verhaltens aufmerksam machen.\n2) Der Arbeitgeber oder Vorgesetzte, der eine nach diesem Gesetz strafbare Handlung des Motorfahrzeugführers veranlasst oder nicht nach seinen Möglichkeiten verhindert hat, untersteht der gleichen Strafandrohung wie der Führer.\n3) Für strafbare Handlungen aus Lernfahrten ist der Begleiter verantwortlich, wenn er die Pflichten verletzt hat, die ihm als Folge der Übernahme der Begleitung oblagen. Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand seiner Ausbildung hätte vermeiden können.\n4) Missachtet der Führer eines Feuerwehr-, Sanitäts-, Polizei- oder Zollfahrzeugs auf dringlichen oder taktisch notwendigen Dienstfahrten Verkehrsregeln oder besondere Anordnungen für den Verkehr, so macht er sich nicht strafbar, wenn er alle Sorgfalt walten lässt, die nach den Umständen erforderlich ist. Auf dringlichen Dienstfahrten ist die Missachtung nur dann nicht strafbar, wenn der Führer zudem die erforderlichen Warnsignale abgibt; die Abgabe der Warnsignale ist ausnahmsweise nicht erforderlich, wenn sie der Erfüllung der gesetzlichen Aufgabe entgegensteht. Hat der Führer nicht die Sorgfalt walten lassen, die nach den Umständen erforderlich war, oder hat er auf dringlichen Dienstfahrten nicht die erforderlichen Warnsignale abgegeben, so kann die Strafe gemildert werden."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "Strafbestimmungen",
+      "section": "96",
+      "title": "Art. 96 Verhältnis zu andern Strafgesetzen",
+      "content": "1) Die allgemeinen Bestimmungen des Strafgesetzbuches sind anwendbar, soweit dieses Gesetz keine abweichenden Vorschriften enthält.\n2) Die besonderen Bestimmungen des Strafgesetzbuches bleiben vorbehalten; Art. IX Abs. 1 des Strafrechtsanpassungsgesetzes ist nicht anwendbar."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "Strafbestimmungen",
+      "section": "97",
+      "title": "Art. 97 Ergänzende Strafbestimmungen, Strafverfolgung, Strafkontrolle",
+      "content": "1) Die Verletzung von Vorschriften, die in Verordnungen zu diesem Gesetz erlassen werden, wird wegen Übertretung mit einer Busse bis zu 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft. Die Regierung ist ermächtigt, mit Verordnung die zuständige Strafbehörde zu bestimmen.\n1a) Die Regierung kann zur Umsetzung internationaler Verpflichtungen mit Verordnung im Ausland begangene Widerhandlungen gegen die Vorschriften über die Arbeits-, Lenk- und Ruhezeit für Motorfahrzeugführer als Übertretung nach Abs. 1 für strafbar erklären.\n2) Die Regierung kann Vorschriften erlassen über die Strafkontrolle für Entscheide, die nicht in das Strafregister eingetragen werden.\nVI. Teil\nAusführungs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "98",
+      "title": "Art. 98 Strafbehörden und Verfahren",
+      "content": "1) Strafbehörden sind die Regierung und die ordentlichen Gerichte nach Massgabe folgender Bestimmungen: a) Die Regierung ist Strafbehörde für Übertretungen dieses Gesetzes, soweit sie: aa) Radfahrer,\nbb) Fussgänger,\ncc) Tierfuhrwerke,\ndd) Reiter und Tiere,\nee) Aufgehoben\nff) Zuwiderhandlungen gegen die Vorschriften über das Parken und Anhalten von Motorfahrzeugen, das Fahrverbot für Motorfahrzeuge und das Mitführen der Ausweise oder Bewilligungen betreffen.\nWenn zugleich ein Tatbestand des Strafgesetzbuches oder ein Tatbestand, welcher gemäss Bst. b in den Zuständigkeitsbereich der ordentlichen Gerichte fällt, erfüllt ist, sind die ordentlichen Gerichte auch Strafbehörde bei Übertretungen gemäss Bst. aa bis ff. Die ordentlichen Gerichte sind ebenso Strafbehörde für Übertretungen gemäss Bst. aa bis ff, wenn bei Verkehrsunfällen von den verschieden involvierten Verkehrsteilnehmern neben Tatbeständen des Strafgesetzbuches oder gemäss Bst. b, auch Tatbestände nach Bst. aa bis ff erfüllt sind.\nb) Die ordentlichen Gerichte sind in allen übrigen, unter Bst. a nicht genannten Fällen Strafbehörden.\n2) Das Strafverfahren richtet sich vor den ordentlichen Gerichten nach den Bestimmungen der Strafprozessordnung und vor der Regierung nach den Vorschriften des Verwaltungsstrafgesetzes über das Verwaltungsstrafverfahren.\n3) Die Regierung ist ermächtigt, durch Verordnung die Landespolizei und die Gemeindevorsteher mit dem Erlass von Strafverfügungen (Art. 53 VStG) zum Zwecke der Strafverfolgung im Sinne des Abs. 1 Bst. a zu beauftragen.\n3a) Im Falle der Beauftragung der Landespolizei oder Gemeindevorsteher zum Erlass von Strafverfügungen gemäss Abs. 3 ist für die Erledigung von Beschwerden gegen Strafverfügungen bzw. Verwaltungsstrafentscheide der Landespolizei bzw. Gemeindevorsteher die Beschwerdekommission für Verwaltungsangelegenheiten zuständig.\n4) Vorbehalten bleibt die Verhängung von Ordnungsbussen im vereinfachten Verfahren."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99",
+      "title": "Art. 99 Durchführung des Gesetzes",
+      "content": "1) Die Regierung ist mit der Durchführung dieses Gesetzes beauftragt. Sie erlässt die nötigen Durchführungsverordnungen.\n2) Die Regierung kann mit Verordnung die ihr in diesem Gesetz übertragenen Aufgaben und Befugnisse untergeordneten Amtsstellen übertragen. Die Erteilung von Bewilligungen für Strassenreklamen und von Ausnahmebewilligungen für das Befahren von mit einem Fahrverbot belegten Strassen kann sie auch an die Gemeindevorsteher übertragen.\n2a) Im Falle der Delegation von Aufgaben gemäss Abs. 2 ist für die Erledigung von Beschwerden gegen Verfügungen oder Entscheidungen der Amtsstellen oder Gemeindevorsteher die Beschwerdekommission für Verwaltungsangelegenheiten zuständig. Die Beschwerdefrist beträgt 14 Tage ab Zustellung der Verfügung oder Entscheidung.\n3) Die Regierung kann beim Auftreten neuer technischer Erscheinungen auf dem Gebiete des Strassenverkehrs sowie zur Durchführung zwischenstaatlicher Vereinbarungen die vorläufigen Massnahmen treffen, die sich bis zur gesetzlichen Regelung als notwendig erweisen.\n4) Die Regierung kann für die Personen, die im Genuss der diplomatischen Vorrechte und Befreiungen stehen, die Zuständigkeit der Behörden abweichend regeln und die weiteren Ausnahmen von diesem Gesetz vorsehen, die sich aus den völkerrechtlichen Gepflogenheiten ergeben.\n5) Aufgehoben\n6) Die Regierung kann Fahrten ausländischer Fahrzeuge verbieten, kontingentieren, der Bewilligungspflicht unterstellen oder andern Beschränkungen unterwerfen, wenn ein ausländischer Staat gegenüber liechtensteinischen Fahrzeugen und deren Führern solche Massnahmen anordnet oder strengere Verkehrsvorschriften anwendet als für die eigenen Fahrzeuge und deren Führer.\n7) Aufgehoben\n8) Die Regierung kann die Ausführung bestimmter Arbeiten an Fahrzeugen, soweit die Verkehrssicherheit oder der Umweltschutz dies erfordern, einer Bewilligungspflicht unterstellen. Sie legt die Bewilligungsvoraussetzungen fest und regelt die Aufsicht.\n9) Aufgehoben\n10) Aufgehoben"
+    },
+    {
+      "provision_ref": "art99a",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99a",
+      "title": "Art. 99a Meldungen",
+      "content": "Die Landespolizei und die Strafbehörden haben von allen Widerhandlungen, die eine in diesem Gesetz vorgesehene Massnahme nach sich ziehen könnte, der zuständigen Behörde Kenntnis zu geben."
+    },
+    {
+      "provision_ref": "art99b",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99b",
+      "title": "Art. 99b Fahrzeug- und Fahrzeughalterregister",
+      "content": "1) Das Amt für Strassenverkehr führt ein Fahrzeug- und Fahrzeughalterregister und verarbeitet zu diesem Zweck folgende Daten: a) in Liechtenstein gegenwärtig oder früher zugelassene Fahrzeuge;\nb) Namen, Geburtsdaten, Adressen und Heimatstaaten/-orte der Fahrzeughalter sowie Angaben zu deren Haftpflichtversicherung.\n2) Das Register dient der Erfüllung folgender gesetzlicher Aufgaben: a) Kontrolle der Verkehrszulassung, Fahrzeugprüfung, Fahrzeugversicherung, Verzollung und Versteuerung nach dem Gesetz vom 14. September 1994 über die Motorfahrzeugsteuer;\nb) Identifikation des Halters, Verkehrsopferschutz und Fahndung.\n3) Folgende Stellen können durch ein Abrufverfahren Einsicht in das Register nehmen: a) die Polizeiorgane des Landes und der Gemeinden in die erforderlichen Daten für die Kontrolle der Verkehrszulassung, die Identifikation des Halters und seines Versicherers sowie, im Falle der Landespolizei, die Fahndung;\nb) das Amt für Volkswirtschaft zur Prüfung und Abgleichung der Fahrzeug- und Fahrzeughalterdaten im Zusammenhang mit dem Register der Strassentransportunternehmer und der Aufgabenerfüllung nach dem Strassentransportgesetz;\nc) die Steuerverwaltung in die erforderlichen Daten zur Kontrolle der Angaben der Steuerpflichtigen in ihren Steuererklärungen;\nd) die Stabsstelle FIU in die erforderlichen Daten zur Verhinderung, Aufdeckung und wirksamen Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei, organisierter Kriminalität und Terrorismusfinanzierung.\n3bis) Das Nationale Versicherungsbüro und der Nationale Garantiefonds können beim Amt für Strassenverkehr Einsicht in die Registereinträge nehmen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Diese sind im Rahmen der Bestimmungen dieses Gesetzes befugt, Daten aus dem Register an Dritte weiterzugeben.\n4) Das Amt für Strassenverkehr muss einer Person, die ein zureichendes Interesse glaubhaft machen kann, die Namen von Fahrzeughaltern und ihre Versicherer bekannt geben.\n5) Das Amt für Strassenverkehr ist im Rahmen des Abkommens vom 27. Juni 2019 zwischen der Europäischen Union und dem Fürstentum Liechtenstein zur Beteiligung an Prüm die nationale Kontaktstelle für den Austausch von Daten über Eigentümer oder Halter von Fahrzeugen sowie von Fahrzeugdaten nach Art. 12 Abs. 2 des Beschlusses 2008/615/JI . Als Kontaktstelle gewährt es dem ersuchenden teilnehmenden Staat Zugang auf die Fahrzeug- und Fahrzeughalterdaten im Fahrzeug- und Fahrzeughalterregister zu den Zwecken nach Art. 12 Abs. 1 des Beschlusses 2008/615/JI; der Zugang zu den Daten erfolgt nach Art. 15 sowie Kapitel 3 des Anhangs des Beschlusses 2008/616/JI .\n6) Die Landespolizei kann im Rahmen des Abkommens zur Beteiligung an Prüm für die Zwecke nach Art. 12 Abs. 1 des Beschlusses 2008/615/JI über das Amt für Strassenverkehr Daten über Eigentümer oder Halter von Fahrzeugen sowie von Fahrzeugdaten in den entsprechenden Informationssystemen der anderen teilnehmenden Staaten abrufen."
+    },
+    {
+      "provision_ref": "art99c",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99c",
+      "title": "Art. 99c Administrativmassnahmenregister",
+      "content": "1) Das Amt für Strassenverkehr führt ein Administrativmassnahmenregister und verarbeitet zu diesem Zweck die Daten aller von liechtensteinischen Behörden verfügten oder von ausländischen Behörden gegen Personen mit Wohnsitz in Liechtenstein angeordneten Administrativmassnahmen, nämlich: a) Verweigerung und Entzug von Ausweisen und Bewilligungen;\nb) Fahrverbot;\nc) Aberkennung liechtensteinischer Führerausweise durch ausländische Behörden;\nd) Aberkennung ausländischer Führerausweise;\ne) Verwarnung;\nf) verkehrspsyochologische und medizinische Untersuchungen;\ng) Auflagen;\nh) neue Führerprüfung;\ni) Teilnahme am Verkehrsunterricht zur Nachschulung;\nk) Aufhebung oder Abänderung von Massnahmen nach den Bst. a bis i.\n2) Das Register dient der Erfüllung folgender gesetzlicher Aufgaben: a) Erteilung von Lernfahr- und Führerausweisen sowie Fahrlehrerbewilligungen;\nb) Durchführung von Administrativ- und Strafverfahren gegen Fahrzeugführer;\nc) Erstellung der Statistik der Administrativmassnahmen.\n3) Im Rahmen von Verfahren zur Beurteilung von Strassenverkehrswiderhandlungen können die Strafverfolgungs- und Gerichtsbehörden beim Amt für Strassenverkehr Einsicht in die Registereinträge nehmen."
+    },
+    {
+      "provision_ref": "art99d",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99d",
+      "title": "Art. 99d Fahrberechtigungsregister",
+      "content": "1) Das Amt für Strassenverkehr führt ein Fahrberechtigungsregister und verarbeitet zu diesem Zweck folgende Daten: a) die von liechtensteinischen oder ausländischen Behörden für Personen mit Wohnsitz in Liechtenstein erteilten Fahrberechtigungen;\nb) die von liechtensteinischen Behörden verfügten aktuellen Führerausweisentzüge, Verweigerungen, Aberkennungen und Fahrverbote;\nc) die von ausländischen Behörden verfügten aktuellen Führerausweisentzüge, Verweigerungen, Aberkennungen und Fahrverbote gegenüber Personen mit Wohnsitz in Liechtenstein sowie gegenüber Personen, die einen liechtensteinischen Lernfahr- oder Führerausweis besitzen;\nd) Namen, Geburtsdaten, Adressen und Heimatstaaten/-orte der Fahrlehrer mit Wohnsitz in Liechtenstein;\ne) Datum und Ergebnis der ärztlichen Untersuchungen für die Zulassung von Personen zum Strassenverkehr.\n2) Das Register dient der Erfüllung folgender gesetzlicher Aufgaben: a) Erteilung von Lernfahr- und Führerausweisen sowie Fahrlehrerbewilligungen;\nb) Erstellung der Statistik der Fahrberechtigungen.\n3) Folgende Behörden können beim Amt für Strassenverkehr Auskunft über Registereinträge verlangen: a) die Strafverfolgungs- und Gerichtsbehörden im Rahmen von Verfahren zur Beurteilung von Strassenverkehrswiderhandlungen;\nb) die Polizeiorgane betreffend die für die Kontrolle der Fahrberechtigungen erforderlichen Daten."
+    },
+    {
+      "provision_ref": "art99e",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99e",
+      "title": "Art. 99e Durchführungsverordnung",
+      "content": "Die Regierung regelt die Einzelheiten über die Führung und Nutzung der Register nach den Art. 99b bis 99d, insbesondere: a) die Verantwortung für die Datenverarbeitung;\nb) den Katalog der zu erfassenden Daten und deren Aufbewahrungsfristen;\nc) das Meldeverfahren;\nd) die Datenberichtigung;\ne) die Organisation und den Betrieb eines automatisierten Datensystems;\nf) die Zusammenarbeit der betroffenen Behörden;\ng) die Behörden, denen Daten im Einzelfall bekannt gegeben werden können;\nh) die Datensicherheit."
+    },
+    {
+      "provision_ref": "art99f",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "99f",
+      "title": "Art. 99f Völkerrechtliche Verträge",
+      "content": "1) Die Regierung kann mit ausländischen Staaten Verträge über den grenzüberschreitenden Motorfahrzeugverkehr abschliessen. Im Rahmen solcher Verträge kann sie: a) auf den Umtausch des Führerausweises bei Wohnsitzwechsel über die Landesgrenzen verzichten;\nb) Bewilligungen vorsehen für Fahrten von liechtensteinischen und ausländischen Fahrzeugen, welche die in Art. 8 festgelegten Gewichte überschreiten; die Bewilligungen erteilt sie nur ausnahmsweise und soweit es die Interessen der Verkehrssicherheit und des Umweltschutzes gestatten.\n2) Die Regierung kann völkerrechtliche Verträge über den Bau und die Ausrüstung von Fahrzeugen, die Ausrüstung der Fahrzeugbenützer und die gegenseitige Anerkennung damit zusammenhängender Prüfungen abschliessen.\n3) Die Regierung kann mit ausländischen Staaten Verträge über den gegenseitigen Austausch von Fahrzeughalter-, Fahrberechtigungs- und Motorfahrzeugdaten sowie die Vollstreckung von Geldstrafen oder Bussen bei Widerhandlungen gegen Strassenverkehrsvorschriften abschliessen. Die Verträge können vorsehen, dass nicht vollstreckbare Geldstrafen oder Bussen in Freiheitsstrafen umgewandelt werden.\n4) Die Regierung kann mit der Schweiz Vereinbarungen über die Beteiligung an der Führung und Nutzung von automatisierten schweizerischen Registern, welche mit jenen der Art. 99b bis 99d vergleichbar sind oder die Fahrzeugtypen und Fahrtschreiberkarten zum Gegenstand haben, unter Vorbehalt der Bestimmungen über den Datenschutz abschliessen.\n5) Die Regierung kann mit ausländischen Staaten Vereinbarungen über die Wahrnehmung der Aufgaben des Nationalen Versicherungsbüros und des Nationalen Garantiefonds abschliessen."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "100",
+      "title": "Art. 100 Gebühren",
+      "content": "Die Regierung ist ermächtigt, die Erhebung von Gebühren mit Verordnung zu regeln."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "101",
+      "title": "Art. 101 Ausserkraftsetzung",
+      "content": "Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben: a) das Gesetz über den Strassenverkehr vom 22. Dezember 1959, LGBl. 1960 Nr. 3,\nb) das Gesetz vom 24. Juli 1963 betreffend die Abänderung des Gesetzes über den Strassenverkehr, LGBl. 1963 Nr. 30,\nc) das Gesetz vom 27. September 1972 betreffend die Abänderung des Gesetzes über den Strassenverkehr, LGBl. 1972 Nr. 53,\nd) das Gesetz vom 11. Dezember 1975 betreffend die Abänderung des Gesetzes über den Strassenverkehr, LGBl. 1975 Nr. 65."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "Ausführungs- und Schlussbestimmungen",
+      "section": "102",
+      "title": "Art. 102 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am 1. September 1978 in Kraft.\ngez. Franz Josef\ngez. Hans Brunhart\nFürstlicher Regierungschef\nÜbergangs- und Inkrafttretensbestimmungen\n741.01 Strassenverkehrsgesetz (SVG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2024 Nr. 495 ausgegeben am 23. Dezember 2024\nGesetz\nvom 8. November 2024\nüber die Abänderung des Strassenverkehrsgesetzes\n...\nIII.\nInkrafttreten\n1) Dieses Gesetz tritt vorbehaltlich Abs. 2 gleichzeitig mit dem Notenaustausch vom 3. September 2024/17. Dezember 2024 zur Änderung des Notenaustausches zwischen der Schweiz und dem Fürstentum Liechtenstein über die Schadensdeckung bei Strassenverkehrsunfällen in Kraft.\n...\n1\nTitel abgeändert durch LGBl. 2006 Nr. 154 .\n2\nArt. 1 Abs. 1 abgeändert durch LGBl. 2011 Nr. 557 .\n3\nArt. 2 Sachüberschrift abgeändert durch LGBl. 1988 Nr. 54 .\n4\nArt. 2 Abs. 1 abgeändert durch LGBl. 1988 Nr. 54 .\n5\nArt. 2 Abs. 2 abgeändert durch LGBl. 1988 Nr. 54 .\n6\nArt. 2 Abs. 3 abgeändert durch LGBl. 2006 Nr. 154 .\n7\nArt. 3 Abs. 2 abgeändert durch LGBl. 2022 Nr. 56 .\n8\nArt. 8 abgeändert durch LGBl. 2006 Nr. 154 .\n9\nArt. 9 Abs. 3 aufgehoben durch LGBl. 2003 Nr. 139 .\n10\nArt. 11 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 154 .\n11\nArt. 11 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2006 Nr. 154 .\n12\nArt. 11 Abs. 1 Bst. c abgeändert durch LGBl. 2006 Nr. 154 .\n13\nArt. 11 Abs. 2 abgeändert durch LGBl. 2006 Nr. 154 .\n14\nArt. 11 Abs. 3 abgeändert durch LGBl. 2006 Nr. 154 .\n15\nArt. 11 Abs. 4 eingefügt durch LGBl. 2006 Nr. 154 .\n16\nArt. 11 Abs. 5 eingefügt durch LGBl. 2006 Nr. 154 .\n17\nArt. 12 Abs. 2 abgeändert durch LGBl. 2006 Nr. 154 .\n18\nArt. 13 abgeändert durch LGBl. 2020 Nr. 17 .\n19\nArt. 13a eingefügt durch LGBl. 2020 Nr. 17 .\n20\nArt. 14 Sachüberschrift abgeändert durch LGBl. 2020 Nr. 17 .\n21\nArt. 14 Abs. 1 abgeändert durch LGBl. 1992 Nr. 45 .\n22\nArt. 14 Abs. 3 abgeändert durch LGBl. 2020 Nr. 17 .\n23\nArt. 14 Abs. 4 abgeändert durch LGBl. 2020 Nr. 17 .\n24\nArt. 14a eingefügt durch LGBl. 2020 Nr. 17 .\n25\nArt. 14b eingefügt durch LGBl. 2020 Nr. 17 .\n26\nArt. 14c eingefügt durch LGBl. 2020 Nr. 17 .\n27\nArt. 15 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n28\nArt. 15 Abs. 3 Bst. b abgeändert durch LGBl. 2006 Nr. 154 .\n29\nArt. 15 Abs. 3 Bst. g abgeändert durch LGBl. 2006 Nr. 154 .\n30\nArt. 15 Abs. 3a eingefügt durch LGBl. 2020 Nr. 17 .\n31\nArt. 15 Abs. 4 abgeändert durch LGBl. 2003 Nr. 139 .\n32\nSachüberschrift vor Art. 16 eingefügt durch LGBl. 2020 Nr. 17 .\n33\nArt. 16 Sachüberschrift abgeändert durch LGBl. 2020 Nr. 17 .\n34\nArt. 16 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2020 Nr. 17 .\n35\nArt. 16 Abs. 1 Bst. b abgeändert durch LGBl. 2006 Nr. 154 .\n36\nArt. 16 Abs. 1 Bst. bbis eingefügt durch LGBl. 2006 Nr. 154 .\n37\nArt. 16 Bst. c abgeändert durch LGBl. 2020 Nr. 17 .\n38\nArt. 16 Abs. 1 Bst. d abgeändert durch LGBl. 2006 Nr. 154 .\n39\nArt. 16 Abs. 1bis aufgehoben durch LGBl. 2020 Nr. 17 .\n40\nArt. 16 Abs. 2 aufgehoben durch LGBl. 2020 Nr. 17 .\n41\nArt. 16 Abs. 3 aufgehoben durch LGBl. 2020 Nr. 17 .\n42\nArt. 16a eingefügt durch LGBl. 2020 Nr. 17 .\n43\nArt. 16b eingefügt durch LGBl. 2020 Nr. 17 .\n44\nArt. 17 Abs. 1 abgeändert durch LGBl. 2011 Nr. 557 .\n45\nArt. 17 Abs. 2 abgeändert durch LGBl. 2011 Nr. 557 .\n46\nArt. 18 Abs. 1 abgeändert durch LGBl. 2020 Nr. 17 .\n47\nArt. 18 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n48\nArt. 20 abgeändert durch LGBl. 2020 Nr. 17 .\n49\nArt. 23 Abs. 2 Bst. h aufgehoben durch LGBl. 2011 Nr. 557 .\n50\nArt. 23 Abs. 3 Bst. f eingefügt durch LGBl. 2020 Nr. 17 .\n51\nArt. 23 Abs. 3 Bst. g eingefügt durch LGBl. 2020 Nr. 17 .\n52\nArt. 23 Abs. 3bis eingefügt durch LGBl. 1992 Nr. 45 .\n53\nArt. 25 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n54\nArt. 29 Abs. 2 abgeändert durch LGBl. 2006 Nr. 154 .\n55\nArt. 29 Abs. 2a eingefügt durch LGBl. 2020 Nr. 17 .\n56\nArt. 29 Abs. 2b eingefügt durch LGBl. 2020 Nr. 17 .\n57\nArt. 30 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n58\nArt. 30 Abs. 3 eingefügt durch LGBl. 2020 Nr. 17 .\n59\nArt. 30 Abs. 4 eingefügt durch LGBl. 2020 Nr. 17 .\n60\nArt. 38 Abs. 1 abgeändert durch LGBl. 2020 Nr. 17 .\n61\nArt. 38 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n62\nArt. 38 Abs. 2a eingefügt durch LGBl. 2020 Nr. 17 .\n63\nArt. 47 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n64\nArt. 47 Abs. 3 abgeändert durch LGBl. 2020 Nr. 17 .\n65\nArt. 50 abgeändert durch LGBl. 2020 Nr. 17 .\n66\nArt. 50a eingefügt durch LGBl. 2020 Nr. 17 .\n67\nArt. 51 abgeändert durch LGBl. 2006 Nr. 154 .\n68\nArt. 51 Abs. 1a eingefügt durch LGBl. 2020 Nr. 17 .\n69\nArt. 51 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n70\nArt. 52 Abs. 3 abgeändert durch LGBl. 1992 Nr. 45 .\n71\nArt. 53 Abs. 4 aufgehoben durch LGBl. 2006 Nr. 154 .\n72\nÜberschrift vor Art. 53a eingefügt durch LGBl. 2006 Nr. 154 .\n73\nArt. 53a eingefügt durch LGBl. 2006 Nr. 154 .\n74\nArt. 59 Abs. 2 abgeändert durch LGBl. 1996 Nr. 80 .\n75\nArt. 59 Abs. 3 Bst. a abgeändert durch LGBl. 1996 Nr. 80 .\n76\nArt. 59 Abs. 3 Bst. b abgeändert durch LGBl. 2011 Nr. 386 .\n77\nArt. 61 Abs. 2 abgeändert durch LGBl. 2003 Nr. 136 .\n78\nArt. 61 Abs. 3 abgeändert durch LGBl. 2003 Nr. 136 .\n79\nArt. 64 Abs. 4 eingefügt durch LGBl. 2009 Nr. 64 .\n80\nArt. 64a eingefügt durch LGBl. 2009 Nr. 64 .\n81\nArt. 65 abgeändert durch LGBl. 1992 Nr. 45 .\n82\nArt. 66 abgeändert durch LGBl. 2011 Nr. 557 .\n83\nArt. 68 Abs. 4 abgeändert durch LGBl. 2011 Nr. 557 .\n84\nArt. 68 Abs. 5 abgeändert durch LGBl. 2011 Nr. 557 .\n85\nArt. 69 Abs. 2 aufgehoben durch LGBl. 2011 Nr. 557 .\n86\nArt. 69 Abs. 3 eingefügt durch LGBl. 2003 Nr. 136 .\n87\nArt. 70 abgeändert durch LGBl. 2003 Nr. 136 .\n88\nArt. 72 Sachüberschrift abgeändert durch LGBl. 2003 Nr. 136 .\n89\nArt. 72 Abs. 1 abgeändert durch LGBl. 2003 Nr. 136 .\n90\nArt. 72 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2003 Nr. 136 .\n91\nArt. 72 Abs. 2 Bst. abgeändert durch LGBl. 2011 Nr. 557 .\n92\nArt. 72 Abs. 2 Bst. b abgeändert durch LGBl. 2024 Nr. 495 .\n93\nArt. 72 Abs. 2 Bst. c abgeändert durch LGBl. 2003 Nr. 136 .\n94\nArt. 72 Abs. 2 Bst. d eingefügt durch LGBl. 2009 Nr. 64 .\n95\nArt. 72 Abs. 2 Bst. e eingefügt durch LGBl. 2024 Nr. 495 .\n96\nArt. 72 Abs. 3 abgeändert durch LGBl. 2003 Nr. 136 .\n97\nArt. 72 Abs. 4 abgeändert durch LGBl. 2003 Nr. 136 .\n98\nArt. 72 Abs. 5 Bst. a abgeändert durch LGBl. 2011 Nr. 557 .\n99\nArt. 72 Abs. 5 abgeändert durch LGBl. 2003 Nr. 136 .\n100\nArt. 72 Abs. 6 abgeändert durch LGBl. 2003 Nr. 136 .\n101\nArt. 72a Sachüberschrift eingefügt durch LGBl. 1981 Nr. 2 .\n102\nArt. 72a Abs. 1 abgeändert durch LGBl. 2003 Nr. 136 .\n103\nArt. 72a Abs. 2 abgeändert durch LGBl. 2003 Nr. 136 .\n104\nArt. 72a Abs. 3 abgeändert durch LGBl. 1996 Nr. 80 .\n105\nArt. 72a Abs. 4 eingefügt durch LGBl. 1981 Nr. 2 .\n106\nArt. 72a Abs. 5 abgeändert durch LGBl. 2003 Nr. 136 .\n107\nArt. 72abis eingefügt durch LGBl. 2024 Nr. 495 .\n108\nArt. 72b eingefügt durch LGBl. 2003 Nr. 136 .\n109\nArt. 72b Abs. 3 abgeändert durch LGBl. 2018 Nr. 330 .\n110\nArt. 73 Sachüberschrift abgeändert durch LGBl. 1981 Nr. 2 .\n111\nArt. 73 Abs. 1 abgeändert durch LGBl. 2011 Nr. 557 .\n112\nArt. 73 Abs. 2 abgeändert durch LGBl. 1981 Nr. 2 .\n113\nArt. 74 aufgehoben durch LGBl. 1984 Nr. 45 .\n114\nArt. 75 aufgehoben durch LGBl. 2003 Nr. 136 .\n115\nArt. 75a abgeändert durch LGBl. 2009 Nr. 64 .\n116\nArt. 75b eingefügt durch LGBl. 2003 Nr. 136 .\n117\nArt. 75c eingefügt durch LGBl. 2003 Nr. 136 .\n118\nArt. 75d eingefügt durch LGBl. 2003 Nr. 136 .\n119\nArt. 76 abgeändert durch LGBl. 2020 Nr. 17 .\n120\nArt. 77 abgeändert durch LGBl. 2009 Nr. 64 .\n121\nArt. 78 Abs. 1 abgeändert durch LGBl. 2020 Nr. 17 .\n122\nArt. 78 Abs. 3 abgeändert durch LGBl. 2011 Nr. 557 .\n123\nArt. 80 abgeändert durch LGBl. 2011 Nr. 557 .\n124\nArt. 81 abgeändert durch LGBl. 2011 Nr. 557 .\n125\nArt. 85 Sachüberschrift abgeändert durch LGBl. 1988 Nr. 38 .\n126\nArt. 85 Abs. 1 abgeändert durch LGBl. 1988 Nr. 38 .\n127\nArt. 85 Abs. 2 eingefügt durch LGBl. 2006 Nr. 154 .\n128\nArt. 86 abgeändert durch LGBl. 2006 Nr. 154 .\n129\nArt. 86 Sachüberschrift abgeändert durch LGBl. 2020 Nr. 17 .\n130\nArt. 86 Abs. 2 abgeändert durch LGBl. 2020 Nr. 17 .\n131\nArt. 86a eingefügt durch LGBl. 2006 Nr. 154 .\n132\nArt. 87 Abs. 1 abgeändert durch LGBl. 1988 Nr. 38 .\n133\nArt. 87 Abs. 2 abgeändert durch LGBl. 1988 Nr. 38 .\n134\nArt. 88 Abs. 1 abgeändert durch LGBl. 1988 Nr. 38 .\n135\nArt. 88 Abs. 2 abgeändert durch LGBl. 1988 Nr. 38 .\n136\nArt. 88 Abs. 3 abgeändert durch LGBl. 1988 Nr. 38 .\n137\nArt. 89 Abs. 1 aufgehoben durch LGBl. 1988 Nr. 38 .\n138\nArt. 89 Abs. 2 abgeändert durch LGBl. 1988 Nr. 38 .\n139\nArt. 89 Abs. 3 abgeändert durch LGBl. 1992 Nr. 45 .\n140\nArt. 90 Sachüberschrift abgeändert durch LGBl. 2020 Nr. 17 .\n141\nArt. 90 Abs. 1 abgeändert durch LGBl. 2020 Nr. 17 .\n142\nArt. 90 Abs. 2 aufgehoben durch LGBl. 2020 Nr. 17 .\n143\nArt. 90 Abs. 3 eingefügt durch LGBl. 2006 Nr. 154 .\n144\nArt. 90 Abs. 4 eingefügt durch LGBl. 2006 Nr. 154 .\n145\nArt. 91 Sachüberschrift abgeändert durch LGBl. 2020 Nr. 17 .\n146\nArt. 91 Abs. 1 abgeändert durch LGBl. 2020 Nr. 17 .\n147\nArt. 91 Abs. 2 abgeändert durch LGBl. 1996 Nr. 80 .\n148\nArt. 92 Abs. 1 abgeändert durch LGBl. 2011 Nr. 557 .\n149\nArt. 92 Abs. 2 aufgehoben durch LGBl. 2020 Nr. 17 .\n150\nArt. 93 abgeändert durch LGBl. 2020 Nr. 17 .\n151\nArt. 94 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 154 .\n152\nArt. 94 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2006 Nr. 154 .\n153\nArt. 94 Abs. 1 Bst.a abgeändert durch LGBl. 2006 Nr. 154 .\n154\nArt. 94 Abs. 1 Bst.b abgeändert durch LGBl. 2006 Nr. 154 .\n155\nArt. 94 Abs. 1 Bst.c abgeändert durch LGBl. 2006 Nr. 154 .\n156\nArt. 94 Abs. 1 Bst.d abgeändert durch LGBl. 2006 Nr. 154 .\n157\nArt. 94 Abs. 1 Bst. e aufgehoben durch LGBl. 2011 Nr. 557 .\n158\nArt. 94 Abs. 1 Bst. f aufgehoben durch LGBl. 2011 Nr. 557 .\n159\nArt. 94 Abs. 2 Bst. a abgeändert durch LGBl. 2020 Nr. 17 .\n160\nArt. 94 Abs. 2 abgeändert durch LGBl. 2006 Nr. 154 .\n161\nArt. 95 Abs. 1 abgeändert durch LGBl. 2020 Nr. 17 .\n162\nArt. 95 Abs. 1a eingefügt durch LGBl. 2020 Nr. 17 .\n163\nArt. 95 Abs. 2 abgeändert durch LGBl. 1988 Nr. 38 .\n164\nArt. 95 Abs. 4 abgeändert durch LGBl. 2020 Nr. 17 .\n165\nArt. 96 abgeändert durch LGBl. 2020 Nr. 17 .\n166\nArt. 97 Abs. 1 abgeändert durch LGBl. 1988 Nr. 38 .\n167\nArt. 97 Abs. 1a eingefügt durch LGBl. 2020 Nr. 17 .\n168\nArt. 98 Abs. 1 Bst. a abgeändert durch LGBl. 2020 Nr. 17 .\n169\nArt. 98 Abs. 1 Bst. a Unterbst. ee aufgehoben durch LGBl. 2011 Nr. 557 .\n170\nArt. 98 Abs. 2 abgeändert durch LGBl. 2025 Nr. 375 .\n171\nArt. 98 Abs. 3 abgeändert durch LGBl. 2025 Nr. 375 .\n172\nArt. 98 Abs. 3a abgeändert durch LGBl. 2025 Nr. 375 .\n173\nArt. 99 Abs. 2 abgeändert durch LGBl. 2006 Nr. 154 .\n174\nArt. 99 Abs. 2a eingefügt durch LGBl. 2000 Nr. 252 .\n175\nArt. 99 Abs. 5 aufgehoben durch LGBl. 2020 Nr. 17 .\n176\nArt. 99 Abs. 7 aufgehoben durch LGBl. 2020 Nr. 17 .\n177\nArt. 99 Abs. 8 eingefügt durch LGBl. 1992 Nr. 114 .\n178\nArt. 99 Abs. 9 aufgehoben durch LGBl. 2020 Nr. 17 .\n179\nArt. 99 Abs. 10 aufgehoben durch LGBl. 2020 Nr. 17 .\n180\nArt. 99a abgeändert durch LGBl. 2003 Nr. 139 .\n181\nArt. 99b Sachüberschrift eingefügt durch LGBl. 2003 Nr. 139 .\n182\nArt. 99b Abs. 1 Einleitungssatz abgeändert durch LGBl. 2019 Nr. 222 .\n183\nArt. 99b Abs. 1 Bst. a eingefügt durch LGBl. 2003 Nr. 139 .\n184\nArt. 99b Abs. 1 Bst. b eingefügt durch LGBl. 2003 Nr. 139 .\n185\nArt. 99b Abs. 2 Einleitungssatz eingefügt durch LGBl. 2003 Nr. 139 .\n186\nArt. 99b Abs. 2 Bst. a eingefügt durch LGBl. 2003 Nr. 139 .\n187\nArt. 99b Abs. 2 Bst. b eingefügt durch LGBl. 2003 Nr. 139 .\n188\nArt. 99b Abs. 3 Bst. b abgeändert durch LGBl. 2011 Nr. 551 .\n189\nArt. 99b Abs. 3 abgeändert durch LGBl. 2010 Nr. 357 .\n190\nArt. 99b Abs. 3 Bst. d eingefügt durch LGBl. 2025 Nr. 512 .\n191\nArt. 99b Abs. 3bis abgeändert durch LGBl. 2019 Nr. 222 .\n192\nArt. 99b Abs. 4 abgeändert durch LGBl. 2019 Nr. 222 .\n193\nAbkommen vom 27. Juni 2019 zwischen der Europäischen Union und dem Fürstentum Liechtenstein über die Anwendung einiger Bestimmungen des Beschlusses 2008/615/JI des Rates zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität, des Beschlusses 2008/616/JI des Rates zur Durchführung des Beschlusses 2008/615/JI zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität, und seines Anhangs sowie des Rahmenbeschlusses 2009/905/JI des Rates über die Akkreditierung von Anbietern kriminaltechnischer Dienste, die Labortätigkeiten durchführen\n194\nBeschluss 2008/615/JI des Rates vom 23. Juni 2008 zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität (ABl. L 210 vom 6.8.2008, S. 1)\n195\nBeschluss 2008/616/JI des Rates vom 23. Juni 2008 zur Durchführung des Beschlusses 2008/615/JI zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität (ABl. L 210 vom 6.8.2008, S. 12)\n196\nArt. 99b Abs. 5 eingefügt durch LGBl. 2025 Nr. 36 .\n197\nArt. 99b Abs. 6 eingefügt durch LGBl. 2025 Nr. 36 .\n198\nArt. 99c eingefügt durch LGBl. 2003 Nr. 139 .\n199\nArt. 99c Abs. 1 Einleitungssatz abgeändert durch LGBl. 2019 Nr. 222 .\n200\nArt. 99c Abs. 2 Bst. a abgeändert durch LGBl. 2020 Nr. 17 .\n201\nArt. 99c Abs. 3 abgeändert durch LGBl. 2019 Nr. 222 .\n202\nArt. 99d eingefügt durch LGBl. 2003 Nr. 139 .\n203\nArt. 99d Abs. 1 Einleitungssatz abgeändert durch LGBl. 2019 Nr. 222 .\n204\nArt. 99d Abs. 2 Bst. a abgeändert durch LGBl. 2020 Nr. 17 .\n205\nArt. 99d Abs. 3 Einleitungssatz abgeändert durch LGBl. 2019 Nr. 222 .\n206\nArt. 99e eingefügt durch LGBl. 2003 Nr. 139 .\n207\nArt. 99f eingefügt durch LGBl. 2020 Nr. 17 .\n208\nInkrafttreten: 1. Januar 2025 ( LGBl. 2024 Nr. 496 )."
+    }
+  ],
+  "definitions": []
+}

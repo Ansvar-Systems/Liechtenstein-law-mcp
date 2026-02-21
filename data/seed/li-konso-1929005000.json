@@ -1,0 +1,36 @@
+{
+  "id": "li-konso-1929005000",
+  "type": "statute",
+  "title": "Kundmachung vom 6. Juni 1929",
+  "title_en": "",
+  "short_name": "LGBl 1929.005",
+  "status": "in_force",
+  "issued_date": "1929-06-06",
+  "in_force_date": "1929-06-06",
+  "url": "https://www.gesetze.li/konso/1929005000",
+  "description": "Kundmachung vom 6. Juni 1929",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "[Auslegung von Verfassungsbestimmungen]",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "In Übereinstimmung mit der Regierung hat der Landtag in seiner Sitzung vom 16. Mai 1929 in Anwendung des Art. 112 der Verfassung zur Behebung von Zweifeln über die Auslegung von Verfassungsbestimmungen nachstehenden Beschluss gefasst und so entschieden:"
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "[Auslegung von Verfassungsbestimmungen]",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "\"1. Art. 48 Abs. 1 der Verfassung wird dahin ausgelegt, dass im Falle der Auflösung des Landtages durch den Fürsten eine vierjährige Mandatsdauer des aus den Neuwahlen hervorgegangenen Landtages beginnt;"
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "[Auslegung von Verfassungsbestimmungen]",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "2. die Bestimmungen des Art. 97 der Verfassung bezüglich der Amtsdauer der Verwaltungsbeschwerdeinstanz werden dahin ausgelegt, dass die Amtsdauer der Verwaltungsbeschwerdeinstanz nicht nur dahinfällt, wenn die normale vierjährige Amtsdauer des Landtages abläuft, sondern auch, wenn der Landtag während der normalen Mandatsperiode durch den Fürsten oder aufgrund einer Volksabstimmung aufgelöst wird.\"\nVaduz, am 6. Juni 1929\nFürstliche Regierung:\ngez. Dr. Hoop"
+    }
+  ],
+  "definitions": []
+}

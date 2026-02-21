@@ -1,0 +1,1037 @@
+{
+  "id": "li-konso-1996149000",
+  "type": "statute",
+  "title": "Verordnung vom 17. September 1996 über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+  "title_en": "",
+  "short_name": "TAFV 1",
+  "status": "in_force",
+  "issued_date": "1996-09-17",
+  "in_force_date": "1996-09-17",
+  "url": "https://www.gesetze.li/konso/1996149000",
+  "description": "Verordnung vom 17. September 1996 über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Die Verordnung vom 17. September 1996 über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV1), LGBl. 1996 Nr. 149, in der geltenden Fassung, wird wie folgt abgeändert:\n1 Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "1.1.1 Diese Verordnung enthält die technischen Anforderungen an die dem SVG unterstehenden Transportmotorwagen mit oder ohne Aufbau, mit mindestens vier Rädern und einer bauartbedingten Höchstgeschwindigkeit von mehr als 25 km/h sowie an ihre Anhänger (Transportfahrzeuge)."
+    },
+    {
+      "provision_ref": "abs4",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "4",
+      "title": "Abs. 4",
+      "content": "1.1.1.1 Transportmotorwagen sind Fahrzeuge nach den Art. 11 und 12 der Verordnung vom 16. Juli 1996 über die technischen Anforderungen an Strassenfahrzeuge (VTS)."
+    },
+    {
+      "provision_ref": "abs5",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "5",
+      "title": "Abs. 5",
+      "content": "1.1.1.2 Transportanhänger sind Fahrzeuge nach den Art. 20 und 21 VTS."
+    },
+    {
+      "provision_ref": "abs6",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "6",
+      "title": "Abs. 6",
+      "content": "1.1.2 Folgende Fahrzeuge sind von den Bestimmungen dieser Verordnung ausgenommen:"
+    },
+    {
+      "provision_ref": "abs7",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "7",
+      "title": "Abs. 7",
+      "content": "1.1.2.1 Transportfahrzeuge, für die keine EG-Gesamtgenehmigung oder EG-Übereinstimmungsbescheinigung vorliegt, und diejenigen, für die die Übereinstimmung mit dem liechtensteinischen Recht nicht mit allen erforderlichen EG-Teilgenehmigungen, gleichwertigen internationalen Genehmigungen oder entsprechenden Konformitätserklärungen des Herstellers oder der Herstellerin nachgewiesen werden kann."
+    },
+    {
+      "provision_ref": "abs8",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "8",
+      "title": "Abs. 8",
+      "content": "1.1.2.2 Fahrzeuge nach Art. 1 Abs. 2 VTS."
+    },
+    {
+      "provision_ref": "abs9",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "9",
+      "title": "Abs. 9",
+      "content": "1.1.2.3 Fahrzeuge, für die eine EG-Gesamtgenehmigung oder eine EG-Übereinstimmungsbescheinigung vorliegt, an denen jedoch vor oder nach der Zulassung Änderungen vorgenommen wurden, die nicht mit der Genehmigung übereinstimmen. Ab dem Zeitpunkt des Umbaus gilt für diese Fahrzeuge die VTS."
+    },
+    {
+      "provision_ref": "abs10",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "10",
+      "title": "Abs. 10",
+      "content": "1.1.2.4 Fahrzeuge aus Klein- und Auslaufserien, Ausnahme- und Arbeitsfahrzeuge, Schienenfahrzeuge, landwirtschaftliche Fahrzeuge sowie Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 25 km/h."
+    },
+    {
+      "provision_ref": "abs11",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "11",
+      "title": "Abs. 11",
+      "content": "1.1.2.4.1 Fahrzeuge aus Kleinserien sind Fahrzeuge aus einer \"Typfamilie\", deren Stückzahl pro Jahr wie folgt begrenzt ist:"
+    },
+    {
+      "provision_ref": "abs13",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "13",
+      "title": "Abs. 13",
+      "content": "M 2 , M 3 : 250 Stück;"
+    },
+    {
+      "provision_ref": "abs15",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "15",
+      "title": "Abs. 15",
+      "content": "N 2 , N 3 : 250 Stück;"
+    },
+    {
+      "provision_ref": "abs17",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "17",
+      "title": "Abs. 17",
+      "content": "Eine \"Typfamilie\" umfasst alle Fahrzeuge, die sich hinsichtlich der wesentlichen Merkmale wie Hersteller oder Herstellerin, Fahrgestell, Bodengruppe sowie Motorbauart nicht unterscheiden (Anh. 12, Bst. A der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und deren Anhänger)."
+    },
+    {
+      "provision_ref": "abs18",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "18",
+      "title": "Abs. 18",
+      "content": "1.1.2.4.2 Fahrzeuge aus Auslaufserien sind Fahrzeuge, deren Typengenehmigungen infolge Rechtsänderungen nicht mehr gültig sind, die jedoch noch der vorgängigen Genehmigung entsprechen. Die Stückzahl der Fahrzeuge, die für einen begrenzten Zeitraum noch zugelassen werden können, beträgt höchstens 10 % der Anzahl Zulassungen des Vorjahres (Anh. 12, Bst. B der Richtlinie 70/156/EWG)."
+    },
+    {
+      "provision_ref": "abs19",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "19",
+      "title": "Abs. 19",
+      "content": "1.1.2.4.3 Ausnahmefahrzeuge sind Fahrzeuge, die infolge ihres besonderen Verwendungszweckes nicht alle aufgrund der Klasseneinteilung an sie gestellten Anforderungen erfüllen können."
+    },
+    {
+      "provision_ref": "abs20",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "20",
+      "title": "Abs. 20",
+      "content": "1.1.2.5 Fahrzeuge mit einer nationalen Kleinserien-Typengenehmigung und Fahrzeuge aus Auslaufserien, Ausnahme- und Arbeitsfahrzeuge, Schienenfahrzeuge, land- und forstwirtschaftliche Fahrzeuge, Traktoren und deren Anhänger sowie Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 25 km/h."
+    },
+    {
+      "provision_ref": "abs21",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "21",
+      "title": "Abs. 21",
+      "content": "1.1.2.5.1 Fahrzeuge mit einer nationalen Kleinserien-Typengenehmigung sind Fahrzeuge nach Art. 23 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie)."
+    },
+    {
+      "provision_ref": "abs22",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "22",
+      "title": "Abs. 22",
+      "content": "1.1.2.5.2 Fahrzeuge aus Auslaufserien sind Fahrzeuge nach Art. 27 der Richtlinie 2007/46/EG."
+    },
+    {
+      "provision_ref": "abs23",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "23",
+      "title": "Abs. 23",
+      "content": "1.1.3 Fahrzeuge, die nicht unter diese Verordnung fallen, müssen den Bestimmungen der VTS entsprechen; für Traktoren und deren Anhänger gilt die Verordnung vom 14. November 2017 über technische Anforderungen an Traktoren und deren Anhänger (TAFV 2)."
+    },
+    {
+      "provision_ref": "abs24",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "24",
+      "title": "Abs. 24",
+      "content": "1.2 Allgemeine Anforderungen"
+    },
+    {
+      "provision_ref": "abs25",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "25",
+      "title": "Abs. 25",
+      "content": "1.2.1 Transportfahrzeuge, die unter den Geltungsbereich dieser Verordnung fallen, müssen vollumfänglich den in den Ziff. 2.4 bis 2.14 aufgeführten Vorschriften des Europäischen Wirtschaftsraumes (EWR-Rechtsvorschriften) oder der Wirtschaftskommission für Europa (UNECE-Reglemente) entsprechen."
+    },
+    {
+      "provision_ref": "abs26",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "26",
+      "title": "Abs. 26",
+      "content": "1.2.1.1 Die technischen Anforderungen nach Ziff. 1.2.1 sind erfüllt, wenn eine EG-Gesamtgenehmigung oder eine EG-Übereinstimmungsbescheinigung gemäss der Richtlinie 2007/46/EG beigebracht wird. Es muss ersichtlich sein, dass weder ein erhebliches Risiko für die Sicherheit im Strassenverkehr besteht noch die Umwelt oder die öffentliche Gesundheit gefährdet werden. Andernfalls kann die Übereinstimmung mit den technischen Anforderungen durch das Vorlegen von EG-Teilgenehmigungen, gleichwertigen internationalen Genehmigungen, Konformitätserklärungen oder der Bestätigung einer vom Amt für Strassenverkehr anerkannten Prüfstelle nachgewiesen werden."
+    },
+    {
+      "provision_ref": "abs27",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "27",
+      "title": "Abs. 27",
+      "content": "1.2.1.2 Soweit diese Verordnung keine Anforderungen enthält, gilt die VTS."
+    },
+    {
+      "provision_ref": "abs28",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "28",
+      "title": "Abs. 28",
+      "content": "1.2.2 Die Typengenehmigung von Fahrzeugen, für die in dieser Verordnung technische Anforderungen definiert sind, richtet sich nach der Richtlinie 70/156/EWG."
+    },
+    {
+      "provision_ref": "abs29",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "29",
+      "title": "Abs. 29",
+      "content": "1.2.3 Die in der Richtlinie 96/53/EG des Rates vom 25. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für bestimmte Strassenfahrzeuge im innerstaatlichen und grenzüberschreitenden Verkehr in der Gemeinschaft sowie zur Festlegung der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr festgelegten Abmessungen und Gewichte sind als technische Parameter massgebend, auch wenn sie von den liechtensteinischen Vorschriften abweichen."
+    },
+    {
+      "provision_ref": "abs31",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "31",
+      "title": "Abs. 31",
+      "content": "1.4 Einteilung der Fahrzeuge"
+    },
+    {
+      "provision_ref": "abs33",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "33",
+      "title": "Abs. 33",
+      "content": "Zur Personenbeförderung bestimmte Motorfahrzeuge mit mindestens vier Rädern:"
+    },
+    {
+      "provision_ref": "abs35",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "35",
+      "title": "Abs. 35",
+      "content": "Fahrzeuge mit höchstens neun Sitzplätzen einschliesslich Führer;"
+    },
+    {
+      "provision_ref": "abs37",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "37",
+      "title": "Abs. 37",
+      "content": "Fahrzeuge mit mehr als neun Sitzplätzen einschliesslich Führer und mit einem Garantiegewicht von höchstens 5 t;"
+    },
+    {
+      "provision_ref": "abs39",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "39",
+      "title": "Abs. 39",
+      "content": "Fahrzeuge mit mehr als neun Sitzplätzen einschliesslich Führer und mit einem Garantiegewicht von über 5 t."
+    },
+    {
+      "provision_ref": "abs41",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "41",
+      "title": "Abs. 41",
+      "content": "Zur Güterbeförderung bestimmte Motorfahrzeuge mit mindestens vier Rädern:"
+    },
+    {
+      "provision_ref": "abs43",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "43",
+      "title": "Abs. 43",
+      "content": "Fahrzeuge mit einem Garantiegewicht von höchstens 3,5 t;"
+    },
+    {
+      "provision_ref": "abs45",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "45",
+      "title": "Abs. 45",
+      "content": "Fahrzeuge mit einem Garantiegewicht von über 3,5 t bis höchstens 12 t;"
+    },
+    {
+      "provision_ref": "abs47",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "47",
+      "title": "Abs. 47",
+      "content": "Fahrzeuge mit einem Garantiegewicht von über 12 t."
+    },
+    {
+      "provision_ref": "abs49",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "49",
+      "title": "Abs. 49",
+      "content": "Anhänger (einschliesslich Sattelanhänger und Zentralachsanhänger):"
+    },
+    {
+      "provision_ref": "abs51",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "51",
+      "title": "Abs. 51",
+      "content": "Anhänger mit einem Garantiegewicht von höchstens 0,75 t;"
+    },
+    {
+      "provision_ref": "abs53",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "53",
+      "title": "Abs. 53",
+      "content": "Anhänger mit einem Garantiegewicht von über 0,75 t bis höchstens 3,5 t;"
+    },
+    {
+      "provision_ref": "abs55",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "55",
+      "title": "Abs. 55",
+      "content": "Anhänger mit einem Garantiegewicht von über 3,5 t bis höchstens 10 t;"
+    },
+    {
+      "provision_ref": "abs57",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "57",
+      "title": "Abs. 57",
+      "content": "Anhänger mit einem Garantiegewicht von über 10 t."
+    },
+    {
+      "provision_ref": "abs58",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "58",
+      "title": "Abs. 58",
+      "content": "1.4.3.5 Bei Sattelanhängern oder Zentralachsanhängern ist das für die Klasseneinteilung massgebliche Garantiegewicht gleich der von den Achsen des Anhängers auf den Boden übertragenen Last, wenn der Anhänger mit dem Zugfahrzeug verbunden und bis zum technisch zulässigen Höchstwert beladen ist."
+    },
+    {
+      "provision_ref": "abs59",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "59",
+      "title": "Abs. 59",
+      "content": "2 Technische Anforderungen"
+    },
+    {
+      "provision_ref": "abs60",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "60",
+      "title": "Abs. 60",
+      "content": "2.1 Für die einzelnen technischen Anforderungen an die Transportfahrzeuge gelten, entsprechend ihrer Klasseneinteilung, die in den Ziff. 2.4 bis 2.14 aufgeführten Vorschriften des EWR (EWR-Rechtsvorschriften) oder der Wirtschaftskommission für Europa (UNECE-Reglemente)."
+    },
+    {
+      "provision_ref": "abs61",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "61",
+      "title": "Abs. 61",
+      "content": "Wo in UNECE-Reglementen abweichende Anforderungen oder Übergangsfristen vorgesehen sind, gelten die Anforderungen oder die Übergangsfristen der entsprechenden EWR-Rechtsvorschriften."
+    },
+    {
+      "provision_ref": "abs62",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "62",
+      "title": "Abs. 62",
+      "content": "2.2. Wird in dieser Verordnung auf EWR-Rechtsvorschriften verwiesen, so beziehen sich diese Verweise auf die jeweils gültige Fassung, einschliesslich deren Änderungen und Ergänzungen durch das EWR-Abkommen. Die Bestimmungen der EWR-Rechtsvorschriften, auf die in dieser Verordnung verwiesen wird, sind unmittelbar anwendbar und allgemein verbindlich. Die gültige Fassung der EWR-Rechtsvorschriften ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt in Verbindung mit der Kundmachung ihres vollständigen Wortlautes im Amtsblatt der Europäischen Union ."
+    },
+    {
+      "provision_ref": "abs63",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "63",
+      "title": "Abs. 63",
+      "content": "2.3 Publikations- und Änderungsdaten von UNECE-Reglementen sind dem Anhang 1 VTS zu entnehmen. UNECE-Reglemente können beim Amt für Strassenverkehr eingesehen und bezogen werden."
+    },
+    {
+      "provision_ref": "abs64",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "64",
+      "title": "Abs. 64",
+      "content": "2.4 Abmessungen / Gewichte / Kennzeichnung"
+    },
+    {
+      "provision_ref": "abs65",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "65",
+      "title": "Abs. 65",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs66",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "66",
+      "title": "Abs. 66",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs79",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "79",
+      "title": "Abs. 79",
+      "content": "Abmessungen und\nGewichte"
+    },
+    {
+      "provision_ref": "abs118",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "118",
+      "title": "Abs. 118",
+      "content": "Anbringung hinteres\nKontrollschild"
+    },
+    {
+      "provision_ref": "abs131",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "131",
+      "title": "Abs. 131",
+      "content": "Anbringung hinteres Kontrollschild"
+    },
+    {
+      "provision_ref": "abs145",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "145",
+      "title": "Abs. 145",
+      "content": "2.5 Antrieb / Abgase / Geräusche"
+    },
+    {
+      "provision_ref": "abs146",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "146",
+      "title": "Abs. 146",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs147",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "147",
+      "title": "Abs. 147",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs160",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "160",
+      "title": "Abs. 160",
+      "content": "Geräusche/Auspuffvorrichtung"
+    },
+    {
+      "provision_ref": "abs168",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "168",
+      "title": "Abs. 168",
+      "content": "UNECE-R 51\nUNECE-R 59"
+    },
+    {
+      "provision_ref": "abs170",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "170",
+      "title": "Abs. 170",
+      "content": "Geräusch/Auspuffvorrichtung"
+    },
+    {
+      "provision_ref": "abs178",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "178",
+      "title": "Abs. 178",
+      "content": "UNECE-R 51\nUNECE-R 59"
+    },
+    {
+      "provision_ref": "abs180",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "180",
+      "title": "Abs. 180",
+      "content": "Emissionen Benzin/ Diesel"
+    },
+    {
+      "provision_ref": "abs188",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "188",
+      "title": "Abs. 188",
+      "content": "UNECE-R 83\nUNECE-R 103"
+    },
+    {
+      "provision_ref": "abs190",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "190",
+      "title": "Abs. 190",
+      "content": "Emissionen/Zugang zu Informationen"
+    },
+    {
+      "provision_ref": "abs198",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "198",
+      "title": "Abs. 198",
+      "content": "UNECE-R 24\nUNECE-R 83\nUNECE-R 101\nUNECE-R 103"
+    },
+    {
+      "provision_ref": "abs210",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "210",
+      "title": "Abs. 210",
+      "content": "Emissionen Diesel/ Zugang zu Informationen"
+    },
+    {
+      "provision_ref": "abs246",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "246",
+      "title": "Abs. 246",
+      "content": "Wasserstoffbetriebene Motorwagen"
+    },
+    {
+      "provision_ref": "abs255",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "255",
+      "title": "Abs. 255",
+      "content": "Akustisches Fahrzeug-Warnsystem für geräuscharme Fahrzeuge"
+    },
+    {
+      "provision_ref": "abs264",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "264",
+      "title": "Abs. 264",
+      "content": "2.6 Kraftübertragung"
+    },
+    {
+      "provision_ref": "abs265",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "265",
+      "title": "Abs. 265",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs266",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "266",
+      "title": "Abs. 266",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs279",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "279",
+      "title": "Abs. 279",
+      "content": "Rückwärtsgang/Geschwindigkeitsmesser"
+    },
+    {
+      "provision_ref": "abs291",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "291",
+      "title": "Abs. 291",
+      "content": "Geschwindigkeitsbegrenzer\n(Vorrichtung)"
+    },
+    {
+      "provision_ref": "abs298",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "298",
+      "title": "Abs. 298",
+      "content": "2.7 Achsen / Radaufhängung"
+    },
+    {
+      "provision_ref": "abs301",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "301",
+      "title": "Abs. 301",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs302",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "302",
+      "title": "Abs. 302",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs341",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "341",
+      "title": "Abs. 341",
+      "content": "UNECE-R 30\nUNECE-R 54"
+    },
+    {
+      "provision_ref": "abs343",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "343",
+      "title": "Abs. 343",
+      "content": "Reifendruck Überwachungssystem"
+    },
+    {
+      "provision_ref": "abs347",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "347",
+      "title": "Abs. 347",
+      "content": "UNECE-R 64\nUNECE-R 141"
+    },
+    {
+      "provision_ref": "abs349",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "349",
+      "title": "Abs. 349",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs350",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "350",
+      "title": "Abs. 350",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs377",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "377",
+      "title": "Abs. 377",
+      "content": "Lenkanlagen bei\nUnfallstössen"
+    },
+    {
+      "provision_ref": "abs383",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "383",
+      "title": "Abs. 383",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs384",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "384",
+      "title": "Abs. 384",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs408",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "408",
+      "title": "Abs. 408",
+      "content": "UNECE-R 13\nUNECE-R 90"
+    },
+    {
+      "provision_ref": "abs413",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "413",
+      "title": "Abs. 413",
+      "content": "UNECE-R 13H\nUNECE-R 90"
+    },
+    {
+      "provision_ref": "abs415",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "415",
+      "title": "Abs. 415",
+      "content": "Notbrems-Assistenzsystem"
+    },
+    {
+      "provision_ref": "abs423",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "423",
+      "title": "Abs. 423",
+      "content": "Bremsassistenzsystem"
+    },
+    {
+      "provision_ref": "abs429",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "429",
+      "title": "Abs. 429",
+      "content": "Fahrdynamik-Regelsystem"
+    },
+    {
+      "provision_ref": "abs442",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "442",
+      "title": "Abs. 442",
+      "content": "* Ausnahmen siehe EWR-Rechtsvorschrift sowie UNECE-Reglement"
+    },
+    {
+      "provision_ref": "abs444",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "444",
+      "title": "Abs. 444",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs445",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "445",
+      "title": "Abs. 445",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs458",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "458",
+      "title": "Abs. 458",
+      "content": "Hinterer Unterfahrschutz/Treibstofftank"
+    },
+    {
+      "provision_ref": "abs470",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "470",
+      "title": "Abs. 470",
+      "content": "UNECE-R 34\nUNECE-R 58"
+    },
+    {
+      "provision_ref": "abs472",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "472",
+      "title": "Abs. 472",
+      "content": "Türverriegelung und Scharniere"
+    },
+    {
+      "provision_ref": "abs552",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "552",
+      "title": "Abs. 552",
+      "content": "Seitenaufprallschutz"
+    },
+    {
+      "provision_ref": "abs563",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "563",
+      "title": "Abs. 563",
+      "content": "Vorderer Unterfahrschutz"
+    },
+    {
+      "provision_ref": "abs573",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "573",
+      "title": "Abs. 573",
+      "content": "UNECE-R 66 UNECE-R 107"
+    },
+    {
+      "provision_ref": "abs581",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "581",
+      "title": "Abs. 581",
+      "content": "Einstieg und Manövriereigenschaften"
+    },
+    {
+      "provision_ref": "abs590",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "590",
+      "title": "Abs. 590",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs591",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "591",
+      "title": "Abs. 591",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs609",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "609",
+      "title": "Abs. 609",
+      "content": "Sitzverankerung und Festigkeit"
+    },
+    {
+      "provision_ref": "abs617",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "617",
+      "title": "Abs. 617",
+      "content": "UNECE-R 17 UNECE-R 80"
+    },
+    {
+      "provision_ref": "abs619",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "619",
+      "title": "Abs. 619",
+      "content": "Verankerung der\nSicherheitsgurte"
+    },
+    {
+      "provision_ref": "abs629",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "629",
+      "title": "Abs. 629",
+      "content": "Sicherheitsgurte sowie Kinderrückhaltevorrichtungen"
+    },
+    {
+      "provision_ref": "abs637",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "637",
+      "title": "Abs. 637",
+      "content": "UNECE-R 16\nUNECE-R 44"
+    },
+    {
+      "provision_ref": "abs642",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "642",
+      "title": "Abs. 642",
+      "content": "UNECE-R 17\nUNECE-R 25"
+    },
+    {
+      "provision_ref": "abs644",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "644",
+      "title": "Abs. 644",
+      "content": "Kennzeichnung der Betätigungseinrichtungen"
+    },
+    {
+      "provision_ref": "abs654",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "654",
+      "title": "Abs. 654",
+      "content": "Entfrostungs- und\nTrockungsanlagen"
+    },
+    {
+      "provision_ref": "abs663",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "663",
+      "title": "Abs. 663",
+      "content": "Entfrostungs- und Trocknungsanlagen"
+    },
+    {
+      "provision_ref": "abs691",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "691",
+      "title": "Abs. 691",
+      "content": "Emissionen aus Klimaanlagen"
+    },
+    {
+      "provision_ref": "abs695",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "695",
+      "title": "Abs. 695",
+      "content": "* Gilt für Fahrzeuge der Gruppe I"
+    },
+    {
+      "provision_ref": "abs697",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "697",
+      "title": "Abs. 697",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs698",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "698",
+      "title": "Abs. 698",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs711",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "711",
+      "title": "Abs. 711",
+      "content": "Anbau der Beleuchtungsvorrichtungen"
+    },
+    {
+      "provision_ref": "abs739",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "739",
+      "title": "Abs. 739",
+      "content": "Stand-, Schluss-, Markier-, Brems-, Tagfahr- und Seitenmarkierungsleuchten"
+    },
+    {
+      "provision_ref": "abs751",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "751",
+      "title": "Abs. 751",
+      "content": "UNECE-R 7\nUNECE-R 87\nUNECE-R 91"
+    },
+    {
+      "provision_ref": "abs767",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "767",
+      "title": "Abs. 767",
+      "content": "Kontrollschildbeleuchtung"
+    },
+    {
+      "provision_ref": "abs777",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "777",
+      "title": "Abs. 777",
+      "content": "Fern- und Abblendlichter, Glühlampen, Scheinwerfer mit Gasentladung und deren Lichtquellen sowie Scheinwerfer mit LED und deren Lichtquellen"
+    },
+    {
+      "provision_ref": "abs785",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "785",
+      "title": "Abs. 785",
+      "content": "UNECE-R 1\nUNECE-R 5\nUNECE-R 8\nUNECE-R 20\nUNECE-R 31\nUNECE-R 37\nUNECE-R 98\nUNECE-R 99\nUNECE-R 112\nUNECE-R 123\nUNECE-R 128"
+    },
+    {
+      "provision_ref": "abs797",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "797",
+      "title": "Abs. 797",
+      "content": "Nebelschlussleuchten"
+    },
+    {
+      "provision_ref": "abs811",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "811",
+      "title": "Abs. 811",
+      "content": "Rückfahrscheinwerfer"
+    },
+    {
+      "provision_ref": "abs834",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "834",
+      "title": "Abs. 834",
+      "content": "2.14 Weitere Anforderungen und Zusatzausrüstungen"
+    },
+    {
+      "provision_ref": "abs835",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "835",
+      "title": "Abs. 835",
+      "content": "EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs836",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "836",
+      "title": "Abs. 836",
+      "content": "Anzuwenden auf\nFahrzeugklasse"
+    },
+    {
+      "provision_ref": "abs872",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "872",
+      "title": "Abs. 872",
+      "content": "Einrichtungen für indirekte Sicht"
+    },
+    {
+      "provision_ref": "abs882",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "882",
+      "title": "Abs. 882",
+      "content": "Scheibenwischer/-wascher"
+    },
+    {
+      "provision_ref": "abs891",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "891",
+      "title": "Abs. 891",
+      "content": "Akustische Warnvorrichtung"
+    },
+    {
+      "provision_ref": "abs901",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "901",
+      "title": "Abs. 901",
+      "content": "Sicherungseinrichtung"
+    },
+    {
+      "provision_ref": "abs909",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "909",
+      "title": "Abs. 909",
+      "content": "UNECE-R 18\nUNECE-R 97\nUNECE-R 116"
+    },
+    {
+      "provision_ref": "abs911",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "911",
+      "title": "Abs. 911",
+      "content": "Verbindungseinrichtungen"
+    },
+    {
+      "provision_ref": "abs923",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "923",
+      "title": "Abs. 923",
+      "content": "UNECE-R 55 UNECE-R 102"
+    },
+    {
+      "provision_ref": "abs925",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "925",
+      "title": "Abs. 925",
+      "content": "Abschleppvorrichtung"
+    },
+    {
+      "provision_ref": "abs934",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "934",
+      "title": "Abs. 934",
+      "content": "Abschleppvorrichtung"
+    },
+    {
+      "provision_ref": "abs943",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "943",
+      "title": "Abs. 943",
+      "content": "Fahrzeuge für den Gefahrenguttransport"
+    },
+    {
+      "provision_ref": "abs954",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "954",
+      "title": "Abs. 954",
+      "content": "Wiederverwendbarkeit, Recyclingfähigkeit und Verwertbarkeit"
+    },
+    {
+      "provision_ref": "abs960",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "960",
+      "title": "Abs. 960",
+      "content": "Allgemeine Sicherheit"
+    },
+    {
+      "provision_ref": "abs977",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "977",
+      "title": "Abs. 977",
+      "content": "Elektrische Sicherheit"
+    },
+    {
+      "provision_ref": "abs986",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "986",
+      "title": "Abs. 986",
+      "content": "Spezialausrüstung für Fahrzeuge mit Gasantrieb"
+    },
+    {
+      "provision_ref": "abs993",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "993",
+      "title": "Abs. 993",
+      "content": "UNECE-R 67 UNECE-R 110"
+    },
+    {
+      "provision_ref": "abs1001",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1001",
+      "title": "Abs. 1001",
+      "content": "* Ausnahmen siehe EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs1007",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1007",
+      "title": "Abs. 1007",
+      "content": "* Ausnahmen siehe EWR-Rechtsvorschrift"
+    },
+    {
+      "provision_ref": "abs1008",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1008",
+      "title": "Abs. 1008",
+      "content": "3 Straf- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "abs1009",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1009",
+      "title": "Abs. 1009",
+      "content": "3.1 Strafbestimmungen"
+    },
+    {
+      "provision_ref": "abs1010",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1010",
+      "title": "Abs. 1010",
+      "content": "Es gelten die Strafbestimmungen des Art. 219 VTS."
+    },
+    {
+      "provision_ref": "abs1012",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1012",
+      "title": "Abs. 1012",
+      "content": "Es gelten die Vollzugsbestimmungen der Art. 220 und 221 VTS."
+    },
+    {
+      "provision_ref": "abs1013",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1013",
+      "title": "Abs. 1013",
+      "content": "3.3 Übergangsbestimmungen"
+    },
+    {
+      "provision_ref": "abs1014",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1014",
+      "title": "Abs. 1014",
+      "content": "Die vor dem 1. Oktober 1996 in Verkehr gesetzten Fahrzeuge müssen den Anforderungen des bisherigen Rechts genügen. Die durch diese Verordnung eingeführten Erleichterungen werden gewährt, wenn diese Fahrzeuge die damit allenfalls verbundenen Bedingungen und Auflagen erfüllen. Für die Anwendung der im Anhang 1 VTS aufgeführten internationalen Regelungen gelten indessen die in diesen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in Liechtenstein abgestellt wird."
+    },
+    {
+      "provision_ref": "abs1016",
+      "chapter": "über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1)",
+      "section": "1016",
+      "title": "Abs. 1016",
+      "content": "Diese Verordnung tritt am 1. Oktober 1996 in Kraft.\nFürstliche Regierung:\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\nAnhang 1\nAnhang 2\n1\nIngress abgeändert durch LGBl. 2019 Nr. 50 .\n2\nZiff. 1.1.2.5 abgeändert durch LGBl. 2019 Nr. 50 .\n3\nZiff. 1.1.2.5.1 eingefügt durch LGBl. 2010 Nr. 72 .\n4\nZiff. 1.1.2.5.2 eingefügt durch LGBl. 2010 Nr. 72 .\n5\nZiff. 1.1.3 abgeändert durch LGBl. 2019 Nr. 50 .\n6\nZiff. 1.2.1 abgeändert durch LGBl. 2017 Nr. 311 .\n7\nZiff. 1.2.1.1 abgeändert durch LGBl. 2019 Nr. 222 .\n8\nZiff. 1.2.1.2 abgeändert durch LGBl. 2012 Nr. 187 .\n9\nZiff. 1.2.3 abgeändert durch LGBl. 2001 Nr. 110 .\n10\nZiff. 1.3 aufgehoben durch LGBl. 2001 Nr. 110 .\n11\nZiff. 2.1 abgeändert durch LGBl. 2017 Nr. 311 .\n12\nwww.eur-lex.europa.eu\n13\nZiff. 2.2 abgeändert durch LGBl. 2020 Nr. 466 .\n14\nZiff. 2.3 abgeändert durch LGBl. 2019 Nr. 222 .\n15\nZiff. 2.4. abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2012 Nr. 187 , LGBl. 2015 Nr. 297 und LGBl. 2017 Nr. 311 .\n16\nZiff. 2.5 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2006 Nr. 134 , LGBl. 2007 Nr. 211 , LGBl. 2008 Nr. 160 , LGBl. 2010 Nr. 72 , LGBl. 2012 Nr. 187 , LGBl. 2013 Nr. 21 , LGBl. 2015 Nr. 297 , LGBl. 2017 Nr. 311 und LGBl. 2019 Nr. 50 .\n17\nZiff. 2.6 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2006 Nr. 134 , LGBl. 2015 Nr. 297 und LGBl. 2017 Nr. 311 .\n18\nZiff. 2.8 abgeändert durch LGBl. 2012 Nr. 187 , LGBl. 2015 Nr. 297 , LGBl. 2017 Nr. 311 und LGBl. 2019 Nr. 50 .\n19\nZiff. 2.9 abgeändert durch LGBl. 2015 Nr. 297 und LGBl. 2017 Nr. 311 .\n20\nZiff. 2.10 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2003 Nr. 255 , LGBl. 2012 Nr. 187 , LGBl. 2013 Nr. 21 , LGBl. 2015 Nr. 297 , LGBl. 2017 Nr. 311 und LGBl. 2019 Nr. 50 .\n21\nZiff. 2.11 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2003 Nr. 255 , LGBl. 2006 Nr. 134 , LGBl. 2007 Nr. 211 , LGBl. 2012 Nr. 187 , LGBl. 2013 Nr. 21 , LGBl. 2015 Nr. 297 , LGBl. 2017 Nr. 311 und LGBl. 2019 Nr. 50 .\n22\nZiff. 2.12 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2003 Nr. 255 , LGBl. 2004 Nr. 219 , LGBl. 2006 Nr. 134 , LGBl. 2007 Nr. 211 , LGBl. 2012 Nr. 187 , LGBl. 2015 Nr. 297 und LGBl. 2017 Nr. 311 .\n23\nZiff. 2.13 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2006 Nr. 134 , LGBl. 2012 Nr. 187 , LGBl. 2015 Nr. 297 und LGBl. 2017 Nr. 311 .\n24\nZiff. 2.14 abgeändert durch LGBl. 2001 Nr. 110 , LGBl. 2003 Nr. 255 , LGBl. 2006 Nr. 134 , LGBl. 2007 Nr. 211 , LGBl. 2008 Nr. 160 , LGBl. 2012 Nr. 187 , LGBl. 2013 Nr. 21 , LGBl. 2015 Nr. 297 , LGBl. 2017 Nr. 311 und LGBl. 2019 Nr. 50 .\n25\nZiff. 3.3 abgeändert durch LGBl. 2003 Nr. 255 .\n26\nAnhang 1 aufgehoben durch LGBl. 2003 Nr. 255 .\n27\nAnhang 2 aufgehoben durch LGBl. 2003 Nr. 255 ."
+    }
+  ],
+  "definitions": []
+}

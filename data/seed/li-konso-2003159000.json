@@ -1,0 +1,765 @@
+{
+  "id": "li-konso-2003159000",
+  "type": "statute",
+  "title": "Gewässerschutzgesetz (GSchG) vom 15. Mai 2003",
+  "title_en": "",
+  "short_name": "LGBl 2003.159",
+  "status": "in_force",
+  "issued_date": "2003-05-15",
+  "in_force_date": "2003-05-15",
+  "url": "https://www.gesetze.li/konso/2003159000",
+  "description": "Gewässerschutzgesetz (GSchG) vom 15. Mai 2003",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Zweck",
+      "content": "1) Dieses Gesetz bezweckt: a) die Gewässer vor nachteiligen Einwirkungen zu schützen und deren nachhaltige Nutzung sicherzustellen;\nb) die Bewirtschaftung der Gewässer nach integralen Gesichtspunkten;\nc) die Koordination der Gewässerbewirtschaftung im internationalen Rahmen.\n2) Dieses Gesetz dient insbesondere: a) dem Schutz der Gesundheit von Menschen, Tieren und Pflanzen;\nb) der Erhaltung des Grund- und Quellwassers in seinem natürlichen Zustand und dessen haushälterischer Nutzung als Trink- und Brauchwasser;\nc) der Erhaltung und Wiederherstellung natürlicher Lebensräume im und am Wasser für die einheimische Tier- und Pflanzenwelt;\nd) der Erhaltung der Gewässer als Landschaftselemente;\ne) der Sicherstellung der landwirtschaftlichen Bewässerung;\nf) der Sicherung der natürlichen Funktion des Wasserkreislaufs.\n3) Dieses Gesetz dient der Umsetzung folgender EWR-Rechtsvorschriften: a) Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmes für Massnahmen der Gemeinschaft im Bereich der Wasserpolitik (EWR-Rechtssammlung: Anh. XX-13ca.01);\nb) Richtlinie 2006/118/EG des Europäischen Parlaments und Rates vom 12. Dezember 2006 zum Schutz des Grundwassers vor Verschmutzung und Verschlechterung (EWR-Rechtssammlung: Anh. XX-13caa.01);\nc) Richtlinie 2008/105/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Umweltqualitätsnormen im Bereich der Wasserpolitik und zur Änderung und anschliessenden Aufhebung der Richtlinien des Rates 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG und 86/280/EWG sowie zur Änderung der Richtlinie 2000/60/EG (EWR-Rechtssammlung: Anh. XX-13cad.01)."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1a",
+      "title": "Art. 1a Verweis auf EWR-Rechtsvorschriften",
+      "content": "1) Wird in diesem Gesetz auf EWR-Rechtsvorschriften verwiesen, auf die im EWR-Abkommen Bezug genommen wird, so beziehen sich diese Verweise auf deren jeweils gültige Fassung, einschliesslich deren Abänderungen und Ergänzungen durch das EWR-Abkommen, sowie auf die damit zusammenhängenden Durchführungsrechtsakte.\n2) Die Bestimmungen der EWR-Rechtsvorschriften, auf die in diesem Gesetz verwiesen wird, sind unmittelbar anwendbar und allgemein verbindlich.\n3) Die gültige Fassung der in Abs. 1 genannten Rechtsvorschriften ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt gemäss Art. 3 Bst. k des Kundmachungsgesetzes.\n4) Der vollständige Wortlaut der EWR-Rechtsvorschriften, auf die in diesem Gesetz verwiesen wird, wird in der EWR-Rechtssammlung kundgemacht. Die Einsichtnahme in die und der Bezug der EWR-Rechtssammlung bestimmen sich nach den Bestimmungen von Art. 5 des Gesetzes über die Umsetzung und Kundmachung der EWR-Rechtsvorschriften sowie der hierzu erlassenen Verordnungen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Geltungsbereich",
+      "content": "Dieses Gesetz gilt für alle ober- und unterirdischen Gewässer."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Sorgfaltspflicht, Vermeidungsprinzip",
+      "content": "1) Jedermann ist verpflichtet, alle nach den Umständen gebotene Sorgfalt anzuwenden, um nachteilige Einwirkungen auf die Gewässer zu vermeiden.\n2) Das Entstehen von Abwässern, die einer Behandlung bedürfen, ist nach Möglichkeit zu vermeiden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Verursacherprinzip",
+      "content": "Wer Massnahmen nach diesem Gesetz verursacht, trägt die Kosten dafür."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Begriffe",
+      "content": "1) In diesem Gesetz bedeuten: a) \"Gewässer\": 1. Oberflächengewässer oder ein Abschnitt davon; oder\n2. Grundwasser oder ein abgegrenztes Grundwasservolumen innerhalb eines oder mehrerer Grundwasserleiter;\nb) \"oberirdisches Gewässer\": Wasser und Wasserbett mit Sohle und Böschung sowie die tierische und pflanzliche Besiedlung;\nc) \"unterirdisches Gewässer\": Grundwasser (einschliesslich Quell- und Hangwasser), Grundwasserleiter, Grundwasserstauer und Deckschicht;\nd) \"künstliches Gewässer\": von Menschen geschaffenes oberirdisches Gewässer;\ne) \"erheblich verändertes Gewässer\": oberirdisches Gewässer, das durch physikalische Veränderungen durch den Menschen erheblich verändert wurde;\nf) \"nachteilige Einwirkungen\": Verunreinigungen und andere Eingriffe, welche die Gestalt oder Funktion eines Gewässers beeinträchtigen;\ng) \"Verunreinigung\": nachteilige physikalische, chemische oder biologische Veränderung des Wassers;\nh) \"Abwasser\": das durch häuslichen, industriellen, gewerblichen, landwirtschaftlichen oder sonstigen Gebrauch veränderte Wasser, ferner das in der Kanalisation stetig abfliessende Wasser sowie das von bebauten oder befestigten Flächen abfliessende Niederschlagswasser;\ni) \"verschmutztes Abwasser\": Abwasser, das ein Gewässer, in das es gelangt, verunreinigen kann;\nk) \"Hofdünger\": Gülle, Mist, Silosäfte aus der Nutztierhaltung;\nl) \"Betriebe mit Nutztierhaltung\": landwirtschaftliche Betriebe sowie übrige Betriebe mit gewerblicher Tierhaltung; ausgenommen sind Betriebe für die Haltung von einzelnen Zug- und Reittieren;\nm) \"düngbare Fläche\": landwirtschaftliche Nutzfläche, auf welche Dünger ausgebracht werden darf;\nn) \"Düngergrossvieheinheit\": Recheneinheit, die einem durchschnittlichen jährlichen Anfall von Gülle und Mist einer 600 kg schweren Kuh entspricht;\no) Aufgehoben\np) \"Wasserschutzgebiet\": grossflächiges Gebiet mit Wasservorkommen, das sich für die Trinkwasserversorgung eignet und deshalb besonderen Schutzes bedarf;\nq) \"Schutzzonen\": Zonen zum Schutz von Trinkwasserfassungs- oder Grundwasseranreicherungsanlagen;\nr) \"Schutzareal\": Areal, welches den Standort einer zukünftigen Trinkwasserfassungs- oder Grundwasseranreicherungsanlage sichert;\ns) \"Zuströmbereich\": Gebiet, aus dem bei einer Grund- oder Quellwasserfassung das entnommene Wasser stammt;\nt) \"wassergefährdende Stoffe\": Stoffe jeglicher Art, welche die Qualität und die Funktionen von Gewässern direkt oder indirekt in physikalischer, chemischer oder biologischer Hinsicht nachteilig verändern;\nu) \"Fliessgewässer mit ständiger Wasserführung\": Fliessgewässer, die während mehr als 347 Tagen des Jahres Wasser führen;\nv) \"Restwassermenge\": Abflussmenge eines Fliessgewässers, die nach einer oder mehreren Entnahmen von Wasser verbleibt;\nw) \"Dotierwassermenge\": Wassermenge, die zur Sicherung einer bestimmten Restwassermenge bei der Wasserentnahme im Gewässer belassen wird.\nx) Aufgehoben\n2) Im Übrigen finden die Begriffsbestimmungen des EWR-Rechts, insbesondere der Richtlinie 2000/60/EG und der Richtlinie 2006/118/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Schutz des Grundwassers vor Verschmutzung und Verschlechterung (EWR-Rechtssammlung: Anh. XX-13caa.01), ergänzend Anwendung.\n3) Die in diesem Gesetz verwendeten Personenbezeichnungen gelten für Personen männlichen und weiblichen Geschlechts.\nII. Verhinderung und Behebung nachteiliger Einwirkungen\nA. Reinhaltung der Gewässer\n1. Einleiten, Einbringen und Versickern von Stoffen"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Einleiten, Einbringen und Versickern von Stoffen",
+      "section": "6",
+      "title": "Art. 6 Grundsatz",
+      "content": "1) Es ist untersagt, Stoffe, die Wasser verunreinigen können oder wasserbewohnende Tiere und Pflanzen schädigen, mittelbar oder unmittelbar in ein Gewässer einzubringen oder sie versickern zu lassen.\n2) Es ist auch untersagt, solche Stoffe ausserhalb eines Gewässers abzulagern oder auszubringen, sofern dadurch die konkrete Gefahr einer Verunreinigung des Wassers entsteht."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Einleiten, Einbringen und Versickern von Stoffen",
+      "section": "7",
+      "title": "Art. 7 Abwasserbeseitigung",
+      "content": "1) Verschmutztes Abwasser muss behandelt werden. Das Einleiten von behandeltem Abwasser in ein Gewässer und das Versickernlassen von behandeltem Abwasser bedarf einer Bewilligung des Amtes für Umwelt. Die Bewilligung ist nur für einen begrenzten Zeitraum zu erteilen und kann mit Auflagen verbunden werden. Sie ist mindestens alle vier Jahre zu überprüfen; sie kann verlängert, abgeändert oder widerrufen werden.\n2) Nicht verschmutztes Abwasser ist nach den Anordnungen des Amtes für Umwelt versickern zu lassen. Erlauben die örtlichen Verhältnisse dies nicht, so kann es mit Bewilligung des Amtes für Umwelt in ein oberirdisches Gewässer eingeleitet werden. Dabei sind nach Möglichkeit Rückhaltemassnahmen zu treffen, damit das Wasser bei grossem Anfall gleichmässig abfliessen kann.\n3) Die Gemeinden erstellen Entwässerungspläne auf Landes- und Gemeindeebene. Die Entwässerungspläne bedürfen der Genehmigung der Regierung."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Einleiten, Einbringen und Versickern von Stoffen",
+      "section": "8",
+      "title": "Art. 8 Ausführungsbestimmungen",
+      "content": "1) Die Regierung legt mit Verordnung unter Berücksichtigung der massgebenden EWR-Rechtsvorschriften die Anforderungen an die Qualität der ober- und unterirdischen Gewässer fest.\n2) Sie erlässt Vorschriften insbesondere über: a) die ökologischen Ziele für Gewässer;\nb) die Einleitung von Abwasser in Gewässer;\nc) die Versickerung von Abwasser;\nd) Stoffe, die nach Art ihrer Verwendung ins Wasser gelangen können und die aufgrund ihrer Eigenschaften oder ihrer Verbrauchsmenge die Gewässer verunreinigen oder für den Betrieb von Abwasseranlagen schädlich sein können.\ne) Grenzwerte für Schadstoffe.\n3) Eine Überschreitung der Grenzwerte für oberirdische Gewässer gemäss Abs. 2 Bst. e ist zulässig, wenn: a) die Überschreitung auf eine Verschmutzungsquelle zurückzuführen ist, die ausserhalb des Landes liegt;\nb) es nicht möglich war, wirksame Massnahmen zur Einhaltung der betreffenden Grenzwerte zu ergreifen;\nc) die Koordinierungsmechanismen gemäss Art. 50 genutzt wurden; und\nd) gegebenenfalls Art. 41d oder 41e angewandt wurden.\n2. Behandlung des Abwassers und Verwertung des Hofdüngers"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "9",
+      "title": "Art. 9 Öffentliche Kanalisationen und zentrale Abwasserreinigungsanlagen",
+      "content": "1) Die Gemeinden sorgen für die Erstellung öffentlicher Kanalisationen und zentraler Anlagen zur Reinigung von verschmutztem Abwasser. Sie kontrollieren diese regelmässig und sorgen für einen einwandfreien Betrieb und für die Wartung der Anlagen.\n2) Das Amt für Umwelt kann ausnahmsweise für standortgebundene Bauten ausserhalb der Bauzone, sofern der Schutz der Gewässer gewährleistet und ein Anschluss an die öffentliche Kanalisation unverhältnismässig ist, die Bewilligung erteilen, dass das verschmutzte Abwasser durch andere Systeme als durch zentrale Abwasserreinigungsanlagen behandelt wird.\n3) Die Aufsicht über Abwasseranlagen, die öffentlichen Zwecken dienen, obliegt dem Amt für Umwelt."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "10",
+      "title": "Art. 10 Anschluss- und Abnahmepflicht",
+      "content": "1) Im Bereich öffentlicher Kanalisationen muss verschmutztes Abwasser in die öffentliche Kanalisation eingeleitet werden. Grundeigentümer haben die privaten Kanalisationsanlagen nach den fachtechnischen Normen zu erstellen, regelmässig zu kontrollieren und für den einwandfreien Betrieb und die Wartung der Anlagen zu sorgen.\n2) Der Bereich öffentlicher Kanalisationen umfasst: a) erschlossene Gebiete innerhalb der Bauzonen;\nb) bestehende Objekte ausserhalb der Bauzonen, für die der Anschluss an die Kanalisation zweckmässig und zumutbar ist.\n3) Der Inhaber der Kanalisation ist verpflichtet, das Abwasser abzunehmen und der zentralen Abwasserreinigungsanlage zuzuführen.\n4) Die Gemeinden erteilen vorbehaltlich Art. 11 die Bewilligung zur Einleitung von häuslichem Abwasser in öffentliche Kanalisationen mit zentraler Abwasserreinigungsanlage. Sie üben die Aufsicht über die privaten Liegenschaftsentwässerungen aus und ordnen allfällige Sanierungsmassnahmen an."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "11",
+      "title": "Art. 11 Sonderfälle im Bereich öffentlicher Kanalisationen",
+      "content": "1) Wer Abwasser einleiten will, das den Anforderungen an die Einleitung in die Kanalisation nicht entspricht, muss es vorbehandeln. Das Amt für Umwelt legt die Art und Weise der Abwasservorbehandlung fest. Die Regelungen betreffend die Abwasservorbehandlung sind in regelmässigen Abständen zu überprüfen und erforderlichenfalls anzupassen.\n2) Das Amt für Umwelt entscheidet über die zweckmässige Beseitigung von Abwasser, das für die Behandlung in einer zentralen Abwasserreinigungsanlage nicht geeignet ist.\n3) Nicht verschmutztes Abwasser, das stetig anfällt, darf weder direkt noch indirekt einer zentralen Abwasserreinigungsanlage zugeleitet werden. Das Amt für Umwelt kann Ausnahmen bewilligen.\n4) In einem Landwirtschaftsbetrieb darf das häusliche Abwasser mit Bewilligung des Amt für Umwelt zusammen mit der Gülle landwirtschaftlich verwertet werden, wenn: a) ein Anschluss an die öffentliche Kanalisation nicht zumutbar ist;\nb) die Lagerkapazität auch für das häusliche Abwasser ausreicht; und\nc) die Verwertung auf der eigenen oder gepachteten Nutzfläche sichergestellt ist."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "12",
+      "title": "Art. 12 Besondere Verfahren der Abwasserbeseitigung",
+      "content": "1) Ausserhalb des Bereichs öffentlicher Kanalisationen ist das Abwasser entsprechend dem Stand der Technik zu entsorgen. Das Amt für Umwelt erteilt die entsprechende Bewilligung.\n2) Die Anforderungen an die Wasserqualität der Gewässer müssen erfüllt sein."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "13",
+      "title": "Art. 13 Betriebe mit Nutztierhaltung",
+      "content": "1) Auf jedem Betrieb mit Nutztierhaltung ist eine ausgeglichene Düngerbilanz anzustreben.\n2) Hofdünger muss umweltverträglich und entsprechend dem Stand der Technik landwirtschaftlich oder gartenbaulich verwertet werden.\n3) Im Betrieb müssen dafür Lagereinrichtungen mit einer Kapazität von mindestens vier Monaten vorhanden sein. Die Regierung kann für Betriebe im Berggebiet mit Verordnung eine grössere Lagerkapazität vorschreiben. Für Ställe, die nur für kurze Zeit mit Tieren belegt sind, kann das Amt für Umwelt eine kleinere Lagerkapazität bewilligen.\n4) Auf eine Hektare Nutzfläche darf der Dünger von höchstens drei Düngergrossvieheinheiten ausgebracht werden.\n5) Betriebe, die Dünger abgeben, müssen jede Abgabe im Informationssystem nach Art. 165f des schweizerischen Landwirtschaftsgesetzes (SR 910.1) erfassen.\n6) Die Regierung setzt mit Verordnung die pro Hektare zulässigen Düngergrossvieheinheiten herab, soweit Bodenbelastbarkeit, Höhenlage und topographische Verhältnisse dies erfordern."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "14",
+      "title": "Art. 14 Kontrolle von Anlagen und Einrichtungen",
+      "content": "1) Die Inhaber von Abwasseranlagen, Lagereinrichtungen und technischen Aufbereitungsanlagen für Hofdünger und flüssiges Gärgut sowie von Raufuttersilos sorgen dafür, dass diese sachgemäss erstellt, bedient, gewartet und unterhalten werden. Die Funktionstüchtigkeit von Abwasseranlagen und Düngeraufbereitungsanlagen muss in den Wasserschutzgebieten alle fünf Jahre, in den übrigen Gebieten alle zehn Jahre überprüft werden.\n2) Das Amt für Umwelt kontrolliert periodisch die Anlagen und Einrichtungen und verfügt allfällige Sanierungsmassnahmen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "15",
+      "title": "Art. 15 Ablagerungs- und Abstellplätze",
+      "content": "1) Ablagerungs- und Abstellplätze für Bau- und Landmaschinen sowie für Motorfahrzeuge müssen so gestaltet sein, dass durch deren Nutzung weder ober- noch unterirdische Gewässer gefährdet werden können.\n2) Das Amt für Umwelt ordnet bei bestehenden Ablagerungs- und Abstellplätzen, welche den Anforderungen von Abs. 1 nicht entsprechen, mittels Verfügung die Sanierung an."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "2. Behandlung des Abwassers und Verwertung des Hofdüngers",
+      "section": "16",
+      "title": "Art. 16 Ausführungsbestimmungen",
+      "content": "Die Regierung legt mit Verordnung die Anforderungen fest an: a) die Einleitung in Kanalisationen;\nb) besondere Ableitungen aus Produktionsprozessen;\nc) die Beschaffenheit, die Verwertung und die Beseitigung der Rückstände aus Abwasserreinigungsanlagen;\nd) Betriebe mit Nutztierhaltung;\ne) die Kontrolle von Anlagen und Einrichtungen.\n3. Abwassertechnische Voraussetzungen für die Erteilung von Baubewilligungen"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abwassertechnische Voraussetzungen für die Erteilung von Baubewilligungen",
+      "section": "17",
+      "title": "Art. 17 Bewilligung nach dem Baugesetz",
+      "content": "Die formellen Bewilligungen nach dem Baugesetz für Neu- und Umbauten dürfen nur erteilt werden, wenn: a) sämtliche Bewilligungen nach diesem Gesetz erteilt wurden;\nb) gewährleistet ist, dass Abwasser, das sich für die Behandlung in einer zentralen Abwasserreinigungsanlage nicht eignet, zweckmässig beseitigt wird (Art. 11 Abs. 2);\nc) gewährleistet ist, dass Ablagerungs- und Abstellplätze so gestaltet sind, dass durch deren Nutzung weder ober- noch unterirdische Gewässer gefährdet werden können.\n4. Umgang mit wassergefährdenden Flüssigkeiten"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Umgang mit wassergefährdenden Flüssigkeiten",
+      "section": "18",
+      "title": "Art. 18 Allgemeine Anforderungen",
+      "content": "1) Die Inhaber von Anlagen mit wassergefährdenden Flüssigkeiten, insbesondere von Anlagen für die Lagerung, Beförderung und den Umschlag, erstellen die zum Schutz der Gewässer erforderlichen baulichen und apparativen Vorrichtungen. Sie kontrollieren diese regelmässig und sorgen für einen einwandfreien Betrieb und für die Wartung der Anlagen.\n2) Für die Errichtung, Änderung und Erweiterung einer solchen Anlage ist eine Bewilligung des Amtes für Umwelt erforderlich. Die Regierung kann mit Verordnung Ausnahmen von der Bewilligungspflicht festlegen, sofern der Stand der Technik dies erlaubt und keine Gefährdung der Umwelt zu erwarten ist. Für solche Anlagen legt die Regierung die einzuhaltenden Vorschriften fest. Sie kann eine Meldepflicht anordnen.\n3) Stellen der Inhaber einer solchen Anlage oder die mit dem Betrieb oder der Wartung betrauten Personen einen Flüssigkeitsverlust fest, so melden sie dies unverzüglich der Landespolizei. Sie treffen von sich aus alle Massnahmen, um drohende Gewässerverunreinigungen zu verhindern.\n4) Das Amt für Umwelt führt einen Kataster, welcher mindestens die bewilligungs- und meldepflichtigen Anlagen beinhaltet."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Umgang mit wassergefährdenden Flüssigkeiten",
+      "section": "19",
+      "title": "Art. 19 Revisions- und Spezialarbeiten",
+      "content": "1) Revisionen von Anlagen mit wassergefährdenden Flüssigkeiten dürfen nur von Unternehmungen ausgeführt werden, die eine Bewilligung des Amtes für Umwelt haben. Die Regierung legt mit Verordnung die Bewilligungsvoraussetzungen fest.\n2) Spezialarbeiten an Anlagen mit wassergefährdenden Flüssigkeiten dürfen nur von Unternehmungen ausgeführt werden, die eine Bestätigung eines vom Amt für Umwelt bezeichneten Sachverständigen haben. Die Regierung regelt mit Verordnung, was Spezialarbeiten sind und legt die Bestätigungsvoraussetzungen fest."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Umgang mit wassergefährdenden Flüssigkeiten",
+      "section": "20",
+      "title": "Art. 20 Stoffe, die zu wassergefährdenden Flüssigkeiten werden können",
+      "content": "Art. 18 gilt sinngemäss für Stoffe, die vermischt mit Flüssigkeiten zu wassergefährdenden Flüssigkeiten werden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Umgang mit wassergefährdenden Flüssigkeiten",
+      "section": "21",
+      "title": "Art. 21 Ausführungsbestimmungen",
+      "content": "Die Regierung erlässt mit Verordnung Vorschriften über Standort, Konstruktionsmaterial, technische Ausgestaltung, Kennzeichnung, Befüllung und Revision der Anlagen, die wassergefährdende Stoffe enthalten. Insbesondere kann sie vorschreiben, dass Anlagen nur befüllt werden dürfen, wenn die Bestimmungen gemäss Art. 18 erfüllt sind.\n5. Bodenbewirtschaftung"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Bodenbewirtschaftung",
+      "section": "22",
+      "title": "Art. 22 Bodenbewirtschaftung",
+      "content": "Böden sind entsprechend dem Stand der Technik so zu bewirtschaften, dass die Gewässer nicht beeinträchtigt werden, namentlich nicht durch Abschwemmung und Auswaschung von Düngern und Pflanzenbehandlungsmitteln."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "5. Bodenbewirtschaftung",
+      "section": "23",
+      "title": "Art. 23 Gewässerrandstreifen",
+      "content": "1) Entlang von oberirdischen Gewässern ist innerhalb eines Streifens von drei Metern Breite das Ausbringen von Düngern sowie die Anwendung von Pflanzenbehandlungsmitteln verboten.\n2) Die Regierung kann, sofern die Anforderungen an die Wasserqualität (Art. 8 Abs. 1) durch Massnahmen gemäss Art. 7 bis 22 nicht erfüllt werden können oder die Erhaltung natürlicher Lebensräume in und an Gewässern dies erfordert, mit Verordnung breitere Gewässerrandstreifen festlegen.\nB. Planerischer Schutz der Gewässer"
+    },
+    {
+      "provision_ref": "art23a",
+      "chapter": "B. Planerischer Schutz der Gewässer",
+      "section": "23a",
+      "title": "Art. 23a Gewässerschutzbereiche",
+      "content": "1) Die Regierung teilt das Landesgebiet nach der Gefährdung der Gewässer in Gewässerschutzbereiche ein. Dabei wird zwischen besonders gefährdeten und übrigen Bereichen unterschieden. Das Nähere bestimmt die Regierung mit Verordnung.\n2) In den besonders gefährdeten Bereichen bedürfen die Erstellung und die Änderung von Bauten und Anlagen sowie Grabungen, Erdbewegungen und ähnliche Arbeiten einer Bewilligung des Amtes für Umwelt, wenn sie die Gewässer gefährden können."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "B. Planerischer Schutz der Gewässer",
+      "section": "24",
+      "title": "Art. 24 Wasserschutzgebiete, Schutzareale, Schutzzonen und Zuströmbereiche",
+      "content": "1) Zum Schutz der Wasserversorgung legt die Regierung mit Verordnung Wasserschutzgebiete, Schutzareale, Schutzzonen und Zuströmbereiche fest.\n2) Die Gemeinden berücksichtigen die festgelegten Wasserschutzgebiete, Schutzareale, Schutzzonen und Zuströmbereiche in ihren Bauordnungen und kennzeichnen sie in ihren Zonenplänen.\n3) Die Regierung legt mit Verordnung die in den Wasserschutzgebieten, Schutzarealen, Schutzzonen und Zuströmbereichen notwendigen Eigentumsbeschränkungen, insbesondere Bauverbote, Baubeschränkungen und Einschränkungen der Bodennutzungen fest. Die Eigentümer und Nutzungsberechtigten von Grundstücken sind zur Duldung entsprechender Massnahmen verpflichtet.\n4) Kommt eine Eigentumsbeschränkung einer Enteignung gleich, ist dafür eine Entschädigung gemäss den Bestimmungen des Gesetzes über das Verfahren in Expropriationsfällen zu leisten.\n5) Die Inhaber von Grund- und Quellwasserfassungen müssen: a) die notwendigen Erhebungen für die Abgrenzung der Schutzzonen und der Schutzareale durchführen;\nb) die erforderlichen dinglichen Rechte erwerben;\nc) für allfällige Entschädigungen von Eigentumsbeschränkungen aufkommen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "B. Planerischer Schutz der Gewässer",
+      "section": "25",
+      "title": "Art. 25 Gewässerraum",
+      "content": "1) Die Regierung legt im Einvernehmen mit den Gemeinden in einem Plan den Raumbedarf der Fliessgewässer (Gewässerraum), der für die Gewährleistung der ökologischen Funktionen des Gewässers und den Schutz vor Hochwasser erforderlich ist, fest.\n2) Die Landes- und Gemeindebehörden berücksichtigen den Raumbedarf der Gewässer sowie die Hochwassergefahrengebiete in ihren Bauordnungen und Zonenplänen sowie bei ihrer übrigen raumwirksamen Tätigkeit.\nC. Sicherung angemessener Restwassermengen"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "C. Sicherung angemessener Restwassermengen",
+      "section": "26",
+      "title": "Art. 26 Konzession und Voraussetzungen",
+      "content": "1) Die Entnahme von Wasser aus einem ober- oder unterirdischen Gewässer über den Gemein- oder Eigentümergebrauch hinaus bedarf einer Konzession gemäss dem Wasserrechtsgesetz.\n2) Eine Konzession nach Abs. 1 darf nur erteilt werden, sofern neben den Bestimmungen des Wasserrechtsgesetzes Art. 27 bis 29 dieses Gesetzes eingehalten sind."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "C. Sicherung angemessener Restwassermengen",
+      "section": "27",
+      "title": "Art. 27 Wasserentnahmen aus kleinen Fliessgewässern",
+      "content": "1) Aus Fliessgewässern mit ständiger Wasserführung und einer mittleren Abflussmenge von weniger als 50 Litern pro Sekunde darf über den Gemein- und Eigentümergebrauch nach dem Wasserrechtsgesetz hinaus kein Wasser entnommen werden.\n2) Die Regierung kann Ausnahmen von Abs. 1 für zeitlich beschränkte Wasserentnahmen zulassen, wenn: a) die ökologische Funktionsfähigkeit des Gewässers dadurch nicht beeinträchtigt wird;\nb) zusammen mit anderen Entnahmen einem Fliessgewässer höchstens 20 % der mittleren Abflussmenge entnommen wird; und\nc) die Wasserentnahme nicht in der Niedrigabflussperiode erfolgt."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "C. Sicherung angemessener Restwassermengen",
+      "section": "28",
+      "title": "Art. 28 Mindestrestwassermenge",
+      "content": "Bei Wasserentnahmen aus Fliessgewässern mit ständiger Wasserführung muss eine ausreichende Restwassermenge (Mindestrestwassermenge) verbleiben. Eine Restwassermenge gilt dann als ausreichend, wenn: a) die vorgeschriebene Wasserqualität der Oberflächengewässer trotz der Wasserentnahme und bestehender Abwassereinleitungen eingehalten wird;\nb) Grundwasservorkommen weiterhin so gespiesen werden können, dass die davon abhängige Trinkwassergewinnung im erforderlichen Ausmass möglich ist und der Wasserhaushalt landwirtschaftlich genutzter Böden nicht wesentlich beeinträchtigt wird;\nc) seltene Lebensräume und -gemeinschaften, die direkt oder indirekt von der Art und Grösse des Gewässers abhängen, erhalten bleiben oder, wenn nicht zwingende Gründe entgegenstehen, nach Möglichkeit durch gleichwertige ersetzt werden;\nd) die für die freie Fischwanderung erforderliche Wassertiefe gewährleistet ist;\ne) bei Fliessgewässern, die als Laichstätten oder als Aufzuchtgebiete von Fischen dienen, diese Funktionen weiterhin gewährleistet sind."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "C. Sicherung angemessener Restwassermengen",
+      "section": "29",
+      "title": "Art. 29 Festlegung der Dotierwassermenge",
+      "content": "1) Die Regierung bestimmt im Einzelfall die Dotierwassermenge und die anderen Massnahmen, die zum Schutz der Gewässer unterhalb der Entnahmestelle notwendig sind.\n2) Die Regierung kann die Dotierwassermenge zeitlich unterschiedlich festlegen. Die Mindestrestwassermenge nach Art. 28 darf nicht unterschritten werden.\n3) Die Regierung hört vor ihrem Entscheid die Standortgemeinde, die Nutzungsberechtigten und die interessierten Fachstellen an."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "C. Sicherung angemessener Restwassermengen",
+      "section": "30",
+      "title": "Art. 30 Kontrolle der Dotierwassermenge",
+      "content": "1) Wer einem Gewässer Wasser entnimmt, muss der Regierung durch Messungen nachweisen, dass die Dotierwassermenge eingehalten ist. Ist der Aufwand nicht zumutbar, so kann der Nachweis durch Berechnung der Wasserbilanz erbracht werden.\n2) Weist er nach, dass die zufliessende Wassermenge zeitweise geringer ist als die festgelegte Dotierwassermenge, so muss er während dieser Zeit nur so viel Dotierwasser abgeben, wie Wasser zufliesst.\nD. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "31",
+      "title": "Art. 31 Verbauung und Korrektion von Fliessgewässern",
+      "content": "1) Fliessgewässer dürfen nur verbaut oder korrigiert werden, wenn: a) der Schutz von Menschen oder erheblichen Sachwerten es erfordert;\nb) es für eine Nutzung der Wasserkraft nötig ist; oder\nc) dadurch der Zustand eines bereits verbauten oder korrigierten Gewässers im Sinne dieses Gesetzes verbessert werden kann.\n2) Wird ein Fliessgewässer verbaut oder korrigiert, so muss der natürliche Verlauf des Gewässers möglichst beibehalten oder wiederhergestellt werden. Gewässer und Gewässerraum müssen so gestaltet werden, dass: a) sie einer vielfältigen Tier- und Pflanzenwelt als Lebensraum dienen können;\nb) die Wechselwirkungen zwischen ober- und unterirdischem Gewässer weitgehend erhalten bleiben;\nc) eine standortgerechte Ufervegetation gedeihen kann.\n3) In überbauten Gebieten oder wenn der Hochwasserschutz eine Bauweise erfordert, bei welcher die Kriterien von Abs. 2 nicht erfüllt werden können, kann die Regierung Ausnahmen von Abs. 2 bewilligen.\n4) Für die Schaffung künstlicher Fliessgewässer gilt Abs. 2 sinngemäss."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "32",
+      "title": "Art. 32 Überdecken oder Eindolen von Fliessgewässern",
+      "content": "1) Fliessgewässer dürfen nicht überdeckt oder eingedolt werden.\n2) Die Regierung kann Ausnahmen bewilligen für: a) Verkehrsübergänge;\nb) Übergänge land- und forstwirtschaftlicher Güterwege;\nc) den Ersatz bestehender Eindolungen und Überdeckungen, sofern eine offene Wasserführung nicht möglich ist oder für die landwirtschaftliche Nutzung erhebliche Nachteile mit sich bringt.\n3) Die Regierung kann Ausnahmebewilligungen nach Abs. 2 mit der Auflage verbinden, dass Ersatzmassnahmen in Form einer flächengleichen Öffnung oder einer naturnahen Gestaltung eines Fliessgewässers getroffen werden."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "33",
+      "title": "Art. 33 Leitungen",
+      "content": "1) Leitungen, welche ein Gewässer queren, sind grundsätzlich unterhalb der Gewässersohle zu verlegen.\n2) Bei Brücken über ein Gewässer können Leitungen in deren Tragwerk integriert werden, sofern dadurch der freie Durchflussquerschnitt nicht reduziert wird."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "34",
+      "title": "Art. 34 Verbesserung der oberirdischen Gewässer als Lebensräume",
+      "content": "1) Land und Gemeinden ergreifen Massnahmen, um oberirdische Gewässer in einen möglichst naturnahen Zustand überzuführen. Das Land erstellt im Einvernehmen mit den betroffenen Gemeinden auf der Grundlage des Fliessgewässerkatasters (Art. 51) einen Massnahmenplan.\n2) Im Massnahmenplan werden die einzelnen Massnahmen sowie die Fristen zu deren Durchführung nach der Dringlichkeit des Einzelfalles festgelegt.\n3) Vor der Durchführung von Massnahmen sind die interessierten Personen und Körperschaften anzuhören.\n4) Das Land ist für die Durchführung der Massnahmen beim Rhein, Binnenkanal, Spiersbach, Parallelgraben und Grenzgraben sowie bei der Esche und Samina zuständig. Die Gemeinden führen die Massnahmen bei den übrigen in ihrem Gebiet liegenden Gewässern durch.\n5) Land und Gemeinden überprüfen regelmässig die Wirksamkeit der Massnahmen und passen bei Bedarf den Massnahmenplan an."
+    },
+    {
+      "provision_ref": "art34a",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "34a",
+      "title": "Art. 34a Schwall und Sunk",
+      "content": "1) Kurzfristige künstliche Änderungen des Wasserabflusses in einem Gewässer (Schwall und Sunk), welche die einheimischen Tiere und Pflanzen sowie deren Lebensräume wesentlich beeinträchtigen, müssen von den Inhabern von Wasserkraftwerken mit baulichen Massnahmen verhindert oder beseitigt werden. Auf Antrag des Inhabers eines Wasserkraftwerks kann die Regierung anstelle von baulichen Massnahmen betriebliche anordnen.\n2) Die Massnahmen richten sich nach: a) dem Grad der Beeinträchtigungen des Gewässers;\nb) dem ökologischen Potenzial des Gewässers;\nc) der Verhältnismässigkeit des Aufwandes;\nd) den Interessen des Hochwasserschutzes;\ne) den energiepolitischen Zielen zur Förderung erneuerbarer Energien.\n3) Die Regierung legt nach Anhörung der Inhaber der Wasserkraftwerke sowie weiterer interessierter Stellen die Massnahmen und Fristen zu deren Umsetzung fest.\n4) Ausgleichbecken, die in Anwendung von Abs. 1 erstellt werden, dürfen zur Pumpspeicherung genutzt werden, ohne dass eine Konzessionsänderung erforderlich ist."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "35",
+      "title": "Art. 35 Spülung und Entleerung von Stauräumen",
+      "content": "1) Der Inhaber einer Stauanlage sorgt dafür, dass bei der Spülung und Entleerung des Stauraumes oder bei der Prüfung von Vorrichtungen für das Ablassen von Wasser und die Hochwasserentlastung die Tier- und Pflanzenwelt im Unterlauf des Gewässers nicht beeinträchtigt wird.\n2) Der Inhaber einer Stauanlage darf Spülungen und Entleerungen nur mit Bewilligung des Amtes für Umwelt vornehmen. Das Amt für Umwelt hört die interessierten Fachstellen an. Sind periodische Spülungen und Entleerungen zur Erhaltung der Betriebssicherheit notwendig, so legt das Amt für Umwelt lediglich Zeitpunkt und Art der Durchführung fest.\n3) Muss der Inhaber aufgrund ausserordentlicher Ereignisse den Stausee aus Sicherheitsgründen sofort absenken, so orientiert er unverzüglich das Amt für Umwelt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "36",
+      "title": "Art. 36 Treibgut bei Stauanlagen",
+      "content": "1) Wer ein Gewässer staut, darf Treibgut, das er aus betrieblichen Gründen dem Gewässer entnommen hat, nicht ins Gewässer zurückgeben. Das Amt für Umwelt kann Ausnahmen bewilligen.\n2) Der Inhaber der Stauanlage muss das Treibgut nach Anordnungen des Amtes für Umwelt im Bereich seiner Anlage periodisch einsammeln."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "37",
+      "title": "Art. 37 Rückhalteanlagen",
+      "content": "Rückhalteanlagen, insbesondere Schlammsammler, sind so zu unterhalten, dass deren Absetzfunktion dauernd gewährleistet ist."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "38",
+      "title": "Art. 38 Einleitung von Wasser oder Abwasser",
+      "content": "1) Bei einem Fliessgewässer sind Art und Ort der Einleitung von Wasser oder Abwasser so zu wählen, dass möglichst keine Verbauungen und Korrektionen notwendig werden. Sind Verbauungen notwendig, sind naturnahe Bauweisen zu bevorzugen.\n2) Wassereinleitungen, die das Abflussregime eines Fliessgewässers massgeblich verändern können, bedürfen der Bewilligung des Amtes für Umwelt."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "39",
+      "title": "Art. 39 Erhaltung von Grundwasservorkommen",
+      "content": "1) Bei allen wasserbaulichen Massnahmen wie Flussbau, Drainagen oder Wasserentnahmen sind die Grundwasservorkommen in Bezug auf Menge und Qualität zu schützen.\n2) Die Regierung sorgt dafür, dass aus einem Grundwasservorkommen langfristig nicht mehr Wasser entnommen wird, als ihm zufliesst. Kurzfristig darf mehr Wasser entnommen werden, sofern dadurch die Qualität des Grundwassers, und die Vegetation nicht beeinträchtigt werden.\n3) Ist ein Grundwasservorkommen durch übermässige Entnahme oder durch eine verringerte Speisung beeinträchtigt, so sorgt die Regierung für eine möglichst weitgehende Verbesserung des Zustands durch flussbauliche Massnahmen, Verminderung der Entnahmewassermenge, künstliche Anreicherung oder andere Massnahmen.\n4) Grundwasservorkommen dürfen nicht dauernd miteinander verbunden werden, wenn dadurch Menge oder Qualität des Grundwassers beeinträchtigt werden können.\n5) Speichervolumen und Durchfluss nutzbarer Grundwasservorkommen dürfen durch Einbauten nicht wesentlich und dauernd verringert werden.\n6) Wird der Grundwasserspiegel auf einer Fläche von mehr als 5 000 m&sup2; und länger als zwei Jahre verändert, bedarf dies der Bewilligung der Regierung.\n7) Die Entwässerung eines Gebietes, durch die der Grundwasserspiegel eines Natur- oder Landschaftsschutzgebietes dauernd abgesenkt wird, ist untersagt. Vorbehalten bleiben Entwässerungen zur Sicherung von Hangrutschungen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "40",
+      "title": "Art. 40 Drainagen und Wasserhaltung",
+      "content": "1) Bei Wasserhaltungen im Rahmen von Bauvorhaben und bei Drainagen ist der Grundwasserstand durch alle erforderlichen Massnahmen so zu regulieren, dass Geländesenkungen möglichst vermieden werden.\n2) Die Regierung legt mit Verordnung die erforderlichen Massnahmen fest."
+    },
+    {
+      "provision_ref": "art40a",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "40a",
+      "title": "Art. 40a Geschiebehaushalt",
+      "content": "1) Der Geschiebehaushalt im Gewässer darf durch Anlagen nicht so verändert werden, dass die einheimischen Tiere und Pflanzen, deren Lebensräume, der Grundwasserhaushalt und der Hochwasserschutz wesentlich beeinträchtigt werden. Die Inhaber der Anlagen treffen dazu geeignete Massnahmen.\n2) Die Massnahmen richten sich nach: a) dem Grad der Beeinträchtigungen des Gewässers;\nb) dem ökologischen Potenzial des Gewässers;\nc) der Verhältnismässigkeit des Aufwandes;\nd) den Interessen des Hochwasserschutzes;\ne) den energiepolitischen Zielen zur Förderung erneuerbarer Energien.\n3) Die Regierung legt nach Anhörung der Inhaber der Anlagen sowie weiterer interessierter Stellen die Massnahmen und Fristen zu deren Umsetzung fest."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "D. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer",
+      "section": "41",
+      "title": "Art. 41 Ausbeutung von Kies, Sand und anderem Material",
+      "content": "1) Wer Kies, Sand und anderes Material ausbeuten will, benötigt eine Bewilligung der Regierung.\n2) Vorbehalten bleiben die Bestimmungen des Sachenrechts und die darauf gestützt erlassenen Verordnungen betreffend die Ausbeutung von Gesteinsmaterialien im Rhein und in den Rüfen.\n3) Eine Bewilligung darf nicht erteilt werden: a) in Wasserschutzgebieten, Schutzzonen und Schutzarealen;\nb) in Fliessgewässern, wenn der Geschiebehaushalt nachteilig beeinflusst wird.\nIIa. Bewirtschaftung der Gewässer"
+    },
+    {
+      "provision_ref": "art41a",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41a",
+      "title": "Art. 41a Umweltziele",
+      "content": "1) Oberirdische Gewässer sind, soweit sie nicht gemäss Art. 41c als künstlich oder erheblich verändert eingestuft werden, so zu bewirtschaften, dass: a) eine nachteilige Veränderung ihres ökologischen und chemischen Zustands vermieden wird; und\nb) ein guter ökologischer und chemischer Zustand gemäss Anhang V der Richtlinie 2000/60/EG erhalten oder erreicht wird.\n2) Künstliche und erheblich veränderte oberirdische Gewässer sind so zu bewirtschaften, dass: a) eine nachteilige Veränderung ihres ökologischen Potenzials und chemischen Zustands vermieden wird; und\nb) ein gutes ökologisches Potenzial und ein guter chemischer Zustand gemäss Anhang V der Richtlinie 2000/60/EG erhalten oder erreicht wird.\n3) Das Grundwasser ist so zu bewirtschaften, dass: a) eine nachteilige Veränderung seines mengenmässigen und chemischen Zustands vermieden wird;\nb) alle signifikant und anhaltenden Trends ansteigender Schadstoffkonzentrationen aufgrund der Auswirkungen menschlicher Tätigkeiten umgekehrt werden;\nc) ein Gleichgewicht zwischen Grundwasserentnahme und Grundwasserneubildung gewährleistet ist; und\nd) ein guter mengenmässiger und chemischer Zustand gemäss Anhang V der Richtlinie 2000/60/EG erhalten oder erreicht wird.\n4) Vorbehalten bleiben Umweltziele in anderen Rechtsvorschriften, soweit diese weiterreichen als die Umweltziele nach diesem Artikel."
+    },
+    {
+      "provision_ref": "art41b",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41b",
+      "title": "Art. 41b Frist zur Erreichung der Umweltziele",
+      "content": "1) Die Umweltziele gemäss Art. 41a Abs. 1 Bst. b, Art. 41a Abs. 2 Bst. b und Art. 41a Abs. 3 Bst. d sind vorbehaltlich Abs. 2 bis zum 1. Mai 2021 zu erreichen.\n2) Die Regierung kann die Frist nach Abs. 1 im Einzelfall verlängern, wenn keine weitere Verschlechterung des Gewässerzustands eintritt und: a) die notwendigen Verbesserungen des Gewässerzustands aufgrund der natürlichen Gegebenheiten nicht fristgerecht erreicht werden können;\nb) die nach Art. 41n vorgesehenen Massnahmen nur schrittweise in einem längeren Zeitraum technisch durchführbar sind; oder\nc) die Massnahmen bei Einhaltung der Frist unverhältnismässig hohe Kosten verursachen würden.\n3) Fristverlängerungen nach Abs. 2 dürfen die Verwirklichung der in Art. 41a festgelegten Ziele in anderen Gewässern nicht dauerhaft ausschliessen oder gefährden und müssen mit sonstigen Rechtsvorschriften vereinbar sein.\n4) Die Frist kann höchstens zweimal um sechs Jahre verlängert werden, es sei denn, die Ziele lassen sich aufgrund der natürlichen Gegebenheiten nicht innerhalb dieses Zeitraums erreichen."
+    },
+    {
+      "provision_ref": "art41c",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41c",
+      "title": "Art. 41c Einstufung oberirdischer Gewässer als künstlich oder erheblich verändert",
+      "content": "1) Oberirdische Gewässer können von der Regierung als künstlich oder erheblich verändert eingestuft werden, wenn: a) die zur Erreichung eines guten ökologischen Zustands erforderlichen Änderungen der hydromorphologischen Merkmale des Gewässers signifikante negative Auswirkungen hätten auf: 1. die Umwelt insgesamt;\n2. Tätigkeiten, zu deren Zweck das Wasser gespeichert oder entnommen wird, wie Stromerzeugung oder Bewässerung;\n3. die Wasserregulierung, den Schutz vor Überflutungen, die Landentwässerung; oder\n4. andere ebenso wichtige nachhaltige Entwicklungstätigkeiten des Menschen; und\nb) die nutzbringenden Ziele, denen die künstlichen oder veränderten Merkmale des Gewässers dienen, nicht in sinnvoller Weise durch andere Mittel erreicht werden können. Diese anderen Mittel müssen: 1. technisch durchführbar sein;\n2. jedenfalls eine wesentlich bessere Umweltoption darstellen; und\n3. keine unverhältnismässigen Kosten verursachen.\n2) Die Einstufung eines Gewässers gemäss Abs. 1 darf die Verwirklichung der in Art. 41a festgelegten Ziele in anderen Gewässern nicht dauerhaft ausschliessen oder gefährden.\n3) Die Einstufung gemäss Abs. 1 und die Gründe dafür sind im Bewirtschaftungsplan (Art. 41q) darzulegen und alle sechs Jahre zu überprüfen."
+    },
+    {
+      "provision_ref": "art41d",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41d",
+      "title": "Art. 41d Ausnahmen von den Umweltzielen",
+      "content": "1) Für bestimmte Gewässer kann die Regierung weniger strenge Ziele als die Umweltziele gemäss Art. 41a festgelegen, wenn: a) die Gewässer durch menschliche Tätigkeiten im Sinne von Art. 41i so beeinträchtigt oder ihre natürlichen Gegebenheiten so beschaffen sind, dass die Erreichung der Ziele unmöglich ist oder mit unverhältnismässigen Kosten verbunden wäre;\nb) die ökologischen und sozioökonomischen Erfordernisse, denen diese menschlichen Tätigkeiten dienen, nicht durch Massnahmen erreicht werden können, die wesentlich geringere nachteilige Auswirkungen auf die Umwelt hätten und nicht mit unverhältnismässig hohen Kosten verbunden wären;\nc) weitere Verschlechterungen des Zustands der Gewässer vermieden werden; und\nd) unter Berücksichtigung der Auswirkungen, die infolge der Art der menschlichen Tätigkeiten oder der Gewässerbeschaffenheit nicht zu vermeiden waren: 1. bei oberirdischen Gewässern der bestmögliche ökologische und chemische Zustand erreicht wird;\n2. beim Grundwasser die geringstmöglichen Veränderungen des guten Zustands erfolgen.\n2) Werden die physikalischen Eigenschaften von oberirdischen Gewässern oder der Grundwasserstand verändert und ist deshalb der gute ökologische Zustand oder das gute ökologische Potenzial nicht zu erreichen oder eine Verschlechterung des Zustands eines oberirdischen Gewässers nicht zu vermeiden, ist dies zulässig, wenn: a) die Gründe für die Veränderung von übergeordnetem öffentlichen Interesse sind oder der Nutzen, den die Verwirklichung der in Art. 41a genannten Ziele für die Umwelt und die Allgemeinheit hat, durch den Nutzen der Veränderungen für die Gesundheit oder Sicherheit des Menschen oder die nachhaltige Entwicklung übertroffen wird;\nb) die Ziele, die mit den Veränderungen des Gewässers verfolgt werden, nicht mit anderen geeigneten Massnahmen erreicht werden können, die wesentlich geringere nachteilige Auswirkungen auf die Umwelt haben, technisch durchführbar sind und nicht mit unverhältnismässig hohen Kosten verbunden sind; und\nc) alle praktisch geeigneten Massnahmen ergriffen werden, um die nachteiligen Auswirkungen auf den Zustand der Gewässer zu verringern.\n3) Bei neuen nachhaltigen Einwirkungen im Sinne von Art. 41c Abs. 1 Bst. a ist unter den in Abs. 2 genannten Voraussetzungen auch eine Verschlechterung von einem sehr guten in einen guten Zustand der oberirdischen Gewässer zulässig.\n4) Die Anwendung der Abs. 1 bis 3 darf die Verwirklichung der in Art. 41a festgelegten Ziele in anderen Gewässern nicht dauerhaft ausschliessen oder gefährden und muss mit sonstigen Rechtsvorschriften vereinbar sein."
+    },
+    {
+      "provision_ref": "art41e",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41e",
+      "title": "Art. 41e Vorübergehende Verschlechterungen",
+      "content": "1) Treten vorübergehende Verschlechterungen des Zustands der Gewässer aufgrund natürlicher Ursachen oder höherer Gewalt, die aussergewöhnlich sind oder durch Unfälle, die nicht vorhersehbar sind, ein, so sorgt die Regierung dafür, dass: a) alle praktischen Massnahmen ergriffen werden, um eine weitere Verschlechterung des Zustands der Gewässer und eine Gefährdung der zu erreichenden Ziele in anderen, von diesen Umständen nicht betroffenen Gewässern zu verhindern;\nb) die zu ergreifenden Massnahmen, die nach Wegfall der Umstände eine Wiederherstellung des vorherigen Zustands der Gewässer nicht gefährden dürfen, im Massnahmenprogramm gemäss Art. 41n angeführt werden; und\nc) die Auswirkungen der Umstände jährlich überprüft und die praktisch geeigneten Massnahmen ergriffen werden, um den vorherigen Zustand der Gewässer vorbehaltlich der in Art. 4 Abs. 4 Bst. a der Richtlinie 2000/60/EG genannten Gründe so bald wie möglich wieder herzustellen.\n2) Abs. 1 darf die Verwirklichung der in Art. 41a festgelegten Ziele in anderen Gewässern nicht dauerhaft ausschliessen oder gefährden und muss mit sonstigen Rechtsvorschriften vereinbar sein."
+    },
+    {
+      "provision_ref": "art41f",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41f",
+      "title": "Art. 41f Prioritäre und prioritär gefährliche Stoffe in oberirdischen Gewässern",
+      "content": "1) Die Regierung ergreift alle notwendigen Massnahmen, um die Verschmutzung der oberirdischen Gewässer durch prioritäre Stoffe schrittweise zu reduzieren und die Einleitungen, Emissionen und Verluste prioritär gefährlicher Stoffe in diese Gewässer zu beenden oder schrittweise einzustellen.\n2) Als prioritäre Stoffe oder prioritär gefährliche Stoffe gelten diejenigen Stoffe, welche in Anhang X der Richtlinie 2000/60/EG aufgelistet sind."
+    },
+    {
+      "provision_ref": "art41g",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41g",
+      "title": "Art. 41g Prioritäre Stoffe in Sedimenten und Biota",
+      "content": "1) Das Amt für Umwelt führt im Rahmen der Gewässerzustandsüberwachung gemäss Art. 41k eine langfristige Trendermittlung der Konzentrationen derjenigen prioritären Stoffe durch, die in Anhang I der Richtlinie 2008/105/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Umweltqualitätsnormen im Bereich der Wasserpolitik (ABl. L 348 vom 24.12.2008, S. 84) aufgeführt sind. Die Trendermittlung hat für diejenigen Stoffe zu erfolgen, die dazu neigen, sich in Sedimenten und Biota anzusammeln.\n2) Die Überwachungsfrequenz für Sedimente oder Biota richtet sich nach der Richtlinie 2008/105/EG.\n3) Die Regierung ergreift alle Massnahmen, damit die Konzentrationen der in Abs. 1 erwähnten Stoffe in Sedimenten und Biota nicht signifikant ansteigen."
+    },
+    {
+      "provision_ref": "art41h",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41h",
+      "title": "Art. 41h Schadstoffe im Grundwasser",
+      "content": "1) Das Amt für Umwelt ermittelt im Rahmen der Gewässerzustandsüberwachung gemäss Art. 41k jeden signifikant und anhaltend steigenden Trend von einzelnen Schadstoffen, Schadstoffgruppen und Verschmutzungsindikatoren im Grundwasser, das nach Art. 41m Abs. 2 und 3 als gefährdet eingestuft wurde.\n2) Die Trendermittlung und die Festlegung des Ausgangspunktes für die Trendumkehr ist unter Berücksichtigung von Anhang IV der Richtlinie 2006/118/EG vorzunehmen."
+    },
+    {
+      "provision_ref": "art41i",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41i",
+      "title": "Art. 41i Bestandsaufnahme",
+      "content": "1) Das Amt für Umwelt führt bis 1. Mai 2014 eine Bestandsaufnahme durch. Diese enthält: a) eine Beschreibung der Merkmale der Gewässer;\nb) eine Überprüfung der Auswirkungen menschlicher Tätigkeiten auf den Zustand der Gewässer;\nc) ein Verzeichnis der gemäss Art. 24 festgelegten Wasserschutzgebiete, Schutzzonen und Schutzareale, der nährstoffsensiblen Gebiete sowie der Naturschutzgebiete, bei denen die Erhaltung oder Verbesserung des Wasserzustands ein wichtiger Faktor ist; und\nd) eine wirtschaftliche Analyse der Wassernutzungen.\n2) Die Beschreibung gemäss Abs. 1 Bst. a, die Überprüfung gemäss Abs. 1 Bst. b sowie die wirtschaftliche Analyse gemäss Abs. 1 Bst. d sind entsprechend den technischen Spezifikationen in Anhang II und III der Richtlinie 2000/60/EG durchzuführen und spätestens bis zum 1. Mai 2022 und danach alle sechs Jahre zu überprüfen und gegebenenfalls zu aktualisieren.\n3) Das Verzeichnis gemäss Abs. 1 Bst. c ist regelmässig zu überarbeiten und zu aktualisieren.\n4) Die Ergebnisse der Bestandsaufnahme dienen als Grundlage für die Ausarbeitung und Weiterentwicklung der Überwachungsprogramme gemäss Art. 41k, des Massnahmenprogramms gemäss Art. 41n sowie des Bewirtschaftungsplans gemäss Art. 41q."
+    },
+    {
+      "provision_ref": "art41k",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41k",
+      "title": "Art. 41k Überwachungsprogramme",
+      "content": "1) Das Amt für Umwelt errichtet bis zum 1. Mai 2014 Programme zur Überwachung des Zustands der Gewässer. Sie sind so zu errichten, dass sich daraus ein zusammenhängender und umfassender Überblick gewinnen lässt über: a) den ökologischen und chemischen Zustand sowie das ökologische Potenzial der oberirdischen Gewässer; und\nb) den mengenmässigen und chemischen Zustand des Grundwassers.\n2) Die Überwachung erfolgt entsprechend den Anforderungen von Anhang V der Richtlinie 2000/60/EG. Insbesondere ist auch die Menge und der Wasserzustand oder die Durchflussgeschwindigkeit zu überwachen, soweit diese Kriterien für den ökologischen und chemischen Zustand sowie das ökologische Potenzial von Bedeutung sind.\n2a) Das Amt für Umwelt überwacht Stoffe und Stoffgruppen der Beobachtungsliste nach Art. 8b der Richtlinie 2008/105/EG.\n3) Die technischen Spezifikationen und standardisierten Verfahren für die Analyse und Überwachung des Wasserzustands sowie von Stoffen oder Stoffgruppen der Beobachtungsliste richten sich nach den massgebenden EWR-Rechtsvorschriften."
+    },
+    {
+      "provision_ref": "art41l",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41l",
+      "title": "Art. 41l Erfassung der Emissionen, Einleitungen und Verluste prioritärer Stoffe und anderer Schadstoffe in oberirdische Gewässer",
+      "content": "1) Das Amt für Umwelt erfasst auf Grundlage der gemäss Art. 41i und 41k sowie der Verordnung (EG) Nr. 166/2006 des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Schaffung eines Europäischen Schadstofffreisetzungs- und -verbringungsregisters (EWR-Rechtssammlung: Anh. XX - 1h.01) erhobenen Informationen sowie anderer verfügbaren Informationen die Emissionen, Einleitungen und Verluste aller prioritärer Stoffe und Schadstoffe nach Anhang I der Richtlinie 2008/105/EG, einschliesslich ihrer Konzentrationen in Sedimenten und Biota.\n2) Die Erfassung gemäss Abs. 1 ist nach Massgabe der in den entsprechenden EWR-Rechtsvorschriften vorgegebenen technischen Leitlinien und unter Berücksichtigung der in der Richtlinie 2008/105/EG festgelegten Referenzzeiträume zu erstellen. Sie ist im Rahmen der Überprüfung der Bestandsaufnahme (Art. 41i Abs. 2) zu aktualisieren und im überprüften Bewirtschaftungsplan (Art. 41q Abs. 3) zu veröffentlichen."
+    },
+    {
+      "provision_ref": "art41m",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41m",
+      "title": "Art. 41m Beurteilung des Zustands der Gewässer",
+      "content": "1) Das Amt für Umwelt beurteilt den Zustand der Gewässer gemäss den Bestimmungen von Anhang V der Richtlinie 2000/60/EG.\n2) Zur Beurteilung des chemischen Zustands der Gewässer sind die gemäss Art. 8 Abs. 2 Bst. e festgelegten Grenzwerte heranzuziehen.\n3) Das Grundwasser gilt als in einem guten chemischen Zustand, wenn: a) die Überwachung gemäss Art. 41k zeigt, dass die Bedingungen des Anhangs V Abschnitt 2.3.2 der Richtlinie 2000/60/EG eingehalten werden;\nb) die gemäss Art. 8 Abs. 2 Bst. e festgelegten Grenzwerte an keiner Überwachungsstelle im Grundwasser überschritten werden; oder\nc) ein gemäss Art. 8 Abs. 2 Bst. e festgelegter Grenzwert überschritten wird, eine geeignete Untersuchung jedoch bestätigt, dass die in Art. 4 Abs. 2 Bst. c der Richtlinie 2006/118/EG festgehalten Bedingungen erfüllt sind."
+    },
+    {
+      "provision_ref": "art41n",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41n",
+      "title": "Art. 41n Massnahmenprogramm",
+      "content": "1) Die Regierung erstellt im Einvernehmen mit den Gemeinden zur Erreichung der Umweltziele gemäss Art. 41a bis zum 1. Mai 2016 ein Massnahmenprogramm mit grundlegenden und gegebenenfalls ergänzenden Massnahmen.\n2) Als grundlegende Massnahmen im Sinne von Abs. 1 gelten alle in Art. 11 Abs. 3 der Richtlinie 2000/60/EG bezeichneten Massnahmen; zudem sind auch Massnahmen unter Berücksichtigung von Art. 4 Abs. 5, Art. 5 Abs. 2 und Art. 6 der Richtlinie 2006/118/EG festzulegen. Die grundlegenden Massnahmen dürfen nicht zu einer zusätzlichen Verschmutzung der oberirdischen Gewässer führen. Diese Anforderung gilt nicht, wenn sie eine stärkere Verschmutzung der Umwelt insgesamt bewirken würde.\n3) Als ergänzende Massnahmen im Sinne von Abs. 1 gelten insbesondere die in Anhang VI Teil B der Richtlinie 2000/60/EG bezeichneten Massnahmen. Diese sind dann zu ergreifen, wenn sie zur Erreichung der Umweltziele erforderlich sind.\n4) Innerhalb von drei Jahren nach der Veröffentlichung des Bewirtschaftungsplans nach Art. 41q sowie nach jeder Aktualisierung erstellt das Amt für Umwelt einen Zwischenbericht mit einer Darstellung der Fortschritte, die bei der Durchführung des Massnahmenprogramms erzielt wurden.\n5) Der Zwischenbericht nach Abs. 4 ist der Öffentlichkeit elektronisch zugänglich zu machen."
+    },
+    {
+      "provision_ref": "art41o",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41o",
+      "title": "Art. 41o Umsetzung und Überprüfung des Massnahmenprogramms",
+      "content": "1) Die im Massnahmenprogramm enthaltenen Massnahmen sind vorbehaltlich Art. 41b Abs. 2 bis zum 1. Mai 2020 umzusetzen. Neue oder im Rahmen eines angepassten Programms geänderte Massnahmen sind innerhalb von drei Jahren umzusetzen.\n2) Das Massnahmenprogramm ist spätestens bis zum 1. Mai 2021 und danach alle sechs Jahre zu überprüfen und gegebenenfalls anzupassen."
+    },
+    {
+      "provision_ref": "art41p",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41p",
+      "title": "Art. 41p Prüfung der Zielerreichung und Zusatzmassnahmen",
+      "content": "Ergibt sich aus der Überwachung gemäss Art. 41k oder aus sonstigen Erkenntnissen, dass die in Art. 41a genannten Umweltziele voraussichtlich nicht erreicht werden können, so sind: a) die Ursachen hierfür zu untersuchen;\nb) die Genehmigungen für Gewässernutzungen zu prüfen und gegebenenfalls anzupassen;\nc) die Überwachungsprogramme zu prüfen und gegebenenfalls anzupassen; und\nd) die erforderlichen Zusatzmassnahmen in das Massnahmenprogramm aufzunehmen. Gegebenfalls sind strengere Grenzwerte nach den Verfahren des Anhangs V der Richtlinie 2000/60/EG festzulegen."
+    },
+    {
+      "provision_ref": "art41q",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41q",
+      "title": "Art. 41q Bewirtschaftungsplan",
+      "content": "1) Die Regierung erlässt bis zum 1. Mai 2016 einen Bewirtschaftungsplan und veröffentlicht diesen in geeigneter Weise.\n2) Der Bewirtschaftungsplan hat zu enthalten: a) die in Anhang VII der Richtlinie 2000/60/EG genannten Informationen;\nb) eine Zusammenfassung der Beurteilung des chemischen Zustands des Grundwassers einschliesslich einer Erklärung, wie Überschreitungen der gemäss Art. 8 Abs. 2 Bst. e festgelegten Grenzwerte bei der Beurteilung Rechnung getragen wurde;\nc) die gemäss Art. 8 Abs. 2 Bst. e für das Grundwasser festgelegten Grenzwerte einschliesslich einer Zusammenfassung der in Art. 5 Abs. 4 und 5 der Richtlinie 2006/118/EG sowie in Anhang II Teil C dieser Richtlinie genannten Informationen; und\nd) weitere Vorgaben gemäss den massgebenden EWR-Rechtsvorschriften.\n3) Der Bewirtschaftungsplan ist spätestens bis zum 1. Mai 2021 und danach alle sechs Jahre zu überprüfen und gegebenenfalls anzupassen.\n4) Die nach Abs. 3 aktualisierten Bewirtschaftungspläne haben insbesondere auch die in Art. 3 Abs. 5 der Richtlinie 2008/105/EG genannten Informationen zu enthalten.\n5) Die aktualisierten Bewirtschaftungspläne sind der Öffentlichkeit elektronisch zugänglich zu machen."
+    },
+    {
+      "provision_ref": "art41r",
+      "chapter": "IIa. Bewirtschaftung der Gewässer",
+      "section": "41r",
+      "title": "Art. 41r Anhörung und Information der Öffentlichkeit",
+      "content": "1) Die Regierung fördert die aktive Beteiligung aller interessierten Stellen hinsichtlich der Erreichung der Ziele gemäss Art. 41a, insbesondere an der Aufstellung, Überprüfung und Aktualisierung des Bewirtschaftungsplans.\n2) Sie sorgt insbesondere für die Veröffentlichung: a) des Zeitplans und Arbeitsprogramms für die Erstellung des Bewirtschaftungsplans und die zu treffenden Anhörungsmassnahmen drei Jahre vor Beginn des Zeitraums, auf den sich der Bewirtschaftungsplan bezieht;\nb) eines vorläufigen Überblicks über die festgestellten wichtigen Fragen der Gewässerbewirtschaftung zwei Jahre vor Beginn des Zeitraums, auf den sich der Bewirtschaftungsplan bezieht;\nc) des Entwurfs des Bewirtschaftungsplans ein Jahr vor Beginn des Zeitraums, auf den sich der Bewirtschaftungsplan bezieht.\n3) Auf Antrag wird Zugang zu Hintergrunddokumentationen und -informationen, die bei der Erstellung des Bewirtschaftungsplanentwurfs herangezogen wurden, gewährt.\n4) Innerhalb von sechs Monaten nach Veröffentlichung der in Abs. 2 genannten Informationen können durch die Öffentlichkeit Stellungnahmen eingereicht werden.\n5) Die Einzelheiten der Unterrichtung der Öffentlichkeit sind nach Massgabe der besonderen Merkmale der Informationen zu bestimmen. Der Ort sowie die Art und Weise der öffentlichen Auflage sind so festzulegen, dass eine wirksame Beteiligung der Öffentlichkeit gewährleistet ist.\n6) Die Abs. 2 bis 5 gelten auch für den gegebenenfalls anzupassenden Bewirtschaftungsplan gemäss Art. 41q.\nIII. Organisation, Durchführung und Finanzierung\nA. Organisation"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "A. Organisation",
+      "section": "42",
+      "title": "Art. 42 Regierung",
+      "content": "1) Der Regierung obliegt die Aufsicht über den Vollzug dieses Gesetzes und der dazu erlassenen Verordnungen.\n2) Der Regierung obliegen insbesondere: a) die Genehmigung der Entwässerungspläne (Art. 7 Abs. 3);\nb) die Festlegung des Raumbedarfs der Fliessgewässer und dessen Berücksichtigung in der Richt- und Nutzungsplanung sowie bei der übrigen raumwirksamen Tätigkeit (Art. 25);\nc) die Festlegung von Dotierwassermengen und anderen Massnahmen (Art. 29 Abs. 1 und 2);\nd) die Erteilung von Ausnahmebewilligungen bei der Verbauung und Korrektion von Fliessgewässern (Art. 31 Abs. 3);\ne) die Erteilung von Ausnahmebewilligungen zum Überdecken oder Eindolen von Fliessgewässern (Art. 32 Abs. 2 und 3);\nf) die Verbesserung der oberirdischen Gewässer als Lebensräume (Art. 34);\ng) die Festlegung von Massnahmen und Fristen zu deren Umsetzung (Art. 34a Abs. 3 und Art. 40a);\nh) die Aufsicht und die Festlegung von Massnahmen zur Erhaltung und Verbesserung der Grundwasservorkommen sowie die Bewilligung von Grundwasserspiegeländerungen (Art. 39 Abs. 2, 3 und 6);\ni) die Bewilligung zum Abbau von Kies, Sand und anderem Material (Art. 41);\nk) die Verlängerung der Frist zur Erreichung der Umweltziele (Art. 41b Abs. 2);\nl) die Einstufung der oberirdischen Gewässer als künstlich oder erheblich verändert (Art. 41c Abs. 1);\nm) die Festlegung von weniger strengen Umweltzielen (Art. 41d Abs. 1);\nn) die Ergreifung aller praktischen oder notwendigen Massnahmen (Art. 41e Abs. 1 Bst. a, Art. 41f Abs. 1 und Art. 41k Abs. 3);\no) die Erstellung, Überprüfung und Anpassung des Massnahmenprogramms (Art. 41n Abs. 1 und Art. 41o Abs. 2);\np) der Erlass, die Überprüfung, die Anpassung und Veröffentlichung des Bewirtschaftungsplans (Art. 41q Abs. 1, 3 und 5);\nq) die Förderung der aktiven Beteiligung aller interessierten Stellen hinsichtlich der Erreichung der Umweltziele (Art. 41r Abs. 1 und 2);\nr) die Prüfung der Auswirkungen der Massnahmen sowie die Information der Öffentlichkeit (Art. 46 Abs. 1);\ns) die Koordination der Bewirtschaftung der Gewässer im Rahmen des Bearbeitungsgebietes Alpenrhein/Bodensee (Art. 50 Abs. 2);\nt) die Durchführung und Auswertung von Grundlagenerhebungen (Art. 51 Abs. 1 und 3);\nu) die Entscheidung über die finanzielle Beteiligung an der Entwicklung von Anlagen und Verfahren (Art. 51 Abs. 2).\n3) Die Regierung kann mit Verordnung Geschäfte nach Abs. 2 Bst. k und m an das Amt für Umwelt zur selbständigen Erledigung übertragen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "A. Organisation",
+      "section": "43",
+      "title": "Art. 43 Gemeinden",
+      "content": "1) Den Gemeinden obliegen insbesondere: a) die Erstellung eines Generellen Entwässerungsplanes (Art. 7 Abs. 3);\nb) die Erstellung, der Betrieb und die Kontrolle der öffentlichen Kanalisationen und zentralen Abwasserreinigungsanlagen (Art. 9 Abs. 1);\nc) die Erteilung von Bewilligungen zur Einleitung von häuslichem Abwasser in öffentliche Kanalisationen mit zentralen Abwasserreinigungsanlagen und die Aufsicht über die privaten Liegenschaftsentwässerungen sowie die Anordnung von allfälligen Sanierungsmassnahmen (Art. 10 Abs. 4);\nd) die Verbesserung der oberirdischen Gewässer als Lebensräume (Art. 34);\ne) die Ausgestaltung der Gebühren oder anderen Abgaben für die Finanzierung der Abwasserentsorgung (Art. 52);\nf) die Anordnung von Massnahmen zur Verhinderung der Beeinträchtigung von Abwasserreinigungsanlagen durch stetig anfallendes nicht verschmutztes Abwasser (Art. 63).\n2) Die Gemeinden bezeichnen einen Gewässerschutzverantwortlichen und melden diesen der Regierung und dem Amt für Umwelt."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "A. Organisation",
+      "section": "44",
+      "title": "Art. 44 Amt für Umwelt",
+      "content": "Dem Amt für Umwelt obliegen insbesondere: a) die Erteilung von Bewilligungen für das Einleiten und Versickernlassen von behandeltem Abwasser sowie für das Einleiten von unverschmutztem Abwasser in ein Gewässer (Art. 7 Abs. 1 und 2);\nb) die Erteilung von Bewilligungen zur Behandlung des verschmutzten Abwassers durch andere Systeme als durch zentrale Abwasserreinigungsanlagen (Art. 9 Abs. 2);\nc) die Aufsicht über die öffentlichen Abwasseranlagen (Art. 9 Abs. 3);\nd) die Festlegung der Art und Weise der Abwasservorbehandlung (Art. 11 Abs. 1);\ne) die Entscheidung über die zweckmässige Entsorgung von Abwasser, welches aufgrund seiner Zusammensetzung für die Einleitung in die öffentliche Kanalisation nicht geeignet ist (Art. 11 Abs. 2);\nf) die Erteilung von Ausnahmebewilligungen zur Einleitung von unverschmutztem Abwasser in eine zentrale Abwasserreinigungsanlage (Art. 11 Abs. 3);\ng) die Bewilligung für Landwirtschaftsbetriebe zur Verwertung des häuslichen Abwassers (Art. 11 Abs. 4);\nh) die Erteilung von Bewilligungen zur Entsorgung von Abwasser ausserhalb des Bereichs öffentlicher Kanalisationen (Art. 12 Abs. 1);\ni) die Bewilligung von kleineren Lagerkapazitäten (Art. 13 Abs. 3);\nk) die periodische Kontrolle von Abwasseranlagen, Lagereinrichtungen für Hofdünger und Raufuttersilos sowie die Anordnung allfälliger Sanierungsmassnahmen (Art. 14 Abs. 2);\nl) die Verfügung von Sanierungsmassnahmen für bestehende Ablagerungs- und Abstellplätze (Art. 15 Abs. 2);\nm) die Erteilung von Bewilligungen für die Errichtung, Änderung oder Erweiterung von Anlagen mit wassergefährdenden Flüssigkeiten (Art. 18 Abs. 2);\nn) die Führung eines Katasters für bewilligungs- und meldepflichtige Anlagen (Art. 18 Abs. 4);\no) die Erteilung von Bewilligungen an Unternehmungen, die Revisionsarbeiten an Anlagen mit wassergefährdenden Flüssigkeiten durchführen (Art. 19 Abs. 1);\np) die Erteilung von Bewilligungen zur Spülung und Entleerung von Stauräumen (Art. 35 Abs. 2);\nq) die Erteilung von Ausnahmebewilligungen zur Zurückgabe von Treibgut in Gewässer (Art. 36 Abs. 1);\nr) die Erteilung von Bewilligungen für die Einleitung von Wasser oder Abwasser in Fliessgewässer (Art. 38 Abs. 2);\ns) die Trendermittlung der Konzentrationen derjenigen prioritären Stoffe, die in Anhang I der Richtlinie 2008/105/EG angeführt sind (Art. 41g Abs. 1);\nt) die Trendermittlung und -umkehr von Schadstoffen im Grundwasser (Art. 41h);\nu) die Durchführung, Überarbeitung und Aktualisierung der Bestandsaufnahme (Art. 41i Abs. 1 und 3);\nv) die Errichtung von Programmen zur Überwachung des Zustands der Gewässer (Art. 41k Abs. 1 );\nv ) die Überwachung von Stoffen und Stoffgruppen (Art. 41k Abs. 2a);\nw) die Erfassung der Emissionen, Einleitungen und Verluste aller prioritärer Stoffe und Schadstoffe nach Anhang I der Richtlinie 2008/105/EG sowie die Überprüfung und Aktualisierung der Erfassung (Art. 41l);\nx) die Beurteilung des guten Zustands der Gewässer (Art. 41m Abs. 1);\nx ) die Erstellung und Veröffentlichung von Zwischenberichten (Art. 41n Abs. 4 und 5);\ny) die Ahndung von Übertretungen (Art. 61)."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "A. Organisation",
+      "section": "45",
+      "title": "Art. 45 Beizug Dritter",
+      "content": "Die Regierung, die Gemeinden und das Amt für Umwelt können für den Vollzug dieses Gesetzes, insbesondere für die Kontrolle und Überwachung, Dritte beiziehen.\nB. Durchführung"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "B. Durchführung",
+      "section": "46",
+      "title": "Art. 46 Überprüfung, Information und Beratung",
+      "content": "1) Die Regierung prüft die Auswirkungen der Massnahmen dieses Gesetzes und informiert die Öffentlichkeit über den Gewässerschutz und den Zustand der Gewässer.\n2) Das Amt für Umwelt berät Behörden und Private.\n3) Das Amt für Umwelt empfiehlt Massnahmen zur Verhinderung und zur Verminderung nachteiliger Einwirkungen auf die Gewässer."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "B. Durchführung",
+      "section": "47",
+      "title": "Art. 47 Duldungs- und Schweigepflicht",
+      "content": "1) Das Amt für Umwelt kann Erhebungen an privaten und öffentlichen Gewässern durchführen. Es kann die dazu notwendigen Einrichtungen erstellen und Anlagen kontrollieren. Die Grundeigentümer und die Inhaber der Anlagen müssen den damit betrauten Personen Zutritt gewähren und ihnen die erforderlichen Auskünfte erteilen.\n2) Die mit dem Vollzug dieses Gesetzes beauftragten Personen sowie Experten und Mitglieder von Kommissionen und Fachausschüssen unterstehen dem Amtsgeheimnis.\n3) Das Amt für Umwelt kann die Ergebnisse dieser Erhebungen und Kontrollen nach Anhören der Betroffenen veröffentlichen, wenn sie von allgemeinem Interesse sind. Auf Anfrage sind die Ergebnisse der Kontrolle bekannt zu geben, wenn nicht überwiegende Interessen entgegenstehen. Das Geschäfts- und Betriebsgeheimnis bleibt in jedem Fall gewahrt."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "B. Durchführung",
+      "section": "48",
+      "title": "Art. 48 Kosten von Sicherungs- und Behebungsmassnahmen",
+      "content": "Die Kosten von Massnahmen, welche die Landes- und Gemeindebehörden zur Abwehr einer unmittelbar drohenden Gefahr für die Gewässer sowie zur Feststellung und zur Behebung eines Schadens treffen, werden dem Verursacher überbunden."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "B. Durchführung",
+      "section": "49",
+      "title": "Art. 49 Gebühren",
+      "content": "1) Für Bewilligungen, Kontrollen und besondere Dienstleistungen werden Gebühren erhoben.\n2) Die Höhe der Gebühren wird von der Regierung mit Verordnung festgelegt."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "B. Durchführung",
+      "section": "50",
+      "title": "Art. 50 Zusammenarbeit mit den Nachbarstaaten",
+      "content": "1) Das Land arbeitet zum Schutz der ober- und unterirdischen Gewässer, die auf der Landesgrenze liegen oder das Gebiet verschiedener Staaten durchfliessen, mit den Nachbarstaaten zusammen.\n2) Die Regierung koordiniert insbesondere die Bewirtschaftung der Gewässer nach den Vorgaben der Art. 41a bis 41q."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "B. Durchführung",
+      "section": "51",
+      "title": "Art. 51 Grundlagenbeschaffung",
+      "content": "1) Das Land führt Erhebungen von landesweitem Interesse durch über: a) die hydrologischen Verhältnisse (insbesondere Kataster der Fliessgewässer und Grundwasservorkommen);\nb) die Wasserqualität der ober- und unterirdischen Gewässer;\nc) die Trinkwasserversorgung;\nd) andere Belange des Gewässerschutzes.\n2) Das Land kann sich an der Entwicklung von Anlagen und Verfahren, mit denen der Stand der Technik im allgemeinen Interesse des Gewässerschutzes, insbesondere durch Massnahmen an der Quelle, erhöht wird, finanziell beteiligen.\n3) Die Regierung stellt die Ergebnisse und die Auswertung der Erhebungen Interessierten zur Verfügung.\nC. Finanzierung"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "C. Finanzierung",
+      "section": "52",
+      "title": "Art. 52 Finanzierung der öffentlichen Abwasserentsorgung",
+      "content": "1) Die Gemeinden überbinden die Kosten für Bau, Betrieb, Unterhalt, Sanierung und Ersatz der Abwasseranlagen, die öffentlichen Zwecken dienen, mit Gebühren oder anderen Abgaben den Verursachern. Die Gemeinden leisten für die öffentlichen Infrastrukturanlagen Beiträge. Für die Infrastrukturanlagen des Landes im Bereich der öffentlichen Verkehrsanlagen, der Landstrassen und der öffentlichen Plätze werden keine Abwassergebühren oder andere Abgaben erhoben.\n2) Bei der Ausgestaltung der Gebühren und Abgaben werden insbesondere berücksichtigt: a) die Menge und die Art des erzeugten Abwassers;\nb) der geplante Investitionsbedarf für Bau, Betrieb, Unterhalt, Sanierung und Ersatz, für Anpassungen an gesetzliche Anforderungen sowie für betriebliche Optimierungen.\n3) Die Gemeinden sind bestrebt, bei gleichartigen Verhältnissen einheitliche Abgaben zu erheben.\n4) Von der Erhebung kostendeckender und verursachergerechter Abgaben kann abgewichen und die Kosten können anderweitig finanziert werden, wenn: a) die umweltverträgliche Entsorgung des Abwassers gefährdet ist; oder\nb) regional- oder sozialpolitische Gründe dies rechtfertigen."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "C. Finanzierung",
+      "section": "53",
+      "title": "Art. 53 Landesbeiträge",
+      "content": "Aufgehoben\nIV. Verwaltungsmassnahmen und Enteignung"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "IV. Verwaltungsmassnahmen und Enteignung",
+      "section": "54",
+      "title": "Art. 54 Massnahmen zur Einhaltung dieses Gesetzes",
+      "content": "Werden Verstösse gegen die Bestimmungen dieses Gesetzes oder der dazu erlassenen Verordnungen festgestellt, treffen die Regierung, die Gemeinden und das Amt für Umwelt die notwendigen Entscheidungen und Verfügungen."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "IV. Verwaltungsmassnahmen und Enteignung",
+      "section": "55",
+      "title": "Art. 55 Zwangsmassnahmen",
+      "content": "Die Regierung, die Gemeinden und das Amt für Umwelt können die zwangsweise Durchsetzung der von ihnen erlassenen Verfügungen oder Entscheidungen und nötigenfalls die ersatzweise Ausführung anstelle und auf Gefahr und Kosten des Verpflichteten anordnen."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "IV. Verwaltungsmassnahmen und Enteignung",
+      "section": "56",
+      "title": "Art. 56 Enteignung",
+      "content": "Um die für die Erstellung von Einrichtungen und Anlagen zur Abwasserbeseitigung sowie um die für die Massnahmen zum Hochwasserschutz erforderlichen dinglichen Rechte zu erwerben, steht dem Staat das Enteignungsrecht zu, wenn der Zweck dieses Gesetzes nicht auf andere Weise erreicht werden kann. Das Verfahren richtet sich nach den Bestimmungen des Gesetzes über das Verfahren in Expropriationsfällen.\nV. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "V. Rechtsmittel",
+      "section": "57",
+      "title": "Art. 57 Beschwerde",
+      "content": "1) Gegen Verfügungen der Gemeinden und des Amtes für Umwelt kann binnen 14 Tagen ab Zustellung Beschwerde bei der Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden.\n2) Gegen Entscheidungen und Verfügungen der Beschwerdekommission für Verwaltungsangelegenheiten oder der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\n3) Die Beschwerde an die Beschwerdekommission für Verwaltungsangelegenheiten oder den Verwaltungsgerichtshof kann sich nur gegen rechtswidriges Vorgehen und Erledigen oder gegen aktenwidrige oder unrichtige Sachverhaltsdarstellungen richten.\nVI. Haftpflicht"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "VI. Haftpflicht",
+      "section": "58",
+      "title": "Art. 58 Haftpflicht",
+      "content": "1) Der Inhaber eines Betriebes oder einer ortsfesten oder beweglichen Anlage, mit der besondere Gefahren für die Gewässer verbunden sind, haftet für den Schaden, der durch entsprechende Einwirkungen entsteht.\n2) Er wird von der Haftpflicht befreit, wenn er nachweist, dass der Schaden durch höhere Gewalt oder durch grobes Verschulden des Geschädigten oder eines Dritten verursacht worden ist.\n3) Die Bestimmungen über die Haftpflicht nach dem Allgemeinen bürgerlichen Gesetzbuch sind anwendbar."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "VI. Haftpflicht",
+      "section": "59",
+      "title": "Art. 59 Haftpflichtversicherung",
+      "content": "1) Der Inhaber eines Betriebes oder einer Anlage nach Art. 58 Abs. 1 hat eine Haftpflichtversicherung abzuschliessen.\n2) Die Regierung regelt das Nähere mit Verordnung, insbesondere die der Versicherungspflicht unterliegenden Betriebe und Anlagen sowie die Höhe der Mindestversicherungssumme.\nVII. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "60",
+      "title": "Art. 60 Vergehen",
+      "content": "1) Vom Landgericht wird wegen Vergehens mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 360 Tagessätzen bestraft, wer vorsätzlich: a) Stoffe, die geeignet sind, das Wasser zu verunreinigen, widerrechtlich mittelbar oder unmittelbar in die Gewässer einbringt oder widerrechtlich solche Stoffe ausserhalb der Gewässer ablagert, ausbringt oder versickern lässt und dadurch die Gefahr einer Verunreinigung des Wassers schafft (Art. 6);\nb) als Inhaber von Anlagen, die wassergefährdende Flüssigkeiten enthalten, die nach diesem Gesetz und seinen Durchführungsverordnungen notwendigen baulichen und apparativen Vorrichtungen nicht erstellt oder nicht funktionsfähig erhält und dadurch das Wasser verunreinigt oder die Gefahr einer Verunreinigung schafft (Art. 18);\nc) behördlich festgelegte Dotierwassermengen nicht einhält oder die zum Schutz des Gewässers unterhalb der Entnahmestelle angeordneten Massnahmen nicht trifft (Art. 29);\nd) ein Fliessgewässer widerrechtlich verbaut oder korrigiert (Art. 31);\ne) ohne Bewilligung oder entgegen den Bedingungen einer erteilten Bewilligung Fliessgewässer überdeckt oder eindolt (Art. 32);\nf) ohne Bewilligung oder entgegen den Bedingungen einer erteilten Bewilligung Kies, Sand oder anderes Material ausbeutet (Art. 41).\n2) Bei fahrlässiger Begehung wird die Strafobergrenze auf die Hälfte herabgesetzt."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "61",
+      "title": "Art. 61 Übertretungen",
+      "content": "1) Vom Amt für Umwelt wird mit einer Busse bis zu 20 000 Franken bestraft, wer vorsätzlich: a) ohne Bewilligung behandeltes Abwasser in ein Gewässer einleitet oder versickern lässt (Art. 7 Abs. 1);\nb) nicht verschmutztes Abwasser nicht nach den Anordnungen des Amtes für Umwelt versickern lässt oder ohne Bewilligung in ein oberirdisches Gewässer einleitet (Art. 7 Abs. 2);\nc) im Bereich öffentlicher Kanalisationen verschmutztes Abwasser nicht in die öffentliche Kanalisation einleitet (Art. 10 Abs. 1);\nd) Abwasser, das den Anforderungen an die Einleitung in die Kanalisation nicht entspricht, nicht gemäss den Vorgaben des Amt für Umwelt vorbehandelt (Art. 11 Abs. 1);\ne) ohne Bewilligung nicht verschmutztes Abwasser, das stetig anfällt, direkt oder indirekt einer zentralen Abwasserreinigungsanlage zuleitet (Art. 11 Abs. 3);\nf) ohne Bewilligung in einem Landwirtschaftsbetrieb das häusliche Abwasser zusammen mit der Gülle verwertet (Art. 11 Abs. 4);\ng) ohne Bewilligung ausserhalb des Bereichs öffentlicher Kanalisationen Abwasser entsorgt (Art. 12);\nh) Lagereinrichtungen für Hofdünger mit nicht ausreichender Kapazität betreibt (Art. 13 Abs. 3);\ni) Ablagerungs- und Abstellplätze nicht gesetzeskonform erstellt oder saniert (Art. 15 Abs. 1 und 2);\nk) ohne Bewilligung Anlagen mit wassergefährdenden Flüssigkeiten errichtet, ändert oder erweitert (Art. 18 Abs. 2 );\nl) ohne Bewilligung Revisionsarbeiten an Anlagen mit wassergefährdenden Flüssigkeiten ausführt (Art. 19);\nm) in Gewässerrandstreifen Dünger ausbringt oder Pflanzenbehandlungsmittel anwendet (Art. 23);\nn) in Wasserschutzgebieten, Schutzarealen, Schutzzonen oder Zuströmbereichen die von der Regierung mit Verordnung festgelegten Eigentumsbeschränkungen missachtet (Art. 24 Abs. 3);\no) Leitungen, welche Gewässer queren, nicht gesetzeskonform erstellt (Art. 33);\np gestautes Wasser in ein Fliessgewässer ableitet, so dass die Tier- und Pflanzenwelt Schaden nimmt (Art. 35 Abs. 1);\nq ohne Bewilligung bei einer Stauanlage Spülungen und Entleerungen vornimmt (Art. 35 Abs. 2);\nr) ohne Bewilligung Wasser oder Abwasser, welches das Abflussregime eines Fliessgewässers massgeblich verändert, einleitet (Art. 38 Abs. 2);\ns) ohne Bewilligung den Grundwasserspiegel auf einer Fläche von mehr als 5 000 m&sup2; länger als zwei Jahre verändert (Art. 39 Abs. 6);\nt) den Grundwasserspiegel eines Natur- oder Landschaftsschutzgebietes dauernd absenkt (Art. 39 Abs. 7);\nu) in anderer Weise gegen die Bestimmungen dieses Gesetzes und der dazu erlassenen Verordnungen verstösst.\n2) Bei fahrlässiger Begehung wird die Strafobergrenze auf die Hälfte herabgesetzt."
+    },
+    {
+      "provision_ref": "art61a",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "61a",
+      "title": "Art. 61a Strafverfahren",
+      "content": "1) Das Strafverfahren richtet sich vor den ordentlichen Gerichten nach den Bestimmungen der Strafprozessordnung, ansonsten nach den Vorschriften über das Verwaltungsstrafverfahren des Verwaltungsstrafgesetzes.\n2) Für die Erledigung von Beschwerden gegen Strafverfügungen bzw. Verwaltungsstrafentscheide des Amtes für Umwelt ist die Beschwerdekommission für Verwaltungsangelegenheiten zuständig."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "62",
+      "title": "Art. 62 Verantwortlichkeit",
+      "content": "Werden Widerhandlungen im Geschäftsbetrieb einer juristischen Person oder einer Kollektiv- oder Kommanditgesellschaft oder einer Einzelfirma begangen, finden die Strafbestimmungen auf die Personen Anwendung, die für sie gehandelt haben oder hätten handeln sollen, jedoch unter solidarischer Mithaftung der juristischen Person, der Gesellschaft oder der Einzelfirma für die Geldstrafen und Kosten.\nVIII. Übergangs- und Schlussbestimmungen\nA. Übergangsbestimmungen\n1. Beseitigung nicht verschmutzten Abwassers sowie Lagereinrichtungen für Hofdünger"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "1. Beseitigung nicht verschmutzten Abwassers sowie Lagereinrichtungen für Hofdünger",
+      "section": "63",
+      "title": "Art. 63 Beseitigung nicht verschmutzten Abwassers",
+      "content": "Die Gemeinden sorgen dafür, dass spätestens zehn Jahre nach Inkrafttreten dieses Gesetzes die Wirkung einer Abwasserreinigungsanlage nicht mehr durch stetig anfallendes, nicht verschmutztes (Art. 11 Abs. 3) Abwasser beeinträchtigt wird."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "1. Beseitigung nicht verschmutzten Abwassers sowie Lagereinrichtungen für Hofdünger",
+      "section": "64",
+      "title": "Art. 64 Lagereinrichtungen für Hofdünger",
+      "content": "Die Regierung legt mit Verordnung die Frist zur Anpassung der Kapazität von Lagereinrichtungen für Hofdünger nach der Dringlichkeit in Bezug auf die Wassergefährdung fest. Jedoch sind innert zehn Jahren nach Inkrafttreten dieses Gesetzes sämtliche Lagereinrichtungen anzupassen.\n2. Bestehende Wasserentnahmen"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "2. Bestehende Wasserentnahmen",
+      "section": "65",
+      "title": "Art. 65 Wasserentnahmen aus kleinen Fliessgewässern",
+      "content": "Art. 27 findet auf Wasserentnahmen, für welche eine Konzession vor Inkrafttreten dieses Gesetzes erteilt worden ist, keine Anwendung."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "2. Bestehende Wasserentnahmen",
+      "section": "66",
+      "title": "Art. 66 Sanierung",
+      "content": "1) Wird ein Fliessgewässer durch Wasserentnahmen wesentlich beeinflusst, so muss es unterhalb der Entnahmestellen so weit saniert werden, als dies ohne entschädigungsbegründende Eingriffe in bestehende Wassernutzungsrechte möglich ist.\n2) Weitergehende Sanierungsmassnahmen sind anzuordnen, wenn es überwiegende öffentliche Interessen erfordern. Das Verfahren für die Feststellung der Entschädigungspflicht und die Festsetzung der Entschädigung richtet sich nach den Bestimmungen des Gesetzes über das Verfahren in Exproriationsfällen.\n3) Die Regierung ordnet nach Einholung der Stellungnahmen des Amtes für Umwelt sowie des Amtes für Bevölkerungsschutz die erforderlichen Sanierungsmassnahmen an und legt die Frist zu deren Durchführung nach der Dringlichkeit des Einzelfalls fest.\n3. Schwall und Sunk sowie Geschiebehaushalt"
+    },
+    {
+      "provision_ref": "art66a",
+      "chapter": "3. Schwall und Sunk sowie Geschiebehaushalt",
+      "section": "66a",
+      "title": "Art. 66a Sanierungsmassnahmen",
+      "content": "Die Inhaber bestehender Wasserkraftwerke und anderer Anlagen an Gewässern sind verpflichtet, innert 20 Jahren nach Inkrafttreten dieser Bestimmung die Sanierungsmassnahmen nach Art. 34a und 40a durchzuführen. Wird ein Wasserkraftwerk oder eine andere Anlage an Gewässern umgebaut oder erweitert, so sind die Sanierungsmassnahmen gleichzeitig durchzuführen.\nB. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "B. Schlussbestimmungen",
+      "section": "67",
+      "title": "Art. 67 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "B. Schlussbestimmungen",
+      "section": "68",
+      "title": "Art. 68 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben: a) Gesetz vom 4. Juni 1957 über den Schutz der Gewässer gegen Verunreinigung (Gewässerschutzgesetz), LGBl. 1957 Nr. 14;\nb) Gesetz vom 10. November 1976 betreffend die Ergänzung des Gesetzes über den Schutz der Gewässer gegen Verunreinigung (Gewässerschutzgesetz), LGBl. 1976 Nr. 70;\nc) Verordnung vom 5. Juli 1977 über die Abwasser- und Abfallbeseitigung, LGBl. 1977 Nr. 40;\nd) Verordnung vom 25. Januar 1977 zum Gesetz über die Lagerung und Beseitigung von ausgedienten Fahrzeugen und Schrott, LGBl. 1977 Nr. 16."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "B. Schlussbestimmungen",
+      "section": "69",
+      "title": "Art. 69 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Hans-Adam\ngez. Otmar Hasler\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n814.20 Gewässerschutzgesetz (GSchG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2014 Nr. 22 ausgegeben am 24. Januar 2014\nGesetz\nvom 5. Dezember 2013\nüber die Abänderung des Gewässerschutzgesetzes\n...\nII.\nHängige Fälle\nDie Beschwerdekommission ist zuständig für Fälle, in denen im Zeitpunkt des Inkrafttretens dieses Gesetzes noch keine rechtsmittelfähige Verfügung oder Entscheidung des Amtes für Umwelt ergangen ist.\n...\n1\nArt. 1 Abs. 1 abgeändert durch LGBl. 2011 Nr. 47 .\n2\nArt. 1 Abs. 3 abgeändert durch LGBl. 2016 Nr. 358 .\n3\nArt. 1a eingefügt durch LGBl. 2016 Nr. 358 .\n4\nArt. 4 abgeändert durch LGBl. 2016 Nr. 358 .\n5\nArt. 5 abgeändert durch LGBl. 2011 Nr. 47 .\n6\nArt. 5 Bst. n abgeändert durch LGBl. 2016 Nr. 358 .\n7\nArt. 5 Bst. o aufgehoben durch LGBl. 2016 Nr. 358 .\n8\nArt. 5 Bst. x aufgehoben durch LGBl. 2016 Nr. 358 .\n9\nArt. 7 Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n10\nArt. 7 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n11\nArt. 7 Abs. 3 abgeändert durch LGBl. 2016 Nr. 358 .\n12\nArt. 8 Abs. 1 abgeändert durch LGBl. 2011 Nr. 47 .\n13\nArt. 8 Abs. 2 Bst. e eingefügt durch LGBl. 2011 Nr. 47 .\n14\nArt. 8 Abs. 3 eingefügt durch LGBl. 2011 Nr. 47 .\n15\nArt. 9 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n16\nArt. 9 Abs. 3 abgeändert durch LGBl. 2012 Nr. 272 .\n17\nArt. 11 Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n18\nArt. 11 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n19\nArt. 11 Abs. 3 abgeändert durch LGBl. 2012 Nr. 272 .\n20\nArt. 11 Abs. 4 Einleitungssatz abgeändert durch LGBl. 2012 Nr. 272 .\n21\nArt. 12 Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n22\nArt. 13 Abs. 1 abgeändert durch LGBl. 2016 Nr. 358 .\n23\nArt. 13 Abs. 3 abgeändert durch LGBl. 2016 Nr. 358 .\n24\nArt. 13 Abs. 4 abgeändert durch LGBl. 2016 Nr. 358 .\n25\nArt. 13 Abs. 5 abgeändert durch LGBl. 2016 Nr. 358 .\n26\nArt. 13 Abs. 6 eingefügt durch LGBl. 2016 Nr. 358 .\n27\nArt. 14 Abs. 1 abgeändert durch LGBl. 2016 Nr. 358 .\n28\nArt. 14 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n29\nArt. 15 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n30\nArt. 18 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n31\nArt. 18 Abs. 4 abgeändert durch LGBl. 2012 Nr. 272 .\n32\nArt. 19 Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n33\nArt. 19 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n34\nArt. 22 abgeändert durch LGBl. 2016 Nr. 358 .\n35\nÜberschrift vor Art. 23a eingefügt durch LGBl. 2008 Nr. 204 .\n36\nArt. 23a Sachüberschrift eingefügt durch LGBl. 2008 Nr. 204 .\n37\nArt. 23a Abs. 1 eingefügt durch LGBl. 2008 Nr. 204 .\n38\nArt. 23a Abs. 2 eingefügt durch LGBl. 2008 Nr. 204 und abgeändert durch LGBl. 2012 Nr. 272 .\n39\nArt. 25 Sachüberschrift abgeändert durch LGBl. 2011 Nr. 47 .\n40\nArt. 25 Abs. 1 abgeändert durch LGBl. 2011 Nr. 47 .\n41\nArt. 31 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2011 Nr. 47 .\n42\nArt. 34 Abs. 4 abgeändert durch LGBl. 2005 Nr. 241 .\n43\nArt. 34a eingefügt durch LGBl. 2011 Nr. 47 .\n44\nArt. 35 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n45\nArt. 35 Abs. 3 abgeändert durch LGBl. 2012 Nr. 272 .\n46\nArt. 36 Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n47\nArt. 36 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n48\nArt. 38 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n49\nArt. 40a eingefügt durch LGBl. 2011 Nr. 47 .\n50\nÜberschrift vor Art.41a eingefügt durch LGBl. 2011 Nr. 47 .\n51\nArt. 41a eingefügt durch LGBl. 2011 Nr. 47 .\n52\nArt. 41b eingefügt durch LGBl. 2011 Nr. 47 .\n53\nArt. 41c eingefügt durch LGBl. 2011 Nr. 47 .\n54\nArt. 41d eingefügt durch LGBl. 2011 Nr. 47 .\n55\nArt. 41e eingefügt durch LGBl. 2011 Nr. 47 .\n56\nArt. 41f eingefügt durch LGBl. 2011 Nr. 47 .\n57\nArt. 41g eingefügt durch LGBl. 2011 Nr. 47 .\n58\nArt. 41g Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n59\nArt. 41h Sachüberschrift eingefügt durch LGBl. 2011 Nr. 47 .\n60\nArt. 41h Abs. 1 eingefügt durch LGBl. 2011 Nr. 47 und abgeändert durch LGBl. 2012 Nr. 272 .\n61\nArt. 41h Abs. 2 eingefügt durch LGBl. 2011 Nr. 47 .\n62\nArt. 41i Sachüberschrift eingefügt durch LGBl. 2011 Nr. 47 .\n63\nArt. 41i Abs. 1 Einleitungssatz eingefügt durch LGBl. 2011 Nr. 47 und abgeändert durch LGBl. 2012 Nr. 272 .\n64\nArt. 41i Abs. 1 Bst. a eingefügt durch LGBl. 2011 Nr. 47 .\n65\nArt. 41i Abs. 1 Bst. b eingefügt durch LGBl. 2011 Nr. 47 .\n66\nArt. 41i Abs. 1 Bst. c eingefügt durch LGBl. 2011 Nr. 47 .\n67\nArt. 41i Abs. 1 Bst. d eingefügt durch LGBl. 2011 Nr. 47 .\n68\nArt. 41i Abs. 2 eingefügt durch LGBl. 2011 Nr. 47 .\n69\nArt. 41i Abs. 3 eingefügt durch LGBl. 2011 Nr. 47 .\n70\nArt. 41i Abs. 4 eingefügt durch LGBl. 2011 Nr. 47 .\n71\nArt. 41k Sachüberschrift eingefügt durch LGBl. 2011 Nr. 47 .\n72\nArt. 41k Abs. 1 Einleitungssatz eingefügt durch LGBl. 2011 Nr. 47 und abgeändert durch LGBl. 2012 Nr. 272 .\n73\nArt. 41k Abs. 1 Bst. a eingefügt durch LGBl. 2011 Nr. 47 .\n74\nArt. 41k Abs. 1 Bst. b eingefügt durch LGBl. 2011 Nr. 47 .\n75\nArt. 41k Abs. 2 eingefügt durch LGBl. 2011 Nr. 47 .\n76\nArt. 41k Abs. 2a eingefügt durch LGBl. 2016 Nr. 358 .\n77\nArt. 41k Abs. 3 abgeändert durch LGBl. 2016 Nr. 358 .\n78\nArt. 41l Sachüberschrift eingefügt durch LGBl. 2011 Nr. 47 .\n79\nArt. 41l Abs. 1 eingefügt durch LGBl. 2011 Nr. 47 und abgeändert durch LGBl. 2012 Nr. 272 .\n80\nArt. 41l Abs. 2 eingefügt durch LGBl. 2011 Nr. 47 .\n81\nArt. 41m Sachüberschrift eingefügt durch LGBl. 2011 Nr. 47 .\n82\nArt. 41m Abs. 1 eingefügt durch LGBl. 2011 Nr. 47 und abgeändert durch LGBl. 2012 Nr. 272 .\n83\nArt. 41m Abs. 2 eingefügt durch LGBl. 2011 Nr. 47 .\n84\nArt. 41m Abs. 3 eingefügt durch LGBl. 2011 Nr. 47 .\n85\nArt. 41n eingefügt durch LGBl. 2011 Nr. 47 .\n86\nArt. 41n Abs. 4 eingefügt durch LGBl. 2016 Nr. 358 .\n87\nArt. 41n Abs. 5 eingefügt durch LGBl. 2016 Nr. 358 .\n88\nArt. 41o eingefügt durch LGBl. 2011 Nr. 47 .\n89\nArt. 41p eingefügt durch LGBl. 2011 Nr. 47 .\n90\nArt. 41q eingefügt durch LGBl. 2011 Nr. 47 .\n91\nArt. 41q Abs. 2 Bst. b abgeändert durch LGBl. 2016 Nr. 358 .\n92\nArt. 41q Abs. 2 Bst. c abgeändert durch LGBl. 2016 Nr. 358 .\n93\nArt. 41q Abs. 2 Bst. d eingefügt durch LGBl. 2016 Nr. 358 .\n94\nArt. 41q Abs. 4 eingefügt durch LGBl. 2016 Nr. 358 .\n95\nArt. 41q Abs. 5 eingefügt durch LGBl. 2016 Nr. 358 .\n96\nArt. 41r eingefügt durch LGBl. 2011 Nr. 47 .\n97\nArt. 42 Abs. 2 Bst. a abgeändert durch LGBl. 2016 Nr. 358 .\n98\nArt. 42 Abs. 2 Bst. g abgeändert durch LGBl. 2011 Nr. 47 .\n99\nArt. 42 Abs. 2 Bst. h abgeändert durch LGBl. 2011 Nr. 47 .\n100\nArt. 42 Abs. 2 Bst. i abgeändert durch LGBl. 2011 Nr. 47 .\n101\nArt. 42 Abs. 2 Bst. k abgeändert durch LGBl. 2011 Nr. 47 .\n102\nArt. 42 Abs. 2 Bst. l abgeändert durch LGBl. 2011 Nr. 47 .\n103\nArt. 42 Abs. 2 Bst. m abgeändert durch LGBl. 2011 Nr. 47 .\n104\nArt. 42 Abs. 2 Bst. n abgeändert durch LGBl. 2011 Nr. 47 .\n105\nArt. 42 Abs. 2 Bst. o eingefügt durch LGBl. 2011 Nr. 47 .\n106\nArt. 42 Abs. 2 Bst. p abgeändert durch LGBl. 2016 Nr. 358 .\n107\nArt. 42 Abs. 2 Bst. q eingefügt durch LGBl. 2011 Nr. 47 .\n108\nArt. 42 Abs. 2 Bst. r eingefügt durch LGBl. 2011 Nr. 47 .\n109\nArt. 42 Abs. 2 Bst. s eingefügt durch LGBl. 2011 Nr. 47 .\n110\nArt. 42 Abs. 2 Bst. t eingefügt durch LGBl. 2011 Nr. 47 .\n111\nArt. 42 Abs. 2 Bst. u eingefügt durch LGBl. 2011 Nr. 47 .\n112\nArt. 42 Abs. 3 abgeändert durch LGBl. 2012 Nr. 272 .\n113\nArt. 43 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n114\nArt. 44 Sachüberschrift abgeändert durch LGBl. 2012 Nr. 272 .\n115\nArt. 44 Einleitungssatz abgeändert durch LGBl. 2012 Nr. 272 .\n116\nArt. 44 Bst. i abgeändert durch LGBl. 2016 Nr. 358 .\n117\nArt. 44 Bst. s eingefügt durch LGBl. 2011 Nr. 47 .\n118\nArt. 44 Bst. t eingefügt durch LGBl. 2011 Nr. 47 .\n119\nArt. 44 Bst. u eingefügt durch LGBl. 2011 Nr. 47 .\n120\nArt. 44 Bst. v eingefügt durch LGBl. 2011 Nr. 47 .\n121\nArt. 44 Bst. vbis eingefügt durch LGBl. 2016 Nr. 358 .\n122\nArt. 44 Bst. w eingefügt durch LGBl. 2011 Nr. 47 .\n123\nArt. 44 Bst. x eingefügt durch LGBl. 2011 Nr. 47 .\n124\nArt. 44 Bst. xbis eingefügt durch LGBl. 2016 Nr. 358 .\n125\nArt. 44 Bst. y eingefügt durch LGBl. 2011 Nr. 47 .\n126\nArt. 45 abgeändert durch LGBl. 2012 Nr. 272 .\n127\nArt. 46 Abs. 2 abgeändert durch LGBl. 2012 Nr. 272 .\n128\nArt. 46 Abs. 3 abgeändert durch LGBl. 2012 Nr. 272 .\n129\nArt. 47 Abs. 1 abgeändert durch LGBl. 2012 Nr. 272 .\n130\nArt. 47 Abs. 3 abgeändert durch LGBl. 2012 Nr. 272 .\n131\nArt. 50 Abs. 2 eingefügt durch LGBl. 2011 Nr. 47 .\n132\nArt. 52 Abs. 1 abgeändert durch LGBl. 2005 Nr. 241 .\n133\nArt. 53 aufgehoben durch LGBl. 2005 Nr. 241 .\n134\nArt. 54 abgeändert durch LGBl. 2012 Nr. 272 .\n135\nArt. 55 abgeändert durch LGBl. 2012 Nr. 272 .\n136\nArt. 57 Sachüberschrift abgeändert durch LGBl. 2008 Nr. 204 .\n137\nArt. 57 Abs. 1abgeändert durch LGBl. 2008 Nr. 204 und LGBl. 2012 Nr. 272 .\n138\nArt. 57 Abs. 2 abgeändert durch LGBl. 2011 Nr. 47 .\n139\nArt. 57 Abs. 3 abgeändert durch LGBl. 2008 Nr. 204 .\n140\nArt. 61 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2025 Nr. 381 .\n141\nArt. 61 Abs. 1 Bst. b abgeändert durch LGBl. 2012 Nr. 272 .\n142\nArt. 61 Abs. 1 Bst. d abgeändert durch LGBl. 2012 Nr. 272 .\n143\nArt. 61a abgeändert durch LGBl. 2025 Nr. 375 .\n144\nArt. 66 Abs. 3 abgeändert durch LGBl. 2014 Nr. 206 .\n145\nÜberschrift vor Art. 66a eingefügt durch LGBl. 2011 Nr. 47 .\n146\nArt. 66a eingefügt durch LGBl. 2011 Nr. 47 .\n147\nArt. 68 Bst. b berichtigt durch LGBl. 2003 Nr. 192 .\n148\nInkrafttreten: 1. Februar 2014."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gewässer",
+      "definition": "1. Oberflächengewässer oder ein Abschnitt davon; oder",
+      "source_provision": "art5"
+    },
+    {
+      "term": "oberirdisches Gewässer",
+      "definition": "Wasser und Wasserbett mit Sohle und Böschung sowie die tierische und pflanzliche Besiedlung;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "unterirdisches Gewässer",
+      "definition": "Grundwasser (einschliesslich Quell- und Hangwasser), Grundwasserleiter, Grundwasserstauer und Deckschicht;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "künstliches Gewässer",
+      "definition": "von Menschen geschaffenes oberirdisches Gewässer;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "erheblich verändertes Gewässer",
+      "definition": "oberirdisches Gewässer, das durch physikalische Veränderungen durch den Menschen erheblich verändert wurde;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "nachteilige Einwirkungen",
+      "definition": "Verunreinigungen und andere Eingriffe, welche die Gestalt oder Funktion eines Gewässers beeinträchtigen;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Verunreinigung",
+      "definition": "nachteilige physikalische, chemische oder biologische Veränderung des Wassers;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Abwasser",
+      "definition": "das durch häuslichen, industriellen, gewerblichen, landwirtschaftlichen oder sonstigen Gebrauch veränderte Wasser, ferner das in der Kanalisation stetig abfliessende Wasser sowie das von bebauten oder befestigten Flächen abfliessende Niederschlagswasser;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "verschmutztes Abwasser",
+      "definition": "Abwasser, das ein Gewässer, in das es gelangt, verunreinigen kann;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Hofdünger",
+      "definition": "Gülle, Mist, Silosäfte aus der Nutztierhaltung;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Betriebe mit Nutztierhaltung",
+      "definition": "landwirtschaftliche Betriebe sowie übrige Betriebe mit gewerblicher Tierhaltung; ausgenommen sind Betriebe für die Haltung von einzelnen Zug- und Reittieren;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "düngbare Fläche",
+      "definition": "landwirtschaftliche Nutzfläche, auf welche Dünger ausgebracht werden darf;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Düngergrossvieheinheit",
+      "definition": "Recheneinheit, die einem durchschnittlichen jährlichen Anfall von Gülle und Mist einer 600 kg schweren Kuh entspricht;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Wasserschutzgebiet",
+      "definition": "grossflächiges Gebiet mit Wasservorkommen, das sich für die Trinkwasserversorgung eignet und deshalb besonderen Schutzes bedarf;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Schutzzonen",
+      "definition": "Zonen zum Schutz von Trinkwasserfassungs- oder Grundwasseranreicherungsanlagen;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Schutzareal",
+      "definition": "Areal, welches den Standort einer zukünftigen Trinkwasserfassungs- oder Grundwasseranreicherungsanlage sichert;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Zuströmbereich",
+      "definition": "Gebiet, aus dem bei einer Grund- oder Quellwasserfassung das entnommene Wasser stammt;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "wassergefährdende Stoffe",
+      "definition": "Stoffe jeglicher Art, welche die Qualität und die Funktionen von Gewässern direkt oder indirekt in physikalischer, chemischer oder biologischer Hinsicht nachteilig verändern;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Fliessgewässer mit ständiger Wasserführung",
+      "definition": "Fliessgewässer, die während mehr als 347 Tagen des Jahres Wasser führen;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Restwassermenge",
+      "definition": "Abflussmenge eines Fliessgewässers, die nach einer oder mehreren Entnahmen von Wasser verbleibt;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Dotierwassermenge",
+      "definition": "Wassermenge, die zur Sicherung einer bestimmten Restwassermenge bei der Wasserentnahme im Gewässer belassen wird.",
+      "source_provision": "art5"
+    }
+  ]
+}

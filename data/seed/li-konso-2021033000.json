@@ -1,0 +1,308 @@
+{
+  "id": "li-konso-2021033000",
+  "type": "statute",
+  "title": "Gesetz vom 3. Dezember 2020 über das Verzeichnis der wirtschaftlich berechtigten Personen von Rechtsträgern (VwbPG)",
+  "title_en": "",
+  "short_name": "VwbPG",
+  "status": "in_force",
+  "issued_date": "2020-12-03",
+  "in_force_date": "2020-12-03",
+  "url": "https://www.gesetze.li/konso/2021033000",
+  "description": "Gesetz vom 3. Dezember 2020 über das Verzeichnis der wirtschaftlich berechtigten Personen von Rechtsträgern (VwbPG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Dieses Gesetz regelt zum Zweck der Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung insbesondere:\na) die Pflichten der Rechtsträger und der wirtschaftlich berechtigten Personen;\nb) die Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern;\nc) die Verarbeitung und Offenlegung von Daten;\nd) die Aufsicht über das Verzeichnis der wirtschaftlich berechtigten Personen von Rechtsträgern; und\ne) die Strafen für Widerhandlungen gegen dieses Gesetz.\n2) Es dient der Umsetzung von Art. 30 und 31 der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung .\n3) Die gültige Fassung der EWR-Rechtsvorschriften, auf die in diesem Gesetz Bezug genommen wird, ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als:\na) \"wirtschaftlich berechtigte Person\": eine natürliche Person, auf deren Veranlassung oder in deren Interesse eine Transaktion oder Tätigkeit ausgeführt oder eine Geschäftsbeziehung letztlich begründet wird. Im Falle von Rechtsträgern ist es auch diejenige natürliche Person, in deren Eigentum oder unter deren Kontrolle der Rechtsträger letztlich steht. Die Regierung regelt das Nähere mit Verordnung;\nb) \"Sorgfaltspflichtiger\": ein Sorgfaltspflichtiger nach Art. 3 des Sorgfaltspflichtgesetzes;\nc) \"Rechtsträger\":\n1. inländische juristische Personen, Gesellschaften, Treuhänderschaften oder sonstige Gemeinschaften oder Vermögenseinheiten, unabhängig von ihrer rechtlichen Ausgestaltung, nach den Anhängen 1 und 2, soweit bei Treuhänderschaften nach Anhang 2, welche durch Personen nach Art. 3 Abs. 1 Bst. k des Sorgfaltspflichtgesetzes verwaltet werden, nicht der Nachweis erbracht wird, dass die wirtschaftlich berechtigten Personen in einem Register nach Art. 31 der Richtlinie (EU) 2015/849 eines anderen EWR-Mitgliedstaates eingetragen sind. Die Regierung regelt das Nähere mit Verordnung;\n2. im Ausland errichtete Trusts oder ähnliche Rechtsvereinbarungen, welche im Inland verwaltet werden, soweit nicht der Nachweis erbracht wird, dass die wirtschaftlich berechtigten Personen in einem Register nach Art. 31 der Richtlinie (EU) 2015/849 eines anderen EWR-Mitgliedstaates eingetragen sind. Die Regierung regelt das Nähere mit Verordnung;\n3. in einem Drittstaat verwaltete Trusts oder ähnliche Rechtsvereinbarungen, für welche im Inland eine Geschäftsbeziehung mit einem Sorgfaltspflichtigen aufgenommen oder eine Immobilie erworben wurde, soweit nicht der Nachweis erbracht wird, dass die wirtschaftlich berechtigten Personen in einem Register nach Art. 31 der Richtlinie (EU) 2015/849 eines anderen EWR-Mitgliedstaates eingetragen sind. Die Regierung regelt das Nähere mit Verordnung;\nd) \"alleinstehende Rechtsträger nach Anhang 1\": Rechtsträger nach Anhang 1, bei welchen letztlich kein Rechtsträger nach Anhang 2 oder kein entsprechender ausländischer Rechtsträger:\n1. einen Anteil oder Stimmrechte von 25 % oder mehr hält oder kontrolliert;\n2. mit 25 % oder mehr am Gewinn beteiligt ist; oder\n3. auf andere Weise die Kontrolle ausübt;\ne) \"Drittstaat\": ein Staat, der nicht Mitglied des Europäischen Wirtschaftsraums (EWR) ist;\nf) \"Finanzinstitut\": ein Finanzinstitut nach Art. 3 Ziff. 2 der Richtlinie (EU) 2015/849;\ng) \"Geschäftsbeziehung\": jede geschäftliche, berufliche oder kommerzielle Beziehung, die in Verbindung mit den gewerblichen Tätigkeiten des Rechtsträgers unterhalten wird und bei der bei Zustandekommen des Kontakts davon ausgegangen wird, dass sie von gewisser Dauer sein wird;\nh) \"Gründer und Protektoren\": Stifter, Gründer und Treugeber sowie Protektoren oder Personen in ähnlichen oder gleichwertigen Funktionen.\n2) Unter den in diesem Gesetz verwendeten Personen-, Funktions- und Berufsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Pflichten der Rechtsträger und der wirtschaftlich berechtigten Personen"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Pflichten der Rechtsträger und der wirtschaftlich berechtigten Personen",
+      "section": "3",
+      "title": "Art. 3 Feststellung und Überprüfung der Identität der wirtschaftlich berechtigten Personen",
+      "content": "1) Die Rechtsträger haben die Identität ihrer wirtschaftlich berechtigten Personen festzustellen.\n2) Sie müssen durch risikobasierte und angemessene Massnahmen die Identität der wirtschaftlich berechtigten Personen überprüfen, um sich davon zu überzeugen, dass diese tatsächlich die wirtschaftlich berechtigten Personen sind. Dies schliesst risikobasierte und angemessene Massnahmen zur Feststellung der Eigentums- und Kontrollstruktur des Rechtsträgers ein.\n3) Entstehen im Laufe der Zeit Zweifel über die Identität der wirtschaftlich berechtigten Personen, so müssen die Rechtsträger die Feststellung und Überprüfung der Identität der wirtschaftlich berechtigten Personen wiederholen.\n4) Die Regierung regelt das Nähere über die Feststellung und Überprüfung der Identität der wirtschaftlich berechtigten Personen mit Verordnung."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Pflichten der Rechtsträger und der wirtschaftlich berechtigten Personen",
+      "section": "4",
+      "title": "Art. 4 Einholung und Mitteilung der Daten der wirtschaftlich berechtigten Personen",
+      "content": "1) Die Rechtsträger haben die folgenden Daten über ihre wirtschaftlich berechtigten Personen einzuholen und dem Amt für Justiz in elektronischer Form mitzuteilen:\na) bei natürlichen Personen: Name, Vorname, Geburtsdatum, Wohnsitzstaat und Staatsangehörigkeit;\nb) bei inländischen juristischen Personen, Gesellschaften, Treuhänderschaften oder sonstigen Gemeinschaften oder Vermögenseinheiten, unabhängig von ihrer rechtlichen Ausgestaltung: Firmennummer, Name oder Firma, Rechtsform, Sitz und Adresse sowie bei solchen, die nicht im Handelsregister eingetragen, angezeigt oder hinterlegt sind, zusätzlich das Gründungsdatum;\nc) bei ausländischen juristischen Personen, Gesellschaften, Treuhänderschaften oder sonstigen Gemeinschaften oder Vermögenseinheiten, unabhängig von ihrer rechtlichen Ausgestaltung: Firmennummer, Name oder Firma, Rechtsform, Sitz und Adresse, Gründungsdatum, gegebenenfalls Ort und Datum des Eintrags in das ausländische Handelsregister oder in ein vergleichbares Register.\n2) Die Rechtsträger nach Anhang 1 haben neben den Daten zu den wirtschaftlich berechtigten Personen nach Abs. 1 auch Angaben zu deren wirtschaftlichem Interesse einzuholen und dem Amt für Justiz in elektronischer Form mitzuteilen.\n3) Die Rechtsträger nach Art. 2 Abs. 1 Bst. c Ziff. 3 haben dem Amt für Justiz neben den Daten zu den wirtschaftlich berechtigten Personen nach Abs. 1 und 2 auch eine inländische Zustelladresse bekannt zu geben.\n4) Die Rechtsträger haben dem Amt für Justiz die Daten nach Abs. 1 bis 3 innert folgender Fristen mitzuteilen:\na) Rechtsträger nach Anhang 1 innert 30 Tagen nach ihrer Eintragung in das Handelsregister;\nb) im Handelsregister eintragungs-, anzeige- oder hinterlegungspflichtige Rechtsträger nach Anhang 2 innert 30 Tagen nach ihrer Eintragung in das Handelsregister oder nach Einreichung der Gründungsanzeige bei nicht im Handelsregister eingetragenen Stiftungen bzw. nach der Hinterlegung der Treuhandurkunde bei nicht im Handelsregister eingetragenen Treuhänderschaften;\nc) nicht im Handelsregister eintragungs-, anzeige- oder hinterlegungspflichtige Rechtsträger nach Anhang 2 innert 30 Tagen seit ihrer Gründung;\nd) Rechtsträger nach Art. 2 Abs. 1 Bst. c Ziff. 2 innert 30 Tagen nach Aufnahme der Verwaltung im Inland;\ne) Rechtsträger nach Art. 2 Abs. 1 Bst. c Ziff. 3 innert 30 Tagen nach der Aufnahme der Geschäftsbeziehung mit einem Sorgfaltspflichtigen oder nach dem Erwerb der Immobilie.\n5) Die Rechtsträger haben dem Amt für Justiz Änderungen von Daten nach Abs. 1 bis 3 innert 30 Tagen ab Kenntnisnahme mitzuteilen. Weiters haben folgende Rechtsträger dem Amt für Justiz innert 30 Tagen ab Kenntnisnahme den Wegfall der Eintragungsvoraussetzungen mitzuteilen:\na) nicht im Handelsregister eintragungs-, anzeige- oder hinterlegungspflichtige Rechtsträger nach Anhang 2;\nb) Rechtsträger nach Art. 2 Abs. 1 Bst. c Ziff. 2; und\nc) Rechtsträger nach Art. 2 Abs. 1 Bst. c Ziff. 3.\n6) Treuhänder (Trustees) von Treuhänderschaften nach Anhang 2 legen gegenüber Sorgfaltspflichtigen ihren Status offen und übermitteln die Daten nach Abs. 1 zeitnah, wenn sie eine Geschäftsbeziehung begründen oder eine gelegentliche Transaktion (Art. 2 Abs. 1 Bst. d des Sorgfaltspflichtgesetzes) durchführen.\n7) Die Regierung regelt das Nähere über die Einholung und die Mitteilung von Daten der wirtschaftlich berechtigten Personen mit Verordnung."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Pflichten der Rechtsträger und der wirtschaftlich berechtigten Personen",
+      "section": "5",
+      "title": "Art. 5 Pflichten der wirtschaftlich berechtigten Personen",
+      "content": "Die wirtschaftlich berechtigten Personen haben dem Rechtsträger alle für die Erfüllung seiner Verpflichtungen nach Art. 3 und 4 erforderlichen Informationen zur Verfügung zu stellen.\nIII. Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "III. Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern",
+      "section": "6",
+      "title": "Art. 6 Grundsatz",
+      "content": "1) Das Amt für Justiz führt ein elektronisches Verzeichnis der wirtschaftlich berechtigten Personen von Rechtsträgern (Verzeichnis).\n2) Das Verzeichnis wird in deutscher Sprache geführt. Vorbehalten bleibt die Eintragung fremdsprachiger Fassungen der Firma, des Namens oder der Bezeichnung eines Rechtsträgers.\n3) Die Regierung regelt das Nähere über die Führung des Verzeichnisses mit Verordnung."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern",
+      "section": "7",
+      "title": "Art. 7 Inhalt des Verzeichnisses",
+      "content": "1) Im Verzeichnis werden eingetragen:\na) die Daten der Rechtsträger und der ihnen zugeordneten wirtschaftlich berechtigen Personen nach Art. 4;\nb) die Anmerkungen über Unstimmigkeiten nach Art. 9 Abs. 3.\n2) Die Regierung regelt das Nähere über den Inhalt des Verzeichnisses mit Verordnung."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III. Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern",
+      "section": "8",
+      "title": "Art. 8 Auszüge und Bescheinigungen",
+      "content": "1) Das Amt für Justiz stellt auf Antrag gegen Gebühr Rechtsträgern oder im Rahmen einer Offenlegung nach Art. 15 bis 17 Auszüge aus dem Verzeichnis und Bescheinigungen über Eintragungen in das Verzeichnis aus.\n2) Das Amt für Justiz überprüft die Legitimation der Antragsteller bzw. ihrer vertretungsbefugten Personen. Es kann im Rahmen der Überprüfung insbesondere Einsicht in geeignete Dokumente, das Handelsregister oder ein gleichwertiges ausländisches Register nehmen.\n3) Auszüge und Bescheinigungen aus dem Verzeichnis haben keinen öffentlichen Glauben.\n4) Die Regierung regelt das Nähere über Auszüge und Bescheinigungen mit Verordnung."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "III. Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern",
+      "section": "9",
+      "title": "Art. 9 Meldepflicht bei Unstimmigkeiten",
+      "content": "1) Die Sorgfaltspflichtigen sind verpflichtet, dem Amt für Justiz innert 30 Tagen ab Kenntnisnahme Unstimmigkeiten zu melden, die sie zwischen den im Verzeichnis eingetragenen Daten zu den wirtschaftlich berechtigten Personen von Rechtsträgern und den ihnen zu diesen zur Verfügung stehenden Angaben feststellen. Dies gilt auch für Behörden nach Art. 13 Abs. 1, sofern dadurch ihr gesetzlicher Auftrag nicht unnötig beeinträchtigt wird.\n2) Die Meldepflicht nach Abs. 1 entfällt, wenn:\na) der Rechtsträger vom Sorgfaltspflichtigen auf die unrichtige oder unvollständige Eintragung hingewiesen wurde und dieser innert 30 Tagen ab Kenntnisnahme eine Berichtigung veranlasst; oder\nb) der Sorgfaltspflichtige eine Mitteilung nach Art. 17 des Sorgfaltspflichtgesetzes an die Stabsstelle FIU vorgenommen hat.\n3) Das Amt für Justiz merkt die gemeldeten Unstimmigkeiten im Verzeichnis an und ergreift die zur Beseitigung der Unstimmigkeiten erforderlichen Massnahmen.\n4) Die Regierung regelt das Nähere über die Meldung von Unstimmigkeiten mit Verordnung."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Führung des Verzeichnisses der wirtschaftlich berechtigten Personen von Rechtsträgern",
+      "section": "10",
+      "title": "Art. 10 Vernetzung des Verzeichnisses",
+      "content": "Das Verzeichnis wird über die zentrale Europäische Plattform nach Art. 22 der Richtlinie (EU) 2017/1132 mit den zentralen Registern anderer EWR-Mitgliedstaaten vernetzt. Die Vernetzung erfolgt nach Massgabe der von der EU-Kommission erlassenen technischen Spezifikationen und Verfahren.\nIV. Datenschutz\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "A. Allgemeines",
+      "section": "11",
+      "title": "Art. 11 Grundsatz",
+      "content": "Soweit nachfolgend nichts anderes bestimmt ist, finden auf den Datenschutz die Bestimmungen der Datenschutzgesetzgebung Anwendung.\nB. Datenverarbeitung"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Datenverarbeitung",
+      "section": "12",
+      "title": "Art. 12 Datenverarbeitung und -sicherheit",
+      "content": "1) Das Amt für Justiz führt das Verzeichnis ausschliesslich zum Zweck der Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung nach Massgabe dieses Gesetzes. Für andere Zwecke dürfen die Daten nicht verarbeitet werden.\n2) Das Amt für Justiz ist im Rahmen seiner Aufgabenerfüllung nach diesem Gesetz befugt, die im Verzeichnis einzutragenden Informationen und personenbezogenen Daten zu verarbeiten.\n3) Es ist befugt, die Daten für statistische Zwecke zu verarbeiten oder zur Verarbeitung an die inländischen Behörden nach Art. 13 Abs. 1 weiterzuleiten, sofern die Daten für Analysen zum Zweck der Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung benötigt werden.\n4) Die im Verzeichnis einzutragenden Informationen und personenbezogenen Daten sind durch geeignete technische und organisatorische Massnahmen vor unbefugter oder unrechtmässiger Verarbeitung, unbeabsichtigtem Verlust, unbeabsichtigter Zerstörung oder unbeabsichtigter Schädigung zu schützen.\n5) Das Amt für Justiz löscht personenbezogene Daten aus dem Verzeichnis fünf Jahre nach:\na) der Löschung eines Rechtsträgers nach Art. 2 Abs. 1 Bst. c Ziff. 1 aus dem Handelsregister bzw. der Beendigung solcher Rechtsträger, die nicht im Handelsregister eingetragen, angezeigt oder hinterlegt sind;\nb) der Beendigung der Verwaltung im Inland eines Rechtsträgers nach Art. 2 Abs. 1 Bst. c Ziff. 2; oder\nc) der Beendigung der Geschäftsbeziehung bzw. Veräusserung der Immobilie eines Rechtsträgers nach Art. 2 Abs. 1 Bst. c Ziff. 3.\n6) Für Zwecke der Datenschutzkontrolle ist jede Datenverarbeitung im Verzeichnis zu protokollieren. Die Protokolldaten sind der Datenschutzstelle auf Ersuchen unverzüglich zu übermitteln. Protokolldaten dürfen ausschliesslich für die Zwecke der Datenschutzkontrolle durch die Datenschutzstelle und zur Gewährleistung der Datensicherheit verarbeitet werden. Für andere Zwecke dürfen die Protokolldaten nicht verarbeitet werden. Zu protokollieren sind:\na) der Zeitpunkt der Datenverarbeitung;\nb) die die Daten verarbeitenden Personen; sowie\nc) Zweck und Art der Datenverarbeitung.\n7) Die Protokolldaten sind zehn Jahre aufzubewahren und dann zu löschen.\n8) Die Regierung regelt das Nähere über die Datenverarbeitung und -sicherheit mit Verordnung, insbesondere:\na) die Massnahmen zur Gewährleistung der sicheren Offenlegung von Daten;\nb) den Betrieb des Verzeichnisses, den Zugriff auf die Daten, die Verarbeitungsberechtigung, die Aufbewahrung, Archivierung und Löschung von Daten sowie die Protokollierung von Anfragen.\nC. Offenlegung von Daten"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Offenlegung von Daten",
+      "section": "13",
+      "title": "Art. 13 Offenlegung von Daten an inländische Behörden im Abrufverfahren",
+      "content": "1) Die Stabsstelle FIU, die FMA, die Landespolizei, die Steuerverwaltung, die Staatsanwaltschaft, das Landgericht und die Liechtensteinische Rechtsanwaltskammer dürfen im Einzelfall uneingeschränkt im Abrufverfahren Einsicht in die im Verzeichnis eingetragenen Daten zu wirtschaftlich berechtigten Personen von Rechtsträgern nehmen, soweit dies zum Zweck der Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung erforderlich ist. Es ist sicherzustellen, dass betroffene Rechtsträger von einer Datenabfrage nicht in Kenntnis gesetzt werden.\n2) Vorbehaltlich besonderer gesetzlicher Bestimmungen bestehen die Rechte der betroffenen Person nach Art. 13 bis 16, 18 und 21 der Verordnung (EU) 2016/679 nicht, soweit durch ihre Erfüllung Informationen offenbart würden, die wegen überwiegender berechtigter Interessen des Amtes für Justiz, der Stabsstelle FIU, der FMA, der Landespolizei, der Steuerverwaltung, der Staatsanwaltschaft, des Landgerichts, der Liechtensteinischen Rechtsanwaltskammer oder Dritter geheim gehalten werden müssen. Art. 34 Abs. 2 des Datenschutzgesetzes findet sinngemäss Anwendung.\n3) Bei jeder Einsicht nach Abs. 1 werden der Zeitpunkt der Abfrage, die eingesehenen oder abgerufenen Daten samt Begründung und die Person des Abfragenden protokolliert. Das Amt für Justiz informiert die Behörden nach Abs. 1 quartalsweise und berichtet der Regierung nach Ablauf jedes Kalenderjahres über die erfolgten Datenabfragen.\n4) Die Regierung regelt das Nähere über die Offenlegung von Daten an inländische Behörden im Abrufverfahren mit Verordnung."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "C. Offenlegung von Daten",
+      "section": "14",
+      "title": "Art. 14 Offenlegung von Daten an ausländische Behörden im Rahmen der Amtshilfe",
+      "content": "Inländische Behörden nach Art. 13 Abs. 1 entscheiden über die Zulässigkeit der Offenlegung von Daten im Rahmen der Amtshilfe. Sie nehmen gegebenenfalls im Abrufverfahren Einsicht in das Verzeichnis und übermitteln die Daten an die anfragende zuständige ausländische Behörde."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Offenlegung von Daten",
+      "section": "15",
+      "title": "Art. 15 Offenlegung von Daten an Banken und Finanzinstitute",
+      "content": "1) Das Amt für Justiz legt die im Verzeichnis eingetragenen Daten von Rechtsträgern zum Zweck der Vornahme der Sorgfaltspflichten bzw. Handlungen zur Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung auf Antrag offen gegenüber:\na) einer Bank oder einem Finanzinstitut mit Sitz im Inland oder in einem anderen EWR-Mitgliedstaat; oder\nb) einer Bank mit Sitz in einem Drittstaat, wenn neben den in der Richtlinie (EU) 2015/849 festgelegten Anforderungen zusätzlich die datenschutzrechtlichen Voraussetzungen nach Art. 45 der Verordnung (EU) 2016/679 erfüllt sind.\n2) Der Antrag nach Abs. 1 ist beim Amt für Justiz einzureichen. Er hat folgende Angaben und Unterlagen zu enthalten:\na) Angaben über den Antragsteller:\n1. bei inländischen Banken und Finanzinstituten: Firma oder Name und Adresse der Bank oder des Finanzinstituts sowie Name und Vorname der vertretungsbefugten natürlichen Person; die Vertretungsbefugnis ist nachzuweisen;\n2. bei ausländischen Banken und Finanzinstituten: zusätzlich zu den Angaben nach Ziff. 1 die zuständige ausländische Aufsichtsbehörde;\nb) Firma oder Name des Rechtsträgers, dessen Daten offengelegt werden sollen;\nc) eine Erklärung, dass die Daten aus dem Verzeichnis für die Erfüllung der Sorgfaltspflichten bzw. der Aufgaben zur Bekämpfung der Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung erforderlich sind.\n3) Das Amt für Justiz hat die Offenlegung von Daten zu verweigern, wenn der Antrag trotz Aufforderung nicht sämtliche erforderlichen Angaben und Unterlagen nach Abs. 2 enthält.\n4) Das Amt für Justiz hat im Rahmen der Offenlegung von Daten gegebenenfalls darauf hinzuweisen, dass eine Unstimmigkeit nach Art. 9 gemeldet wurde.\n5) Dem betroffenen Rechtsträger kommt im Rahmen eines Verfahrens zur Offenlegung von Daten an Banken und Finanzinstitute keine Parteistellung zu. Er ist über die erfolgte Offenlegung zu informieren.\n6) Die Regierung regelt das Nähere über die Offenlegung von Daten an Banken und Finanzinstitute, insbesondere die Art und Form der Antragstellung und die Durchführung der Offenlegung, mit Verordnung."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "C. Offenlegung von Daten",
+      "section": "16",
+      "title": "Art. 16 Offenlegung von Daten an inländische Sorgfaltspflichtige",
+      "content": "1) Das Amt für Justiz legt gegenüber inländischen Sorgfaltspflichtigen im Rahmen der Erfüllung ihrer Sorgfaltspflichten auf Antrag die im Verzeichnis eingetragenen Daten über Rechtsträger offen. Davon ausgenommen sind die Daten von Gründern und Protektoren, welche keine Kontrolle über einen nicht alleinstehenden Rechtsträger nach Anhang 1 ausüben. Art. 15 bleibt vorbehalten.\n2) Der Antrag nach Abs. 1 ist beim Amt für Justiz einzureichen. Er hat folgende Angaben und Unterlagen zu enthalten:\na) Firma oder Name sowie Adresse des Sorgfaltspflichtigen sowie Name und Vorname der vertretungsbefugten natürlichen Person; die Vertretungsbefugnis ist nachzuweisen;\nb) Firma oder Name des Rechtsträgers, dessen Daten offengelegt werden sollen;\nc) eine Erklärung, dass die Daten aus dem Verzeichnis für die Erfüllung der Sorgfaltspflichten erforderlich sind.\n3) Das Amt für Justiz hat nach dem Eingang des Antrags eine Erklärung von nicht alleinstehenden Rechtsträgern nach Anhang 1 einzuholen, ob ein Gründer oder Protektor eine Kontrolle über den entsprechenden Rechtsträger ausübt.\n4) Ist im Zeitpunkt der Antragstellung nach Abs. 1 bereits ein Verfahren auf Einschränkung der Offenlegung von Daten nach Art. 18 hängig oder wird ein solches während einem Verfahren zur Offenlegung von Daten eröffnet, bleibt das Verfahren zur Offenlegung von Daten bis zur rechtskräftigen Entscheidung über die Einschränkung der Offenlegung unterbrochen.\n5) Das Amt für Justiz hat die Offenlegung von Daten bezüglich der entsprechenden wirtschaftlich berechtigten Personen zu verweigern, wenn:\na) der Antrag trotz Aufforderung nicht sämtliche erforderlichen Angaben und Unterlagen nach Abs. 2 enthält;\nb) ein Gründer oder Protektor keine Kontrolle über einen nicht alleinstehenden Rechtsträger nach Anhang 1 ausübt; oder\nc) eine Einschränkung der Offenlegung von Daten nach Art. 18 vorliegt.\n6) Dem betroffenen Rechtsträger kommt im Rahmen eines Verfahrens zur Offenlegung von Daten an sonstige Sorgfaltspflichtige keine Parteistellung zu. Er ist über die erfolgte Offenlegung zu informieren.\n7) Die Regierung regelt das Nähere über die Offenlegung von Daten an inländische Sorgfaltspflichtige, insbesondere die Art und Form der Antragstellung und die Durchführung der Offenlegung, mit Verordnung."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "C. Offenlegung von Daten",
+      "section": "17",
+      "title": "Art. 17 Offenlegung von Daten an Dritte",
+      "content": "1) In- und ausländische Personen und Organisationen können beim Amt für Justiz gegen Gebühr eine Offenlegung der im Verzeichnis eingetragenen Daten von alleinstehenden Rechtsträgern nach Anhang 1 beantragen.\n2) Der Antrag nach Abs. 1 ist beim Amt für Justiz einzureichen. Er hat folgende Angaben und Unterlagen zu enthalten:\na) Angaben über den Antragsteller:\n1. bei natürlichen Personen: Name, Vorname und Adresse;\n2. bei juristischen Personen und Organisationen: Firma, Name oder Bezeichnung und Adresse, Zweck und Sitz sowie Name und Vorname der vertretungsbefugten natürlichen Person; die Vertretungsbefugnis ist nachzuweisen;\nb) Firma oder Name des alleinstehenden Rechtsträgers nach Anhang 1, dessen Daten offengelegt werden sollen; und\nc) eine Erklärung, dass die Daten aus dem Verzeichnis zur Bekämpfung der Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung erforderlich sind.\n3) Das Amt für Justiz hat die Offenlegung über die entsprechenden wirtschaftlich berechtigten Personen zu verweigern, wenn:\na) der Antrag nach Abs. 1 trotz Aufforderung nicht sämtliche erforderlichen Angaben und Unterlagen nach Abs. 2 enthält;\nb) die Erklärung nach Abs. 2 Bst. c nicht glaubhaft ist;\nc) eine Einschränkung der Offenlegung von Daten nach Art. 18 vorliegt; oder\nd) die Gebühr nicht bezahlt wurde.\n4) In- und ausländische Personen und Organisationen können bezüglich Rechtsträgern, welche nicht als alleinstehende Rechtsträger nach Anhang 1 anzusehen sind, beim Amt für Justiz gegen Gebühr eine Offenlegung der im Verzeichnis eingetragenen Daten beantragen. Davon ausgenommen sind die Daten von Gründern und Protektoren, welche keine Kontrolle über einen nicht alleinstehenden Rechtsträger nach Anhang 1 ausüben. Art. 13, 15 und 16 bleiben vorbehalten.\n5) Der Antrag nach Abs. 4 ist beim Amt für Justiz einzureichen. Er hat folgende Angaben und Unterlagen zu enthalten:\na) Angaben über den Antragsteller:\n1. bei natürlichen Personen: Name, Vorname und Adresse;\n2. bei juristischen Personen und Organisationen: Firma, Name oder Bezeichnung und Adresse, Zweck und Sitz sowie Name und Vorname der vertretungsbefugten natürlichen Person; die Vertretungsbefugnis ist nachzuweisen;\nb) Firma oder Name des Rechtsträgers, dessen Daten offengelegt werden sollen;\nc) Angaben über den Verwendungszweck der ersuchten Informationen; und\nd) den Nachweis eines berechtigten Interesses nach Abs. 6 oder einer Kontrolle verleihenden Beteiligung nach Abs. 7.\n6) Ein berechtigtes Interesse nach Abs. 5 Bst. d liegt vor, wenn die Verwendung der beantragten Daten im Rahmen der Bekämpfung von Geldwäscherei, Vortaten der Geldwäscherei und Terrorismusfinanzierung glaubhaft gemacht wird.\n7) Eine Kontrolle verleihende Beteiligung nach Abs. 5 Bst. d liegt vor, wenn eine im Verzeichnis eingetragene Treuhänderschaft oder ähnliche Rechtsvereinbarung eine direkte oder indirekte Beteiligung in Höhe von 25 % oder mehr an einer Gesellschaft oder juristischen Person mit Sitz in einem Drittstaat hält.\n8) Das Amt für Justiz hat nach dem Eingang des Antrags nach Abs. 4 einzuholen:\na) eine Stellungnahme der betroffenen Rechtsträger, ob ein berechtigtes Interesse nach Abs. 6 oder eine Kontrolle verleihende Beteiligung nach Abs. 7 besteht; und\nb) eine Erklärung der betroffenen Rechtsträger, ob ein Gründer oder Protektor eine Kontrolle über den entsprechenden Rechtsträger ausübt.\n9) Ist im Zeitpunkt der Antragstellung nach Abs. 1 oder 4 bereits ein Verfahren auf Einschränkung der Offenlegung von Daten nach Art. 18 hängig oder wird ein solches während einem Verfahren zur Offenlegung von Daten eröffnet, bleibt das Verfahren zur Offenlegung von Daten bis zur rechtskräftigen Entscheidung über die Einschränkung der Offenlegung unterbrochen.\n10) Das Amt für Justiz leitet den Antrag nach Abs. 4, einschliesslich der dazugehörigen Unterlagen nach Abs. 5 und 8, zur Entscheidung an die VwbP-Kommission weiter.\n11) Die VwbP-Kommission hat die Offenlegung von Daten bezüglich der entsprechenden wirtschaftlich berechtigten Personen zu verweigern, wenn:\na) der Antrag nach Abs. 4 trotz Aufforderung nicht sämtliche erforderlichen Angaben und Unterlagen nach Abs. 5 enthält;\nb) ein Gründer oder Protektor keine Kontrolle über einen nicht alleinstehenden Rechtsträger nach Anhang 1 ausübt;\nc) eine Einschränkung der Offenlegung von Daten nach Art. 18 vorliegt;\nd) ein ausreichender Verwendungszweck nach Abs. 5 Bst. c nicht gegeben ist;\ne) ein berechtigtes Interesse nach Abs. 6 nicht besteht;\nf) eine die Kontrolle verleihende Beteiligung nach Abs. 7 nicht besteht; oder\ng) die Gebühr nicht bezahlt wurde.\n12) Die Offenlegung von Daten erfolgt durch das Amt für Justiz nach der rechtskräftigen Entscheidung der VwbP-Kommission über einen Antrag nach Abs. 4.\n13) Dem betroffenen Rechtsträger kommt im Rahmen eines Verfahrens zur Offenlegung von Daten an Dritte keine Parteistellung zu; vorbehalten bleibt die Abgabe einer Stellungnahme bzw. Erklärung nach Abs. 8. Der betroffene Rechtsträger ist über die erfolgte Offenlegung zu informieren.\n14) Die Regierung regelt das Nähere über die Offenlegung von Daten an Dritte, insbesondere die Art und Form der Antragstellung und die Durchführung der Offenlegung, mit Verordnung."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "C. Offenlegung von Daten",
+      "section": "18",
+      "title": "Art. 18 Einschränkung der Offenlegung von Daten bei Vorliegen schutzwürdiger Interessen",
+      "content": "1) Das Amt für Justiz kann die Offenlegung von Daten gegenüber inländischen Sorgfaltspflichtigen und Dritten nach Art. 16 und 17 auf Antrag eines Rechtsträgers vollständig oder teilweise einschränken, wenn dieser nachweist, dass der Offenlegung unter Berücksichtigung aller Umstände des Einzelfalls überwiegende schutzwürdige Interessen der wirtschaftlich berechtigten Personen entgegenstehen.\n2) Überwiegende schutzwürdige Interessen liegen vor, wenn die wirtschaftlich berechtigte Person:\na) durch die Offenlegung von Daten einem unverhältnismässigen Risiko von Betrug, Entführung, Erpressung, Schutzgelderpressung, Schikane, Gewalt oder Einschüchterung ausgesetzt würde; oder\nb) minderjährig oder anderweitig geschäftsunfähig ist.\n3) Die Einschränkung der Offenlegung von Daten wird für die Dauer von fünf Jahren gewährt. Bei minderjährigen wirtschaftlich berechtigten Personen wird sie bis zur Erreichung der Volljährigkeit gewährt. Wenn die Voraussetzungen der Einschränkung der Offenlegung vor Ablauf dieser Frist wegfallen, so hat der Rechtsträger dies dem Amt für Justiz schriftlich anzuzeigen. Eine Verlängerung der Einschränkung der Offenlegung ist zulässig, wenn der Rechtsträger dem Amt für Justiz nachweist, dass weiterhin überwiegende schutzwürdige Interessen der wirtschaftlich berechtigten Personen einer Offenlegung von Daten entgegenstehen.\n4) Das Amt für Justiz hat auf seiner Website jährlich statistische Daten über die Anzahl der gewährten Ausnahmen und in genereller Form deren Begründungen zu veröffentlichen und diese der EFTA-Überwachungsbehörde (ESA) vorzulegen.\nD. Datenschutzrechte"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "D. Datenschutzrechte",
+      "section": "19",
+      "title": "Art. 19 Auskunftsrecht betroffener Personen",
+      "content": "Das Recht betroffener Personen auf Auskunft über die nach diesem Gesetz verarbeiteten personenbezogenen Daten richtet sich nach Art. 15 der Verordnung (EU) 2016/679. Vom Auskunftsrecht ausgenommen sind Protokolldaten nach Art. 12 Abs. 6 und Daten im Zusammenhang mit der Einsichtnahme nach Art. 13 Abs. 1 und 2.\nV. Aufsicht und Vollzug"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "20",
+      "title": "Art. 20 Zuständigkeiten",
+      "content": "Die Aufsicht und der Vollzug dieses Gesetzes obliegen:\na) dem Amt für Justiz;\nb) der Finanzmarktaufsicht (FMA); und\nc) der VwbP-Kommission."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "21",
+      "title": "Art. 21 Amtsgeheimnis",
+      "content": "Wer mit dem Vollzug der Bestimmungen dieses Gesetzes betraut ist oder zu deren Vollzug beigezogen wird, unterliegt dem Amtsgeheimnis und hat gegenüber anderen Amtsstellen und Privaten über die in Ausübung dieser Tätigkeit gemachten Wahrnehmungen Stillschweigen zu bewahren und Einsicht in amtliche Akten zu verweigern. Art. 22 und 23 bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "22",
+      "title": "Art. 22 Zusammenarbeit inländischer Behörden",
+      "content": "Das Amt für Justiz, die FMA, die Stabsstelle FIU, die Landespolizei, die Steuerverwaltung, die Staatsanwaltschaft und das Landgericht sind verpflichtet, eng zusammenzuarbeiten, einander unaufgefordert oder auf Anfrage alle für die Bekämpfung von Geldwäscherei, damit zusammenhängender Vortaten und Terrorismusfinanzierung notwendigen Informationen zu übermitteln und Auskünfte zu erteilen sowie personenbezogene Daten, einschliesslich personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, und Unterlagen zu übermitteln."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "23",
+      "title": "Art. 23 Aufgaben und Befugnisse des Amtes für Justiz",
+      "content": "1) Das Amt für Justiz überwacht im Rahmen seiner Aufsicht die Einhaltung der Bestimmungen dieses Gesetzes und der dazu erlassenen Verordnungen.\n2) Dem Amt für Justiz obliegen insbesondere folgende Aufgaben:\na) die Prüfung der Vollständigkeit der eingetragenen Daten nach Art. 4;\nb) die stichprobenweise Prüfung der eingetragenen Daten nach Art. 4 auf ihre Plausibilität;\nc) die Führung des Verzeichnisses nach Art. 6 ff.;\nd) die Offenlegung von Daten nach Art. 13 ff.; und\ne) die Vornahme von Kontrollen nach Art. 24.\n3) Das Amt für Justiz besitzt alle erforderlichen Befugnisse, um seine Aufgaben zu erfüllen und kann dabei insbesondere:\na) Verfügungen und Wegleitungen erlassen sowie Entscheidungen treffen, die für die Anwendung dieses Gesetzes notwendig sind;\nb) die Verwendung bestimmter Formulare in elektronischer Form vorschreiben;\nc) von den Rechtsträgern und deren Organen alle für den Vollzug dieses Gesetzes erforderlichen Auskünfte, Abklärungen, Unterlagen und Abschriften unter Setzung einer angemessenen Frist verlangen. Diese Pflicht der Rechtsträger und deren Organe geht allen staatlich anerkannten Pflichten zur Verschwiegenheit vor;\nd) die Wiederherstellung des rechtmässigen Zustands nach Art. 26 verlangen;\ne) eine Mitteilung nach Art. 17 des Sorgfaltspflichtgesetzes an die Stabsstelle FIU erstatten;\nf) Verstösse gegen dieses Gesetz den zuständigen Aufsichtsbehörden und Stellen, die für die Verhängung von Aufsichts- und Disziplinarmassnahmen gegen Rechtsträger bzw. deren Organe zuständig sind, melden;\ng) eine Anzeige bei der Staatsanwaltschaft erheben; oder\nh) die Liquidation eines Rechtsträgers nach Anhang 1 oder 2 verfügen, sofern die Mitteilung der Daten nicht erwirkt werden kann."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "24",
+      "title": "Art. 24 Kontrollen durch das Amt für Justiz und unabhängige Dritte",
+      "content": "1) Besteht Grund zur Annahme, dass ein Rechtsträger gegen Bestimmungen dieses Gesetzes verstossen hat, kann eine Kontrolle durchgeführt werden. Die Kontrolle erfolgt durch das Amt für Justiz oder durch von ihm beauftragte unabhängige Dritte.\n2) Als unabhängige Dritte qualifizieren ausschliesslich Wirtschaftsprüfer, Wirtschaftsprüfungsgesellschaften und spezialgesetzliche Revisionsstellen im Sinne von Art. 26 Abs. 1 des Sorgfaltspflichtgesetzes.\n3) Unabhängige Dritte haben ihre Kontrollen nach den Vorgaben des Amtes für Justiz durchzuführen. Sie sind verpflichtet:\na) beim Amt für Justiz einen Kontrollbericht einzureichen;\nb) die vom Amt für Justiz bestimmten Grundsätze über die Kontrolltätigkeit und die Durchführung der Kontrollen einzuhalten;\nc) die Unterlagen und Daten der Kontrollen ausschliesslich im Inland zu verarbeiten und für die Dauer von zehn Jahren aufzubewahren; und\nd) dem Amt für Justiz auf Verlangen sämtliche Auskünfte sowie Unterlagen und Abschriften zu übermitteln, die dieses zur Erfüllung seiner Tätigkeiten nach diesem Gesetz benötigt.\n4) Die unabhängigen Dritten unterliegen dem Amtsgeheimnis nach Art. 21. Vorbehalten bleibt die Berichterstattungs- und Auskunftspflicht nach Abs. 3.\n5) Die Kosten der unabhängigen Dritten tragen die kontrollierten Rechtsträger. Die vertretungsbefugten Organe haften zur ungeteilten Hand, wenn die Kosten vom kontrollierten Rechtsträger nicht bezahlt werden oder dieser bereits gelöscht wurde. Unabhängige Dritte haben vor Prüfbeginn auf Verlangen des betroffenen Rechtsträgers einen Kostenvoranschlag zu erstellen. Die Kosten haben sich dabei nach den anwendbaren branchenüblichen Tarifen zu richten und müssen in Bezug auf den Zweck der Kontrolltätigkeit verhältnismässig sein.\n6) Rechtsträger haben dem Amt für Justiz und den unabhängigen Dritten unbeschränkten Zugang zu allen Informationen zu gewähren, die im Zusammenhang mit der Erfüllung ihrer Verpflichtungen aus diesem Gesetz relevant sind und die diese daher zur Durchführung der Kontrollen für notwendig erachten."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "25",
+      "title": "Art. 25 Kontrollen durch die FMA",
+      "content": "1) Die FMA führt bei Rechtsträgern, die Sorgfaltspflichtige sind oder über mindestens ein Organ verfügen, welches ein Sorgfaltspflichtiger ist, und ihrer Aufsicht unterstellt sind, regelmässig stichprobenweise Kontrollen zur Prüfung der Übereinstimmung der Daten nach Art. 7 dieses Gesetzes mit jenen nach Art. 7 des Sorgfaltspflichtgesetzes durch oder kann solche durchführen lassen.\n2) Soweit die FMA Kontrollen nach Abs. 1 von Dritten durchführen lässt, tragen die kontrollierten Rechtsträger die Kosten für die Kontrolltätigkeit sowie die damit verbundenen administrativen Kosten. Die Kosten der beauftragten Dritten haben sich dabei nach den anwendbaren branchenüblichen Tarifen zu richten und müssen in Bezug auf den Zweck der Kontrolltätigkeit verhältnismässig sein.\n3) Stellt die FMA im Rahmen ihrer Kontrollen fest, dass die Daten zu den wirtschaftlich berechtigten Personen nicht, nicht richtig oder nicht vollständig eingeholt bzw. dem Amt für Justiz mitgeteilt wurden, hat sie dies dem Amt für Justiz zu melden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "26",
+      "title": "Art. 26 Wiederherstellung des rechtmässigen Zustands",
+      "content": "1) Das Amt für Justiz fordert den betroffenen Rechtsträger formlos auf, innerhalb einer angemessenen Frist den rechtmässigen Zustand wiederherzustellen, wenn Grund zur Annahme besteht, dass verwaltungstechnische oder sonstige geringfügige Fehler zu einer unrichtigen oder unvollständigen Datenübermittlung geführt haben könnten.\n2) Die Frist nach Abs. 1 kann in begründeten Fällen angemessen verlängert werden. Wird der Fehler nicht fristgerecht behoben, so erlässt das Amt für Justiz eine entsprechende Verfügung.\n3) Vorbehalten bleibt die Verhängung von Strafen nach Art. 31."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "27",
+      "title": "Art. 27 VwbP-Kommission",
+      "content": "1) Die Regierung bestellt eine VwbP-Kommission, welche aus drei bis fünf Mitgliedern und drei Stellvertretern besteht. Die Regierung bestimmt den Vorsitzenden und seinen Stellvertreter; beide müssen rechtskundig sein. Die Amtsperiode beträgt vier Jahre. Eine Wiederbestellung ist zulässig.\n2) In der Kommission sind Fachkompetenzen aus den Bereichen Finanzdienstleistung und Datenschutz vertreten. Die Mitglieder sind in der Ausübung ihrer Funktion unabhängig.\n3) Der Kommission obliegen die ihr in Art. 17 übertragenen Aufgaben.\n4) Die Beschlussfassung der Kommission erfolgt mit einfacher Stimmenmehrheit der anwesenden Mitglieder und Stellvertreter. Bei Stimmengleichheit hat der Vorsitzende bzw. dessen Stellvertreter den Stichentscheid.\n5) Die Regierung regelt das Nähere über die Organisation und Aufgaben der Kommission mit Verordnung. Die Kommission hat eine Geschäftsordnung zu erlassen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "28",
+      "title": "Art. 28 Gebühren",
+      "content": "1) Das Amt für Justiz und die VwbP-Kommission erheben im Rahmen ihrer Zuständigkeiten nach diesem Gesetz Gebühren für:\na) Tätigkeiten im Zusammenhang mit der Führung des Verzeichnisses nach Art. 6 bis 9;\nb) die Offenlegung von Daten nach Art. 17 sowie die Einschränkungen der Offenlegung von Daten nach Art. 18; und\nc) Tätigkeiten im Zusammenhang mit der Aufsicht nach Art. 23, 24 und 26.\n2) Die Regierung regelt das Nähere über die Gebühren, insbesondere deren Höhe, mit Verordnung."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "V. Aufsicht und Vollzug",
+      "section": "29",
+      "title": "Art. 29 Kostenersatz",
+      "content": "Es besteht kein Anspruch auf den Ersatz von Gebühren sowie Partei- und Vertretungskosten gegenüber den Behörden oder anderen Parteien.\nVI. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VI. Rechtsmittel",
+      "section": "30",
+      "title": "Art. 30 Beschwerde",
+      "content": "1) Gegen Verfügungen oder Entscheidungen des Amtes für Justiz oder der VwbP-Kommission kann binnen 14 Tagen ab Zustellung Beschwerde an die Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden.\n2) Gegen Entscheidungen der Beschwerdekommission für Verwaltungsangelegenheiten kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.\nVII. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "31",
+      "title": "Art. 31 Vergehen und Übertretungen",
+      "content": "1) Vom Landgericht wird wegen Vergehens mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bis zu 360 Tagessätzen bestraft, wer:\na) sich unter Vorgabe falscher Tatsachen Auskünfte des Amtes für Justiz oder der VwbP-Kommission erschleicht; oder\nb) Auskünfte entgegen dem im Antrag nach Art. 15 Abs. 2 Bst. c, Art. 16 Abs. 2 Bst. c sowie Art. 17 Abs. 2 Bst. c und Abs. 5 Bst. c angegebenen Zweck verwendet.\n2) Vom Amt für Justiz wird, wenn die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet, wegen Übertretung mit Busse bis zu 200 000 Franken bestraft, wer:\na) seinen Pflichten nach Art. 3, 4, 9 oder 34 nicht oder nicht fristgerecht nachkommt bzw. diese nicht vollständig oder inhaltlich nicht richtig erfüllt;\nb) die ordnungsgemässe Durchführung einer Kontrolle nach Art. 24 erschwert, verhindert oder verunmöglicht; oder\nc) einer Aufforderung zur Vervollständigung bzw. Richtigstellung der Daten oder einer Verfügung des Amtes für Justiz zur Behebung einer Unstimmigkeit nach Art. 9 oder einer anderen Aufforderung nicht nachkommt.\n3) Bei fahrlässiger Begehung werden die Strafobergrenzen nach Abs. 1 und 2 auf die Hälfte herabgesetzt."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "32",
+      "title": "Art. 32 Verantwortlichkeit",
+      "content": "Werden die Widerhandlungen durch einen Rechtsträger begangen, finden die Strafbestimmungen auf die Mitglieder der Leitungsebene und andere natürliche Personen Anwendung, die für sie gehandelt haben oder hätten handeln sollen, jedoch unter solidarischer Mithaftung des Rechtsträgers für Geldstrafen, Bussen und Kosten.\nVIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "33",
+      "title": "Art. 33 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes erforderlichen Verordnungen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "34",
+      "title": "Art. 34 Übergangsbestimmungen",
+      "content": "1) Rechtsträger, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bestehen, haben die Daten nach Art. 4 dem Amt für Justiz innert sechs Monaten ab Inkrafttreten dieses Gesetzes mitzuteilen.\n2) Sorgfaltspflichtige haben Unstimmigkeiten nach Art. 9 dem Amt für Justiz erst nach Ablauf der in Abs. 1 genannten Frist zu melden.\n3) Auf im Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren zur Offenlegung von Daten findet das bisherige Recht Anwendung."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "35",
+      "title": "Art. 35 Aufhebung bisherigen Rechts",
+      "content": "Das Gesetz vom 6. Dezember 2018 über das Verzeichnis der wirtschaftlichen Eigentümer inländischer Rechtsträger (VwEG), LGBl. 2019 Nr. 8, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "36",
+      "title": "Art. 36 Inkrafttreten",
+      "content": "Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. April 2021 in Kraft, andernfalls am Tag nach der Kundmachung.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Adrian Hasler\nFürstlicher Regierungschef\nAnhang 1\nListe der Rechtsträger\n1. Vereine (Art. 246 ff. PGR), soweit sie im Handelsregister eintragungspflichtig sind;\n2. Aktiengesellschaften (Art. 261 ff. PGR);\n3. Kommanditaktiengesellschaften (Art. 368 ff. PGR);\n4. Anteilsgesellschaften (Art. 375 ff. PGR);\n5. Gesellschaften mit beschränkter Haftung (Art. 389 ff. PGR);\n6. Genossenschaften (Art. 428 ff. PGR);\n7. Versicherungsvereine auf Gegenseitigkeit und Hilfskassen (Art. 496 ff. PGR);\n8. Anstalten (Art. 534 ff. PGR), soweit diese nicht von Anhang 2 erfasst sind;\n9. Gemeinwirtschaftliche Unternehmungen (Art. 571 ff. PGR);\n10. Kollektivgesellschaften (Art. 689 ff. PGR);\n11. Kommanditgesellschaften (Art. 733 ff. PGR);\n12. Treuunternehmen (Trust reg.; Art. 932a PGR), soweit sie nicht von Anhang 2 erfasst sind;\n13. Europäische wirtschaftliche Interessenvereinigungen (EWIV; EWIVG);\n14. Europäische Gesellschaften (Societas Europaea, SE; SEG);\n15. Europäische Genossenschaften (Societas Cooperativa Europaea, SCE; SCEG).\nAnhang 2\nListe der Rechtsträger\n1. stiftungsähnlich strukturierte Anstalten (Art. 543 Abs. 1 Satz 2 PGR) und Anstalten, deren Begünstigte Dritte sind (Art. 545 Abs. 1bis PGR);\n2. Stiftungen (Art. 552 § 1 PGR);\n3. Treuhänderschaften (Trust; Art. 897 ff. PGR);\n4. stiftungsähnlich strukturierte Treuunternehmen (Trust reg.; Art. 932a PGR).\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 75/2020 und 132/2020\n2\nRichtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission (ABl. L 141 vom 5.6.2015, S. 73)\n3\nRichtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl. L 169 vom 30.6.2017, S. 46)\n4\nVerordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "wirtschaftlich berechtigte Person",
+      "definition": "eine natürliche Person, auf deren Veranlassung oder in deren Interesse eine Transaktion oder Tätigkeit ausgeführt oder eine Geschäftsbeziehung letztlich begründet wird. Im Falle von Rechtsträgern ist es auch diejenige natürliche Person, in deren Eigentum oder unter deren Kontrolle der Rechtsträger letztlich steht. Die Regierung regelt das Nähere mit Verordnung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sorgfaltspflichtiger",
+      "definition": "ein Sorgfaltspflichtiger nach Art. 3 des Sorgfaltspflichtgesetzes;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Rechtsträger",
+      "definition": "1. inländische juristische Personen, Gesellschaften, Treuhänderschaften oder sonstige Gemeinschaften oder Vermögenseinheiten, unabhängig von ihrer rechtlichen Ausgestaltung, nach den Anhängen 1 und 2, soweit bei Treuhänderschaften nach Anhang 2, welche durch Personen nach Art. 3 Abs. 1 Bst. k des Sorgfaltspflichtgesetzes verwaltet werden, nicht der Nachweis erbracht wird, dass die wirtschaftlich berechtigten Personen in einem Register nach Art. 31 der Richtlinie (EU) 2015/849 eines anderen EWR-Mitgliedstaates eingetragen sind. Die Regierung regelt das Nähere mit Verordnung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "alleinstehende Rechtsträger nach Anhang 1",
+      "definition": "Rechtsträger nach Anhang 1, bei welchen letztlich kein Rechtsträger nach Anhang 2 oder kein entsprechender ausländischer Rechtsträger:",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Drittstaat",
+      "definition": "ein Staat, der nicht Mitglied des Europäischen Wirtschaftsraums (EWR) ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Finanzinstitut",
+      "definition": "ein Finanzinstitut nach Art. 3 Ziff. 2 der Richtlinie (EU) 2015/849;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Geschäftsbeziehung",
+      "definition": "jede geschäftliche, berufliche oder kommerzielle Beziehung, die in Verbindung mit den gewerblichen Tätigkeiten des Rechtsträgers unterhalten wird und bei der bei Zustandekommen des Kontakts davon ausgegangen wird, dass sie von gewisser Dauer sein wird;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gründer und Protektoren",
+      "definition": "Stifter, Gründer und Treugeber sowie Protektoren oder Personen in ähnlichen oder gleichwertigen Funktionen.",
+      "source_provision": "art2"
+    }
+  ]
+}

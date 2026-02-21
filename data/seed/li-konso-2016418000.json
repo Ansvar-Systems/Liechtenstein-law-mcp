@@ -1,0 +1,977 @@
+{
+  "id": "li-konso-2016418000",
+  "type": "statute",
+  "title": "Grundbuchverordnung (GBV) vom 29. November 2016",
+  "title_en": "",
+  "short_name": "LGBl 2016.418",
+  "status": "in_force",
+  "issued_date": "2016-11-29",
+  "in_force_date": "2016-11-29",
+  "url": "https://www.gesetze.li/konso/2016418000",
+  "description": "Grundbuchverordnung (GBV) vom 29. November 2016",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "A. Gegenstand und Begriffe",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt:\na) die Organisation der Grundbuchführung;\nb) den Aufbau, den Inhalt und die Rechtswirkungen des Grundbuchs;\nc) den elektronischen Geschäftsverkehr mit dem Amt für Justiz;\nd) das Verfahren zur Eintragung, Änderung und Löschung von dinglichen Rechten an Grundstücken sowie von Vormerkungen und Anmerkungen;\ne) die Auskunftserteilung und die Einsichtnahme in das Grundbuch."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "A. Gegenstand und Begriffe",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Grundbuch\": öffentliches Register über die dinglichen Rechte an Grundstücken sowie über die Vormerkungen und Anmerkungen, bestehend aus dem Hauptbuch, dem Tagebuch, dem Plan für das Grundbuch und den Belegen;\nb) \"Hauptbuch\": Gesamtheit aller Daten über die rechtswirksamen und die gelöschten dinglichen Rechte, Vormerkungen und Anmerkungen an den im Grundbuch aufgenommenen Grundstücken;\nc) \"Hauptbuchblatt\": Sammlung aller Daten über die rechtswirksamen und die gelöschten dinglichen Rechte, Vormerkungen und Anmerkungen eines bestimmten Grundstücks des Hauptbuchs;\nd) \"Tagebuch\": chronologisches Protokoll über die Behandlung der Geschäftsfälle, namentlich der Anmeldungen zu Eintragungen, Änderungen und Löschungen im Grundbuch sowie der Aufnahme eines Grundstücks in das Grundbuch, der Entlassung aus dem Grundbuch, der Änderung von Grundstücksgrenzen oder der Eintragung von Gläubigern bei Pfandrechten;\ne) \"Plan für das Grundbuch\": Auszug aus den Daten der amtlichen Vermessung nach Art. 71 der Vermessungsverordnung;\nf) \"Belege\": Sammelbegriff für die Grundbuchanmeldung, den Rechtsgrundausweis sowie Beilagen dazu, insbesondere Vollmachten, Zustimmungserklärungen und Bewilligungen.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nB. Führung, Inhalt und Rechtswirkungen des Grundbuchs"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "3",
+      "title": "Art. 3 Führung des Grundbuchs",
+      "content": "1) Bei der Grundbuchführung mittels Informatik (EDV-Grundbuch) werden die Daten des Hauptbuchs und des Tagebuchs im gleichen System bearbeitet und zueinander in Beziehung gesetzt. Die Daten sind sowohl über die Grundstücksbezeichnung als auch mittels weiterer Suchkriterien wie Personennamen und gegebenenfalls Grundstücksadressen oder Flurbezeichnungen erschliessbar.\n2) Das Amt für Justiz hat Zugriff auf die Daten der amtlichen Vermessung.\n3) Bei der Grundbuchführung auf Papier (Papiergrundbuch) wird das Hauptbuch vom Tagebuch getrennt geführt, grundstücksbezogen entweder in einem Buch oder auf Loseblättern."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "4",
+      "title": "Art. 4 Gliederung des Hauptbuchblatts",
+      "content": "1) Die Daten des Hauptbuchblatts, einschliesslich der jeweils rechtserheblichen Bemerkungen (Art. 99), müssen sich nach den folgenden Abteilungen gegliedert darstellen lassen:\na) Eigentum;\nb) Dienstbarkeiten;\nc) Grundlasten;\nd) Grundpfandrechte;\ne) Vormerkungen;\nf) Anmerkungen;\ng) Grundstücksbeschreibung.\n2) Dienstbarkeiten und Grundlasten können in derselben Abteilung aufgeführt werden; dabei sind Grundlasten als solche zu bezeichnen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "5",
+      "title": "Art. 5 Tagebuch",
+      "content": "1) Die Daten des Tagebuchs müssen sich in chronologischer Reihenfolge darstellen lassen.\n2) Die Führung des Tagebuchs kann mit einer Geschäftskontrolle verbunden werden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "6",
+      "title": "Art. 6 Eigentümerregister",
+      "content": "1) Das Eigentümerregister ist so einzurichten, dass die Namen der Eigentümer in alphabetischer Reihenfolge eingeschrieben werden können. Beim Namen muss jedes dazugehörige Grundstück mit seiner Identifikation aufgeführt werden.\n2) Für natürliche Personen hat das Eigentümerregister folgende Angaben zu enthalten:\na) Name;\nb) Vornamen;\nc) Geburtsdatum;\nd) Staatsangehörigkeit;\ne) die Angabe, ob verheiratet bzw. in eingetragener Partnerschaft oder nicht;\nf) Wohnadresse oder Zustelladresse.\n3) Bei Verbandspersonen, rechtsfähigen personenrechtlichen Gemeinschaften sowie Treuunternehmen mit Rechtspersönlichkeit hat das Eigentümerregister folgende Angaben zu enthalten:\na) Firma oder Name;\nb) Sitz;\nc) Rechtsform;\nd) Zustelladresse;\ne) Registernummer samt Bezeichnung der Registerbehörde.\n4) Soweit das Amt für Justiz die Angaben aus dem entsprechenden Informationssystem des Landes bezieht, müssen die Angaben nach Abs. 2 Bst. c bis f und Abs. 3 Bst. b bis e nicht zusätzlich im Eigentümerregister geführt werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "7",
+      "title": "Art. 7 Gläubigerregister",
+      "content": "1) Für natürliche Personen hat das Gläubigerregister folgende Angaben zu enthalten:\na) Name;\nb) Vornamen;\nc) Wohnadresse oder Zustelladresse.\n2) Bei Verbandspersonen, rechtsfähigen personenrechtlichen Gemeinschaften sowie Treuunternehmen mit Rechtspersönlichkeit hat das Gläubigerregister folgende Angaben zu enthalten:\na) Firma oder Name;\nb) Sitz;\nc) Rechtsform;\nd) Zustelladresse;\ne) Registernummer samt Bezeichnung der Registerbehörde.\n3) Soweit das Amt für Justiz die Angaben aus dem entsprechenden Informationssystem des Landes bezieht, müssen die Angaben nach Abs. 1 Bst. c und Abs. 2 Bst. b bis e nicht zusätzlich im Gläubigerregister geführt werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "8",
+      "title": "Art. 8 Hilfsregister",
+      "content": "1) Das Amt für Justiz kann Verzeichnisse über die Adressen der berechtigten Personen und andere Hilfsregister wie Strassenverzeichnisse und Gebäuderegister führen.\n2) Es kann die Daten für diese Register aus den entsprechenden Informationssystemen des Landes beziehen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Führung, Inhalt und Rechtswirkungen des Grundbuchs",
+      "section": "9",
+      "title": "Art. 9 Verfügbarkeit der Grundbuchdaten",
+      "content": "Im EDV-Grundbuch müssen die gelöschten Daten aller Eigentümer der letzten fünf Jahre sowie Tagebuchdaten der letzten drei Kalenderjahre kurzfristig abgerufen werden können.\nC. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "10",
+      "title": "Art. 10 Aufnahme von Grundstücken in das Grundbuch",
+      "content": "Ein Grundstück wird in das Grundbuch aufgenommen, indem:\na) es im Plan für das Grundbuch, soweit darin darstellbar, aufgezeichnet wird;\nb) dafür ein Hauptbuchblatt eröffnet wird; und\nc) eine Grundstücksbeschreibung erstellt wird."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "11",
+      "title": "Art. 11 Bezeichnung der Grundstücke",
+      "content": "1) Jedes in das Grundbuch aufgenommene Grundstück wird so bezeichnet, dass es eindeutig identifizierbar ist.\n2) Die Bezeichnung beinhaltet die Gemeinde und eine Grundstücksnummer. Die Hauptbuchblätter für selbständige und dauernde Rechte, Bergwerke, Miteigentumsanteile an Grundstücken sowie Stockwerksanteile werden je nach Grundstücksart separat, ausgehend von einer bestimmten Zahl, die vom Amt für Justiz festgelegt wird, landesweit fortlaufend nummeriert.\n3) Die Bezeichnung des Grundstücks im Plan für das Grundbuch stimmt mit derjenigen im Hauptbuch überein.\n4) Wird ein Hauptbuchblatt geschlossen, so wird die Bezeichnung nicht für ein anderes Grundstück verwendet."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "12",
+      "title": "Art. 12 Grundstücksbeschreibung",
+      "content": "1) Die Grundstücksbeschreibung enthält Angaben wie:\na) Lage (Strasse, Ort, Flurbezeichnung) des Grundstücks;\nb) Bodenfläche und Bodenbedeckung von Liegenschaften;\nc) Nummer und Planzahl von Liegenschaften;\nd) gegebenenfalls flächenmässige Ausdehnung des Rechts bei selbstständigen und dauernden Rechten;\ne) Gebäude und Kulturart;\nf) Anzahl Räume und Lage von Stockwerkeinheiten.\n2) Das Amt für Justiz kann diese Angaben aus anderen Systemen beziehen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "13",
+      "title": "Art. 13 Darstellung von Grundstücken im Plan für das Grundbuch",
+      "content": "Liegenschaften und flächenmässig ausgeschiedene, im Grundbuch aufzunehmende selbstständige und dauernde Rechte werden nach den Vorschriften über die amtliche Vermessung erfasst, verwaltet und dargestellt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "14",
+      "title": "Art. 14 Grundstücke in mehreren Gemeinden",
+      "content": "Liegt ein Grundstück in mehreren Gemeinden, so hat das Amt für Justiz das Grundstück in derjenigen Gemeinde aufzunehmen, in der die grössere Bodenfläche liegt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "15",
+      "title": "Art. 15 Aufnahme von selbstständigen und dauernden Rechten sowie Bergwerken",
+      "content": "Die Aufnahme von selbständigen und dauernden Rechten an Grundstücken sowie Bergwerken geschieht durch Eröffnung eines Hauptbuchblatts und durch eine Grundstücksbeschreibung, unter Angabe der Bezeichnung des belasteten Grundstücks und gegebenenfalls der Dauer des Rechts."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "C. Aufnahme, Identifikation, Darstellung und Beschreibung von Grundstücken",
+      "section": "16",
+      "title": "Art. 16 Aufnahme von Miteigentumsanteilen",
+      "content": "1) Ein Miteigentumsanteil wird als Grundstück in das Grundbuch aufgenommen, wenn er Stockwerkeigentum ist.\n2) Er kann als Grundstück in das Grundbuch aufgenommen werden, wenn dies der Klarheit und Übersichtlichkeit dient.\n3) Miteigentumsanteile werden aufgenommen, indem:\na) auf dem Hauptbuchblatt des Stammgrundstücks in der Abteilung \"Eigentum\" an Stelle des Eigentümers die Grundstücksbezeichnungen der Miteigentumsanteile eingetragen werden; und\nb) für jeden Miteigentumsanteil ein Hauptbuchblatt eröffnet wird.\n4) Stockwerkeigentum wird aufgenommen, indem:\na) auf dem Hauptbuchblatt des Stammgrundstücks die Angaben nach Art. 72 eingetragen werden; und\nb) für jede Stockwerkeinheit ein Hauptbuchblatt mit Beschreibung der Einheit eröffnet wird.\n5) Das Hauptbuchblatt des aufzunehmenden Anteils enthält folgende Angaben:\na) die Bezeichnung des Stammgrundstücks;\nb) bei Miteigentum: den Anteil am Stammgrundstück;\nc) bei Stockwerkeigentum: die Bezeichnung des Eigentumsverhältnisses als Stockwerkeigentum und die Wertquote.\nD. Übertragung und Schliessung eines Hauptbuchblatts"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "D. Übertragung und Schliessung eines Hauptbuchblatts",
+      "section": "17",
+      "title": "Art. 17 Übertragung im Papiergrundbuch",
+      "content": "1) Nehmen im Papiergrundbuch die Einträge in einer Abteilung eines Hauptbuchblatts den ganzen verfügbaren Raum ein oder ist das Blatt unübersichtlich geworden, so überträgt das Amt für Justiz die nicht gelöschten Einträge unter der bisherigen Grundstücksbezeichnung auf ein neues Hauptbuchblatt oder legt ein Ergänzungsblatt an.\n2) Auf dem neu angelegten Hauptbuchblatt bzw. dem Ergänzungsblatt und dem ersetzten Hauptbuchblatt sind entsprechende Hinweise zu vermerken."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "D. Übertragung und Schliessung eines Hauptbuchblatts",
+      "section": "18",
+      "title": "Art. 18 Schliessung eines Hauptbuchblatts",
+      "content": "1) Ein Hauptbuchblatt wird geschlossen, indem nach Löschung aller Einträge die Grundstücksbezeichnung unter Angabe des Datums und des Belegs in den Bestand der nicht mehr rechtswirksamen (historischen) Daten übergeführt wird.\n2) Im Papiergrundbuch wird das Hauptbuchblatt zudem diagonal gestrichen.\nE. Öffentlichkeit des Grundbuchs"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "19",
+      "title": "Art. 19 Öffentlich zugängliche Daten des Hauptbuchs",
+      "content": "1) Jede Person kann vom Amt für Justiz, ohne ein Interesse glaubhaft zu machen, Auskunft oder einen Auszug über die folgenden rechtswirksamen Daten des Hauptbuchs verlangen:\na) die Bezeichnung des Grundstücks und die Grundstücksbeschreibung, den Namen und die Identifikation des Eigentümers, die Eigentumsform und das Erwerbsdatum (Art. 551 Abs. 3 Ziff. 1 bis 3 SR);\nb) die Dienstbarkeiten und Grundlasten sowie die Anmerkungen (Art. 551 Abs. 3 Ziff. 4 SR).\n2) Eine Auskunft oder ein Auszug darf nur für ein bestimmtes Grundstück abgegeben werden."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "20",
+      "title": "Art. 20 Elektronische Auskunft und Einsichtnahme",
+      "content": "1) Das Amt für Justiz kann die nach Art. 19 Abs. 1 Bst. a ohne Interessennachweis einsehbaren Daten des Hauptbuchs im Internet öffentlich zugänglich machen.\n2) Es stellt sicher, dass die Daten nur grundstücksbezogen abgerufen werden können und die Auskunftssysteme vor Serienabfragen geschützt sind.\nErweiterter Zugang\nArt. 21\na) Zugriffsberechtigung\n1) Der Zugriff auf Grundbuchdaten nach Art. 565 Abs. 1 Bst. a SR zur Erfüllung von gesetzlichen Aufgaben beschränkt sich auf:\na) bei Ingenieur-Geometern:\n1. die Eigentümerangaben;\n2. die Grundstücksbeschreibungen, soweit sie nicht den Daten der amtlichen Vermessung entnommen werden können;\n3. die Dienstbarkeiten und Grundlasten;\n4. die Vormerkungen und Anmerkungen;\nb) bei der Schätzungskommission:\n1. die Grundstücksbeschreibung;\n2. die Daten, die Gegenstand eines Grundbuchauszugs sind, mit Ausnahme von hypothekarischen Belastungen.\n2) Gerichte und Strafverfolgungsbehörden haben Zugriff auf sämtliche Grundbuchdaten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "22",
+      "title": "Art. 22 b) Regelung der Einzelheiten",
+      "content": "Das Amt für Justiz schliesst mit den Benutzern Vereinbarungen ab. Diese regeln mindestens:\na) die Art und Weise sowie den Umfang des Zugriffs;\nb) die Zugriffskontrolle;\nc) den Verwendungszweck der bezogenen Daten;\nd) den Schutz vor unbefugtem Zugang zu den Daten;\ne) die Einschränkungen hinsichtlich der Weitergabe von Daten an Dritte;\nf) die Folgen missbräuchlicher Bearbeitung der Daten."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "23",
+      "title": "Art. 23 c) Verfahren",
+      "content": "1) Der erweiterte Zugang nach Art. 21 wird den Berechtigten durch einen elektronischen Zugriff im Abrufverfahren gewährt.\n2) Zugriffe werden vom Auskunftssystem automatisch protokolliert. Die Protokolle werden während einem Jahr aufbewahrt.\n3) Werden die bezogenen Daten missbräuchlich bearbeitet, so entzieht das Amt für Justiz die Zugriffsberechtigung unverzüglich. Als Missbrauch gilt insbesondere die Verwendung der Daten zum Zweck der Kundenwerbung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "24",
+      "title": "Art. 24 Inhalt von Auszügen aus dem Grundbuch",
+      "content": "1) Ein Auszug aus dem Hauptbuch gibt die darin über ein bestimmtes Grundstück enthaltenen rechtswirksamen Daten wieder.\n2) Er kann sich auch auf bestimmte Daten oder die Aussage beschränken, dass ein bestimmter Eintrag im Hauptbuch nicht vorhanden ist.\n3) Der Auszug wird übersichtlich nach den Abteilungen des Hauptbuchblatts dargestellt. Er kann sich auch auf gelöschte Daten beziehen; diese werden klar als solche bezeichnet.\n4) Er enthält zudem:\na) die Bezeichnung des Grundstücks;\nb) den Zeitpunkt, in dem der Auszug erstellt ist, und gegebenenfalls die Angabe, auf welchen Zeitpunkt sich die darin enthaltenen Daten beziehen;\nc) bei Miteigentumsanteilen, für die eigene Blätter angelegt worden sind, sowie bei Stockwerkeinheiten: die Daten des Hauptbuchblatts des Stammgrundstücks;\nd) bei den als Grundstücken aufgenommenen selbstständigen und dauernden Rechten: die Daten, die über die eingetragenen Rechte und vorgehenden Belastungen auf dem Blatt des belasteten Grundstücks vorhanden sind;\ne) den Hinweis auf Anmeldungen, die im Tagebuch, aber noch nicht im Hauptbuch eingetragen sind;\nf) einen entsprechenden Hinweis auf ein ausstehendes oder anhängiges Bereinigungsverfahren.\n5) Auszüge werden auch aus dem Tagebuch, den Hilfsregistern und den Belegen erstellt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "25",
+      "title": "Art. 25 Erstellung von Auszügen",
+      "content": "1) Elektronische Auszüge aus dem EDV-Grundbuch werden mit einer Amtssignatur nach Art. 3 Abs. 1 Bst. k E-GovG signiert.\n2) Papierauszüge aus dem EDV-Grundbuch werden als Ausdrucke aus dem System erstellt und durch das Amt für Justiz mit Datum und Unterschrift beglaubigt.\n3) Auszüge aus dem Papiergrundbuch werden als Kopien oder Abschriften erstellt und durch das Amt für Justiz mit Datum und Unterschrift beglaubigt. Erfordern die Umstände nichts anderes, so können Auszüge, die durch Kopie eines Hauptbuchblatts erstellt werden, auch gelöschte Daten wiedergeben.\n4) Das Amt für Justiz kann elektronische Auszüge aus dem Papiergrundbuch anbieten. In diesem Fall wird mit einer Amtssignatur nach Art. 3 Abs. 1 Bst. k E-GovG signiert."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "E. Öffentlichkeit des Grundbuchs",
+      "section": "26",
+      "title": "Art. 26 Nichtbeglaubigte Kopien und Ausdrucke",
+      "content": "Das Amt für Justiz kann zu Informationszwecken auch nichtbeglaubigte Ausdrucke aus dem EDV-Grundbuch sowie nichtbeglaubigte Kopien aus dem Papiergrundbuch und den Hilfsregistern abgeben.\nF. Aufbewahrungspflicht"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "F. Aufbewahrungspflicht",
+      "section": "27",
+      "title": "Art. 27 Aufbewahrung des Papiergrundbuchs und der Hilfsregister",
+      "content": "1) Das Hauptbuch und die Hilfsregister des Papiergrundbuchs, einschliesslich der ausgeschiedenen Hauptbuchblätter, werden geordnet, unbefristet und sicher aufbewahrt.\n2) Die vorgenannten Schriftstücke dürfen ausserhalb des Amtes für Justiz an einem sicheren Ort aufbewahrt werden, wenn sie weiterhin innert kurzer Frist verfügbar sind oder hinsichtlich eines Geschäfts vollständig elektronisch eingelesen und derart gespeichert und gesichert sind, dass die Daten nicht mehr verändert werden können. Den eingelesenen Daten kommen die Rechtswirkungen des EDV-Grundbuchs zu.\n3) Weder das Hauptbuch noch einzelne Hauptbuchblätter werden herausgegeben."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "F. Aufbewahrungspflicht",
+      "section": "28",
+      "title": "Art. 28 Aufbewahrung von Belegen auf Papier",
+      "content": "1) Belege auf Papier werden fortlaufend oder entsprechend der Ordnungsnummer des Tagebuchs nummeriert.\n2) Für die Eintragung in das Hauptbuch massgebende Belege werden in chronologischer Reihenfolge, unbefristet und sicher aufbewahrt.\n3) Belege werden den Gerichts- und Strafverfolgungsbehörden ausnahmsweise gegen Empfangsbescheinigung herausgegeben, wenn die Einsichtnahme unbedingt erforderlich ist. Eine vom Amt für Justiz beglaubigte Abschrift oder Kopie bleibt bei den Grundbuchakten. Nach Abschluss des Verfahrens sind die Belege dem Amt für Justiz unverzüglich und geordnet zurückzugeben.\n4) Für die Aufbewahrung von Belegen ausserhalb des Amtes für Justiz gilt Art. 27 Abs. 2 sinngemäss.\nII. Geschäftsverkehr mit dem Amt für Justiz\nA. Begriff"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "A. Begriff",
+      "section": "29",
+      "title": "Art. 29 Geschäftsverkehr",
+      "content": "Der Geschäftsverkehr mit dem Amt für Justiz umfasst:\na) Eingaben an das Amt für Justiz, insbesondere:\n1. die Anmeldung;\n2. das Gesuch um Ausstellung einer Bescheinigung;\n3. das Gesuch um Ausstellung eines Grundbuchauszugs;\nb) Zustellungen des Amtes für Justiz an die beteiligten Parteien, insbesondere:\n1. die Bescheinigung des Eintrags im Tagebuch;\n2. die Bescheinigung des Eintrags im Hauptbuch;\n3. das Ansetzen der Frist zur Einleitung eines Bewilligungsverfahrens;\n4. das Ansetzen einer Nachfrist zur Ergänzung der Anmeldung;\n5. die Abweisungsverfügung;\n6. den Grundbuchauszug;\n7. die Anzeige von grundbuchlichen Verfügungen, die ohne Wissen der Beteiligten erfolgten (Art. 549 SR).\nB. Elektronischer Geschäftsverkehr"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "B. Elektronischer Geschäftsverkehr",
+      "section": "30",
+      "title": "Art. 30 Zulässige elektronische Eingaben und Mustervorlagen",
+      "content": "1) Das Amt für Justiz veröffentlicht auf seiner Homepage eine Liste der Geschäfte, für welche eine elektronische Eingabe zulässig ist.\n2) Es kann Mustervorlagen öffentlich zugänglich machen, die für die elektronische Übermittlung von Eingaben verwendet werden können.\n3) Erfolgt die Eingabe auf elektronischem Weg, ist zur Sicherstellung der Echtheit eine qualifizierte elektronische Signatur oder ein qualifiziertes elektronisches Siegel nach der eIDAS-VO zu verwenden."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "B. Elektronischer Geschäftsverkehr",
+      "section": "31",
+      "title": "Art. 31 Gemischte Eingaben an das Amt für Justiz",
+      "content": "Die gemischte Einreichung von elektronischen Belegen und solchen in Papierform ist zulässig."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "B. Elektronischer Geschäftsverkehr",
+      "section": "32",
+      "title": "Art. 32 Zustellungen durch das Amt für Justiz",
+      "content": "1) Zustellungen des Amtes für Justiz müssen mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel nach der eIDAS-VO oder einer Amtssignatur nach Art. 3 Abs. 1 Bst. k E-GovG signiert sein.\n2) Zustellungen auf elektronischem Weg können erfolgen, wenn die beteiligte Partei über eine qualifizierte elektronische Zustelladresse nach Art. 30a des Zustellgesetzes verfügt und dem Amt für Justiz ihr Einverständnis mit der elektronischen Zustellung mitgeteilt hat.\nIII. Eintragung, Änderung und Löschung\nA. Anmeldung\n1. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "1. Allgemeine Bestimmungen",
+      "section": "33",
+      "title": "Art. 33 Anmeldungsprinzip",
+      "content": "1) Das Amt für Justiz nimmt Eintragungen in das Grundbuch nur auf Anmeldung hin vor.\n2) Vorbehalten bleiben die im Sachenrecht und in dieser Verordnung vorgesehenen Ausnahmen, in denen das Verfahren von Amtes wegen eingeleitet wird."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "1. Allgemeine Bestimmungen",
+      "section": "34",
+      "title": "Art. 34 Inhalt der Anmeldung",
+      "content": "1) Die Anmeldung erfolgt unbedingt und vorbehaltlos. Sie kann nicht ohne Zustimmung der begünstigten Personen zurückgezogen werden.\n2) In der Anmeldung ist jede vorzunehmende Eintragung einzeln aufzuführen.\n3) Werden mehrere Anmeldungen gleichzeitig eingereicht, die miteinander im Zusammenhang stehen, so ist anzugeben, in welcher Reihenfolge sie behandelt werden sollen.\n4) In der Anmeldung kann verlangt werden, dass die Eintragung nicht ohne eine bestimmte andere zum gleichen Zeitpunkt angemeldete Eintragung vorzunehmen ist."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "1. Allgemeine Bestimmungen",
+      "section": "35",
+      "title": "Art. 35 Form der Anmeldung",
+      "content": "Sofern der Anmeldende die Anmeldung nicht beim Amt für Justiz unterzeichnet, ist die Unterschrift amtlich zu beglaubigen. Bestehen bei einer amtlichen Beglaubigung im Ausland Zweifel an der sachlichen oder örtlichen Berechtigung der Urkundsperson, kann das Amt für Justiz eine Überbeglaubigung oder eine Apostille verlangen. Bei einer Anmeldung durch eine Behörde entfällt die amtliche Beglaubigung."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "1. Allgemeine Bestimmungen",
+      "section": "36",
+      "title": "Art. 36 Anmeldung durch eine zur Vertretung berechtigte Person",
+      "content": "Erfolgt die Anmeldung für eine Verbandsperson, eine rechtsfähige personenrechtliche Gemeinschaft, ein Treuunternehmen mit Rechtspersönlichkeit oder durch einen Stellvertreter des Verfügungsberechtigten, so ist ein Ausweis über die Verfügungsbefugnis, das Vertretungsverhältnis oder eine Vollmacht beizubringen."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "1. Allgemeine Bestimmungen",
+      "section": "37",
+      "title": "Art. 37 Anmeldungsbelege",
+      "content": "1) Die Anmeldungsbelege müssen folgende Angaben über die verfügende Person und die erwerbende Person enthalten:\na) für natürliche Personen: den Namen, die Vornamen, das Geburtsdatum, das Geschlecht, den Wohnort, die Wohnadresse, die Staatszugehörigkeit und die Angabe, ob die Person verheiratet oder nicht verheiratet ist oder in eingetragener Partnerschaft lebt;\nb) für Verbandspersonen, rechtsfähige personenrechtliche Gemeinschaften sowie Treuunternehmen mit Rechtspersönlichkeit: die Firma oder den Namen, den Sitz, die Rechtsform, wenn diese nicht aus der Firma oder dem Namen hervorgeht, sowie die Registernummer und die Bezeichnung der Registerbehörde; beim Erwerb eines dinglichen oder vormerkbaren Rechts ist der Nachweis über die rechtliche Existenz beizubringen (z.B. Handelsregisterauszug, Amtsbestätigung, Genossenschafts- oder Vereinsstatuten samt (Gründungs-) Protokollen);\nc) für andere Gesellschaften und Gemeinschaften, in denen die beteiligten Personen durch Gesetzesvorschrift oder Vertrag verbunden und Gesamteigentümer sind: die Angaben über die daran beteiligten Personen nach den Bst. a oder b.\n2) Mit den Anmeldungsbelegen sind die erforderlichen Bewilligungen oder Zustimmungen vorzulegen, andernfalls der Nachweis zu erbringen ist, dass das angemeldete Recht keiner Bewilligung oder Zustimmung bedarf.\n3) Beim Erwerb von gemeinschaftlichem Eigentum sind die Angaben zu machen, die für die Darstellung des Gemeinschaftsverhältnisses nach Art. 71 erforderlich sind.\n2. Anmeldung von unmittelbar gesetzlichen Pfandrechten"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "2. Anmeldung von unmittelbar gesetzlichen Pfandrechten",
+      "section": "38",
+      "title": "Art. 38 Grundsatz",
+      "content": "1) Unmittelbare gesetzliche Pfandrechte nach Art. 280 Abs. 4, Art. 282 Abs. 3 und Art. 291 Abs. 2 SR werden auf Anmeldung des Grundpfandgläubigers eingetragen, wenn:\na) der Eigentümer die Pfandsumme anerkennt; oder\nb) die Pfandsumme gerichtlich festgestellt ist.\n2) Die Eintragungsfrist wird durch die Vormerkung einer vorläufigen Eintragung zur Sicherung behaupteter dinglicher Rechte gewahrt (Art. 539 Abs. 1 Ziff. 1 SR).\n3. Anmeldung von Vormerkungen"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "3. Anmeldung von Vormerkungen",
+      "section": "39",
+      "title": "Art. 39 Vormerkung von Verfügungsbeschränkungen nach den Vorschriften über die Treuhänderschaften",
+      "content": "Der Treuhänder kann die Vormerkung von Verfügungsbeschränkungen nach den Bestimmungen über die Treuhänderschaften anmelden.\n4. Anmeldung von Anmerkungen"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "4. Anmeldung von Anmerkungen",
+      "section": "40",
+      "title": "Art. 40 Befugnis zur Anmeldung im Allgemeinen",
+      "content": "1) Zur Anmeldung der Anmerkung einer Eigentumsbeschränkung befugt ist:\na) der Eigentümer;\nb) jede andere Person, die ein von der Anmerkung betroffenes dingliches Recht hat.\n2) Öffentlich-rechtliche Eigentumsbeschränkungen und andere öffentlich-rechtliche Pflichten, die mit einem Grundstück oder einem Recht an einem Grundstück verbunden sind, werden angemerkt auf Anmeldung:\na) der für die Entstehung zuständigen Behörde;\nb) des Eigentümers;\nc) der Person, die das betroffene dingliche Recht hat."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "4. Anmeldung von Anmerkungen",
+      "section": "41",
+      "title": "Art. 41 Privatrechtliche Rechtsverhältnisse",
+      "content": "1) Beim Miteigentum kann jeder Miteigentümer die Anmerkung einer Nutzungs- und Verwaltungsordnung, eines Reglements oder von Verwaltungsbeschlüssen anmelden (Art. 26 Abs. 1 und Art. 28a Abs. 2 SR); beim Stockwerkeigentum ist zudem auch der Verwalter dazu befugt.\n2) Der Gemeinderat oder die Regierung kann die Anmerkung der Zugehörigkeit eines Grundstücks zu einem Gebiet mit dauernden Bodenverschiebungen anmelden (Art. 41a Abs. 3 SR).\n3) Handwerker und Unternehmer können die Anmerkung des Werkbeginns auf dem Grundstück anmelden, auf dem sie arbeiten (Art. 318 Abs. 3 SR)."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "4. Anmeldung von Anmerkungen",
+      "section": "42",
+      "title": "Art. 42 Gesetzliche Verfügungsbeschränkungen",
+      "content": "1) Das Gericht oder gestützt auf dessen vollstreckbare Anordnung der Ehegatte oder der eingetragene Partner kann die Anmerkung einer Beschränkung der Verfügungsbefugnis über ein Grundstück nach Art. 49f Abs. 2 EheG oder Art. 21 Abs. 2 PartG anmelden.\n2) Das Gericht kann die Anmerkung der Eröffnung eines Insolvenzverfahrens nach Art. 12 IO anmelden.\nB. Rechtsgrundausweise\n1. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "1. Allgemeine Bestimmungen",
+      "section": "43",
+      "title": "Art. 43 Belege für Rechtsgrundausweise",
+      "content": "1) Die Belege für Rechtsgrundausweise sind im Original oder, wenn eine Verwaltungsbehörde oder ein Gericht zur Aufbewahrung des Originals verpflichtet ist, als Ausfertigung oder beglaubigte Kopie einzureichen.\n2) Belege in Papierform sind ausserdem in A4- bis maximal A3-Format, auf alterungsbeständigem Papier und mit lichtechten Farben einzureichen.\n3) Wird ein Verfahren von Amtes wegen eingeleitet, so werden das Stichwort der Eintragung und die Gründe dafür in einem Beleg festgehalten.\n2. Eigentum"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "2. Eigentum",
+      "section": "44",
+      "title": "Art. 44 Erwerb durch Eintragung",
+      "content": "1) Ist für den Erwerb des Eigentums die Eintragung in das Grundbuch konstitutiv (Art. 38 Abs. 1 SR), so wird der Rechtsgrundausweis für die Eigentumsübertragung mit den folgenden Belegen erbracht:\na) durch einen schriftlichen Vertrag;\nb) bei der Ausübung eines Vorkaufsrechts: durch den Kaufvertrag und die Ausübungserklärung der vorkaufsberechtigten Person; bei einem vertraglichen Vorkaufsrecht, das nicht vorgemerkt ist, zudem durch den Vorkaufsvertrag;\nc) bei der Ausübung eines Kaufs- oder Rückkaufsrechts: durch die Ausübungserklärung der berechtigten Person; bei einem vertraglichen Kaufs- oder Rückkaufsrecht, das nicht vorgemerkt ist, zudem durch den Kaufrechts- oder Rückkaufsrechtsvertrag;\nd) bei einem Leistungsurteil: durch das Urteil mit der Bescheinigung der Rechtskraft;\ne) bei einer freiwilligen Versteigerung: durch die Versteigerungsbedingungen und das Versteigerungsprotokoll;\nf) bei Fusions-, Spaltungs- und Vermögensübertragungsvorgängen: durch beglaubigte Handelsregisterauszüge und beglaubigte Auszüge aus den die Übertragung von Grundstücken regelnden Verträge.\n2) Die Unterschriften der Parteien sind amtlich zu beglaubigen. Im Übrigen findet Art. 35 Satz 2 Anwendung.\n3) Der Nachweis des Verfügungsrechts bleibt vorbehalten (Art. 59)."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "2. Eigentum",
+      "section": "45",
+      "title": "Art. 45 Erwerb vor Eintragung",
+      "content": "1) Wird das Eigentum vor der Eintragung in das Grundbuch erworben (Art. 38 Abs. 2 SR), so wird der Rechtsgrundausweis für den Eigentumserwerb mit den folgenden Belegen erbracht:\na) bei einem Erbgang: durch die Einantwortungsurkunde;\nb) bei einer Güterzusammenlegung oder Landumlegung nach Massgabe des öffentlichen Rechts: durch einen dem angewendeten Verfahrensrecht entsprechenden Ausweis;\nc) bei einer Zwangsvollstreckung: durch den Beschluss über den Zuschlag mit der Ermächtigung zur Eintragung;\nd) bei einem Gestaltungsurteil: durch das Urteil mit der Bescheinigung der Rechtskraft.\n2) In den übrigen Fällen wird der Rechtsgrundausweis für den Eigentumserwerb vor der Eintragung in das Grundbuch erbracht durch:\na) die Urkunden in der vom Gesetz vorgeschriebenen Form über das Rechtsgeschäft; oder\nb) die rechtskräftige Entscheidung.\n3) Dem Amt für Justiz ist die Rechtskraft einer Entscheidung nach Abs. 2 Bst. b nachzuweisen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "2. Eigentum",
+      "section": "46",
+      "title": "Art. 46 Aufteilungsplan bei Stockwerkeigentum",
+      "content": "1) Die räumliche Lage, die Abgrenzung und die Zusammensetzung der Stockwerkeinheiten müssen im Begründungsakt klar und bestimmt angegeben sein.\n2) Fehlen diese Angaben, so setzt das Amt für Justiz eine Frist zur Beibringung eines von allen Eigentümern unterzeichneten Aufteilungsplans und nötigenfalls einer Bestätigung des Amtes für Hochbau und Raumplanung, dass die zu Sonderrecht ausgeschiedenen Räume ganze in sich abgeschlossene Wohnungen oder geschäftlichen oder anderen Zwecken dienende Raumeinheiten mit eigenem Zugang sind.\n3) Für die Eintragung altrechtlichen Stockwerkeigentums bleibt Art. 11bis SchlT SR vorbehalten."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "2. Eigentum",
+      "section": "47",
+      "title": "Art. 47 Eintragung von Stockwerkeigentum vor Erstellung des Gebäudes",
+      "content": "1) Die Eintragung von Stockwerkeigentum vor Erstellung des Gebäudes kann nur verlangt werden, wenn mit der Anmeldung der Aufteilungsplan eingereicht wird.\n2) Aufgehoben\n3) Aufgehoben\n4) Aufgehoben\n3. Dienstbarkeiten und Grundlasten"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "3. Dienstbarkeiten und Grundlasten",
+      "section": "48",
+      "title": "Art. 48 Grundsatz",
+      "content": "1) Für die Eintragung von Dienstbarkeiten und Grundlasten gelten für die einzureichenden Belege die Art. 44 und 45 sinngemäss.\n2) Ist dem Rechtsgrundausweis ein Auszug des Planes für das Grundbuch beizufügen (Art. 199 Abs. 1a SR), so ist die örtliche Lage im Planauszug von den Parteien zeichnerisch eindeutig darzustellen.\n3) Bei selbständigen und dauernden Baurechten ist zusätzlich zum Rechtsgrundausweis ein Mutationsplan des Ingenieur-Geometers einzureichen.\n4. Pfandrechte"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "4. Pfandrechte",
+      "section": "49",
+      "title": "Art. 49 Eintragung eines Pfandrechts",
+      "content": "1) Für die Eintragung eines Pfandrechts gelten für den Rechtsgrundausweis die Art. 44 und 45 sinngemäss.\n2) Bei Errichtung von Grundpfandrechten ist die amtliche Beglaubigung der Unterschrift des Pfandgläubigers nicht erforderlich."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "4. Pfandrechte",
+      "section": "50",
+      "title": "Art. 50 Umwandlung eines Papier-Schuldbriefs in einen Register-Schuldbrief",
+      "content": "Ein vor dem Inkrafttreten dieser Verordnung errichteter Inhaber- oder Namenschuldbrief wird auf Anmeldung des Grundeigentümers oder des Grundpfandgläubigers und gestützt auf einen schriftlichen Vertrag zwischen dem Grundeigentümer und den am Schuldbrief berechtigten Personen in einen Register-Schuldbrief umgewandelt. Hierfür ist der Papier-Schuldbrief vorzulegen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "4. Pfandrechte",
+      "section": "51",
+      "title": "Art. 51 Gesetzliche Grundpfandrechte",
+      "content": "1) Der Rechtsgrundausweis für die Eintragung eines gesetzlichen Grundpfandrechts wird durch die Urkunden erbracht, die zur Begründung der Forderungen nötig sind, für die das Grundpfandrecht eingetragen werden soll.\n2) In den folgenden Fällen ist als Rechtsgrundausweis ein schriftlicher Nachweis erforderlich, dass der Eigentümer die Pfandsumme anerkennt oder die Eintragung bewilligt oder dass die Pfandsumme gerichtlich festgestellt ist:\na) bei einer Entschädigungsforderung anstelle des gelöschten Baurechts (Art. 251c Abs. 2 und 3 SR);\nb) bei einem Bauhandwerkerpfandrecht (Art. 313 Abs. 1 Ziff. 3 SR);\nc) bei einem Pfandrecht zur Sicherung des Baurechtszinses (Art. 251h und 251i SR);\nd) bei einem Pfandrecht zur Sicherung der Beitragsforderungen der Gemeinschaft gegenüber den Stockwerkeigentümern (Art. 170i SR).\n3) Die Frist nach Art. 251c Abs. 3 und Art. 315 Abs. 2 SR wird durch Vormerkung einer vorläufigen Eintragung zur Sicherung behaupteter dinglicher Rechte gewahrt (Art. 539 Abs. 1 Ziff. 1 SR).\n5. Vormerkungen und Anmerkungen"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "5. Vormerkungen und Anmerkungen",
+      "section": "52",
+      "title": "Art. 52 Vormerkungen im Allgemeinen",
+      "content": "1) Der Rechtsgrundausweis für eine Vormerkung muss die Bedingungen für die Ausübung des vorgemerkten Rechts und allfällige Beschränkungen seiner Dauer enthalten.\n2) Ausgenommen ist die Vormerkung einer Verfügungsbeschränkung auf Anmeldung der Zwangsvollstreckungsbehörden.\n3) Der Rechtsgrundausweis für Vormerkungen, die auf einer Anordnung des Gerichts beruhen (Art. 538 Abs. 1 Ziff. 1 und Art. 539 Abs. 1 SR), besteht in der vollstreckbaren vorläufigen Entscheidung."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "5. Vormerkungen und Anmerkungen",
+      "section": "53",
+      "title": "Art. 53 Vormerkung persönlicher Rechte",
+      "content": "1) Der Rechtsgrundausweis zur Vormerkung persönlicher Rechte wird durch eine schriftliche Vereinbarung erbracht. Die Unterschriften der Parteien sind amtlich zu beglaubigen. Gesetzliche Ausnahmen bleiben vorbehalten.\n2) Der Rechtsgrundausweis für die Vormerkung des Vorkaufsrechts und des Einspracherechts der Stockwerkeigentümer erforderliche Ausweis wird durch die Vorlegung des Begründungsaktes oder einer besonderen Vereinbarung erbracht.\n3) Zur Vormerkung der Aufhebung oder Änderung des Vorkaufsrechts der Miteigentümer, des Bauberechtigten und des Eigentümers des mit dem Baurecht belasteten Grundstücks sowie zur Vormerkung der Wegbedingung des Rechts, die Aufhebung des Miteigentums zu verlangen, bedarf es einer Vereinbarung."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "5. Vormerkungen und Anmerkungen",
+      "section": "54",
+      "title": "Art. 54 Verfügungsbeschränkungen",
+      "content": "Der Rechtsgrundausweis für die Vormerkung von Verfügungsbeschränkungen wird erbracht:\na) bei streitigen oder vollziehbaren Ansprüchen: durch rechtskräftigen Gerichtsbeschluss;\nb) bei Bewilligung der Vollstreckbarkeit einer Forderung: durch rechtskräftigen Gerichtsbeschluss;\nc) bei Bewilligung der Anordnung der Zwangsverwaltung und Einleitung der Versteigerung: durch rechtskräftigen Gerichtsbeschluss;\nd) bei Nacherbenrecht: durch rechtskräftige Einantwortungsurkunde;\ne) bei Errichtung einer Heimstätte: durch rechtskräftigen Gerichtsbeschluss;\nf) bei Errichtung eines Fideikommisses: durch rechtskräftigen Beschluss der Regierung und des Landtags."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "5. Vormerkungen und Anmerkungen",
+      "section": "55",
+      "title": "Art. 55 Anmerkungen",
+      "content": "1) Die Belege für Anmerkungen bedürfen der schriftlichen Form.\n2) Reglemente und Verwaltungsbeschlüsse von Miteigentümergemeinschaften (Art. 28a Abs. 2 SR) müssen von allen Miteigentümern unterschrieben sein.\n3) Reglemente von Stockwerkeigentümergemeinschaften müssen von allen Stockwerkeigentümern unterschrieben sein. Als Beleg für ihre Anmerkung gilt auch ein beglaubigter Auszug aus dem Protokoll ihrer Annahme durch Beschluss der Stockwerkeigentümergemeinschaft.\n4) Der Rechtsgrundausweis für Anmerkungen, die auf einer Entscheidung einer Behörde beruhen, besteht in der vollstreckbaren Entscheidung.\nC. Eintragungsverfahren"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "56",
+      "title": "Art. 56 Behandlung der Anmeldung",
+      "content": "1) In das Tagebuch eingetragen werden:\na) vollständige Anmeldungen: sofort nach ihrem Eingang;\nb) von Amtes wegen eingeleitete Verfahren: sofort nach ihrer Einleitung.\n2) Jeder Tagebucheintrag enthält:\na) eine fortlaufende Ordnungsnummer, deren Zählung mit jedem Kalenderjahr neu beginnt, die Nummer des Urkundenbuchs und die Belegnummer;\nb) das Datum und die genaue Uhrzeit der Anmeldung oder der Einleitung des Verfahrens;\nc) den Namen oder die Firma und den Wohnort oder den Sitz der anmeldenden Person;\nd) den Inhalt des beantragten Hauptbucheintrags in Stichworten und die Bezeichnung der betroffenen Grundstücke oder einen Hinweis auf die Anmeldung.\n3) Der Eintrag im Tagebuch wird auf Wunsch bescheinigt."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "57",
+      "title": "Art. 57 Hinweis auf hängige Anmeldungen beim Papiergrundbuch",
+      "content": "Ist eine Eintragung in das Tagebuch hängig, so wird im Papiergrundbuch auf dem Hauptbuchblatt darauf hingewiesen."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "58",
+      "title": "Art. 58 Allgemeine Prüfungspflicht des Amtes für Justiz",
+      "content": "1) Das Amt für Justiz prüft, gestützt auf die mit der Anmeldung eingereichten weiteren Belege, ob die gesetzlichen Voraussetzungen für die Eintragung in das Hauptbuch erfüllt sind.\n2) Es prüft:\na) die Form und den Inhalt der Anmeldung;\nb) die Identität der anmeldenden Person;\nc) die Verfügungsberechtigung der anmeldenden Person (Art. 59);\nd) bei Anmeldung durch einen Vertreter: die Vertretungsmacht;\ne) die Handlungsfähigkeit, wenn sie nach den eingereichten Belegen oder nach dem Grundbuch eingeschränkt ist;\nf) die Eintragungsfähigkeit der beantragten Eintragung;\ng) die Rechtsgrundausweise, insbesondere deren Form;\nh) die Vollständigkeit der Anmeldungsbelege;\ni) die erforderlichen Bewilligungen und Zustimmungen."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "59",
+      "title": "Art. 59 Prüfung der Verfügungsberechtigung",
+      "content": "1) Geht die Anmeldung vom eingetragenen Eigentümer aus, so prüft das Amt für Justiz, ob die anmeldende mit der eingetragenen Person identisch ist.\n2) Geht die Anmeldung von einer Person aus, die ein Recht schon vor der Eintragung erworben hat, so prüft es, ob die anmeldende mit der berechtigten Person identisch ist.\n3) Geht die Anmeldung von der aus dem Eintrag berechtigten Person aus (Art. 543 SR), so prüft es, ob die anmeldende mit der berechtigten Person identisch ist."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "60",
+      "title": "Art. 60 Prüfung bei Anmeldung durch eine Behörde",
+      "content": "Erfolgt die Anmeldung durch eine Behörde, so prüft das Amt für Justiz, ob sie für die Anmeldung zuständig ist."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "61",
+      "title": "Art. 61 Beglaubigung von Unterschriften",
+      "content": "Kann sich das Amt für Justiz nicht selber von der Echtheit einer Unterschrift vergewissern, so verlangt es deren Beglaubigung."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "C. Eintragungsverfahren",
+      "section": "62",
+      "title": "Art. 62 Mangelhafte Anmeldung",
+      "content": "1) Sind die Voraussetzungen für die Eintragung in das Hauptbuch nicht erfüllt, so weist das Amt für Justiz die Anmeldung ab.\n2) Das Amt für Justiz kann der anmeldenden Person eine kurze Frist zur Beibringung von fehlenden Belegen setzen. Nach Ablauf der Frist weist es die Anmeldung ab, wenn der Mangel nicht behoben ist.\n3) Die Gründe der Abweisung werden der anmeldenden Person und allen anderen, die von der Abweisung berührt sind, schriftlich und mit Rechtsmittelbelehrung mitgeteilt. Im Tagebuch wird auf die Abweisungsverfügung hingewiesen.\n4) Wird gegen die Abweisungsverfügung Vorstellung oder Beschwerde erhoben, so wird dies im Hauptbuch angemerkt. Die Anmerkung wird von Amtes wegen gelöscht, sobald über die Vorstellung oder Beschwerde rechtskräftig entschieden worden ist.\nD. Eintragung in das Hauptbuch\n1. Grundsätze und Verfahren"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "1. Grundsätze und Verfahren",
+      "section": "63",
+      "title": "Art. 63 Grundsätze",
+      "content": "1) Das Amt für Justiz trägt in das Hauptbuch nur ein, was in der Anmeldung beantragt wird.\n2) Die Eintragungen werden in den dafür vorgesehenen Abteilungen des Hauptbuchs vorgenommen.\n3) Der Eintrag im Hauptbuch erhält das Datum des Eintrags im Tagebuch.\n4) Bemerkungen zu den Einträgen können in alle Abteilungen eingetragen werden und sind Teil des Eintrags."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "1. Grundsätze und Verfahren",
+      "section": "64",
+      "title": "Art. 64 Bezeichnung von Personen",
+      "content": "1) Zur Bezeichnung des Eigentümers oder von Personen, denen ein anderes Recht am Grundstück zusteht, werden angegeben:\na) für natürliche Personen: der Name, die Vornamen, das Geburtsdatum, das Geschlecht, der Wohnort, die Wohnadresse, die Staatszugehörigkeit und ob die Person verheiratet oder nicht verheiratet ist oder in eingetragener Partnerschaft lebt;\nb) für Verbandspersonen, rechtsfähige personenrechtliche Gesellschaften sowie Treuunternehmen mit Rechtspersönlichkeit: die Firma oder der Name, der Sitz und die Rechtsform, wenn diese nicht aus dem Namen oder der Firma hervorgeht, sowie die Registernummer und falls erforderlich die Bezeichnung der Registerbehörde;\nc) für einfache Gesellschaften und Gemeinschaften, in denen die beteiligten Personen gesetzlich oder vertraglich verbunden und Gesamteigentümer sind: die Angaben über die Beteiligten nach Bst. a und b.\n2) Weitere personenbezogene Daten werden nur angegeben, soweit sie zur Identifikation nötig sind."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "1. Grundsätze und Verfahren",
+      "section": "65",
+      "title": "Art. 65 Eintragungsverfahren",
+      "content": "1) Die Daten, die aufgrund einer Tagebucheintragung in das Hauptbuch eingetragen oder darin geändert oder gelöscht werden sollen, sind während des Eintragungsverfahrens beliebig veränderbar, ohne dass die rechtswirksamen Daten des Hauptbuchs in ihrem Bestand berührt werden.\n2) In den Daten des Hauptbuchs ist auf hängige Eintragungsverfahren hinzuweisen. Ist aus dem Hinweis der Stand des Eintragungsverfahrens ersichtlich, so gilt er als Anmerkung."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "1. Grundsätze und Verfahren",
+      "section": "66",
+      "title": "Art. 66 Reihenfolge der Eintragung, Rangverhältnisse der Einträge",
+      "content": "1) Die Eintragungen in das Hauptbuch werden in der Reihenfolge vorgenommen, die sich aus dem Tagebuch ergibt.\n2) Sind in einem Hauptbuchblatt mehrere an demselben Tag angemeldete Eintragungen vorzunehmen und sollen sie nach den Anträgen der Parteien oder nach der Reihenfolge der Eintragung in das Tagebuch verschiedene Ränge erhalten, so wird dies im Hauptbuch in geeigneter Weise festgehalten, etwa durch Angabe der Uhrzeit der Anmeldung oder durch Angabe des Rangverhältnisses bei jedem Eintrag.\n3) Die besonderen Vorschriften über die Rangverhältnisse bei Grundpfandrechten (Art. 89 Abs. 2 Bst. c) bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "1. Grundsätze und Verfahren",
+      "section": "67",
+      "title": "Art. 67 Bescheinigung der Eintragung",
+      "content": "Auf Verlangen der Parteien bescheinigt das Amt für Justiz die Eintragung auf den für die Parteien bestimmten Urkunden; es kann dies auch tun, indem es über den neuen Zustand einen vollständigen oder teilweisen Auszug aus dem Hauptbuch abgibt.\n2. Eigentum"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "2. Eigentum",
+      "section": "68",
+      "title": "Art. 68 Inhalt des Eintrags",
+      "content": "Der Eintrag des Eigentums enthält:\na) die Bezeichnung des Eigentümers;\nb) das Datum der Eintragung in das Tagebuch;\nc) den Erwerbsgrund;\nd) den Hinweis auf den Beleg;\ne) die Bezeichnung der Miteigentümer mit einer Ziffer oder einem Buchstaben, wenn für die Miteigentumsanteile keine besonderen Hauptbuchblätter angelegt worden sind."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "2. Eigentum",
+      "section": "69",
+      "title": "Art. 69 Unselbständiges Grundeigentum",
+      "content": "1) Soll das Eigentum an einem Grundstück (unselbstständiges Grundstück oder Anmerkungsgrundstück) dem jeweiligen Eigentümer eines anderen Grundstücks (Hauptgrundstück) zustehen (Art. 36 Abs. 1 SR), so wird auf dem Blatt des unselbstständigen Grundstücks in der Abteilung \"Eigentum\" statt des Namens des Eigentümers die Bezeichnung des Hauptgrundstücks eingetragen.\n2) Ist das unselbstständige Grundstück ein Miteigentumsanteil und erfolgt die Verknüpfung zu einem dauernden Zweck, so müssen alle Miteigentümer der Verknüpfung zustimmen. Damit verzichten sie bezüglich der verknüpften Anteile auf ihr Vorkaufsrecht (Art. 66 SR) und auf ihren Anspruch auf Aufhebung des Miteigentums (Art. 29 SR).\n3) Die Verknüpfung kann nur stattfinden, wenn auf dem unselbstständigen Grundstück keine Grundpfandrechte und Grundlasten eingetragen sind oder diese im Zeitpunkt der Verknüpfung auf das Hauptgrundstück übertragen und auf dem unselbstständigen Grundstück gelöscht werden.\n4) Ist das unselbstständige Grundstück ein Miteigentumsanteil, so muss auch das zu Miteigentum ausgestaltete Grundstück während der gesamten Dauer der Verknüpfung pfandfrei und grundlastenfrei sein.\n5) Die Verknüpfung wird auf dem Blatt des Hauptgrundstücks in die Abteilung \"Anmerkungen\" eingetragen."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "2. Eigentum",
+      "section": "70",
+      "title": "Art. 70 Subjektiv-dinglich verknüpfte Miteigentumsanteile",
+      "content": "1) Sind die Miteigentümer durch die dauernde Zweckbestimmung ihres Grundstückes durch eine Zwangsgemeinschaft verbunden, kann dies im Grundbuch auf Anmeldung der Miteigentümer angemerkt werden.\n2) Für die einzelnen Miteigentumsanteile sind keine besonderen Hauptbuchblätter zu eröffnen."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "2. Eigentum",
+      "section": "71",
+      "title": "Art. 71 Mit- und Gesamteigentum",
+      "content": "1) Bei Miteigentum wird der Anteil jedes Miteigentümers durch den entsprechenden Zusatz (\"ME &frac12;\", \"ME ⅓\" usw.) zum Namen jedes Miteigentümers angegeben. Andere Zusätze wie Prozent und Promille sind nicht erlaubt.\n2) Bei Gesamteigentum wird zusätzlich zu den Angaben nach Art. 64 Abs. 1 Bst. c das Rechtsverhältnis angegeben, das die Gemeinschaft oder Gesellschaft begründet."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "2. Eigentum",
+      "section": "72",
+      "title": "Art. 72 Stockwerkeigentum",
+      "content": "1) Stockwerkeigentum wird auf dem Hauptbuchblatt des Stammgrundstücks in der Abteilung \"Eigentum\" eingetragen.\n2) Der Eintrag umfasst:\na) die Nummer des Blatts jeder Stockwerkeinheit;\nb) den Anteil (Wertquote) jeder Stockwerkeinheit, ausgedrückt in Hundertsteln oder Tausendsteln; in Ausnahmefällen, wo sich aus sachlichen Gründen kleinere Anteile als Tausendstel nicht vermeiden lassen, kann eine Aufteilung in Zehntausendstel zugelassen werden;\nc) die Bezeichnung des Eigentumsverhältnisses als Stockwerkeigentum mit der Abkürzung \"StWE\";\nd) das Datum der Eintragung in das Tagebuch;\ne) die Angabe des Begründungsakts samt Aufteilungsplan;\nf) den Hinweis auf die Belege.\n3. Dienstbarkeiten und Grundlasten"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "3. Dienstbarkeiten und Grundlasten",
+      "section": "73",
+      "title": "Art. 73 Dienstbarkeiten",
+      "content": "1) Eine Dienstbarkeit wird in die Abteilung \"Dienstbarkeiten\" des Hauptbuchblatts des belasteten Grundstücks eingetragen. Eine Grunddienstbarkeit wird zudem auf dem Hauptbuchblatt des berechtigten Grundstücks in dieselbe Abteilung eingetragen.\n2) Der Eintrag auf dem Hauptbuchblatt enthält:\na) die Bezeichnung mit einer Ziffer oder einem Buchstaben;\nb) die Bezeichnung als Last oder als Recht;\nc) die Bezeichnung des Inhalts der Dienstbarkeit mit einem Stichwort;\nd) gegebenenfalls die folgenden Angaben:\n1. die Bezeichnung als gesetzliche Dienstbarkeit;\n2. die Angabe, dass es sich um ein selbstständiges und dauerndes Recht handelt;\n3. die Angabe einer nebensächlichen Leistungspflicht, deren Eintragung beantragt wurde;\ne) auf dem Hauptbuchblatt des belasteten Grundstücks die Bezeichnung des berechtigten Grundstücks oder der berechtigten Person;\nf) auf dem Hauptbuchblatt des berechtigten Grundstücks die Bezeichnung des belasteten Grundstücks; ist eine grosse Zahl von Grundstücken belastet, so kann beim Papiergrundbuch auf deren Bezeichnung verzichtet und auf den Beleg hingewiesen werden;\ng) das Datum der Eintragung in das Tagebuch;\nh) den Hinweis auf den Beleg.\n3) Die Stichworte für die Dienstbarkeit und für die nebensächlichen Leistungspflichten werden vom Amt für Justiz festgelegt."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "3. Dienstbarkeiten und Grundlasten",
+      "section": "74",
+      "title": "Art. 74 Dienstbarkeiten auf Kollektivblättern",
+      "content": "1) Steht das Grundstück, zu dessen Lasten oder zu dessen Gunsten eine Grunddienstbarkeit eingetragen werden soll, auf einem Kollektivblatt, so werden bei der Eintragung auf diesem Blatt stets die Bezeichnungen des belasteten und des berechtigten Grundstücks angegeben.\n2) Sind das belastete und das berechtigte Grundstück auf einem Kollektivblatt vereinigt, so bedarf es nur einer Eintragung, unter Angabe der Bezeichnungen des belasteten und des berechtigten Grundstücks."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "3. Dienstbarkeiten und Grundlasten",
+      "section": "75",
+      "title": "Art. 75 Grundlasten",
+      "content": "1) Eine Grundlast wird in die Abteilung \"Grundlasten\" des Hauptbuchblatts des belasteten Grundstücks eingetragen. Eine Grundlast, die dem jeweiligen Eigentümer eines Grundstücks zusteht, wird zudem auf dem Hauptbuchblatt des berechtigten Grundstücks in dieselbe Abteilung eingetragen.\n2) Der Eintrag auf dem Hauptbuchblatt enthält:\na) die Bezeichnung mit einer Ziffer oder einem Buchstaben;\nb) die Bezeichnung als Last oder als Recht;\nc) die Bezeichnung der Grundlast mit einem Stichwort;\nd) auf dem Hauptbuchblatt des belasteten Grundstücks die Bezeichnung des berechtigten Grundstücks oder der berechtigten Person;\ne) auf dem Hauptbuchblatt des berechtigten Grundstücks die Bezeichnung des belasteten Grundstücks; ist eine grosse Zahl von Grundstücken belastet, so kann beim Papiergrundbuch auf deren Bezeichnung verzichtet und auf den Beleg hingewiesen werden;\nf) das Datum der Eintragung in das Tagebuch;\ng) den Hinweis auf den Beleg;\nh) den Gesamtwert nach Art. 255 Abs. 2 SR.\n3) Das Stichwort für die Grundlast wird vom Amt für Justiz festgelegt.\n4) Ist die Grundlast mit einer unablösbaren Grunddienstbarkeit verbunden, so wird auf Antrag in der Abteilung \"Grundlasten\" als Bemerkung auf die Dienstbarkeit hingewiesen.\n4. Pfandrechte"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "4. Pfandrechte",
+      "section": "76",
+      "title": "Art. 76 Inhalt des Eintrags",
+      "content": "1) Die Grundpfandrechte werden in die Abteilung \"Grundpfandrechte\" des Hauptbuchblatts eingetragen.\n2) Der Eintrag enthält:\na) die Bezeichnung mit einer Ziffer oder einem Buchstaben;\nb) die Art des Grundpfandrechts;\nc) zur Bezeichnung des Gläubigers die Angaben nach Art. 64 Abs. 1;\nd) die Pfandsumme und den vertraglichen Zinsfuss, gegebenenfalls den im Sinne von Art. 290 Abs. 2 SR vorbehaltenen höheren Zinsfuss;\ne) für rechtsgeschäftliche Pfandrechte: die Pfandstelle;\nf) das Datum der Eintragung in das Tagebuch;\ng) den Hinweis auf den Beleg.\n3) Im Eintrag kann auf eine Vormerkung zum Nachrückungsrecht verwiesen werden."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "4. Pfandrechte",
+      "section": "77",
+      "title": "Art. 77 Bemerkungen zu den Grundpfandeinträgen im Papiergrundbuch",
+      "content": "1) Im Papiergrundbuch werden die Bemerkungen zum Eintrag eines Grundpfandrechts unter dessen Ziffer oder Buchstaben angebracht und so weit wie möglich zusammengestellt.\n2) Am Ende jedes Eintrags wird eine Zeile für Verweise auf Bemerkungen zum Grundpfandrecht leer gelassen.\n3) Bei dem Eintrag, auf den sich die Bemerkung bezieht, wird auf diese verwiesen."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "4. Pfandrechte",
+      "section": "78",
+      "title": "Art. 78 Gläubigerwechsel und Fahrnispfandrecht bei Papier-Schuldbriefen und Grundpfandverschreibungen",
+      "content": "1) Auf Antrag der berechtigten Person werden auf dem Hauptbuchblatt in der Abteilung \"Grundpfandrechte\" folgende Rechtsübergänge und Rechte in Bezug auf einen Papier-Schuldbrief oder eine Grundpfandverschreibung eingetragen:\na) der Übergang des Gläubigerrechts;\nb) das Fahrnis- oder Faustpfandrecht.\n2) Die Rechtsstellung ist gegenüber dem Amt für Justiz glaubhaft zu machen.\n3) Das Amt für Justiz richtet alle Anzeigen an die berechtigte Person, soweit diese nicht eine bevollmächtigte Person nach Art. 80 Abs. 1 bestellt hat.\n4) Soll bei einem Papier-Schuldbrief eine Änderung nach Abs. 1 erfolgen, so ist dieser in einen Register-Schuldbrief umzuwandeln (Art. 27b Abs. 3 SchlT SR)."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "4. Pfandrechte",
+      "section": "79",
+      "title": "Art. 79 Gläubiger und Fahrnispfandgläubiger bei Register-Schuldbriefen",
+      "content": "1) Ein neuer Gläubiger des Register-Schuldbriefs wird auf Anmeldung des bisherigen Gläubigers in das Hauptbuch eingetragen.\n2) Wer sich nicht durch den Eintrag im Hauptbuch als Gläubiger ausweisen kann, muss durch einen Erwerbstitel nachweisen, dass die Gläubigerstellung schon vor der Eintragung in das Grundbuch erworben wurde.\n3) Der Fahrnispfandgläubiger des Register-Schuldbriefs wird auf Anmeldung des Gläubigers, der im Hauptbuch eingetragen ist, in das Hauptbuch eingetragen. Er wird in der Abteilung \"Grundpfandrechte\" mit der Bezeichnung als Fahrnispfandgläubiger des Schuldbriefs eingetragen."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "4. Pfandrechte",
+      "section": "80",
+      "title": "Art. 80 Vertretungsberechtigte Person bei Anleihensobligationen",
+      "content": "1) Die Bezeichnung der vertretungsberechtigten Person bei Anleihensobligationen (Art. 356 Ziff. 1 SR) wird in der Abteilung \"Grundpfandrechte\" unter den Bemerkungen eingetragen.\n2) Zur nachträglichen Angabe einer vertretungsberechtigten Person oder zur Löschung der Bemerkung bedarf es der Zustimmung aller Beteiligten oder einer Anordnung des Gerichts."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "4. Pfandrechte",
+      "section": "81",
+      "title": "Art. 81 Nebenvereinbarungen, Abzahlungen",
+      "content": "1) Haben die Parteien schuldrechtliche Nebenvereinbarungen über Verzinsung, Abzahlung und von den gesetzlichen Bestimmungen (Art. 327 Abs. 2 SR) abweichende Kündigungsbestimmungen oder andere die Forderung betreffende Nebenbestimmungen getroffen oder werden solche geändert, so kann auf Antrag unter den Bemerkungen zu den Pfandrechten darauf verwiesen werden.\n2) Auf Verlangen des Schuldners und mit Zustimmung des Pfandgläubigers werden Abzahlungen ohne Reduktion der Schuld- und Pfandsumme (Art. 332 SR) unter den Bemerkungen eingetragen."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "4. Pfandrechte",
+      "section": "82",
+      "title": "Art. 82 Umwandlung eines Papier-Schuldbriefs in einen Register-Schuldbrief",
+      "content": "1) Die Umwandlung eines Papier-Schuldbriefs in einen Register-Schuldbrief (Art. 27b Abs. 3 und Art. 27c SchlT SR) erfolgt durch die Änderung des Pfandrechtseintrags auf dem Hauptbuchblatt mit folgenden Angaben:\na) Bezeichnung als Register-Schuldbrief;\nb) Bezeichnung des Gläubigers.\n2) Das Amt für Justiz nimmt die Umwandlung erst vor, wenn ihm der Pfandtitel zur Entkräftung oder eine Kraftloserklärung des Gerichts eingereicht wird."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "4. Pfandrechte",
+      "section": "83",
+      "title": "Art. 83 Grundpfandrechte auf Kollektivblättern",
+      "content": "1) Grundpfandrechte werden nur auf einem Kollektivblatt eingetragen, wenn alle darauf enthaltenen Grundstücke verpfändet werden sollen.\n2) Wird ein Grundpfandrecht nur für einzelne auf dem Kollektivblatt enthaltenen Grundstücke zur Eintragung angemeldet, so überträgt das Amt für Justiz von Amtes wegen diese Grundstücke oder die anderen Grundstücke des Blatts auf ein neues Hauptbuchblatt."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "4. Pfandrechte",
+      "section": "84",
+      "title": "Art. 84 Eintragung von Gesamtpfandrechten",
+      "content": "1) Soll auf mehrere, nicht in einem Kollektivblatt vereinigte Grundstücke für eine Forderung ein Grundpfandrecht (Gesamtpfandrecht) errichtet werden (Art. 270 Abs. 1 SR), so werden bei dessen Eintragung auf den einzelnen Hauptbuchblättern jeweils als Pfandsumme der ganze Betrag der Forderung und in den Bemerkungen der Hinweis auf die mitverpfändeten Grundstücke aufgenommen (z.B. \"zu A: Nummer &hellip; mitverpfändet\").\n2) Gehören mehrere Grundstücke verschiedenen Eigentümern, so muss die Anmeldung für alle Grundstücke gleichzeitig eingereicht werden.\n3) Abs. 1 gilt sinngemäss, wenn nachträglich noch andere Grundstücke mit den an einem Grundstück bestehenden Grundpfandrechten belastet werden sollen."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "4. Pfandrechte",
+      "section": "85",
+      "title": "Art. 85 Eintragung von Teilpfandrechten",
+      "content": "1) Werden mehrere auf verschiedenen Hauptbuchblättern aufgenommene Grundstücke für dieselbe Forderung verpfändet, ohne dass ein Gesamtpfandrecht errichtet werden soll, so wird jedes Grundstück mit dem von den Parteien bei der Anmeldung angegebenen Teilbetrag belastet (Art. 270 Abs. 2 SR).\n2) Haben die Parteien über die Verteilung nichts bestimmt, so kann das Amt für Justiz entweder die Anmeldung abweisen oder in den Fällen, in denen für die Grundstücke ein Schätzungswert im Grundbuch angegeben ist, die Verteilung unter Mitteilung an die Parteien nach dem Schätzungswert vornehmen und die entsprechenden Belastungen in das Grundbuch eintragen."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "4. Pfandrechte",
+      "section": "86",
+      "title": "Art. 86 Verteilung der Pfandbelastung bei Veräusserung eines von mehreren insgesamt verpfändeten Grundstücken",
+      "content": "1) Wird eines von mehreren insgesamt verpfändeten Grundstücken veräussert und verpflichtet sich der Erwerber nicht solidarisch für die Schuld, für die das Grundstück haftet, so gilt Art. 85. Das Amt für Justiz nimmt jedoch die Verteilung der Belastung nach Art. 85 Abs. 2 in allen Fällen vor, in denen die Parteien keine Teilbeträge angegeben haben.\n2) Das Amt für Justiz informiert die Beteiligten unverzüglich über die Verteilung."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "4. Pfandrechte",
+      "section": "87",
+      "title": "Art. 87 Grundpfandrechte und Grundlasten auf Miteigentumsanteilen",
+      "content": "1) Die Eintragung der Grundpfandrechte auf Miteigentumsanteilen soll, wenn für diese nicht besondere Blätter eröffnet sind, ausser den in Art. 76 verlangten Angaben noch die Bezeichnung des verpfändeten Anteils in der Abteilung \"Bemerkungen\", z. B. \"am Anteil Buchstabe &hellip; des NN\" oder \"am Anteil Ziffer &hellip; des NN\", enthalten.\n2) Bestehen Grundpfandrechte oder Grundlasten an Miteigentumsanteilen, so können solche Rechte nicht mehr zu Lasten des im Miteigentum stehenden Grundstücks eingetragen werden.\n3) Werden Grundpfandrechte oder Grundlasten auf den Hauptbuchblättern von Miteigentumsanteilen oder Stockwerkeinheiten eingetragen, so wird von Amtes wegen durch eine Anmerkung auf dem Blatt des Stammgrundstücks darauf hingewiesen."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "4. Pfandrechte",
+      "section": "88",
+      "title": "Art. 88 Vorbehaltener Vorgang und leere Pfandstelle",
+      "content": "Für die Eintragung des vorbehaltenen Vorgangs (Art. 285 Abs. 2 SR) und der leeren Pfandstelle (Art. 287 SR) gilt Art. 76. Statt der Art des Grundpfandrechts wird jedoch \"vorbehaltener Vorgang\" oder \"leere Pfandstelle\" eingetragen; unter \"Gläubiger\" wird nichts eingetragen."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "4. Pfandrechte",
+      "section": "89",
+      "title": "Art. 89 Gesetzliche Grundpfandrechte",
+      "content": "1) Die gesetzlichen Grundpfandrechte werden in der Abteilung \"Grundpfandrechte\" eingetragen.\n2) Der Eintrag enthält:\na) die Angaben nach Art. 76 Abs. 2 Bst. a, c, d, f und g;\nb) einen Hinweis auf die Art der gesicherten Forderung, beispielsweise Bauhandwerkerforderung, Baurechtszins, Heimfallentschädigung;\nc) unter den Bemerkungen gegebenenfalls einen Hinweis auf ein vom Eintragungsdatum abweichendes Rangverhältnis zu den übrigen Pfandrechten."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "4. Pfandrechte",
+      "section": "90",
+      "title": "Art. 90 Bauhandwerkerpfandrechte und gesetzliche Pfandrechte bei Baurecht",
+      "content": "Der Eintrag der folgenden Pfandrechte enthält zusätzlich zu den Angaben nach Art. 76:\na) beim Bauhandwerkerpfandrecht: die Bemerkung \"Baupfandrecht\";\nb) beim gesetzlichen Grundpfandrecht für den Baurechtszins: die Bemerkung \"Baurechtszins\";\nc) beim gesetzlichen Grundpfandrecht für die Heimfallsentschädigung:\n1. die Bemerkung \"Heimfallsentschädigung\";\n2. statt der Pfandstelle die Abkürzung \"HfE\" und die Bemerkung, dass das Grundpfandrecht den Rang des gelöschten Baurechts hat."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "4. Pfandrechte",
+      "section": "91",
+      "title": "Art. 91 Zwangsweise Pfandrechtsbegründung",
+      "content": "1) Die Eintragung einer zwangsweisen Pfandrechtsbegründung (Art. 58 ff. EO) erfolgt sinngemäss nach den Bestimmungen des Art. 76. Zusätzlich ist die Bezeichnung \"zwangsweise Pfandrechtsbegründung\" einzutragen.\n2) Gehen mehrere Exekutionsbewilligungen beim Amt für Justiz gleichzeitig ein, so sind die Pfandrechte an gleicher Pfandstelle einzutragen, sofern sich aus der richterlichen Anordnung nichts anderes ergibt."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "4. Pfandrechte",
+      "section": "92",
+      "title": "Art. 92 Anleihensobligationen",
+      "content": "Werden Anleihensobligationen durch Errichtung einer Grundpfandverschreibung oder eines Register-Schuldbriefs sichergestellt (Art. 356 Ziff. 1 SR), so enthält der Eintrag in der Abteilung \"Grundpfandrechte\" die Angaben nach Art. 76; eingetragen werden jedoch:\na) als Gläubiger \"die aus den Anleihensobligationen Berechtigten\";\nb) der Betrag, die Anzahl und die Art der Obligationen (Namen- oder Inhaberobligationen);\nc) die Bezeichnung der vertretungsberechtigten Person unter den Bemerkungen."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "4. Pfandrechte",
+      "section": "93",
+      "title": "Art. 93 Rangänderungen",
+      "content": "1) Rangänderungen von Grundpfandrechten gegenüber Dienstbarkeiten, Grundlasten oder Vormerkungen sowie Rangänderungen innerhalb der Dienstbarkeiten, Grundlasten und Vormerkungen bedürfen einer schriftlichen Zustimmung der dadurch benachteiligten Personen.\n2) Sie werden im Hauptbuch als Bemerkung in die entsprechende Abteilung eingetragen.\n3) Abs. 1 und 2 gelten sinngemäss im Falle der Erhöhung oder der Reduktion eines vorgehenden Pfandrechts.\n5. Vormerkungen, Anmerkungen und Bemerkungen"
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "5. Vormerkungen, Anmerkungen und Bemerkungen",
+      "section": "94",
+      "title": "Art. 94 Vormerkungen",
+      "content": "1) Für die Vormerkungen gelten die Bestimmungen über die Eintragung der dinglichen Rechte.\n2) Die Vormerkung enthält überdies:\na) den wesentlichen Inhalt des vorgemerkten Rechts;\nb) die Bezeichnung der berechtigten Person, mit Ausnahme der Vormerkungen nach den Bestimmungen über die Treuhänderschaften, oder die Bezeichnung des berechtigten Grundstücks;\nc) das Datum der Eintragung in das Tagebuch;\nd) bei der Vormerkung eines Vorkaufs-, Kaufs- oder Rückkaufsrechts: das Enddatum der Vormerkung;\ne) den Hinweis auf den Beleg.\n3) Sie enthält einen Hinweis auf das Recht, auf das sie sich bezieht:\na) bei Dienstbarkeiten mit Beteiligung an einer gemeinschaftlichen Vorrichtung (Art. 211a Abs. 2 SR);\nb) beim Baurecht (Art. 251a Abs. 2 SR);\nc) beim Nachrückungsrecht (Art. 286 Abs. 3 SR).\n4) Bezieht sich die Vormerkung auf eine als Grundstück aufgenommene Dienstbarkeit, so wird die Vormerkung auch auf dem Hauptbuchblatt dieses Rechts eingetragen.\n5) Soll ein persönliches Recht vorgemerkt werden, das dem jeweiligen Eigentümer eines Grundstücks zusteht, so wird die Vormerkung auch in die gleichnamige Abteilung des Hauptbuchblatts des berechtigten Grundstücks eingetragen.\n6) Soll eine Verfügungsbeschränkung nach den Bestimmungen über die Treuhänderschaften vorgemerkt werden, so ist die Treuhänderschaft mit Namen und Errichtungsdatum, allenfalls durch Beilage eines Handelsregisterauszugs oder einer beglaubigten Abschrift der Treuurkunde, zu bezeichnen und der Umfang der Verfügungsbeschränkung anzugeben."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "5. Vormerkungen, Anmerkungen und Bemerkungen",
+      "section": "95",
+      "title": "Art. 95 Vormerkung vorläufiger Eintragungen",
+      "content": "1) Für die Vormerkung vorläufiger Eintragungen bedarf es der schriftlichen Einwilligung des Eigentümers und der übrigen Beteiligten oder einer Anordnung des Gerichts.\n2) Vorläufige Eintragungen werden als solche bezeichnet und enthalten:\na) Stichworte zum wesentlichen Inhalt des Rechts;\nb) die Bezeichnung der berechtigten Person;\nc) das Datum der Anmeldung;\nd) den Hinweis auf den Beleg."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "5. Vormerkungen, Anmerkungen und Bemerkungen",
+      "section": "96",
+      "title": "Art. 96 Anmerkungen",
+      "content": "1) Anmerkungen werden auf dem Hauptbuchblatt mit einem Stichwort, dem Datum und dem Hinweis auf den Beleg eingetragen.\n2) Bezieht sich die Anmerkung auf ein beschränktes dingliches Recht, so wird beim Eintrag dieses Rechts auf die Anmerkung hingewiesen."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "5. Vormerkungen, Anmerkungen und Bemerkungen",
+      "section": "97",
+      "title": "Art. 97 Anmerkung eines gesetzlichen Wegrechts",
+      "content": "Die Anmerkung eines gesetzlichen Wegrechts von bleibendem Bestand wird ohne besonderen Ausweis auf dem Hauptbuchblatt des belasteten und des berechtigten Grundstücks eingetragen."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "5. Vormerkungen, Anmerkungen und Bemerkungen",
+      "section": "98",
+      "title": "Art. 98 Öffentlich-rechtliche Eigentumsbeschränkungen",
+      "content": "1) Öffentlich-rechtliche Eigentumsbeschränkungen werden auf dem Hauptbuchblatt mit einem Stichwort, dem Datum und dem Hinweis auf den Beleg und gegebenenfalls auf den Plan angemerkt.\n2) Wirkt sich eine öffentlich-rechtliche Eigentumsbeschränkung direkt als Begünstigung eines anderen Grundstücks aus, kann sie auch auf dem Hauptbuchblatt dieses Grundstücks angemerkt werden.\n3) Die von einem Träger einer öffentlichen Aufgabe durch Verwaltungsverfügung oder durch einen verwaltungsrechtlichen Vertrag für ein einzelnes Grundstück angeordnete öffentlich-rechtliche Eigentumsbeschränkung mit länger dauernder Wirkung wird im Grundbuch angemerkt, wenn sie die folgenden Rechtsgebiete betrifft:\na) Förderung der Land- und Forstwirtschaft;\nb) Amtliche Vermessung;\nc) Förderung des Wohnungsbaus.\n4) Bei öffentlich-rechtlichen Eigentumsbeschränkungen, die im Grundbuch angemerkt werden sollen und gleichzeitig Gegenstand des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen sind, besteht die Anmerkung im Grundbuch in einem Hinweis auf den Kataster."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "5. Vormerkungen, Anmerkungen und Bemerkungen",
+      "section": "99",
+      "title": "Art. 99 Bemerkungen",
+      "content": "1) Bemerkungen werden als Hinweise auf besondere rechtserhebliche Umstände zu den Einträgen in allen Abteilungen eingetragen, beispielsweise als Hinweis auf:\na) Änderungen von Rangverhältnissen;\nb) mitverpfändete Grundstücke beim Gesamtpfand;\nc) Ernennung einer bevollmächtigten Person (Art. 80);\nd) Nebenvereinbarungen und Abzahlungen beim Schuldbrief;\ne) Verfügungsbeschränkungen beim Register-Schuldbrief.\n2) Bemerkungen aus der amtlichen Vermessung können auch in die Grundstücksbeschreibung eingetragen werden.\nE. Änderung und Löschung"
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "E. Änderung und Löschung",
+      "section": "100",
+      "title": "Art. 100 Voraussetzungen",
+      "content": "1) Die Bestimmungen über die Anmeldung zur Eintragung gelten auch für die Anmeldung zur Änderung oder Löschung eines Eintrags.\n2) Ausserdem bedarf es einer schriftlichen Ermächtigung der aus dem Eintrag berechtigten Personen, des Gerichts oder einer anderen zuständigen Behörde.\n3) Die besonderen Bestimmungen über die Voraussetzungen der Änderung oder Löschung ungerechtfertigter oder bedeutungslos gewordener Einträge (Art. 556 bis 559 SR) bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "E. Änderung und Löschung",
+      "section": "101",
+      "title": "Art. 101 Löschungen und Änderungen im Papiergrundbuch",
+      "content": "1) Ein Eintrag im Papiergrundbuch wird gelöscht, indem er im Hauptbuch vollständig gestrichen und bei der betreffenden Stelle die Bemerkung \"&hellip; gelöscht\" eingetragen wird.\n2) Ein Eintrag im Papiergrundbuch wird geändert, indem im Hauptbuch der ganze Eintrag oder der zu ändernde Teil gestrichen und durch den neuen Wortlaut ersetzt wird.\n3) Datum und Beleg der Löschung oder Änderung werden angegeben."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "E. Änderung und Löschung",
+      "section": "102",
+      "title": "Art. 102 Löschung von Grundpfandrechten",
+      "content": "1) Wird ein vorgehendes Grundpfandrecht getilgt, ohne dass an seiner Stelle sofort und für die ganze ursprüngliche Pfandsumme ein neues errichtet wird und ohne dass die nachgehenden Grundpfandgläubiger nachrücken, so wird zugleich mit der Löschung eine leere Pfandstelle (Art. 88) unter neuem Datum und mit bisheriger Pfandstelle eingetragen.\n2) Ein Papier-Schuldbrief darf im Hauptbuch nicht gelöscht werden, bevor der Pfandtitel entkräftet oder durch das Gericht für kraftlos erklärt worden ist."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "E. Änderung und Löschung",
+      "section": "103",
+      "title": "Art. 103 Löschung von Vormerkungen",
+      "content": "1) Vorgemerkte Vorkaufs-, Rückkaufs- oder Kaufsrechte sind von Amtes wegen zu löschen, wenn der Berechtigte Eigentümer des Grundstücks geworden ist.\n2) Die Löschung von Vormerkungen nach den Bestimmungen über die Treuhänderschaften bedarf der Zustimmung der an der Treuhänderschaft Beteiligten oder eines gerichtlichen Beschlusses im Ausserstreitverfahren."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "E. Änderung und Löschung",
+      "section": "104",
+      "title": "Art. 104 Löschung einer Anmerkung auf Antrag",
+      "content": "1) Anmerkungen des Privatrechts werden auf Antrag aller Personen, deren Rechte vom angemerkten Rechtsverhältnis betroffen sind, oder auf Antrag des Gerichts oder einer anderen zuständigen Behörde gelöscht.\n2) Anmerkungen des öffentlichen Rechts werden auf Antrag oder mit Zustimmung der zuständigen Behörde gelöscht."
+    },
+    {
+      "provision_ref": "art104a",
+      "chapter": "E. Änderung und Löschung",
+      "section": "104a",
+      "title": "Art. 104a Löschung einer Anmerkung von Amtes wegen",
+      "content": "1) Das Amt für Justiz kann die nach Art. 541 Abs. 5 SR vorgesehene Löschung von Amtes wegen anlässlich einer neuen Eintragung auf dem betreffenden Hauptbuchblatt oder anlässlich einer allgemeinen Überprüfung der Einträge vornehmen.\n2) Gelangt das Amt für Justiz auf Antrag einer berechtigten Person oder von Amtes wegen vorläufig zur Überzeugung, dass eine von Art. 541 Abs. 5 SR erfasste Anmerkung des öffentlichen Rechts ihre rechtliche Bedeutung verloren hat, so fordert es die zuständige Behörde schriftlich auf, sich zur Löschung zu äussern.\n3) Ordnet die Behörde die Löschung an und ist ihr Entscheid vollstreckbar, so löscht das Amt für Justiz die Anmerkung und benachrichtigt die Betroffenen.\n4) Kommt die Behörde der Aufforderung auch nach einer Mahnung nicht nach, so nimmt das Amt für Justiz die Löschung vor, sofern sie ihm als gerechtfertigt erscheint. Es benachrichtigt die Betroffenen.\n5) Die zuständige Behörde kann die Wiedereintragung verlangen."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "E. Änderung und Löschung",
+      "section": "105",
+      "title": "Art. 105 Löschung von Bemerkungen",
+      "content": "1) Bemerkungen werden von Amtes wegen gelöscht, wenn der entsprechende Eintrag gelöscht wird oder wenn sie infolge einer neuen Bemerkung hinfällig werden.\n2) Mit der Bemerkung wird zugleich der Hinweis darauf beim Eintrag gelöscht oder angepasst.\nF. Berichtigungen"
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "F. Berichtigungen",
+      "section": "106",
+      "title": "Art. 106 Pflicht zur Berichtigung",
+      "content": "1) Berichtigungen sind Veränderungen von unrichtigen rechtswirksamen Daten.\n2) Das Amt für Justiz ist verpflichtet, festgestellte Fehler nach Möglichkeit zu berichtigen."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "F. Berichtigungen",
+      "section": "107",
+      "title": "Art. 107 Berichtigung von blossen Schreibfehlern",
+      "content": "Schreibfehler, die den materiellen Inhalt eines Rechts oder die Identifikation einer Person nicht berühren, berichtigt das Amt für Justiz jederzeit von sich aus."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "F. Berichtigungen",
+      "section": "108",
+      "title": "Art. 108 Berichtigung von sinnverändernden Fehlern",
+      "content": "1) Kann das Amt für Justiz fehlerhafte Einträge oder Löschungen nicht sofort von sich aus berichtigen, so kennzeichnet es sie mit einer Anmerkung. Es löscht diese nach der Berichtigung von Amtes wegen.\n2) Das Amt für Justiz ersucht die betroffenen Personen um Zustimmung zur Berichtigung.\n3) Verweigert eine betroffene Person die Zustimmung, so erlässt das Amt für Justiz über die Berichtigung eine Verfügung. Die Berichtigung kann erst nach Eintritt der Rechtskraft der Verfügung vollzogen werden.\n4) Das Amt für Justiz weist im berichtigten Eintrag auf den Eintrag im Tagebuch hin."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "F. Berichtigungen",
+      "section": "109",
+      "title": "Art. 109 Berichtigungen im Papiergrundbuch",
+      "content": "1) Im Papiergrundbuch können alle Berichtigungen vorgenommen werden, solange keine Beteiligten oder Dritte vom unrichtigen Eintrag oder der unrichtigen Löschung Kenntnis erhalten haben.\n2) Die Berichtigung durch Rasuren, Korrekturen, Randbemerkungen oder Einschiebungen irgendwelcher Art ist untersagt.\n3) Im Übrigen sind die Art. 107 und 108 anwendbar.\nIV. Ausstellung und Entkräftung von Pfandtiteln"
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "IV. Ausstellung und Entkräftung von Pfandtiteln",
+      "section": "110",
+      "title": "Art. 110 Auszüge für Grundpfandverschreibungen und Register-Schuldbriefe",
+      "content": "Über die Eintragung einer Grundpfandverschreibung oder eines Register-Schuldbriefes wird kein spezieller Auszug bzw. Titel ausgestellt, sondern lediglich ein Auszug aus dem Grundbuch."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "IV. Ausstellung und Entkräftung von Pfandtiteln",
+      "section": "111",
+      "title": "Art. 111 Entkräftung von Pfandtiteln",
+      "content": "1) Ein Pfandtitel wird entkräftet, indem er mit einem Löschungsvermerk versehen und zerschnitten, perforiert oder diagonal durchgestrichen wird. Der Löschungsvermerk wird datiert und vom Amt für Justiz unterschrieben.\n2) Wird das Grundpfandrecht im Grundbuch gelöscht, so wird der entkräftete Titel dem Grundeigentümer auf Verlangen ausgehändigt; andernfalls wird der Pfandtitel vernichtet.\nV. Teilung und Vereinigung von Grundstücken\nA. Teilung von Grundstücken"
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "A. Teilung von Grundstücken",
+      "section": "112",
+      "title": "Art. 112 Eröffnung neuer Hauptbuchblätter",
+      "content": "1) Wird die Teilung eines Grundstücks angemeldet, so wird das bisherige Hauptbuchblatt in der Regel für einen Teil weitergeführt.\n2) Soweit die anderen Teile nicht mit angrenzenden Grundstücken vereinigt werden, werden für sie neue Hauptbuchblätter eröffnet.\n3) Bei allen geänderten und neuen Grundstücken werden das Datum und der Beleg der Teilung angegeben."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "A. Teilung von Grundstücken",
+      "section": "113",
+      "title": "Art. 113 Bereinigung der Dienstbarkeiten",
+      "content": "Dienstbarkeiten werden nach den Art. 214 und 555a SR bereinigt."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "A. Teilung von Grundstücken",
+      "section": "114",
+      "title": "Art. 114 Bereinigung der Grundpfandrechte",
+      "content": "1) Grundpfandrechte werden gemäss Antrag des Eigentümers und gegebenenfalls mit Zustimmung der Pfandgläubiger verteilt.\n2) Kann dem Antrag auf Verteilung der Pfandhaft nicht entsprochen werden, so wird die Anmeldung auf Grundstücksteilung abgewiesen.\n3) Wird kein Antrag auf Verteilung der Pfandhaft gestellt, so richtet sich das Verfahren nach Art. 308 SR. Das Amt für Justiz teilt den Grundpfandgläubigern die Verteilung unverzüglich mit."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "A. Teilung von Grundstücken",
+      "section": "115",
+      "title": "Art. 115 Bereinigung der Grundlasten",
+      "content": "1) Bei der Teilung eines Grundstücks, das mit einer Grundlast belastet ist, wird deren Gesamtwert (Ablösungssumme) im Verhältnis der Werte der entstandenen Teile verteilt (Art. 264 Abs. 2 SR).\n2) Hat die geschuldete Leistung nur einen Bezug zur wirtschaftlichen Natur eines der entstandenen Teile, so wird die Grundlast nur auf diesen Teil übertragen.\n3) Das Amt für Justiz teilt den an der Grundlast Beteiligten die Verteilung unter Hinweis auf Art. 259 und 264 SR unverzüglich mit.\n4) Besteht eine Grundlast zugunsten eines berechtigten Grundstücks, und wird dieses geteilt, so bleibt die Grundlast zugunsten der einzelnen Teile im Verhältnis zu ihrer Grösse weiter bestehen."
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "A. Teilung von Grundstücken",
+      "section": "116",
+      "title": "Art. 116 Bereinigung von Vormerkungen und Anmerkungen",
+      "content": "Vormerkungen und Anmerkungen werden nach Art. 555a SR bereinigt.\nB. Vereinigung von Grundstücken"
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "B. Vereinigung von Grundstücken",
+      "section": "117",
+      "title": "Art. 117 Grundsatz",
+      "content": "1) Die Voraussetzungen für die Vereinigung von Grundstücken richten sich nach Art. 555b SR.\n2) Bei der Vereinigung wird in der Regel eines der bisherigen Hauptbuchblätter weitergeführt und die andern werden geschlossen.\n3) Bei allen betroffenen Hauptbuchblättern werden das Datum und der Beleg der Vereinigung angegeben.\nVI. Alpbuch"
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "VI. Alpbuch",
+      "section": "118",
+      "title": "Art. 118 Grundsatz",
+      "content": "Auf die Anmeldungen, Eintragungen, Vormerkungen, Anmerkungen, Änderungen und Löschungen finden die Bestimmungen dieser Verordnung über das Grundbuch sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "VI. Alpbuch",
+      "section": "119",
+      "title": "Art. 119 Aufsicht",
+      "content": "Wurde die Führung des Alpbuchs nach Art. 159 Abs. 2 SR einem Mitglied des Vorstands der Alpgenossenschaft übertragen, so hat das Amt für Justiz im Rahmen der Aufsicht mindestens alle fünf Jahre die Ordnungsmässigkeit der Führung des Alpbuchs zu überprüfen."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "VI. Alpbuch",
+      "section": "120",
+      "title": "Art. 120 Hauptbuch",
+      "content": "1) Das Hauptbuch kann in gebundener Form, auf losen Karten oder mittels Informatik geführt werden.\n2) Für die Ausgestaltung des Hauptbuchs sind die Bestimmungen dieser Verordnung über das Grundbuch sinngemäss anzuwenden."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "VI. Alpbuch",
+      "section": "121",
+      "title": "Art. 121 Personenregister",
+      "content": "1) Es wird ein Personenregister als Hilfsregister geführt.\n2) In dieses Register werden die im Hauptbuch als Eigentümer und die als Nutzniessungsberechtigte eingetragenen Personen aufgeführt.\n3) Das Register kann auf losen Karten oder mittels Informatik geführt werden."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "VI. Alpbuch",
+      "section": "122",
+      "title": "Art. 122 Belege",
+      "content": "Die Belege sind im Original einzureichen. Sie sind in zweckdienlicher Weise zu nummerieren und dauernd aufzubewahren.\nVII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "123",
+      "title": "Art. 123 Bisherige Grundbucheinrichtungen",
+      "content": "1) Die Bestimmungen dieser Verordnung gelten auch für die Führung der bisherigen Grundbucheinrichtungen.\n2) Bis zur Einführung des Grundbuchs kann das Hauptbuch in den bisherigen Büchern oder als loses Blatt nach Massgabe von Art. 3 Abs. 3 und Art. 4 geführt werden.\n3) Nach Einführung des Grundbuchs werden die Bücher der bisherigen Grundbucheinrichtungen, soweit sie nicht mehr Verwendung finden, bei den Akten aufbewahrt."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "124",
+      "title": "Art. 124 Form der Eintragung im Hauptbuch",
+      "content": "Wenn die Darstellung einer Eintragung im Hauptbuch dem neuen Recht nicht entspricht, muss sie erst angepasst werden, wenn sie von einer Anmeldung betroffen wird."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "125",
+      "title": "Art. 125 Identität zwischen EDV-Grundbuch und Papiergrundbuch",
+      "content": "Wird das EDV-Grundbuch eingeführt, so muss das System die aktuellen Eintragungen materiell so wiedergeben können, wie sie im Grundbuch auf Papier aufgeführt sind."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "126",
+      "title": "Art. 126 Überführung des Papiergrundbuchs in das EDV-Grundbuch",
+      "content": "1) Die Überführung des Grundbuchs auf Papier in das EDV-Grundbuch kann wahlweise für eine ganze Gemeinde, für einen Teil einer Gemeinde oder für ein einzelnes Grundstück erfolgen.\n2) Das Hauptbuchblatt im Papiergrundbuch ist für die übernommenen Grundstücke zu schliessen."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "127",
+      "title": "Art. 127 Umfang der Überführung",
+      "content": "1) In das EDV-Grundbuch müssen alle aktuellen Eintragungen der einzelnen Abteilungen übernommen werden. Gelöschte Eintragungen und die entsprechenden Hinweise auf die Belege müssen nicht erfasst werden.\n2) Für Daten, die nicht elektronisch erfasst werden, gelten weiterhin die Bestimmungen über die Führung des Grundbuchs auf Papier."
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "128",
+      "title": "Art. 128 EDV-System",
+      "content": "1) Die Regierung prüft vor der Anschaffung eines neuen EDV-Systems oder vor der Vornahme wesentlicher Änderungen am bestehenden EDV-System \"TERRIS\", ob es den gesetzlichen Anforderungen entspricht.\n2) Die Beschreibung eines EDV-Systems enthält insbesondere:\na) die Darstellung des Systemaufbaus in Worten und in grafischer Form;\nb) den Datenkatalog mit Typologien und ein Beziehungsschema;\nc) die Ausführungen über technische und organisatorische Massnahmen zur Gewährleistung der Datenintegrität (Konsistenzen, Plausibilitäten);\nd) das Betriebskonzept sowie die Konzepte über die Datensicherheit und den Datenschutz;\ne) die Ergebnisse der angewandten funktionalen Prüfungen."
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "129",
+      "title": "Art. 129 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 4. November 2008 über das Grundbuch (GBV), LGBl. 2008 Nr. 267, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "130",
+      "title": "Art. 130 Bestehende Schuldbriefe",
+      "content": "Die im Grundbuch vor Inkrafttreten dieser Verordnung eingetragenen, als Schuldbrief bezeichneten Grundpfandrechte sind Papier-Schuldbriefe, solange sie nicht nach Art. 27b Abs. 3 oder Art. 27c SchlT SR umgewandelt sind."
+    },
+    {
+      "provision_ref": "art131",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "131",
+      "title": "Art. 131 Bestehende Anmerkungen und Bemerkungen in der Grundstücksbeschreibung",
+      "content": "Bei Inkrafttreten dieser Verordnung bestehende Anmerkungen und Bemerkungen in der Grundstücksbeschreibung (Art. 12) behalten ihre Gültigkeit."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "132",
+      "title": "Art. 132 Bestehende Benutzervereinbarungen",
+      "content": "Bei Inkrafttreten dieser Verordnung bestehende Benutzervereinbarungen über den Zugriff auf Grundbuchdaten nach Art. 565 Abs. 1 Bst. a SR behalten ihre Gültigkeit."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "133",
+      "title": "Art. 133 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2017 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nArt. 25 Abs. 1 abgeändert durch LGBl. 2023 Nr. 425 .\n2\nArt. 25 Abs. 4 abgeändert durch LGBl. 2023 Nr. 425 .\n3\nArt. 30 Abs. 3 abgeändert durch LGBl. 2021 Nr. 68 .\n4\nArt. 32 Abs. 1 abgeändert durch LGBl. 2021 Nr. 68 .\n5\nArt. 42 Abs. 2 abgeändert durch LGBl. 2020 Nr. 446 .\n6\nArt. 46 Abs. 2 abgeändert durch LGBl. 2022 Nr. 56 .\n7\nArt. 47 Abs. 2 aufgehoben durch LGBl. 2023 Nr. 425 .\n8\nArt. 47 Abs. 3 aufgehoben durch LGBl. 2023 Nr. 425 .\n9\nArt. 47 Abs. 4 aufgehoben durch LGBl. 2023 Nr. 425 .\n10\nArt. 64 Abs. 2 abgeändert durch LGBl. 2018 Nr. 452 .\n11\nArt. 98 Abs. 3 eingefügt durch LGBl. 2018 Nr. 130 .\n12\nArt. 98 Abs. 4 eingefügt durch LGBl. 2018 Nr. 130 .\n13\nArt. 104a eingefügt durch LGBl. 2018 Nr. 130 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Grundbuch",
+      "definition": "öffentliches Register über die dinglichen Rechte an Grundstücken sowie über die Vormerkungen und Anmerkungen, bestehend aus dem Hauptbuch, dem Tagebuch, dem Plan für das Grundbuch und den Belegen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Hauptbuch",
+      "definition": "Gesamtheit aller Daten über die rechtswirksamen und die gelöschten dinglichen Rechte, Vormerkungen und Anmerkungen an den im Grundbuch aufgenommenen Grundstücken;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Hauptbuchblatt",
+      "definition": "Sammlung aller Daten über die rechtswirksamen und die gelöschten dinglichen Rechte, Vormerkungen und Anmerkungen eines bestimmten Grundstücks des Hauptbuchs;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Tagebuch",
+      "definition": "chronologisches Protokoll über die Behandlung der Geschäftsfälle, namentlich der Anmeldungen zu Eintragungen, Änderungen und Löschungen im Grundbuch sowie der Aufnahme eines Grundstücks in das Grundbuch, der Entlassung aus dem Grundbuch, der Änderung von Grundstücksgrenzen oder der Eintragung von Gläubigern bei Pfandrechten;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Plan für das Grundbuch",
+      "definition": "Auszug aus den Daten der amtlichen Vermessung nach Art. 71 der Vermessungsverordnung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Belege",
+      "definition": "Sammelbegriff für die Grundbuchanmeldung, den Rechtsgrundausweis sowie Beilagen dazu, insbesondere Vollmachten, Zustimmungserklärungen und Bewilligungen.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "li-konso-2021213000",
+  "type": "statute",
+  "title": "Gesetz vom 7. Mai 2021 über das elektronische Gesundheitsdossier (EGDG)",
+  "title_en": "",
+  "short_name": "EGDG",
+  "status": "in_force",
+  "issued_date": "2021-05-07",
+  "in_force_date": "2021-05-07",
+  "url": "https://www.gesetze.li/konso/2021213000",
+  "description": "Gesetz vom 7. Mai 2021 über das elektronische Gesundheitsdossier (EGDG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Dieses Gesetz regelt die Führung des elektronischen Gesundheitsdossiers und legt die Voraussetzungen für die darin verarbeiteten personenbezogenen Gesundheitsdaten und genetischen Daten fest.\n2) Das elektronische Gesundheitsdossier dient insbesondere: a) einer verbesserten, schnelleren Verfügbarkeit medizinischer Informationen, die zu einer Qualitätssteigerung diagnostischer und therapeutischer Entscheidungen sowie der Behandlung und Betreuung führt;\nb) der Steigerung der Prozess- und Ergebnisqualität von EGD-Gesundheitsdienstleistern;\nc) dem Ausbau integrierter Versorgung im Gesundheitswesen;\nd) der Aufrechterhaltung einer qualitativ hochwertigen, ausgewogenen und allgemein zugänglichen Gesundheitsversorgung;\ne) der Stärkung der Patientenrechte, insbesondere der Informationsrechte und des Rechtsschutzes bei der Verwendung von personenbezogenen Daten;\nf) der Leistung eines Beitrags zur Wahrung des finanziellen Gleichgewichts des Systems der sozialen Sicherheit.\n3) Das elektronische Gesundheitsdossier erfüllt im Rahmen der Zweckbestimmung nach Abs. 2 ein erhebliches öffentliches Interesse im Sinne von Art. 9 Abs. 2 Bst. g bis j der Verordnung (EU) 2016/679 .\n4) Sofern dieses Gesetz keine besonderen Bestimmungen enthält, bleiben andere Rechtsvorschriften unberührt."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als: a) \"elektronisches Gesundheitsdossier (EGD)\": ein virtuelles Dossier, über das dezentral abgelegte Gesundheitsdaten oder genetische Daten aus der Krankengeschichte eines Teilnehmers in einem Abrufverfahren orts- und zeitunabhängig zugänglich gemacht werden können;\nb) \"Behandlung\": sämtliche Tätigkeiten eines EGD-Gesundheitsdienstleisters, die der Heilung oder Pflege eines Teilnehmers oder der Vorbeugung, Früherkennung, Diagnostik oder Linderung einer Krankheit dienen;\nc) \"EGD-Gesundheitsdienstleister\": 1. das Liechtensteinische Landesspital;\n2. die Liechtensteinische Alters- und Krankenhilfe;\n3. andere Einrichtungen des Gesundheitswesens im Sinne des Gesundheitsgesetzes, ausgenommen Organisationen der Hauskrankenpflege, Einrichtungen der Fortpflanzungsmedizin sowie Einrichtungen für Familienplanung, Schwangerschaft und Sexualität mit psychosozialer Beratung und Betreuung;\n4. Ärzte, auch bei Ausübung ihres Berufes im Rahmen einer Ärztegesellschaft;\n5. Apotheker, Chiropraktoren und Zahnärzte, auch bei Ausübung ihres Berufes im Rahmen einer Gesundheitsberufegesellschaft;\nd) \"eHealth-Plattform\": die technische Basisinfrastruktur zur Führung des elektronischen Gesundheitsdossiers, einschliesslich des Zugangsportals für Teilnehmer und EGD-Gesundheitsdienstleister;\ne) \"Versicherter\": jede nach Art. 7 des Krankenversicherungsgesetzes obligatorisch für Krankenpflege versicherte Person;\nf) \"Teilnehmer\": jeder Versicherte, sofern er der Verarbeitung von Gesundheitsdaten und genetischen Daten in seinem elektronischen Gesundheitsdossier nicht widersprochen hat (Art. 6);\ng) \"persönliche Identifikationsnummer (IDN)\": die jedem Versicherten im elektronischen Gesundheitsdossier eindeutig zugewiesene Identifikationsnummer nach Art. 20b Abs. 1 des Krankenversicherungsgesetzes.\n2) Im Übrigen finden die Begriffsbestimmungen der Verordnung (EU) 2016/679, insbesondere in Bezug auf die Begriffe Gesundheitsdaten und genetische Daten, Anwendung.\n3) Unter den in diesem Gesetz verwendeten Personen-, Berufs- und Funktionsbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nII. Elektronisches Gesundheitsdossier\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Allgemeines",
+      "section": "3",
+      "title": "Art. 3 Inhalt des elektronischen Gesundheitsdossiers",
+      "content": "1) Das elektronische Gesundheitsdossier enthält: a) administrative Daten, die vom Amt für Gesundheit für jeden Versicherten erfasst werden; dazu gehören insbesondere: 1. Name und Adresse des Versicherten;\n2. persönliche Identifikationsnummer (IDN);\n3. sonstige Versicherungsangaben;\nb) Gesundheitsdaten und genetische Daten des Teilnehmers, die nach Massgabe von Art. 5 bis 7 erfasst werden.\n2) Die Regierung regelt das Nähere über die Daten nach Abs. 1 Bst. a mit Verordnung."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Allgemeines",
+      "section": "4",
+      "title": "Art. 4 Grundsätze der Datenverarbeitung",
+      "content": "1) Die Verarbeitung von Gesundheitsdaten und genetischen Daten im elektronischen Gesundheitsdossier ist nur zulässig, wenn: a) die Datenverarbeitung durch eine zugriffsberechtigte Person nach Abs. 2 erfolgt;\nb) die Identität der zugriffsberechtigten Person nach Abs. 2 Bst. a bis d durch ein elektronisches Identifizierungsmittel im Sinne des E-Government-Gesetzes festgestellt wird;\nc) die Datenverarbeitung ausschliesslich zu den im Rahmen dieses Gesetzes vorgesehenen Zwecken erfolgt; und\nd) die Anforderungen nach Art. 5 bis 7 erfüllt sind.\n2) Zugriffsberechtigte Personen nach Abs. 1 sind: a) die behandelnden EGD-Gesundheitsdienstleister;\nb) die EGD-Gesundheitsdienstleister, die vom behandelnden EGD-Gesundheitsdienstleister beigezogen werden;\nc) Personen, die EGD-Gesundheitsdienstleister nach Bst. a und b bei der Ausübung ihrer Tätigkeit unterstützen und im Behandlungsfall von diesen dazu angewiesen wurden;\nd) die Teilnehmer;\ne) die mit der Durchführung dieses Gesetzes betrauten Organe.\n3) Die Regierung regelt das Nähere über die Grundsätze der Datenverarbeitung, insbesondere die Zugriffsberechtigung, mit Verordnung.\nB. EGD-Gesundheitsdienstleister und Versicherte bzw. Teilnehmer"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. EGD-Gesundheitsdienstleister und Versicherte bzw. Teilnehmer",
+      "section": "5",
+      "title": "Art. 5 Datenerfassung und -abfrage im Behandlungsfall",
+      "content": "1) EGD-Gesundheitsdienstleister haben vorbehaltlich Art. 6 und 7 das Recht, im Behandlungsfall Gesundheitsdaten und genetische Daten im elektronischen Gesundheitsdossier des Teilnehmers zu speichern und unter Berücksichtigung der jeweiligen Berufspflichten abzufragen.\n2) Im Behandlungsfall sind zur Sicherstellung der in Art. 1 Abs. 2 genannten Ziele im elektronischen Gesundheitsdossier des Teilnehmers zu speichern: a) Zuweisungsbriefe und Arztberichte;\nb) Überweisungsbriefe und Austrittsberichte;\nc) Laborbefunde;\nd) Befunde der bildgebenden Diagnostik; und\ne) Medikationen.\n3) Ein EGD-Gesundheitsdienstleister kann weitere Gesundheitsdaten oder genetische Daten im elektronischen Gesundheitsdossier des Teilnehmers speichern.\n4) Die Regierung regelt das Nähere über die Datenerfassung und -abfrage im Behandlungsfall, insbesondere die Form der Datenspeicherung, mit Verordnung.\nRechte des Versicherten bzw. Teilnehmers\nArt. 6 a) Widerspruchs- und Widerrufsrecht\n1) Der Verarbeitung von Gesundheitsdaten und genetischen Daten im elektronischen Gesundheitsdossier kann jederzeit widersprochen werden; ein Widerspruch kann auch jederzeit widerrufen werden.\n2) Ein Widerspruch oder dessen Widerruf hat elektronisch über das Zugangsportal der eHealth-Plattform oder schriftlich gegenüber dem Amt für Gesundheit zu erfolgen.\n3) Alle bis zum Zeitpunkt des Widerspruchs gespeicherten Gesundheitsdaten und genetischen Daten werden gelöscht.\n4) Für Zeiten eines gültigen Widerspruchs besteht kein Rechtsanspruch auf eine nachträgliche Aufnahme von Gesundheitsdaten und genetischen Daten.\n5) Aus einem erfolgten Widerspruch dürfen dem Versicherten keine Nachteile im Zugang zur medizinischen Versorgung erwachsen.\n6) Bei Minderjährigen steht das Widerspruchs- und Widerrufsrecht dem gesetzlichen Vertreter zu; ab Vollendung des 14. Lebensjahres kann der Minderjährige von diesen Rechten selbständig Gebrauch machen.\n7) Die Regierung regelt das Nähere über das Widerspruchs- und Widerrufsrecht mit Verordnung."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. EGD-Gesundheitsdienstleister und Versicherte bzw. Teilnehmer",
+      "section": "7",
+      "title": "Art. 7 b) Leserecht und sonstige Rechte",
+      "content": "1) Der Teilnehmer verfügt über ein Leserecht für sämtliche Daten des elektronischen Gesundheitsdossiers.\n2) Der Teilnehmer hat elektronisch über das Zugangsportal der eHealth-Plattform oder schriftlich gegenüber dem Amt für Gesundheit das Recht: a) die ihn betreffenden Gesundheitsdaten und genetischen Daten auszublenden oder zu löschen;\nb) Auskunft über die ihn betreffenden Gesundheitsdaten und genetischen Daten sowie Protokolldaten zu erhalten.\n3) Bei Minderjährigen stehen die Rechte nach Abs. 1 und 2 dem gesetzlichen Vertreter zu; ab Vollendung des 14. Lebensjahres kann der Minderjährige von diesen Rechten selbständig Gebrauch machen.\nC. Besondere datenschutzrechtliche Anforderungen"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "C. Besondere datenschutzrechtliche Anforderungen",
+      "section": "8",
+      "title": "Art. 8 IT-Sicherheitskonzept",
+      "content": "1) EGD-Gesundheitsdienstleister haben auf der Basis eines IT-Sicherheitskonzepts alle nach Art. 32 der Verordnung (EU) 2016/679 und den Bestimmungen dieses Gesetzes getroffenen Datensicherheitsmassnahmen zu dokumentieren.\n2) Aus der Dokumentation nach Abs. 1 muss hervorgehen, dass sowohl der Zugriff als auch die Übermittlung der Daten ordnungsgemäss erfolgt und die Daten Unbefugten nicht zugänglich sind."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "C. Besondere datenschutzrechtliche Anforderungen",
+      "section": "9",
+      "title": "Art. 9 Datensicherheit",
+      "content": "1) EGD-Gesundheitsdienstleister haben alle erforderlichen technischen und organisatorischen Massnahmen zu treffen, um ein hohes Niveau an Datensicherheit bei der Datenverarbeitung nach Art. 5 zu gewährleisten.\n2) Die Massnahmen nach Abs. 1 umfassen insbesondere: a) den Einsatz sicherer Verschlüsselungsverfahren bei der Verarbeitung von Gesundheitsdaten und genetischen Daten;\nb) sichere Verfahren zur Authentifizierung von Personen und Diensten, die auf das elektronische Gesundheitsdossier zugreifen.\n3) Die Datensicherheit ist zu jedem Zeitpunkt der Datenverarbeitung zu gewährleisten.\n4) Die Regierung regelt das Nähere über die Anforderungen an die Datensicherheit mit Verordnung."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "C. Besondere datenschutzrechtliche Anforderungen",
+      "section": "10",
+      "title": "Art. 10 Löschung des elektronischen Gesundheitsdossiers",
+      "content": "Zehn Jahre nach dem Wegfall der Versicherungspflicht wird das elektronische Gesundheitsdossier eines Versicherten gelöscht.\nD. Ausländische Gesundheitsdienstleister"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "D. Ausländische Gesundheitsdienstleister",
+      "section": "11",
+      "title": "Art. 11 Bewilligungspflicht, -voraussetzungen und -verfahren",
+      "content": "1) Gesundheitsdienstleister mit Sitz im Ausland dürfen im Behandlungsfall Gesundheitsdaten und genetische Daten im elektronischen Gesundheitsdossier nach Massgabe von Art. 5 erfassen und abfragen, wenn sie über eine entsprechende Bewilligung des Amtes für Gesundheit verfügen.\n2) Die Bewilligung nach Abs. 1 kann erteilt werden, wenn der ausländische Gesundheitsdienstleister: a) im Herkunftsstaat zur Ausübung einer Gesundheitsdienstleistung zugelassen ist;\nb) eine Gesundheitsdienstleistung erbringt, die der Tätigkeit eines EGD-Gesundheitsdienstleisters nach Art. 2 Abs. 1 Bst. c entspricht; und\nc) Gewähr bietet, dass die Grundsätze der Datenverarbeitung (Art. 4) und die besonderen datenschutzrechtlichen Anforderungen (Art. 8 und 9) eingehalten werden.\n3) Dem Antrag auf Erteilung einer Bewilligung sind die zum Nachweis der Voraussetzungen nach Abs. 2 erforderlichen Angaben und Unterlagen beizulegen.\n4) Die nachträgliche Änderung der Voraussetzungen, die zur Erteilung der Bewilligung geführt haben, ist dem Amt für Gesundheit unverzüglich mitzuteilen.\n5) Die Bewilligung kann mit Auflagen und Bedingungen verbunden werden. Sie wird entzogen, wenn die Voraussetzungen nach Abs. 2 nicht oder nicht mehr erfüllt sind.\n6) Die Regierung kann das Nähere mit Verordnung regeln.\nIII. Organisation und Durchführung"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "12",
+      "title": "Art. 12 Zuständigkeit",
+      "content": "1) Mit der Durchführung dieses Gesetzes sind betraut: a) die Regierung;\nb) das Amt für Gesundheit;\nc) das Amt für Informatik.\n2) Das Amt für Gesundheit und das Amt für Informatik können zur Erfüllung ihrer Aufgaben Dritte beiziehen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "13",
+      "title": "Art. 13 Regierung",
+      "content": "1) Die Regierung fördert die Koordination zwischen dem Amt für Gesundheit und den EGD-Gesundheitsdienstleistern, indem sie den Wissenstransfer und den Erfahrungsaustausch in Bezug auf das elektronische Gesundheitsdossier unterstützt.\n2) Sie kann zwischenstaatliche Vereinbarungen über die Teilnahme an internationalen Programmen und Projekten zur Förderung der elektronischen Verarbeitung von Daten und der elektronischen Vernetzung im Gesundheitsbereich abschliessen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "14",
+      "title": "Art. 14 Amt für Gesundheit",
+      "content": "1) Dem Amt für Gesundheit obliegt der Vollzug dieses Gesetzes und der dazu erlassenen Verordnungen, soweit Aufgaben nach diesem Gesetz keinem anderen Organ übertragen sind. Es ist insbesondere zuständig für: a) die Erstellung des elektronischen Gesundheitsdossiers für jeden Versicherten und die Erfassung seiner Administrativdaten (Art. 3 Abs. 1 Bst. a);\nb) die Sicherstellung der Versicherten- bzw. Teilnehmerrechte (Art. 6 und 7);\nc) die Löschung des elektronischen Gesundheitsdossiers (Art. 10); und\nd) die Erteilung und den Entzug einer Bewilligung für ausländische Gesundheitsdienstleister (Art. 11).\n2) Das Amt für Gesundheit sorgt für die Bereitstellung von Informationen über Art, Umfang und Zweck der Datenverarbeitung im Rahmen des elektronischen Gesundheitsdossiers."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "15",
+      "title": "Art. 15 Amt für Informatik",
+      "content": "1) Das Amt für Informatik ist zuständig für die Bereitstellung, den Betrieb und die Weiterentwicklung der eHealth-Plattform.\n2) Es stellt sicher, dass: a) die eHealth-Plattform nach Art. 42 der Verordnung (EU) 2016/679 zertifiziert wird oder über ein von der Datenschutzstelle als gleichwertig anerkanntes Zertifikat verfügt;\nb) die Zugriffe auf das elektronische Gesundheitsdossier protokolliert werden; die Protokolldaten sind drei Jahre aufzubewahren sowie lesbar und verfügbar zu halten;\nc) die internationalen Standards für die Nutzung des elektronischen Gesundheitsdossiers eingehalten werden.\nIV. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "IV. Strafbestimmungen",
+      "section": "16",
+      "title": "Art. 16 Übertretungen",
+      "content": "1) Sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist, wird vom Amt für Gesundheit wegen Übertretung mit einer Busse bis zu 50 000 Franken bestraft, wer: a) entgegen Art. 4 auf ein elektronisches Gesundheitsdossier zugreift oder dieses einem anderen zugänglich macht;\nb) im Behandlungsfall die in Art. 5 Abs. 2 genannten Daten nicht im elektronischen Gesundheitsdossier speichert;\nc) entgegen Art. 6 Abs. 5 einen Versicherten im Zugang zur medizinischen Versorgung benachteiligt;\nd) die Bestimmungen über das IT-Sicherheitskonzept oder die Datensicherheit nach Art. 8 und 9 verletzt.\n2) Wer eine der in Abs. 1 mit Strafe bedrohten Handlungen fahrlässig begeht, ist mit einer Busse bis zu 20 000 Franken zu bestrafen.\nV. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "V. Rechtsmittel",
+      "section": "17",
+      "title": "Art. 17 Beschwerde",
+      "content": "1) Gegen Entscheidungen oder Verfügungen des Amtes für Gesundheit kann binnen 14 Tagen ab Zustellung Beschwerde bei der Regierung oder in Verwaltungsstrafsachen bei der Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden.\n2) Gegen Entscheidungen und Verfügungen der Regierung oder der Beschwerdekommission für Verwaltungsangelegenheiten kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.\n3) Die Beschwerde an den Verwaltungsgerichtshof kann sich nur gegen rechtswidriges Vorgehen und Erledigen oder gegen aktenwidrige oder unrichtige Sachverhaltsdarstellung richten.\nVI. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "18",
+      "title": "Art. 18 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "19",
+      "title": "Art. 19 Übergangsbestimmungen",
+      "content": "1) Die Behörden sind verpflichtet, bis spätestens 1. Januar 2023 die technischen und organisatorischen Voraussetzungen für den Betrieb der eHealth-Plattform und die Führung des elektronischen Gesundheitsdossiers zu schaffen. Sie haben ab diesem Zeitpunkt sicherzustellen, dass die Zugriffs- und Versicherten- bzw. Teilnehmerrechte nach Art. 4 bis 7 wahrgenommen werden können.\n2) Ab dem 1. Juli 2023 sind EGD-Gesundheitsdienstleister verpflichtet: a) im Behandlungsfall die in Art. 5 Abs. 2 genannten Daten im elektronischen Gesundheitsdossier zu speichern; vorbehalten bleibt Art. 6 Abs. 1;\nb) die besonderen datenschutzrechtlichen Anforderungen nach Art. 8 und 9 zu erfüllen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "20",
+      "title": "Art. 20 Notifikationshinweis",
+      "content": "Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1) unter der Notifikationsnummer 2020/9024/FL notifiziert."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "21",
+      "title": "Art. 21 Inkrafttreten",
+      "content": "1) Dieses Gesetz tritt vorbehaltlich Abs. 2 am 1. Januar 2022 in Kraft.\n2) Art. 11 tritt in Kraft, sobald die technischen und organisatorischen Voraussetzungen für die grenzüberschreitende Nutzung des elektronischen Gesundheitsdossiers vorliegen; die Regierung bestimmt diesen Zeitpunkt mit Verordnung.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n815.1 G über das elektronische Gesundheitsdossier (EGDG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2025 Nr. 382 ausgegeben am 25. August 2025\nGesetz\nvom 13. Juni 2025\nbetreffend die Abänderung des Gesetzes über das elektronische Gesundheitsdossier\n...\nII.\nÜbergangsbestimmung\nAuf im Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung.\n...\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 114/2020 und 2/2021\n2\nVerordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1) .\n3\nArt. 16 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2025 Nr. 382 .\n4\nArt. 16 Abs. 2 abgeändert durch LGBl. 2025 Nr. 382 .\n5\nArt. 17 Abs. 1 abgeändert durch LGBl. 2025 Nr. 382 .\n6\nArt. 17 Abs. 2 abgeändert durch LGBl. 2025 Nr. 382 .\n7\nInkrafttreten: 1. Februar 2026 ( LGBl. 2026 Nr. 40 ).\n8\nInkrafttreten: 1. Januar 2026."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektronisches Gesundheitsdossier (EGD)",
+      "definition": "ein virtuelles Dossier, über das dezentral abgelegte Gesundheitsdaten oder genetische Daten aus der Krankengeschichte eines Teilnehmers in einem Abrufverfahren orts- und zeitunabhängig zugänglich gemacht werden können;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Behandlung",
+      "definition": "sämtliche Tätigkeiten eines EGD-Gesundheitsdienstleisters, die der Heilung oder Pflege eines Teilnehmers oder der Vorbeugung, Früherkennung, Diagnostik oder Linderung einer Krankheit dienen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "EGD-Gesundheitsdienstleister",
+      "definition": "1. das Liechtensteinische Landesspital;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "eHealth-Plattform",
+      "definition": "die technische Basisinfrastruktur zur Führung des elektronischen Gesundheitsdossiers, einschliesslich des Zugangsportals für Teilnehmer und EGD-Gesundheitsdienstleister;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Versicherter",
+      "definition": "jede nach Art. 7 des Krankenversicherungsgesetzes obligatorisch für Krankenpflege versicherte Person;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Teilnehmer",
+      "definition": "jeder Versicherte, sofern er der Verarbeitung von Gesundheitsdaten und genetischen Daten in seinem elektronischen Gesundheitsdossier nicht widersprochen hat (Art. 6);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "persönliche Identifikationsnummer (IDN)",
+      "definition": "die jedem Versicherten im elektronischen Gesundheitsdossier eindeutig zugewiesene Identifikationsnummer nach Art. 20b Abs. 1 des Krankenversicherungsgesetzes.",
+      "source_provision": "art2"
+    }
+  ]
+}

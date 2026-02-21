@@ -1,0 +1,267 @@
+{
+  "id": "li-konso-2022306000",
+  "type": "statute",
+  "title": "Verordnung vom 31. Oktober 2022 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)",
+  "title_en": "",
+  "short_name": "N-SIS-Verordnung",
+  "status": "in_force",
+  "issued_date": "2022-10-31",
+  "in_force_date": "2022-10-31",
+  "url": "https://www.gesetze.li/konso/2022306000",
+  "description": "Verordnung vom 31. Oktober 2022 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt insbesondere:\na) die Organisation und die Aufgaben des SIRENE-Büros sowie dessen Fallbearbeitungssystem;\nb) die Nutzung des Schengener Informationssystems (SIS) durch die liechtensteinischen Behörden;\nc) die Zugriffsrechte und die Zuständigkeiten der liechtensteinischen Behörden in Bezug auf das SIS;\nd) die Verfahren, die Massnahmen und die Kennzeichnung der Personen- und Sachausschreibungen im SIS;\nf) die Rechte der betroffenen Personen.\n2) Sie dient der Durchführung folgender Rechtsakte des für Liechtenstein anwendbaren Schengen-Besitzstands:\na) Verordnung (EU) 2018/1860 über die Nutzung des Schengener Informationssystems für die Rückkehr illegal aufhältiger Drittstaatsangehöriger ;\nb) Verordnung (EU) 2018/1861 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen ;\nc) Verordnung (EU) 2018/1862 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen .\n3) Die gültige Fassung der Rechtsakte nach Abs. 2 ergibt sich aus der Kundmachung der Staatsverträge zur Weiterentwicklung des Schengen-Besitzstands im Liechtensteinischen Landesgesetzblatt nach Art. 3 des Kundmachungsgesetzes.\n4) Diese Verordnung gilt, soweit das Schengen-Assoziierungsprotokoll nichts anderes vorsieht."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Drittstaat\": jeder Staat, der nicht Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) ist;\nb) \"terroristische Straftat\": in Übereinstimmung mit Art. 3 Ziff. 16 der Verordnung (EU) 2018/1862 eine Straftat nach den §§ 246, 247a, 278b, 278d, 278e, 278f, 278g, 279 und 282a des Strafgesetzbuches;\nc) \"sonstige schwere Straftat\": eine Straftat nach dem Anhang 1 des Polizeigesetzes;\nd) \"Schengener Informationssystem (SIS)\": ein Informationssystem zur Personen- und Sachfahndung, bestehend aus:\n1. einer zentralen, für sämtliche Schengen-Staaten gemeinsam nutzbaren Infrastruktur mit einer zentralen Fahndungsdatenbank (zentrales SIS);\n2. einem nationalen System (N-SIS) in jedem Schengen-Staat, das aus den nationalen, mit dem zentralen SIS kommunizierenden Datensystemen besteht;\n3. einer von der EU betriebenen gesicherten Kommunikationsinfrastruktur für den Datenaustausch zwischen dem N-SIS und dem zentralen SIS.\n2) Im Übrigen finden die Begriffsbestimmungen der in Art. 1 Abs. 2 aufgeführten Rechtsakte ergänzend Anwendung.\n3) Die in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen gelten für Personen weiblichen und männlichen Geschlechts.\nII. SIRENE-Büro"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. SIRENE-Büro",
+      "section": "3",
+      "title": "Art. 3 Organisation",
+      "content": "Der Fachbereich Internationale Polizeikooperation bei der Landespolizei, Abteilung Zentrale Polizeidienste, führt das liechtensteinische SIRENE-Büro im Einklang mit den Bestimmungen des SIRENE-Handbuchs."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. SIRENE-Büro",
+      "section": "4",
+      "title": "Art. 4 Aufgaben",
+      "content": "Neben den in den Rechtsakten nach Art. 1 Abs. 2 festgelegten Aufgaben obliegt dem SIRENE-Büro insbesondere:\na) der Datenaustausch im Rahmen der Konsultationsverfahren zwischen den liechtensteinischen Behörden und denjenigen der anderen Schengen-Staaten;\nb) die Eingabe, Aktualisierung und Löschung von Ausschreibungen im SIS; bei Ausschreibungen nach Art. 14 Abs. 1 erfolgt dies jedoch nur ausserhalb der Amtsstunden des Ausländer- und Passamtes;\nc) die Überprüfung der liechtensteinischen Ausschreibungen sowie der Zusatzinformationen auf ihre formelle Zulässigkeit, Richtigkeit, Vollständigkeit und Aktualität;\nd) die Beratung und Unterstützung der Behörden des Landes im Zusammenhang mit dem SIS."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. SIRENE-Büro",
+      "section": "5",
+      "title": "Art. 5 Fallbearbeitungssystem",
+      "content": "1) Das SIRENE-Büro betreibt ein automatisiertes Fallbearbeitungssystem. Dieses dient insbesondere folgenden Zwecken:\na) Verarbeitung von Daten, die im Zusammenhang mit Ausschreibungen im SIS und dem Austausch von Zusatzinformationen stehen;\nb) Abgleich eingehender Fahndungsausschreibungen in einem automatisierten Verfahren mit den der Landespolizei zur Verfügung stehenden Informationssystemen;\nc) Dokumentation der Tätigkeiten im Zusammenhang mit Fahndungsausschreibungen;\nd) Protokollierung der Datenverarbeitung im Fallbearbeitungssystem.\n2) Das System enthält die ausgetauschten Zusatzinformationen sowie weitere Mitteilungen, die im Zusammenhang mit einer Ausschreibung im SIS stehen, insbesondere solche, die per Telefon, E-Mail und Brief an das SIRENE-Büro gerichtet sind oder von ihm ausgehen.\n3) Die im System verarbeiteten Daten können nach Ausschreibungen, Personen oder Sachen erschlossen werden. Die Daten können mit dem SIS verknüpft werden.\n4) Soweit dies zur Erfüllung seiner gesetzlichen Aufgaben erforderlich ist, kann das Amt für Strassenverkehr Daten von zur Fahndung ausgeschriebenen liechtensteinischen Fahrzeugen, Kontrollschildern oder Führer- und Fahrzeugausweisen aus dem Fallbearbeitungssystem abrufen.\nIII. Schengener Informationssystem (SIS)\nA. Nationales System (N-SIS)"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Nationales System (N-SIS)",
+      "section": "6",
+      "title": "Art. 6 Zweck",
+      "content": "Das N-SIS dient folgenden Zwecken:\na) der Eingabe, Aktualisierung, Löschung und Abfrage von Ausschreibungen im SIS durch die berechtigten Stellen;\nb) dem Zugriff im Abrufverfahren durch die berechtigten Behörden auf Daten des SIS (Art. 12 Abs. 1);\nc) der Protokollierung der Datenverarbeitung im SIS."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Nationales System (N-SIS)",
+      "section": "7",
+      "title": "Art. 7 Systemverantwortung",
+      "content": "1) Die Landespolizei trägt die Verantwortung für das N-SIS.\n2) Sie ist verpflichtet:\na) für das reibungslose Funktionieren und die Sicherheit des N-SIS zu sorgen;\nb) den Zugang der zuständigen Behörden zum SIS zu gewähren.\nB. Verfahren"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Verfahren",
+      "section": "8",
+      "title": "Art. 8 Voraussetzung für die Datenfreigabe",
+      "content": "1) Eine Ausschreibung darf im SIS nur eingegeben werden, wenn der Datensatz bereits in einem nationalen Informationssystem erfasst ist.\n2) Daten aus nationalen Informationssystemen dürfen zur Ausschreibung im SIS, soweit erforderlich, in einem automatisierten Verfahren über das N-SIS in das zentrale SIS überführt werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Verfahren",
+      "section": "9",
+      "title": "Art. 9 Personen- und Sachausschreibungen",
+      "content": "1) Die zur Meldung berechtigten Behörden (Art. 11) übermitteln dem SIRENE-Büro ein schriftliches Ausschreibungsersuchen zusammen mit allen relevanten Dokumenten.\n2) Zur Sicherstellung der Identifizierung sind bei Personenausschreibungen im SIS nach Möglichkeit auch Fingerabdrücke und Fotos der betroffenen Person zu erfassen. Zu diesem Zweck hat das Ausländer- und Passamt bei ihm vorhandene Fingerabdrücke und Fotos eines Ausländers, die im Rahmen der Identifizierung erhoben worden sind, dem SIRENE-Büro auf dessen Ersuchen zu übermitteln."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Verfahren",
+      "section": "10",
+      "title": "Art. 10 Verfahren bei einem Treffer in Liechtenstein",
+      "content": "1) Ergibt eine Abfrage nach einer Person oder einer Sache, dass diese im SIS ausgeschrieben ist, so kontaktiert die abfragende Behörde unverzüglich das SIRENE-Büro. Sie übermittelt dem SIRENE-Büro schriftlich alle im Zusammenhang mit der Ausschreibung erforderlichen Informationen, insbesondere:\na) Personalien oder Identifikationsmerkmale der Gegenstände;\nb) Abfragezeitpunkt und -umstände;\nc) ergriffene Massnahmen.\n2) Das SIRENE-Büro holt auf Ersuchen der abfragenden Behörde Zusatzinformationen beim SIRENE-Büro des ausschreibenden Schengen-Staates ein. Es teilt der abfragenden Behörde die übermittelten Zusatzinformationen mit und berät sie im Zusammenhang mit den zu treffenden Massnahmen.\nIV. Berechtigungen der Behörden"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "IV. Berechtigungen der Behörden",
+      "section": "11",
+      "title": "Art. 11 Zur Meldung berechtigte Behörden",
+      "content": "Die folgenden Behörden und Stellen sind zur Erfüllung ihrer Aufgaben berechtigt, Ausschreibungen für die Verbreitung im SIS dem SIRENE-Büro zu melden:\na) die Landespolizei;\nb) das Ausländer- und Passamt;\nc) das Amt für Strassenverkehr;\nd) die liechtensteinischen Gerichte;\ne) der diensthabende Arzt bei Gefahr im Verzug im Rahmen einer fürsorgerischen Unterbringung nach dem Sozialhilfegesetz."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "IV. Berechtigungen der Behörden",
+      "section": "12",
+      "title": "Art. 12 Zugriffsberechtigte Behörden",
+      "content": "1) Folgende Behörden haben zur Erfüllung ihrer Aufgaben im Abrufverfahren Zugriff auf Daten im SIS:\na) die Landespolizei;\nb) das Ausländer- und Passamt;\nc) das Amt für Strassenverkehr nach Massgabe von Art. 45 der Verordnung (EU) 2018/1862.\n2) Das SIRENE-Büro kann folgenden Behörden und Stellen zur Erfüllung ihrer Aufgaben Auskunft über Fahndungen von Personen oder Sachen im SIS erteilen:\na) dem aufgrund des Zollvertrages in Liechtenstein zuständigen Bundesamt für Zoll und Grenzsicherheit;\nb) der Staatsanwaltschaft und den Untersuchungsrichtern;\nc) dem Zivilstandsamt nach Massgabe von Art. 34 Abs. 2 der Verordnung (EU) 2018/1861 und Art. 44 Abs. 2 der Verordnung (EU) 2018/1862.\nV. Ergänzende Bestimmungen zu den Ausschreibungskategorien\nA. Ausschreibung von Drittstaatsangehörigen zur Rückkehr und zur Einreise- und Aufenthaltsverweigerung"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "A. Ausschreibung von Drittstaatsangehörigen zur Rückkehr und zur Einreise- und Aufenthaltsverweigerung",
+      "section": "13",
+      "title": "Art. 13 Voraussetzung",
+      "content": "Drittstaatsangehörige können nur zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung ausgeschrieben werden, wenn eine entsprechende Entscheidung oder Verfügung für das Gebiet des Fürstentums Liechtenstein vorliegt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "A. Ausschreibung von Drittstaatsangehörigen zur Rückkehr und zur Einreise- und Aufenthaltsverweigerung",
+      "section": "14",
+      "title": "Art. 14 Ausschreibungsverfahren",
+      "content": "1) Das Ausländer- und Passamt erfasst die Ausschreibung eines Drittstaatsangehörigen zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung im SIS. Es nimmt die erforderlichen Aktualisierungen einer Ausschreibung vor und löscht die Ausschreibung, wenn die Voraussetzungen dafür nicht mehr gegeben sind.\n2) Das Ausländer- und Passamt hat sicherzustellen, dass das SIRENE-Büro zum Zwecke des Austauschs von Zusatzinformationen die erforderlichen Unterlagen zu ihren Entscheidungen oder Verfügungen erhält. Dazu erfasst es mit der Ausschreibung die erforderlichen Zusatzinformationen im Fallbearbeitungssystem des SIRENE-Büros.\n3) Folgende Stellen der Landespolizei können auf die im Anhang aufgeführten Daten der entsprechenden automatisierten Register des Ausländer- und Passamtes im Abrufverfahren zugreifen:\na) das SIRENE-Büro zur Beschaffung von ergänzenden Zusatzinformationen;\nb) die Kriminalpolizei, soweit dies für die Erfüllung ihrer Aufgaben nach der Ausländergesetzgebung erforderlich ist."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "A. Ausschreibung von Drittstaatsangehörigen zur Rückkehr und zur Einreise- und Aufenthaltsverweigerung",
+      "section": "15",
+      "title": "Art. 15 Massnahmen",
+      "content": "1) Im Trefferfall bestimmt das Ausländer- und Passamt die zu ergreifende Massnahme im Einzelfall nach den anwendbaren Rechtsgrundlagen.\n2) Das Ausländer- und Passamt erfasst die für die Durchführung der Konsultationsverfahren erforderlichen Daten im Fallbearbeitungssystem des SIRENE-Büros.\nB. Ausschreibung von Personen zur Festnahme zwecks Auslieferung"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "B. Ausschreibung von Personen zur Festnahme zwecks Auslieferung",
+      "section": "16",
+      "title": "Art. 16 Voraussetzungen",
+      "content": "1) Die Ausschreibung von Personen zur Festnahme zwecks Auslieferung kann nur erfolgen:\na) im Auftrag eines Gerichts; und\nb) wenn ein Haftbefehl, eine Urkunde mit gleicher Rechtswirkung oder ein rechtskräftiges und vollstreckbares Urteil vorliegt.\n2) Flüchtige Strafgefangene oder Untergebrachte (Art. 100 StVG) kann die Landespolizei auch ohne richterlichen Auftrag direkt im SIS ausschreiben, sofern ein rechtskräftiges und vollstreckbares Urteil vorliegt und eine Reststrafe von mehr als 120 Tagen zu verbüssen ist. Sie hat jedoch unverzüglich beim zuständigen Gericht die Zustimmung zur internationalen Fahndung einzuholen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "B. Ausschreibung von Personen zur Festnahme zwecks Auslieferung",
+      "section": "17",
+      "title": "Art. 17 Ausschreibungsverfahren",
+      "content": "1) Das Gericht übermittelt dem SIRENE-Büro einen schriftlichen Auftrag zur Ausschreibung. Diesem Auftrag sind neben dem Dokument nach Art. 16 Abs. 1 Bst. b ein kurzer Sachverhalt (fact of the case) sowie die Zusatzinformationen beizulegen.\n2) Stellt das SIRENE-Büro fest, dass die Ausschreibungsunterlagen unvollständig oder mangelhaft sind, so benachrichtigt es umgehend das zuständige Gericht und weist dieses auf die notwendige Verbesserung der Unterlagen hin.\n3) Das SIRENE-Büro darf die Ausschreibung nur vornehmen, wenn die notwendigen Unterlagen korrekt und vollständig sind."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "B. Ausschreibung von Personen zur Festnahme zwecks Auslieferung",
+      "section": "18",
+      "title": "Art. 18 Dringlichkeitsverfahren",
+      "content": "1) Duldet die Ausschreibung keinen Aufschub, so kann das Gericht sie gegenüber dem SIRENE-Büro dringlich mittels Telefon, Telefax oder E-Mail anordnen.\n2) Das schriftliche Ersuchen und die entsprechenden Dokumente sind in jedem Fall spätestens am nächsten Werktag dem SIRENE-Büro nachzureichen; andernfalls wird die Ausschreibung wieder gelöscht."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "B. Ausschreibung von Personen zur Festnahme zwecks Auslieferung",
+      "section": "19",
+      "title": "Art. 19 Kennzeichnung",
+      "content": "1) Wird durch das SIRENE-Büro bei einer ausländischen Ausschreibung festgestellt, dass eine Ausschreibung zur Festnahme zwecks Auslieferung eine Person mit liechtensteinischer Staatsbürgerschaft oder mit Wohnsitz oder Arbeitsort in Liechtenstein betrifft, so sind das Landgericht und die Staatsanwaltschaft über diese Ausschreibung in Kenntnis zu setzen.\n2) Das SIRENE-Büro verlangt vom SIRENE-Büro des ausschreibenden Schengen-Staates die Kennzeichnung einer Ausschreibung zur Festnahme zwecks Auslieferung, wenn:\na) vom Landgericht schriftlich mitgeteilt wird, dass eine Auslieferung nicht zulässig ist; oder\nb) das Amt für Justiz schriftlich mitteilt, dass eine Auslieferung nach Art. 34 RHG abgelehnt wird.\n3) Das SIRENE-Büro kann vom SIRENE-Büro des ausschreibenden Schengen-Staates die Kennzeichnung einer Ausschreibung zur Festnahme zwecks Auslieferung verlangen, wenn:\na) die Ausschreibung ohne Weiteres einem liechtensteinischen Straftatbestand, dessen Höchststrafmass weniger als ein Jahr Freiheitsstrafe beträgt, zuzuordnen ist; oder\nb) die Ausschreibung einen Sachverhalt betrifft, der in Liechtenstein nicht oder nicht gerichtlich strafbar ist.\nC. Ausschreibung von Vermissten und schutzbedürftigen Personen"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "C. Ausschreibung von Vermissten und schutzbedürftigen Personen",
+      "section": "20",
+      "title": "Art. 20 Voraussetzungen",
+      "content": "1) Personen dürfen nur dann als Vermisste nach Art. 32 Abs. 1 Bst. a der Verordnung (EU) 2018/1862 ausgeschrieben werden, wenn sie:\na) aufgrund der Anordnung des Landgerichts oder des diensthabenden Arztes (Art. 18g SHG) zwangsweise untergebracht werden müssen; oder\nb) minderjährig sind.\n2) Schutzbedürftige Personen nach Art. 32 Abs. 1 Bst. e der Verordnung (EU) 2018/1862, die unter Sachwalterschaft stehen, sowie schutzbedürftige Personen nach Art. 32 Abs. 1 Bst. c und d der Verordnung (EU) 2018/1862 dürfen nur auf Anordnung des Landgerichts ausgeschrieben werden.\n3) Schutzbedürftige Personen nach Art. 32 Abs. 1 Bst. e der Verordnung (EU) 2018/1862, die nicht unter Sachwalterschaft stehen, dürfen nur mit deren Einwilligung oder aufgrund einer Anordnung der Landespolizei ausgeschrieben werden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "C. Ausschreibung von Vermissten und schutzbedürftigen Personen",
+      "section": "21",
+      "title": "Art. 21 Massnahmen",
+      "content": "1) Bei der Anhaltung einer Person, die nach Art. 32 Abs. 1 Bst. a der Verordnung (EU) 2018/1862 aufgrund einer Anordnung einer zuständigen Behörde zwangsweise untergebracht werden muss, ist unverzüglich ein Inlandsverfahren nach Art. 18g SHG einzuleiten.\n2) Bei der Anhaltung einer minderjährigen Person ist unverzüglich das Amt für Soziale Dienste zur Einleitung der notwendigen Massnahmen zu verständigen.\nD. Ausschreibung von tatverdächtigen Personen, deren Identität unbekannt ist"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "D. Ausschreibung von tatverdächtigen Personen, deren Identität unbekannt ist",
+      "section": "22",
+      "title": "Art. 22 Ausschreibungsverfahren",
+      "content": "1) Das Kommissariat Kriminaltechnik bei der Landespolizei, Abteilung Kriminalpolizei, erfasst die Ausschreibung von unbekannten gesuchten Personen nach Art. 40 der Verordnung (EU) 2018/1862 im SIS. Es nimmt die erforderlichen Aktualisierungen einer Ausschreibung vor und löscht die Ausschreibung, wenn die Voraussetzungen dafür nicht mehr gegeben sind.\n2) Das Kommissariat Kriminaltechnik erfasst mit der Ausschreibung die erforderlichen Zusatzinformationen im Fallbearbeitungssystem des SIRENE-Büros."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "D. Ausschreibung von tatverdächtigen Personen, deren Identität unbekannt ist",
+      "section": "23",
+      "title": "Art. 23 Massnahmen",
+      "content": "Im Trefferfall hat das Kommissariat Kriminaltechnik eine manuelle Überprüfung anhand der biometrischen Daten durchzuführen.\nVI. Datenverarbeitung und Rechte der Betroffenen\nA. Datenverarbeitung"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "A. Datenverarbeitung",
+      "section": "24",
+      "title": "Art. 24 Verarbeitung zu anderen Zwecken",
+      "content": "1) Jede Verarbeitung einer eingehenden Ausschreibung zu einem anderen Zweck als jenem, zu dem die Ausschreibung eingegeben wurde, benötigt die Zustimmung des ausschreibenden Schengen-Staates und muss in Verbindung mit einem spezifischen Fall stehen.\n2) Die Verarbeitung ist nur zulässig:\na) zur Abwehr einer schwerwiegenden und unmittelbar bevorstehenden Gefahr für die öffentliche Sicherheit und Ordnung;\nb) aus schwerwiegenden Gründen der Sicherheit des Staates; oder\nc) zur Verhütung einer terroristischen oder sonstigen schweren Straftat."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "A. Datenverarbeitung",
+      "section": "25",
+      "title": "Art. 25 Qualität der Daten",
+      "content": "1) Bestehen Anhaltspunkte, dass Daten unrichtig sind oder unrechtmässig verarbeitet wurden, so ist dies dem SIRENE-Büro umgehend mitzuteilen; die diesbezüglichen Dokumente sind ihm schriftlich zu übermitteln.\n2) Bei ausgehenden Ausschreibungen unternimmt das SIRENE-Büro unverzüglich die erforderlichen Schritte zur Anpassung, sobald ihm unrichtige Daten oder eine unrechtmässige Datenverarbeitung zur Kenntnis gebracht wurden. Bei eingehenden Ausschreibungen leitet es dem ausschreibenden Schengen-Staat die Information unverzüglich weiter."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "A. Datenverarbeitung",
+      "section": "26",
+      "title": "Art. 26 Verlängerung einer Ausschreibung",
+      "content": "Das SIRENE-Büro prüft vor Eintritt der automatischen Löschung einer Personen- oder Sachausschreibung in Absprache mit der ersuchenden Behörde (Art. 11) die Erforderlichkeit einer Verlängerung der Ausschreibung."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "A. Datenverarbeitung",
+      "section": "27",
+      "title": "Art. 27 Archivierung",
+      "content": "1) Die Landespolizei bietet dem Landesarchiv die folgenden nicht länger benötigten oder zur Löschung bestimmten Daten und die dazugehörigen Unterlagen zur Archivierung an:\na) Daten zu ausgehenden Ausschreibungen;\nb) Daten zu eingehenden Ausschreibungen, in deren Zusammenhang Massnahmen ergriffen wurden.\n2) Vom Landesarchiv als nicht archivwürdig bezeichnete Daten und Unterlagen werden vernichtet."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "A. Datenverarbeitung",
+      "section": "28",
+      "title": "Art. 28 Statistik",
+      "content": "1) Das SIRENE-Büro erstellt die Statistiken nach Anhang 3 des SIRENE-Handbuchs.\n2) Das Ausländer- und Passamt erstellt die Statistiken zum Informationsaustausch nach Art. 13 der Verordnung (EU) 2018/1860 und Art. 31 der Verordnung (EU) 2018/1861 und übermittelt diese dem SIRENE-Büro.\n3) Die Datenschutzstelle erstellt die Statistiken nach Massgabe von Art. 54 Abs. 3 der Verordnung (EU) 2018/1861 und Art. 68 Abs. 3 der Verordnung (EU) 2018/1862. Die Landespolizei liefert der Datenschutzstelle die für die Erstellung der Statistiken benötigten Daten.\n4) Zuständig für die Übermittlung der Statistiken an die zuständigen EU-Stellen sind:\na) das SIRENE-Büro für die Statistiken nach Abs. 1 und 2;\nb) die Datenschutzstelle für die Statistiken nach Abs. 3.\nB. Rechte der Betroffenen"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "B. Rechte der Betroffenen",
+      "section": "29",
+      "title": "Art. 29 Grundsatz",
+      "content": "1) Die Rechte betroffener Personen auf Auskunft, Berichtigung und Löschung können unter Vorbehalt von Abs. 2 Bst. b bei der Landespolizei nach Massgabe von Art. 57 und 58 DSG geltend gemacht werden.\n2) Hat die Landespolizei die Ausschreibung nicht selbst vorgenommen, so gilt Folgendes:\na) Die Auskunft darf nur erteilt werden, wenn zuvor dem ausschreibenden Schengen-Staat Gelegenheit zur Stellungnahme gegeben wurde.\nb) Die betroffene Person ist zur Geltendmachung des Berichtigungs- oder Löschungsrechts an den ausschreibenden Schengen-Staat zu verweisen."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "B. Rechte der Betroffenen",
+      "section": "30",
+      "title": "Art. 30 Geltendmachung des Auskunfts-, Berichtigungs- oder Löschungsrechts",
+      "content": "1) Will eine Person ihr Auskunfts-, Berichtigungs- oder Löschungsrecht geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei der Landespolizei einzureichen. Wird das Gesuch nicht persönlich bei der Landespolizei gestellt, so haben Personen mit Wohnsitz im Ausland dem Gesuch eine öffentlich beglaubigte Kopie des Reisepasses beizulegen.\n2) Die Landespolizei entscheidet über das Gesuch nach Rücksprache mit der für die Ausschreibung zuständige Behörde. Über ein Gesuch im Zusammenhang mit eingehenden Ausschreibungen entscheidet die Landespolizei, nachdem sie dem ausschreibenden Schengen-Staat Gelegenheit zur Stellungnahme gegeben hat.\n3) Erhält das SIRENE-Büro von einem Schengen-Staat Gelegenheit zur Stellungnahme zu einem Auskunfts-, Berichtigungs- oder Löschungsbegehren, so verfasst es die Stellungnahme unter Einbezug der Behörden, welche um die Ausschreibung ersucht oder diese vorgenommen haben.\n4) Stellt eine Person ein Gesuch um Auskunft, so ist sie grundsätzlich innert 30 Tagen seit Eingang ihres Gesuchs zu informieren. Kann die Auskunft nicht innert dieser Frist erfolgen, so ist die Person darüber in Kenntnis zu setzen. Die Auskunft hat jedoch spätestens 60 Tage nach Stellung des Auskunftsgesuchs zu erfolgen.\n5) Stellt eine Person ein Gesuch um Berichtigung oder Löschung, so ist sie spätestens drei Monate nach Stellung ihres Gesuchs über die getroffenen Massnahmen zu informieren."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "B. Rechte der Betroffenen",
+      "section": "31",
+      "title": "Art. 31 Recht auf Information bei einer Ausschreibung zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung",
+      "content": "1) Drittstaatsangehörige, die Gegenstand einer Ausschreibung zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung sind, erhalten von Amtes wegen die in Art. 13 und 14 der Verordnung (EU) 2016/679 genannten Informationen.\n2) Das Ausländer- und Passamt übermittelt diese Informationen von Amtes wegen in Textform zusammen mit ihrer Entscheidung oder Verfügung nach Art. 13.\n3) Die Information nach Abs. 1 kann unterbleiben, wenn:\na) die personenbezogenen Daten nicht beim betroffenen Drittstaatsangehörigen erhoben wurden und die Information der betroffenen Person unmöglich ist oder unverhältnismässigen Aufwand erfordert;\nb) der betroffene Drittstaatsangehörige bereits über die Informationen verfügt; oder\nc) eine Einschränkung des Rechts auf Information nach Art. 23 der Verordnung (EU) 2016/679 vorgesehen ist.\nVII. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VII. Schlussbestimmungen",
+      "section": "32",
+      "title": "Art. 32 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 15. März 2011 über das Schengener Informationssystem (SIS) und das SIRENE-Büro (Nationale SIS-Verordnung; N-SIS-V), LGBl. 2011 Nr. 140, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VII. Schlussbestimmungen",
+      "section": "33",
+      "title": "Art. 33 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tag nach der Kundmachung in Kraft und findet erstmals im Zeitpunkt der Inbetriebnahme des Schengener Informationssystems nach Massgabe von Art. 79 Abs. 2 der Verordnung (EU) 2018/1862 Anwendung.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nAnhang\n(Art. 14 Abs. 3)\nZugriff der Landespolizei auf Daten aus den automatisierten Registern des Ausländer- und Passamtes\nDie Landespolizei kann zum Zwecke des Austauschs von Zusatzinformationen im Zusammenhang mit der Ausschreibung von Drittstaatsangehörigen sowie zum Vollzug des Ausländerrechts in einem Abrufverfahren auf folgende Datenfelder der automatisierten Register des Ausländer- und Passamtes zugreifen:\nName\nVorname\nGeburtsname\nGeburtsdatum\nStaatsangehörigkeit\nAdresse\nArbeitgeber\nAdministrativmassnahmen\nGesuchstyp\nGesuchsart/Tatbestand\nangesuchter Bewilligungstyp\nEntscheid-ID\nEntscheidungsart\nEntscheidungsträger\nVerfahrensgegenstand\nEntscheidungsdatum\nZustelldatum\nRechtsmittel ergriffen\nRechtsmittelfrist\nRechtskraft\nAusreisefrist\nEinreisesperre bis\nAusreise am\nAusreiseart\nErsatzmassnahme\nEinreisesperre aufgehoben am\n1\nVerordnung (EU) 2018/1860 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Nutzung des Schengener Informationssystems für die Rückkehr illegal aufhältiger Drittstaatsangehöriger (ABl. L 312 vom 7.12.2018, S. 1)\n2\nVerordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006 (ABl. L 312 vom 7.12.2018, S. 14)\n3\nVerordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission (ABl. L 312 vom 7.12.2018, S. 56)\n4\nArt. 2 Abs. 1 Bst. c abgeändert durch LGBl. 2025 Nr. 483 .\n5\nArt. 3 abgeändert durch LGBl. 2024 Nr. 472 .\n6\nArt. 27 abgeändert durch LGBl. 2025 Nr. 368 .\n7\nVerordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Drittstaat",
+      "definition": "jeder Staat, der nicht Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "terroristische Straftat",
+      "definition": "in Übereinstimmung mit Art. 3 Ziff. 16 der Verordnung (EU) 2018/1862 eine Straftat nach den §§ 246, 247a, 278b, 278d, 278e, 278f, 278g, 279 und 282a des Strafgesetzbuches;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "sonstige schwere Straftat",
+      "definition": "eine Straftat nach dem Anhang 1 des Polizeigesetzes;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schengener Informationssystem (SIS)",
+      "definition": "ein Informationssystem zur Personen- und Sachfahndung, bestehend aus:",
+      "source_provision": "art2"
+    }
+  ]
+}

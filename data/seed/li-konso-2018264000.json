@@ -1,0 +1,286 @@
+{
+  "id": "li-konso-2018264000",
+  "type": "statute",
+  "title": "Verordnung vom 27. November 2018 über die Führung und Verwaltung der Akten in der Liechtensteinischen Landesverwaltung (LLV-Aktenverwaltungsverordnung; LLV-AVV)",
+  "title_en": "",
+  "short_name": "LLV-AVV",
+  "status": "in_force",
+  "issued_date": "2018-11-27",
+  "in_force_date": "2018-11-27",
+  "url": "https://www.gesetze.li/konso/2018264000",
+  "description": "Verordnung vom 27. November 2018 über die Führung und Verwaltung der Akten in der Liechtensteinischen Landesverwaltung (LLV-Aktenverwaltungsverordnung; LLV-AVV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Geltungsbereich",
+      "content": "1) Diese Verordnung gilt für die fachgerechte Führung und Verwaltung der Akten (Aktenverwaltung) durch die Regierung und die Amtsstellen der Landesverwaltung, soweit nicht durch besondere Vorschriften abweichende Bestimmungen gelten.\n2) Sie gilt gleichermassen für die physische und die digitale Aktenverwaltung, soweit nicht ausdrücklich etwas anderes bestimmt ist.\n3) Für Kommissionen und Beiräte gelten die Bestimmungen dieser Verordnung sinngemäss."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Zweck der Aktenverwaltung",
+      "content": "1) Die Aktenverwaltung unterstützt die Geschäftsbearbeitung und sichert ein nachvollziehbares und transparentes Verwaltungshandeln.\n2) Sie:\na) ermöglicht eine Übersicht über die laufenden Geschäfte;\nb) dient der Koordination mit anderen Geschäften;\nc) zeigt den Stand eines einzelnen Geschäfts;\nd) ermöglicht, den übergeordneten Stellen Rechenschaft über die Geschäfte abzulegen;\ne) unterstützt die Auskunft und Einsicht betroffener Personen und von berechtigten Dritten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Aufzeichnungen\": jeder Inhalt, unabhängig von der Form des Datenträgers; dazu gehören auch Hilfsmittel wie Historisierungsdaten und Metadaten, die für das Verständnis und die Nutzung derselben notwendig sind;\nb) \"geschäftsrelevante Aufzeichnungen\": Aufzeichnungen, die für die Durchführung oder die Nachvollziehbarkeit des Verwaltungshandelns von Bedeutung sind. Dies ist insbesondere dann der Fall, wenn sie:\n1. eine Reaktion verlangen und damit eine Aktivität auslösen;\n2. Entscheide oder Abmachungen beinhalten; oder\n3. aus juristischer, administrativer, finanzieller oder organisatorischer Sicht benötigt werden;\nc) \"zuständige Person\": die für die Erledigung des Geschäfts verantwortliche Person;\nd) \"Geschäft\": das in einer Akte zusammengefasste Verwaltungshandeln;\ne) \"digitalisieren\": das digitale Erfassen bzw. Scannen von physischen Aufzeichnungen.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nII. Aktenverwaltung\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Allgemeines",
+      "section": "4",
+      "title": "Art. 4 Anforderungen an die Aktenverwaltung",
+      "content": "1) Die Aktenverwaltung erfüllt hinsichtlich Verfahren, Systemen und Prozessen die Anforderungen der Authentizität, Zuverlässigkeit, Integrität und Benutzbarkeit.\n2) Die bei der Aktenverwaltung anfallenden Aufzeichnungen müssen:\na) authentisch die Urheberschaft und den Zeitpunkt der Erstellung belegen (Authentizität);\nb) den Inhalt glaubwürdig, vollständig und genau wiedergeben (Zuverlässigkeit);\nc) langfristig unversehrt bleiben und gegen unbefugte Änderungen geschützt sein (Integrität);\nd) wieder aufgefunden, dargestellt und im Kontext verstanden werden können (Benutzbarkeit)."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Allgemeines",
+      "section": "5",
+      "title": "Art. 5 Grundsätze der Aktenverwaltung",
+      "content": "1) Die Aktenverwaltung erfolgt nach den Grundsätzen der Wirtschaftlichkeit, Nachvollziehbarkeit und Transparenz sowie dem Prinzip der Geschäftsrelevanz.\n2) Die Geschäfte werden schriftlich geführt und mit den dafür bestimmten Mitteln aufgezeichnet.\n3) Alle geschäftsrelevanten Aufzeichnungen müssen vollständig erfasst und registriert werden. Sie sind während ihrer Lebensdauer in ihrem Geschäftszusammenhang zu erhalten und aufzubewahren.\n4) Sofern die technischen und organisatorischen Voraussetzungen gegeben sind, erfolgt die Aktenverwaltung in digitaler Form.\n5) Geschäftsrelevante physische Aufzeichnungen sind nach Art. 7 zu digitalisieren, sofern dies nicht einen unverhältnismässigen technischen Aufwand bedingen würde."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Allgemeines",
+      "section": "6",
+      "title": "Art. 6 Autorisierte Ablagen",
+      "content": "1) Alle geschäftsrelevanten Aufzeichnungen sind zentral in einer autorisierten Ablage zu verwalten.\n2) Autorisierte Ablagen sind vorbehaltlich Abs. 3:\na) die zentrale digitale Aktenverwaltung (LiVE);\nb) die digitalen Daten in Datenbanken und Fachanwendungen;\nc) die zentrale Ablage der zusätzlich aufzubewahrenden physischen Aufzeichnungen zur digitalen Akte nach Art. 17 Abs. 4;\nd) die temporäre, zentrale Ablage der digitalisierten und zur Vernichtung vorgesehenen physischen Post (Tagesmappen) nach Art. 17 Abs. 3.\n3) Ist eine Digitalisierung nach Massgabe von Art. 5 Abs. 4 und 5 nicht möglich, sind die geschäftsrelevanten Aufzeichnungen in einer physischen Ablage aufzubewahren und zu verwalten."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Allgemeines",
+      "section": "7",
+      "title": "Art. 7 Digitalisierung",
+      "content": "1) Bei der Digitalisierung ist sicherzustellen, dass die digital erfassten Inhalte nachträglich nicht unerkannt verändert werden können.\n2) Physische Aufzeichnungen sind vorbehaltlich Abs. 3 nach der Digitalisierung zu vernichten oder zurückzugeben.\n3) Von einer Vernichtung physischer Aufzeichnungen ist abzusehen, wenn sie:\na) zur Qualitätssicherung des Digitalisierungsvorgangs aufzubewahren sind;\nb) aufgrund gesetzlicher Regelungen physisch aufzubewahren sind;\nc) für die Erledigung der Geschäfte noch benötigt werden;\nd) im Eigentum eines Dritten stehen;\ne) aufgrund ihrer historischen oder kulturellen Bedeutung aufbewahrt werden sollen.\nB. Akten"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Akten",
+      "section": "8",
+      "title": "Art. 8 Aktenbestandteile",
+      "content": "1) Eine Akte ist eine Zusammenfassung aller relevanten Aufzeichnungen zu einem Geschäft und zeigt den Geschäftsverlauf auf. Die Akte enthält zu jedem Zeitpunkt den vollständigen Stand der Bearbeitung.\n2) Eine Akte kann bei Bedarf in Unterakten (Teilakten) gegliedert werden, die Teilen oder Phasen eines Geschäfts entsprechen.\n3) Sofern ein Vorgang nur aus wenigen eingehenden und/oder ausgehenden Unterlagen besteht, können die einzelnen Aufzeichnungen zu einer Sammelakte zusammengefasst werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Akten",
+      "section": "9",
+      "title": "Art. 9 Ordnung der Aufzeichnungen in einer physischen Akte",
+      "content": "Innerhalb einer physischen Akte werden die einzelnen Aufzeichnungen in chronologischer Reihenfolge aneinandergereiht. Die jüngste Aufzeichnung liegt zuoberst."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Akten",
+      "section": "10",
+      "title": "Art. 10 Handakten",
+      "content": "1) Handakten sind Kopien aus einer Akte, die für den persönlichen Gebrauch geführt werden (Arbeitskopien).\n2) Handakten sind in jedem Fall sorgfältig von den eigentlichen Akten zu trennen. Werden aus Handakten geschäftsrelevante originale Aufzeichnungen, so sind diese der Akte beizufügen. Andernfalls sind sie zu vernichten, sobald sie nicht mehr benötigt werden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Akten",
+      "section": "11",
+      "title": "Art. 11 Vertrauliche Akten",
+      "content": "1) Bei vertraulichen Akten ist die Zugangsbeschränkung sicherzustellen.\n2) Besteht kein Grund mehr, Akten vertraulich zu behandeln, ist die Zugangsbeschränkung aufzuheben; physische Akten sind der Poststelle zur Ablage zu übergeben."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Akten",
+      "section": "12",
+      "title": "Art. 12 Aktensicherheit",
+      "content": "1) Für die Aufbewahrung der Akten und den Zugang zu den Akten sind angemessene technische und organisatorische Sicherheitsmassnahmen zu treffen.\n2) Physische Akten sind in abschliessbaren, trockenen und sauberen Räumen aufzubewahren."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Akten",
+      "section": "13",
+      "title": "Art. 13 Ausgabe und Rückgabe physischer Akten",
+      "content": "1) Akten dürfen nur zur Erledigung von dienstlichen Aufgaben ausgegeben werden. Die Poststelle merkt die Ausgabe vor.\n2) An Privatpersonen dürfen Akten nur ausnahmsweise ausgegeben werden, wenn dies zur Erledigung von staatlichen Aufträgen nötig ist.\n3) Die zuständige Person ist für eine Akte verantwortlich, bis sie diese an die Poststelle zurückgibt oder die Poststelle über die Weitergabe an eine andere Person informiert.\n4) Die Poststelle darf keine einzelnen Aufzeichnungen, sondern nur ganze Akten (bzw. Unterakten) ausgeben. Die zuständige Person darf keine Aufzeichnungen aus der Akte entfernen.\n5) Die Poststelle überwacht die vollständige Rückgabe der Akten. Sie fordert die zuständige Person mindestens einmal jährlich zur Rückgabe jener Akten auf, die seit mehr als einem halben Jahr ausgegeben sind. Akten dürfen über diesen Zeitraum hinaus nur zurückbehalten werden, wenn sie zur Erledigung eines Geschäfts noch benötigt werden. Die Poststelle ist darüber zu informieren. Sie merkt die Verlängerung vor.\n6) Wenn zur Erledigung eines Geschäfts eine Frist abgewartet werden muss, gibt die zuständige Person die Akte mit einem entsprechenden Vermerk an die Poststelle zurück. Diese merkt ablaufende Fristen vor und stellt die Akte der zuständigen Person zum gewünschten Zeitpunkt wieder zu.\nC. Aktenplan"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "C. Aktenplan",
+      "section": "14",
+      "title": "Art. 14 Grundsatz",
+      "content": "1) Der Aktenplan ist die massgebende Struktur für die Ablage aller geschäftsrelevanten Aufzeichnungen bzw. die Aktenbildung.\n2) Der Aktenplan bildet alle Aufgaben der Regierung und der Amtsstellen ab, die in ihren jeweiligen Zuständigkeitsbereich fallen.\n3) Der Aktenplan muss angemessen detailliert und ausbaufähig sein, sowie eine einheitliche Systematik aufweisen.\n4) Der Aktenplan wird vom Amt für Kultur erlassen. Ergänzungs- und Änderungswünsche zum Aktenplan sind dem Amt für Kultur mitzuteilen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Aktenplan",
+      "section": "15",
+      "title": "Art. 15 Aktenzeichen",
+      "content": "Das Aktenzeichen wird aus der Aktenplannummer und einer eindeutigen Identifikation der Akte gebildet.\nIII. Aktenbearbeitung\nA. Posteingang\n1. Allgemeines"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. Allgemeines",
+      "section": "16",
+      "title": "Art. 16 Grundsatz",
+      "content": "1) Aufzeichnungen können digital oder physisch eingehen.\n2) Die eingehende Post wird auf eigene Zuständigkeit überprüft. Ist diese nicht gegeben, wird sie unverzüglich an die zuständige Stelle bzw. zuständige Person weitergeleitet.\n3) Alle eingehenden Aufzeichnungen werden vorbehaltlich Art. 17 Abs. 2 Bst. a und Art. 18 Abs. 2 geöffnet und bei Geschäftsrelevanz registriert. Aufzeichnungen, die nicht geschäftsrelevant sind (Art. 20 Abs. 4), werden direkt an den Adressaten weitergeleitet.\n4) Bei allen eingehenden geschäftsrelevanten Aufzeichnungen wird sichergestellt, dass die Inhalte nicht nachträglich unerkannt verändert werden können.\n5) Mit einem Vertraulichkeitsvermerk gekennzeichnete Aufzeichnungen werden an den Adressaten weitergeleitet. Dieser ist dafür verantwortlich, dass solche Aufzeichnungen bei Geschäftsrelevanz registriert werden.\n6) Aufzeichnungen, bei denen Fristen einzuhalten sind oder deren Eingang aus rechtlichen oder verwaltungstechnischen Gründen festgehalten werden muss, müssen mit den entsprechenden Fristen registriert werden.\n7) Amtliche Post, die an die Privatadresse zugestellt wurde, ist umgehend registrieren zu lassen.\n2. Digitale Aktenverwaltung"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "2. Digitale Aktenverwaltung",
+      "section": "17",
+      "title": "Art. 17 Posteingang",
+      "content": "1) Die zuständige Person prüft die eingehende digitale Post auf Geschäftsrelevanz und registriert geschäftsrelevante Aufzeichnungen.\n2) Abs. 1 findet auf eingehende physische Post mit der Massgabe Anwendung, dass:\na) die eingehende Post von der Poststelle geöffnet wird; davon ausgenommen ist die mit einem Vertraulichkeitsvermerk versehene Post, bei welcher der ungeöffnete Briefumschlag in der Poststelle mit dem Eingangsdatum versehen wird;\nb) die geschäftsrelevante Post durch die Poststelle so rasch wie möglich digitalisiert und der zuständigen Person zur Registrierung zugewiesen wird, wobei die Vorgaben für den Vorgang der Digitalisierung einzuhalten sind.\n3) Die zur Vernichtung vorgesehene physische Post wird nach der Digitalisierung chronologisch und zentral abgelegt.\n4) Zusätzlich aufzubewahrende physische Aufzeichnungen zur digitalen Akte werden nach Aktenplan abgelegt; sie haben einen gegenseitigen Verweis zu enthalten.\n3. Physische Aktenverwaltung"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Physische Aktenverwaltung",
+      "section": "18",
+      "title": "Art. 18 Posteingang",
+      "content": "1) Die Poststelle öffnet vorbehaltlich Abs. 2 die eingehende Post. Die eingehenden Aufzeichnungen werden mit dem Eingangsstempel und dem Aktenzeichen versehen. Falls zum betreffenden Geschäft noch keine Akte besteht, wird umgehend eine Akte eröffnet, d.h. ein Aktenumschlag wird mit einem Aktenbetreff, dem Aktenzeichen und dem Eröffnungsjahr beschriftet. Die Poststelle hat die Post anschliessend unmittelbar an die zuständige Person weiterzuleiten.\n2) Bei Post, die mit einem Vertraulichkeitsvermerk versehen ist, wird der ungeöffnete Briefumschlag in der Poststelle mit dem Eingangsdatum versehen. Der Adressat hat darüber zu entscheiden, ob:\na) der Eingang bei der Poststelle zu registrieren ist; oder\nb) die Aufzeichnungen bis auf weiteres vertraulich zu behandeln sind."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Physische Aktenverwaltung",
+      "section": "19",
+      "title": "Art. 19 Überprüfung durch die zuständige Person",
+      "content": "1) Die zuständige Person prüft die Richtigkeit des Aktenzeichens und der Betreffangabe auf dem Aktenumschlag. Stellt sie fehlende Aktenzeichen fest, so ergänzt sie diese. Stellt sie falsche Aktenzeichen oder missverständliche Betreffangaben fest, setzt sie die Poststelle davon in Kenntnis.\n2) Müssen umfangreiche Akten nach sachlichen Gesichtspunkten in Teilakten unterteilt werden, erfolgt dies durch die zuständige Person. Sie beschriftet die Aktenumschläge der Unterakten mit Aktenbetreff, Aktenzeichen und Jahr. Die Poststelle überträgt diese zusätzlichen Angaben auf den Umschlag der Hauptakte.\nB. Registrierung"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "B. Registrierung",
+      "section": "20",
+      "title": "Art. 20 Grundsatz",
+      "content": "1) Das Registrieren von geschäftsrelevanten Aufzeichnungen umfasst:\na) deren Zuordnung zu einem Geschäft;\nb) deren Integration in den Aktenplan;\nc) das Versehen mit Metadaten.\n2) Welche Metadaten im Einzelfall festzuhalten sind, ergibt sich aus den Aufgaben der Aktenverwaltung und den Bedürfnissen einer Geschäftskontrolle.\n3) Es können folgende Metadaten erfasst werden:\na) Eingangsdatum;\nb) Aktenzeichen;\nc) Titel;\nd) Ausgangsdatum;\ne) Korrespondent (Absender; Empfänger);\nf) zuständige Person;\ng) Bezugsakten; Verweise;\nh) Standort, Aktenausgabe und Verbleib;\ni) Bearbeitungstermine;\nk) Erledigungstermin;\nl) Vertraulichkeit;\nm) Material;\nn) Format.\n4) Nicht registriert werden insbesondere:\na) Dokumentationsmaterial;\nb) Presseausschnitte;\nc) Bücher und Amtsdrucksachen;\nd) Rechnungen und Kassaanweisungen;\ne) Aufzeichnungen ohne Bedeutung wie Dankschreiben, Glückwünsche, Begleitzettel usw.;\nf) Werbematerial;\ng) Zeitschriften;\nh) Kataloge und ähnliche Drucksachen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "B. Registrierung",
+      "section": "21",
+      "title": "Art. 21 Registrieren von physischen Akten",
+      "content": "1) Auf dem Aktenumschlag müssen folgende Angaben erfasst werden:\na) Name der Amtsstelle;\nb) Aktentitel (Betreff, Traktandum);\nc) Aktenzeichen;\nd) Laufzeit (d.h. Jahr der ältesten und jüngsten Aufzeichnung, die den Vorgang betrifft).\n2) In den Registraturhilfsmitteln können zusätzlich zu den Angaben auf dem Aktenumschlag erfasst werden:\na) Aufbewahrungsfrist;\nb) Standort (Aktenausleihe);\nc) Termine;\nd) Personen- und Sachregister.\n3) Als Registraturhilfsmittel nach Abs. 2 gelten insbesondere Karteien, Register und Journale."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "B. Registrierung",
+      "section": "22",
+      "title": "Art. 22 Weitergehende Registrierpflichten",
+      "content": "Eine über die Anforderungen nach Art. 20 und 21 hinausgehende Registrierpflicht besteht, wenn:\na) Fristen überwacht werden müssen (Bearbeitungs- und Wiedervorlagetermine);\nb) die Erledigung kontrolliert werden muss (Erledigungstermine);\nc) die Vollständigkeit der physischen Akten nachprüfbar sein muss, um bei einem Verwaltungsverfahren die tatsächlichen oder rechtlichen Verhältnisse abklären zu können. In diesen Fällen besteht eine Pflicht zur Durchnummerierung der einzelnen Aufzeichnungen;\nd) die vorgesetzte Stelle dies zum Zweck der Geschäftskontrolle anordnet.\nC. Postausgang"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "C. Postausgang",
+      "section": "23",
+      "title": "Art. 23 Grundsatz",
+      "content": "1) Die ausgehenden Aufzeichnungen werden mit dem Aktenzeichen, einer Betreffangabe und im Falle von Ausfertigungen mit einer Amtssignatur oder einem Amtssiegel versehen.\n2) Ist eine Digitalisierung nach Massgabe von Art. 5 Abs. 4 und 5 nicht möglich, kann eine handschriftliche Unterzeichnung erfolgen. Eine Kopie wird der Akte beigefügt.\n3) Ausgehende Aufzeichnungen können digital oder physisch versandt werden. Physische Ausdrucke von amtssignierten oder amtsversiegelten Aufzeichnungen dürfen nicht zusätzlich von Hand unterschrieben werden.\nD. Abschluss der Akten"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "D. Abschluss der Akten",
+      "section": "24",
+      "title": "Art. 24 Abschluss",
+      "content": "1) Sobald alle Aufträge und Pendenzen zu einem Geschäft durchgeführt bzw. erledigt sind, schliesst die zuständige Person die Akte ab.\n2) Im Zuge des Abschlusses prüft die zuständige Person die Akte auf Vollständigkeit und entfernt redundante sowie nicht geschäftsrelevante Aufzeichnungen.\n3) Eine abgeschlossene Akte kann in begründeten Fällen wieder eröffnet werden; die Frist für die Wiedereröffnung wird mit Reglement festgelegt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "D. Abschluss der Akten",
+      "section": "25",
+      "title": "Art. 25 Rückgabe physischer Akten",
+      "content": "1) Wenn ein Geschäft erledigt ist, gibt die zuständige Person die Akte vollständig und geordnet mit dem Vermerk \"A\" (Ablage) an die Poststelle zurück.\n2) Die Poststelle trägt auf dem Aktenumschlag und den Registraturhilfsmitteln das Jahr der Erledigung ein.\nIV. Aussonderung und Altablage"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "IV. Aussonderung und Altablage",
+      "section": "26",
+      "title": "Art. 26 Aktenaussonderung",
+      "content": "1) Als Aktenaussonderung gilt das Aussortieren und Entfernen von abschliessend bearbeiteten Akten aus einer Ablage mit dem Ziel:\na) des Vernichtens von Akten, deren Aufbewahrungsfrist abgelaufen ist und die als nicht archivwürdig bewertet wurden;\nb) des Ablieferns von Akten an das Landesarchiv;\nc) des weiteren Aufbewahrens von Akten in einer anderen Umgebung.\n2) Die Aussonderung erfolgt nach Ablauf der Aufbewahrungsfrist nach Art. 28."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "IV. Aussonderung und Altablage",
+      "section": "27",
+      "title": "Art. 27 Altablage physischer Akten",
+      "content": "1) Das weitere Aufbewahren der physischen Akten in einer anderen Umgebung im Sinne von Art. 26 Abs. 1 Bst. c erfolgt in der Altablage.\n2) Art. 12 findet sinngemäss Anwendung.\nV. Aufbewahrungsfristen, Aktenvernichtung und Anbietungspflicht"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "V. Aufbewahrungsfristen, Aktenvernichtung und Anbietungspflicht",
+      "section": "28",
+      "title": "Art. 28 Aufbewahrungsfristen",
+      "content": "1) Aufbewahrungsfristen bezeichnen den Zeitraum, in dem Akten nach ihrem Abschluss aus rechtlichen oder administrativen Gründen aufzubewahren sind.\n2) Die Aufbewahrungsfristen sind nach den Grundsätzen des Art. 5 Abs. 1 festzulegen; vorbehalten bleiben spezialgesetzliche Regelungen. Sie werden in Abstimmung mit dem Amt für Kultur festgelegt und im Aktenplan bei den einzelnen Aktenplanpositionen vermerkt.\n3) Für die Aussonderung nach Art. 26 können in Absprache mit dem Amt für Kultur abweichende Aufbewahrungsfristen festgelegt werden.\n4) Die Aufbewahrungsfrist beginnt mit dem Abschluss einer Akte und endet mit Ablauf des Kalenderjahres, in welchem die Aufbewahrungsfrist endet."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "V. Aufbewahrungsfristen, Aktenvernichtung und Anbietungspflicht",
+      "section": "29",
+      "title": "Art. 29 Vernichtung von Aufzeichnungen",
+      "content": "1) Die Vernichtung von Aufzeichnungen richtet sich nach Art. 4 Abs. 2 des Archivgesetzes.\n2) Bei der Vernichtung von Aufzeichnungen ist sicherzustellen, dass das Amtsgeheimnis gewahrt und jeder Missbrauch ausgeschlossen wird."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "V. Aufbewahrungsfristen, Aktenvernichtung und Anbietungspflicht",
+      "section": "30",
+      "title": "Art. 30 Anbietung von Aufzeichnungen",
+      "content": "1) Die Regierung und die Amtsstellen haben mindestens alle fünf Jahre ihre Ablagen darauf zu überprüfen, ob Aufzeichnungen dem Landesarchiv anzubieten sind.\n2) Staatsverträge und Notenwechsel mit Vertragscharakter sind unmittelbar nach der Unterzeichnung im Original an das Landesarchiv abzuliefern.\n3) Im Übrigen richten sich die Anbietung und Ablieferung von Aufzeichnungen an das Landesarchiv nach der Archivgesetzgebung.\nVI. Zuständigkeiten"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "VI. Zuständigkeiten",
+      "section": "31",
+      "title": "Art. 31 Regierung und Amtsstellen",
+      "content": "1) Die Regierung und die einzelnen Amtsstellen haben im Rahmen ihrer Zuständigkeit festzulegen:\na) eine Poststelle sowie die interne Organisation und die Zuständigkeiten;\nb) die zuständigen Personen gemäss Geschäftsverteilung;\nc) die Zuteilungsregelungen;\nd) die Zugriffsrechte auf die Akten;\ne) den Vorgang der Digitalisierung in Übereinstimmung mit Art. 24 Abs. 3 des E-Government-Gesetzes und die laufende Überprüfung der Einhaltung dieser Bestimmung;\nf) welche Aufzeichnungen nach der Digitalisierung nicht vernichtet werden dürfen;\ng) die Aufbewahrungsfristen nach Art. 28; vorbehalten bleiben spezialgesetzliche Regelungen;\nh) die autorisierten Ablagen nach Art. 6 sowie die Altablage;\ni) die Zuständigkeit für die Vernichtung der temporären, zentralen Ablage nach Art. 6 Abs. 2 Bst. d;\nk) weitere für die Aktenverwaltung massgebliche Vorgaben.\n2) Die Regierung und die Amtsstellen können die Aufgaben ihrer Poststellen ganz oder teilweise zusammenlegen.\n3) Den Vorgesetzten obliegt die Überwachung der Einhaltung der Bestimmungen über die ordnungsgemässe Führung und Verwaltung der Akten durch die zuständigen Personen.\n4) Die Regierung und die Amtsstellen können für einzelne Abläufe von dieser Verordnung abweichende Bestimmungen treffen, wenn dies zu zweckmässigeren oder wirtschaftlicheren Ergebnissen führt. Diese müssen schriftlich festgehalten werden."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VI. Zuständigkeiten",
+      "section": "32",
+      "title": "Art. 32 Poststelle",
+      "content": "1) Die Poststelle wird für jede Amtsstelle zentral eingerichtet; ausgenommen sind Amtsstellen mit verschiedenen Standorten und die Fälle nach Art. 31 Abs. 2. Sie nimmt die Aufgaben der Registraturen nach Art. 9 des Archivgesetzes wahr.\n2) Poststelle der Regierung ist die Regierungskanzlei nach Massgabe von Art. 29 Bst. b des Gesetzes über die Regierungs- und Verwaltungsorganisation.\n3) Der Poststelle obliegen:\na) die Digitalisierung und Verteilung der physischen Post gemäss den Zuteilungsregelungen;\nb) die Verteilung der nicht an die zuständigen Personen adressierten digitalen Post an die zuständigen Personen;\nc) die Führung der physischen Akten;\nd) die Herausgabe von physischen Akten;\ne) die Betreuung der Akten in der Altablage."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VI. Zuständigkeiten",
+      "section": "33",
+      "title": "Art. 33 Amt für Kultur",
+      "content": "Dem Amt für Kultur obliegen:\na) die Beratung der Regierung und der Amtsstellen in allen Fragen der digitalen Aktenverwaltung sowie der Sicherung und Aufbereitung von Akten zur Archivierung;\nb) der Erlass eines Aktenplanes.\nVII. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VII. Schlussbestimmungen",
+      "section": "34",
+      "title": "Art. 34 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 10. Januar 1995 betreffend die Registraturen in der Liechtensteinischen Landesverwaltung, LGBl. 1995 Nr. 117, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VII. Schlussbestimmungen",
+      "section": "35",
+      "title": "Art. 35 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2019 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nIngress abgeändert durch LGBl. 2021 Nr. 62 .\n2\nArt. 16 Abs. 3 abgeändert durch LGBl. 2021 Nr. 62 .\n3\nArt. 16 Abs. 5 abgeändert durch LGBl. 2021 Nr. 62 .\n4\nArt. 17 Abs. 1 abgeändert durch LGBl. 2021 Nr. 62 .\n5\nArt. 17 Abs. 2 Bst. a abgeändert durch LGBl. 2021 Nr. 62 .\n6\nArt. 18 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2021 Nr. 62 .\n7\nArt. 20 Abs. 3 Bst. d abgeändert durch LGBl. 2021 Nr. 62 .\n8\nArt. 20 Abs. 4 Einleitungssatz abgeändert durch LGBl. 2021 Nr. 62 .\n9\nArt. 26 Abs. 1 Bst. b abgeändert durch LGBl. 2025 Nr. 368 .\n10\nArt. 28 Abs. 1 abgeändert durch LGBl. 2021 Nr. 62 .\n11\nArt. 29 Abs. 1 abgeändert durch LGBl. 2025 Nr. 369 .\n12\nArt. 30 Abs. 1 abgeändert durch LGBl. 2025 Nr. 368 .\n13\nArt. 30 Abs. 2 abgeändert durch LGBl. 2025 Nr. 368 .\n14\nArt. 30 Abs. 3 abgeändert durch LGBl. 2025 Nr. 369 .\n15\nArt. 31 Abs. 2 abgeändert durch LGBl. 2021 Nr. 62 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Aufzeichnungen",
+      "definition": "jeder Inhalt, unabhängig von der Form des Datenträgers; dazu gehören auch Hilfsmittel wie Historisierungsdaten und Metadaten, die für das Verständnis und die Nutzung derselben notwendig sind;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "geschäftsrelevante Aufzeichnungen",
+      "definition": "Aufzeichnungen, die für die Durchführung oder die Nachvollziehbarkeit des Verwaltungshandelns von Bedeutung sind. Dies ist insbesondere dann der Fall, wenn sie:",
+      "source_provision": "art3"
+    },
+    {
+      "term": "zuständige Person",
+      "definition": "die für die Erledigung des Geschäfts verantwortliche Person;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geschäft",
+      "definition": "das in einer Akte zusammengefasste Verwaltungshandeln;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "digitalisieren",
+      "definition": "das digitale Erfassen bzw. Scannen von physischen Aufzeichnungen.",
+      "source_provision": "art3"
+    }
+  ]
+}

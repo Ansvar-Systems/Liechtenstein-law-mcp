@@ -1,0 +1,51 @@
+{
+  "id": "li-konso-1977007000",
+  "type": "statute",
+  "title": "Gesetz vom 25. November 1976 über die Versorgung des Landes mit elektrischer Energie im Falle der Knappheit",
+  "title_en": "",
+  "short_name": "LGBl 1977.007",
+  "status": "in_force",
+  "issued_date": "1976-11-25",
+  "in_force_date": "1976-11-25",
+  "url": "https://www.gesetze.li/konso/1977007000",
+  "description": "Gesetz vom 25. November 1976 über die Versorgung des Landes mit elektrischer Energie im Falle der Knappheit",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Ermächtigung",
+      "content": "Im Falle von Knappheit kann die Regierung mit Verordnung vorübergehend Vorschriften erlassen, um den Verbrauch elektrischer Energie der verfügbaren Menge anzupassen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Verbrauchseinschränkung",
+      "content": "Bei Verbrauchseinschränkungen ist die elektrische Energie unter Wahrung des Gesamtinteresses und in angemessener Abwägung der Einzelbedürfnisse zu verteilen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Strafbestimmungen",
+      "content": "1) Wer vorsätzlich oder fahrlässig einer Vorschrift der Regierung oder einer unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt, wird vom Landgericht wegen wegen Vergehens mit einer Freiheitsstrafe bis zu drei Monaten oder einer Geldstrafe bis zu 180 Tagessätzen bestraft.\n2) Werden die Widerhandlungen im Geschäftsbetrieb einer juristischen Person oder einer Kollektiv- oder Kommanditgesellschaft oder einer Einzelfirma begangen, finden die Strafbestimmungen auf die Personen Anwendung, die für sie gehandelt haben oder hätten handeln sollen, jedoch unter solidarischer Mithaftung der juristischen Person, der Gesellschaft oder der Einzelfirma für die Geldstrafen und Kosten."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Administrative Massnahmen",
+      "content": "Unabhängig vom Strafverfahren kann der Zuwiderhandelnde ganz oder teilweise von der Belieferung mit elektrischer Energie ausgeschlossen werden."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Vollzug",
+      "content": "1) Die Regierung kann die Liechtensteinischen Kraftwerke mit dem Vollzug der von ihr erlassenen Vorschriften beauftragen.\n2) Die Wirtschaftsverbände sind zur Mitarbeit heranzuziehen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6 Schlussbestimmung",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Franz Josef\ngez. Dr. Walter Kieber\nFürstlicher Regierungschef\n1\nArt. 3 abgeändert durch LGBl. 1988 Nr. 38 ."
+    }
+  ],
+  "definitions": []
+}

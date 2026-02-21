@@ -1,0 +1,407 @@
+{
+  "id": "li-konso-1986027000",
+  "type": "statute",
+  "title": "Heimatschriftengesetz (HSchG) vom 18. Dezember 1985",
+  "title_en": "",
+  "short_name": "LGBl 1986.027",
+  "status": "in_force",
+  "issued_date": "1985-12-18",
+  "in_force_date": "1985-12-18",
+  "url": "https://www.gesetze.li/konso/1986027000",
+  "description": "Heimatschriftengesetz (HSchG) vom 18. Dezember 1985",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "A. Allgemeines",
+      "section": "1",
+      "title": "Art. 1 Grundsatz",
+      "content": "Heimatschriften im Sinne dieses Gesetzes sind öffentliche Urkunden, welche die Inhaber unter Vorbehalt von Art. 31 über den Besitz des liechtensteinischen Landesbürgerrechtes bzw. des Gemeindebürgerrechtes ausweisen."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "A. Allgemeines",
+      "section": "1a",
+      "title": "Art. 1a Gleichstellung von Mann und Frau",
+      "content": "Soweit in diesem Gesetz nicht anderes bestimmt ist, sind unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen Angehörige des weiblichen und männlichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "A. Allgemeines",
+      "section": "2",
+      "title": "Art. 2 Arten",
+      "content": "Heimatschriften sind: a) Heimatschein;\nb) Reisepass;\nc) Identitätskarte;\nd) Diplomaten- und Dienstpass;\ne) besondere Ausweise."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Allgemeines",
+      "section": "3",
+      "title": "Art. 3 Grundlage für die Eintragungen",
+      "content": "1) Grundlage für die Angaben in den Heimatschriften sind die Register des Liechtensteinischen Zivilstandsamtes. Die Angaben in den liechtensteinischen Heimatschriften müssen mit den Eintragungen in den liechtensteinischen Zivilstandsregistern übereinstimmen.\n2) Eintragungen wie Titel, Beruf und Zivilstand sind nicht zulässig.\nB. Heimatschein"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "B. Heimatschein",
+      "section": "4",
+      "title": "Art. 4 Zweck",
+      "content": "1) Der Heimatschein ist der Bürgerrechtsausweis des liechtensteinischen Landesbürgers zum Nachweis der liechtensteinischen Staatsbürgerschaft gegenüber ausländischen Behörden. Die Gemeinden können liechtensteinischen Landesbürgern, die Bürger anderer Gemeinden sind, die Hinterlegung eines Heimatscheines vorschreiben.\n2) Im Heimatschein wird sowohl der Besitz des Gemeindebürgerrechtes als auch des Landesbürgerrechtes bestätigt.\n3) Mit dem Heimatschein wird dem Inhaber bestätigt, dass er jederzeit nach Liechtenstein zurückkehren kann und im Lande Aufnahme findet."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. Heimatschein",
+      "section": "5",
+      "title": "Art. 5 Anspruch",
+      "content": "1) Jeder liechtensteinische Landesbürger hat Anspruch auf einen Heimatschein.\n2) Aufgehoben\n3) Minderjährige Landesbürger, die nicht bei ihren Eltern leben oder deren Eltern Ausländer sind, und Personen, die nicht handlungsfähig sind, können mit Zustimmung des gesetzlichen Vertreters einen Heimatschein beanspruchen.\n4) Niemand darf zu gleicher Zeit mehr als einen Heimatschein besitzen.\n5) Aufgehoben"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Heimatschein",
+      "section": "6",
+      "title": "Art. 6 Ausstellung",
+      "content": "1) Der Heimatschein ist beim Zivilstandsamt anzufordern.\n2) Der Heimatschein wird vom Registerführer des Zivilstandsamtes nach den Eintragungen im Zivilstandsregister ausgestellt.\n3) Der Heimatschein wird vom Registerführer des Zivilstandsamtes unterzeichnet. Mit der Unterschrift bestätigt der Registerführer den Besitz des Gemeindebürgerrechtes und des Landesbürgerrechtes. Gleichzeitig beglaubigt der Registerführer die Angaben im Heimatschein."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Heimatschein",
+      "section": "7",
+      "title": "Art. 7 Formular",
+      "content": "1) Der Heimatschein wird auf einem einheitlichen amtlichen Formular ausgestellt.\n2) Das Formular wird von der Regierung festgelegt.\n3) Der Heimatschein hat folgende Angaben zu enthalten: a) Familienname;\nb) Vorname;\nc) Geburtsdatum;\nd) Heimatgemeinde;\ne) Namen, Ledigennamen und Vornamen der Eltern."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Heimatschein",
+      "section": "8",
+      "title": "Art. 8 Änderungen",
+      "content": "Treten beim Inhaber eines Heimatscheines Änderungen im Zivilstand, Namen oder Gemeindebürgerrecht ein, sorgt das Zivilstandsamt für die Ausstellung eines neuen Heimatscheines."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Heimatschein",
+      "section": "9",
+      "title": "Art. 9 Gültigkeitsdauer",
+      "content": "1) Die Gültigkeit eines Heimatscheines erlischt: a) bei Verlust;\nb) bei Änderung des Zivilstandes, des Namens oder des Gemeindebürgerrechtes und wenn der Aufforderung zur Vorlage des Heimatscheines zwecks Ausstellung eines neuen binnen Jahresfrist keine Folge geleistet wird;\nc) bei Verlust des Landes- und Gemeindebürgerrechtes;\nd) 30 Jahre nach der Ausstellung.\n2) Bei Verlust ist der Heimatschein vom Zivilstandsamt als ungültig zu erklären. Die Ungültigkeitserklärung ist in den Heimatscheinregistern anzumerken.\n3) Ungültig gewordene Heimatscheine sind vom Zivilstandsamt zurückzufordern. Zurückgegebene, ungültige Heimatscheine sind als solche zu kennzeichnen und im Archiv des Zivilstandsamtes aufzubewahren."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Heimatschein",
+      "section": "10",
+      "title": "Art. 10 Verlust des Anspruchs",
+      "content": "Ein liechtensteinischer Landesbürger hat keinen Anspruch auf einen Heimatschein, a) solange er einen gültigen Heimatschein besitzt;\nb) wenn der Heimatschein ungültig geworden ist und die Voraussetzungen für die Ausstellung eines neuen Heimatscheines noch nicht erfüllt sind;\nc) wenn der Besitz des Landes- und Gemeindebürgerrechtes überprüft werden muss bis zum Abschluss des Verfahrens;\nd) wenn der Heimatschein entzogen wurde."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Heimatschein",
+      "section": "11",
+      "title": "Art. 11 Entzug",
+      "content": "1) Bei missbräuchlicher Verwendung kann der Heimatschein auf eine Dauer von höchstens 5 Jahren entzogen werden.\n2) Wird der Heimatschein mehrmals missbräuchlich verwendet und werden dadurch Interessen und Ansehen des Landes schwerwiegend beeinträchtigt, kann der Heimatschein auf Dauer entzogen werden."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Heimatschein",
+      "section": "12",
+      "title": "Art. 12 Heimatscheinregister",
+      "content": "1) Heimatscheine sind vom Zivilstandsamt fortlaufend zu nummerieren und in das Heimatscheinregister einzutragen.\n2) Das Zivilstandsamt führt ein Verzeichnis über die von ihm ausgestellten Heimatscheine."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Heimatschein",
+      "section": "13",
+      "title": "Art. 13 Ausfolgung, Zustellung",
+      "content": "1) Heimatscheine können an den Inhaber unabhängig vom Wohnort ausgefolgt werden, wenn sie von ihm persönlich entgegengenommen werden.\n2) Im Fürstentum Liechtenstein und in der Schweizerischen Eidgenossenschaft können Heimatscheine durch einen Zustelldienst zugestellt werden.\n3) Heimatscheine ins übrige Ausland sind auf dem diplomatischen Weg zuzustellen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "B. Heimatschein",
+      "section": "14",
+      "title": "Art. 14 Mitglieder des Fürstenhauses",
+      "content": "Auf Mitglieder des Fürstenhauses, welche gemäss Gesetz vom 1. September 1919, LGBl. 1919 Nr. 10, die liechtensteinische Staatsbürgerschaft besitzen, finden die Bestimmungen dieses Gesetzes über den Heimatschein in bezug auf das Gemeindebürgerrecht, die Ausstellung und die Formulare keine Anwendung. Die Heimatscheine für die Mitglieder des Fürstenhauses werden auf besonderem Formular ausgestellt und von der Regierung unterzeichnet.\nC. Reisepass"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Reisepass",
+      "section": "15",
+      "title": "Art. 15 Zweck",
+      "content": "1) Der Reisepass ist der ordentliche Staatsangehörigkeits- und Identitätsausweis des liechtensteinischen Landesbürgers.\n2) Der Reisepass darf im In- und Ausland als Identitätsausweis verwendet werden, sofern nicht andere Ausweise vorgeschrieben sind.\n3) Der Reisepass ist gültig für alle Staaten, sofern nicht eine Beschränkung eingetragen ist.\nInhalt des Reisepasses\nArt. 16 a) Grundsatz\n1) Der Reisepass enthält folgende Daten: a) Name;\nb) Vornamen;\nc) Geschlecht;\nd) Geburtsdatum;\ne) Staatsangehörigkeit;\nf) Geburtsort;\ng) Unterschrift;\nh) Fotografie;\ni) ausstellende Behörde;\nk) Datum der Ausstellung;\nl) Datum des Ablaufs der Gültigkeit;\nm) Passnummer und Passart.\n2) Die Daten nach Abs. 1 Bst. a bis e und i bis m sind auch in maschinenlesbarer Form im Reisepass enthalten.\n3) Der Reisepass kann Beschränkungen des Geltungsbereiches enthalten.\n4) Auf Gesuch des Antragstellers kann der Reisepass Angaben über besondere Kennzeichen enthalten. Die entsprechenden Tatsachen sind nachzuweisen.\n5) Die Regierung kann mit Verordnung für bestimmte Personen aufgrund des Alters oder körperlicher oder geistiger Gegebenheiten Ausnahmen von den Bestimmungen nach Abs. 1 Bst. g vorsehen."
+    },
+    {
+      "provision_ref": "art16a",
+      "chapter": "C. Reisepass",
+      "section": "16a",
+      "title": "Art. 16a b) Datenchip",
+      "content": "1) Der Reisepass wird mit einem elektronischen Datenträger (Datenchip) versehen, auf dem folgende Daten gespeichert werden: a) ein Gesichtsbild und die Fingerabdrücke des Inhabers; und\nb) die Daten nach Art. 16 Abs. 1 Bst. a bis e, l und m.\n2) Die Fingerabdrücke werden nicht gespeichert: a) bei Minderjährigen, die das 12. Lebensjahr noch nicht vollendet haben; und\nb) bei Personen, bei denen die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht vorübergehender Art sind, unmöglich ist.\n3) Der Datenchip ist gegen Fälschungen und unberechtigtes Lesen zu schützen. Die Regierung bestimmt die entsprechenden technischen Anforderungen mit Verordnung.\n4) Die Regierung ist befugt, mit anderen Staaten Verträge über das Lesen der auf dem Datenchip gespeicherten Daten abzuschliessen, wenn diese für einen angemessenen Datenschutz Gewähr bieten."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "C. Reisepass",
+      "section": "17",
+      "title": "Art. 17 Anspruch",
+      "content": "1) Jeder liechtensteinische Landesbürger hat unter Vorbehalt von Abs. 2 Anspruch auf Ausstellung eines Reisepasses, sofern kein Verweigerungsgrund vorliegt.\n2) Minderjährigen und Personen, denen ein Sachwalter bestellt wurde, dessen Wirkungskreis sich auf die Besorgung solcher Angelegenheiten erstreckt, darf ein Reisepass nur ausgestellt werden, wenn der gesetzliche Vertreter den Antrag stellt oder dem Antrag schriftlich zustimmt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "C. Reisepass",
+      "section": "18",
+      "title": "Art. 18 Kindereintrag",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "C. Reisepass",
+      "section": "19",
+      "title": "Art. 19 Gültigkeitsdauer",
+      "content": "1) Der Reisepass wird vorbehaltlich Art. 20 ausgestellt für eine Dauer von: a) zehn Jahren für Personen, die im Zeitpunkt der Antragstellung das 12. Lebensjahr vollendet haben;\nb) fünf Jahren für Personen, die im Zeitpunkt der Antragstellung das 12. Lebensjahr noch nicht vollendet haben.\n2) Die Gültigkeitsdauer des Reisepasses kann nicht verlängert werden."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "C. Reisepass",
+      "section": "20",
+      "title": "Art. 20 Beschränkung der zeitlichen und räumlichen Gültigkeit",
+      "content": "1) Liegt ein Hinderungsgrund zur Ausstellung eines Reisepasses vor oder musste der Reisepass entzogen oder eingezogen werden, so kann ein kurzfristiger Reisepass zur Rückreise nach Liechtenstein oder mit räumlich beschränktem, in der Regel nur bestimmte Staaten umfassendem Gültigkeitsbereich, ausgestellt werden.\n2) Ein kurzfristiger Reisepass kann auch ausgestellt werden, wenn vorerst ein Feststellungsbescheid über den Besitz des liechtensteinischen Landesbürgerrechtes getroffen werden muss und das Verfahren nicht innert nützlicher Frist abgeschlossen werden kann.\n2a) Auf kurzfristige Reisepässe findet Art. 16a Abs. 1 Bst. a und Abs. 2 keine Anwendung.\n3) Kurzfristige Reisepässe verlieren ihre Gültigkeit nach Ablauf der festgelegten Frist. Die Frist darf sechs Monate nicht übersteigen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "C. Reisepass",
+      "section": "21",
+      "title": "Art. 21 Ausserordentliche Eintragungen",
+      "content": "Mit Zustimmung der Regierung können im Reisepass von den allgemeinen Vorschriften dieses Gesetzes abweichende Angaben vorgenommen werden, wenn andernfalls durch Vorschriften des Gastlandes unzumutbare Härten entstehen würden."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "C. Reisepass",
+      "section": "22",
+      "title": "Art. 22 Rückgabe abgelaufener oder alter Reisepässe",
+      "content": "1) Wird ein Antrag auf Ausstellung eines neuen Reisepasses gestellt, ist der bisherige Reisepass beim Ausländer- und Passamt abzugeben. Dieses macht ihn unbrauchbar, bevor der Antrag bearbeitet wird.\n2) Die Regierung kann mit Verordnung vorschreiben, dass in bestimmten Fällen die Rückgabe und Unbrauchbarmachung des bisherigen Reisepasses im Sinne von Abs. 1 ausnahmsweise erst bei der Aushändigung des neuen Reisepasses erfolgen muss.\n3) Wenn es der Inhaber wünscht und kein Missbrauch zu befürchten ist, kann ein unbrauchbar gemachter Reisepass zurückgegeben werden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "C. Reisepass",
+      "section": "23",
+      "title": "Art. 23 Verweigerung der Ausstellung des Reisepasses",
+      "content": "Die Ausstellung eines Reisepasses kann verweigert werden: a) Minderjährigen oder Personen, denen ein Sachwalter bestellt wurde, dessen Wirkungskreis sich auf die Besorgung solcher Angelegenheiten erstreckt, sofern sie die Zustimmung des gesetzlichen Vertreters nicht beibringen können;\na) Personen, die ihre Identität nicht zweifelsfrei nachzuweisen vermögen oder die erforderliche Mitwirkung verweigern;\nb) Personen, die einen Reisepass besitzen, solange sie diesen nicht zur Unbrauchbarmachung abgeben oder solange dieser nicht ungültig erklärt ist; vorbehalten bleibt Art. 25a;\nc) Personen, gegen die bei einem liechtensteinischen Gericht ein Strafverfahren wegen eines Verbrechens anhängig ist; oder\nd) Personen, die von einem liechtensteinischen Gericht wegen eines Verbrechens verurteilt worden sind, soweit die Strafe oder Massnahme noch nicht verbüsst oder verjährt ist."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "C. Reisepass",
+      "section": "24",
+      "title": "Art. 24 Entzug und Ungültigerklärung des Reisepasses",
+      "content": "1) Ein gültiger Reisepass kann dem Inhaber entzogen werden, wenn: a) er minderjährig ist oder ihm ein Sachwalter bestellt wurde, dessen Wirkungskreis sich auf die Besorgung solcher Angelegenheiten erstreckt, und der gesetzliche Vertreter die frühere Zustimmung widerruft;\nb) gegen ihn bei einem liechtensteinischen Gericht ein Strafverfahren wegen eines Verbrechens anhängig ist; oder\nc) er von einem liechtensteinischen Gericht wegen eines Verbrechens verurteilt worden ist, soweit die Strafe oder Massnahme noch nicht verbüsst oder verjährt ist.\n2) Ein gültiger Reisepass kann unter den Voraussetzungen nach Abs. 1 für ungültig erklärt werden, wenn der Entzug nicht oder nur mit unverhältnismässigem Aufwand möglich ist.\n3) Ein Reisepass wird für ungültig erklärt, wenn aufgrund einer Namensänderung eine neue Identitätskarte ausgestellt wird."
+    },
+    {
+      "provision_ref": "art24a",
+      "chapter": "C. Reisepass",
+      "section": "24a",
+      "title": "Art. 24a Ungültigkeit des Reisepasses bei Tod",
+      "content": "Ein Reisepass wird ungültig, wenn der Inhaber verstorben ist."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "C. Reisepass",
+      "section": "25",
+      "title": "Art. 25 Einzug des Reisepasses",
+      "content": "Der Reisepass muss eingezogen werden, wenn a) der Inhaber nicht oder nicht mehr liechtensteinischer Landesbürger ist;\nb) der Inhaber einen weiteren gültigen liechtensteinischen Reisepass besitzt;\nc) der Reisepass unter falschen Angaben erschlichen worden ist;\nd) der Reisepass unrechtmässig abgeändert worden ist;\ne) der Reisepass nichtamtliche Angaben enthält;\nf) der Reisepass so beschädigt ist, dass er für die weitere Verwendung untauglich ist;\ng) der Reisepass missbräuchlich verwendet wurde;\nh) Tatsachen die Annahme rechtfertigen, dass durch den Aufenthalt des Passinhabers im Ausland Interessen und Ansehen des Landes schwerwiegend beeinträchtigt oder die innere oder äussere Sicherheit des Landes gefährdet würde."
+    },
+    {
+      "provision_ref": "art25a",
+      "chapter": "C. Reisepass",
+      "section": "25a",
+      "title": "Art. 25a Austauschpass",
+      "content": "1) Zu einem bestehenden Reisepass kann ein Austauschpass ausgestellt werden, wenn andernfalls eine Reise erschwert oder verunmöglicht würde. Der Antrag auf einen Austauschpass ist schriftlich zu begründen.\n2) Ist ein Austauschpass ausgestellt worden, so ist jeweils einer der beiden Pässe beim Ausländer- und Passamt zu hinterlegen. Soweit ein Missbrauch ausgeschlossen ist, kann das Ausländer- und Passamt ausnahmsweise eine anderweitige Hinterlegung bewilligen."
+    },
+    {
+      "provision_ref": "art25b",
+      "chapter": "C. Reisepass",
+      "section": "25b",
+      "title": "Art. 25b Verlust des Reisepasses",
+      "content": "1) Als Verlust gilt jegliches Abhandenkommen des Reisepasses, namentlich durch Diebstahl, Verlieren oder vollständige Zerstörung.\n2) Wird der Verlust des Reisepasses festgestellt, ist dieser unverzüglich der Landespolizei anzuzeigen. Soweit das Abhandenkommen des Reisepasses nicht im Zusammenhang mit einem Straftatbestand steht, kann der Verlust auch direkt beim Ausländer- und Passamt angezeigt werden; die Landespolizei ist hierüber zu informieren.\n3) Ein neuer Reisepass darf erst ausgestellt werden, wenn der Antragsteller den Verlust durch Vorlage eines Verlustprotokolls belegt. Bei Vorlage eines Verlustprotokolls einer ausländischen Behörde informiert das Ausländer- und Passamt die Landespolizei.\n4) Die Landespolizei schreibt den Reisepass, der im Sinne von Abs. 1 verloren und angezeigt wurde, zur polizeilichen Fahndung aus. Zu diesem Zweck darf sie auch im Reisepass enthaltene personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten, ausländischen Sicherheitsbehörden und -organisationen übermitteln.\n5) Reisepässe, die im Sinne von Abs. 1 verloren und angezeigt wurden, gelten als ungültig. Sie dürfen nicht weiterverwendet werden.\n6) Ein wieder aufgefundener Reisepass muss dem Ausländer- und Passamt abgegeben werden. Dieses macht ihn unbrauchbar und informiert die Landespolizei. Im Übrigen findet Art. 22 Abs. 3 Anwendung."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "C. Reisepass",
+      "section": "26",
+      "title": "Art. 26 Antrags- und Ausstellungsverfahren für Reisepässe",
+      "content": "1) Anträge auf Ausstellung von Reisepässen sind beim Ausländer- und Passamt persönlich zu stellen. Liechtensteinische Landesbürger mit Wohnsitz im Ausland können die Anträge auch bei der mit der Wahrung der liechtensteinischen Interessen beauftragten Behörde persönlich einreichen.\n2) Für die Ausstellung eines Reisepasses werden durch das Ausländer- und Passamt folgende Daten des Antragstellers vor Ort erfasst: a) die Unterschrift;\nb) eine Farbfotografie (Gesichtsbild);\nc) die Fingerabdrücke.\n3) Das Ausländer- und Passamt hat bei der Ausstellung von Reisepässen Identität und Bürgerrecht des Antragstellers zu überprüfen. Ergibt sich bei der Überprüfung, dass ein Antragsteller das liechtensteinische Landesbürgerrecht nicht oder nicht mehr besitzt oder bestehen Zweifel darüber, hat das Ausländer- und Passamt die Angaben beim Zivilstandsamt überprüfen zu lassen.\n4) Die Zustellung oder die Aushändigung des Reisepasses erfolgt durch eine Behörde nach Abs. 1.\n5) Die für die Ausstellung eines Reisepasses erforderlichen Fingerabdrücke werden am Tag der Aushändigung oder des Versands des Reisepasses, spätestens jedoch 30 Tage nach deren Erfassung gelöscht.\n5a) Das für die Ausstellung eines Reisepasses erforderliche Gesichtsbild wird im Pass- und Identitätskartenregister gespeichert und kann für die Zwecke nach Art. 33a Abs. 2 verarbeitet werden.\n6) Die Regierung regelt das Nähere über das Antrags- und Ausstellungsverfahren mit Verordnung. Sie legt insbesondere das Verfahren und die technischen Anforderungen für die Erfassung der Fingerabdrücke fest. Zudem kann sie Ausnahmen von der Pflicht, persönlich zu erscheinen, sowie von der Pflicht, Daten nach Abs. 2 vor Ort zu erfassen, vorsehen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "C. Reisepass",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art27a",
+      "chapter": "C. Reisepass",
+      "section": "27a",
+      "title": "Art. 27a Haftung",
+      "content": "Das Land Liechtenstein haftet nicht für Schäden, die aus dem Gebrauch von Reisepässen entstehen, die nach dem anwendbaren Recht ausgestellt worden sind.\nD. Kinderpass"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "D. Kinderpass",
+      "section": "28",
+      "title": "Art. 28 Kinderpass",
+      "content": "Aufgehoben\nE. Identitätskarte"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "E. Identitätskarte",
+      "section": "29",
+      "title": "Art. 29 Identitätskarte",
+      "content": "1) Die Identitätskarte dient ihrem Inhaber als Nachweis der Staatsangehörigkeit und der Identität.\n2) Jeder liechtensteinische Landesbürger hat Anspruch auf eine Identitätskarte. Minderjährigen oder Personen, denen ein Sachwalter bestellt ist, dessen Wirkungskreis sich auf die Besorgung solcher Angelegenheiten erstreckt, darf eine Identitätskarte nur ausgestellt werden, wenn der gesetzliche Vertreter den Antrag stellt oder dem Antrag schriftlich zustimmt.\n3) Die Identitätskarte enthält die Daten nach Art. 16 Abs. 1, die persönliche Identifikationsnummer (PEID) und den Ausstellungsort. Die Daten nach Art. 16 Abs. 1 Bst. a bis e, l und m sind auch in maschinenlesbarer Form auf der Identitätskarte enthalten.\n4) Die Identitätskarte wird mit einem elektronischen Datenträger (Datenchip) versehen.\n5) Die Identitätskarte wird in der Regel ausgestellt für die Dauer von: a) zehn Jahren für Personen, die im Zeitpunkt der Antragstellung das 12. Lebensjahr vollendet haben;\nb) fünf Jahren für Personen, die im Zeitpunkt der Antragstellung das 12. Lebensjahr noch nicht vollendet haben.\n6) Die Gültigkeitsdauer der Identitätskarte kann nicht verlängert werden.\n7) Im Übrigen gelten für die Identitätskarte sinngemäss die Vorschriften der Art. 15 Abs. 2, Art. 16a, 20, 22 bis 25, 25b, 26 und 27a.\nE. Gebühren für Reisepass und Identitätskarte"
+    },
+    {
+      "provision_ref": "art29a",
+      "chapter": "E. Gebühren für Reisepass und Identitätskarte",
+      "section": "29a",
+      "title": "Art. 29a Ausstellung eines Reisepasses und einer Identitätskarte",
+      "content": "Die nachstehenden Gebühren werden je Person und Vorgang kumulativ erhoben: a) für die Ausstellung eines Reisepasses bzw. eines Austauschpasses: 1. an Personen bis zum vollendeten 18. Lebensjahr: 60 Franken;\n2. an Personen ab dem vollendeten 18. Lebensjahr: 140 Franken;\nb) für die Ausstellung einer Identitätskarte: 1. an Personen bis zum vollendeten 18. Lebensjahr: 30 Franken;\n2. an Personen ab dem vollendeten 18. Lebensjahr: 65 Franken;\nc) für die gleichzeitige Ausstellung eines Reisepasses und einer Identitätskarte: 1. an Personen bis zum vollendeten 18. Lebensjahr: 70 Franken;\n2. an Personen ab dem vollendeten 18. Lebensjahr: 150 Franken.\nF. Diplomaten- und Dienstpass"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "F. Diplomaten- und Dienstpass",
+      "section": "30",
+      "title": "Art. 30 Diplomaten- und Dienstpass",
+      "content": "1) Diplomaten- und Dienstpässe bezwecken die Erleichterung des Grenzübertrittes. Mit dem Diplomaten- und Dienstpass werden zudem die Behörden des Gastlandes unter Zusicherung des Gegenrechtes gebeten, dem Inhaber auf Ersuchen besonderen Schutz zu gewähren.\n2) Diplomaten- und Dienstpässe werden mit Ermächtigung der Regierung vom Ausländer- und Passamt für eine Gültigkeitsdauer von zehn Jahren ausgestellt.\n3) Die Regierung bestimmt mit Verordnung unter Beachtung internationaler Gepflogenheiten, welchen Personen ein Diplomaten- oder Dienstpass ausgestellt werden darf.\n4) Im Übrigen gelten für Diplomaten- und Dienstpässe sinngemäss die Vorschriften der Art. 16, 16a, 20 bis 25b, 26 und 27a.\nG. Besondere Ausweise"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "G. Besondere Ausweise",
+      "section": "31",
+      "title": "Art. 31 Reisedokument",
+      "content": "1) Ein Reisedokument kann ausgestellt werden: a) schriftenlosen ausländischen Personen mit Aufenthaltsbewilligung;\nb) Flüchtlingen, welchen politisches Asyl gewährt wird, nach den Bestimmungen des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge;\nc) ausländischen Staatsangehörigen, die keine Berechtigung zur Wohnsitznahme im Fürstentum Liechtenstein besitzen und für die Auswanderung das erforderliche Reisedokument ihres Heimatstaates nicht besitzen.\n2) Der Geltungsbereich und die Gültigkeitsdauer des Reisedokumentes ist entsprechend der Zweckbestimmung einzuschränken.\n3) Reisedokumente sind mit einem Datenchip zu versehen, auf dem die Daten nach Art. 16a gespeichert werden. Der Datenchip ist gegen Fälschungen und unberechtigtes Lesen zu schützen. Die Regierung bestimmt die entsprechenden technischen Anforderungen mit Verordnung.\n4) Die Regierung regelt das Nähere über die Ausstellung von Reisedokumenten mit Verordnung. Sie legt insbesondere fest: a) die Form und den Inhalt von Reisedokumenten unter Berücksichtigung internationaler Anforderungen;\nb) das Verfahren sowie die Verweigerungs- und Entzugsgründe von Reisedokumenten.\n5) Das Ausländer- und Passamt führt ein automatisiertes Register über die Reisedokumente, das die Daten nach Art. 16 und weitere administrative Daten enthalten kann. Im Übrigen finden die Art. 33 bis 33d sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "G. Besondere Ausweise",
+      "section": "32",
+      "title": "Art. 32 Ausserordentliche Ausweise",
+      "content": "1) Das Ausländer- und Passamt kann liechtensteinischen Landesbürgern eine Staatsbürgerschaftsbestätigung ausstellen.\n2) Das Ausländer- und Passamt kann mit Zustimmung der Regierung einem liechtensteinischen Landesbürger einen Ausweis über die Identität und das Bürgerrecht ausstellen, welcher nicht den Bestimmungen dieses Gesetzes entspricht, wenn der Gesuchsteller im Ausland Wohnsitz hat und das Gastland die Einreise, Wohnsitznahme, Arbeitsbewilligung usw. von der Beibringung eines ausserordentlichen Ausweises abhängig macht.\nG. Datenschutz"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "G. Datenschutz",
+      "section": "33",
+      "title": "Art. 33 Verarbeitung personenbezogener Daten",
+      "content": "Die für den Vollzug dieses Gesetzes zuständigen Behörden dürfen personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, von unter dieses Gesetz fallenden Personen sowie von an Verfahren nach diesem Gesetz beteiligten Dritten verarbeiten oder verarbeiten lassen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist."
+    },
+    {
+      "provision_ref": "art33a",
+      "chapter": "G. Datenschutz",
+      "section": "33a",
+      "title": "Art. 33a Pass- und Identitätskartenregister",
+      "content": "1) Das Ausländer- und Passamt führt ein automatisiertes Pass- und Identitätskartenregister, das ausschliesslich die Daten nach Art. 16 enthält.\n2) Das Register dient: a) der Ausstellung und Erfassung von Reise-, Diplomaten- und Dienstpässen (Pässen) sowie Identitätskarten;\nb) der Verhinderung einer unberechtigten Ausstellung von Pässen und Identitätskarten; sowie\nc) der Verhinderung missbräuchlicher Verwendung.\nIdentitätsprüfung\nArt. 33b a) anhand biometrischer Daten\nDie Landespolizei, die Behörden, die Aufgaben der Grenzkontrolle wahrnehmen, und das Ausländer- und Passamt sind im Rahmen ihrer gesetzlichen Aufgaben befugt, zum Zweck der Überprüfung der Echtheit des Dokuments oder der Identität des Passinhabers die im Datenchip des Passes gespeicherten biometrischen und sonstigen Daten nach Art. 16a auszulesen, die benötigten biometrischen Daten beim Passinhaber zu erheben und die biometrischen Daten miteinander zu vergleichen. Die erhobenen Daten sind unverzüglich nach Beendigung der Prüfung der Echtheit des Passes oder der Identität des Inhabers zu löschen."
+    },
+    {
+      "provision_ref": "art33c",
+      "chapter": "G. Datenschutz",
+      "section": "33c",
+      "title": "Art. 33c b) anhand maschinenlesbarer Daten",
+      "content": "1) Die maschinenlesbaren Daten auf dem Pass und der Identitätskarte dürfen ausschliesslich von Behörden verwendet werden, die Aufgaben der Grenzkontrolle wahrnehmen. Die Identitätsüberprüfung muss im Zusammenhang mit der Grenzkontrolle oder der Fahndung oder Aufenthaltsfeststellung aus Gründen der Strafverfolgung, der Strafvollstreckung oder der Abwehr von Gefahren für die öffentliche Sicherheit stehen.\n2) Personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten, dürfen beim automatisierten Lesen des Passes nicht gespeichert werden; dies gilt auch für Abrufe aus dem polizeilichen Fahndungssystem, die zu einer Feststellung geführt haben."
+    },
+    {
+      "provision_ref": "art33d",
+      "chapter": "G. Datenschutz",
+      "section": "33d",
+      "title": "Art. 33d Verwendung der Ausweise im nichtöffentlichen Bereich",
+      "content": "1) Sämtliche Ausweise dieses Gesetzes können auch im nichtöffentlichen Bereich als Ausweis- und Legitimationspapier benutzt werden.\n2) Pass- und Identitätskartennummern dürfen nicht so verwendet werden, dass mit ihrer Hilfe ein Abruf von personenbezogenen Daten, einschliesslich besonderer Kategorien personenbezogener Daten, aus Dateisystemen oder eine Verknüpfung mit Dateisystemen möglich ist.\n3) Pässe und Identitätskarten dürfen weder zum automatischen Abruf personenbezogener Daten noch zur automatischen Speicherung personenbezogener Daten verwendet werden.\nH. Organe"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "H. Organe",
+      "section": "34",
+      "title": "Art. 34 Organe",
+      "content": "Organe bei der Durchführung dieses Gesetzes sind: a) Regierung;\nb) Aufgehoben\nc) Zivilstandsamt;\nd) Ausländer- und Passamt;\ne) diplomatische Vertretungen;\nf) Landespolizei."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "H. Organe",
+      "section": "35",
+      "title": "Art. 35 Regierung",
+      "content": "1) Die Regierung übt die Aufsicht über die Durchführung dieses Gesetzes aus. Sie überwacht insbesondere die Gleichmässigkeit der Gesetzesanwendung durch die ihr untergeordneten Organe und beaufsichtigt die Geschäftsführung des Zivilstandsamtes und des Ausländer- und Passamtes.\n2) Die Regierung erlässt die zur Durchführung dieses Gesetzes erforderlichen Verordnungen.\n3) Die Regierung ist für folgende Geschäfte zuständig: a) Erlass von Feststellungsbescheiden betreffend den Besitz des Landes- und Gemeindebürgerrechtes;\nb) Ausstellung und Unterzeichnung von Heimatscheinen der Mitglieder des Fürstenhauses (Art. 14);\nc) Entscheidung über die Abgabe, Ausstellung, Unterzeichnung, Rückgabe, Rückforderung und Entzug von Diplomaten- und Dienstpässen;\nd) Festlegung von Inhalt, Form und Aussehen der Reisepässe, Identitätskarten, Diplomaten- und Dienstpässe sowie besonderen Ausweise im Rahmen dieses Gesetzes."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "H. Organe",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "H. Organe",
+      "section": "37",
+      "title": "Art. 37 Zivilstandsamt",
+      "content": "1) Zu den Aufgaben des Zivilstandsamtes gehört der Vollzug dieses Gesetzes, soweit ihm bestimmte Aufgaben durch das Gesetz oder durch Verordnung übertragen sind. Das Zivilstandsamt hat auf Weisung die Geschäfte vorzubereiten, für welche die Regierung zuständig ist.\n2) Das Zivilstandsamt ist ermächtigt, folgende Geschäfte selbständig zu erledigen: a) Überprüfung der Heimatscheine auf die Übereinstimmung mit den Eintragungen in den liechtensteinischen Zivilstandsregistern;\nb) Ausstellung und Unterzeichnung von Heimatscheinen;\nc) Ungültigkeitserklärung und Rückforderung von Heimatscheinen;\nd) Entzug von Heimatscheinen;\ne) Führung des Heimatscheinregisters.\n3) Wenn das Zivilstandsamt bei der Durchführung dieses Gesetzes zur Auffassung gelangt, dass eine in den Zivilstandsregistern eingetragene Person nicht oder nicht mehr liechtensteinischer Landesbürger ist oder wenn Zweifel über den Besitz des liechtensteinischen Landesbürgerrechtes bestehen, hat das Zivilstandsamt bei der Regierung den Antrag zu stellen, einen Feststellungsbescheid von Amtes wegen zu erlassen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "H. Organe",
+      "section": "38",
+      "title": "Art. 38 Ausländer- und Passamt",
+      "content": "1) Das Ausländer- und Passamt ist zuständig für den Vollzug dieses Gesetzes, soweit ihm bestimmte Aufgaben durch das Gesetz oder durch Verordnung übertragen sind. Das Passamt hat auf Weisung Geschäfte vorzubereiten, für welche die Regierung zuständig ist.\n2) Das Ausländer- und Passamt ist ermächtigt, folgende Geschäfte selbständig zu erledigen: a) Ausstellung von Reisepässen, Identitätskarten und besonderen Ausweisen;\nb) Aufforderung zur Rückgabe von Reisepässen, Identitätskarten und besonderen Ausweisen;\nc) Verweigerung der Ausstellung von Reisepässen, Identitätskarten und besonderen Ausweisen;\nd) Entzug, Ungültigerklärung und Einzug von Reisepässen, Identitätskarten und besonderen Ausweisen;\ne) Aufgehoben\nf) Führung des Pass- und Identitätskartenregisters sowie des Registers für Reisedokumente gemäss Art. 31.\n3) Wenn das Ausländer- und Passamt bei der Durchführung dieses Gesetzes zur Auffassung gelangt, dass eine Person nicht oder nicht mehr liechtensteinischer Landesbürger ist oder wenn Zweifel über den Besitz des liechtensteinischen Landesbürgerrechtes bestehen, hat das Ausländer- und Passamt bei der Regierung den Antrag zu stellen, einen Feststellungsbescheid von Amtes wegen zu erlassen."
+    },
+    {
+      "provision_ref": "art38a",
+      "chapter": "H. Organe",
+      "section": "38a",
+      "title": "Art. 38a Diplomatische Vertretungen",
+      "content": "Die mit der Wahrung liechtensteinischer Interessen im Ausland beauftragten Behörden sind zuständig für: a) die Entgegennahme und Weiterleitung von Anträgen auf Ausstellung von Reisepässen, Identitätskarten sowie Dienst- und Diplomatenpässen für liechtensteinische Bürger mit Wohnsitz im Ausland;\nb) die Aushändigung der in Bst. a genannten durch das Ausländer- und Passamt ausgestellten Dokumente;\nc) die Ausstellung von kurzfristigen Reisepässen an liechtensteinische Landesbürger im Ausland (Art. 20)."
+    },
+    {
+      "provision_ref": "art38b",
+      "chapter": "H. Organe",
+      "section": "38b",
+      "title": "Art. 38b Landespolizei",
+      "content": "Der Landespolizei obliegen die Bearbeitung der Verlustprotokolle sowie die Fahndung nach verloren gegangenen Reisepässen (Art. 25b).\nI. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "I. Rechtsmittel",
+      "section": "39",
+      "title": "Art. 39 Verwaltungsgerichtshof",
+      "content": "Gegen Entscheidungen und Verfügungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "I. Rechtsmittel",
+      "section": "40",
+      "title": "Art. 40 Regierung",
+      "content": "Gegen die vom Zivilstandsamt und vom Ausländer- und Passamt getroffenen Entscheidungen und Verfügungen kann binnen 14 Tagen ab Zustellung bei der Regierung Beschwerde erhoben werden.\nJ. Strafbestimmung"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "J. Strafbestimmung",
+      "section": "41",
+      "title": "Art. 41 Landgericht",
+      "content": "Aufgehoben\nK. Schluss- und Übergangsbestimmungen"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "K. Schluss- und Übergangsbestimmungen",
+      "section": "42",
+      "title": "Art. 42 Gebühren",
+      "content": "1) Regierung, Ausländer- und Passamt, Zivilstandsamt und diplomatische Vertretungen haben für die Ausstellung von Heimatschriften die durch Gesetz festgelegten oder Verordnung festzulegenden Gebühren einzuheben.\n2) Die Landespolizei und das Ausländer- und Passamt haben für die Erstellung eines Verlustprotokolls nach Art. 25b eine kostendeckende Gebühr einzuheben."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "K. Schluss- und Übergangsbestimmungen",
+      "section": "43",
+      "title": "Art. 43 Übergangsbestimmungen",
+      "content": "1) Die Heimatschriften sind nach Inkrafttreten dieses Gesetzes den neuen Bestimmungen anzupassen.\n2) Gültige Heimatschriften, welche nicht den Bestimmungen dieses Gesetzes entsprechen, behalten bis zum Ablauf der Gültigkeitsdauer ihre Gültigkeit bei, werden aber nicht mehr verlängert."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "K. Schluss- und Übergangsbestimmungen",
+      "section": "44",
+      "title": "Art. 44 Aufhebung bestehenden Rechts",
+      "content": "Mit dem Inkrafttreten dieses Gesetzes wird das Heimatschriftengesetz vom 11. Mai 1947, LGBl. 1947 Nr. 24, aufgehoben."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "K. Schluss- und Übergangsbestimmungen",
+      "section": "45",
+      "title": "Art. 45 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\nIn Stellvertretung des Landesfürsten:\ngez. Hans-Adam\nErbprinz\ngez. Hans Brunhart\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n153.0 Heimatschriftengesetz (HSchG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2011 Nr. 248 ausgegeben am 1. Juli 2011\nGesetz\nvom 19. Mai 2011\nüber die Abänderung des Heimatschriftengesetzes\n...\nII.\nÜbergangsbestimmung\nPässe und Identitätskarten, die vor Inkrafttreten dieses Gesetzes ausgestellt wurden, bleiben bis zum Ablauf ihrer Gültigkeitsdauer gültig.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2018 Nr. 18 ausgegeben am 7. Februar 2018\nGesetz\nvom 5. Dezember 2017\nüber die Abänderung des Heimatschriftengesetzes\n...\nII.\nÜbergangsbestimmung\nAuf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2019 Nr. 6 ausgegeben am 29. Januar 2019\nGesetz\nvom 5. Dezember 2018\nüber die Abänderung des Heimatschriftengesetzes\n...\nII.\nÜbergangsbestimmungen\n1) Pässe und Identitätskarten, die vor Inkrafttreten dieses Gesetzes ausgestellt wurden, bleiben bis zum Ablauf ihrer Gültigkeitsdauer gültig.\n2) Auf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das neue Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2023 Nr. 445 ausgegeben am 6. Dezember 2023\nGesetz\nvom 5. Oktober 2023\nüber die Abänderung des Heimatschriftengesetzes\n...\nII.\nÜbergangsbestimmungen\n1) Identitätskarten, die vor Inkrafttreten dieses Gesetzes ausgestellt wurden, bleiben bis zum Ablauf ihrer Gültigkeitsdauer gültig.\n2) Auf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das neue Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2024 Nr. 182 ausgegeben am 25. April 2024\nGesetz\nvom 7. März 2024\nüber die Abänderung des Heimatschriftengesetzes\n...\nII.\nÜbergangsbestimmung\nAuf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung.\nIII.\nInkrafttreten\nDieses Gesetz tritt in Kraft, sobald die technischen Voraussetzungen für die Vor-Ort-Erfassung von Daten nach Art. 26 Abs. 2 vorliegen; die Regierung bestimmt diesen Zeitpunkt mit Verordnung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2025 Nr. 595 ausgegeben am 23. Dezember 2025\nGesetz\nvom 7. November 2025\nüber die Abänderung des Heimatschriftengesetzes\n...\nII.\nÜbergangsbestimmungen\n1) Pässe, die vor Inkrafttreten dieses Gesetzes ausgestellt wurden, bleiben bis zum Ablauf ihrer Gültigkeitsdauer gültig.\n2) Auf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das neue Recht Anwendung.\n...\n1\nTitel abgeändert durch LGBl. 2006 Nr. 121 .\n2\nArt. 1a eingefügt durch LGBl. 1999 Nr. 242 .\n3\nArt. 2 abgeändert durch LGBl. 1999 Nr. 242 .\n4\nArt. 3 Abs. 2 eingefügt durch LGBl. 1999 Nr. 242 .\n5\nArt. 5 Abs. 1 abgeändert durch LGBl. 2018 Nr. 18 .\n6\nArt. 5 Abs. 2 aufgehoben durch LGBl. 2018 Nr. 18 .\n7\nArt. 5 Abs. 5 aufgehoben durch LGBl. 2018 Nr. 18 .\n8\nArt. 6 Abs. 1 abgeändert durch LGBl. 2018 Nr. 18 .\n9\nArt. 6 Abs. 3 abgeändert durch LGBl. 2018 Nr. 18 .\n10\nArt. 7 Abs. 2 abgeändert durch LGBl. 2018 Nr. 18 .\n11\nArt. 7 Abs. 3 abgeändert durch LGBl. 1999 Nr. 242 .\n12\nArt. 9 Abs. 3 abgeändert durch LGBl. 2018 Nr. 18 .\n13\nArt. 12 Abs. 1 abgeändert durch LGBl. 2018 Nr. 18 .\n14\nArt. 13 Abs. 2 abgeändert durch LGBl. 2008 Nr. 331 .\n15\nSachüberschrift vor Art. 16 eingefügt durch LGBl. 2011 Nr. 248 .\n16\nArt. 16 Sachüberschrift abgeändert durch LGBl. 2011 Nr. 248 .\n17\nArt. 16 Einleitungssatz abgeändert durch LGBl. 2006 Nr. 121 .\n18\nArt. 16 Abs. 1 Bst. a abgeändert durch LGBl. 2006 Nr. 121 .\n19\nArt. 16 Abs. 1 Bst. b abgeändert durch LGBl. 2006 Nr. 121 .\n20\nArt. 16 Abs. 1 Bst. c abgeändert durch LGBl. 2006 Nr. 121 .\n21\nArt. 16 Abs. 1 Bst. d abgeändert durch LGBl. 2006 Nr. 121 .\n22\nArt. 16 Abs. 1 Bst. e abgeändert durch LGBl. 2006 Nr. 121 .\n23\nArt. 16 Abs. 1 Bst. f abgeändert durch LGBl. 2025 Nr. 595 .\n24\nArt. 16 Abs. 1 Bst. g abgeändert durch LGBl. 2006 Nr. 121 .\n25\nArt. 16 Abs. 1 Bst. h abgeändert durch LGBl. 2011 Nr. 248 .\n26\nArt. 16 Abs. 1 Bst. i abgeändert durch LGBl. 2006 Nr. 121 .\n27\nArt. 16 Abs. 1 Bst. k abgeändert durch LGBl. 2006 Nr. 121 .\n28\nArt. 16 Abs. 1 Bst. l abgeändert durch LGBl. 2006 Nr. 121 .\n29\nArt. 16 Abs. 1 Bst. m abgeändert durch LGBl. 2006 Nr. 121 .\n30\nArt. 16 Abs. 2 abgeändert durch LGBl. 2011 Nr. 248 .\n31\nArt. 16 Abs. 3 abgeändert durch LGBl. 2006 Nr. 121 .\n32\nArt. 16 Abs. 5 abgeändert durch LGBl. 2025 Nr. 595 .\n33\nArt. 16a abgeändert durch LGBl. 2011 Nr. 248 .\n34\nArt. 17 Abs. 1 abgeändert durch LGBl. 1999 Nr. 242 .\n35\nArt. 17 Abs. 2 abgeändert durch LGBl. 2010 Nr. 133 .\n36\nArt. 18 aufgehoben durch LGBl. 2006 Nr. 121 .\n37\nArt. 19 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 121 .\n38\nArt. 19 Abs. 1 abgeändert durch LGBl. 2019 Nr. 6 .\n39\nArt. 19 Abs. 2 eingefügt durch LGBl. 2011 Nr. 248 .\n40\nArt. 20 Abs. 1 abgeändert durch LGBl. 1999 Nr. 242 .\n41\nArt. 20 Abs. 2a eingefügt durch LGBl. 2011 Nr. 248 .\n42\nArt. 22 abgeändert durch LGBl. 2006 Nr. 121 .\n43\nArt. 23 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 121 .\n44\nArt. 23 Einleitungssatz abgeändert durch LGBl. 2006 Nr. 121 .\n45\nArt. 23 Bst. a abgeändert durch LGBl. 2010 Nr. 133 .\n46\nArt. 23 Bst. abis eingefügt durch LGBl. 2011 Nr. 248 .\n47\nArt. 23 Bst. b abgeändert durch LGBl. 2006 Nr. 121 .\n48\nArt. 23 Bst. c abgeändert durch LGBl. 2006 Nr. 121 .\n49\nArt. 23 Bst. d abgeändert durch LGBl. 2006 Nr. 121 .\n50\nArt. 24 Sachüberschrift abgeändert durch LGBl. 2006 Nr. 121 .\n51\nArt. 24 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2006 Nr. 121 .\n52\nArt. 24 Abs. 1 Bst. a abgeändert durch LGBl. 2010 Nr. 133 .\n53\nArt. 24 Abs. 1 Bst. b abgeändert durch LGBl. 2006 Nr. 121 .\n54\nArt. 24 Abs. 1 Bst. c abgeändert durch LGBl. 2006 Nr. 121 .\n55\nArt. 24 Abs. 2 abgeändert durch LGBl. 2006 Nr. 121 .\n56\nArt. 24 Abs. 3 eingefügt durch LGBl. 2018 Nr. 18 .\n57\nArt. 24a eingefügt durch LGBl. 2018 Nr. 18 .\n58\nArt. 25 Bst. b abgeändert durch LGBl. 1999 Nr. 242 .\n59\nArt. 25a eingefügt durch LGBl. 2006 Nr. 121 .\n60\nArt. 25b eingefügt durch LGBl. 2006 Nr. 121 .\n61\nArt. 25b Abs. 2 abgeändert durch LGBl. 2014 Nr. 16 .\n62\nArt. 25b Abs. 3 abgeändert durch LGBl. 2014 Nr. 16 .\n63\nArt. 25b Abs. 4 abgeändert durch LGBl. 2018 Nr. 393 .\n64\nArt. 26 Sachüberschrift abgeändert durch LGBl. 2011 Nr. 248 .\n65\nArt. 26 Abs. 1 abgeändert durch LGBl. 2006 Nr. 121 .\n66\nArt. 26 Abs. 2 abgeändert durch LGBl. 2024 Nr. 182 .\n67\nArt. 26 Abs. 3 abgeändert durch LGBl. 2006 Nr. 121 .\n68\nArt. 26 Abs. 4 abgeändert durch LGBl. 2006 Nr. 121 .\n69\nArt. 26 Abs. 5 abgeändert durch LGBl. 2023 Nr. 445 .\n70\nArt. 26 Abs. 5a eingefügt durch LGBl. 2023 Nr. 445 .\n71\nArt. 26 Abs. 6 abgeändert durch LGBl. 2024 Nr. 182 .\n72\nArt. 27 aufgehoben durch LGBl. 2011 Nr. 248 .\n73\nArt. 27a eingefügt durch LGBl. 2006 Nr. 121 .\n74\nArt. 28 aufgehoben durch LGBl. 1999 Nr. 242 .\n75\nArt. 29 abgeändert durch LGBl. 2011 Nr. 248 .\n76\nArt. 29 Abs. 3 abgeändert durch LGBl. 2025 Nr. 595 .\n77\nArt. 29 Abs. 4 abgeändert durch LGBl. 2023 Nr. 445 .\n78\nArt. 29 Abs. 5 abgeändert durch LGBl. 2019 Nr. 6 .\n79\nArt. 29 Abs. 7 abgeändert durch LGBl. 2023 Nr. 445 .\n80\nÜberschrift vor Art. 29a eingefügt durch LGBl. 2023 Nr. 266 .\n81\nArt. 29a eingefügt durch LGBl. 2023 Nr. 266 .\n82\nArt. 30 Abs. 2 abgeändert durch LGBl. 2011 Nr. 248 .\n83\nArt. 30 Abs. 3 abgeändert durch LGBl. 2011 Nr. 248 .\n84\nArt. 30 Abs. 4 eingefügt durch LGBl. 2011 Nr. 248 .\n85\nArt. 31 Abs. 1 Bst. a abgeändert durch LGBl. 2011 Nr. 248 .\n86\nArt. 31 Abs. 3 eingefügt durch LGBl. 2011 Nr. 248 .\n87\nArt. 31 Abs. 4 eingefügt durch LGBl. 2011 Nr. 248 .\n88\nArt. 31 Abs. 5 abgeändert durch LGBl. 2018 Nr. 393 .\n89\nArt. 32 abgeändert durch LGBl. 2018 Nr. 393 .\n90\nÜberschrift vor Art. 33 eingefügt durch LGBl. 2018 Nr. 393 .\n91\nArt. 33 abgeändert durch LGBl. 2018 Nr. 393 .\n92\nArt. 33a eingefügt durch LGBl. 2011 Nr. 248 .\n93\nSachüberschrift vor Art. 33b eingefügt durch LGBl. 2011 Nr. 248 .\n94\nArt. 33b eingefügt durch LGBl. 2011 Nr. 248 .\n95\nArt. 33c eingefügt durch LGBl. 2011 Nr. 248 .\n96\nArt. 33c Abs. 2 abgeändert durch LGBl. 2018 Nr. 393 .\n97\nArt. 33d eingefügt durch LGBl. 2011 Nr. 248 .\n98\nArt. 33d Abs. 2 abgeändert durch LGBl. 2018 Nr. 393 .\n99\nArt. 34 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 242 .\n100\nArt. 34 Einleitungssatz abgeändert durch LGBl. 1999 Nr. 242 .\n101\nArt. 34 Bst. a abgeändert durch LGBl. 1999 Nr. 242 .\n102\nArt. 34 Bst. b aufgehoben durch LGBl. 2018 Nr. 18 .\n103\nArt. 34 Bst. c abgeändert durch LGBl. 1999 Nr. 242 .\n104\nArt. 34 Bst. d abgeändert durch LGBl. 1999 Nr. 242 .\n105\nArt. 34 Bst. e abgeändert durch LGBl. 1999 Nr. 242 .\n106\nArt. 34 Bst. f eingefügt durch LGBl. 2006 Nr. 121 .\n107\nArt. 35 Abs. 1 abgeändert durch LGBl. 1999 Nr. 88 .\n108\nArt. 35 Abs. 3 Bst d abgeändert durch LGBl. 2006 Nr. 121 .\n109\nArt. 36 aufgehoben durch LGBl. 2018 Nr. 18 .\n110\nArt. 38 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 242 .\n111\nArt. 38 Abs. 1 abgeändert durch LGBl. 1999 Nr. 88 .\n112\nArt. 38 Abs. 2 Einleitungssatz abgeändert durch LGBl. 1999 Nr. 242 .\n113\nArt. 38 Abs. 2 Bst. a abgeändert durch LGBl. 1999 Nr. 242 .\n114\nArt. 38 Abs. 2 Bst. b abgeändert durch LGBl. 1999 Nr. 242 .\n115\nArt. 38 Abs. 2 Bst. c abgeändert durch LGBl. 1999 Nr. 242 .\n116\nArt. 38 Abs. 2 Bst. d abgeändert durch LGBl. 2006 Nr. 121 .\n117\nArt. 38 Abs. 2 Bst. e aufgehoben durch LGBl. 2006 Nr. 121 .\n118\nArt. 38 Abs. 2 Bst. f abgeändert durch LGBl. 2011 Nr. 248 .\n119\nArt. 38 Abs. 3 abgeändert durch LGBl. 1999 Nr. 88 .\n120\nArt. 38a eingefügt durch LGBl. 1999 Nr. 242 .\n121\nArt. 38b eingefügt durch LGBl. 2006 Nr. 121 .\n122\nArt. 39 abgeändert durch LGBl. 2004 Nr. 38 .\n123\nArt. 40 abgeändert durch LGBl. 2018 Nr. 18 .\n124\nArt. 41 aufgehoben durch LGBl. 2006 Nr. 121 .\n125\nArt. 42 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 242 .\n126\nArt. 42 Abs. 1 abgeändert durch LGBl. 2023 Nr. 266 .\n127\nArt. 42 Abs. 2 abgeändert durch LGBl. 2014 Nr. 16 .\n128\nArt. 43 Abs. 2 abgeändert durch LGBl. 1999 Nr. 242 .\n129\nInkraftreten: 1. Oktober 2011.\n130\nInkrafttreten: 1. März 2018.\n131\nInkrafttreten: 1. Juli 2019.\n132\nInkrafttreten: 1. Januar 2024.\n133\nInkrafttreten: 3. Juni 2024 ( LGBl. 2024 Nr. 205 ).\n134\nInkrafttreten: 1. Februar 2025."
+    }
+  ],
+  "definitions": []
+}

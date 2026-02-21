@@ -1,0 +1,50 @@
+{
+  "id": "li-konso-2023170000",
+  "type": "statute",
+  "title": "Verordnung vom 25. April 2023 über Europäische gedeckte Schuldverschreibungen (EuGSVV)",
+  "title_en": "",
+  "short_name": "EuGSVV",
+  "status": "in_force",
+  "issued_date": "2023-04-25",
+  "in_force_date": "2023-04-25",
+  "url": "https://www.gesetze.li/konso/2023170000",
+  "description": "Verordnung vom 25. April 2023 über Europäische gedeckte Schuldverschreibungen (EuGSVV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt in Durchführung des Gesetzes über Europäische gedeckte Schuldverschreibungen (EuGSVG) das Nähere insbesondere über die Meldepflichten der emittierenden Bank gegenüber der FMA.\n2) Sie dient der Umsetzung der Richtlinie (EU) 2019/2162 über die Emission gedeckter Schuldverschreibungen und die öffentliche Aufsicht über gedeckte Schuldverschreibungen .\n3) Die gültige Fassung der EWR-Rechtsvorschrift nach Abs. 2 ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Meldepflichten der emittierenden Bank\ngegenüber der FMA"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Meldepflichten der emittierenden Bank gegenüber der FMA",
+      "section": "3",
+      "title": "Art. 3 Periodische Meldungen",
+      "content": "1) Banken, die gedeckte Schuldverschreibungen emittieren, haben der FMA nachstehende Informationen wie folgt zu übermitteln:\na) Informationen nach Art. 25 Abs. 1 Bst. a, b und d bis h EuGSVG: quartalsweise, bis spätestens sechs Wochen nach Quartalsende, jeweils bezogen auf das vorangehende Quartal des betreffenden Kalenderjahres;\nb) Berichte mit den Informationen nach Art. 25 Abs. 1 Bst. c und i EuGSVG: jährlich, bis spätestens zwei Monate nach Ende des vierten Quartals, jeweils bezogen auf den Zeitraum von 1. Januar bis 31. Dezember des betreffenden Kalenderjahres.\n2) Die Informationen nach Abs. 1 Bst. a haben im Einzelnen zu umfassen:\na) je Deckungspool die Informationen zu Deckungswerten aggregiert nach Typen von Instrumenten sowie weiteren Attributen;\nb) je Deckungspool die Informationen zu den Deckungsanforderungen nach Art. 7 EuGSVG sowie zum Liquiditätspuffer nach Art. 19 EuGSVG;\nc) Informationen zu den einzelnen gedeckten Schuldverschreibungen.\n3) Meldestichtage sind:\na) für quartalsweise Meldungen nach Abs. 1 Bst. a: 31. März, 30. Juni, 30. September und 31. Dezember;\nb) für jährliche Meldungen nach Abs. 1 Bst. b: 31. Dezember.\n4) Die Fristen nach Abs. 1 können von der FMA in begründeten Fällen ausnahmsweise um höchstens 20 Tage verlängert werden.\n5) Die FMA kann im Bedarfsfall weitere Unterlagen oder Angaben verlangen.\n6) Die Informationen nach Abs. 1 mit dem Meldestichtag 31. Dezember sind von der Revisionsstelle im Rahmen der Prüfung des Geschäftsberichtes und des konsolidierten Geschäftsberichtes nachträglich zu prüfen. Stellt sich heraus, dass die im Geschäftsbericht bzw. im konsolidierten Geschäftsbericht gemachten Angaben von denjenigen nach Abs. 1 wesentlich abweichen, sind die Abweichungen von der Revisionsstelle im Revisionsbericht aufzuzeigen und zu begründen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Meldepflichten der emittierenden Bank gegenüber der FMA",
+      "section": "4",
+      "title": "Art. 4 Elektronische Übermittlung",
+      "content": "Die Meldungen nach Art. 3 sind in standardisierter Form mittels elektronischer Übermittlung an die FMA zu erstatten. Die Übermittlung hat den von der FMA auf ihrer Internetseite veröffentlichten Mindestanforderungen zu entsprechen.\nIII. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "III. Schlussbestimmung",
+      "section": "5",
+      "title": "Art. 5 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 2023 in Kraft und findet erstmals auf Meldungen Anwendung, die zum Meldestichtag 31. Dezember 2023 zu erstatten sind.\nFürstliche Regierung:\ngez. Sabine Monauni\nRegierungschef-Stellvertreterin\n1\nRichtlinie (EU) 2019/2162 des Europäischen Parlaments und des Rates vom 27. November 2019 über die Emission gedeckter Schuldverschreibungen und die öffentliche Aufsicht über gedeckte Schuldverschreibungen und zur Änderung der Richtlinien 2009/65/EG und 2014/59/EU (ABl. L 328 vom 18.12.2019, S. 29)"
+    }
+  ],
+  "definitions": []
+}

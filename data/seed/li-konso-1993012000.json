@@ -1,0 +1,111 @@
+{
+  "id": "li-konso-1993012000",
+  "type": "statute",
+  "title": "Gesetz vom 12. November 1992 über die Produktehaftpflicht",
+  "title_en": "",
+  "short_name": "LGBl 1993.012",
+  "status": "in_force",
+  "issued_date": "1992-11-12",
+  "in_force_date": "1992-11-12",
+  "url": "https://www.gesetze.li/konso/1993012000",
+  "description": "Gesetz vom 12. November 1992 über die Produktehaftpflicht",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Grundsatz",
+      "content": "1) Der Hersteller haftet für den Schaden, wenn ein fehlerhaftes Produkt dazu führt, dass\na) eine Person getötet oder verletzt wird;\nb) eine Sache beschädigt oder zerstört wird, die nach ihrer Art gewöhnlich zum privaten Gebrauch oder Verbrauch bestimmt und vom Geschädigten hauptsächlich privat verwendet worden ist.\n2) Er haftet nicht für den Schaden am fehlerhaften Produkt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Hersteller",
+      "content": "Als Hersteller im Sinne dieses Gesetzes gilt der Hersteller des Endprodukts, eines Grundstoffs oder eines Teilprodukts sowie jede Person, die sich als Hersteller ausgibt, indem sie ihren Namen, ihr Warenzeichen oder ein anderes Erkennungszeichen auf dem Produkt anbringt."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Importeur",
+      "content": "Als Hersteller im Sinne dieses Gesetzes gilt auch jede Person, die ein Produkt zum Zweck des Verkaufs, der Vermietung, des Mietkaufs oder einer andern Form des Vertriebs im Rahmen ihrer geschäftlichen Tätigkeit in den Europäischen Wirtschaftsraum einführt. Abweichende Bestimmungen in völkerrechtlichen Verträgen sind vorbehalten."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Lieferant",
+      "content": "1) Kann der Hersteller des Produkts nicht festgestellt werden, so gilt jeder Lieferant als dessen Hersteller, sofern er dem Geschädigten nicht innert einer angemessenen Frist, nachdem er dazu aufgefordert worden ist, den Hersteller oder die Person nennt, die ihm das Produkt geliefert hat.\n2) Dies gilt auch für ein eingeführtes Produkt, wenn sich bei diesem der Importeur nach Art. 3 nicht feststellen lässt, selbst wenn der Name des Herstellers angegeben ist."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Produkt",
+      "content": "1) Als Produkte im Sinne dieses Gesetzes gelten:\na) jede bewegliche Sache, auch wenn sie einen Teil einer anderen beweglichen Sache oder einer unbeweglichen Sache bildet, und\nb) Elektrizität.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6 Fehler",
+      "content": "1) Ein Produkt ist fehlerhaft, wenn es nicht die Sicherheit bietet, die man unter Berücksichtigung aller Umstände zu erwarten berechtigt ist; insbesondere sind zu berücksichtigen:\na) die Art und Weise, in der es dem Publikum präsentiert wird,\nb) der Gebrauch, mit dem billigerweise gerechnet werden kann, und\nc) der Zeitpunkt, in dem es in den Verkehr gebracht worden ist.\n2) Ein Produkt ist nicht allein deshalb fehlerhaft, weil später ein verbessertes Produkt in den Verkehr gebracht worden ist."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7 Ausnahmen von der Haftung",
+      "content": "1) Der Hersteller haftet nicht, wenn er beweist, dass\na) er das Produkt nicht in den Verkehr gebracht hat;\nb) nach den Umständen davon auszugehen ist, dass der Fehler, der den Schaden verursacht hat, noch nicht vorlag, als er das Produkt in den Verkehr brachte;\nc) er das Produkt weder für den Verkauf oder eine andere Form des Vertriebs mit wirtschaftlichem Zweck hergestellt noch im Rahmen seiner beruflichen Tätigkeit hergestellt oder vertrieben hat;\nd) der Fehler darauf zurückzuführen ist, dass das Produkt verbindlichen, hoheitlich erlassenen Vorschriften entspricht;\ne) der Fehler nach dem Stand der Wissenschaft und Technik im Zeitpunkt, in dem das Produkt in Verkehr gebracht wurde, nicht erkannt werden konnte.\n2) Der Hersteller eines Grundstoffs oder eines Teilprodukts haftet ferner nicht, wenn er beweist, dass der Fehler durch die Konstruktion des Produkts, in das der Grundstoff oder das Teilprodukt eingearbeitet wurde, oder durch die Anleitungen des Herstellers des Produkts verursacht worden ist."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "Art. 7a Solidarhaftung",
+      "content": "Trifft die Haftpflicht mehrere, so haften sie zur ungeteilten Hand. Ihre Haftung wird nicht dadurch gemindert, dass auch andere nach anderen Bestimmungen für den Ersatz desselben Schadens haften."
+    },
+    {
+      "provision_ref": "art7b",
+      "section": "7b",
+      "title": "Art. 7b Minderung der Haftung",
+      "content": "1) Die Haftung des Herstellers wird nicht gemindert, wenn der Schaden durch einen Fehler des Produkts und zugleich durch die Handlung eines Dritten verursacht worden ist.\n2) Trifft den Geschädigten oder jemanden, dessen Verhalten er zu vertreten hat, ein Verschulden, so ist § 1304 ABGB sinngemäss anzuwenden."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8 Selbstbehalt bei Sachschäden",
+      "content": "1) Der Geschädigte muss Sachschäden bis zur Höhe von 900 Franken selber tragen.\n2) Wird der Selbstbehalt im Recht des Europäischen Wirtschaftsraums geändert, so passt die Regierung den Betrag entsprechend an."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9 Wegbedingung der Haftung",
+      "content": "Vereinbarungen, die die Haftpflicht nach diesem Gesetz gegenüber dem Geschädigten beschränken oder wegbedingen, sind nichtig."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10 Verjährung",
+      "content": "Ansprüche nach diesem Gesetz verjähren drei Jahre nach dem Tag, an dem der Geschädigte Kenntnis vom Schaden, dem Fehler und von der Person des Herstellers erlangt hat oder hätte erlangen müssen."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11 Verwirkung",
+      "content": "1) Ansprüche nach diesem Gesetz verwirken 10 Jahre nach dem Tag, an dem der Hersteller das Produkt, das den Schaden verursacht hat, in den Verkehr gebracht hat.\n2) Die Verwirkung tritt nicht ein, wenn gegen den Hersteller ein gerichtliches Verfahren hängig ist."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12 Verhältnis zu anderen Bestimmungen",
+      "content": "1) Soweit in diesem Gesetz nicht anders bestimmt ist, ist auf die darin vorgesehenen Ersatzansprüche das Allgemeine bürgerliche Gesetzbuch anzuwenden.\n2) Bestimmungen des allgemeinen bürgerlichen Gesetzbuchs und anderer Vorschriften, nach denen Schäden in weiterem Umfang oder von anderen Personen als nach diesem Gesetz zu ersetzen sind, bleiben unberührt.\n3) Dieses Gesetz gilt nicht für Schäden infolge eines nuklearen Zwischenfalls, auf die von den Staaten des Europäischen Wirtschaftsraums ratifizierte internationale Übereinkommen anwendbar sind."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13 Übergangsbestimmung",
+      "content": "Dieses Gesetz gilt nur für Produkte, die nach seinem Inkrafttreten in den Verkehr gebracht worden sind."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am 1. November 1994 in Kraft.\ngez. Hans-Adam\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nArt. 5 Abs. 2 aufgehoben durch LGBl. 2001 Nr. 3 .\n2\nArt. 7a eingefügt durch LGBl. 1997 Nr. 35 .\n3\nArt. 7b eingefügt durch LGBl. 1997 Nr. 35 .\n4\nArt. 14 abgeändert durch LGBl. 1994 Nr. 68 ."
+    }
+  ],
+  "definitions": []
+}

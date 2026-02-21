@@ -1,0 +1,512 @@
+{
+  "id": "li-konso-2005148000",
+  "type": "statute",
+  "title": "Gesetz vom 19. Mai 2005 über die Amtliche Vermessung (Vermessungsgesetz; VermG)",
+  "title_en": "",
+  "short_name": "VermG",
+  "status": "in_force",
+  "issued_date": "2005-05-19",
+  "in_force_date": "2005-05-19",
+  "url": "https://www.gesetze.li/konso/2005148000",
+  "description": "Gesetz vom 19. Mai 2005 über die Amtliche Vermessung (Vermessungsgesetz; VermG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Dieses Gesetz regelt die Anlage und die Nachführung der Amtlichen Vermessung, welche die Grundlage für die Aufnahme und Beschreibung der einzelnen Grundstücke im Grundbuch bildet.\n2) Die Daten der Amtlichen Vermessung bilden die Grundlage für den Aufbau und den Betrieb der Geodateninfrastruktur (GDI) für das ganze Land, die für öffentliche und private Zwecke zur Verfügung steht."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Gleichstellung von Mann und Frau",
+      "content": "Soweit in diesem Gesetz nichts anderes bestimmt ist, sind unter den in diesem Gesetz verwendeten auf Personen bezogenen männlichen Begriffen Angehörige des weiblichen und männlichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Zuständigkeit und Aufsicht",
+      "content": "1) Die Regierung ist für die Belange der Amtlichen Vermessung zuständig. Sie kann die ihr obliegenden Aufgaben der Amtlichen Vermessung an eine Amtsstelle zur selbständigen Erledigung übertragen.\n2) Der Regierung obliegt die Aufsicht über die Amtliche Vermessung."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Vermessungskommission",
+      "content": "1) Die Gemeinde bestellt für jedes Vermessungswerk für die Ersterhebung oder die Erneuerung, sofern Grundeigentümer in ihren Rechten berührt sind, eine Vermessungskommission.\n2) Die Vermessungskommission besteht aus einem Vertreter der Gemeinde als Vorsitzenden und aus zwei oder vier weiteren Mitgliedern. Der beauftragte Ingenieur-Geometer und ein Mitarbeiter des Amtes für Justiz können an den Sitzungen mit beratender Stimme teilnehmen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Ingenieur-Geometer",
+      "content": "Die Regierung bestimmt die Ingenieur-Geometer und weitere qualifizierte Vermessungsfachleute, denen Arbeiten der Amtlichen Vermessung übertragen werden und legt deren fachliche Voraussetzungen mit Verordnung fest."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Art. 6 Erhebungspflicht",
+      "content": "1) Die Amtliche Vermessung erstreckt sich über das ganze Gebiet des Landes.\n2) In Gebieten, in denen eine land- oder forstwirtschaftliche Umlegung nötig wäre, aber in absehbarer Zeit nicht durchgeführt werden kann, können die technischen Arbeiten zur Erfassung der Daten über die Informationsebene \"Liegenschaften\" in einem vereinfachten Verfahren durchgeführt werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Art. 7 Vermessungsprogramm",
+      "content": "1) Die Regierung legt die Abfolge der Vermessungsarbeiten fest.\n2) Die Arbeiten der Erhebung und Erneuerung werden im Rahmen einzelner Realisierungsprojekte ausgeführt. Jedes Realisierungsprojekt umfasst mindestens die Bearbeitung einer Informationsebene gemäss Datenmodell der Amtlichen Vermessung. Die Informationsebene \"Fixpunkte\" muss im ersten Projekt, das ein Gebiet betrifft, bearbeitet werden.\n3) Allfälligen Bedürfnissen der Gemeinden wird bei der Festlegung des Vermessungsprogrammes nach Möglichkeit Rechnung getragen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "8",
+      "title": "Art. 8 Duldungspflicht der Grundeigentümer",
+      "content": "1) Die betroffenen Grundeigentümer haben die vorübergehende Inanspruchnahme ihrer Grundstücke für die Vornahme der Vermessungsarbeiten zu dulden.\n2) Jeder Grundeigentümer ist verpflichtet, auf seinem Grundstück das Anbringen von Grenz- und Fixpunktzeichen zu dulden. Die Errichtung eines Fixpunktzeichens kann auf Anmeldung der Vermessungsorgane im Grundbuch als öffentlichrechtliche Eigentumsbeschränkung angemerkt werden.\n3) Der dem Grundeigentümer durch die Vornahme von Vermessungsarbeiten entstandene Schaden ist vom beauftragenden Gemeinwesen zu ersetzen.\nII. Inhalt der Amtlichen Vermessung"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "9",
+      "title": "Art. 9 Bestandteile der Amtlichen Vermessung",
+      "content": "Bestandteile der Amtlichen Vermessung bilden:\na) die Fixpunkt- und Grenzzeichen;\nb) die Daten gemäss Datenmodell der Amtlichen Vermessung;\nc) der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus den Daten der Amtlichen Vermessung;\nd) die zu erstellenden technischen Dokumente;\ne) die Bestandteile und Grundlagen der Amtlichen Vermessung nach bisherigem Recht."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "10",
+      "title": "Art. 10 Datenmodell der Amtlichen Vermessung",
+      "content": "1) Das Datenmodell beschreibt den Inhalt gemäss Objektkatalog und die Datenstruktur in einer normierten Datenbeschreibungssprache.\n2) Der Objektkatalog umfasst die folgenden Informationsebenen:\na) Fixpunkte;\nb) Bodenbedeckung;\nc) Einzelobjekte;\nd) Höhen;\ne) Nomenklatur;\nf) Liegenschaften;\ng) Dienstbarkeiten;\nh) Rohrleitungen;\ni) Administrative Einteilungen;\nk) Hoheitsgrenzen;\nl) dauernde Bodenverschiebungen;\nm) Gebäudeadressen.\nPläne für die Grundbuchführung"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "11",
+      "title": "Art. 11 a) Allgemeines",
+      "content": "Der Plan für das Grundbuch und der Mutationsplan bilden die Pläne für die Grundbuchführung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "12",
+      "title": "Art. 12 b) Plan für das Grundbuch",
+      "content": "1) Der Plan für das Grundbuch ist ein aus den Daten der Amtlichen Vermessung erstellter graphischer Auszug, der als Bestandteil des Grundbuches die Liegenschaften, die flächenmässig ausgeschiedenen selbständigen und dauernden Rechte und Bergwerke sowie die im Vermessungswerk dargestellten Dienstbarkeiten abgrenzt.\n2) Dem mit den Geräten des beauftragten Ingenieur-Geometers ausgedruckten und von diesem unterschriftlich bestätigten Plan kommen die Rechtswirkungen im Sinne des Sachenrechts zu.\n3) Im Plan für das Grundbuch ist der Inhalt der Informationsebenen nach Art. 10 Abs. 2 mit Ausnahme der Höhen sowie Teilen der administrativen Einteilungen darzustellen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "13",
+      "title": "Art. 13 c) Mutationsplan",
+      "content": "1) Der Mutationsplan wird auf der Grundlage des Planes für das Grundbuch erstellt.\n2) Der Mutationsplan enthält den alten und den neuen Zustand der betroffenen Objekte mit grafischer Kennzeichnung der projektierten Änderungen.\nInformationsebenen"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "14",
+      "title": "Art. 14 a) Fixpunkte",
+      "content": "1) Die Informationsebene \"Fixpunkte\" enthält die Anschlusspunkte der Amtlichen Vermessung, die durch Messungen und Ausgleichsverfahren im Bezugssystem der schweizerischen Landesvermessung bestimmt und im Feld durch Fixpunktzeichen dauerhaft und eindeutig gekennzeichnet sind.\n2) Das Land unterhält ein Grundlage-Fixpunktnetz.\n3) Die Fixpunkte in den Gemeinden werden im Vermessungswerk erhoben und erneuert."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "15",
+      "title": "Art. 15 b) Bodenbedeckung",
+      "content": "Die Informationsebene \"Bodenbedeckung\" beschreibt die tatsächliche Lage von Objekten im Raum, deren Ausdehnung und Art (wie Gebäude, befestigte Fläche, humusierte Fläche, Gewässer, bestockte Fläche, vegetationslose Fläche)."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "16",
+      "title": "Art. 16 c) Einzelobjekte",
+      "content": "Die Informationsebene \"Einzelobjekte\" umfasst Objekte, die Merkmale der Bodenbedeckung enthalten, die aber aufgrund ihrer Eigenschaft oder Ausdehnung keine oder unwesentliche flächenmässige Bedeutung haben."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "17",
+      "title": "Art. 17 d) Höhen",
+      "content": "Die Informationsebene \"Höhen\" beschreibt die Höhenlage und wird für die Darstellung des Geländes verwendet."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "18",
+      "title": "Art. 18 e) Nomenklatur",
+      "content": "Die Informationsebene \"Nomenklatur\" enthält Orts-, Gelände- und Flurnamen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "19",
+      "title": "Art. 19 f) Liegenschaften",
+      "content": "1) Die Informationsebene \"Liegenschaften\" beschreibt die geometrische Abgrenzung der Liegenschaften als Teil der Erdoberfläche.\n2) Zur Informationsebene \"Liegenschaften\" gehören auch die selbständigen und dauernden Rechte und die Bergwerke, soweit sie flächenmässig ausgeschieden werden können."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "20",
+      "title": "Art. 20 g) Dienstbarkeiten",
+      "content": "Die Informationsebene \"Dienstbarkeiten\" enthält die Daten über die geometrische Abgrenzung der auf Gesuch der Beteiligten vermessenen, flächenmässig ausgeschiedenen Dienstbarkeiten."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "21",
+      "title": "Art. 21 h) Rohrleitungen",
+      "content": "Die Informationsebene \"Rohrleitungen\" enthält die gestützt auf das Rohrleitungsgesetz erstellten Leitungen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "22",
+      "title": "Art. 22 i) Administrative Einteilungen",
+      "content": "Die Informationsebene \"Administrative Einteilungen\" enthält:\na) Nummerierungsbereiche;\nb) Aufgehoben\nc) Aufgehoben\nd) Planeinteilungen;\ne) Toleranzstufeneinteilung;\nf) Aufgehoben\ng) Aufgehoben\nh) Planrahmen (Angaben für die Beschriftung des Planes für das Grundbuch)."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "22a",
+      "title": "Art. 22a k) Hoheitsgrenzen",
+      "content": "Die Informationsebene \"Hoheitsgrenzen\" enthält die Daten über die geometrische Abgrenzung der Landes- und Gemeindegrenzen einschliesslich der Hoheitsgrenzpunkte."
+    },
+    {
+      "provision_ref": "art22b",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "22b",
+      "title": "Art. 22b l) Dauernde Bodenverschiebungen",
+      "content": "Die Informationsebene \"dauernde Bodenverschiebungen\" enthält die Daten über die geometrische Abgrenzung der dauernden Bodenverschiebung nach dem Sachenrecht."
+    },
+    {
+      "provision_ref": "art22c",
+      "chapter": "II. Inhalt der Amtlichen Vermessung",
+      "section": "22c",
+      "title": "Art. 22c m) Gebäudeadressen",
+      "content": "Die Informationsebene \"Gebäudeadressen\" enthält die Daten der Strassenachsen mit den Strassenbezeichnungen und den Hausnummern.\nIII. Grenzfeststellung und Vermarkung\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "23",
+      "title": "Art. 23 Begriff und Umfang",
+      "content": "1) Die Vermarkung umfasst die Grenzfeststellung und das Anbringen von Grenzzeichen.\n2) Zu vermarken sind die Grenzen der Liegenschaften und die Grenzen der selbständigen und dauernden Rechte, soweit letztere flächenmässig ausgeschieden werden können und nur einen Teil eines Grundstücks belasten, sowie die Hoheitsgrenzen.\n3) Auf Antrag der Beteiligten können die Grenzen jeder Art einer Dienstbarkeit in das Vermessungswerk aufgenommen werden, sofern diese flächenmässig ausgeschieden werden kann und nur einen Teil eines Grundstücks belastet.\nB. Grenzfeststellung"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "B. Grenzfeststellung",
+      "section": "24",
+      "title": "Art. 24 Verfahren",
+      "content": "Die Grenzen werden an Ort und Stelle anhand der vorhandenen Grenzzeichen, der Dokumentation über Katasterberichtigungen und der bestehenden Katasterpläne durch den beauftragten Ingenieur-Geometer unter Beizug der beteiligten Grundeigentümer oder ihrer Vertreter festgelegt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "B. Grenzfeststellung",
+      "section": "25",
+      "title": "Art. 25 Grenzverlauf",
+      "content": "1) Durch Bereinigung der Grenzen ist ein einfacher Grenzverlauf anzustreben.\n2) Als Grenzlinie gilt die Gerade oder der Kreisbogen zwischen zwei Grenzpunkten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "B. Grenzfeststellung",
+      "section": "26",
+      "title": "Art. 26 Mitwirkung der Beteiligten",
+      "content": "1) Die Grundeigentümer und, im Falle der Vermarkung von Dienstbarkeitsgrenzen die Dienstbarkeitsberechtigten, sind verpflichtet, innert der vom Ingenieur-Geometer gesetzten Frist die vorhandenen Grenzzeichen sichtbar zu machen und bei der Bestimmung des Grenzverlaufs mitzuwirken.\n2) Wer der Mitwirkungspflicht nicht nachkommt oder sich nicht vertreten lässt, trägt die Mehrkosten. Das Verfahren wird trotzdem weitergeführt."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "B. Grenzfeststellung",
+      "section": "27",
+      "title": "Art. 27 Verträge auf Eigentumsübertragung",
+      "content": "Verträge auf Eigentumsübertragung, welche zum Zweck der Bereinigung des Grenzverlaufs abgeschlossen werden, bedürfen für die Eintragung im Grundbuch keiner amtlichen Beglaubigung der Unterschriften, wenn sie in Anwesenheit des Ingenieur-Geometers oder seines mit der Grenzfeststellung beauftragten Mitarbeiters beigesetzt werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "B. Grenzfeststellung",
+      "section": "28",
+      "title": "Art. 28 Streitige Grenzen",
+      "content": "Können sich die Beteiligten nicht auf den Verlauf der Grenze einigen, so stellt der Ingenieur-Geometer den Grenzverlauf fest."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "B. Grenzfeststellung",
+      "section": "29",
+      "title": "Art. 29 Verpflockung",
+      "content": "Die festgestellten Grenzen sind durch den beauftragten Ingenieur-Geometer zu verpflocken."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "B. Grenzfeststellung",
+      "section": "30",
+      "title": "Art. 30 Auflage der Verpflockung",
+      "content": "1) Die Verpflockung ist während 14 Tagen öffentlich aufzulegen. Die Auflage ist öffentlich kundzumachen.\n2) Jede Person, die in ihren Interessen betroffen ist, kann bis längstens 14 Tage nach Ablauf der Auflagefrist Einsprache bei der Vermessungskommission erheben.\n3) Die Vermessungskommission entscheidet über die Einsprachen.\n4) Gegen die Entscheidung der Vermessungskommission kann binnen 14 Tagen ab Zustellung direkt beim Landgericht Klage erhoben werden. Bei Vorliegen von Konformentscheidungen des Landgerichtes und des Obergerichtes ist kein weiteres Rechtsmittel mehr zulässig.\nC. Anbringen von Grenzzeichen"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "C. Anbringen von Grenzzeichen",
+      "section": "31",
+      "title": "Art. 31 Grundsatz",
+      "content": "Nach Eintritt der Rechtskraft der Verpflockung sind die Grenzzeichen anzubringen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "C. Anbringen von Grenzzeichen",
+      "section": "32",
+      "title": "Art. 32 Ausnahmen",
+      "content": "1) Werden die Grenzen durch natürliche oder künstliche Abgrenzungen, die dauernd eindeutig erkennbar sind, angegeben, so ist in der Regel auf Grenzzeichen zu verzichten.\n2) Auf das Anbringen von Grenzzeichen kann überdies verzichtet werden:\na) in Gebieten, in denen eine Güterzusammenlegung bevorsteht;\nb) für Liegenschaften und Dienstbarkeiten, auf denen die Grenzzeichen durch landwirtschaftliche Nutzung oder durch andere Einwirkungen dauernd gefährdet sind;\nc) in Landwirtschafts- und Forstwirtschaftsgebieten im Berggebiet, in Alp- und Weidegebieten sowie in unproduktiven Gebieten;\nd) bei öffentlichen Gewässern."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "C. Anbringen von Grenzzeichen",
+      "section": "33",
+      "title": "Art. 33 Schutz der Grenzzeichen",
+      "content": "Grenzzeichen dürfen nur nach Anordnung des Ingenieur-Geometers gesetzt, beseitigt oder wiederhergestellt werden.\nIV. Ersterhebung, Erneuerung und Nachführung\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "34",
+      "title": "Art. 34 Begriffe",
+      "content": "1) Als Ersterhebung gilt die Erstellung der Bestandteile der Amtlichen Vermessung in Gebieten ohne definitiv anerkannte Amtliche Vermessung im Sinne dieses Gesetzes oder des Gesetzes vom 1. Februar 1945 über die amtliche Vermessung, LGBl. 1945 Nr. 5.\n2) Als Erneuerung gilt die Erstellung der Bestandteile der Amtlichen Vermessung neuer Ordnung durch Umarbeitung und Ergänzung einer definitiv anerkannten amtlichen Vermessung.\n3) Als Nachführung gilt die Anpassung der Bestandteile der Amtlichen Vermessung an die veränderten rechtlichen und tatsächlichen Verhältnisse."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "35",
+      "title": "Art. 35 Geodatisches Bezugssystem",
+      "content": "Die Amtliche Vermessung stützt sich auf das ebene, rechtwinklige Koordinatensystem und das Höhensystem der schweizerischen Landesvermessung und auf deren Fixpunkte.\nB. Nachführung"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "B. Nachführung",
+      "section": "36",
+      "title": "Art. 36 Nachführungspflicht",
+      "content": "Sämtliche Bestandteile der Amtlichen Vermessung unterliegen der Nachführungspflicht."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "B. Nachführung",
+      "section": "37",
+      "title": "Art. 37 Laufende Nachführung",
+      "content": "Die Bestandteile der Amtlichen Vermessung, für deren Nachführung die Regierung ein Meldeverfahren organisiert hat, sind innert nützlicher Frist nach erfolgter Änderung nachzuführen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "B. Nachführung",
+      "section": "38",
+      "title": "Art. 38 Periodische Nachführung",
+      "content": "1) Alle Daten, die nicht der laufenden Nachführung unterliegen, wie die Objekte, die sich aus natürlichen Gründen verändern (Waldränder, Bach- und Flussläufe, Rüfen und dergleichen), sind periodisch nachzuführen.\n2) Jede periodische Nachführung hat sich jeweils über ein grösseres zusammenhängendes Gebiet zu erstrecken.\n3) Die Regierung legt die periodischen Nachführungsfristen fest, die in der Regel 10 Jahre nicht überschreiten soll."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "B. Nachführung",
+      "section": "39",
+      "title": "Art. 39 Nachführung und Grundbuch",
+      "content": "1) Das Amt für Justiz darf die Teilung, Löschung oder Vereinigung von Liegenschaften sowie flächenmässig ausgeschiedenen selbständigen und dauernden Rechten im Grundbuch nur vornehmen, wenn die vom zuständigen Ingenieur-Geometer unterzeichnete Mutationsurkunde vorliegt.\n2) Der Auftrag zur Erstellung der Mutationsurkunde gemäss Abs. 1 bedarf der Zustimmung der Gemeinde."
+    },
+    {
+      "provision_ref": "art39a",
+      "chapter": "B. Nachführung",
+      "section": "39a",
+      "title": "Art. 39a Behebung von Widersprüchen",
+      "content": "Widersprüche zwischen Plänen der Amtlichen Vermessung und der Wirklichkeit oder zwischen diesen Plänen werden von Amtes wegen behoben.\nC. Verifikation, öffentliche Auflage und Genehmigung"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "C. Verifikation, öffentliche Auflage und Genehmigung",
+      "section": "40",
+      "title": "Art. 40 Verifikation",
+      "content": "Die von der Regierung bezeichneten Fachstellen verifizieren die Bestandteile der Amtlichen Vermessung."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "C. Verifikation, öffentliche Auflage und Genehmigung",
+      "section": "41",
+      "title": "Art. 41 Öffentliche Auflage",
+      "content": "1) Nach Abschluss der Ersterhebung oder der Erneuerung, bei denen Grundeigentümer in ihren Rechten berührt sind, werden der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus den Daten der Amtlichen Vermessung unter Anzeige an die Grundeigentümer während 14 Tagen öffentlich aufgelegt. Die Auflage ist öffentlich kundzumachen.\n2) Jede Person, die in ihren Interessen betroffen ist, kann gegen das Vermessungswerk bis längstens 14 Tage nach Ablauf der Auflagefrist Einsprache bei der Vermessungskommission erheben.\n3) Gegen die Entscheidung der Vermessungskommission kann binnen 14 Tagen ab Zustellung Beschwerde an die Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "C. Verifikation, öffentliche Auflage und Genehmigung",
+      "section": "42",
+      "title": "Art. 42 Genehmigung",
+      "content": "1) Nach Abschluss des Auflageverfahrens genehmigt die Regierung, nachdem allfällige Mängel behoben worden sind, ungeachtet der gerichtlich zu erledigenden Streitfälle, die Daten der Amtlichen Vermessung und die daraus erstellten Auszüge, insbesondere den Plan für das Grundbuch.\n2) Mit diesem Zeitpunkt erlangen die Pläne für die Grundbuchführung und die vom Ingenieur-Geometer unterzeichneten Auszüge aus dem Plan für das Grundbuch die Eigenschaft öffentlicher Urkunden.\nV. Unterhalt der Amtlichen Vermessung"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "V. Unterhalt der Amtlichen Vermessung",
+      "section": "43",
+      "title": "Art. 43 Grundsatz",
+      "content": "Die Bestandteile der Amtlichen Vermessung sind so zu unterhalten, dass sie in ihrem Bestand und in ihrer Qualität dauernd erhalten bleiben."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "V. Unterhalt der Amtlichen Vermessung",
+      "section": "44",
+      "title": "Art. 44 Amtliche Vermessungsschnittstelle",
+      "content": "Der Datenaustausch mit der Amtlichen Vermessung erfolgt über die amtliche Vermessungsschnittstelle (AVS).\nVI. Abgabe von Auszügen und Auswertungen der Amtlichen Vermessung\nA. Öffentlichkeit der Amtlichen Vermessung"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "A. Öffentlichkeit der Amtlichen Vermessung",
+      "section": "45",
+      "title": "Art. 45 Grundsatz",
+      "content": "1) Die Daten der Amtlichen Vermessung sind öffentlich.\n2) Die Daten der Amtlichen Vermessung können auf offenen elektronischen Medien zugänglich gemacht werden.\nB. Einsicht und Abgabe"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "B. Einsicht und Abgabe",
+      "section": "46",
+      "title": "Art. 46 Grundsatz",
+      "content": "Jeder Person ist Einsicht in die Daten der Amtlichen Vermessung zu gewähren. Auf Verlangen sind ihr Auszüge und Auswertungen abzugeben."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "B. Einsicht und Abgabe",
+      "section": "47",
+      "title": "Art. 47 Beschreibung der abzugebenden Auszüge und Auswertungen",
+      "content": "Wird einem Benützer ein Auszug oder eine Auswertung der Amtlichen Vermessung abgegeben, so muss er unter Berücksichtigung des vorgesehenen Verwendungszweckes namentlich informiert werden über:\na) die Aktualität und die Qualität der verwendeten Daten;\nb) den Inhalt und den Generalisierungsgrad."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "B. Einsicht und Abgabe",
+      "section": "48",
+      "title": "Art. 48 Zugriff mit Informatikmitteln",
+      "content": "1) Auszüge und Auswertungen aus der Amtlichen Vermessung können durch Informatikmittel zugänglich gemacht werden.\n2) Die Regierung erteilt die Berechtigungen und bestimmt den Umfang des Zugriffs.\n3) Bei Zugriff mit Informatikmitteln muss sich der Benützer selber Klarheit über Aktualität, Qualität und Vollständigkeit der Daten beschaffen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "B. Einsicht und Abgabe",
+      "section": "49",
+      "title": "Art. 49 Richtigkeitsbescheinigung",
+      "content": "1) Der zuständige Ingenieur-Geometer bescheinigt die Richtigkeit des Planes für das Grundbuch und der Auszüge daraus mit seiner Unterschrift unter Angabe des Datums.\n2) Er bescheinigt die Richtigkeit der übrigen Auszüge und Auswertungen der Amtlichen Vermessung, wenn der Benützer dies verlangt.\n3) Bei Zugriff mit Informatikmitteln muss der Benützer die Richtigkeitsbescheinigung selber einholen."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "B. Einsicht und Abgabe",
+      "section": "50",
+      "title": "Art. 50 Gebühren",
+      "content": "Für den Bezug von Auszügen und Auswertungen der Amtlichen Vermessung ist in der Regel eine Gebühr zu entrichten."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "B. Einsicht und Abgabe",
+      "section": "51",
+      "title": "Art. 51 Gewerbliche Nutzung",
+      "content": "Die Regierung regelt die direkte oder indirekte Nutzung von Auszügen und Auswertungen der Amtlichen Vermessung für Veröffentlichungen aller Art, für die Weitergabe an Dritte gegen Entgelt und die Nutzung von Auswertungen der Amtlichen Vermessung, die bereits durch Dritte verwendet wurden.\nVII. Kosten der Amtlichen Vermessung"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "VII. Kosten der Amtlichen Vermessung",
+      "section": "52",
+      "title": "Art. 52 Leitung des Vermessungswesens",
+      "content": "Die Kosten für die Leitung des Vermessungswesens und die Prüfung der Vermessungswerke werden durch das Land getragen."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "VII. Kosten der Amtlichen Vermessung",
+      "section": "53",
+      "title": "Art. 53 Ersterhebung und Erneuerung",
+      "content": "1) Das Land trägt die Kosten der Ersterhebung und der Erneuerung mit folgenden Ausnahmen:\na) die Kosten für die Feststellung und Vermarkung der Gemeindegrenzen sind durch die Gemeinden zu tragen;\nb) die Kosten für die Feststellung, Verpflockung und Vermarkung der Grundstücke sowie für die Grenzbereinigungen werden zu einem Viertel durch die Gemeinde und zu drei Vierteln durch die Grundeigentümer getragen.\n2) Die Vermessungskommission genehmigt die Abrechnung der Vermarkungskosten und beschliesst die Kostenverteilung. Die Kostenverteilung ist während 14 Tagen öffentlich aufzulegen. Beschwerden gegen die Kostenverteilung werden durch die Beschwerdekommission für Verwaltungsangelegenheiten beurteilt."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "VII. Kosten der Amtlichen Vermessung",
+      "section": "54",
+      "title": "Art. 54 Nachführung",
+      "content": "1) Wer eine Änderung an der Amtlichen Vermessung verursacht, hat grundsätzlich die dadurch entstehenden Nachführungskosten zu tragen.\n2) Das Land übernimmt die Kosten für die Nachführung der Lagefixpunkte, der Höhenfixpunkte des Landes, der Landesgrenzen, der Nomenklatur, der Rutschgebietsperimeter und für die periodischen Nachführungen.\n3) Wer Fixpunkt- oder Grenzzeichen beschädigt oder entfernt, hat die dadurch verursachten Kosten zu tragen."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "VII. Kosten der Amtlichen Vermessung",
+      "section": "55",
+      "title": "Art. 55 Rechnungsstellung",
+      "content": "1) Der Ingenieur-Geometer stellt dem Zahlungspflichtigen für die Nachführungskosten eine Rechnung.\n2) Er ist berechtigt, vom Zahlungspflichtigen einen Kostenvorschuss zu verlangen.\n3) Gegen die Kostenverfügung kann binnen 14 Tagen ab Zustellung Beschwerde an die Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "VII. Kosten der Amtlichen Vermessung",
+      "section": "56",
+      "title": "Art. 56 Archivierung und Aufbewahrung",
+      "content": "Die Kosten für die Datensicherung, die Archivierung und die Aufbewahrung der Bestandteile der Amtlichen Vermessung werden vom Land getragen.\nVIII. Dokumentation der öffentlichrechtlichen Eigentumsbeschränkungen"
+    },
+    {
+      "provision_ref": "art57bis62",
+      "chapter": "VIII. Dokumentation der öffentlichrechtlichen Eigentumsbeschränkungen",
+      "section": "57bis62",
+      "title": "Art. 57bis62",
+      "content": "Aufgehoben\nIX. Weitere Informationsebenen"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "IX. Weitere Informationsebenen",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Aufgehoben\nX. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "64",
+      "title": "Art. 64 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen, insbesondere über:\na) die Grundsätze des vereinfachten Verfahrens im Sinne von Art. 6 Abs. 2;\nb) die Daten, welche in den einzelnen Informationsebenen gemäss Datenmodell der Amtlichen Vermessung erhoben werden, deren Genauigkeit und Zuverlässigkeit sowie die weiteren Anforderungen an sie;\nc) die Darstellung des Planes für das Grundbuch;\nd) die zulässigen Fixpunkt- und Grenzzeichen;\ne) das Verfahren der Ersterhebung, Erneuerung und Nachführung;\nf) das Meldeverfahren nach Art. 37;\ng) den Inhalt der weiteren zu erstellenden Auszüge aus den Daten gemäss Datenmodell der Amtlichen Vermesssung sowie der zu erstellenden technischen Dokumente, deren Nachführung und Unterhalt;\nh) die technischen und organisatorischen Anforderungen in Bezug auf den Unterhalt, die Sicherheit und die Archivierung der Amtlichen Vermessung sowie den Datenaustausch;\ni) das Zahlungs- und Abrechnungswesen;\nk) die Gebühren nach Art. 50;\nl) Aufgehoben"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "65",
+      "title": "Art. 65 Zwischenstaatliche Vereinbarung",
+      "content": "Die Regierung ist ermächtigt, mit der Schweiz eine Vereinbarung über die Grundlagen, die Kontrolle und die Verifikation der Amtlichen Vermessung abzuschliessen."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "66",
+      "title": "Art. 66 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Gesetz vom 1. Februar 1945 über die Landesvermessung des Fürstentums Liechtenstein, LGBl. 1945 Nr. 5;\nb) Gesetz vom 6. August 1961 betreffend die Abänderung von Art. 10 des Gesetzes über die Landesvermessung des Fürstentums Liechtenstein, LGBl. 1961 Nr. 22;\nc) Gesetz vom 27. Juni 1990 betreffend die Abänderung des Gesetzes über die Landesvermessung des Fürstentums Liechtenstein, LGBl. 1990 Nr. 40."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "67",
+      "title": "Art. 67 Anpassung bestehender Vermessungen",
+      "content": "1) Vermessungswerke, die nach dem Gesetz vom 9. Januar 1865 betreffend die Landesvermessung, LGBl. 1865 Nr. 1, vorgenommen wurden, sind durch eine Ersterhebung nach neuem Recht zu ersetzen.\n2) Die nach dem Gesetz vom 1. Februar 1945 über die Landesvermessung des Fürstentums Liechtenstein, LGBl. 1945 Nr. 5, anerkannten Vermessungswerke sind zu erneuern.\n3) Bei anerkannten Vermessungen gemäss Abs. 2, deren Fixpunktnetz nicht im Landeskoordinatensystem erstellt wurde, gelten die Arbeiten zur Anpassung des Fixpunktnetzes an das neue Recht als Ersterhebung."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "68",
+      "title": "Art. 68 In Ausführung bestehende Vermessungswerke",
+      "content": "Die im Zeitpunkt des Inkrafttretens dieses Gesetzes hängigen Vermessungen sind nach neuem Recht zu Ende zu führen."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "69",
+      "title": "Art. 69 Hängige Streitfälle",
+      "content": "Im Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Streitfälle werden nach den bisherigen Verfahrensvorschriften erledigt. Die Rechtsmittel gegen noch nicht rechtskräftige Entscheide bestimmen sich nach bisherigem Recht."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "70",
+      "title": "Art. 70 Nachführung von Vermessungen nach bisherigem Recht",
+      "content": "Vermessungswerke nach bisherigem Recht sind nach neuem Recht nachzuführen."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "72",
+      "title": "Art. 72 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Otmar Hasler\nFürstlicher Regierungschef\n1\nArt. 1 Abs. 1 abgeändert durch LGBl. 2018 Nr. 82 .\n2\nArt. 4 Abs. 2 abgeändert durch LGBl. 2013 Nr. 6 .\n3\nArt. 9 Bst. c abgeändert durch LGBl. 2018 Nr. 82 .\n4\nArt. 10 Abs. 2 Bst. k eingefügt durch LGBl. 2018 Nr. 82 .\n5\nArt. 10 Abs. 2 Bst. l eingefügt durch LGBl. 2018 Nr. 82 .\n6\nArt. 10 Abs. 2 Bst. m eingefügt durch LGBl. 2018 Nr. 82 .\n7\nArt. 11 abgeändert durch LGBl. 2018 Nr. 82 .\n8\nArt. 12 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 82 .\n9\nArt. 12 Abs. 1 abgeändert durch LGBl. 2018 Nr. 82 .\n10\nArt. 12 Abs. 3 abgeändert durch LGBl. 2018 Nr. 82 .\n11\nArt. 13 Abs. 1 abgeändert durch LGBl. 2018 Nr. 82 .\n12\nArt. 22 Bst. b aufgehoben durch LGBl. 2018 Nr. 82 .\n13\nArt. 22 Bst. c aufgehoben durch LGBl. 2018 Nr. 82 .\n14\nArt. 22 Bst. f aufgehoben durch LGBl. 2018 Nr. 82 .\n15\nArt. 22 Bst. g aufgehoben durch LGBl. 2018 Nr. 82 .\n16\nArt. 22 Bst. h abgeändert durch LGBl. 2018 Nr. 82 .\n17\nArt. 22a eingefügt durch LGBl. 2018 Nr. 82 .\n18\nArt. 22b eingefügt durch LGBl. 2018 Nr. 82 .\n19\nArt. 22c eingefügt durch LGBl. 2018 Nr. 82 .\n20\nArt. 39 Abs. 1 abgeändert durch LGBl. 2018 Nr. 82 .\n21\nArt. 39 Abs. 2 abgeändert durch LGBl. 2016 Nr. 160 .\n22\nArt. 39a eingefügt durch LGBl. 2018 Nr. 82 .\n23\nArt. 41 Abs. 1 abgeändert durch LGBl. 2018 Nr. 82 .\n24\nArt. 42 abgeändert durch LGBl. 2018 Nr. 82 .\n25\nArt. 49 Abs. 1 abgeändert durch LGBl. 2018 Nr. 82 .\n26\nArt. 57 bis 62 aufgehoben durch LGBl. 2018 Nr. 82 .\n27\nArt. 63 aufgehoben durch LGBl. 2011 Nr. 48 .\n28\nArt. 64 Bst. c abgeändert durch LGBl. 2018 Nr. 82 .\n29\nArt. 64 Bst. l aufgehoben durch LGBl. 2018 Nr. 82 .\n30\nArt. 71 aufgehoben durch LGBl. 2018 Nr. 82 ."
+    }
+  ],
+  "definitions": []
+}

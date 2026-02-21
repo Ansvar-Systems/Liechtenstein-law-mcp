@@ -1,0 +1,293 @@
+{
+  "id": "li-konso-2007220000",
+  "type": "statute",
+  "title": "Verordnung vom 21. August 2007 über elektrische Niederspannungsinstallationen (Niederspannungs-Installationsverordnung, NIV)",
+  "title_en": "",
+  "short_name": "NIV",
+  "status": "in_force",
+  "issued_date": "2007-08-21",
+  "in_force_date": "2007-08-21",
+  "url": "https://www.gesetze.li/konso/2007220000",
+  "description": "Verordnung vom 21. August 2007 über elektrische Niederspannungsinstallationen (Niederspannungs-Installationsverordnung, NIV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt die Voraussetzungen für das Arbeiten an elektrischen Niederspannungsinstallationen (elektrische Installationen) und die Kontrolle dieser Installationen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Geltungsbereich",
+      "content": "1) Diese Verordnung gilt für elektrische Installationen:\na) die mit Starkstrom, höchstens jedoch mit 1 000 V Wechselspannung oder 1 500 V Gleichspannung, betrieben werden;\nb) die mit Spannungen nach Bst. a gespeist, jedoch mit Hochspannung betrieben werden (Röntgen-, Neon-, Ionisations-, Lackierungs-, Viehhütinstallationen usw.);\nc) mit einer maximalen Betriebsspannung von 50 V Wechselspannung oder 120 V Gleichspannung und einem maximalen Betriebsstrom von 2 A, sofern solche Installationen Personen und Sachen gefährden können. Ansonsten gelten nur die allgemeinen Bestimmungen (Art. 1 bis 6) dieser Verordnung;\nd) die mittels Erzeugnissen und Geräten, welche nach Massgabe der Bestimmungen der Verordnung über den Verkehr mit elektrischen Betriebsmitteln im Europäischen Wirtschaftsraum oder der Verordnung über die elektromagnetische Verträglichkeit von Geräten im Europäischen Wirtschaftsraum in Verkehr gebracht, erstellt oder angeschlossen werden.\n2) Können einzelne Bestimmungen dieser Verordnung nur unter ausserordentlichen Schwierigkeiten befolgt werden oder erweisen sie sich für die technische Entwicklung als hinderlich, so kann die Regierung oder in weniger bedeutenden Fällen das Starkstrominspektorat auf begründetes Gesuch hin Abweichungen bewilligen.\n3) Diese Verordnung gilt nicht für:\na) Kommunikationsanlagen, soweit sie der Schwachstromverordnung unterstehen;\nb) bahnspezifische elektrische Einrichtungen;\nc) die Beleuchtung von Strassen und öffentlichen Plätzen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffe; Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung bedeuten:\na) \"elektrische Installationen\":\n1. stromverteilende und stromverbrauchende Installationen, die unmittelbar aus dem Niederspannungsverteilnetz gespeist werden. Als elektrische Installationen gelten insbesondere:\n1.1 Hausinstallationen;\n1.2 unterirdische Bauten;\n1.3 Rohrleitungen und Tankanlagen für Treib- und Brennstoffe;\n1.4 Frisch- und Abwasserreinigungsanlagen;\n1.5 Campingplätze und dergleichen;\n1.6 Baustellen, Märkte, Zirkus- und Schaustellerbetriebe, Billettautomaten, öffentliche Haltestellen sowie elektrische Installationen, die am Netz der öffentlichen Beleuchtung betrieben werden;\n2. Eigenversorgungsanlagen mit oder ohne Verbindung zu einem Niederspannungsverteilnetz;\n3. Installationen in Zivilschutzbauten;\n4. ortsfeste Erzeugnisse oder provisorische Installationen, die an Installationen nach den Ziff. 1 bis 3 fest oder gesteckt angeschlossen werden;\nb) \"Netzbetreiber\": privat- oder öffentlich-rechtlich organisierte Unternehmen, welche nach Massgabe des Elektrizitätsmarktgesetzes (EMG) die Netzdienstleistungen für den Betrieb des Elektrizitätsnetzes erbringen;\nc) \"Konformitätserklärung\": eine Bescheinigung, die dem Eigentümer und dem Netzbetreiber gegenüber bestätigt, dass die elektrische Installation den Vorschriften dieser Verordnung und den Regeln der Technik entspricht sowie von einer fachkundigen Person (Art. 14) oder einem Elektroprojektleiter Installation und Sicherheit geprüft worden ist;\nd) \"Kontrollorgane\":\n1. der Netzbetreiber;\n2. das Starkstrominspektorat;\ne) \"kontrollpflichtige Unternehmen\":\n1. der Netzbetreiber;\n2. Unternehmen, die elektrische Energie direkt an Installationen nach Bst. a abgeben, namentlich:\n2.1 Betriebe, die elektrische Energie vom Netzbetreiber auf der Hochspannungsebene beziehen;\n2.2 Betriebe, die elektrische Energie vom Netzbetreiber auf der Niederspannungsebene beziehen und aufgrund der Netzanschlussart vom Netzbetreiber den Betrieben, die elektrische Energie auf der Hochspannungsebene beziehen, gleichgestellt werden;\n2.3 Netzkunden, die Direktleitungen nach Art. 22 EMG betreiben;\n2.4 Betreiber von Eigenversorgungsanlagen ohne Verbindung zum Niederspannungsverteilnetz des Netzbetreibers.\n2) Aufgehoben\n3) Unter den in dieser Verordnung verwendeten Berufs-, Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Sicherheit",
+      "content": "1) Elektrische Installationen müssen nach den anerkannten Regeln der Technik erstellt, geändert, in Stand gehalten und kontrolliert werden. Sie dürfen bei bestimmungsgemässem und möglichst auch bei voraussehbarem unsachgemässem Betrieb oder Gebrauch sowie in voraussehbaren Störungsfällen weder Personen noch Sachen gefährden.\n2) Als anerkannte Regeln der Technik gelten insbesondere die Normen der International Electrotechnical Commission (IEC) und des Comité Européen de Normalisation ELECtrotechnique (CENELEC) sowie die schweizerischen Niederspannungsinstallationsnormen (NIN).\n3) Alle Steckdosenstromkreise bis zu einer Nennstromstärke von 32 A sind zusätzlich mit einer Fehlerstromschutzschaltung mit maximal 30 mA zu versehen. Wird in begründeten Fällen die Aufrechterhaltung des Betriebes einer Anwendung höher eingestuft als die Wirkung des Fehlerstromschutzes, können andere wirksame Schutzmassnahmen ergriffen werden. Diese Anwendungen (Installationsbereiche) müssen dauerhaft und unmissverständlich gekennzeichnet werden. Als mögliche gleichwertige Schutzmassnahmen können betrachtet werden:\na) Fehlerstromschutzschalter mit maximal 100 mA;\nb) Trenntransformator;\nc) Direktanschluss;\nd) vollständig geschlossener Verbraucher mit vergossenen Anschlüssen und Steckeinrichtungen.\n4) Bestehen keine spezifischen technischen Normen, so ist nach jenen Normen vorzugehen, die sich sinngemäss anwenden lassen. Die Regierung entscheidet in Zweifelsfällen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Vermeidung von Störungen",
+      "content": "1) Elektrische Installationen müssen, soweit dies ohne aussergewöhnlichen Aufwand möglich ist, so erstellt, geändert und in Stand gehalten werden, dass sie den bestimmungsgemässen Gebrauch von anderen elektrischen Installationen, elektrischen Erzeugnissen und Schwachstrominstallationen nicht in unzumutbarer Weise stören.\n2) Störungsgefährdete elektrische Installationen müssen, soweit dies ohne aussergewöhnlichen Aufwand möglich ist, so erstellt, geändert und in Stand gehalten werden, dass ihr bestimmungsgemässer Gebrauch nicht durch andere elektrische Installationen und elektrische Erzeugnisse in unzumutbarer Weise gestört wird.\n3) Für die elektromagnetische Verträglichkeit von Erzeugnissen, die in elektrische Installationen eingebaut oder daran angeschlossen werden, gelten die Bestimmungen der Verordnung über den Schutz gegen elektromagnetische Störungen.\n4) Treten trotz Beachtung der anerkannten Regeln der Technik unzumutbare Beeinflussungen auf, die nur mit grossem Aufwand beseitigt werden können, so suchen sich die Beteiligten zu verständigen. Können sie sich nicht einigen, so entscheidet die Regierung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Art. 6 Pflichten des Eigentümers einer elektrischen Installation",
+      "content": "1) Der Eigentümer einer elektrischen Installation oder der von ihm bezeichnete Vertreter sorgt dafür, dass die elektrischen Installationen den Anforderungen der Art. 4 und 5 entsprechen. Er hat auf Verlangen eines Kontrollorgans die entsprechende Konformitätserklärung vorzuweisen.\n2) Er hat zu diesem Zweck die technischen Unterlagen der elektrischen Installationen (Konformitätserklärung, Installationsschema, Installationspläne, Betriebsanleitungen etc.), die ihm vom Ersteller der elektrischen Installation ausgehändigt werden müssen, während ihrer ganzen Lebensdauer aufzubewahren.\n3) Er muss Mängel unverzüglich beheben lassen.\n4) Wer eine elektrische Installation, die im Eigentum eines Dritten steht, unmittelbar betreibt und nutzt, muss festgestellte Mängel dem Eigentümer bzw. dessen Vertreter nach Massgabe der Regelung seines Nutzungsrechts unverzüglich melden und deren Behebung veranlassen.\nII. Bewilligungen für Installationsarbeiten\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Art. 7 Bewilligungspflicht",
+      "content": "1) Wer elektrische Installationen erstellt, ändert oder in Stand stellt und wer ortsfeste elektrische Erzeugnisse an elektrische Installationen fest oder gesteckt anschliesst oder solche Anschlüsse unterbricht, ändert oder in Stand stellt, braucht eine Installationsbewilligung.\n2) Zuständig für die Erteilung sind:\na) der Netzbetreiber für allgemeine Installationsbewilligungen (Art. 13 ff.);\nb) das Starkstrominspektorat für eingeschränkte Installationsbewilligungen (Art. 17 ff.)."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "8",
+      "title": "Art. 8 Inhalt der Installationsbewilligung",
+      "content": "Die Installationsbewilligung legt fest:\na) den Bewilligungsinhaber; und\nb) bei allgemeinen Installationsbewilligungen für Betriebe die fachkundige Person; oder\nc) bei eingeschränkten Installationsbewilligungen:\n1. die Person, welche die für die Erteilung der Bewilligung verlangte fachliche Eignung besitzt; sowie\n2. Art und Umfang der bewilligten Installationsarbeiten."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "9",
+      "title": "Art. 9 Übertragbarkeit der Installationsbewilligung",
+      "content": "Die Installationsbewilligung ist nicht übertragbar."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "10",
+      "title": "Art. 10 Widerruf der Installationsbewilligung",
+      "content": "Die Installationsbewilligung wird widerrufen, wenn:\na) die Voraussetzungen für ihre Erteilung nicht mehr erfüllt sind;\nb) der Bewilligungsinhaber oder sein Personal trotz Mahnung in schwerwiegender Weise gegen diese Verordnung verstösst."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "11",
+      "title": "Art. 11 Änderung der Installationsbewilligung",
+      "content": "Der Bewilligungsinhaber muss dem Netzbetreiber bzw. dem Stark-strominspektorat innert zwei Wochen jede Tatsache melden, die eine Änderung der Installationsbewilligung erfordert."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "12",
+      "title": "Art. 12 Verzeichnis der Installationsbewilligungen",
+      "content": "1) Der Netzbetreiber und das Starkstrominspektorat führen ein Verzeichnis der von ihnen erteilten Installationsbewilligungen; diese Verzeichnisse sind öffentlich.\n2) Widerrufene oder erloschene Installationsbewilligungen sind unverzüglich aus dem Verzeichnis zu entfernen.\nB. Allgemeine Installationsbewilligung"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Allgemeine Installationsbewilligung",
+      "section": "13",
+      "title": "Art. 13 Bewilligung für natürliche Personen",
+      "content": "Natürliche Personen, die in eigener Verantwortung Installationsarbeiten ausführen, erhalten eine allgemeine Installationsbewilligung, wenn sie fachkundig sind und Gewähr bieten, dass sie die Vorschriften dieser Verordnung einhalten."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "B. Allgemeine Installationsbewilligung",
+      "section": "14",
+      "title": "Art. 14 Fachkundigkeit",
+      "content": "Fachkundig ist, wer über die fachliche Eignung nach Art. 9 der Gewerbeverordnung verfügt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "B. Allgemeine Installationsbewilligung",
+      "section": "15",
+      "title": "Art. 15 Bewilligung für Betriebe",
+      "content": "Betriebe erhalten eine allgemeine Installationsbewilligung, wenn sie:\na) mindestens eine fachkundige Person (Art. 14) beschäftigen, die in den Betrieb so eingegliedert ist, dass sie die technische Aufsicht über die Installationsarbeiten wirksam ausüben kann;\nb) Gewähr bieten, dass sie die Vorschriften dieser Verordnung einhalten."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "B. Allgemeine Installationsbewilligung",
+      "section": "16",
+      "title": "Art. 16 Temporäre Bewilligung",
+      "content": "1) Scheidet die fachkundige Person (Art. 14) aus dem Betrieb aus, so muss eine neue fachkundige Person beschäftigt werden.\n2) Kann der Betrieb vorübergehend keine fachkundige Person beschäftigen, so kann der Netzbetreiber auf Antrag eine temporäre allgemeine Installationsbewilligung erteilen. Diese wird erteilt, wenn der Betrieb einen Elektroprojektleiter Installation und Sicherheit beschäftigt.\n3) Die temporäre Installationsbewilligung wird für maximal sechs Monate erteilt. Sie kann auf begründeten Antrag hin von der Regierung um höchstens weitere sechs Monate verlängert werden.\nC. Eingeschränkte Installationsbewilligung"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "C. Eingeschränkte Installationsbewilligung",
+      "section": "17",
+      "title": "Art. 17 Arten",
+      "content": "1) Das Starkstrominspektorat erteilt eingeschränkte Installationsbewilligungen für:\na) innerbetriebliche Installationsarbeiten (Art. 18);\nb) Installationsarbeiten an besonderen Anlagen (Art. 19);\nc) den Anschluss von elektrischen Erzeugnissen (Art. 20).\n2) Eingeschränkte Bewilligungen nach Abs. 1 Bst. b und c können nicht kumuliert werden."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "C. Eingeschränkte Installationsbewilligung",
+      "section": "18",
+      "title": "Art. 18 Bewilligung für innerbetriebliche Installationsarbeiten",
+      "content": "1) Eine Bewilligung für innerbetriebliche Installationsarbeiten wird einem Betrieb erteilt, der zur Ausführung der Installationsarbeiten Betriebsangehörige (Betriebselektriker) einsetzt.\n2) Betriebselektriker ist, wer:\na) über ein Fähigkeitszeugnis als Elektroinstallateur verfügt und zusätzlich mindestens drei Jahre praktische Tätigkeit in elektrischen Installationen unter Aufsicht einer fachkundigen Person (Art. 14) nachweisen kann;\nb) über die fachliche Eignung eines dem Elektroinstallationsgewerbe nahe stehenden Berufes verfügt oder eine gleichwertige Ausbildung abgeschlossen hat und zusätzlich mindestens fünf Jahre praktische Tätigkeit in elektrischen Installationen unter Aufsicht einer fachkundigen Person (Art. 14) nachweisen kann; oder\nc) die Betriebselektrikerprüfung bestanden hat.\n3) Über die dem Elektroinstallationsgewerbe nahe stehenden Berufe und die Gleichwertigkeit der Ausbildung nach Abs. 2 Bst. b entscheidet die Regierung.\n4) Die Bewilligung berechtigt zu folgenden innerbetrieblichen Installationsarbeiten:\na) Unterhaltsarbeiten und Beseitigung von Störungen;\nb) Änderung und Ergänzung der Installation hinter einem Verbraucher-Überstromunterbrecher;\nc) Zusammenbau von vorfabrizierten Bauelementen mit vollständigen, eingelegten Installationen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "C. Eingeschränkte Installationsbewilligung",
+      "section": "19",
+      "title": "Art. 19 Bewilligung für Installationsarbeiten an besonderen Anlagen",
+      "content": "1) Eine Bewilligung für Installationsarbeiten an Anlagen, deren Erstellung spezielle Kenntnisse erfordert (z.B. Aufzüge, Förderanlagen, Alarmanlagen, Leuchtschriften), wird einem Betrieb erteilt, der zur Ausführung der Arbeiten Betriebsangehörige einsetzt, welche:\na) die Voraussetzungen als Betriebselektriker (Art. 18 Abs. 2) erfüllen und drei Jahre praktische Tätigkeit in solchen Installationen unter Aufsicht einer fachkundigen Person (Art. 14) oder einer Person nachweisen, welche die entsprechende Prüfung des Starkstrominspektorates bestanden hat; oder\nb) drei Jahre praktische Tätigkeit in solchen Installationen unter Aufsicht einer fachkundigen Person (Art. 14) oder einer Person nachweisen, welche die entsprechende Prüfung des Starkstrominspektorates bestanden hat, und die selber diese Prüfung bestanden haben.\n2) Die Bewilligung berechtigt zu den darin aufgeführten Installationsarbeiten."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "C. Eingeschränkte Installationsbewilligung",
+      "section": "20",
+      "title": "Art. 20 Bewilligung für den Anschluss von elektrischen Erzeugnissen",
+      "content": "1) Die Bewilligung wird einem Betrieb erteilt, der zur Ausführung der Arbeiten Betriebsangehörige einsetzt, welche die Voraussetzungen als Betriebselektriker (Art. 18 Abs. 2) erfüllen.\n2) Die Bewilligung berechtigt zum Anschliessen und Auswechseln von fest angeschlossenen elektrischen Erzeugnissen.\n3) In besonderen Fällen kann das Starkstrominspektorat Anschlussbewilligungen für Betriebe erteilen, welche die Bewilligungsvoraussetzungen nicht in allen Teilen erfüllen. Die Bewilligungserteilung wird davon abhängig gemacht, dass die Betriebsangehörigen, die für die Arbeiten eingesetzt werden sollen, eine vom Starkstrominspektorat durchgeführte Prüfung bestehen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "C. Eingeschränkte Installationsbewilligung",
+      "section": "21",
+      "title": "Art. 21 Prüfungen",
+      "content": "1) Das Starkstrominspektorat führt die Prüfungen durch, die zur Erlangung der eingeschränkten Installationsbewilligung erforderlich sind.\n2) Die Regierung regelt die Einzelheiten.\nD. Installationsarbeiten ohne Bewilligung"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "D. Installationsarbeiten ohne Bewilligung",
+      "section": "22",
+      "title": "Art. 22 Installationsarbeiten ohne Bewilligung",
+      "content": "1) Keine Installationsbewilligung benötigen fachkundige Personen nach Art. 14, Elektroprojektleiter Installation und Sicherheit, Montage-Elektriker sowie Betriebselektriker für Installationsarbeiten in von ihnen bewohnten oder in ihrem Eigentum stehenden Wohn- und zugehörigen Nebenräumen.\n2) Keine Installationsbewilligungen benötigen Personen, die:\na) Installationsarbeiten in von ihnen bewohnten Wohn- und zugehörigen Nebenräumen hinter Verbraucher-Überstromunterbrechern an einphasigen Lampen- und Steckdosenstromkreisen mit Fehlerstromschutzschaltern für maximal 30 mA Nennauslösestrom ausführen;\nb) Beleuchtungskörper und zugehörige Schalter in von ihnen bewohnten Wohn- und zugehörigen Nebenräumen montieren und demontieren.\n3) Elektrische Installationen nach Abs. 1 und 2 Bst. a müssen von einer fachkundigen Person nach Art. 14 oder einem Elektroprojektleiter Installation und Sicherheit kontrolliert werden. Die kontrollierende Person muss dem Eigentümer und dem Netzbetreiber eine Konformitätserklärung ausstellen.\nIII. Ausführung von Installationsarbeiten"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "III. Ausführung von Installationsarbeiten",
+      "section": "23",
+      "title": "Art. 23 Personaleinsatz",
+      "content": "1) Inhaber von Installationsbewilligungen dürfen die Ausführung von Installationsarbeiten nur übertragen an:\na) Elektroinstallateure oder Montage-Elektriker; oder\nb) Personen, die über eine dem Bst. a gleichwertige fachliche Eignung verfügen. Über die Gleichwertigkeit entscheidet die Regierung.\n2) Lernende oder Hilfskräfte dürfen Installationsarbeiten nur unter Anleitung und Aufsicht von fachkundigen Personen nach Art. 14, Elektroprojektleiter Installation und Sicherheit oder Personen nach Abs. 1 ausführen. Eine Person darf höchstens fünf Lernende oder Hilfskräfte beaufsichtigen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "III. Ausführung von Installationsarbeiten",
+      "section": "24",
+      "title": "Art. 24 Baubegleitende Erstprüfung und Schlusskontrolle",
+      "content": "1) Vor Inbetriebnahme von Teilen oder ganzen elektrischen Installationen ist eine baubegleitende Erstprüfung durchzuführen.\n2) Für Installationsarbeiten, die einer allgemeinen Installationsbewilligung bedürfen, gilt Folgendes:\na) vor der Übergabe an den Eigentümer oder dem von ihm bezeichneten Vertreter muss eine fachkundige Person nach Art. 14 oder ein Elektroprojektleiter Installation und Sicherheit eine Schlusskontrolle durchführen und die Ergebnisse dieser Kontrolle in der Konformitätserklärung festhalten;\nb) bei elektrischen Installationen, an denen mehrere Unternehmen zusammengearbeitet haben, muss die Schlusskontrolle von der Person durchgeführt werden, die gegenüber dem Eigentümer oder dem von ihm bezeichneten Vertreter für die Gesamtheit der Installation verantwortlich zeichnet. Die Ergebnisse der Schlusskontrolle sind in der Konformitätserklärung festzuhalten.\n3) Bei Installationsarbeiten, die einer eingeschränkten Installationsbewilligung bedürfen, führen die in den eingeschränkten Bewilligungen aufgeführten Personen Schlusskontrollen nach den Vorgaben des Starkstrominspektorates durch und bewahren die unterzeichneten Protokolle zu Handen des Starkstrominspektorates auf. An Stelle der Konformitätserklärung führen sie ein Verzeichnis der ausgeführten Arbeiten."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "III. Ausführung von Installationsarbeiten",
+      "section": "25",
+      "title": "Art. 25 Meldepflicht bei allgemeinen Installationsbewilligungen",
+      "content": "Nach erfolgter Schlusskontrolle meldet der Bewilligungsinhaber, der für die Gesamtheit der Installation verantwortlich zeichnet, sowohl dem Eigentümer oder dem von ihm benannten Vertreter als auch dem Netzbetreiber mit der Konformitätserklärung den Abschluss der Installationsarbeiten, die der allgemeinen Installationsbewilligung unterliegen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "III. Ausführung von Installationsarbeiten",
+      "section": "26",
+      "title": "Art. 26 Inhalt der Konformitätserklärung",
+      "content": "Die Konformitätserklärung muss mindestens folgende Angaben enthalten:\na) die Adresse der elektrischen Installation (Objektstandort);\nb) die Adresse des Eigentümers der elektrischen Installation und gegebenenfalls des von ihm bezeichneten Vertreters;\nc) die Beschreibung der elektrischen Installation, einschliesslich allfälliger Besonderheiten;\nd) der Name, die Adresse und die Unterschrift der Person, welche die Kontrolle nach Art. 24 Abs. 2 vorgenommen hat;\ne) der Name und die Adresse des Inhabers der Installationsbewilligung;\nf) die Ergebnisse der Schlusskontrolle nach Art. 24 Abs. 2."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "III. Ausführung von Installationsarbeiten",
+      "section": "27",
+      "title": "Art. 27 Arbeitssicherheit",
+      "content": "1) Arbeiten an elektrischen Installationen dürfen grundsätzlich nur ausgeführt werden, wenn diese nicht unter Spannung stehen. Der betreffende Teil der Installation ist vor Beginn der Arbeit:\na) abzutrennen;\nb) gegen Wiedereinschaltung zu sichern;\nc) auf Spannungsfreiheit zu prüfen;\nd) zu erden und kurzzuschliessen, wenn die Gefahr von Spannungsübertragungen oder Rückeinspeisung besteht;\ne) gegen benachbarte, unter Spannung verbliebene Teile abzudecken.\n2) An unter Spannung stehenden elektrischen Installationen dürfen nur Elektroinstallateure oder Personen mit einer gleichwertigen Ausbildung arbeiten. Sie müssen für solche Arbeiten entsprechend den neuesten Erkenntnissen speziell ausgebildet und ausgerüstet sein.\n3) Für Arbeiten an unter Spannung stehenden elektrischen Installationen sind immer zwei Personen einzusetzen. Eine von diesen ist als verantwortlich zu bestimmen.\nIV. Installationskontrolle"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "IV. Installationskontrolle",
+      "section": "28",
+      "title": "Art. 28 Aufgaben des Netzbetreibers",
+      "content": "1) Der Netzbetreiber überwacht und prüft den Eingang der Konformitätserklärungen. Diese sind während mindestens fünf Jahren aufzubewahren.\n2) Der Netzbetreiber kontrolliert stichprobenweise elektrische Installationen von Inhabern einer allgemeinen Installationsbewilligung und elektrische Installationen mit besonderem Gefährdungspotenzial (Spezialinstallationen). Er ordnet gegebenenfalls die zur Mängelbehebung erforderlichen Massnahmen an.\n3) Der Netzbetreiber kann für die Stichprobenkontrollen von Spezialinstallationen das Starkstrominspektorat beiziehen.\n4) Stichprobenkontrollen sind von fachkundigen Personen nach Art. 14 oder Elektroprojektleitern Installation und Sicherheit durchzuführen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "IV. Installationskontrolle",
+      "section": "29",
+      "title": "Art. 29 Aufgaben des Starkstrominspektorates",
+      "content": "1) Das Starkstrominspektorat beaufsichtigt die kontrollpflichtigen Unternehmen und unterstützt den Netzbetreiber bei der Durchführung der Überwachung der Installationskontrollen. Es ordnet gegebenenfalls die zur Mängelbehebung erforderlichen Massnahmen an.\n2) Das Starkstrominspektorat kontrolliert:\na) stichprobenweise elektrische Installationen von Inhabern einer eingeschränkten Installationsbewilligung;\nb) alle fünf Jahre elektrische Installationen nach Art. 17 Abs. 1 Bst. b und c."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "IV. Installationskontrolle",
+      "section": "30",
+      "title": "Art. 30 Mängelbehebung",
+      "content": "1) Mängel, die Personen oder Sachen gefährden können, müssen unverzüglich behoben werden. Besteht eine unmittelbare und erhebliche Gefahr, ist das Kontrollorgan für die sofortige Unterbrechung der Stromzufuhr von personen- und sachgefährdenden Installationsteilen besorgt.\n2) Die Kontrollorgane setzen für die Behebung von Mängeln, die im Rahmen der Stichprobenkontrollen festgestellt werden, eine angemessene Frist.\n3) Werden innerhalb der festgesetzten Frist die Mängel nicht behoben oder die angeordneten Massnahmen nicht durchgeführt, so orientiert der Netzbetreiber das Starkstrominspektorat über getroffene Verfügungen.\nV. Gebühren, Rechtsmittel und Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "V. Gebühren, Rechtsmittel und Strafbestimmungen",
+      "section": "31",
+      "title": "Art. 31 Gebühren",
+      "content": "1) Für die Erteilung, Änderung oder Aufhebung von Bewilligungen, den Erlass von Verboten und für andere Verfügungen und Entscheidungen erhebt der Netzbetreiber eine Gebühr von höchstens 3 000 Franken. Massgebende Bemessungsgrundlage ist der für eine Verfügung benötigte tatsächliche Aufwand.\n2) Die Gebühren für die übrigen Tätigkeiten des Netzbetreibers werden nach Zeitaufwand bemessen. Berechnungsgrundlage sind die in der Privatwirtschaft üblichen Ansätze für gleichartige Arbeiten.\n3) Auf die Erhebung von Gebühren des Starkstrominspektorates finden die Bestimmungen der Verordnung über das Starkstrominspektorat Anwendung."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "V. Gebühren, Rechtsmittel und Strafbestimmungen",
+      "section": "32",
+      "title": "Art. 32 Rechtsmittel",
+      "content": "1) Gegen Verfügungen des Netzbetreibers oder Starkstrominspektorates kann binnen 14 Tagen ab Zustellung Beschwerde bei der Regierung erhoben werden.\n2) Gegen Entscheidungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "V. Gebühren, Rechtsmittel und Strafbestimmungen",
+      "section": "33",
+      "title": "Art. 33 Strafbestimmungen",
+      "content": "Eine Widerhandlung nach Art. 30 Abs. 3 des Elektrizitätsgesetzes begeht, wer:\na) Installationsarbeiten ohne die dafür notwendige Bewilligung (Art. 7) ausführt;\nb) Kontrollen vornimmt, ohne über die nach dieser Verordnung erforderliche fachliche Eignung zu verfügen;\nc) die mit einer Installationsbewilligung verbundenen Pflichten verletzt, insbesondere die vorgeschriebenen Kontrollen nicht oder in schwerwiegender Weise nicht korrekt ausführt oder elektrische Installationen mit gefährlichen Mängeln dem Eigentümer übergibt.\nVI. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "34",
+      "title": "Art. 34 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Verordnung vom 4. Dezember 1990 über elektrische Niederspannungsinstallationen, LGBl. 1990 Nr. 84;\nb) Art. 125 der Starkstromverordnung vom 7. August 1984, LGBl. 1985 Nr. 26."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "35",
+      "title": "Art. 35 Übergangsbestimmungen",
+      "content": "1) Nach bisherigem Recht erteilte Bewilligungen und anerkannte Fachausweise behalten weiterhin ihre Gültigkeit.\n2) Personen, welche nach bisherigem Recht als fachkundig anerkannt waren, gelten im Sinne dieser Verordnung weiterhin als fachkundig.\n3) Für elektrische Installationen, die beim Inkrafttreten der vorliegenden Verordnung bereits erstellt waren, muss spätestens 15 Jahre nach Inkrafttreten eine Konformitätserklärung ausgestellt werden."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "36",
+      "title": "Art. 36 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Otmar Hasler\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n734.018 V über elektrische Niederspannungsinstallationen (Niederspannungs-Installationsverordnung, NIV)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2020 Nr. 472 ausgegeben am 18. Dezember 2020\nVerordnung\nvom 15. Dezember 2020\nüber die Abänderung der Niederspannungs-Installationsverordnung\n...\nII.\nÜbergangsbestimmungen\n1) Nach bisherigem Recht erteilte Bewilligungen und anerkannte Fachausweise behalten weiterhin ihre Gültigkeit.\n2) Personen, welche nach bisherigem Recht als fachkundig anerkannt waren, gelten im Sinne dieser Verordnung weiterhin als fachkundig.\n...\n1\nArt. 3 Abs. 1 Bst. c abgeändert durch LGBl. 2020 Nr. 472 .\n2\nArt. 3 Abs. 2 aufgehoben durch LGBl. 2020 Nr. 472 .\n3\nArt. 14 abgeändert durch LGBl. 2020 Nr. 472 .\n4\nArt. 16 Abs. 2 abgeändert durch LGBl. 2020 Nr. 472 .\n5\nArt. 18 Abs. 2 Bst. a abgeändert durch LGBl. 2020 Nr. 472 .\n6\nArt. 22 Abs. 1 abgeändert durch LGBl. 2020 Nr. 472 .\n7\nArt. 22 Abs. 3 abgeändert durch LGBl. 2020 Nr. 472 .\n8\nArt. 23 Abs. 1 Bst. a abgeändert durch LGBl. 2020 Nr. 472 .\n9\nArt. 23 Abs. 2 abgeändert durch LGBl. 2020 Nr. 472 .\n10\nArt. 24 Abs. 2 Bst. a abgeändert durch LGBl. 2020 Nr. 472 .\n11\nArt. 27 Abs. 2 abgeändert durch LGBl. 2020 Nr. 472 .\n12\nArt. 28 Abs. 4 abgeändert durch LGBl. 2020 Nr. 472 .\n13\nArt. 31 Abs. 1 abgeändert durch LGBl. 2024 Nr. 342 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektrische Installationen",
+      "definition": "1. stromverteilende und stromverbrauchende Installationen, die unmittelbar aus dem Niederspannungsverteilnetz gespeist werden. Als elektrische Installationen gelten insbesondere:",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Netzbetreiber",
+      "definition": "privat- oder öffentlich-rechtlich organisierte Unternehmen, welche nach Massgabe des Elektrizitätsmarktgesetzes (EMG) die Netzdienstleistungen für den Betrieb des Elektrizitätsnetzes erbringen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Konformitätserklärung",
+      "definition": "eine Bescheinigung, die dem Eigentümer und dem Netzbetreiber gegenüber bestätigt, dass die elektrische Installation den Vorschriften dieser Verordnung und den Regeln der Technik entspricht sowie von einer fachkundigen Person (Art. 14) oder einem Elektroprojektleiter Installation und Sicherheit geprüft worden ist;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Kontrollorgane",
+      "definition": "1. der Netzbetreiber;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "kontrollpflichtige Unternehmen",
+      "definition": "1. der Netzbetreiber;",
+      "source_provision": "art3"
+    }
+  ]
+}

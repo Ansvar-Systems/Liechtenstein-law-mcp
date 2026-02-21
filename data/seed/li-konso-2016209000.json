@@ -1,0 +1,27 @@
+{
+  "id": "li-konso-2016209000",
+  "type": "statute",
+  "title": "Verordnung vom 21. Juni 2016 über den pauschalen Zuschlag für die erweiterte obligatorische Krankenpflegeversicherung",
+  "title_en": "",
+  "short_name": "LGBl 2016.209",
+  "status": "in_force",
+  "issued_date": "2016-06-21",
+  "in_force_date": "2016-06-21",
+  "url": "https://www.gesetze.li/konso/2016209000",
+  "description": "Verordnung vom 21. Juni 2016 über den pauschalen Zuschlag für die erweiterte obligatorische Krankenpflegeversicherung",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Zuschlag",
+      "content": "Der pauschale Zuschlag für die erweiterte obligatorische Krankenpflegeversicherung nach Art. 22 Abs. 1a des Gesetzes beträgt monatlich:\na) bei Kindern: 10 Franken;\nb) bei Jugendlichen: 20 Franken;\nc) bei Erwachsenen: 40 Franken."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2017 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

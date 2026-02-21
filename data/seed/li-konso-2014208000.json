@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-2014208000",
+  "type": "statute",
+  "title": "Verordnung vom 17. Juni 2014 über die Erstattung der Kosten einer gerichtlich verfügten Mediation durch das Land",
+  "title_en": "",
+  "short_name": "LGBl 2014.208",
+  "status": "in_force",
+  "issued_date": "2014-06-17",
+  "in_force_date": "2014-06-17",
+  "url": "https://www.gesetze.li/konso/2014208000",
+  "description": "Verordnung vom 17. Juni 2014 über die Erstattung der Kosten einer gerichtlich verfügten Mediation durch das Land",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Höchstbeträge",
+      "content": "1) Das Land erstattet für eine vom Gericht nach Art. 103a Abs. 2 AussStrG verfügte Mediation die Kosten von höchstens zehn Mediationsstunden.\n2) Die vom Land pro Mediationsstunde (60 Minuten) zu erstattenden Kosten betragen höchstens 150 Franken."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Erstattung",
+      "content": "Das Gericht verfügt die Erstattung der Kosten an den Mediator auf dessen Antrag gegen Nachweis der erbrachten Leistung."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2015 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

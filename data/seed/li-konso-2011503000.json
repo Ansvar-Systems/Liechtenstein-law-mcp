@@ -1,0 +1,192 @@
+{
+  "id": "li-konso-2011503000",
+  "type": "statute",
+  "title": "Verordnung vom 15. November 2011 über das zentrale Visa-Informationssystem und das nationale Visumsystem (Visa-Informationssystem-Verordnung; VISV)",
+  "title_en": "",
+  "short_name": "VISV",
+  "status": "in_force",
+  "issued_date": "2011-11-15",
+  "in_force_date": "2011-11-15",
+  "url": "https://www.gesetze.li/konso/2011503000",
+  "description": "Verordnung vom 15. November 2011 über das zentrale Visa-Informationssystem und das nationale Visumsystem (Visa-Informationssystem-Verordnung; VISV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt:\na) die Verantwortung für das nationale Visumsystem (N-VIS) und dessen Architektur;\nb) die Zugriffsberechtigungen und die Zuständigkeiten der Behörden in Bezug auf das N-VIS;\nc) die Zugriffsberechtigungen der Behörden in Bezug auf das zentrale Visa-Informationssystem (C-VIS);\nd) die im N-VIS erfassten Daten;\ne) die als zentrale Zugangsstelle im Sinne des Art. 3 Abs. 3 des Beschlusses 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten (ABl. L 218 vom 13.8.2008, S. 129) zuständige Einheit der Landespolizei;\nf) das Verfahren zur Übermittlung von Daten des C-VIS durch die zentrale Zugangsstelle an die berechtigten Behörden;\ng) den Katalog der Straftaten nach Art. 74a Abs. 2 Bst. c und Abs. 3 AuG;\nh) die Verarbeitung und die Aufbewahrungsdauer der Daten;\ni) die Rechte der betroffenen Personen;\nk) die Übermittlung von Daten an Drittstaaten oder internationale Organisationen; und\nl) die Modalitäten der Datensicherheit."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Schengen-Staat\": ein Staat, der an den Schengen-Besitzstand gebunden ist;\nb) \"Dublin-Staat\": ein Staat, der an den Dublin-Besitzstand gebunden ist;\nc) \"Drittstaat\": ein Staat, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist.\n2) Unter den in dieser Verordnung verwendeten Personenbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Verantwortung für das N-VIS, Architektur des\nN-VIS und VIS-Mail"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Verantwortung für das N-VIS, Architektur des N-VIS und VIS-Mail",
+      "section": "3",
+      "title": "Art. 3 Verantwortung für das N-VIS",
+      "content": "1) Das Ausländer- und Passamt trägt die Verantwortung für das N-VIS.\n2) Es legt in einem Verarbeitungsreglement namentlich die Massnahmen fest, die zur Gewährleistung des Datenschutzes und der Datensicherheit notwendig sind."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Verantwortung für das N-VIS, Architektur des N-VIS und VIS-Mail",
+      "section": "4",
+      "title": "Art. 4 Architektur des N-VIS und Datenübermittlung ans C-VIS",
+      "content": "1) Das N-VIS enthält die Daten zu jedem zulässigen Visumgesuch.\n2) Die nach Massgabe der Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung) (ABl. L 218 vom 13.8.2008, S. 60) erfassten Daten werden über das N-VIS automatisch an das C-VIS übermittelt.\n3) Sämtliche Änderungen oder Löschungen von Daten, die nach Massgabe der VIS-Verordnung erfasst wurden, werden über das N-VIS automatisch an das C-VIS übermittelt."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Verantwortung für das N-VIS, Architektur des N-VIS und VIS-Mail",
+      "section": "5",
+      "title": "Art. 5 Konsultationsersuchen",
+      "content": "1) Das Ausländer- und Passamt empfängt und übermittelt Konsultationsersuchen nach Art. 16 der VIS-Verordnung und Art. 22 der Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex) (ABl. L 243 vom 15.9.2009, S. 1) ; es übermittelt das Konsultationsersuchen mit dem entsprechenden System an die um Konsultation ersuchenden Schengen-Staaten.\n2) Dieses Verfahren gilt ebenfalls für den Informationsaustausch über die Erteilung von Visa mit einer räumlich beschränkten Gültigkeit, für die Übermittlung sonstiger Mitteilungen im Rahmen der konsularischen Zusammenarbeit sowie für die Ersuchen um Übermittlung von Unterlagen im Zusammenhang mit dem Visumgesuch oder von Kopien dieser Unterlagen in elektronischer Form nach Art. 16 Abs. 3 der VIS-Verordnung.\n3) Das Ausländer- und Passamt kommuniziert über VIS-Mail."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Verantwortung für das N-VIS, Architektur des N-VIS und VIS-Mail",
+      "section": "6",
+      "title": "Art. 6 VIS-Mail",
+      "content": "1) VIS-Mail ist ein Kommunikationssystem zur Übermittlung von Informationen zwischen den Staaten, für die die VIS-Verordnung in Kraft getreten ist, über die Infrastruktur des Visa-Informationssystems.\n2) Das System VIS-Mail darf zur Übermittlung folgender Arten von Informationen verwendet werden:\na) Mitteilungen zur konsularischen Zusammenarbeit und zu den Ersuchen um Belege;\nb) Mitteilungen zu unrichtigen Daten;\nc) von einem Gesuchsteller erworbenes Bürgerrecht eines Mitgliedstaates.\nIII. Eingabe von Daten durch das Ausländer- und Passamt"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Eingabe von Daten durch das Ausländer- und Passamt",
+      "section": "7",
+      "title": "Art. 7 Eingabe der Daten",
+      "content": "1) Ist ein Visumgesuch nach Art. 19 des Visakodex zulässig, so gibt das Ausländer- und Passamt nach den Art. 8 bis 14 der VIS-Verordnung die Daten der Kategorie I nach dem Anhang und, je nach Verlauf des Verfahrens, die Daten der Kategorien II bis VI nach dem Anhang ein. Diese Daten werden nach Art. 4 Abs. 2 an das C-VIS übermittelt.\n2) Das Ausländer- und Passamt gibt zudem die Daten der Kategorie VII nach dem Anhang ein. Diese Daten werden nicht an das C-VIS übermittelt."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III. Eingabe von Daten durch das Ausländer- und Passamt",
+      "section": "8",
+      "title": "Art. 8 Datenverantwortlicher",
+      "content": "Das Ausländer- und Passamt ist Verantwortlicher im Sinne der Datenschutzgesetzgebung in Bezug auf Daten, die:\na) es bei der Erfassung eines Visumgesuchs eingegeben hat;\nb) bei einem Entscheid zur Visumerteilung oder bei Verlängerung des Visums eingegeben werden.\nIV. Zugriffsberechtigungen"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "IV. Zugriffsberechtigungen",
+      "section": "9",
+      "title": "Art. 9 Zugriff zum N-VIS",
+      "content": "1) Das Ausländer- und Passamt und die Landespolizei haben zur Erfüllung ihrer Aufgaben Zugriff zu den Daten des N-VIS.\n2) Die Abfrage- und Zugriffsberechtigung der einzelnen Organisationseinheiten werden in einem Verarbeitungsreglement nach Art. 3 Abs. 2 geregelt."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "IV. Zugriffsberechtigungen",
+      "section": "10",
+      "title": "Art. 10 Abfrage des C-VIS",
+      "content": "1) Daten des C-VIS abfragen können:\na) das Ausländer- und Passamt:\n1. im Rahmen der Aufgaben im Bereich Visa;\n2. zur Bestimmung des für die Prüfung eines Asylgesuchs zuständigen Dublin-Staates;\n3. zur Prüfung der Asylgesuche, über die Liechtenstein entscheiden muss;\nb) die Landespolizei:\n1. zur Verifizierung der Identität des Visuminhabers oder der Echtheit des Visums oder zur Klärung der Frage, ob die Voraussetzungen für eine Einreise in das Hoheitsgebiet von Liechtenstein oder für den dortigen Aufenthalt erfüllt sind;\n2. zur Identifikation sämtlicher Personen ohne Visum, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet von Liechtenstein oder für den dortigen Aufenthalt nicht oder nicht mehr erfüllen.\n2) Zentrale Zugangsstelle nach Art. 74a Abs. 2 Bst. c AuG ist der Fachbereich Internationale Polizeikooperation bei der Landespolizei, Abteilung Zentrale Polizeidienste. Dieser kann Daten des C-VIS zum Zwecke der Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Sinne des Beschlusses 2008/633/JI des Rates abfragen.\n3) Die Abfrageberechtigungen der einzelnen Organisationseinheiten werden in einem Verarbeitungsreglement nach Art. 3 Abs. 2 geregelt.\nV. Zugriffsberechtigung zum C-VIS über die zentrale Zugangsstelle"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "V. Zugriffsberechtigung zum C-VIS über die zentrale Zugangsstelle",
+      "section": "11",
+      "title": "Art. 11 Verfahren und Bedingungen für den Erhalt der Daten",
+      "content": "1) Die Abteilung Kriminalpolizei der Landespolizei ist im Sinne von Art. 74a Abs. 3 AuG berechtigt, zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Sinne des Beschlusses 2008/633/JI bei der zentralen Zugangsstelle (Art. 10 Abs. 2) bestimmte Daten des C-VIS zu beantragen; der Antrag ist zu begründen.\n2) Als terroristische oder sonstige schwere Straftaten im Sinne des Beschlusses 2008/633/JI gelten Straftaten nach dem Anhang 1 des Polizeigesetzes.\n3) Die Landespolizei erlässt unter Berücksichtigung der Vorgaben des Beschlusses 2008/633/JI Dienstanweisungen über das Verfahren.\n4) Sind die Bedingungen für den Zugriff auf die Daten des C-VIS im Sinne der Vorgaben des Beschlusses 2008/633/JI erfüllt, so ist der Zugriff der zentralen Zugangsstelle zum C-VIS auf die in Art. 5 Abs. 2 des Beschlusses 2008/633/JI des Rates genannten Datenkategorien begrenzt.\n5) Ergibt die Suche einen Treffer, so übermittelt die zentrale Zugangsstelle die in Art. 5 Abs. 3 des Beschlusses 2008/633/JI genannten Daten der Abteilung Kriminalpolizei auf gesichertem Weg."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "V. Zugriffsberechtigung zum C-VIS über die zentrale Zugangsstelle",
+      "section": "12",
+      "title": "Art. 12 Informationsaustausch mit den EU-Mitgliedstaaten, für welche die VIS-Verordnung nicht in Kraft ist",
+      "content": "1) Die EU-Mitgliedstaaten, für welche die VIS-Verordnung noch nicht in Kraft ist, können ihre Gesuche um den Erhalt von Daten des C-VIS direkt über Interpol an die zentrale Zugangsstelle richten.\n2) Die zentrale Zugangsstelle ist für die Überprüfung dieser Gesuche und deren direkten Beantwortung verantwortlich.\n3) Die Landespolizei erlässt unter Berücksichtigung der Vorgaben des Beschlusses 2008/633/JI Dienstanweisungen über das Verfahren.\n4) Die zentrale Zugangsstelle kann im Hinblick auf den Erhalt von Informationen im Visumbereich Gesuche an die zuständigen Behörden der EU-Mitgliedstaaten richten, für welche die VIS-Verordnung noch nicht in Kraft ist.\nVI. Datenverarbeitung und Datensicherheit\nA. Datenverarbeitung"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "A. Datenverarbeitung",
+      "section": "13",
+      "title": "Art. 13 Verarbeitungsgrundsatz",
+      "content": "Nur das Ausländer- und Passamt, das an das C-VIS übermittelte Daten selbst eingegeben hat, darf diese Daten ändern."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "A. Datenverarbeitung",
+      "section": "14",
+      "title": "Art. 14 Speicherung der Daten im N-VIS",
+      "content": "1) Die Daten des N-VIS werden höchstens fünf Jahre gespeichert.\n2) Diese Frist beginnt:\na) im Fall der Ausstellung eines Visums: mit dem Ablauftag seiner Gültigkeit;\nb) im Fall der Verlängerung eines Visums: mit dem Ablauftag seiner neuen Gültigkeit;\nc) im Fall des Rückzugs des Gesuchs, der Einstellung oder Nichtfortführung der Prüfung eines Gesuchs: mit Erstellung des Gesuchsdatensatzes im nationalen Visumsystem;\nd) im Fall der Ablehnung, Annullierung oder der Aufhebung eines Visums: mit der entsprechenden Entscheidung der Visumbehörde."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "A. Datenverarbeitung",
+      "section": "15",
+      "title": "Art. 15 Löschung der Daten",
+      "content": "1) Erwirbt eine Person das Landesbürgerrecht, so:\na) löscht das Ausländer- und Passamt die Gesuchsdatensätze der betroffenen Person und die Verknüpfungen mit Datensätzen seines Ehegatten oder seiner Kinder oder der Gruppe, mit der sie gereist ist, unverzüglich, sofern die Gesuchsdaten vom Ausländer- und Passamt erfasst wurden;\nb) teilt das Ausländer- und Passamt dies unverzüglich den Schengen-Staaten, welche die Visumdaten erfasst haben, mit.\n2) Das Zivilstandsamt muss das Ausländer- und Passamt (Abteilung Bewilligungen und Integration) über die Einbürgerungen unterrichten.\n3) Wird die Entscheidung über die Ablehnung eines Visums durch die zuständige Beschwerdeinstanz aufgehoben, so werden die Daten über die Ablehnung der Visumerteilung durch das Ausländer- und Passamt gelöscht."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "A. Datenverarbeitung",
+      "section": "16",
+      "title": "Art. 16 Datenqualität",
+      "content": "1) Das Ausländer- und Passamt stellt die Richtigkeit der Daten und die Rechtsmässigkeit der Datenverarbeitung im N-VIS sicher.\n2) Bestehen Anhaltspunkte dafür, dass Daten unrichtig sind oder unrechtmässig verarbeitet werden, so ist dies dem Ausländer- und Passamt unverzüglich mitzuteilen.\n3) Das Ausländer- und Passamt unternimmt unverzüglich die erforderlichen Schritte, sobald ihm unrichtige Daten oder eine unrechtsmässige Datenverarbeitung zur Kenntnis gebracht wurden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "A. Datenverarbeitung",
+      "section": "17",
+      "title": "Art. 17 Speicherung der Daten des C-VIS",
+      "content": "1) Daten, die aus dem C-VIS bezogen werden, dürfen weder im N-VIS noch in einer anderen nationalen Datei gespeichert werden.\n2) Die Daten des C-VIS dürfen nach Art. 30 der VIS-Verordnung im N-VIS gespeichert werden, wenn die Speicherung im Einzelfall erforderlich ist und solange der betreffende Fall bearbeitet wird.\n3) Daten nach Art. 11 Abs. 5 dürfen in nationalen Informationssystemen nur gespeichert werden, wenn und solange dies im Einzelfall unter Berücksichtigung der Zwecke des Beschlusses 2008/633/JI erforderlich ist.\n4) Jede Verwendung von Daten, die den Abs. 1 bis 3 widerspricht, ist als Missbrauch im Sinn von Art. 86a AuG anzusehen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "A. Datenverarbeitung",
+      "section": "18",
+      "title": "Art. 18 Übermittlung von Daten an Drittstaaten oder internationale Organisationen",
+      "content": "1) Die im N-VIS und im C-VIS verarbeiteten Daten dürfen Drittstaaten oder internationalen Organisationen nicht übermittelt werden.\n2) Folgende Daten des C-VIS über eine Person dürfen Drittstaaten oder internationalen Organisationen im Sinne des Anhangs der VIS-Verordnung im Einzelfall zum Nachweis der Identität eines Drittstaatsangehörigen, auch zum Zweck der Rückführung, übermittelt werden, wenn die Bedingungen nach Art. 31 der VIS-Verordnung erfüllt sind:\na) Nachnamen, Geburtsnamen, Vornamen, Geschlecht, Datum der Gesuchsstellung, Geburtsort und -land;\nb) derzeitige Staatsangehörigkeit und Staatsangehörigkeit zum Zeitpunkt der Geburt;\nc) Art und Nummer des Reisedokuments, ausstellende Behörde, Ausstellungsdatum und Ablauf der Gültigkeit;\nd) Wohnort;\ne) für Minderjährige: Nachname und Vorname des Inhabers der elterlichen Sorge oder des Vormunds.\n3) Die Daten des N-VIS können in einem Einzelfall nach Art. 72 AuG übermittelt werden.\nB. Rechte betroffener Personen"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "B. Rechte betroffener Personen",
+      "section": "19",
+      "title": "Art. 19 Recht auf Auskunft sowie auf Berichtigung und Löschung der Daten",
+      "content": "1) Macht eine Person ihr Recht auf Auskunft oder auf Berichtigung und Löschung der Daten des N-VIS oder des C-VIS geltend, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch beim Ausländer- und Passamt einzureichen.\n2) Das Ausländer- und Passamt bearbeitet das Gesuch um Auskunft entweder selbst, wenn es die Daten im N-VIS erfasst hat, oder im Einvernehmen mit dem Staat, der die Daten an das C-VIS übermittelt hat.\n3) Das Ausländer- und Passamt registriert die Gesuche um Auskunft.\n4) Macht eine Person ihr Recht auf Berichtigung und Löschung von Daten des C-VIS geltend, die nicht von Liechtenstein erfasst wurden, so muss Liechtenstein mit dem Staat, der die Visumdaten erfasst hat, innerhalb von vierzehn Tagen Kontakt aufnehmen und ihm das Gesuch übermitteln. Das Ausländer- und Passamt unterrichtet die betroffene Person über die Übermittlung des Gesuchs.\n5) Das Ausländer- und Passamt bearbeitet Auskunfts-, Berichtigungs- und Löschungsgesuche unverzüglich.\n6) Das Ausländer- und Passamt bestätigt der betroffenen Person unverzüglich schriftlich, dass es die Daten berichtigt oder gelöscht hat oder dass es nicht bereit ist, die Daten zu berichtigen oder zu löschen; ist das Ausländer- und Passamt nicht zur Berichtigung oder Löschung bereit, so muss es die entsprechenden Gründe dafür angeben.\nC. Datensicherheit"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "C. Datensicherheit",
+      "section": "20",
+      "title": "Art. 20 Datensicherheit",
+      "content": "1) Die Datensicherheit richtet sich nach der Datenschutzgesetzgebung.\n2) Das Ausländer- und Passamt legt im Verarbeitungsreglement nach Art. 3 Abs. 2 die organisatorischen und technischen Massnahmen gegen unbefugtes Verarbeiten der Daten fest und regelt die automatische Protokollierung der Datenverarbeitung und der Dateneinsicht."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "C. Datensicherheit",
+      "section": "21",
+      "title": "Art. 21 Statistiken",
+      "content": "1) Das Ausländer- und Passamt erstellt, soweit es zur Erfüllung seiner gesetzlichen Aufgaben erforderlich ist, Statistiken auf Grundlage der im N-VIS erfassten Daten.\n2) Das Ausländer- und Passamt kann auch Statistiken zum C-VIS erstellen. Die Zugriffsberechtigungen zu diesem Zweck werden in einem Verarbeitungsreglement nach Art. 3 Abs. 2 geregelt.\n3) Die Statistiken dürfen keine Rückschlüsse auf die betroffenen Personen zulassen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "C. Datensicherheit",
+      "section": "22",
+      "title": "Art. 22 Aufsicht über die Verarbeitung von Daten",
+      "content": "1) Der Datenschutzstelle obliegt die Aufsicht über die Verarbeitung von Daten.\n2) Die Daten der automatisierten Protokollierung sind der Datenschutzstelle auf Verlangen herauszugeben, soweit sie für die Ausübung ihrer Aufsicht erforderlich sind.\n3) Die Datenschutzstelle arbeitet bei der Wahrnehmung ihrer Aufgaben eng mit dem Europäischen Datenschutzbeauftragten zusammen; für diesen ist sie nationale Ansprechstelle.\nVII. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "VII. Schlussbestimmung",
+      "section": "23",
+      "title": "Art. 23 Inkrafttreten",
+      "content": "Diese Verordnung tritt mit der vollständigen Inkraftsetzung des Protokolls vom 28. Februar 2008 zwischen dem Fürstentum Liechtenstein, der Europäischen Union, der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Europäischen Union, der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\nAnhang\n(Art. 7)\nIm N-VIS einzugebende Daten\nI. Daten bei der Gesuchstellung\nAntragsnummer\nStatusinformation: Gesuch gestellt\nZuständige Behörde und Standort\nIn Vertretung eines anderen Schengen-Staats\nNachnamen\nGeburtsnamen\nVornamen\nGeburtsdatum\nGeburtsort\nGeburtsland\nGeschlecht\nDerzeitige Staatsangehörigkeit und Staatsangehörigkeit zum Zeitpunkt der Geburt\nArt des Reisedokuments\nNummer des Reisedokuments\nAusstellende Behörde\nAusstellungsdatum und Ablauf der Gültigkeit\nOrt und Datum der Gesuchstellung\nGastgeber und/oder Garant: Nachnamen, Vornamen, Anschrift; bei Unternehmen oder Organisationen: Name und Anschrift des Unternehmens oder der Organisation, Nachname und Vorname der Kontaktperson im Unternehmen/in der Organisation\nZielstaaten im Schengen-Gebiet\nDauer des geplanten Aufenthalts oder der Durchreise\nHauptzweck der Reise\nGeplanter Tag der Einreise und der Ausreise aus dem Schengen-Gebiet\nSchengen-Staat der ersten Einreise\nHeimatadresse des Gesuchstellers\nDerzeitige Beschäftigung und Arbeitgeber; bei Studenten: Name der Bildungseinrichtung\nFür Minderjährige: Nachname und Vorname des Inhabers der elterlichen Sorge oder des Vormunds\nFoto des Gesuchstellers\nFingerabdrücke des Gesuchstellers\nII. Daten bei der Visumerteilung\nStatusinformation: erteilt\nZuständige Behörde und Standort\nIm Namen eines anderen Schengen-Staats (ja/nein)\nOrt und Datum der Entscheidung\nVisumkategorie\nNummer der Visumvignette\nGebiet, in das der Visuminhaber gemäss EG-Visakodex reisen darf\nGültigkeitsdauer des Visums: Beginn- und Ablaufdaten\nZahl der erlaubten Einreisen während der Gültigkeitsdauer\nDauer des durch das Visum erlaubten Aufenthalts\nVisum auf einem separaten Formblatt erteilt (ja/nein)\nVisumvignette handschriftlich ausgefüllt\nBei Rückzug des Gesuchs oder nicht Weiterverfolgung durch den Gesuchsteller vor Entscheidung über Visumerteilung: Einstellung des Gesuchsverfahrens und Zeitpunkt der Einstellung\nIII. Daten bei Nichtfortführung der Prüfung des Gesuchs\nStatusinformation: nicht fortgeführt\nOrt und Datum der Entscheidung\nZuständige Behörde und Standort\nSchengen-Staat, der für die Prüfung des Gesuchs zuständig ist\nIV. Daten bei Ablehnung der Visumerteilung\nStatusinformation: abgelehnt\nIm Namen eines anderen Schengen-Staats\nOrt und Datum der Entscheidung\nZuständige Behörde und Standort\nGründe für die Ablehnung\nV. Daten bei Annullierung oder Aufhebung eines Visums\nStatusinformation: annulliert, aufgehoben\nZuständige Behörde und Standort\nOrt und Datum der Entscheidung\nGründe für die Annullierung oder die Aufhebung\nVI. Daten bei Verlängerung eines Visums\nStatusinformation: verlängert\nZuständige Behörde und Standort\nOrt und Datum der Entscheidung\nNummer der Visumvignette des verlängerten Visums\nBeginn- und Ablaufdaten der Verlängerungsfrist\nVerlängerte erlaubte Aufenthaltsdauer\nGebiet, in das der Visuminhaber reisen darf, falls das verlängerte Visum eine andere räumliche Gültigkeit als das ursprüngliche Visum hat\nKategorie des verlängerten Visums\nGründe für die Verlängerung\nVII. Daten, die lediglich den liechtensteinischen Behörden von Nutzen sind\nNachnamen der Eltern des Gesuchstellers\nVornamen der Eltern des Gesuchstellers\n1\nArt. 1 Bst. h abgeändert durch LGBl. 2018 Nr. 429 .\n2\nArt. 1 Bst. k abgeändert durch LGBl. 2018 Nr. 429 .\n3\nArt. 3 Abs. 2 abgeändert durch LGBl. 2018 Nr. 429 .\n4\nArt. 8 abgeändert durch LGBl. 2018 Nr. 429 .\n5\nArt. 9 Abs. 2 abgeändert durch LGBl. 2018 Nr. 429 .\n6\nArt. 10 Abs. 2 abgeändert durch LGBl. 2024 Nr. 472 .\n7\nArt. 10 Abs. 3 abgeändert durch LGBl. 2018 Nr. 429 .\n8\nArt. 11 Abs. 2 abgeändert durch LGBl. 2025 Nr. 483 .\n9\nÜberschrift vor Art. 13 abgeändert durch LGBl. 2018 Nr. 429 .\n10\nÜberschrift vor Art. 13 abgeändert durch LGBl. 2018 Nr. 429 .\n11\nArt. 13 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 429 .\n12\nArt. 16 abgeändert durch LGBl. 2018 Nr. 429 .\n13\nArt. 18 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 429 .\n14\nArt. 18 Abs. 1 abgeändert durch LGBl. 2018 Nr. 429 .\n15\nArt. 18 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2018 Nr. 429 .\n16\nArt. 18 Abs. 3 abgeändert durch LGBl. 2018 Nr. 429 .\n17\nArt. 20 Abs. 2 abgeändert durch LGBl. 2018 Nr. 429 .\n18\nArt. 21 Abs. 2 abgeändert durch LGBl. 2018 Nr. 429 .\n19\nArt. 22 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 429 .\n20\nArt. 22 Abs. 1 abgeändert durch LGBl. 2018 Nr. 429 .\n21\nIn Kraft getreten am 19. Dezember 2011 ( LGBl. 2011 Nr. 563 )."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Schengen-Staat",
+      "definition": "ein Staat, der an den Schengen-Besitzstand gebunden ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dublin-Staat",
+      "definition": "ein Staat, der an den Dublin-Besitzstand gebunden ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Drittstaat",
+      "definition": "ein Staat, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-1980033000",
+  "type": "statute",
+  "title": "Gesetz vom 26. September 1979 zum Vertrag zwischen dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft über den Schutz der Erfindungspatente",
+  "title_en": "",
+  "short_name": "LGBl 1980.033",
+  "status": "in_force",
+  "issued_date": "1979-09-26",
+  "in_force_date": "1979-09-26",
+  "url": "https://www.gesetze.li/konso/1980033000",
+  "description": "Gesetz vom 26. September 1979 zum Vertrag zwischen dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft über den Schutz der Erfindungspatente",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Zuständige Gerichte",
+      "content": "1) Das Fürstliche Obergericht ist erste und einzige inländische Instanz für die im Patentgesetz vorgesehenen Zivilklagen.\n2) Zur Anordnung vorsorglicher Massnahmen nach Art. 77 des Patentgesetzes ist vor Anhängigkeit der Zivilklage das Fürstliche Landgericht, nach deren Anhängigkeit der Präsident des Fürstlichen Obergerichts zuständig."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Verfahren",
+      "content": "1) Die Gerichte wenden in den nach Art. 1 genannten Verfahren die Vorschriften der Zivilprozess- und der Exekutionsordnung an."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten; Ausserkrafttreten",
+      "content": "1) Dieses Gesetz tritt am 1. April 1980 in Kraft.\n2) Das Gesetz vom 26. Oktober 1928 betreffend die Erfindungspatente, LGBl. 1928 Nr. 11, wird aufgehoben.\ngez. Franz Josef\ngez. Hans Brunhart\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

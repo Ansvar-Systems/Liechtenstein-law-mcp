@@ -1,0 +1,263 @@
+{
+  "id": "li-konso-2011048000",
+  "type": "statute",
+  "title": "Geoinformationsgesetz (GeoIG) vom 15. Dezember 2010",
+  "title_en": "",
+  "short_name": "LGBl 2011.048",
+  "status": "in_force",
+  "issued_date": "2010-12-15",
+  "in_force_date": "2010-12-15",
+  "url": "https://www.gesetze.li/konso/2011048000",
+  "description": "Geoinformationsgesetz (GeoIG) vom 15. Dezember 2010",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Dieses Gesetz regelt den Aufbau, den Unterhalt und die Organisation der nationalen Geodateninfrastruktur (GDI-Liechtenstein).\n2) Es bezweckt, dass Geodaten über das Gebiet des Fürstentums Liechtenstein den Behörden sowie der Gesellschaft, der Wirtschaft und der Wissenschaft für eine breite Nutzung einfach, aktuell, langfristig, in der erforderlichen Qualität und zu angemessenen Kosten zur Verfügung stehen.\n3) Es dient der Umsetzung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) (EWR-Rechtssammlung: Anh. XX - 1j.01)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Geltungsbereich",
+      "content": "1) Dieses Gesetz gilt für in Verwendung stehende Geodatensätze, soweit:\na) sie bei der zuständigen Fachstelle, welche die Daten im Rahmen ihres öffentlichen Auftrages erstellt, verwaltet oder aktualisiert, oder bei Dritten, denen nach Art. 16 Abs. 3 Netzzugang gewährt wird, vorhanden sind oder für diese bereitgehalten werden;\nb) sie sich auf das Hoheitsgebiet Liechtensteins beziehen;\nc) sie in elektronischer Form vorliegen; und\nd) deren Erfassung spezialgesetzlich geregelt ist, oder sie ein in Anhang I, II oder III der Richtlinie 2007/2/EG aufgeführtes oder ein anderes von der Regierung mit Verordnung bezeichnetes Thema betreffen.\n2) Es gilt auch für Geodatendienste, die sich auf Geodaten beziehen, die in den in Abs. 1 genannten Geodatensätzen enthalten sind.\n3) Sind von einem Geodatensatz identische Kopien vorhanden, gilt dieses Gesetz nur für die Referenzversion, von der die Kopien abgeleitet sind.\n4) Bestehen Rechte des geistigen Eigentums an Geodatensätzen oder Geodatendiensten und verfügt die zuständige Fachstelle nicht selbst über diese Rechte, so bleiben diese Rechte von diesem Gesetz unberührt.\n5) Spezialgesetzliche Bestimmungen insbesondere des Vermessungsgesetzes, des ÖREB-Katastergesetzes, des Informationsweiterverwendungsgesetzes und des Umweltinformationsgesetzes bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als:\na) \"Geodateninfrastruktur (GDI)\": Metadaten, Geodatensätze und Geodatendienste, Netzdienste und -technologien, Vereinbarungen über gemeinsame Nutzung, Zugang und Verwendung sowie Koordinierungs- und Überwachungsmechanismen, -prozesse und -verfahren, die im Einklang mit diesem Gesetz geschaffen, angewandt oder zur Verfügung gestellt werden;\nb) \"Geodaten\": raumbezogene Daten, die mit einem bestimmten Zeitbezug die Ausdehnung und Eigenschaften bestimmter Räume und Objekte beschreiben;\nc) \"zuständige Fachstelle\":\n1. Landes- und Gemeindebehörden einschliesslich öffentlicher beratender Gremien;\n2. öffentlich-rechtliche Anstalten und Stiftungen sowie andere juristische Personen des öffentlichen Rechts, soweit sie öffentliche Aufgaben wahrnehmen; oder\n3. natürliche oder juristische Personen des privaten Rechts, die unter der Kontrolle einer der in Ziff. 1 und 2 genannten Stellen stehen und öffentliche Aufgaben wahrnehmen;\nd) \"Dritter\": jede natürliche oder juristische Person, die nicht eine zuständige Fachstelle ist;\ne) \"Geoinformationen\": raumbezogene Informationen, die durch die Verknüpfung von Geodaten gewonnen werden;\nf) \"Geodatensatz\": eine identifizierbare Sammlung von Geodaten;\ng) \"Geodatendienste\": vernetzbare Anwendungen, welche die Nutzung von elektronischen Dienstleistungen im Bereich der Geodaten vereinfachen und Geodatensätze und Metadaten in strukturierter Form zugänglich machen;\nh) \"Metadaten\": Informationen, die Geodatensätze und Geodatendienste beschreiben und es ermöglichen, diese zu ermitteln, in Verzeichnisse aufzunehmen und zu nutzen;\ni) \"Geodatenmodelle\": Abbildungen der Wirklichkeit, welche Struktur und Inhalt von Geodaten systemunabhängig festlegen;\nk) \"Darstellungsmodelle\": Beschreibungen grafischer Darstellungen zur Veranschaulichung von Geodaten (z.B. in Form von Karten und Plänen);\nl) \"Geo-Objekt\": die abstrakte Darstellung eines Phänomens der Realwelt in Bezug auf einen bestimmten Standort oder ein geografisches Gebiet;\nm) \"Interoperabilität\": die Fähigkeit zur Zusammenarbeit von Systemen, Techniken und Organisationen. Im Falle von Geodatensätzen ihre mögliche Kombination und im Falle von Diensten ihre mögliche Interaktion ohne wiederholtes manuelles Eingreifen und in der Weise, dass das Ergebnis kohärent ist und der Zusatznutzen der Datensätze und Dienste erhöht wird;\nn) \"Geodatenportal\": eine Internetseite oder eine vergleichbare Organisationsstruktur, die über Geodatendienste den Zugang zu den Geodatensätzen ermöglicht.\n2) Im Übrigen finden die Begriffsbestimmungen von Art. 3 der Richtlinie 2007/2/EG und der hierzu ergangenen Durchführungsrechtsakte ergänzend Anwendung.\n3) Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nII. Grundsätze\nA. Qualitative, technische und sonstige Anforderungen"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Qualitative, technische und sonstige Anforderungen",
+      "section": "4",
+      "title": "Art. 4 Grundsatz",
+      "content": "Die qualitativen, technischen und sonstigen Anforderungen an Geodaten und Metadaten sind so festzulegen, dass ein einfacher Austausch, eine langfristige Verfügbarkeit und eine breite Nutzung möglich sind."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Qualitative, technische und sonstige Anforderungen",
+      "section": "5",
+      "title": "Art. 5 Geodaten",
+      "content": "1) Die Regierung erlässt Vorschriften über die qualitativen und technischen Anforderungen an Geodaten, insbesondere über:\na) die geodätischen Bezugssysteme und Bezugsrahmen;\nb) die Geodatenmodelle;\nc) die Darstellungsmodelle;\nd) den Detaillierungsgrad;\ne) die Qualität;\nf) das Erheben und Nachführen;\ng) den Austausch;\nh) die räumliche Abgrenzung.\n2) Sie kann die GDI-Kommission oder die zuständige Fachstelle ermächtigen, fachliche Empfehlungen abzugeben."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Qualitative, technische und sonstige Anforderungen",
+      "section": "6",
+      "title": "Art. 6 Metadaten",
+      "content": "1) Metadaten für Geodatensätze und Geodatendienste müssen vollständig und von hinreichender Qualität erstellt sowie regelmässig aktualisiert werden.\n2) Die Regierung erlässt Vorschriften über die qualitativen, technischen und sonstigen Anforderungen an Metadaten, insbesondere über:\na) den Inhalt der Geodatensätze;\nb) die Datenmodelle der Geodatensätze;\nc) den Detaillierungsgrad der Geodatensätze;\nd) die Bedingungen für den Zugang zu Geodatensätzen und -diensten und deren Nutzung sowie gegebenenfalls entsprechende Geldleistungen;\ne) die Qualität und Gültigkeit der Geodatensätze;\nf) die für das Erheben, Nachführen, Verwalten und Verbreiten von Geodatensätzen und -diensten zuständige Fachstelle;\ng) die Beschränkungen des Zugangs der Öffentlichkeit nach Art. 12 sowie die Gründe für solche Beschränkungen;\nh) die Übereinstimmung der Geodatensätze mit den Durchführungsbestimmungen nach Art. 7 Abs. 1 der Richtlinie 2007/2/EG."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Qualitative, technische und sonstige Anforderungen",
+      "section": "7",
+      "title": "Art. 7 Interoperabilität",
+      "content": "1) Geodatensätze und Geodatendienste, die ein in Anhang I, II oder III der Richtlinie 2007/2/EG aufgeführtes Thema betreffen, müssen entsprechend den in Art. 7 Abs. 1 der Richtlinie 2007/2/EG vorgesehenen Durchführungsbestimmungen durch Anpassung an vorgegebene Standards oder Transformationsdienste nach Art. 13 Abs. 1 Bst. d verfügbar gemacht werden.\n2) Die zuständigen Fachstellen stellen einander und Dritten für den Zweck der Erfüllung der in Abs. 1 genannten Durchführungsbestimmungen die erforderlichen Informationen, einschliesslich Daten, Codes und technische Klassifizierungen, unbeschränkt zur Verfügung.\n3) Für Geo-Objekte, deren Lage sich über die Grenze des Landes erstreckt, wird die Darstellung und Position der Geodaten in gegenseitigem Einvernehmen mit dem jeweiligen Nachbarstaat festgelegt.\nB. Erheben, Nachführen und Verwalten"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Erheben, Nachführen und Verwalten",
+      "section": "8",
+      "title": "Art. 8 Methodenfreiheit",
+      "content": "Für das Erheben und Nachführen von Geodaten besteht Methodenfreiheit, sofern die Vergleichbarkeit der Ergebnisse gewährleistet ist."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Erheben, Nachführen und Verwalten",
+      "section": "9",
+      "title": "Art. 9 Vermeidung von Doppelspurigkeiten",
+      "content": "Beim Erheben und Nachführen von Geodaten sind Doppelspurigkeiten zu vermeiden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Erheben, Nachführen und Verwalten",
+      "section": "10",
+      "title": "Art. 10 Gewährleistung der Verfügbarkeit",
+      "content": "1) Die Archivierung, die Historisierung und die langfristige Verfügbarkeit der Geodaten und Metadaten ist zu gewährleisten.\n2) Für Geodaten und Metadaten sind nach anerkannten Normen und nach dem Stand der Technik Sicherungskopien zu erstellen; diese sind sicher aufzubewahren.\n3) Die Regierung regelt das Nähere über die Archivierung und Historisierung von Geodaten und Metadaten mit Verordnung.\nC. Zugang und Nutzung"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "C. Zugang und Nutzung",
+      "section": "11",
+      "title": "Art. 11 Grundsatz",
+      "content": "Geodatensätze, Metadaten und Geodatendienste sind vorbehaltlich Art. 12 oder besonderer gesetzlicher Vorschriften öffentlich zugänglich und können von jeder natürlichen oder juristischen Person genutzt werden."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "C. Zugang und Nutzung",
+      "section": "12",
+      "title": "Art. 12 Beschränkungen des Zugangs",
+      "content": "1) Der Zugang der Öffentlichkeit zu Geodatensätzen und Geodatendiensten über die in Art. 13 Abs. 1 genannten Dienste kann beschränkt werden, wenn dieser Zugang auf die internationalen Beziehungen oder die öffentliche Sicherheit nachteilige Auswirkungen hätte.\n2) Der Zugang der Öffentlichkeit zu Geodatensätzen und Geodatendiensten über die in Art. 13 Abs. 1 Bst. b bis e genannten Dienste sowie der Zugang zu den in Art. 15 Abs. 2 genannten Diensten des elektronischen Geschäftsverkehrs kann überdies beschränkt werden, wenn dieser Zugang nachteilige Auswirkungen hätte auf:\na) die Vertraulichkeit der Verfahren von Behörden, sofern eine derartige Vertraulichkeit gesetzlich vorgesehen ist;\nb) laufende Gerichtsverfahren, die Möglichkeiten einer Person, ein faires Verfahren zu erhalten oder die Möglichkeiten einer Behörde, Untersuchungen strafrechtlicher oder disziplinarischer Art durchzuführen;\nc) Geschäfts- oder Betriebsgeheimnisse, um berechtigte wirtschaftliche Interessen, einschliesslich des öffentlichen Interesses an der Wahrung der statistischen Geheimhaltung und des Steuergeheimnisses, zu schützen;\nd) Rechte an geistigem Eigentum;\ne) die Vertraulichkeit personenbezogener Daten und/oder Akten über eine natürliche oder juristische Person, sofern diese der Bekanntgabe dieser Informationen an die Öffentlichkeit nicht zugestimmt hat und ein schutzwürdiges Interesse an der Geheimhaltung im Sinne der Datenschutzgesetzgebung besteht.\nf) die Interessen oder den Schutz einer Person, die die angeforderte Information freiwillig zur Verfügung gestellt hat, ohne dazu gesetzlich verpflichtet zu sein oder verpflichtet werden zu können, es sei denn, dass diese Person der Herausgabe der betreffenden Informationen zugestimmt hat; oder\ng) den Schutz der Umweltbereiche und Kulturgüter, auf die sich die Informationen beziehen.\n3) Die Gründe für eine Zugangsbeschränkung nach Abs. 1 und 2 sind eng auszulegen, wobei im Einzelfall das öffentliche Interesse am Zugang zu berücksichtigen ist. In jedem Einzelfall ist das öffentliche Interesse am Zugang gegen das Interesse an dessen Beschränkung abzuwägen.\n4) Der Zugang zu Informationen über Emissionen in die Umwelt darf nicht aufgrund von Abs. 2 Bst. a, c, e, f und g beschränkt werden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Zugang und Nutzung",
+      "section": "13",
+      "title": "Art. 13 Geodatendienste",
+      "content": "1) Für den Zugang zu den Geodatensätzen der GDI-Liechtenstein werden folgende Geodatendienste zur Verfügung gestellt:\na) Suchdienste, die es ermöglichen, auf der Grundlage des Inhalts entsprechende Metadaten nach Geodatensätzen und Geodatendiensten zu suchen und den Inhalt der Metadaten anzuzeigen;\nb) Darstellungsdienste, die es zumindest ermöglichen, darstellbare Geodatensätze anzuzeigen, in ihnen zu navigieren, sie zu vergrössern oder zu verkleinern, zu verschieben, Daten zu überlagern sowie Informationen aus Legenden und sonstige relevante Inhalte von Metadaten anzuzeigen;\nc) Download-Dienste, die das Herunterladen von und, wenn durchführbar, den direkten Zugriff auf Kopien vollständiger Geodatensätze oder Teile solcher Sätze ermöglichen;\nd) Transformationsdienste zur Umwandlung von Geodatensätzen, um Interoperabilität zu erreichen;\ne) Dienste zum Abrufen von Geodatendiensten.\n2) Die Dienste nach Abs. 1 müssen Nutzeranforderungen berücksichtigen, einfach zu nutzen, öffentlich verfügbar und über das Internet oder andere geeignete Kommunikationsmittel zugänglich sein.\n3) Für Suchdienste nach Abs. 1 Bst. a sind zumindest folgende Suchkriterien zu gewährleisten:\na) Schlüsselwörter;\nb) Klassifizierung von Geodaten und Geodatendiensten;\nc) Qualität und Gültigkeit der Geodatensätze;\nd) Grad der Übereinstimmung der Geodatensätze mit den Durchführungsbestimmungen nach Art. 7 Abs. 1 der Richtlinie 2007/2/EG;\ne) geografischer Standort;\nf) Bedingungen für den Zugang zu und die Nutzung von Geodatensätzen und Geodatendiensten;\ng) für das Erheben, Nachführen, Verwalten und Verbreiten von Geodatensätzen und Geodatendiensten zuständige Fachstelle.\n4) Transformationsdienste nach Abs. 1 Bst. d sind mit anderen Diensten nach Abs. 1 so zu kombinieren, dass diese gemäss den Durchführungsbestimmungen nach Art. 7 Abs. 1 der Richtlinie 2007/2/EG betrieben werden können.\n5) Die Regierung kann mit Verordnung die Geodatensätze festlegen, für die Dienste nach Abs. 1 Bst. b und c zur Verfügung zu stellen sind."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "C. Zugang und Nutzung",
+      "section": "14",
+      "title": "Art. 14 Gemeinsame Nutzung von Geodatensätzen und -diensten",
+      "content": "1) Die zuständigen Fachstellen gewähren sich gegenseitig einfachen und direkten Zugang zu den Geodatensätzen und Geodatendiensten. Sie schliessen jegliche Beschränkung aus, durch die praktische Hindernisse zum Zeitpunkt der Nutzung für die gemeinsame Nutzung von Geodatensätzen und Geodatendiensten entstehen könnten.\n2) Die zuständigen Fachstellen gewähren den nachfolgenden ausländischen Stellen, soweit diese öffentliche Aufgaben wahrnehmen, die Auswirkungen auf die Umwelt haben, Zugang zu den Geodatensätzen und Geodatendiensten:\na) den zuständigen Behörden anderer EWR-Mitgliedstaaten;\nb) den Organen und Einrichtungen der Europäischen Gemeinschaft;\nc) auf der Grundlage von Gegenseitigkeit und Gleichwertigkeit sonstigen Einrichtungen, die durch internationale Übereinkünfte geschaffen wurden und bei denen die Europäische Gemeinschaft und die EWR-Mitgliedstaaten Vertragsparteien sind.\n3) Die gemeinsame Nutzung nach Abs. 2 kann eingeschränkt werden, wenn dadurch der Lauf der Justiz, die öffentliche Sicherheit oder die internationalen Beziehungen gefährdet würden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Zugang und Nutzung",
+      "section": "15",
+      "title": "Art. 15 Lizenzen und Gebühren",
+      "content": "1) Für die Nutzung der Geodaten und der zugehörigen Geodatendienste werden vorbehaltlich Abs. 4 Lizenzen erteilt oder Gebühren eingehoben.\n2) Für die Einhebung der Gebühren der Dienste nach Art. 13 Abs. 1 Bst. b, c oder e ist ein elektronischer Geschäftsverkehr zur Verfügung zu stellen.\n3) Für die Dienste nach Art. 13 Abs. 1 Bst. b, c oder e können Haftungsausschlüsse, elektronische Lizenzvereinbarungen oder erforderlichenfalls Lizenzen in sonstiger Form vorgesehen werden.\n4) Von der Gebührenpflicht befreit sind:\na) steuerbefreite gemeinnützige Organisationen;\nb) inländische Bildungs- und Forschungseinrichtungen, soweit sie Daten für schulische und wissenschaftliche Zwecke nutzen;\nc) Landesbehörden, soweit sie Daten von zuständigen Fachstellen des Landes nutzen;\nd) Personen, die Suchdienste nach Art. 13 Abs. 1 Bst. a und dazu notwendige Darstellungsdienste nutzen;\ne) Fälle nach Art. 17 Abs. 3 der Richtlinie 2007/2/EG.\n5) Die Gebühren setzen sich zusammen aus:\na) bei Nutzung zum Eigengebrauch: höchstens den Grenzkosten und einem angemessenen Beitrag an die für die Wartung notwendige Infrastruktur;\nb) bei gewerblicher Nutzung: höchstens den Grenzkosten sowie einem angemessenen Beitrag an die für die Wartung notwendige Infrastruktur und die Nachführungskosten.\n6) Die Regierung legt mit Verordnung fest:\na) die für die Erteilung von Lizenzen und die Einhebung von Gebühren zuständigen Fachstellen;\nb) die Höhe der Gebühren."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "C. Zugang und Nutzung",
+      "section": "16",
+      "title": "Art. 16 Geodatenportal",
+      "content": "1) Geodatensätze und Geodatendienste werden als Bestandteile der GDI-Liechtenstein über ein elektronisches Netz verknüpft.\n2) Der Zugang zum elektronischen Netz nach Abs. 1 erfolgt durch das Geodatenportal.\n3) Dritte können ihre Geodatensätze oder Geodatendienste mit dem Geodatenportal verknüpfen, wenn diese den Durchführungsbestimmungen nach Art. 16 der Richtlinie 2007/2/EG und den darin enthaltenen Verpflichtungen insbesondere in Bezug auf Metadaten, Geodatendienste und Interoperabilität entsprechen.\nIII. Organisation und Durchführung"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "17",
+      "title": "Art. 17 Zuständige Fachstellen",
+      "content": "1) Die Erhebung, Nachführung, Verwaltung und Gewährleistung der Verfügbarkeit von Geodaten und Metadaten obliegt derjenigen Fachstelle, die für den Sachbereich zuständig ist, auf den sich die Geodaten beziehen. Die Regierung bezeichnet die zuständigen Fachstellen mit Verordnung.\n2) Die zuständigen Fachstellen nach Abs. 1 stellen den Aufbau und Betrieb der entsprechenden Geodatendienste sicher."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "18",
+      "title": "Art. 18 GDI-Kommission",
+      "content": "1) Die Regierung bestellt eine GDI-Kommission, die aus fünf bis acht Mitgliedern besteht und sich mehrheitlich aus Vertretern der zuständigen Fachstellen nach Art. 17 zusammensetzt. Die Mandatsperiode der einzelnen Mitglieder beträgt vier Jahre. Die Regierung bestimmt den Vorsitz.\n2) Der GDI-Kommission obliegen folgende Aufgaben:\na) die Koordination des Auf- und Ausbaus der GDI-Liechtenstein;\nb) die Beratung der Regierung in allen Belangen der Geoinformation;\nc) die Unterstützung des Amtes für Tiefbau und Geoinformation als zuständige nationale Anlaufstelle (Art. 19 Bst. b) und die Genehmigung des Berichts an die EFTA-Überwachungsbehörde (Art. 21);\nd) die Entscheidung über Anträge der zuständigen Fachstellen, insbesondere hinsichtlich Zugang und Nutzung von Geodatensätzen und Geodatendiensten oder der qualitativen, technischen und sonstigen Anforderungen an Geodaten;\ne) die Entscheidung über Beschränkungen des Zugangs der Öffentlichkeit zu den Geodatensätzen und Geodatendiensten (Art. 12);\nf) die Information aller an der GDI-Liechtenstein beteiligten Stellen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "19",
+      "title": "Art. 19 Amt für Tiefbau und Geoinformation",
+      "content": "Dem Amt für Tiefbau und Geoinformation obliegen:\na) die Sicherstellung des Zugangs zur GDI-Liechtenstein über das Geodatenportal;\nb) die Wahrnehmung von Aufgaben der nationalen Anlaufstelle im Sinne von Art. 19 Abs. 2 der Richtlinie 2007/2/EG;\nc) die Erstellung von Berichten an die EFTA-Überwachungsbehörde nach Art. 21."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "20",
+      "title": "Art. 20 Internationale Koordination, Harmonisierung und Standardisierung",
+      "content": "Die Regierung fördert in Zusammenarbeit mit anderen Staaten die Koordination, Harmonisierung und Standardisierung im Bereich der Geoinformation."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "21",
+      "title": "Art. 21 Berichterstattung",
+      "content": "Das Amt für Tiefbau und Geoinformation erstellt alle drei Jahre einen Bericht zuhanden der EFTA-Überwachungsbehörde mit einer Beschreibung folgender Aspekte:\na) Koordinierung zwischen zuständigen Fachstellen und Nutzern von Geodatensätzen und Geodatendiensten und zwischengeschalteten Stellen, Beziehungen zu Dritten und Organisation der Qualitätssicherung;\nb) Beitrag von den zuständigen Fachstellen, der GDI-Kommission oder Dritten zum Betrieb und zur Koordinierung der GDI-Liechtenstein;\nc) Informationen über die Nutzung der GDI-Liechtenstein;\nd) Vereinbarungen über die gemeinsame Nutzung von Daten durch die zuständigen Fachstellen;\ne) Kosten und Nutzen der Umsetzung der Richtlinie 2007/2/EG."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "22",
+      "title": "Art. 22 Kostentragung",
+      "content": "Die Kosten für die Erhebung, Nachführung und Verwaltung der Geodaten, Metadaten und Geodatendienste, einschliesslich deren Sicherung, Archivierung und Historisierung, sind von den jeweils zuständigen Fachstellen zu tragen.\nIV. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "IV. Rechtsmittel",
+      "section": "23",
+      "title": "Art. 23 Beschwerde",
+      "content": "1) Gegen Entscheidungen und Verfügungen der GDI-Kommission kann binnen 14 Tagen ab Zustellung Beschwerde bei der Regierung erhoben werden.\n2) Gegen Entscheidungen und Verfügungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\n3) Auf das Verfahren finden die Bestimmungen des Gesetzes über die allgemeine Landesverwaltungspflege Anwendung.\nV. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "24",
+      "title": "Art. 24 Durchführungsverordnungen",
+      "content": "1) Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen, insbesondere über:\na) die vom Geltungsbereich dieses Gesetzes erfassten Themen (Art. 2 Abs. 1 Bst. d);\nb) die qualitativen und technischen Anforderungen an Geodaten (Art. 5 Abs. 1);\nc) die qualitativen, technischen und sonstigen Anforderungen an Metadaten (Art. 6 Abs. 2);\nd) die Archivierung und Historisierung von Geodaten und Metadaten (Art. 10 Abs. 3);\ne) die für die Erteilung von Lizenzen und die Einhebung von Gebühren zuständigen Fachstellen sowie die Höhe der Gebühren (Art. 15 Abs. 6);\nf) die für die Erhebung, Nachführung und Verwaltung von Geodaten und Metadaten zuständigen Fachstellen (Art. 17 Abs. 1).\n2) Sie hört vor dem Erlass von Verordnungen nach Abs. 1 die Gemeinden und die betroffenen Berufsverbände an."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "25",
+      "title": "Art. 25 Aufhebung bisherigen Rechts",
+      "content": "Art. 63 des Gesetzes vom 19. Mai 2005 über die Amtliche Vermessung (Vermessungsgesetz; VermG), LGBl. 2005 Nr. 148, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "26",
+      "title": "Art. 26 Inkrafttreten",
+      "content": "Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. Juni 2011 in Kraft, andernfalls am Tage der Kundmachung.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\n1\nDie LR-Nr. lautet in der authentischen Fassung fälschlicherweise 214.31.\n2\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 89/2010 und 136/2010\n3\nArt. 2 Abs. 5 abgeändert durch LGBl. 2018 Nr. 84 .\n4\nArt. 12 Abs. 2 Bst. e abgeändert durch LGBl. 2018 Nr. 377 .\n5\nArt. 18 Abs. 2 Bst. c abgeändert durch LGBl. 2022 Nr. 56 .\n6\nArt. 19 abgeändert durch LGBl. 2022 Nr. 56 .\n7\nArt. 21 Einleitungssatz abgeändert durch LGBl. 2022 Nr. 56 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Geodateninfrastruktur (GDI)",
+      "definition": "Metadaten, Geodatensätze und Geodatendienste, Netzdienste und -technologien, Vereinbarungen über gemeinsame Nutzung, Zugang und Verwendung sowie Koordinierungs- und Überwachungsmechanismen, -prozesse und -verfahren, die im Einklang mit diesem Gesetz geschaffen, angewandt oder zur Verfügung gestellt werden;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodaten",
+      "definition": "raumbezogene Daten, die mit einem bestimmten Zeitbezug die Ausdehnung und Eigenschaften bestimmter Räume und Objekte beschreiben;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "zuständige Fachstelle",
+      "definition": "1. Landes- und Gemeindebehörden einschliesslich öffentlicher beratender Gremien;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Dritter",
+      "definition": "jede natürliche oder juristische Person, die nicht eine zuständige Fachstelle ist;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geoinformationen",
+      "definition": "raumbezogene Informationen, die durch die Verknüpfung von Geodaten gewonnen werden;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatensatz",
+      "definition": "eine identifizierbare Sammlung von Geodaten;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatendienste",
+      "definition": "vernetzbare Anwendungen, welche die Nutzung von elektronischen Dienstleistungen im Bereich der Geodaten vereinfachen und Geodatensätze und Metadaten in strukturierter Form zugänglich machen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Metadaten",
+      "definition": "Informationen, die Geodatensätze und Geodatendienste beschreiben und es ermöglichen, diese zu ermitteln, in Verzeichnisse aufzunehmen und zu nutzen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatenmodelle",
+      "definition": "Abbildungen der Wirklichkeit, welche Struktur und Inhalt von Geodaten systemunabhängig festlegen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Darstellungsmodelle",
+      "definition": "Beschreibungen grafischer Darstellungen zur Veranschaulichung von Geodaten (z.B. in Form von Karten und Plänen);",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geo-Objekt",
+      "definition": "die abstrakte Darstellung eines Phänomens der Realwelt in Bezug auf einen bestimmten Standort oder ein geografisches Gebiet;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Interoperabilität",
+      "definition": "die Fähigkeit zur Zusammenarbeit von Systemen, Techniken und Organisationen. Im Falle von Geodatensätzen ihre mögliche Kombination und im Falle von Diensten ihre mögliche Interaktion ohne wiederholtes manuelles Eingreifen und in der Weise, dass das Ergebnis kohärent ist und der Zusatznutzen der Datensätze und Dienste erhöht wird;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatenportal",
+      "definition": "eine Internetseite oder eine vergleichbare Organisationsstruktur, die über Geodatendienste den Zugang zu den Geodatensätzen ermöglicht.",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1935006000",
+  "type": "statute",
+  "title": "Gesetz vom 23. April 1935 betreffend die Übernahme der Hebammengebühren auf Landsrechnung",
+  "title_en": "",
+  "short_name": "LGBl 1935.006",
+  "status": "in_force",
+  "issued_date": "1935-04-23",
+  "in_force_date": "1935-04-23",
+  "url": "https://www.gesetze.li/konso/1935006000",
+  "description": "Gesetz vom 23. April 1935 betreffend die Übernahme der Hebammengebühren auf Landsrechnung",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Das Gesetz vom 29. Februar 1932 betreffend die Übernahme der Hebammengebühren auf Landesrechnung, LGBl. 1932 Nr. 10, wird aufgehoben und es tritt an dessen Stelle folgende Neuregelung."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Die den Hebammen für den Beistand bei einer Geburt sowie für die Pflege des Kindes und der Wöchnerin gemäss Regierungsverordnung gebührende Mindestentlöhnung kann bei vorliegender Bedürftigkeit auf Ansuchen der Eltern auf die Landeskasse übernommen werden, wenn die Eltern des Kindes im Lande wohnhafte Staatsbürger sind."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Liechtensteinern im Auslande kann bei vorliegender Bedürftigkeit über Ansuchen von der Regierung ebenfalls die im Lande vorgesehene Mindest-Entlöhnung der Hebammen zugestanden werden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Die Regierung, welche mit der Durchführung dieses Gesetzes betraut ist, kann die erforderlichen Ausführungsbestimmungen zu diesem Gesetze erlassen. Dieses Gesetz wird als nicht dringlich erklärt und tritt am Tage der Verlautbarung in Kraft.\nVaduz, am 23. April 1935\ngez. Franz\ngez. Dr. Hoop\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

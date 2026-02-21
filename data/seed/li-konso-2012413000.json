@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-2012413000",
+  "type": "statute",
+  "title": "Verordnung vom 18. Dezember 2012 über die Gebühren für den Bezug und die Verwertung von Rechtsvorschriften (Rechtsvorschriften-Gebührenverordnung; RV-GebV)",
+  "title_en": "",
+  "short_name": "RV-GebV",
+  "status": "in_force",
+  "issued_date": "2012-12-18",
+  "in_force_date": "2012-12-18",
+  "url": "https://www.gesetze.li/konso/2012413000",
+  "description": "Verordnung vom 18. Dezember 2012 über die Gebühren für den Bezug und die Verwertung von Rechtsvorschriften (Rechtsvorschriften-Gebührenverordnung; RV-GebV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt:\na) die Gebühren für den Bezug der im Landesgesetzblatt kundgemachten Rechtsvorschriften in Form von Ausdrucken, Ausfertigungen und Kopien oder auf elektronischen Datenträgern;\nb) die besonderen Bedingungen für die Verwertung der im Landesgesetzblatt kundgemachten Rechtsvorschriften (Daten) durch Dritte."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Gebühren",
+      "content": "1) Die Gebühren für den Bezug der im Landesgesetzblatt kundgemachten Rechtsvorschriften in Form von Ausdrucken, Ausfertigungen und Kopien oder auf elektronischen Datenträgern richten sich nach dem Anhang.\n2) Die Einhebung der Gebühren erfolgt durch die Regierungskanzlei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Besondere Bedingungen für die Verwertung von Rechtsvorschriften",
+      "content": "1) Für die Verwertung von im Landesgesetzblatt kundgemachten Rechtsvorschriften (Daten) durch Dritte gelten die folgenden Bedingungen:\na) Die Daten dürfen inhaltlich nicht verändert werden.\nb) Sie sind so darzustellen, dass sie sich optisch deutlich von Kommentaren oder ähnlichen Zusätzen unterscheiden.\nc) Sie sind mit folgendem Hinweis zu versehen: \"Dies ist keine amtliche Veröffentlichung. Massgebend ist ausschliesslich die im Landesgesetzblatt kundgemachte und nach dem Kundmachungsgesetz signierte elektronische Fassung einer Rechtsvorschrift.\"\nd) Weder in der Werbung noch auf der Verpackung, dem Datenträger oder dem elektronischen Medium darf der Eindruck erweckt werden, es handle sich um eine amtliche Veröffentlichung.\n2) Wer Daten nach Abs. 1 bezogen hat, darf diese nur in veredelter Form gegen Entgelt weitergeben oder zugänglich machen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2013 in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\nAnhang\n(Art. 2 Abs. 1)\nGebühren\nA. Allgemeines\nIn den nachfolgenden Gebühren ist die Mehrwertsteuer inbegriffen. Allfällige Porto- und Verpackungskosten werden gesondert verrechnet.\nB. Ausdrucke, Ausfertigungen und Kopien\nGebühr je Exemplar in Franken\nSeitenumfang\nSeitenpreis\n1 bis 4\n1.--\n5 bis 20\n0.75\n21 bis 100\n0.50\nüber 100\n0.40\nC. Sonderdrucke\nSonderdrucke von Rechtsvorschriften werden zum jeweiligen Selbstkostenpreis verrechnet.\nD. Elektronische Datenträger\nGebühr je Exemplar in Franken\nDaten in aufbereiteter und strukturierter Form; konsolidierte Rechtsvorschriften werden vierteljährlich nachgeführt\nMinimalgebühr\n(je nach Aufwand)\nMaximalgebühr\n(je nach Aufwand)\nCD-ROM/DVD\n50.--\n300.--"
+    }
+  ],
+  "definitions": []
+}

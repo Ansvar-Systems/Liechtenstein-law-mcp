@@ -1,0 +1,733 @@
+{
+  "id": "li-konso-2012029000",
+  "type": "statute",
+  "title": "Asylgesetz (AsylG) vom 14. Dezember 2011",
+  "title_en": "",
+  "short_name": "LGBl 2012.029",
+  "status": "in_force",
+  "issued_date": "2011-12-14",
+  "in_force_date": "2011-12-14",
+  "url": "https://www.gesetze.li/konso/2012029000",
+  "description": "Asylgesetz (AsylG) vom 14. Dezember 2011",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "1) Dieses Gesetz regelt: a) die Asylgewährung und die Rechtsstellung von Flüchtlingen in Liechtenstein; sowie\nb) die vorübergehende Schutzgewährung in Liechtenstein.\n2) Asyl umfasst den Schutz und die Rechtsstellung, die Personen aufgrund ihrer Flüchtlingseigenschaft in Liechtenstein gewährt werden. Es schliesst das Recht auf Anwesenheit in Liechtenstein ein."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als: a) \"Flüchtlinge\": ausländische Personen, die: 1. aus begründeter Furcht vor Verfolgung wegen ihrer Rasse, Religion, Staatszugehörigkeit, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihres Geschlechts oder wegen ihrer politischen Überzeugung sich ausserhalb des Staates, dessen Staatsangehörigkeit sie besitzen, befinden und dessen Schutz nicht beanspruchen können oder wegen dieser Befürchtungen nicht beanspruchen wollen; oder\n2. staatenlos sind, sich infolge obiger Umstände ausserhalb des Staates ihres gewöhnlichen Aufenthalts befinden und dorthin nicht zurückkehren können oder wegen der erwähnten Befürchtungen nicht zurückkehren wollen;\nb) \"Heimat- oder Herkunftsstaat\": der Staat, dessen Staatsangehörigkeit die ausländische Person besitzt, oder - bei Staatenlosen - der Staat, in dem sie zuletzt wohnte;\nc) \"Schutzbedürftige\": ausländische Personen, denen aufgrund einer Entscheidung der Regierung für die Dauer einer schweren allgemeinen Gefährdung, insbesondere während eines Krieges oder Bürgerkrieges sowie in Situationen allgemeiner Gewalt, vorübergehend Schutz gewährt wird;\nd) \"vorläufig Aufgenommene\": ausländische Personen, denen kein Asyl in Liechtenstein gewährt wird, bei denen jedoch der Vollzug der Wegweisung nicht möglich, nicht zulässig oder nicht zumutbar ist;\ne) \"Asylgesuch\": eine Erklärung in schriftlicher oder mündlicher Form, mit der eine ausländische Person zu erkennen gibt, dass sie in Liechtenstein um Asyl nachsucht;\nf) \"Asylsuchende\": ausländische Personen, deren Asylgesuch hängig ist;\ng) \"Familienangehörige\": 1. der Ehegatte oder der eingetragene Partner, sofern die Ehe oder die eingetragene Partnerschaft bereits im Heimat- oder Herkunftsstaat bestanden hat;\n2. die minderjährigen Kinder, unabhängig davon, ob es sich um eheliche oder nicht eheliche Kinder handelt;\n3. andere von der Regierung mit Verordnung bestimmte nahe Angehörige, gegenüber denen die in Liechtenstein aufgenommene Person eine Unterhaltsverpflichtung hat, die bereits im Heimat- oder Herkunftsstaat bestanden hat;\nh) \"Dublin-Staat\": ein Staat, der an den Dublin-Besitzstand gebunden ist;\ni) \"Dublin-Verfahren\": ein Verfahren, das aufgrund des Dublin-Besitzstandes durchgeführt wird.\n2) Begründete Furcht vor Verfolgung im Sinne von Abs. 1 Bst. a ist namentlich dann gegeben, wenn die Gefährdung von Leib, Leben oder Freiheit geltend gemacht werden kann sowie Massnahmen drohen, die einen unerträglichen psychischen Druck bewirken; den frauenspezifischen Fluchtgründen ist Rechnung zu tragen. Die begründete Furcht vor Verfolgung kann auch auf Ereignissen beruhen, die eingetreten sind, nachdem der Asylsuchende seinen Heimat- oder Herkunftsstaat verlassen hat (objektive Nachfluchtgründe).\n3) Die Verfolgung im Sinne von Abs. 1 Bst. a kann ausgehen: a) vom Heimat- oder Herkunftsstaat;\nb) von Parteien oder Organisationen, die den Heimat- oder Herkunftsstaat oder einen wesentlichen Teil des Staatsgebietes beherrschen;\nc) von nichtstaatlichen Akteuren, sofern die unter den Bst. a und b genannten Akteure einschliesslich internationaler Organisationen erwiesenermassen nicht in der Lage oder nicht willens sind, Schutz vor Verfolgung zu bieten.\n4) Soweit nichts anderes bestimmt ist, sind unter den in diesem Gesetz verwendeten Personenbezeichnungen Angehörige des weiblichen und männlichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2a",
+      "title": "Art. 2a Verweis auf Rechtsvorschriften des in Liechtenstein anwendbaren Schengen- oder Dublin-Besitzstands",
+      "content": "Wird in diesem Gesetz auf Rechtsvorschriften des in Liechtenstein anwendbaren Schengen- oder Dublin-Besitzstands verwiesen, ergibt sich die jeweils geltende Fassung dieser Rechtsvorschriften aus der Kundmachung der Staatsverträge zur Weiterentwicklung des Schengen- oder Dublin-Besitzstands im Liechtensteinischen Landesgesetzblatt nach Art. 3 des Kundmachungsgesetzes."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Rückschiebungsverbot",
+      "content": "1) Keine Person darf in irgendeiner Form zur Ausreise in einen Staat gezwungen werden, in dem: a) ihr Leib, ihr Leben oder ihre Freiheit aus einem Grund nach Art. 2 Abs. 1 Bst. a gefährdet ist oder die Gefahr besteht, dass sie zur Ausreise in einen solchen Staat gezwungen wird; oder\nb) sie der Folter oder unmenschlicher oder erniedrigender Strafe oder Behandlung unterworfen wird oder die Gefahr besteht, dass sie zur Ausreise in einen solchen Staat gezwungen wird.\n2) Eine Person kann sich nicht auf das Rückschiebungsverbot nach Abs. 1 Bst. a berufen, wenn: a) erhebliche Gründe dafür vorliegen, dass sie eine Gefahr für die Sicherheit Liechtensteins darstellt; oder\nb) sie eine Bedrohung für die Gemeinschaft Liechtensteins bedeutet, weil sie wegen eines besonders schweren Verbrechens rechtskräftig verurteilt worden ist."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Verfahren",
+      "content": "Das Verfahren richtet sich nach dem Gesetz über die allgemeine Landesverwaltungspflege, soweit das vorliegende Gesetz nichts anderes bestimmt.\nII. Asylsuchende\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Allgemeines",
+      "section": "5",
+      "title": "Art. 5 Zuständigkeit",
+      "content": "1) Die Regierung entscheidet über die Gewährung, Verweigerung und Beendigung des Asyls.\n2) Das nach der Geschäftsverteilung zuständige Regierungsmitglied entscheidet über die Unzulässigkeit eines Asylgesuches nach Art. 20.\n3) Das Ausländer- und Passamt führt das Asylverfahren durch und legt der Regierung oder dem zuständigen Regierungsmitglied nach Abs. 2 das Asylgesuch nach Abschluss des Verfahrens zur Entscheidung vor."
+    },
+    {
+      "provision_ref": "art5a",
+      "chapter": "A. Allgemeines",
+      "section": "5a",
+      "title": "Art. 5a Sichere Heimat- und Herkunftsstaaten",
+      "content": "Die Regierung bezeichnet nach Konsultation der beratenden Kommission (Art. 85) die sicheren Heimat- und Herkunftsstaaten mit Verordnung. Als solche gelten Staaten, in denen nach ihrer Feststellung insbesondere Sicherheit vor staatlicher Verfolgung, Schutz vor privater Verfolgung und Rechtsschutz gegen erlittene Verletzungen von Menschenrechten bestehen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Allgemeines",
+      "section": "6",
+      "title": "Art. 6 Mitwirkungspflicht",
+      "content": "1) Asylsuchende sind verpflichtet, an der Feststellung des Sachverhalts mitzuwirken. Sie müssen insbesondere: a) ihre Identität offen legen;\nb) bei der Einreichung des Asylgesuchs Reisepapiere und Identitätsausweise abgeben oder auf Verlangen des Ausländer- und Passamtes beschaffen. Asylsuchenden wird eine Abnahmebestätigung sowie nach Überprüfung der Echtheit der Dokumente auf Verlangen eine Kopie der Dokumente ausgehändigt, sofern diese unverfälscht sind;\nc) bei der Anhörung die Gründe angeben, weshalb sie um Asyl nachsuchen;\nd) allfällige Beweismittel vollständig bezeichnen und sie unverzüglich einreichen oder, soweit dies zumutbar erscheint, sich darum bemühen, sie innerhalb einer angemessenen Frist zu beschaffen;\ne) bei der Erhebung der biometrischen Daten mitwirken.\n2) Von Asylsuchenden kann verlangt werden, für die Übersetzung fremdsprachiger Dokumente besorgt zu sein. Wird die Übersetzung der Dokumente durch das Ausländer- und Passamt selbst veranlasst, so kann es eine Übersetzungsgebühr verlangen, sofern der Asylsuchende über ausreichende finanzielle Mittel verfügt.\n3) Asylsuchende, die sich in Liechtenstein aufhalten, sind verpflichtet, sich während des Verfahrens dem Ausländer- und Passamt zur Verfügung zu halten. Sie müssen ihre Adresse und jede Änderung dem Ausländer- und Passamt unverzüglich mitteilen.\n4) Nach Vorliegen einer vollziehbaren Wegweisungsverfügung sind die betroffenen Personen verpflichtet, bei der Beschaffung gültiger Reisepapiere mitzuwirken.\n5) Die Mitwirkungspflicht ist nicht verletzt, wenn der Asylsuchende diese unverschuldet nicht erfüllen konnte."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Allgemeines",
+      "section": "7",
+      "title": "Art. 7 Durchsuchung",
+      "content": "1) Asylsuchende und ihre mitgeführten Sachen dürfen auf Reise- und Identitätspapiere sowie auf gefährliche Gegenstände, Betäubungsmittel und Vermögenswerte unklarer Herkunft hin durchsucht werden durch: a) das Ausländer- und Passamt oder die Landespolizei bei der Einreichung des Asylgesuchs;\nb) die Landespolizei bei ihrer Unterbringung in einer Kollektivunterkunft des Staates; die Durchsuchung kann in Anwesenheit eines Vertreters des Ausländer- und Passamtes erfolgen.\n2) Das Landgericht kann auf Antrag des Ausländer- und Passamtes die Durchsuchung von Wohnungen und Zimmern, die Asylsuchende bewohnen, anordnen, wenn der Verdacht besteht, dass darin Reise- oder Identitätspapiere oder für das Verfahren relevante Dokumente und Gegenstände verborgen sind. Die Durchsuchung ist durch die Landespolizei durchzuführen.\n3) Das Ausländer- und Passamt sowie die Landespolizei haben das Ergebnis der Durchsuchung nach Abs. 1 und 2 schriftlich festzuhalten. Dem Asylsuchenden und - sofern die Durchführung durch die Landespolizei durchgeführt wird - dem Ausländer- und Passamt ist eine Kopie des Protokolls auszuhändigen.\n4) Asylsuchende dürfen nur von Personen gleichen Geschlechts durchsucht werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Allgemeines",
+      "section": "8",
+      "title": "Art. 8 Beweisverfahren, Sicherstellung und Einziehung von Urkunden, Altersgutachten",
+      "content": "1) Wird zur Ermittlung des Sachverhalts ein Beweisverfahren durchgeführt, können Asylsuchende zur behördlichen Beweisanordnung nicht vorgängig Stellung nehmen.\n2) Behörden stellen Reisepapiere, Identitätsausweise oder andere Dokumente, die Hinweise auf die Identität oder Herkunft eines Asylsuchenden geben können, zuhanden des Ausländer- und Passamtes sicher. Dem Asylsuchenden werden eine Abnahmebestätigung sowie nach Überprüfung der Echtheit und Gültigkeit der Dokumente auf Verlangen eine Kopie der Dokumente ausgehändigt, sofern diese unverfälscht sind.\n3) Verfälschte oder gefälschte Dokumente werden vom Ausländer- und Passamt oder der Landespolizei eingezogen.\n4) Bestehen Hinweise, dass ein angeblich minderjähriger Asylsuchender das Mündigkeitsalter erreicht hat, so kann das Ausländer- und Passamt ein Altersgutachten veranlassen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "A. Allgemeines",
+      "section": "9",
+      "title": "Art. 9 Zustellungen",
+      "content": "Zustellungen erfolgen mit Zustellnachweis an den Asylsuchenden oder an eine von ihm bevollmächtigte Person nach den Vorschriften des Zustellgesetzes."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "A. Allgemeines",
+      "section": "10",
+      "title": "Art. 10 Verhältnis zu ausländerrechtlichen Verfahren",
+      "content": "Auf das Verhältnis zwischen dem Asylverfahren und dem ausländerrechtlichen Verfahren findet Art. 4 des Ausländergesetzes Anwendung."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "A. Allgemeines",
+      "section": "11",
+      "title": "Art. 11 Sprache",
+      "content": "1) Entscheidungen und Verfügungen der Regierung oder des zuständigen Regierungsmitglieds sind dem Asylsuchenden schriftlich oder mündlich in eine Sprache zu übersetzen, die von ihm verstanden wird oder von der ausgegangen werden kann, dass er sie versteht. Die Übersetzung bezieht sich zumindest auf den Spruch der Entscheidung und auf eine summarische Zusammenfassung der Entscheidungsgründe sowie die Rechtsmittelbelehrung.\n2) Bei der Kommunikation mit dem Asylsuchenden ist sicherzustellen, dass er in die Lage versetzt wird, die ihn betreffenden Informationen zu verstehen. Bei Befragungen zieht das Ausländer- und Passamt erforderlichenfalls einen qualifizierten Dolmetscher bei.\n3) Der Dolmetscher untersteht gegenüber Dritten der Verschwiegenheitspflicht.\n4) Die Regierung kann das Nähere mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art11a",
+      "chapter": "A. Allgemeines",
+      "section": "11a",
+      "title": "Art. 11a Medizinische Abklärung",
+      "content": "1) Das Amt für Gesundheit kann insbesondere nach der Einreise eines Asylsuchenden eine medizinische Abklärung anordnen. Es arbeitet diesbezüglich eng mit den für die Betreuung zuständigen unabhängigen Dritten (Art. 59) zusammen.\n2) Das Ausländer- und Passamt kann die Anordnung von medizinischen Abklärungen beim Amt für Gesundheit anregen.\n3) Vorbehalten bleiben Art. 8 Abs. 4 und Art. 59 Abs. 2 Bst. c."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "A. Allgemeines",
+      "section": "12",
+      "title": "Art. 12 Besondere Verfahrensbestimmungen",
+      "content": "1) Das Ausländer- und Passamt beantragt für unbegleitete minderjährige Asylsuchende unverzüglich beim Landgericht die Bestellung eines Kurators, welcher deren rechtliche Interessen wahrnimmt und gleichzeitig deren Verfahrenshelfer ist. Das Landgericht informiert die Liechtensteinische Rechtsanwaltskammer über die Bestellung des Verfahrenshelfers.\n2) Die Regierung erlässt mit Verordnung ergänzende Bestimmungen über das Asylverfahren für Frauen, unbegleitete Minderjährige sowie Folteropfer, die der psychischen Verfassung und dem Alter dieser Personen Rechnung tragen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "A. Allgemeines",
+      "section": "13",
+      "title": "Art. 13 Rechtsberatung",
+      "content": "1) Die Regierung trifft die erforderlichen Massnahmen, um den Zugang zur Rechtsberatung für Asylsuchende sicherzustellen. Sie kann zu diesem Zweck Leistungsvereinbarungen mit unabhängigen Dritten abschliessen.\n2) Die Rechtsberatung umfasst insbesondere: a) die Erläuterung der Rechte und Pflichten;\nb) die Verfahrens- und Chancenberatung; und\nc) die Beratung und Unterstützung im Beschwerdeverfahren.\n3) Personen, welche die Rechtsberatung durchführen, müssen über entsprechende juristische Qualifikationen verfügen. Sie unterstehen gegenüber Dritten der Verschwiegenheitspflicht und dürfen während des ganzen Asylverfahrens weder Hilfswerkvertreter noch Rechtsvertreter des Asylsuchenden sein.\n4) Das Ausländer- und Passamt informiert die Asylsuchenden bei der ersten Befragung über die Möglichkeit der Rechtsberatung."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "A. Allgemeines",
+      "section": "14",
+      "title": "Art. 14 Akteneinsicht",
+      "content": "1) Dem Asylsuchenden sowie Personen, welche die Rechtsberatung durchführen, ist bis zu einer erstinstanzlichen Entscheidung auf Verlangen Einsicht in die Befragungsprotokolle zu gewähren, sofern keine besonderen Umstände dagegen sprechen.\n2) Nach einer erstinstanzlichen Entscheidung ist umfassende Akteneinsicht zu gewähren.\nB. Einreichung von Asylgesuchen und Einreise"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "B. Einreichung von Asylgesuchen und Einreise",
+      "section": "15",
+      "title": "Art. 15 Einreichungsstelle in Liechtenstein",
+      "content": "Eine Person, die sich in Liechtenstein befindet, hat ihr Asylgesuch beim Ausländer- und Passamt, ausserhalb der Bürozeiten bei der Landespolizei, einzureichen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "B. Einreichung von Asylgesuchen und Einreise",
+      "section": "16",
+      "title": "Art. 16 Asylgesuch an der Grenze, nach Anhaltung im grenznahen Raum bei der illegalen Einreise oder im Inland",
+      "content": "1) Personen, die an der Grenze oder nach Anhaltung bei der illegalen Einreise im grenznahen Raum oder im Inland ein Asylgesuch einreichen, werden dem Ausländer- und Passamt zugewiesen.\n2) Das Ausländer- und Passamt prüft seine Zuständigkeit zur Durchführung des Asylverfahrens unter Berücksichtigung des für Liechtenstein anwendbaren Dublin-Besitzstands.\nC. Das erstinstanzliche Verfahren"
+    },
+    {
+      "provision_ref": "art16a",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "16a",
+      "title": "Art. 16a Vorbereitungsphase",
+      "content": "1) Nach Einreichung des Asylgesuchs beginnt die Vorbereitungsphase. Sie dauert im Dublin-Verfahren in der Regel zehn Tage und in den übrigen Verfahren höchstens 21 Tage.\n2) Das Ausländer- und Passamt weist die Asylsuchenden auf ihre Rechte und Pflichten im Asylverfahren hin. Es kann eine Befragung nach Art. 17 durchführen. Es kann mit dem Asylsuchenden abklären, ob sein Asylgesuch hinreichend begründet ist. Sollte dies nicht der Fall sein und zieht der Asylsuchende sein Asylgesuch zurück, so wird dieses formlos abgeschrieben und die Rückreise eingeleitet.\n3) Der Abgleich der Daten nach Art. 73 Abs. 2 und 3 sowie die Anfrage zur Aufnahme oder Wiederaufnahme an den zuständigen Dublin-Staat werden während der Vorbereitungsphase vorgenommen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "17",
+      "title": "Art. 17 Befragung zu Person und Reiseweg",
+      "content": "1) Nach Einreichung des Asylgesuchs stellt das Ausländer- und Passamt die Personalien des Asylsuchenden fest und befragt ihn zum Reiseweg und zumindest summarisch zu den Gründen, warum er ein Asylgesuch einreicht.\n2) Über die Befragung wird ein Protokoll erstellt, das vom Vertreter des Ausländer- und Passamtes, dem Asylsuchenden sowie gegebenenfalls dem Dolmetscher und dem Rechtsvertreter des Asylsuchenden unterzeichnet wird.\n3) Asylsuchende können sich von einer Vertrauensperson und einem Dolmetscher ihrer Wahl, die selber nicht Asylsuchende sind, begleiten lassen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "18",
+      "title": "Art. 18 Befragung zu den Asylgründen",
+      "content": "1) Falls die Befragung zu Person und Reiseweg sowie zu den Asylgründen nicht zusammen erfolgt und das Asylgesuch nicht unzulässig ist, befragt das Ausländer- und Passamt den Asylsuchenden in der Regel innerhalb von 20 Tagen zu den Asylgründen.\n2) Durch die Befragung sollen die für die Entscheidung über das Asylgesuch relevanten Tatsachen bzw. die Wahrscheinlichkeit ihres Vorliegens festgestellt werden. Das Ausländer- und Passamt ist berechtigt, alle Fragen zu stellen, deren Beantwortung für eine Entscheidung über das Asylgesuch wesentlich sind.\n3) Im Übrigen findet Art. 17 Abs. 2 und 3 sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "19",
+      "title": "Art. 19 Hilfswerkvertretung",
+      "content": "1) Die von der Regierung anerkannten Hilfswerke schliessen sich in einer Dachorganisation zusammen und entsenden einen Vertreter zur Anhörung über die Asylgründe nach Art. 18, sofern der Asylsuchende dies nicht ablehnt oder rechtsfreundlich vertreten ist.\n2) Das Ausländer- und Passamt teilt den Hilfswerken die Anhörungstermine rechtzeitig mit. Leistet die Vertretung der Hilfswerke der Einladung keine Folge, so entfaltet die Anhörung gleichwohl volle Rechtswirkung.\n3) Die Vertretung der Hilfswerke beobachtet die Anhörung, hat aber keine Parteirechte. Sie kann Fragen zur Erhellung des Sachverhaltes stellen.\n4) Die Vertretung der Hilfswerke untersteht gegenüber Dritten der Verschwiegenheitspflicht und darf während des ganzen Asylverfahrens weder Rechtsberater noch Rechtsvertreter des Asylsuchenden sein.\n5) Die Vertretung der Hilfswerke bestätigt im Protokoll ihre Mitwirkung. Sie kann dabei Einwendungen anmelden und weitere Abklärungen anregen.\n6) Die Regierung kann das Nähere mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "20",
+      "title": "Art. 20 Unzulässigkeit des Asylgesuchs",
+      "content": "1) Ein Asylgesuch ist unzulässig, wenn: a) ein anderer Dublin-Staat bereits die Flüchtlingseigenschaft anerkannt hat;\nb) der Asylsuchende in einen anderen Dublin-Staat, der zur Durchführung des Asyl- und Wegweisungsverfahrens völkerrechtlich zuständig ist, ausreisen kann;\nc) der Asylsuchende in einen anderen Dublin-Staat, in dem er sich vorher aufgehalten hat, ausreisen kann;\nd) der Asylsuchende bereits in Liechtenstein ein Asylverfahren durchlaufen oder sein Asylgesuch zurückgezogen hat oder sein Asylgesuch nach Art. 28 Abs. 2 abgeschrieben wurde oder während des hängigen Verfahrens in den Heimat- oder Herkunftsstaat zurückgekehrt ist und nicht glaubhaft machen kann, dass in der Zwischenzeit Ereignisse eingetreten sind, die für die Flüchtlingseigenschaft relevant sind;\ne) der Asylsuchende in einen sicheren Heimat- oder Herkunftsstaat zurückkehren kann, in welchem er sich vorher aufgehalten hat, sofern keine konkreten Hinweise auf eine Verfolgung vorliegen;\nf) die Voraussetzungen von Art. 2 Abs. 1 Bst. e nicht erfüllt sind. Dies gilt namentlich, wenn das Asylgesuch ausschliesslich aus wirtschaftlichen oder medizinischen Gründen eingereicht wird;\ng) der Asylsuchende aufgrund seines Verhaltens zu erkennen gibt, dass er weder gewillt noch fähig ist, sich in die geltende Ordnung einzufügen. Dies gilt insbesondere dann, wenn er wiederholt Übertretungen begangen hat oder er wegen eines Vergehens oder Verbrechens verurteilt wurde;\nh) der Asylsuchende seine Mitwirkungspflicht ohne triftigen Grund verletzt oder dem Ausländer- und Passamt trotz Aufenthalt in Liechtenstein während mehr als 20 Tagen nicht zur Verfügung steht.\n2) Unzulässigkeitsentscheide sind zumindest summarisch zu begründen.\n3) Das Ausländer- und Passamt kann das Asylverfahren trotz Vorliegen eines Unzulässigkeitsgrundes nach Abs. 1 durchführen, wenn: a) humanitäre Gründe dies rechtfertigen;\nb) Liechtenstein aufgrund des Dublin-Besitzstandes für die Prüfung des Asylgesuchs zuständig ist; oder\nc) konkrete Hinweise auf eine Verfolgung vorliegen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "21",
+      "title": "Art. 21 Abklärungen",
+      "content": "1) Das Ausländer- und Passamt trifft die für die Asylentscheidung notwendigen Abklärungen zur Feststellung des Sachverhaltes. Es kann insbesondere bei der liechtensteinischen bzw. der für Liechtenstein zuständigen Vertretung Auskünfte einholen oder den Asylsuchenden ergänzend anhören.\n2) Das Ausländer- und Passamt kann Fachleute, die über spezielle Kenntnisse des Heimat- oder Herkunftsstaates des Asylsuchenden verfügen, beiziehen. In ausserordentlichen Situationen kann das Ausländer- und Passamt die Anhörung Fachleuten übertragen.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art21a",
+      "chapter": "C. Das erstinstanzliche Verfahren",
+      "section": "21a",
+      "title": "Art. 21a Erstinstanzliche Verfahrensfristen",
+      "content": "1) Entscheidungen über Asylgesuche sind vorbehaltlich Abs. 2 und 3 innerhalb von drei Monaten nach Abschluss der Vorbereitungsphase zu treffen.\n2) Entscheidungen über die Unzulässigkeit von Asylgesuchen sind innerhalb von 20 Arbeitstagen nach der Gesuchstellung bzw. nach Vorliegen eines Unzulässigkeitsgrundes, in den Fällen von Art. 20 Abs. 1 Bst. e innerhalb von sieben Arbeitstagen nach der Gesuchstellung zu treffen. Vorbehalten bleibt Abs. 3.\n3) Erfordert die Komplexität des Sachverhaltes oder des Gesuchs längere Abklärungen oder liegt eine ausserordentliche Situation vor, so können die Fristen nach Abs. 1 und 2 überschritten werden. In diesem Fall ist der Asylsuchende vom Ausländer- und Passamt über den Verfahrensstand zu informieren.\nD. Rechtsstellung der Asylsuchenden"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "D. Rechtsstellung der Asylsuchenden",
+      "section": "22",
+      "title": "Art. 22 Aufenthaltsrecht während des Asylverfahrens",
+      "content": "Asylsuchende dürfen sich bis zum Abschluss des Verfahrens in Liechtenstein aufhalten."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "D. Rechtsstellung der Asylsuchenden",
+      "section": "23",
+      "title": "Art. 23 Erwerbstätigkeit",
+      "content": "1) Asylsuchende sind während des Verfahrens verpflichtet, nach Möglichkeit selbst für ihren Lebensunterhalt zu sorgen.\n2) Die Ausübung einer Erwerbstätigkeit bedarf der Zustimmung des Ausländer- und Passamtes. Die Zustimmung kann mit Auflagen verbunden werden.\n3) Ist das Wegweisungsverfahren eingeleitet, kann die Zustimmung zeitlich beschränkt werden.\n4) Auf Arbeitsverhältnisse von Asylsuchenden finden die arbeitsrechtlichen Vorschriften Anwendung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "D. Rechtsstellung der Asylsuchenden",
+      "section": "24",
+      "title": "Art. 24 Schulpflicht",
+      "content": "1) Minderjährige Kinder von Asylsuchenden und unbegleitete Minderjährige sind im Rahmen der obligatorischen Schulzeit verpflichtet, den Kindergarten, die Primarschule und die weiterführenden Schulen des Staates zu besuchen.\n2) Der Schulbesuch beginnt in der Regel spätestens 30 Tage nach Einreichung des Asylgesuchs unter Beachtung der Schulferien und in Rücksprache mit dem Schulamt.\nE. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "25",
+      "title": "Art. 25 Wegweisung",
+      "content": "1) Wird das Asylgesuch abgelehnt oder das Gesuch wegen Unzulässigkeit zurückgewiesen (Art. 20), ist vorbehaltlich Art. 29 Abs. 1 gleichzeitig mit der Entscheidung die Wegweisung aus Liechtenstein zu verfügen und der Vollzug anzuordnen. Dabei ist der Grundsatz der Einheit der Familie zu berücksichtigen.\n1a) Eine rechtskräftige Wegweisungsverfügung in einen Dublin-Staat bleibt bis zu einem Monat nach Ausreise aus Liechtenstein aufrecht.\n2) Arbeitsverhältnisse oder Ausbildungen sind bei der Anordnung des Vollzugs nicht zu berücksichtigen, sofern im Einzelfall nicht besondere Gründe vorliegen.\n3) Die Regierung kann das Nähere mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "26",
+      "title": "Art. 26 Wegweisungsverfügung",
+      "content": "1) Die Wegweisungsverfügung enthält: a) die Verpflichtung des Asylsuchenden, Liechtenstein zu verlassen;\nb) die Festsetzung des Zeitpunktes, bis zu dem der Asylsuchende Liechtenstein verlassen haben muss;\nc) die Anordnung von Zwangsmitteln im Unterlassungsfall;\nd) gegebenenfalls die Bezeichnung jener Staaten, in welche der Asylsuchende nicht zurückgeführt werden darf;\ne) gegebenenfalls die Anordnung einer Ersatzmassnahme anstelle des Vollzugs;\nf) die Rechtsmittelbelehrung.\n2) Mit der Wegweisungsverfügung ist eine angemessene Ausreisefrist zwischen sieben und dreissig Tagen anzusetzen. Eine längere Ausreisefrist ist anzusetzen oder die Ausreisefrist kann auf Antrag verlängert werden, wenn besondere Umstände wie die familiäre Situation oder eine lange Aufenthaltsdauer dies erfordern. Der betroffenen Person wird eine Bestätigung hinsichtlich der Verlängerung der Ausreisefrist ausgestellt.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art26a",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "26a",
+      "title": "Art. 26a Ausschreibung im Schengener Informationssystem",
+      "content": "1) Die Daten von Drittstaatsangehörigen, gegen die nach Massgabe von Art. 25 und 26 eine Rückkehrentscheidung im Sinne der Richtlinie 2008/115/EG verfügt wurde, sind durch die zuständige Behörde in das Schengener Informationssystem einzutragen.\n2) Im Übrigen finden die Art. 54b bis 54e des Ausländergesetzes sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "27",
+      "title": "Art. 27 Zwangsmassnahmen",
+      "content": "Auf die Anwendung von Zwangsmassnahmen finden die Art. 55 bis 63 und 69a des Ausländergesetzes sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "28",
+      "title": "Art. 28 Massnahmen bei unbekanntem Aufenthalt",
+      "content": "1) Entzieht sich ein Asylsuchender während eines hängigen Asylverfahrens oder im Anschluss an eine Wegweisungsverfügung durch Verheimlichung des Aufenthaltsortes dem Vollzug, kann das Ausländer- und Passamt eine polizeiliche Ausschreibung veranlassen.\n2) Ist der Aufenthalt des Asylsuchenden während eines hängigen Asylverfahrens länger als 20 Tage unbekannt, können das Asylgesuch und damit zusammenhängende Beschwerden und Anträge formlos abgeschrieben werden. Ein neues Gesuch kann frühestens nach drei Jahren deponiert werden. Vorbehalten bleibt die Einhaltung des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "29",
+      "title": "Art. 29 Vorläufige Aufnahme",
+      "content": "1) Ist der Vollzug der Wegweisung nicht möglich, nicht zulässig oder nicht zumutbar, so wird die vorläufige Aufnahme angeordnet.\n2) Der Vollzug ist nicht möglich, wenn die von der Wegweisung betroffene Person weder in den Heimat- oder in den Herkunftsstaat noch in einen Drittstaat ausreisen oder dorthin gebracht werden kann.\n3) Der Vollzug ist nicht zulässig, wenn völkerrechtliche Verpflichtungen Liechtensteins einer Weiterreise der von der Wegweisung betroffenen Person in den Heimat-, Herkunfts- oder in einen Drittstaat entgegenstehen.\n4) Der Vollzug kann für die von der Wegweisung betroffene Person unzumutbar sein, wenn sie in Situationen wie Krieg, Bürgerkrieg, allgemeiner Gewalt und medizinischer Notlage im Heimat- oder Herkunftsstaat konkret gefährdet ist.\n5) Die vorläufige Aufnahme ist auf höchstens ein Jahr zu befristen. Sie kann verlängert werden, wenn die Voraussetzungen für ihre Anordnung noch vorliegen. Andernfalls ordnet die Regierung nach Anhörung der betroffenen Person den Vollzug der Wegweisung an.\n6) Auf die Erwerbstätigkeit und die Schulpflicht der vorläufig Aufgenommenen finden Art. 23 und 24 sinngemäss Anwendung. Vorläufig Aufgenommenen wird überdies der Zugang zu geeigneten Aus- und Weiterbildungen gestattet, wenn dies die Integration fördert oder die Rückkehrfähigkeit erhöht.\n7) Im Übrigen finden auf vorläufig Aufgenommene die Art. 7 und 31 sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "30",
+      "title": "Art. 30 Familienangehörige und deren Zusammenführung",
+      "content": "1) Familienangehörigen von vorläufig Aufgenommenen kann die vorläufige Aufnahme gewährt werden.\n2) Abs. 1 findet keine Anwendung auf Familienangehörige von Personen, die wegen eines Grundes nach Art. 36, 40 oder 41 vorläufig aufgenommen wurden.\n3) Die Regierung regelt das Nähere über die vorläufige Aufnahme von Familienangehörigen mit Verordnung."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "E. Wegweisung, vorläufige Aufnahme und schwerwiegender persönlicher Härtefall",
+      "section": "31",
+      "title": "Art. 31 Fortgeschrittene Integration",
+      "content": "1) Die Regierung kann auf Gesuch hin eine Aufenthaltsbewilligung erteilen, wenn: a) der Asylsuchende sich seit Einreichung des Asylgesuchs mindestens fünf Jahre in Liechtenstein aufhält;\nb) der Aufenthaltsort des Asylsuchenden den Behörden immer bekannt war; und\nc) die Integration fortgeschritten ist.\n2) Die aufenthaltsrechtliche Stellung der betroffenen Personen richtet sich nach den Bestimmungen des Ausländergesetzes.\n3) Die Regierung regelt das Nähere mit Verordnung.\nIII. Asylgewährung und Rechtsstellung der Flüchtlinge\nA. Asylgewährung"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "A. Asylgewährung",
+      "section": "32",
+      "title": "Art. 32 Asylgewährung",
+      "content": "1) Einer Person wird Asyl gewährt, wenn: a) sie nachweist oder glaubhaft macht, dass sie Flüchtling im Sinne von Art. 2 Abs. 1 Bst. a ist; und\nb) keine Verweigerungs- oder Ausschlussgründe nach Art. 34 bis 36 vorliegen.\n2) Glaubhaft gemacht ist die Flüchtlingseigenschaft, wenn die Regierung ihr Vorhandensein mit überwiegender Wahrscheinlichkeit für gegeben hält. Der schwierigen Beweissituation des Asylsuchenden ist Rechnung zu tragen.\n3) Unglaubhaft sind insbesondere Vorbringen, die in wesentlichen Punkten zu wenig substantiiert oder in sich widersprüchlich sind, den Tatsachen nicht entsprechen oder massgeblich auf gefälschte oder verfälschte Beweismittel abgestützt werden.\n4) Die Regierung kann im Rahmen der europäischen Asylpolitik: a) Asylsuchende zur Behandlung ihres Asylgesuchs von einem anderen Dublin-Staat übernehmen; oder\nb) Flüchtlingen, welche ein anderer Dublin-Staat als Flüchtlinge anerkannt hat, Asyl gewähren.\n5) Die Regierung kann Personen, die der Hohe Flüchtlingskommissar der Vereinten Nationen (UNHCR) als Flüchtlinge anerkannt hat und die sich in einem Erstaufnahmestaat befinden, Asyl gewähren.\nVerweigerungs- und Ausschlussgründe\nArt. 33 Aufgehoben"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "A. Asylgewährung",
+      "section": "34",
+      "title": "Art. 34 b) Innerstaatliche Flucht- und Aufenthaltsalternative",
+      "content": "1) Kein Asyl wird gewährt, wenn in einem Teil des Heimat- oder Herkunftsstaates keine begründete Furcht vor Verfolgung besteht und dem Asylsuchenden der Aufenthalt in diesem Teil des Staatsgebietes zugemutet werden kann.\n2) Der Schutz vor Verfolgung ist jedenfalls gewährleistet, wenn die unter Art. 2 Abs. 3 Bst. a und b genannten Akteure einschliesslich internationaler Organisationen geeignete Schritte einleiten, um die Verfolgung zu verhindern, beispielsweise durch wirksame Rechtsvorschriften zur Ermittlung, Strafverfolgung und Ahndung von Handlungen, die eine Verfolgung darstellen, und wenn der Asylsuchende Zugang zu diesem Schutz hat.\n3) Bei der Prüfung, ob eine innerstaatliche Flucht- und Aufenthaltsalternative gegeben ist, ist auf die allgemeine Gegebenheit des Heimat- oder Herkunftsstaates und auf die persönlichen Umstände des Asylsuchenden zum Zeitpunkt der Entscheidung über das Gesuch abzustellen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "A. Asylgewährung",
+      "section": "35",
+      "title": "Art. 35 c) Subjektive Nachfluchtgründe",
+      "content": "Kein Asyl wird gewährt, wenn Asylsuchende erst durch ihre Ausreise aus dem Heimat- oder Herkunftsstaat oder wegen ihres Verhaltens nach der Ausreise Flüchtlinge im Sinne von Art. 2 Abs. 1 Bst. a wurden."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "A. Asylgewährung",
+      "section": "36",
+      "title": "Art. 36 d) Ausschlussgründe",
+      "content": "1) Kein Asyl wird gewährt, wenn: a) Asylsuchende den Schutz oder Beistand einer Organisation oder einer Institution der Vereinten Nationen mit Ausnahme des Hohen Flüchtlingskommissars der Vereinten Nationen (UNHCR) nach Art. 1 Bst. D des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge geniessen. Wird ein solcher Schutz nicht länger gewährt, ohne dass die Lage der Betroffenen gemäss den einschlägigen Resolutionen der Generalversammlung der Vereinten Nationen endgültig geklärt worden ist, geniessen sie den Schutz dieses Gesetzes;\nb) Asylsuchende nach Auffassung des Ausländer- und Passamtes im Besitze aller Rechte und Pflichten von liechtensteinischen Staatsangehörigen stehen;\nc) es stichhaltige Gründe für die Annahme gibt, dass Asylsuchende eine ernsthafte Gefahr für die Sicherheit Liechtensteins darstellen;\nd) Asylsuchende eine Gefahr für die Gemeinschaft Liechtensteins darstellen, weil sie nach ihrer Ankunft wegen eines Verbrechens rechtskräftig verurteilt wurden.\n2) Kein Asyl wird überdies gewährt, wenn schwerwiegende Gründe zu der Annahme berechtigen, dass der Asylsuchende: a) ein Verbrechen gegen den Frieden, ein Kriegsverbrechen oder ein Verbrechen gegen die Menschlichkeit im Sinne der internationalen Vertragswerke begangen hat, die Bestimmungen zur Verhinderung solcher Verbrechen enthalten;\nb) ein schweres Verbrechen des gemeinen Rechts ausserhalb von Liechtenstein begangen hat, bevor sie in Liechtenstein ein Asylgesuch eingereicht hat;\nc) sich Handlungen zu Schulden kommen liess, die gegen die Ziele und Grundsätze der Vereinten Nationen gerichtet sind.\nB. Rechtsstellung der Flüchtlinge"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "B. Rechtsstellung der Flüchtlinge",
+      "section": "37",
+      "title": "Art. 37 Grundsatz",
+      "content": "Die Rechtsstellung der Flüchtlinge in Liechtenstein richtet sich nach dem Ausländergesetz, soweit nicht besondere Bestimmungen, namentlich dieses Gesetzes und des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge, anwendbar sind."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "B. Rechtsstellung der Flüchtlinge",
+      "section": "38",
+      "title": "Art. 38 Aufenthaltsrecht",
+      "content": "Mit der Asylgewährung haben die betroffenen Personen ein Aufenthaltsrecht in Liechtenstein. Sofern dieses Gesetz keine besonderen Bestimmungen enthält, richtet sich ihr Aufenthalt nach dem Ausländergesetz."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "B. Rechtsstellung der Flüchtlinge",
+      "section": "39",
+      "title": "Art. 39 Familienangehörige und deren Zusammenführung",
+      "content": "Familienangehörigen von Flüchtlingen wird ebenfalls Asyl gewährt, wenn die Familie durch die Flucht getrennt wurde und sich in Liechtenstein vereinigen will.\nC. Beendigung des Asyls"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "C. Beendigung des Asyls",
+      "section": "40",
+      "title": "Art. 40 Widerruf des Asyls",
+      "content": "1) Die Regierung widerruft das Asyl oder aberkennt die Flüchtlingseigenschaft, wenn die betreffende Person: a) das Asyl durch falsche Angaben oder Verschweigen wesentlicher Tatsachen erschlichen hat;\nb) sich freiwillig wieder unter den Schutz des Staates, dessen Staatsangehörigkeit sie besitzt, gestellt hat;\nc) freiwillig die verlorene Staatsangehörigkeit wieder erworben hat;\nd) eine neue Staatsangehörigkeit erworben hat oder ihr in einem anderen Staat Asyl oder ein anderes dauerhaftes Aufenthaltsrecht gewährt wurde, und sie in diesem Staat Schutz geniesst;\ne) freiwillig in den Staat, welchen sie aus Furcht vor Verfolgung verlassen oder nicht mehr betreten hat, zurückgekehrt ist und sich dort niederlässt;\nf) nach Wegfall der Umstände, aufgrund deren sie als Flüchtling anerkannt worden ist, es nicht mehr ablehnen kann, den Schutz ihres Heimat- oder Herkunftsstaates in Anspruch zu nehmen; oder\ng) staatenlos und nach Wegfall der Umstände, aufgrund deren sie als Flüchtling anerkannt worden ist, in der Lage ist, in den Staat ihres früheren Wohnsitzes zurückzukehren.\n2) Abs. 1 Bst. f und g findet keine Anwendung auf Flüchtlinge, die den Schutz ihres Heimat- oder Herkunftsstaates aus triftigen Gründen, die auf frühere Verfolgungen zurückgehen, ablehnen.\n3) Die Regierung widerruft das Asyl, wenn: a) es stichhaltige Gründe für die Annahme gibt, dass der Flüchtling eine ernsthafte Gefahr für die Sicherheit Liechtensteins darstellt;\nb) der Flüchtling eine Gefahr für die Gemeinschaft Liechtensteins darstellt, weil er nach seiner Ankunft wegen eines Verbrechens rechtskräftig verurteilt wurde.\n4) Der Asylwiderruf oder die Aberkennung der Flüchtlingseigenschaft erstreckt sich nicht auf die Familienangehörigen, ausser es erweise sich, dass diese des Asyls nicht bedürfen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "C. Beendigung des Asyls",
+      "section": "41",
+      "title": "Art. 41 Erlöschen des Asyls",
+      "content": "Die Regierung stellt das Erlöschen des Asyls fest, wenn: a) sich der Flüchtling während mehr als zwei Jahren im Ausland aufgehalten hat;\nb) der Flüchtling in einem anderen Staat Asyl oder die Bewilligung zum dauernden Verbleiben erhalten hat;\nc) der Flüchtling darauf verzichtet;\nd) die Ausweisung vollzogen worden ist;\ne) der Flüchtling die liechtensteinische Staatsangehörigkeit erwirbt."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "C. Beendigung des Asyls",
+      "section": "42",
+      "title": "Art. 42 Ausweisung",
+      "content": "Flüchtlinge, denen in Liechtenstein Asyl gewährt wurde, dürfen nur ausgewiesen werden, wenn sie die innere oder äussere Sicherheit Liechtensteins gefährden oder die öffentliche Ordnung in schwerwiegender Weise verletzt haben.\nIV. Vorübergehende Schutzgewährung\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "A. Allgemeines",
+      "section": "43",
+      "title": "Art. 43 Entscheid über die vorübergehende Schutzgewährung",
+      "content": "1) Die Regierung bestimmt mit Verordnung, ob und nach welchen Kriterien und in welchem Umfang Gruppen von Schutzbedürftigen vorübergehend Schutz gewährt wird.\n2) Sie konsultiert vorgängig die beratende Kommission (Art. 85) und den Hohen Flüchtlingskommissar der Vereinten Nationen (UNHCR)."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "A. Allgemeines",
+      "section": "44",
+      "title": "Art. 44 Massnahmen im Ausland",
+      "content": "Die vorübergehende Schutzgewährung ergänzt Massnahmen und Hilfeleistungen im Heimat- oder Herkunftsstaat oder in der Herkunftsregion der Schutzbedürftigen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "A. Allgemeines",
+      "section": "45",
+      "title": "Art. 45 Familienangehörige und deren Zusammenführung",
+      "content": "1) Familienangehörigen von Schutzbedürftigen wird ebenfalls vorübergehend Schutz gewährt, wenn die Familie durch Ereignisse, aufgrund derer die Regierung vorübergehend Schutz gewährt hat, getrennt wurde und sich in Liechtenstein vereinigen will.\n2) In den übrigen Fällen entscheidet die Regierung über die Familienzusammenführung.\nB. Verfahren"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "B. Verfahren",
+      "section": "46",
+      "title": "Art. 46 Verfahren im Ausland",
+      "content": "1) Das Ausländer- und Passamt bestimmt, wer einer Gruppe angehört und wem in Liechtenstein vorübergehend Schutz gewährt wird. Es berücksichtigt dabei den Grundsatz der Einheit der Familie.\n2) Der Entscheid über die vorübergehende Schutzgewährung ist nicht anfechtbar.\n3) Der Staat kann die Kosten der Einreise übernehmen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "B. Verfahren",
+      "section": "47",
+      "title": "Art. 47 Verfahren im Inland",
+      "content": "1) Die Einreichung des Gesuchs um vorübergehende Schutzgewährung richtet sich sinngemäss nach Art. 15 und 16.\n2) Wird einer Person vorübergehend Schutz gewährt, werden das Asyl- und Wegweisungsverfahren sistiert. Der Entscheid bedarf keiner Anhörung.\n3) Im Übrigen finden die Art. 6 bis 14 und 16a bis 21a sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "B. Verfahren",
+      "section": "48",
+      "title": "Art. 48 Ausschlussgründe",
+      "content": "Vorübergehender Schutz wird nicht gewährt, wenn der Schutzbedürftige: a) die öffentliche Sicherheit und Ordnung im Heimat- oder Herkunftsstaat verletzt oder in schwerwiegender Weise gefährdet hat; oder\nb) einen Tatbestand nach Art. 40 Abs. 3 erfüllt.\nC. Rechtsstellung der Schutzbedürftigen"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "C. Rechtsstellung der Schutzbedürftigen",
+      "section": "49",
+      "title": "Art. 49 Regelung der Anwesenheit",
+      "content": "1) Der Schutzbedürftige darf sich während der Dauer der vorübergehenden Schutzgewährung in Liechtenstein aufhalten.\n2) Dauert die Schutzgewährung länger als fünf Jahre, erhält der Schutzbedürftige eine Aufenthaltsbewilligung. Seine aufenthaltsrechtliche Stellung richtet sich nach den Bestimmungen des Ausländergesetzes."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "C. Rechtsstellung der Schutzbedürftigen",
+      "section": "50",
+      "title": "Art. 50 Erwerbstätigkeit und Ausbildung",
+      "content": "1) Auf die Erwerbstätigkeit und die Schulpflicht der Schutzbedürftigen finden die Art. 23 und 24 sinngemäss Anwendung. Schutzbedürftigen kann überdies der Zugang zu geeigneten Aus- und Weiterbildungen gestattet werden, wenn dies die Integration fördert oder die Rückkehrfähigkeit erhöht.\n2) Die Regierung kann das Nähere mit Verordnung regeln.\nD. Beendigung der vorübergehenden Schutzgewährung"
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "D. Beendigung der vorübergehenden Schutzgewährung",
+      "section": "51",
+      "title": "Art. 51 Aufhebung der Schutzgewährung und Wegweisung",
+      "content": "1) Die Regierung beschliesst nach Konsultationen mit der beratenden Kommission (Art. 85) sowie mit dem Hohen Flüchtlingskommissar der Vereinten Nationen (UNHCR) den Zeitpunkt der Aufhebung der vorübergehenden Schutzgewährung für bestimmte Gruppen von Schutzbedürftigen; die Aufhebung erfolgt mit Verordnung.\n2) Bei Hinweisen auf das Bestehen einer Verfolgung besteht Anspruch auf Durchführung eines Asylverfahrens.\n3) In den übrigen Fällen verfügt das Ausländer- und Passamt nach Anhörung der betroffenen Person die Wegweisung. Auf den Vollzug der Wegweisung finden die Art. 25 bis 28 sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "D. Beendigung der vorübergehenden Schutzgewährung",
+      "section": "52",
+      "title": "Art. 52 Widerruf",
+      "content": "1) Das Ausländer- und Passamt kann den vorübergehenden Schutz widerrufen, wenn: a) er durch falsche Angaben oder Verschweigen wesentlicher Tatsachen erschlichen worden ist; oder\nb) der Schutzbedürftige die öffentliche Sicherheit und Ordnung verletzt oder in schwerwiegender Weise gefährdet hat oder in Liechtenstein wegen eines Verbrechens verurteilt wurde.\n2) Der Widerruf des vorübergehenden Schutzes erstreckt sich nicht auf die Familienangehörigen, ausser es erweise sich, dass diese nicht schutzbedürftig sind.\n3) Wird der vorübergehende Schutz widerrufen, so wird die betroffene Person unter sinngemässer Anwendung der Art. 25 bis 28 weggewiesen."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "D. Beendigung der vorübergehenden Schutzgewährung",
+      "section": "53",
+      "title": "Art. 53 Erlöschen",
+      "content": "Das Ausländer- und Passamt stellt das Erlöschen des vorübergehenden Schutzes fest, wenn der Schutzbedürftige: a) den Lebensmittelpunkt ins Ausland verlegt;\nb) auf den vorübergehenden Schutz verzichtet; oder\nc) eine Aufenthaltsbewilligung nach dem Ausländergesetz oder Personenfreizügigkeitsgesetz erhalten hat.\nV. Fürsorgeleistungen, Leistungen der sozialen Sicherheit, Lohnzession und Kostenrückerstattung"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "V. Fürsorgeleistungen, Leistungen der sozialen Sicherheit, Lohnzession und Kostenrückerstattung",
+      "section": "54",
+      "title": "Art. 54 Fürsorgeleistungen",
+      "content": "1) Hilfsbedürftige Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige haben Anspruch auf Fürsorgeleistungen.\n2) Die Regierung setzt mit Verordnung die Höhe der Fürsorgeleistungen mit Pauschalen pro Person und Tag fest und stellt die für ihre Ausrichtung notwendigen Mittel zur Verfügung.\n3) Die Fürsorgeleistungen sind nach Möglichkeit in Form von Sachleistungen auszurichten.\n4) Die Ausrichtung der Fürsorgeleistungen erfolgt durch die mit der Betreuung beauftragten Dritten."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "V. Fürsorgeleistungen, Leistungen der sozialen Sicherheit, Lohnzession und Kostenrückerstattung",
+      "section": "55",
+      "title": "Art. 55 Leistungen der sozialen Sicherheit",
+      "content": "1) Die Ausrichtung von Leistungen der sozialen Sicherheit an Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige richtet sich nach den einschlägigen Spezialgesetzen, soweit dieses Gesetz nichts anderes bestimmt.\n2) Kinderzulagen von Asylsuchenden werden während des Asylverfahrens zurückbehalten. Sie werden ausbezahlt, wenn die asylsuchende Person als Flüchtling anerkannt oder nach Art. 29 Abs. 3 und 4 vorläufig aufgenommen wird.\n3) Der Staat übernimmt für bedürftige Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige: a) die im Rahmen der obligatorischen Krankenversicherung anfallenden Prämien und Kostenbeteiligungen; und\nb) die Kosten für zahnärztliche Behandlungen, soweit diese der Schmerzbehandlung dienen oder aus gesundheitlichen Gründen zwingend notwendig sind.\n4) Die Regierung regelt das Verfahren für die Kostenübernahme nach Abs. 3 Bst. b mit Verordnung.\nLohnzession\nArt. 56 a) Grundsatz\n1) Stehen einem Asylsuchenden, vorläufig Aufgenommenen oder Schutzbedürftigen Lohnforderungen oder sonstige Geldforderungen mit Erwerbsersatzcharakter zu, so werden diese vorbehaltlich Abs. 2 an den Staat abgetreten (Lohnzession); die Gelder werden von den mit der Betreuung beauftragten Dritten verwaltet.\n2) Asylsuchenden, vorläufig Aufgenommenen und Schutzbedürftigen wird während der Dauer der Lohnzession ein von der Regierung mit Verordnung bestimmter Betrag des einbehaltenen Geldes ausbezahlt.\n3) Das Ausländer- und Passamt informiert den Arbeitgeber oder sonstige Schuldner über die Bestimmungen der Lohnzession.\n4) Die Regierung kann das Nähere mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "V. Fürsorgeleistungen, Leistungen der sozialen Sicherheit, Lohnzession und Kostenrückerstattung",
+      "section": "57",
+      "title": "Art. 57 b) Beendigung",
+      "content": "1) Die Lohnzession endet: a) mit der Asylgewährung;\nb) mit Erteilung einer Aufenthaltsbewilligung;\nc) mit der nachweislichen Ausreise aus Liechtenstein;\nd) mit Abschreibung des Asylgesuchs nach Art. 28 Abs. 2; oder\ne) spätestens fünf Jahre nach Einreichung des Asylgesuchs bzw. des Gesuchs um vorübergehende Schutzgewährung.\n2) Mit Beendigung der Lohnzession hat der Asylsuchende, vorläufig Aufgenommene oder Schutzbedürftige Anspruch auf Auszahlung des verwalteten Lohns.\n3) Kosten, die während des Aufenthaltes des Asylsuchenden, vorläufig Aufgenommenen oder Schutzbedürftigen in Liechtenstein angefallen sind, werden in der Regel im Zeitpunkt der Beendigung der Lohnzession durch das Ausländer- und Passamt mit dem Lohnguthaben verrechnet. Auf Verlangen wird der betroffenen Person eine Verfügung über die Verrechnung zugestellt.\n4) Wurde das Asylgesuch abgewiesen, die vorläufige Aufnahme nicht mehr verlängert oder der vorübergehende Schutz aufgehoben und die Wegweisung verfügt, sind ausserdem die voraussichtlichen Ausreise- und Vollzugskosten einzubehalten.\n5) Das Ausländer- und Passamt kann auf Antrag von der Verrechnung absehen, wenn Asyl gewährt wird oder die Verrechnung eine unzumutbare Härte für die betroffene Person bedeuten würde.\n6) Der Anspruch auf Auszahlung des Lohnguthabens verfällt, wenn er nicht innerhalb von fünf Jahren nach Beendigung der Lohnzession nach Abs. 1 Bst. c und d geltend gemacht wird."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "V. Fürsorgeleistungen, Leistungen der sozialen Sicherheit, Lohnzession und Kostenrückerstattung",
+      "section": "58",
+      "title": "Art. 58 Kostenrückerstattung",
+      "content": "1) Asylsuchende, vorläufig Aufgenommene oder Schutzbedürftige, die über ausreichendes Vermögen verfügen, sind zur Rückerstattung der Kosten nach Art. 57 Abs. 3 und 4 verpflichtet.\n2) Das Ausländer- und Passamt legt die Höhe des Rückerstattungsbetrages mit Verfügung fest; der Betrag ist auf ein beim Amt für Finanzen eingerichtetes Konto zu überweisen.\n3) Das Ausländer- und Passamt und die Landespolizei können Vermögenswerte, welche die Asylsuchenden oder Schutzbedürftigen bei ihrer Einreise nach Liechtenstein bei sich haben, zum Zwecke der Rückerstattung der Kosten nach Abs. 1 sicherstellen. Den betroffenen Personen wird eine Abnahmebestätigung ausgehändigt.\n4) Auf die Ausnahmen von der Rückerstattungspflicht findet Art. 57 Abs. 5 sinngemäss Anwendung.\n5) Die Regierung kann das Nähere über die Kostenrückerstattung und die Sicherstellung der Vermögenswerte mit Verordnung regeln.\nVI. Betreuung"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "VI. Betreuung",
+      "section": "59",
+      "title": "Art. 59 Betreuung",
+      "content": "1) Die Regierung stellt die Betreuung der Personen, die in den Anwendungsbereich dieses Gesetzes fallen, sicher. Sie schliesst Leistungsvereinbarungen zur selbständigen Erledigung der Betreuung mit unabhängigen Dritten ab.\n2) Die Betreuung umfasst insbesondere: a) die Unterbringung in geeigneten Unterkünften;\nb) die Durchführung der Lohnverwaltung;\nc) die Sicherstellung der wirtschaftlichen, medizinischen und psychosozialen Versorgung;\nd) die Beratung und Begleitung während des Aufenthaltes in Liechtenstein;\ne) die Förderung der Integration und der Rückkehrfähigkeit;\nf) die sinnvolle Beschäftigung und die Unterstützung bei der Arbeitssuche;\ng) den Informationsaustausch mit den zuständigen Behörden;\nh) die Rekrutierung, die Instruktion, den Einsatz und die Kontrolle der Hilfswerksvertreter.\nVII. Finanzierung"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "VII. Finanzierung",
+      "section": "60",
+      "title": "Art. 60 Kostenübernahme",
+      "content": "1) Der Staat trägt die Kosten für: a) die Errichtung, Einrichtung und den Unterhalt eines Aufnahmezentrums;\nb) die Miete und die Einrichtung allfälliger weiterer Unterkünfte für unter dieses Gesetz fallende Personen;\nc) die Unterbringung, Verpflegung, Betreuung sowie Versicherung und Kostenbeteiligungen bei Krankheit und Unfall der unter dieses Gesetz fallenden Personen;\nd) die Rechtsberatung der unter dieses Gesetz fallenden Personen; und\ne) den Aufwand der beauftragten Dritten bei der Erledigung von Aufgaben im Rahmen dieses Gesetzes sowie die damit verbundenen Verwaltungskosten.\n2) Die Regierung kann das Nähere über die Kostenübernahme mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "VII. Finanzierung",
+      "section": "61",
+      "title": "Art. 61 Weitere Beiträge",
+      "content": "1) Der Staat kann die Durchführung von Beschäftigungsprogrammen fördern.\n2) Der Staat kann im Rahmen der internationalen Zusammenarbeit nach Art. 84 Beiträge an die Trägerschaft von international ausgerichteten Projekten oder an international tätige Organisationen ausrichten.\n3) Die Regierung regelt die Voraussetzungen und das Verfahren zur Ausrichtung und Abrechnung der Beiträge mit Verordnung."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "VII. Finanzierung",
+      "section": "62",
+      "title": "Art. 62 Kosten für Ein- und Ausreise",
+      "content": "1) Der Staat kann die Kosten für die Ein- und Ausreise von Personen, die um Asyl nachsuchen und von der Regierung eine Einreisebewilligung erhalten haben, sowie von Schutzbedürftigen übernehmen.\n2) Der Staat kann, vorbehaltlich einer Kostentragungspflicht Dritter, die Kosten für die Ausreise von bedürftigen Personen, die nach diesem Gesetz Liechtenstein verlassen müssen, übernehmen.\n3) Die Regierung regelt die Voraussetzungen und das Verfahren zur Ausrichtung und Abrechnung der Beiträge mit Verordnung. Nach Möglichkeit setzt sie Pauschalen fest."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "VII. Finanzierung",
+      "section": "63",
+      "title": "Art. 63 Rückkehrhilfe und Wiedereingliederung",
+      "content": "1) Der Staat kann Rückkehrhilfe gewähren, indem er: a) Projekte zur Rückkehrberatung sowie Projekte zur Erhaltung der Rückkehrfähigkeit in Liechtenstein ganz oder teilweise finanziert;\nb) Projekte zur Erleichterung der Rückkehr und der Reintegration im Heimat-, Herkunfts- oder Drittstaat ganz oder teilweise finanziert; und\nc) im Einzelfall zur Erleichterung der Eingliederung oder zur Gewährleistung von Grundbedürfnissen im Heimat-, Herkunfts- oder Drittstaat finanzielle Hilfe gewährt.\n2) Zur Koordination der Projekte nach Abs. 1 Bst. a und b kann der Staat mit internationalen Organisationen und anderen Staaten zusammenarbeiten sowie eine Koordinationsstelle einrichten.\n3) Die Regierung regelt die Voraussetzungen und das Verfahren zur Ausrichtung und Abrechnung der Beiträge mit Verordnung."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "VII. Finanzierung",
+      "section": "64",
+      "title": "Art. 64 Aufsicht",
+      "content": "1) Die Regierung prüft die subventionsrechtlich korrekte Verwendung der Staatsbeiträge und die vorschriftsgemässe Abrechnung. Sie kann mit dieser Aufgabe auch Dritte beauftragen.\n2) Empfänger von Staatsbeiträgen müssen den mit der Finanzaufsicht betrauten Organen auf Verlangen die notwendigen Akten und Rechnungsunterlagen zur Verfügung stellen, die erforderlichen Auskünfte erteilen sowie Zutritt an Ort und Stelle gewähren. Verletzungen dieser Pflicht werden sinngemäss nach Art. 17 des Subventionsgesetzes sanktioniert.\nVIII. Amtshilfe"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "VIII. Amtshilfe",
+      "section": "65",
+      "title": "Art. 65 Grundsatz",
+      "content": "1) Gerichte und Verwaltungsbehörden haben das Ausländer- und Passamt auf Ersuchen bei der Erfüllung seiner gesetzlichen Aufgaben durch Leistung von Amtshilfe zu unterstützen, soweit dadurch nicht gesetzliche Schweigepflichten oder überwiegende öffentliche oder private Interessen verletzt werden. Die Amtshilfe beinhaltet insbesondere die Erteilung von Auskünften, die Abgabe von Urteilsausfertigungen oder die Mitteilung von Umständen und Tatsachen, die das Ausländer- und Passamt zur Erfüllung seiner Aufgaben benötigt.\n2) Private Organisationen, die öffentliche Aufgaben im Bereich des Asylrechts wahrnehmen, sind ebenfalls zur Leistung von Amtshilfe verpflichtet.\n3) Das Ausländer- und Passamt leistet auf Ersuchen der Gerichte und anderer Verwaltungsbehörden Amtshilfe, soweit dadurch nicht gesetzliche Schweigepflichten oder überwiegende öffentliche oder private Interessen verletzt werden.\nIX. Datenschutz\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "A. Allgemeines",
+      "section": "66",
+      "title": "Art. 66 Verarbeitung personenbezogener Daten",
+      "content": "Die für den Vollzug dieses Gesetzes zuständigen Behörden dürfen personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, eines Asylsuchenden oder Schutzbedürftigen und seiner Angehörigen verarbeiten oder verarbeiten lassen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "A. Allgemeines",
+      "section": "67",
+      "title": "Art. 67 Übermittlung personenbezogener Daten an den Heimat- oder Herkunftsstaat",
+      "content": "1) Personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, von Asylsuchenden, anerkannten Flüchtlingen und Schutzbedürftigen dürfen dem Heimat- oder Herkunftsstaat nicht übermittelt werden, wenn dadurch die betroffene Person oder ihre Familienangehörigen gefährdet würden. Über ein Asylgesuch dürfen keine Angaben gemacht werden.\n2) Das Ausländer- und Passamt oder die Landespolizei kann zwecks Beschaffung der für den Vollzug der Wegweisungsverfügung notwendigen Reisepapiere mit dem Heimat- oder Herkunftsstaat Kontakt aufnehmen, wenn das Asylgesuch rechtskräftig abgelehnt wurde.\n3) Für den Vollzug einer Wegweisung in den Heimat- oder Herkunftsstaat darf das Ausländer- und Passamt oder die Landespolizei der ausländischen Behörde folgende personenbezogene Daten übermitteln: a) Personalien (Name, Vorname, Aliasnamen, Geburtsdatum, Geburtsort, Geschlecht, Staatsangehörigkeit, Name und Vorname der Eltern sowie letzte Adresse im Heimat- oder Herkunftsstaat) der betroffenen Person und, sofern notwendig, der Familienangehörigen;\nb) Angaben über den Reisepass oder andere Identitätsausweise;\nc) Fingerabdrücke und Fotografien;\nd) weitere zur Identifikation einer Person erforderliche Daten;\ne) Angaben über den Gesundheitszustand, soweit dies im Interesse der betroffenen Person liegt;\nf) die für die Sicherstellung der Einreise in den Zielstaat sowie für die Sicherheit der Begleitpersonen erforderlichen Daten;\ng) Angaben über strafrechtliche Verfahren, soweit dies im konkreten Fall zur Abwicklung der Rückübernahme und zur Wahrung der öffentlichen Sicherheit und Ordnung im Heimat- oder Herkunftsstaat erforderlich ist und dadurch die betroffene Person nicht gefährdet wird."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "A. Allgemeines",
+      "section": "68",
+      "title": "Art. 68 Übermittlung personenbezogener Daten an Drittstaaten und internationale Organisationen",
+      "content": "1) Das Ausländer- und Passamt sowie die Beschwerdebehörden dürfen zum Vollzug dieses Gesetzes mit entsprechenden Aufgaben betrauten ausländischen Behörden und internationalen Organisationen personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, nach Massgabe der Datenschutzgesetzgebung übermitteln.\n2) Folgende personenbezogene Daten dürfen übermittelt werden: a) Personalien (Name, Vorname, Aliasnamen, Geburtsdatum, Geburtsort, Geschlecht, Staatsangehörigkeit, Name und Vorname der Eltern sowie letzte Adresse im Heimat- oder Herkunftsstaat) der betroffenen Person und, sofern notwendig, der Familienangehörigen;\nb) Angaben über den Reisepass oder andere Identitätsausweise;\nc) Fingerabdrücke und Fotografien;\nd) weitere zur Identifikation einer Person erforderliche Daten;\ne) Angaben über den Gesundheitszustand, soweit dies im Interesse der betroffenen Person liegt;\nf) die für die Sicherstellung der Einreise in den Zielstaat sowie für die Sicherheit der Begleitpersonen erforderlichen Daten;\ng) Angaben über Aufenthaltsorte und Reiseweg;\nh) Angaben über Anwesenheitsbewilligungen und erteilte Visa;\ni) Angaben über ein Asylgesuch (Ort und Datum der Einreichung, Stand des Verfahrens, summarische Angaben über den Inhalt eines getroffenen Entscheides)."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "A. Allgemeines",
+      "section": "69",
+      "title": "Art. 69 Zusammenarbeit mit den Strafverfolgungsbehörden",
+      "content": "Besteht der begründete Verdacht, dass der Asylsuchende oder Schutzbedürftige ein Vergehen oder Verbrechen begangen hat, so hat das Ausländer- und Passamt die Strafverfolgungsbehörden über diesen Umstand zu informieren."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "A. Allgemeines",
+      "section": "70",
+      "title": "Art. 70 Biometrische Daten",
+      "content": "1) Zur Feststellung der Identität von Asylsuchenden und Schutzbedürftigen darf das Ausländer- und Passamt oder die Landespolizei biometrische Daten erheben und verarbeiten.\n2) Die Regierung legt mit Verordnung fest, welche biometrischen Daten erhoben werden, und regelt den Zugriff."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "A. Allgemeines",
+      "section": "71",
+      "title": "Art. 71 Erkennungsdienstliche Behandlung",
+      "content": "1) Asylsuchende und Schutzbedürftige werden erkennungsdienstlich behandelt. Ihnen werden die Abdrücke aller Finger abgenommen und Fotografien erstellt; die Abnahme der Fingerabdrücke erfolgt ab dem 14. Lebensjahr.\n2) Das Ausländer- und Passamt oder die Landespolizei veranlasst die erkennungsdienstliche Behandlung dieser Personen, um: a) die Identität der betroffenen Person zu prüfen und festzuhalten;\nb) zu prüfen, ob sie bereits einmal ein Asylgesuch eingereicht haben;\nc) zu prüfen, ob erkennungsdienstliche Angaben vorliegen, welche ihre Aussagen bestätigen oder widerlegen; und\nd) zu prüfen, ob erkennungsdienstliche Angaben vorliegen, welche ihre Asylwürdigkeit in Frage stellen.\n3) Die erkennungsdienstlichen Daten dürfen nur von der Landespolizei und vom Ausländer- und Passamt zur Erfüllung ihrer gesetzlichen Aufgaben verwendet werden.\n4) Die Daten werden gelöscht: a) wenn Asyl gewährt wird;\nb) bei Erteilung einer Aufenthaltsbewilligung;\nc) spätestens zehn Jahre nach rechtskräftiger Ablehnung, Rückzug oder Abschreibung des Asylgesuchs oder nach einer Entscheidung über die Unzulässigkeit des Asylgesuchs;\nd) bei Schutzbedürftigen spätestens zehn Jahre nach Aufhebung des vorübergehenden Schutzes."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "A. Allgemeines",
+      "section": "72",
+      "title": "Art. 72 Automatisierte Register",
+      "content": "1) Das Ausländer- und Passamt führt zur Verarbeitung von personenbezogenen Daten nach Art. 66 automatisierte Register.\n2) Die Register nach Abs. 1 dienen namentlich folgenden Zwecken: a) Registrierung von Asylsuchenden, Schutzbedürftigen und vorläufig Aufgenommenen;\nb) Erfassung der Aliasdaten von Asylsuchenden, Schutzbedürftigen und vorläufig Aufgenommenen;\nc) Erfassung der liechtensteinischen EURODAC-Kennnummer;\nd) Ausstellung von Ausweisen nach diesem Gesetz;\ne) Verarbeitung von Meldungen, insbesondere bei Umzug;\nf) Vornahme der administrativen Abmeldung infolge unbekannten Aufenthaltes oder Wegweisungsvollzugs;\ng) Erfassung von administrativen Massnahmen;\nh) Führung der Geschäftskontrolle; und\ni) Erstellung von Statistiken.\n3) Zugang zu den Registern nach Abs. 1 haben nur die beim Ausländer- und Passamt und der Landespolizei beschäftigten Personen, die mit dem Vollzug dieses Gesetzes betraut sind.\nB. Datenverarbeitung im Rahmen des für Liechtenstein anwendbaren Dublin-Besitzstands\nEurodac\nArt. 73 a) Grundsatz\n1) Im Rahmen des für Liechtenstein anwendbaren Dublin-Besitzstands ist das Ausländer- und Passamt für den Verkehr mit der Zentraleinheit des Systems Eurodac zuständig.\n2) Das Ausländer- und Passamt oder die Landespolizei übermittelt innerhalb von 72 Stunden nach Einreichung des Gesuchs folgende Daten an die Zentraleinheit: a) den Ort und das Datum der Gesuchstellung in Liechtenstein;\nb) das Geschlecht der gesuchstellenden Person;\nc) die nach Art. 71 Abs. 1 abgenommenen Fingerabdrücke;\nd) die liechtensteinische Kennnummer der Fingerabdrücke;\ne) das Datum der Abnahme der Fingerabdrücke; und\nf) das Datum der Übermittlung der Daten an die Zentraleinheit.\n3) Die übermittelten Daten werden in der Datenbank Eurodac gespeichert und mit den in dieser Datenbank bereits gespeicherten Daten verglichen.\n4) Die Daten werden zehn Jahre nach Abnahme der Fingerabdrücke automatisch vernichtet. Das Ausländer- und Passamt ersucht die Zentraleinheit unverzüglich um vorzeitige Vernichtung der Daten, sobald es davon Kenntnis erhält, dass der Asylsuchende: a) vor Ablauf dieser Frist die Staatsangehörigkeit eines Dublin-Staates erhalten hat; oder\nb) in Liechtenstein eine Aufenthaltsbewilligung erhalten hat."
+    },
+    {
+      "provision_ref": "art73a",
+      "chapter": "B. Datenverarbeitung im Rahmen des für Liechtenstein anwendbaren Dublin-Besitzstands",
+      "section": "73a",
+      "title": "Art. 73a b) Datenabgleich in Eurodac zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten",
+      "content": "1) Das Ausländer- und Passamt als nationale Zugangsstelle kann vorbehaltlich Abs. 4 auf der Grundlage von Art. 19 der Verordnung (EU) Nr. 603/2013 zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Sinne des Anhangs zum Polizeigesetz den Abgleich von Fingerabdrücken mit den im Zentralsystem Eurodac gespeicherten Daten vornehmen.\n2) Die Einheiten der Landespolizei, die zur Verhütung und Bekämpfung terroristischer oder sonstiger schwerer Straftaten zuständig sind, können im Rahmen ihrer gesetzlichen Aufgaben bei der nationalen Prüfstelle nach Abs. 3 einen Abgleich von Fingerabdrücken in Eurodac beantragen.\n3) Die Regierung regelt mit Verordnung, welche Einheit der Landespolizei die Funktion der nationalen Prüfstelle nach Art. 6 der Verordnung (EU) Nr. 603/2013 übernimmt. Diese Einheit prüft, ob die Voraussetzungen für den Abgleich in Eurodac nach Art. 20 der Verordnung (EU) Nr. 603/2013 erfüllt sind.\n4) Sind die Voraussetzungen nach Abs. 3 erfüllt, so löst die nationale Prüfstelle die Abfrage in Eurodac aus. Der Abgleich der Fingerabdrücke in Eurodac erfolgt automatisiert über das Ausländer- und Passamt oder ausserhalb der Amtsstunden über die Landespolizei.\n5) In dringenden Ausnahmefällen nach Art. 19 Abs. 3 der Verordnung (EU) Nr. 603/2013 kann die nationale Prüfstelle die Abfrage unverzüglich in Eurodac auslösen und nachträglich überprüfen, ob alle Voraussetzungen nach Abs. 3 erfüllt sind."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "B. Datenverarbeitung im Rahmen des für Liechtenstein anwendbaren Dublin-Besitzstands",
+      "section": "74",
+      "title": "Art. 74 Übermittlung personenbezogener Daten an einen Dublin-Staat",
+      "content": "Die Übermittlung personenbezogener Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, an die zuständigen Behörden von Dublin-Staaten wird der Übermittlung solcher Daten zwischen inländischen Behörden gleichgestellt."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "B. Datenverarbeitung im Rahmen des für Liechtenstein anwendbaren Dublin-Besitzstands",
+      "section": "75",
+      "title": "Art. 75 Übermittlung personenbezogener Daten an einen Staat, der durch den Dublin-Besitzstand nicht gebunden ist",
+      "content": "An Drittstaaten dürfen personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, nur nach Massgabe der Datenschutzgesetzgebung übermittelt werden.\nX. Rechtsschutz"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "X. Rechtsschutz",
+      "section": "76",
+      "title": "Art. 76 Rechtsmittel",
+      "content": "1) Gegen Entscheidungen der Regierung oder des zuständigen Regierungsmitglieds kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof eingereicht werden.\n2) Art. 46a des Gesetzes über die allgemeine Landesverwaltungspflege findet keine Anwendung."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "X. Rechtsschutz",
+      "section": "77",
+      "title": "Art. 77 Zuständigkeit und Verfahren",
+      "content": "1) Der Verwaltungsgerichtshof entscheidet über Beschwerden gegen Entscheidungen der Regierung betreffend: a) Aufgehoben\nb) Verweigerung des Asyls;\nc) Wegweisung;\nd) Beendigung des Asyls;\ne) Widerruf des vorübergehenden Schutzes.\n2) Ein Einzelrichter des Verwaltungsgerichtshofs entscheidet endgültig über: a) Beschwerden gegen Entscheidungen betreffend die Unzulässigkeit eines Asylgesuchs und die damit verbundene Wegweisung;\nb) andere Beschwerden; sowie\nc) Anträge.\n3) Die Regierung kann ergänzende Verfahrensvorschriften über mündliche Verhandlungen, die mündliche Eröffnung von Verfügungen und das summarische Verfahren erlassen.\n4) Der für die Entscheidung nach Abs. 2 zuständige Einzelrichter ist in der Geschäftsverteilung des Obersten Gerichtshofes festzulegen."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "X. Rechtsschutz",
+      "section": "78",
+      "title": "Art. 78 Überprüfungsbefugnis und neue Tatsachen und Beweise",
+      "content": "1) Die Überprüfungsbefugnis des Verwaltungsgerichtshofs und dessen Einzelrichter beschränkt sich auf Rechts- und Sachfragen. Das Ermessen wird ausschliesslich rechtlich überprüft.\n2) Im Beschwerdeverfahren vor dem Verwaltungsgerichtshof und dessen Einzelrichter können neue Tatsachen und Beweise nur dann vorgebracht werden, wenn: a) sie zum Zeitpunkt der erstinstanzlichen Entscheidung bereits bestanden, dem Beschwerdeführer aber nachweislich nicht bekannt waren oder ihm selbst bei Anwendung gehöriger Sorgfalt nicht bekannt sein konnten; oder\nb) sich neue Tatsachen erst nach dem Zeitpunkt der angefochtenen Entscheidung ergeben haben."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "X. Rechtsschutz",
+      "section": "79",
+      "title": "Art. 79 Anfechtbare Zwischenverfügungen",
+      "content": "1) Zwischenverfügungen, die in Anwendung der Art. 8 Abs. 2, Art. 15 bis 31 sowie Art. 54 bis 58 ergehen, können nur durch Beschwerde gegen die Endentscheidung angefochten werden.\n2) Selbständig anfechtbar sind, sofern sie einen nicht wiedergutzumachenden Nachteil bewirken können, vorsorgliche Massnahmen."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "X. Rechtsschutz",
+      "section": "80",
+      "title": "Art. 80 Verfahrensfristen",
+      "content": "1) Die Nachfrist für die Verbesserung der Beschwerde beträgt sieben Tage.\n1a) Wird einem Antrag auf Verfahrenshilfe stattgegeben, beträgt die Nachfrist für die Verbesserung der Beschwerde 14 Tage ab Bestellung des Verfahrenshelfers.\n2) Die Frist für die Beibringung von Bescheinigungsmitteln beträgt sieben Tage, wenn das Bescheinigungsmittel im Inland, und 30 Tage, wenn das Bescheinigungsmittel im Ausland beschafft werden muss. Gutachten sind binnen 30 Tagen beizubringen.\n3) Können die Fristen nach Abs. 1 bis 2 trotz glaubhafter Bemühungen eines Asylsuchenden nicht eingehalten werden oder ist die beschwerdeführende Person oder ihr Vertreter namentlich wegen Krankheit oder Unfall daran gehindert, so kann eine weitere Frist gewährt werden."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "X. Rechtsschutz",
+      "section": "81",
+      "title": "Art. 81 Aufschiebende Wirkung",
+      "content": "Beschwerden gegen Entscheidungen der Regierung oder des zuständigen Regierungsmitglieds haben aufschiebende Wirkung."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "X. Rechtsschutz",
+      "section": "82",
+      "title": "Art. 82 Wirkung ausserordentlicher Rechtsmittel",
+      "content": "Die Einreichung ausserordentlicher Rechtsmittel und Rechtsbehelfe hemmt den Vollzug nicht, es sei denn, die für die Behandlung zuständige Behörde entscheide anders."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "X. Rechtsschutz",
+      "section": "83",
+      "title": "Art. 83 Verfahrenshilfe",
+      "content": "1) Asylsuchenden, vorläufig Aufgenommenen und Schutzbedürftigen kann nach Massgabe der einschlägigen Bestimmungen der Zivilprozessordnung Verfahrenshilfe gewährt werden: a) im Beschwerdeverfahren;\nb) im erstinstanzlichen Verfahren, soweit es sich um ein komplexes Verfahren handelt.\n1a) Ein Antrag auf Verfahrenshilfe kann frühestens mit dem verfahrenseinleitenden Schriftsatz bzw. der Beschwerde gestellt werden.\n2) Wird eine Entscheidung an die erste Instanz zurückgewiesen, muss ein neuerlicher Antrag auf Verfahrenshilfe gestellt werden.\n3) Die Regierung regelt das Nähere über die Komplexität eines Verfahrens mit Verordnung.\n4) Nach Art. 12 Abs. 1 bestellte Verfahrenshelfer für minderjährige Asylsuchende müssen keinen Antrag auf Verfahrenshilfe stellen. Für sie sind die Abs. 1 bis 3 nicht anwendbar. Der Umfang der Verfahrenshilfe richtet sich nach den einschlägigen Bestimmungen der Zivilprozessordnung.\nXI. Internationale Zusammenarbeit und beratende Kommission"
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "XI. Internationale Zusammenarbeit und beratende Kommission",
+      "section": "84",
+      "title": "Art. 84 Internationale Zusammenarbeit",
+      "content": "1) Der Staat beteiligt sich im Rahmen des Gesetzes über die Internationale Humanitäre Zusammenarbeit und Entwicklung (IHZEG) an der Lösung von Flüchtlingsproblemen im Ausland und auf internationaler Ebene. Er arbeitet namentlich mit dem Hohen Flüchtlingskommissar der Vereinten Nationen (UNHCR) zusammen und unterstützt weitere internationale Organisationen und Hilfswerke, die im Bereich der Flüchtlingshilfe tätig sind.\n2) Das Ausländer- und Passamt übermittelt dem Hohen Flüchtlingskommissar der Vereinten Nationen (UNHCR) auf dessen Ersuchen zur Erfüllung seiner Aufgaben nach Art. 35 des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge die erforderlichen Informationen.\n3) Entscheidungen über Asylgesuche oder sonstige Angaben, insbesondere die vorgetragenen Verfolgungsgründe, dürfen, ausser in anonymisierter Form, nur übermittelt werden, wenn sich der Asylsuchende selbst an den Hohen Flüchtlingskommissar der Vereinten Nationen (UNHCR) gewandt hat oder die Einwilligung des Asylsuchenden anderweitig nachgewiesen ist. Der Einwilligung des Asylsuchenden bedarf es nicht, wenn dieser sich nicht mehr in Liechtenstein aufhält und kein Grund zur Annahme besteht, dass schutzwürdige Interessen des Asylsuchenden der Übermittlung entgegenstehen.\n4) Die Daten dürfen nur zu dem Zweck verwendet werden, zu dem sie übermittelt wurden."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "XI. Internationale Zusammenarbeit und beratende Kommission",
+      "section": "85",
+      "title": "Art. 85 Beratende Kommission",
+      "content": "1) Die Regierung setzt eine beratende Kommission ein, die sich aus sieben bis elf Mitgliedern zusammensetzt.\n2) Der Kommission gehören Vertreter der Regierung, der Gemeinden, des Ausländer- und Passamtes, des Amtes für Auswärtige Angelegenheiten, der Wirtschaft und der Hilfswerke an. Die Regierung bestimmt den Vorsitzenden. Die Mandatsdauer beträgt vier Jahre.\n3) Die Kommission berät die Regierung in allen Fragen in Zusammenhang mit der Aufnahme von Asylsuchenden und Schutzbedürftigen und gibt zu Handen der Regierung und der anderen zuständigen Behörden Empfehlungen ab.\n4) Die Regierung oder das Ausländer- und Passamt kann die Kommission einladen, zu einer bestimmten Frage aus ihrem Aufgabenbereich Stellung zu nehmen.\n5) Die Kommission konsultiert in grundsätzlichen und wichtigen Fragen den Hohen Flüchtlingskommissar der Vereinten Nationen (UNHCR).\nXII. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "XII. Strafbestimmungen",
+      "section": "86",
+      "title": "Art. 86 Täuschung der Behörden",
+      "content": "Vom Landgericht wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bis zu 360 Tagessätzen bestraft, wer die für den Vollzug dieses Gesetzes zuständigen Behörden durch falsche Angaben oder Verschweigen wesentlicher Tatsachen täuscht und sich dadurch einen geldwerten Vorteil im Sinne des Kapitels V erwirkt, der ihm nicht zukommt."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "XII. Strafbestimmungen",
+      "section": "87",
+      "title": "Art. 87 Zweckwidrige Verarbeitung personenbezogener Daten",
+      "content": "Wer im Eurodac gespeicherte Daten vorsätzlich für andere als die gesetzlich vorgesehenen Zwecke verarbeitet, wird vom Landgericht wegen Übertretung mit Busse bis zu 10 000 Franken bestraft."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "XII. Strafbestimmungen",
+      "section": "88",
+      "title": "Art. 88 Verwaltungsübertretungen",
+      "content": "Vom Ausländer- und Passamt wird wegen Übertretung mit Busse bis zu 10 000 Franken bestraft, wer vorsätzlich oder fahrlässig: a) ohne Zustimmung des Ausländer- und Passamtes erwerbstätig ist;\nb) einem Asylsuchenden, vorläufig Aufgenommenen oder Schutzbedürftigen eine Erwerbstätigkeit ohne die dazu erforderliche Zustimmung des Ausländer- und Passamtes verschafft oder eine solche Person ohne die dazu erforderliche Zustimmung des Ausländer- und Passamtes beschäftigt;\nc) der Mitwirkungspflicht nach Art. 6 Abs. 4 nicht nachkommt.\nXIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "XIII. Übergangs- und Schlussbestimmungen",
+      "section": "89",
+      "title": "Art. 89 Übergangsbestimmungen",
+      "content": "1) Auf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung.\n2) Die nach bisherigem Recht bestellte Kommission für Flüchtlingsfragen führt ihre Geschäfte bis zur Bestellung der neuen beratenden Kommission nach den Bestimmungen dieses Gesetzes weiter.\n3) Die nach bisherigem Recht abgeschlossenen Leistungsvereinbarungen bleiben, sofern darin nichts anderes bestimmt ist, bis zum Abschluss neuer Leistungsvereinbarungen aufrecht."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "XIII. Übergangs- und Schlussbestimmungen",
+      "section": "90",
+      "title": "Art. 90 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "XIII. Übergangs- und Schlussbestimmungen",
+      "section": "91",
+      "title": "Art. 91 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben: a) Gesetz von 2. April 1998 über die Aufnahme von Asylsuchenden und Schutzbedürftigen (Flüchtlingsgesetz), LGBl. 1998 Nr. 107;\nb) Kundmachung vom 11. August 1998 über die Berichtigung des Landesgesetzblattes 1998 Nr. 107, LGBl. 1998 Nr. 133;\nc) Gesetz vom 18. Dezember 1998 betreffend die Abänderung des Gesetzes über die Aufnahme von Asylsuchenden und Schutzbedürftigen (Flüchtlingsgesetz), LGBl. 1999 Nr. 47;\nd) Gesetz vom 19. Oktober 2005 betreffend die Abänderung des Gesetzes über die Aufnahme von Asylsuchenden und Schutzbedürftigen (Flüchtlingsgesetz), LGBl. 2005 Nr. 238;\ne) Gesetz vom 17. September 2008 über die Abänderung des Flüchtlingsgesetzes, LGBl. 2008 Nr. 314;\nf) Gesetz vom 22. Oktober 2008 über die Abänderung des Flüchtlingsgesetzes, LGBl. 2008 Nr. 340;\ng) Gesetz vom 16. März 2011 über die Abänderung des Flüchtlingsgesetzes, LGBl. 2011 Nr. 357."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "XIII. Übergangs- und Schlussbestimmungen",
+      "section": "92",
+      "title": "Art. 92 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am 1. Juni 2012 in Kraft.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n152.3 Asylgesetz (AsylG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2016 Nr. 411 ausgegeben am 1. Dezember 2016\nGesetz\nvom 28. September 2016\nüber die Abänderung des Asylgesetzes\n...\nII.\nÜbergangsbestimmung\nAuf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2018 Nr. 19 ausgegeben am 7. Februar 2018\nGesetz\nvom 5. Dezember 2017\nüber die Abänderung des Asylgesetzes\n...\nII.\nÜbergangsbestimmung\nAuf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2018 Nr. 270 ausgegeben am 7. Dezember 2018\nGesetz\nvom 5. Oktober 2018\nüber die Abänderung des Asylgesetzes\n...\nII.\nÜbergangsbestimmung\nAuf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Beschwerdeverfahren findet das bisherige Recht Anwendung.\n...\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 85/2011 und 133/2011\n2\nArt. 2 Abs. 1 Bst. i abgeändert durch LGBl. 2016 Nr. 411 .\n3\nArt. 2a eingefügt durch LGBl. 2020 Nr. 242 .\n4\nArt. 5 abgeändert durch LGBl. 2016 Nr. 411 .\n5\nArt. 5a eingefügt durch LGBl. 2016 Nr. 411 .\n6\nArt. 11 Abs. 1 abgeändert durch LGBl. 2016 Nr. 411 .\n7\nArt. 11a eingefügt durch LGBl. 2016 Nr. 411 .\n8\nArt. 12 Abs. 1 abgeändert durch LGBl. 2016 Nr. 411 .\n9\nArt. 13 Abs. 2 abgeändert durch LGBl. 2018 Nr. 270 .\n10\nArt. 13 Abs. 3 abgeändert durch LGBl. 2018 Nr. 270 .\n11\nArt. 16a eingefügt durch LGBl. 2016 Nr. 411 .\n12\nArt. 17 Abs. 3 abgeändert durch LGBl. 2016 Nr. 411 .\n13\nArt. 18 Abs. 3 abgeändert durch LGBl. 2016 Nr. 411 .\n14\nArt. 20 Abs. 1 Bst. e eingefügt durch LGBl. 2016 Nr. 411 .\n15\nArt. 20 Abs. 1 Bst. f eingefügt durch LGBl. 2016 Nr. 411 .\n16\nArt. 20 Abs. 1 Bst. g eingefügt durch LGBl. 2016 Nr. 411 .\n17\nArt. 20 Abs. 1 Bst. h eingefügt durch LGBl. 2016 Nr. 411 .\n18\nArt. 20 Abs. 2 abgeändert durch LGBl. 2016 Nr. 411 .\n19\nArt. 20 Abs. 3 abgeändert durch LGBl. 2016 Nr. 411 .\n20\nArt. 21 Sachüberschrift abgeändert durch LGBl. 2016 Nr. 411 .\n21\nArt. 21 Abs. 3 aufgehoben durch LGBl. 2016 Nr. 411 .\n22\nArt. 21a eingefügt durch LGBl. 2016 Nr. 411 .\n23\nArt. 22 abgeändert durch LGBl. 2016 Nr. 411 .\n24\nArt. 25 Abs. 1 abgeändert durch LGBl. 2016 Nr. 411 .\n25\nArt. 25 Abs. 1a eingefügt durch LGBl. 2016 Nr. 411 .\n26\nArt. 26 Abs. 3 aufgehoben durch LGBl. 2016 Nr. 411 .\n27\nArt. 26a eingefügt durch LGBl. 2020 Nr. 242 .\n28\nRichtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger (ABl. L 348 vom 24.12.2008, S. 98) .\n29\nArt. 27 abgeändert durch LGBl. 2021 Nr. 315 .\n30\nArt. 28 Abs. 2 abgeändert durch LGBl. 2016 Nr. 411 .\n31\nArt. 29 Abs. 1 abgeändert durch LGBl. 2016 Nr. 411 .\n32\nArt. 29 Abs. 5 abgeändert durch LGBl. 2016 Nr. 411 .\n33\nArt. 31 Sachüberschrift abgeändert durch LGBl. 2016 Nr. 411 .\n34\nArt. 31 Abs. 1 Bst. c abgeändert durch LGBl. 2016 Nr. 411 .\n35\nArt. 32 Abs. 1 Bst. b abgeändert durch LGBl. 2016 Nr. 411 .\n36\nArt. 33 aufgehoben durch LGBl. 2016 Nr. 411 .\n37\nArt. 47 Abs. 3 abgeändert durch LGBl. 2016 Nr. 411 .\n38\nArt. 55 Abs. 2 abgeändert durch LGBl. 2014 Nr. 17 .\n39\nArt. 58 Abs. 2 abgeändert durch LGBl. 2023 Nr. 378 .\n40\nArt. 58 Abs. 5 eingefügt durch LGBl. 2016 Nr. 411 .\n41\nArt. 66 abgeändert durch LGBl. 2018 Nr. 392 .\n42\nArt. 67 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 392 .\n43\nArt. 67 Abs. 1 abgeändert durch LGBl. 2018 Nr. 392 .\n44\nArt. 67 Abs. 3 Einleitungssatz abgeändert durch LGBl. 2018 Nr. 392 .\n45\nArt. 68 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 392 .\n46\nArt. 68 Abs. 1 abgeändert durch LGBl. 2018 Nr. 392 .\n47\nArt. 68 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2018 Nr. 392 .\n48\nArt. 70 Abs. 1 abgeändert durch LGBl. 2018 Nr. 392 .\n49\nArt. 72 abgeändert durch LGBl. 2022 Nr. 221 .\n50\nÜberschrift vor Art. 73 abgeändert durch LGBl. 2018 Nr. 392 .\n51\nSachüberschrift vor Art. 73 eingefügt durch LGBl. 2025 Nr. 38 .\n52\nArt. 73 Sachüberschrift abgeändert durch LGBl. 2025 Nr. 38 .\n53\nArt. 73 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2016 Nr. 411 .\n54\nArt. 73a eingefügt durch LGBl. 2025 Nr. 38 .\n55\nVerordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über die Einrichtung von Eurodac für den Abgleich von Fingerabdruckdaten zum Zwecke der effektiven Anwendung der Verordnung (EU) Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten sowie zur Änderung der Verordnung (EU) Nr. 1077/2011 zur Errichtung einer Europäischen Agentur für das Betriebsmanagement von IT-Grosssystemen im Raum der Freiheit, der Sicherheit und des Rechts (ABl. L 180 vom 29.6.2013, S. 1)\n56\nArt. 74 abgeändert durch LGBl. 2018 Nr. 392 .\n57\nArt. 75 abgeändert durch LGBl. 2018 Nr. 392 .\n58\nArt. 76 abgeändert durch LGBl. 2016 Nr. 411 .\n59\nArt. 76 Abs. 2 abgeändert durch LGBl. 2018 Nr. 19 .\n60\nArt. 77 Abs. 1 Bst. a aufgehoben durch LGBl. 2016 Nr. 411 .\n61\nArt. 77 Abs. 2 abgeändert durch LGBl. 2016 Nr. 411 .\n62\nArt. 77 Abs. 4 abgeändert durch LGBl. 2025 Nr. 31 .\n63\nArt. 80 Abs. 1a eingefügt durch LGBl. 2018 Nr. 270 .\n64\nArt. 80 Abs. 3 abgeändert durch LGBl. 2018 Nr. 270 .\n65\nArt. 81 abgeändert durch LGBl. 2016 Nr. 411 .\n66\nArt. 83 Abs. 1a abgeändert durch LGBl. 2018 Nr. 270 .\n67\nArt. 83 Abs. 4 eingefügt durch LGBl. 2016 Nr. 411 .\n68\nArt. 87 abgeändert durch LGBl. 2024 Nr. 40 .\n69\nInkrafttreten: 1. Januar 2017.\n70\nInkrafttreten: 1. März 2018.\n71\nInkrafttreten: 8. Dezember 2018."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Flüchtlinge",
+      "definition": "ausländische Personen, die: 1. aus begründeter Furcht vor Verfolgung wegen ihrer Rasse, Religion, Staatszugehörigkeit, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihres Geschlechts oder wegen ihrer politischen Überzeugung sich ausserhalb des Staates, dessen Staatsangehörigkeit sie besitzen, befinden und dessen Schutz nicht beanspruchen können oder wegen dieser Befürchtungen nicht beanspruchen wollen; oder",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Heimat- oder Herkunftsstaat",
+      "definition": "der Staat, dessen Staatsangehörigkeit die ausländische Person besitzt, oder - bei Staatenlosen - der Staat, in dem sie zuletzt wohnte;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schutzbedürftige",
+      "definition": "ausländische Personen, denen aufgrund einer Entscheidung der Regierung für die Dauer einer schweren allgemeinen Gefährdung, insbesondere während eines Krieges oder Bürgerkrieges sowie in Situationen allgemeiner Gewalt, vorübergehend Schutz gewährt wird;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "vorläufig Aufgenommene",
+      "definition": "ausländische Personen, denen kein Asyl in Liechtenstein gewährt wird, bei denen jedoch der Vollzug der Wegweisung nicht möglich, nicht zulässig oder nicht zumutbar ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Asylgesuch",
+      "definition": "eine Erklärung in schriftlicher oder mündlicher Form, mit der eine ausländische Person zu erkennen gibt, dass sie in Liechtenstein um Asyl nachsucht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Asylsuchende",
+      "definition": "ausländische Personen, deren Asylgesuch hängig ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Familienangehörige",
+      "definition": "1. der Ehegatte oder der eingetragene Partner, sofern die Ehe oder die eingetragene Partnerschaft bereits im Heimat- oder Herkunftsstaat bestanden hat;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dublin-Staat",
+      "definition": "ein Staat, der an den Dublin-Besitzstand gebunden ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dublin-Verfahren",
+      "definition": "ein Verfahren, das aufgrund des Dublin-Besitzstandes durchgeführt wird.",
+      "source_provision": "art2"
+    }
+  ]
+}

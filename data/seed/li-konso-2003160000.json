@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-2003160000",
+  "type": "statute",
+  "title": "Gesetz vom 15. Mai 2003 über die Änderung der Gemeindegrenzen Triesen/Triesenberg",
+  "title_en": "",
+  "short_name": "LGBl 2003.160",
+  "status": "in_force",
+  "issued_date": "2003-05-15",
+  "in_force_date": "2003-05-15",
+  "url": "https://www.gesetze.li/konso/2003160000",
+  "description": "Gesetz vom 15. Mai 2003 über die Änderung der Gemeindegrenzen Triesen/Triesenberg",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Die von den Gemeindeversammlungen der Gemeinden Triesen und Triesenberg beschlossene Änderung der gemeinsamen Gemeindegrenze gemäss dem Situationsplan im Massstab 1:10 000 und der dazu gehörigen wegleitenden Grenzbeschreibung, die im Landesarchiv, in den beiden Gemeindearchiven und beim Grundbuch hinterlegt sind, wird im Sinne von Art. 4 der Verfassung vom 5. Oktober 1921 und Art. 6 des Gemeindegesetzes vom 20. März 1996 genehmigt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Die Kosten der Vermarkung und ihres Unterhaltes haben die Gemeinden Triesen und Triesenberg halbscheidig zu tragen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Hans-Adam\ngez. Otmar Hasler\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

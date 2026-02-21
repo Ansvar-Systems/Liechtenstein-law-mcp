@@ -1,0 +1,29 @@
+{
+  "id": "li-konso-1010030000",
+  "type": "statute",
+  "title": "Hofdekret vom 18. Januar 1842 JGS. Nr. 592, zu § 1333 ABGB",
+  "title_en": "",
+  "short_name": "LGBl 1010.030",
+  "status": "in_force",
+  "issued_date": "1842-01-18",
+  "in_force_date": "1842-01-18",
+  "url": "https://www.gesetze.li/konso/1010030000",
+  "description": "Hofdekret vom 18. Januar 1842 JGS. Nr. 592, zu § 1333 ABGB",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "JGS. Nr. 592, zu § 1333 ABGB",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Über die Frage: ob die Anwendung des § 1333 des Allgemeinen bürgerlichen Gesetzbuches nicht auch auf verzögerte Leistungen von Gegenständen, die einen erweislichen Geldwert haben, auszudehnen sei, haben Seine k. k. Majestät über alleruntertänigsten Vortrag der obersten Justizstelle vom 18. Oktober 1841 mit Allerhöchster Entschliessung vom 11. Dezember 1841 die nachstehende Erläuterung zu genehmigen geruht:"
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "JGS. Nr. 592, zu § 1333 ABGB",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "Die Vorschrift des § 1333 des Allgemeinen bürgerlichen Gesetzbuches findet auf alle Forderungen im Gelde, sie mögen aus einem Darlehen oder aus einem anderen Rechtstitel herrühren, nicht aber auf solche Forderungen eine Anwendung, welche keine Summe Geldes, sondern eine andere Sache oder Leistung, selbst wenn der Titel ein Darlehen ist, zum Gegenstande haben.\n1\nDieser Erlass wurde im Amtlichen Sammelwerk (ASW), gestützt auf das Gesetz vom 5. Oktober 1967 über die Bereinigung der vor dem 1. Januar 1863 erlassenen Rechtsvorschriften, LGBl. 1967 Nr. 34 , publiziert."
+    }
+  ],
+  "definitions": []
+}

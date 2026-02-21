@@ -1,0 +1,869 @@
+{
+  "id": "li-konso-1921015000",
+  "type": "statute",
+  "title": "Verfassung des Fürstentums Liechtenstein vom 5. Oktober 1921",
+  "title_en": "",
+  "short_name": "LGBl 1921.015",
+  "status": "in_force",
+  "issued_date": "1921-10-05",
+  "in_force_date": "1921-10-05",
+  "url": "https://www.gesetze.li/konso/1921015000",
+  "description": "Verfassung des Fürstentums Liechtenstein vom 5. Oktober 1921",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Das Fürstentum",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1) Das Fürstentum Liechtenstein ist ein Staatsverband von zwei Landschaften mit elf Gemeinden. Das Fürstentum Liechtenstein soll den innerhalb seiner Grenzen lebenden Menschen dazu dienen, in Freiheit und Frieden miteinander leben zu können. Die Landschaft Vaduz (Oberland) besteht aus den Gemeinden Vaduz, Balzers, Planken, Schaan, Triesen und Triesenberg, die Landschaft Schellenberg (Unterland) aus den Gemeinden Eschen, Gamprin, Mauren, Ruggell und Schellenberg.\n2) Vaduz ist der Hauptort und der Sitz des Landtages und der Regierung."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Das Fürstentum",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Das Fürstentum ist eine konstitutionelle Erbmonarchie auf demokratischer und parlamentarischer Grundlage (Art. 79 und 80); die Staatsgewalt ist im Fürsten und im Volke verankert und wird von beiden nach Massgabe der Bestimmungen dieser Verfassung ausgeübt."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Das Fürstentum",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Die im Fürstenhause Liechtenstein erbliche Thronfolge, die Volljährigkeit des Landesfürsten und des Erbprinzen sowie vorkommendenfalls die Vormundschaft werden durch das Fürstenhaus in der Form eines Hausgesetzes geordnet."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Das Fürstentum",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1) Die Änderung der Grenzen des Staatsgebietes kann nur durch ein Gesetz erfolgen. Grenzänderungen zwischen Gemeinden, die Schaffung neuer und die Zusammenlegung bestehender Gemeinden bedürfen überdies eines Mehrheitsbeschlusses der dort ansässigen wahlberechtigten Landesangehörigen .\n2) Den einzelnen Gemeinden steht das Recht zu, aus dem Staatsverband auszutreten. Über die Einleitung des Austrittsverfahrens entscheidet die Mehrheit der dort ansässigen wahlberechtigten Landesangehörigen . Die Regelung des Austrittes erfolgt durch Gesetz oder von Fall zu Fall durch einen Staatsvertrag. Im Falle einer staatsvertraglichen Regelung ist nach Abschluss der Vertragsverhandlungen in der Gemeinde eine zweite Abstimmung abzuhalten."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Das Fürstentum",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Das Staatswappen ist das des Fürstenhauses Liechtenstein; die Landesfarben sind blau-rot."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Das Fürstentum",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Die deutsche Sprache ist die Staats- und Amtssprache.\nII. Hauptstück\nVom Landesfürsten"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Vom Landesfürsten",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1) Der Landesfürst ist das Oberhaupt des Staates und übt sein Recht an der Staatsgewalt in Gemässheit der Bestimmungen dieser Verfassung und der übrigen Gesetze aus.\n2) Die Person des Landesfürsten untersteht nicht der Gerichtsbarkeit und ist rechtlich nicht verantwortlich. Dasselbe gilt für jenes Mitglied des Fürstenhauses, welches gemäss Art. 13bis für den Fürsten die Funktion des Staatsoberhauptes ausübt."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Vom Landesfürsten",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1) Der Landesfürst vertritt, unbeschadet der erforderlichen Mitwirkung der verantwortlichen Regierung, den Staat in allen seinen Verhältnissen gegen auswärtige Staaten.\n2) Staatsverträge, durch die Staatsgebiet abgetreten oder Staatseigentum veräussert, über Staatshoheitsrechte oder Staatsregale verfügt, eine neue Last auf das Fürstentum oder seine Angehörigen übernommen oder eine Verpflichtung, durch die den Rechten der Landesangehörigen Eintrag getan würde, eingegangen werden soll, bedürfen zu ihrer Gültigkeit der Zustimmung des Landtages."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Vom Landesfürsten",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Jedes Gesetz bedarf zu seiner Gültigkeit der Sanktion des Landesfürsten."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Vom Landesfürsten",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1) Der Landesfürst wird ohne Mitwirkung des Landtages durch die Regierung die zur Vollziehung und Durchführung der Gesetze erforderlichen, sowie die aus dem Verwaltungs- und Aufsichtsrechte fliessenden Einrichtungen treffen und die einschlägigen Verordnungen erlassen (Art. 92). In dringenden Fällen wird er das Nötige zur Sicherheit und Wohlfahrt des Staates vorkehren.\n2) Notverordnungen dürfen die Verfassung als Ganzes oder einzelne Bestimmungen derselben nicht aufheben, sondern nur die Anwendbarkeit einzelner Bestimmungen der Verfassung einschränken. Notverordnungen können weder das Recht eines jeden Menschen auf Leben, das Verbot der Folter und der unmenschlichen Behandlung, das Verbot der Sklaverei und der Zwangsarbeit, noch die Regel \"Keine Strafe ohne Gesetz\" beschränken. Überdies können die Bestimmungen dieses Artikels, des Art. 3, 13ter und 113, sowie des Hausgesetzes durch Notverordnungen nicht eingeschränkt werden. Notverordnungen treten spätestens sechs Monate nach ihrem Erlass ausser Kraft."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Vom Landesfürsten",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Der Landesfürst ernennt die Richter unter Beobachtung der Bestimmungen der Verfassung (Art. 96)."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Vom Landesfürsten",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1) Dem Landesfürsten steht das Recht der Begnadigung, der Milderung und Umwandlung rechtskräftig zuerkannter Strafen und der Niederschlagung eingeleiteter Untersuchungen zu.\n2) Zugunsten eines wegen seiner Amtshandlungen verurteilten Mitgliedes der Regierung wird der Fürst das Recht der Begnadigung oder Strafmilderung nur auf Antrag des Landtages ausüben."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Vom Landesfürsten",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Jeder Thronfolger wird noch vor Empfangnahme der Erbhuldigung unter Bezug auf die fürstlichen Ehren und Würden in einer schriftlichen Urkunde aussprechen, dass er das Fürstentum Liechtenstein in Gemässheit der Verfassung und der übrigen Gesetze regieren, seine Integrität erhalten und die landesfürstlichen Rechte unzertrennlich und in gleicher Weise beobachten wird."
+    },
+    {
+      "provision_ref": "art13bis",
+      "chapter": "Vom Landesfürsten",
+      "section": "13bis",
+      "title": "Art. 13bis",
+      "content": "Der Landesfürst kann den nächsterbfolgeberechtigten volljährigen Prinzen seines Hauses wegen vorübergehender Verhinderung oder zur Vorbereitung für die Thronfolge als seinen Stellvertreter mit der Ausübung ihm zustehender Hoheitsrechte betrauen."
+    },
+    {
+      "provision_ref": "art13ter",
+      "chapter": "Vom Landesfürsten",
+      "section": "13ter",
+      "title": "Art. 13ter",
+      "content": "Wenigstens 1 500 Landesbürgern steht das Recht zu, gegen den Landesfürsten einen begründeten Misstrauensantrag einzubringen. Über diesen hat der Landtag in der nächsten Sitzung eine Empfehlung abzugeben und eine Volksabstimmung (Art. 66 Abs. 6) anzuordnen. Wird bei der Volksabstimmung der Misstrauensantrag angenommen, dann ist er dem Landesfürsten zur Behandlung nach dem Hausgesetz mitzuteilen. Die gemäss dem Hausgesetz getroffene Entscheidung wird dem Landtag durch den Landesfürsten innerhalb von sechs Monaten bekannt gegeben.\nIII. Hauptstück\nVon den Staatsaufgaben"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Die oberste Aufgabe des Staates ist die Förderung der gesamten Volkswohlfahrt. In diesem Sinne sorgt der Staat für die Schaffung und Wahrung des Rechtes und für den Schutz der religiösen, sittlichen und wirtschaftlichen Interessen des Volkes."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Der Staat wendet seine besondere Sorgfalt dem Erziehungs- und Bildungswesen zu. Dieses ist so einzurichten und zu verwalten, dass aus dem Zusammenwirken von Familie, Schule und Kirche der heranwachsenden Jugend eine religiös-sittliche Bildung, vaterländische Gesinnung und künftige berufliche Tüchtigkeit zu eigen wird."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1) Das gesamte Erziehungs- und Unterrichtswesen steht, unbeschadet der Unantastbarkeit der kirchlichen Lehre, unter staatlicher Aufsicht.\n2) Es besteht allgemeine Schulpflicht.\n3) Der Staat sorgt dafür, dass der obligatorische Unterricht in den Elementarfächern in genügendem Ausmass in öffentlichen Schulen unentgeltlich erteilt wird.\n4) Der Religionsunterricht wird durch die kirchlichen Organe erteilt.\n5) Niemand darf die unter seiner Aufsicht stehende Jugend ohne den für die öffentlichen Elementarschulen vorgeschriebenen Grad von Unterricht lassen.\n6) Aufgehoben\n7) Aufgehoben\n8) Der Privatunterricht ist zulässig, soferne er den gesetzlichen Bestimmungen über die Schulzeit, die Lehrziele und die Einrichtungen in den öffentlichen Schulen entspricht."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1) Der Staat unterstützt und fördert das Unterrichts- und Bildungswesen.\n2) Er wird unbemittelten, gut veranlagten Schülern den Besuch höherer Schulen durch Gewährung von angemessenen Stipendien erleichtern."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Der Staat sorgt für das öffentliche Gesundheitswesen, unterstützt die Krankenpflege und strebt auf gesetzlichem Wege die Bekämpfung der Trunksucht sowie die Besserung von Trinkern und arbeitsscheuen Personen an."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1) Der Staat schützt das Recht auf Arbeit und die Arbeitskraft, insbesondere jene der in Gewerbe und Industrie beschäftigten Frauen und jugendlichen Personen.\n2) Der Sonntag und die staatlich anerkannten Feiertage sind, unbeschadet gesetzlicher Regelung der Sonn- und Feiertagsruhe, öffentliche Ruhetage."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1) Zur Hebung der Erwerbsfähigkeit und zur Pflege seiner wirtschaftlichen Interessen fördert und unterstützt der Staat Land- und Alpwirtschaft, Gewerbe und Industrie; er fördert insbesondere die Versicherung gegen Schäden, die Arbeit und Güter bedrohen und trifft Massregeln zur Bekämpfung solcher Schäden.\n2) Er wendet seine besondere Sorgfalt einer den modernen Bedürfnissen entsprechenden Ausgestaltung des Verkehrswesens zu.\n3) Er unterstützt die Rüfeverbauungen, Aufforstungen und Entwässerungen und wird allen Bestrebungen zur Erschliessung neuer Verdienstquellen sein Augenmerk und seine Förderung zuwenden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Dem Staate steht das Hoheitsrecht über die Gewässer nach Massgabe der hierüber bestehenden und zu erlassenden Gesetze zu. Die Benützung, Leitung und Abwehr der Gewässer soll auf gesetzlichem Wege unter Bedachtnahme auf die Entwicklung der Technik geregelt und gefördert werden. Das Elektrizitätsrecht ist gesetzlich zu regeln."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Der Staat übt die Hoheit über Jagd, Fischerei und Bergwesen aus und schützt bei Erlassung der diesbezüglichen Gesetze die Interessen der Landwirtschaft und der Gemeindefinanzen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Die Regelung des Münz- und öffentlichen Kreditwesens ist Sache des Staates."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1) Der Staat sorgt im Wege zu erlassender Gesetze für eine gerechte Besteuerung unter Freilassung eines Existenzminimums und mit stärkerer Heranziehung höherer Vermögen oder Einkommen.\n2) Die finanzielle Lage des Staates ist nach Tunlichkeit zu heben und es ist besonders auf die Erschliessung neuer Einnahmsquellen zur Bestreitung der öffentlichen Bedürfnisse Bedacht zu nehmen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Das öffentliche Armenwesen ist Sache der Gemeinden nach Massgabe der besonderen Gesetze. Der Staat übt jedoch die Oberaufsicht hierüber aus. Er kann den Gemeinden, insbesonders zur zweckmässigen Versorgung von Waisen, Geisteskranken, Unheilbaren und Altersschwachen geeignete Beihilfen leisten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Der Staat unterstützt und fördert das Kranken-, Alters-, Invaliden- und Brandschadenversicherungswesen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Von den Staatsaufgaben",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1) Der Staat sorgt für ein rasches, das materielle Recht schützendes Prozess- und Vollstreckungsverfahren, ebenso für eine den gleichen Grundsätzen angepasste Verwaltungsrechtspflege.\n2) Die berufsmässige Ausübung der Parteienvertretung ist gesetzlich zu regeln.\nIV. Hauptstück\nVon den allgemeinen Rechten und Pflichten der Landesangehörigen"
+    },
+    {
+      "provision_ref": "art27bis",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "27bis",
+      "title": "Art. 27bis",
+      "content": "1) Die Würde des Menschen ist zu achten und zu schützen.\n2) Niemand darf unmenschlicher oder erniedrigender Behandlung oder Strafe unterworfen werden."
+    },
+    {
+      "provision_ref": "art27ter",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "27ter",
+      "title": "Art. 27ter",
+      "content": "1) Jeder Mensch hat das Recht auf Leben.\n2) Die Todesstrafe ist verboten."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1) Jeder Landesangehörige hat das Recht, sich unter Beobachtung der näheren gesetzlichen Bestimmungen an jedem Orte des Staatsgebietes frei niederzulassen und Vermögen jeder Art zu erwerben.\n2) Ein- und Ausreise, Aufenthalt und Niederlassung von Ausländern werden durch Staatsverträge und Gesetz geregelt.\n3) Der Aufenthalt innerhalb der Grenzen des Fürstentums verpflichtet zur Beobachtung der Gesetze desselben und begründet den Schutz nach der Verfassung und den übrigen Gesetzen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1) Die staatsbürgerlichen Rechte stehen jedem Landesangehörigen nach den Bestimmungen dieser Verfassung zu.\n2) In Landesangelegenheiten stehen die politischen Rechte allen Landesangehörigen zu, die das 18. Lebensjahr vollendet, im Lande ordentlichen Wohnsitz haben und nicht im Wahl- und Stimmrecht eingestellt sind."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Über Erwerb und Verlust des Staatsbürgerrechtes bestimmen die Gesetze."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1) Alle Landesangehörigen sind vor dem Gesetze gleich. Die öffentlichen Ämter sind ihnen unter Einhaltung der gesetzlichen Bestimmungen gleich zugänglich.\n2) Mann und Frau sind gleichberechtigt.\n3) Die Rechte der Ausländer werden zunächst durch die Staatsverträge und in Ermangelung solcher durch das Gegenrecht bestimmt."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1) Die Freiheit der Person, das Hausrecht und das Brief- und Schriftengeheimnis sind gewährleistet.\n2) Ausser den vom Gesetze bestimmten Fällen und der durch das Gesetz bestimmten Art und Weise darf weder jemand verhaftet oder in Haft behalten, noch eine Hausdurchsuchung oder Durchsuchung von Personen, Briefen oder Schriften oder eine Beschlagnahme von Briefen oder Schriften vorgenommen werden.\n3) Ungesetzlich oder erwiesenermassen unschuldig Verhaftete und unschuldig Verurteilte haben Anspruch auf volle vom Staate zu leistende, gerichtlich zu bestimmende Entschädigung. Ob und inwieweit dem Staate ein Rückgriffsrecht gegen Dritte zusteht, bestimmen die Gesetze."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1) Niemand darf seinem ordentlichen Richter entzogen, Ausnahmsgerichte dürfen nicht eingeführt werden.\n2) Strafen dürfen nur in Gemässheit der Gesetze angedroht oder verhängt werden.\n3) In allen Strafsachen ist dem Angeschuldigten das Recht der Verteidigung gewährleistet."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1) Die Unverletzlichkeit des Privateigentums ist gewährleistet; Konfiskationen finden nur in den vom Gesetze bestimmten Fällen statt.\n2) Das Urheberrecht ist gesetzlich zu regeln."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1) Wo es das öffentliche Wohl erheischt, kann die Abtretung oder Belastung jeder Art von Vermögen gegen angemessene, streitigenfalls durch den Richter festzusetzende Schadloshaltung verfügt werden.\n2) Das Enteignungsverfahren wird durch das Gesetz bestimmt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Handel und Gewerbe sind innerhalb der gesetzlichen Schranken frei; die Zulässigkeit ausschliesslicher Handels- und Gewerbeprivilegien für eine bestimmte Zeit wird durch das Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1) Die Glaubens- und Gewissensfreiheit ist jedermann gewährleistet.\n2) Die römisch-katholische Kirche ist die Landeskirche und geniesst als solche den vollen Schutz des Staates; anderen Konfessionen ist die Betätigung ihres Bekenntnisses und die Abhaltung ihres Gottesdienstes innerhalb der Schranken der Sittlichkeit und der öffentlichen Ordnung gewährleistet."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Das Eigentum und alle anderen Vermögensrechte der Religionsgesellschaften und religiösen Vereine an ihren für Kultus-, Unterrichts- und Wohltätigkeitszwecke bestimmten Anstalten, Stiftungen und sonstigen Vermögenheiten sind gewährleistet. Die Verwaltung des Kirchengutes in den Kirchgemeinden wird durch ein besonderes Gesetz geregelt; vor dessen Erlassung ist das Einvernehmen mit der kirchlichen Behörde zu pflegen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Der Genuss der staatsbürgerlichen und politischen Rechte ist vom Religionsbekenntnisse unabhängig; den staatsbürgerlichen Pflichten darf durch denselben kein Abbruch geschehen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Jedermann hat das Recht, durch Wort, Schrift, Druck oder bildliche Darstellung innerhalb der Schranken des Gesetzes und der Sittlichkeit seine Meinung frei zu äussern und seine Gedanken mitzuteilen; eine Zensur darf nur öffentlichen Aufführungen und Schaustellungen gegenüber stattfinden."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Das freie Vereins- und Versammlungsrecht ist innerhalb der gesetzlichen Schranken gewährleistet."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Das Petitionsrecht an den Landtag und den Landesausschuss ist gewährleistet und es steht nicht nur einzelnen in ihren Rechten oder Interessen Betroffenen, sondern auch Gemeinden und Korporationen zu, ihre Wünsche und Bitten durch ein Mitglied des Landtages daselbst vorbringen zu lassen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Das Recht der Beschwerdeführung ist gewährleistet. Jeder Landesangehörige ist berechtigt, über das seine Rechte oder Interessen benachteiligende verfassungs-, gesetz- oder verordnungswidrige Benehmen oder Verfahren einer Behörde bei der ihr unmittelbar vorgesetzten Stelle Beschwerde zu erheben und dies nötigenfalls bis zur höchsten Stelle zu verfolgen, soweit nicht eine gesetzliche Beschränkung des Rechtsmittelzuges entgegensteht. Wird die eingebrachte Beschwerde von der vorgesetzten Stelle verworfen, so ist diese verpflichtet, dem Beschwerdeführer die Gründe ihrer Entscheidung zu eröffnen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Von den allgemeinen Rechten und Pflichten der Landesangehörigen",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1) Jeder Waffenfähige ist bis zum zurückgelegten 60. Lebensjahre im Falle der Not zur Verteidigung des Vaterlandes verpflichtet.\n2) Ausser diesem Falle dürfen bewaffnete Formationen nur insoweit gebildet und erhalten werden, als es zur Versehung des Polizeidienstes und zur Aufrechterhaltung der Ordnung im Innern notwendig erscheint. Die näheren Bestimmungen hierüber trifft die Gesetzgebung.\nV. Hauptstück\nVom Landtage"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Vom Landtage",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1) Der Landtag ist das gesetzmässige Organ der Gesamtheit der Landesangehörigen und als solches berufen, nach den Bestimmungen dieser Verfassung die Rechte und Interessen des Volkes im Verhältnis zur Regierung wahrzunehmen und geltend zu machen und das Wohl des Fürstlichen Hauses und des Landes mit treuer Anhänglichkeit an die in dieser Verfassung niedergelegten Grundsätze möglichst zu fördern.\n2) Die dem Landtage zukommenden Rechte können nur in der gesetzlich konstituierten Versammlung desselben ausgeübt werden."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Vom Landtage",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1) Der Landtag besteht aus 25 Abgeordneten, die vom Volke im Wege des allgemeinen, gleichen, geheimen und direkten Stimmrechtes nach dem Verhältniswahlsystem gewählt werden. Das Oberland und Unterland bilden je einen Wahlbezirk. Von den 25 Abgeordneten entfallen 15 auf das Oberland und 10 auf das Unterland.\n2) Mit den 25 Abgeordneten werden in jedem Wahlbezirk auch stellvertretende Abgeordnete gewählt. Auf jeweils drei Abgeordnete in einem Wahlbezirk steht jeder Wählergruppe ein stellvertretender Abgeordneter zu, jedoch mindestens einer, wenn eine Wählergruppe in einem Wahlkreis ein Mandat erreicht.\n3) Die Mandatszuteilung erfolgt unter den Wählergruppen, die wenigstens acht Prozent der im ganzen Land abgegebenen gültigen Stimmen erreicht haben.\n4) Die Mitglieder der Regierung und der Gerichte können nicht gleichzeitig Mitglieder des Landtages sein.\n5) Das Nähere über die Durchführung der Wahl wird durch ein besonderes Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Vom Landtage",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1) Die Mandatsdauer zum Landtag beträgt vier Jahre mit der Massgabe, dass die ordentlichen Landtagswahlen jeweils im Februar oder März jenes Kalenderjahres stattfinden, in welches das Ende des vierten Jahres fällt. Wiederwahl ist zulässig.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Vom Landtage",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1) Der Landesfürst hat, mit der im folgenden Absatze normierten Ausnahme, das Recht, den Landtag einzuberufen, zu schliessen und aus erheblichen Gründen, die der Versammlung jedesmal mitzuteilen sind, auf drei Monate zu vertagen oder ihn aufzulösen. Eine Vertagung, Schliessung oder Auflösung kann nur vor dem versammelten Landtage ausgesprochen werden.\n2) Über begründetes, schriftliches Verlangen von wenigstens 1 000 wahlberechtigten Landesbürgern oder über Gemeindeversammlungsbeschluss von mindestens drei Gemeinden ist der Landtag einzuberufen.\n3) Unter den gleichen Voraussetzungen wie in vorstehendem Absatze können 1 500 wahlberechtigte Landesbürger oder vier Gemeinden durch Gemeindeversammlungsbeschlüsse eine Volksabstimmung über die Auflösung des Landtages verlangen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Vom Landtage",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1) Die regelmässige Einberufung des Landtages findet zu Anfang eines jeden Jahres mittels landesfürstlicher Verordnung unter Bezeichnung von Ort, Tag und Stunde der Versammlung statt.\n2) Innerhalb des Jahres ordnet der Präsident die Sitzungen an.\n3) Nach Ablauf einer Vertagungsfrist hat die Wiedereinberufung innerhalb eines Monates durch fürstliche Verordnung zu geschehen.\n4) Die stellvertretenden Abgeordneten haben bei Behinderung eines Abgeordneten ihrer Wählergruppe an einzelnen oder mehreren aufeinanderfolgenden Sitzungen in Stellvertretung des verhinderten Abgeordneten mit Sitz und Stimme teilzunehmen."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Vom Landtage",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Wird der Landtag aufgelöst, so muss binnen sechs Wochen eine neue Wahl angeordnet werden. Die neugewählten Abgeordneten sind sodann binnen 14 Tagen einzuberufen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Vom Landtage",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1) Im Thronfolgefall ist der Landtag innerhalb 30 Tagen zu einer ausserordentlichen Sitzung zwecks Entgegennahme der im Art. 13 vorgesehenen Erklärung des Landesfürsten und Leistung der Erbhuldigung einzuberufen.\n2) Ist eine Auflösung vorhergegangen, so sind die Neuwahlen so zu beschleunigen, dass die Einberufung spätestens auf den vierzigsten Tag nach der eingetretenen Thronfolge erfolgen kann."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Vom Landtage",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1) Der Landtag wählt in seiner ersten gesetzmässig einberufenen Sitzung unter Leitung eines Altersvorsitzenden für das laufende Jahr zur Leitung der Geschäfte aus seiner Mitte einen Präsidenten und einen Stellvertreter desselben.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Vom Landtage",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Die Abgeordneten haben auf die ergangene Einberufung persönlich am Sitze der Regierung zu erscheinen. Ist ein Abgeordneter am Erscheinen verhindert, so hat er unter Angabe des Hinderungsgrundes rechtzeitig die Anzeige bei der ersten Einberufung an die Regierung und hernach an den Präsidenten zu erstatten. Ist das Hindernis bleibend, so hat eine Ergänzungswahl stattzufinden, falls nach dem Nachrückungssystem kein Ersatz geschaffen werden kann."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Vom Landtage",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1) Der Landtag wird vom Landesfürsten in eigener Person oder durch einen Bevollmächtigten mit angemessener Feierlichkeit eröffnet. Sämtliche neu eingetretene Mitglieder legen folgenden Eid in die Hände des Fürsten oder seines Bevollmächtigten ab: \"Ich gelobe, die Staatsverfassung und die bestehenden Gesetze zu halten und in dem Landtage das Wohl des Vaterlandes ohne Nebenrücksichten nach bestem Wissen und Gewissen zu fördern, so wahr mir Gott helfe!\"\n2) Später eintretende Mitglieder legen diesen Eid in die Hände des Präsidenten ab."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Vom Landtage",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Der Landtag wird vom Fürsten in eigener Person oder durch einen Bevollmächtigten geschlossen."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "Vom Landtage",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1) Kein Abgeordneter darf während der Dauer der Sitzungsperiode ohne Einwilligung des Landtages verhaftet werden, den Fall der Ergreifung auf frischer Tat ausgenommen.\n2) Im letzteren Falle ist die Verhaftung unter Angabe ihres Grundes unverzüglich zur Kenntnis des Landtages zu bringen, welcher über die Aufrechterhaltung der Haft entscheidet. Auf sein Verlangen sind ihm die den Fall betreffenden Akten sofort zur Verfügung zu stellen.\n3) Erfolgt die Verhaftung eines Abgeordneten zu einer Zeit, während welcher der Landtag nicht versammelt ist, so ist hievon ungesäumt dem Landesausschusse mit Angabe des Grundes Mitteilung zu machen."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "Vom Landtage",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1) Die Mitglieder des Landtages stimmen einzig nach ihrem Eid und ihrer Überzeugung. Sie sind für ihre Abstimmungen niemals, für ihre in den Sitzungen des Landtages oder seiner Kommissionen gemachten Äusserungen aber nur dem Landtage verantwortlich und können hiefür niemals gerichtlich belangt werden.\n2) Die Regelung der Disziplinargewalt bleibt der zu erlassenden Geschäftsordnung vorbehalten."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Vom Landtage",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1) Zu einem gültigen Beschluss des Landtages ist die Anwesenheit von wenigstens zwei Dritteln der gesetzlichen Zahl der Abgeordneten und die absolute Stimmenmehrheit unter den anwesenden Mitgliedern erforderlich, soweit in dieser Verfassung oder in der Geschäftsordnung nicht etwas anderes bestimmt wird. Das gleiche gilt für Wahlen, die der Landtag vorzunehmen hat.\n2) Bei Stimmengleichheit entscheidet der Vorsitzende, und zwar bei Wahlen nach dreimaliger, in allen anderen Angelegenheiten nach einmaliger Abstimmung."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Vom Landtage",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1) Über Wahlbeschwerden entscheidet der Staatsgerichtshof.\n2) Der Landtag prüft die Gültigkeit der Wahl seiner Mitglieder und der Wahl als solcher auf Grund der Wahlprotokolle und auf Grund etwaiger Entscheidung des Staatsgerichtshofes (Validierung)."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Vom Landtage",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Der Landtag setzt beschlussweise unter Beobachtung der Bestimmungen dieser Verfassung seine Geschäftsordnung fest."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Vom Landtage",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Die Abgeordneten erhalten aus der Landeskasse die durch das Gesetz zu bestimmenden Entschädigungen und Reisevergütungen."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Vom Landtage",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Zur Wirksamkeit des Landtages gehören vorzugsweise folgende Gegenstände: a) die verfassungsmässige Mitwirkung an der Gesetzgebung;\nb) die Mitwirkung bei Abschliessung von Staatsverträgen (Art. 8);\nc) die Festsetzung des jährlichen Voranschlages und die Bewilligung von Steuern und anderen öffentlichen Abgaben;\nd) die Beschlussfassung über Kredite, Anleihen und Bürgschaften zu Lasten des Landes sowie über den Erwerb und die Veräusserung von Grundstücken des Verwaltungs- und des Finanzvermögens des Landes; vorbehalten bleiben Art. 63ter und 93;\ne) die Beschlussfassung über den alljährlich von der Regierung über die gesamte Staatsverwaltung zu erstattenden Rechenschaftsbericht;\nf) die Antragstellung, Beschwerdeführung und Kontrolle bezüglich der Staatsverwaltung (Art. 63);\ng) die Erhebung der Anklage gegen Mitglieder der Regierung wegen Verletzung der Verfassung oder sonstiger Gesetze vor dem Staatsgerichtshof;\nh) die Beschlussfassung über ein Misstrauensvotum gegen die Regierung oder eines ihrer Mitglieder."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Vom Landtage",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1) Dem Landtag steht das Recht der Kontrolle über die gesamte Staatsverwaltung unter Einschluss der Justizverwaltung zu. Der Landtag übt dieses Recht unter anderem durch eine von ihm zu wählende Geschäftsprüfungskommission aus. Das Kontrollrecht des Landtages erstreckt sich weder auf die Rechtsprechung der Gerichte noch auf die dem Landesfürsten zugewiesenen Tätigkeiten.\n2) Es bleibt ihm jederzeit unbenommen, von ihm wahrgenommene Mängel oder Missbräuche in der Staatsverwaltung im Wege der Vorstellung oder Beschwerde direkt zur Kenntnis des Landesfürsten oder der Regierung zu bringen und ihre Abstellung zu beantragen. Das Ergebnis der hierüber einzuleitenden Untersuchung und die auf Grund derselben getroffene Verfügung ist dem Landtage zu eröffnen.\n3) Aufgehoben\n4) Der Regierungsvertreter muss gehört werden und ist verpflichtet, Interpellationen der Abgeordneten zu beantworten."
+    },
+    {
+      "provision_ref": "art63bis",
+      "chapter": "Vom Landtage",
+      "section": "63bis",
+      "title": "Art. 63bis",
+      "content": "Der Landtag hat das Recht, Untersuchungskommissionen zu bestellen. Er ist dazu verpflichtet, wenn wenigstens ein Viertel der gesetzlichen Zahl der Abgeordneten es beantragt."
+    },
+    {
+      "provision_ref": "art63ter",
+      "chapter": "Vom Landtage",
+      "section": "63ter",
+      "title": "Art. 63ter",
+      "content": "Der Landtag bestellt eine Finanzkommission, der durch Gesetz auch die Beschlussfassung über den Erwerb und die Veräusserung von Grundstücken des Verwaltungs- und des Finanzvermögens sowie die Mitwirkung bei der Verwaltung des Finanzvermögens übertragen werden können."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Vom Landtage",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1) Das Recht der Initiative in der Gesetzgebung, d. h. zur Einbringung von Gesetzesvorschlägen steht zu: a) dem Landesfürsten in der Form von Regierungsvorlagen;\nb) dem Landtage selbst;\nc) den wahlberechtigten Landesbürgern nach Massgabe folgender Bestimmungen.\n2) Wenn wenigstens 1 000 wahlberechtigte Landesbürger, deren Unterschrift und Stimmberechtigung von der Gemeindevorstehung ihres Wohnsitzes beglaubigt ist, schriftlich oder wenigstens drei Gemeinden in Form übereinstimmender Gemeindeversammlungsbeschlüsse das Begehren um Erlassung, Abänderung oder Aufhebung eines Gesetzes stellen, so ist dieses Begehren in der darauffolgenden Sitzung des Landtages in Verhandlung zu ziehen.\n3) Ist das Begehren eines der unter a bis c erwähnten Organe auf Erlassung eines nicht schon durch diese Verfassung vorgesehenen Gesetzes gerichtet, aus dessen Durchführung dem Lande entweder eine einmalige im Finanzgesetz nicht schon vorgesehene oder eine länger andauernde Belastung erwächst, so ist das Begehren nur dann vom Landtage in Verhandlung zu ziehen, wenn es zugleich auch mit einem Bedeckungsvorschlage versehen ist.\n4) Ein die Verfassung betreffendes Initiativbegehren kann nur von wenigstens 1 500 wahlberechtigten Landesbürgern oder wenigstens vier Gemeinden gestellt werden.\n5) Die näheren Bestimmungen über diese Volksinitiative werden durch ein Gesetz getroffen."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "Vom Landtage",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1) Ohne Mitwirkung des Landtages darf kein Gesetz gegeben, abgeändert oder authentisch erklärt werden. Zur Gültigkeit eines jeden Gesetzes ist ausser der Zustimmung des Landtages die Sanktion des Landesfürsten, die Gegenzeichnung des verantwortlichen Regierungschefs oder seines Stellvertreters und die Kundmachung im Landesgesetzblatte erforderlich. Erfolgt die Sanktion des Landesfürsten nicht innerhalb von sechs Monaten, dann gilt sie als verweigert.\n2) Überdies findet nach Massgabe der Anordnungen des folgenden Artikels eine Volksabstimmung (Referendum) statt."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Vom Landtage",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1) Jedes vom Landtag beschlossene, von ihm nicht als dringlich erklärte Gesetz, ebenso jeder von ihm nicht als dringlich erklärte Finanzbeschluss, sofern er eine einmalige neue Ausgabe von mindestens 500 000 Franken oder eine jährlich wiederkehrende neue Ausgabe von 250 000 Franken verursacht, unterliegt der Volksabstimmung, wenn der Landtag eine solche beschliesst oder wenn innerhalb von 30 Tagen nach amtlicher Verlautbarung des Landtagsbeschlusses wenigstens 1 000 wahlberechtigte Landesbürger oder wenigstens drei Gemeinden in der in Art. 64 vorgesehenen Weise ein darauf gerichtetes Begehren stellen.\n2) Handelt es sich um die Verfassung im ganzen oder um einzelne Teile derselben, so ist hiezu das Verlangen von wenigstens 1 500 wahlberechtigten Landesbürgern oder von wenigstens vier Gemeinden erforderlich.\n3) Der Landtag ist befugt, über die Aufnahme einzelner Grundsätze in ein zu erlassendes Gesetz eine Volksabstimmung zu veranlassen.\n4) Die Volksabstimmung erfolgt gemeindeweise; die absolute Mehrheit der im ganzen Lande gültig abgegebenen Stimmen entscheidet über Annahme oder Ablehnung des Gesetzesbeschlusses.\n5) Dem Referendum unterliegende Gesetzesbeschlüsse werden erst nach Durchführung der Volksabstimmung beziehungsweise nach fruchtlosem Ablauf der für die Stellung des Begehrens nach Vornahme einer Volksabstimmung normierten dreissigtägigen Frist dem Landesfürsten zur Sanktion vorgelegt.\n6) Hat der Landtag einen ihm im Wege der Volksinitiative (Art. 64 Bst. c) zugegangenen ausgearbeiteten und erforderlichenfalls mit einem Bedeckungsvorschlag versehenen Gesetzentwurf abgelehnt, so ist derselbe der Volksabstimmung zu unterziehen. Die Annahme des Entwurfes durch die wahlberechtigten Landesbürger vertritt in diesem Falle den sonst zur Annahme eines Gesetzes erforderlichen Beschluss des Landtages.\n7) Die näheren Bestimmungen über das Referendum werden im Wege eines Gesetzes getroffen."
+    },
+    {
+      "provision_ref": "art66bis",
+      "chapter": "Vom Landtage",
+      "section": "66bis",
+      "title": "Art. 66bis",
+      "content": "1) Jeder Landtagsbeschluss, der die Zustimmung zu einem Staatsvertrag (Art. 8) zum Gegenstand hat, unterliegt der Volksabstimmung, wenn der Landtag eine solche beschliesst oder wenn innerhalb von 30 Tagen nach der amtlichen Verlautbarung des Landtagsbeschlusses wenigstens 1 500 wahlberechtigte Landesbürger oder wenigstens vier Gemeinden in der in Art. 64 vorgesehenen Weise ein darauf gerichtetes Begehren stellen.\n2) In der Volksabstimmung entscheidet die absolute Mehrheit der im ganzen Land gültig abgegebenen Stimmen über die Annahme oder Ablehnung des Landtagsbeschlusses.\n3) Die näheren Bestimmungen über dieses Referendum werden durch ein Gesetz getroffen."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Vom Landtage",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1) Wenn in einem Gesetze nichts anderes bestimmt ist, tritt es nach Verlauf von acht Tagen nach erfolgter Kundmachung im Landesgesetzblatte in Wirksamkeit.\n2) Die Art und der Umfang der Kundmachung von Gesetzen, Finanzbeschlüssen, Staatsverträgen, Verordnungen, Beschlüssen internationaler Organisationen und der aufgrund von Staatsverträgen anwendbaren Rechtsvorschriften werden im Wege der Gesetzgebung geregelt. Für die im Fürstentum Liechtenstein aufgrund von Staatsverträgen anwendbaren Rechtsvorschriften kann eine Kundmachung in vereinfachter Form, wie insbesondere eine Verweispublikation auf ausländische Rechtssammlungen, eingerichtet werden.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Vom Landtage",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "1) Ohne Bewilligung des Landtages darf keine direkte oder indirekte Steuer, noch irgendeine sonstige Landesabgabe oder allgemeine Leistung, welchen Namen sie haben möge, ausgeschrieben oder erhoben werden. Die erteilte Bewilligung ist bei der Steuerausschreibung ausdrücklich zu erwähnen.\n2) Auch die Art der Umlegung und Verteilung aller öffentlichen Abgaben und Leistungen auf Personen und Gegenstände sowie ihre Erhebungsweise erfordern die Zustimmung des Landtages.\n3) Die Bewilligung von Steuern und Abgaben erfolgt in der Regel für ein Verwaltungsjahr."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Vom Landtage",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "1) In Bezug auf die Landesverwaltung ist dem Landtage für das nächstfolgende Verwaltungsjahr von der Regierung ein Voranschlag über sämtliche Ausgaben und Einnahmen zur Prüfung und Beistimmung zu übergeben, womit der Antrag auf die zu erhebenden Abgaben zu verbinden ist.\n2) Für jedes abgelaufene Verwaltungsjahr hat die Regierung in der ersten Hälfte des folgenden Verwaltungsjahres dem Landtag eine genaue Nachweisung über die nach Massgabe des Voranschlages geschehene Verwendung der bewilligten und erhobenen Einnahmen mitzuteilen, vorbehaltlich der Genehmigung von gerechtfertigten und der Verantwortlichkeit der Regierung bei nicht gerechtfertigten Überschreitungen.\n3) Unter dem gleichen Vorbehalte ist die Regierung berechtigt, im Voranschlage nicht vorgesehene, dringliche Ausgaben zu machen.\n4) Etwaige Ersparnisse in den einzelnen Positionen des Voranschlages dürfen nicht zur Deckung des Mehraufwandes in anderen Positionen verwendet werden."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "Vom Landtage",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Die Regierung verwaltet das Finanzvermögen des Landes nach Grundsätzen, die sie im Einvernehmen mit dem Landtag festzulegen hat. Sie berichtet dem Landtag zusammen mit dem Rechenschaftsbericht (Art. 69 Abs. 2).\nVI. Hauptstück\nVom Landesausschusse"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Vom Landesausschusse",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Für die Zeit zwischen einer Vertagung, Schliessung oder Auflösung des Landtages und seinem Wiederzusammentreten besteht, unbeschadet der Bestimmungen der Art. 48 bis 51 über die Fristen zur Wiedereinberufung bezw. Neuwahl, an Stelle des Landtages zur Besorgung der seiner Mitwirkung oder jener seiner Kommissionen bedürftigen Geschäfte der Landesausschuss."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Vom Landesausschusse",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "1) Der Landesausschuss besteht aus dem bisherigen Landtagspräsidenten, der im Verhinderungsfalle durch seinen Stellvertreter ersetzt wird, und aus vier vom Landtage aus seiner Mitte unter gleichmässiger Berücksichtigung des Ober- und des Unterlandes zu wählenden weiteren Mitgliedern.\n2) Zu dieser Wahl ist dem Landtage noch in jener Sitzung, in der seine Vertagung, Schliessung oder Auflösung ausgesprochen wird, unter allen Umständen Gelegenheit zu geben."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "Vom Landesausschusse",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Die Mandatsdauer des Landesausschusses erlischt mit dem Wiederzusammentritte des Landtages."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Vom Landesausschusse",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Der Landesausschuss ist insbesonders berechtigt und verpflichtet: a) darauf zu achten, dass die Verfassung aufrechterhalten, die Vollziehung der Landtagserledigungen besorgt und der Landtag bei vorausgegangener Auflösung oder Vertagung rechtzeitig wieder einberufen wird;\nb) die Landeskassenrechnung zu prüfen und dieselbe mit seinem Bericht und seinen Anträgen an den Landtag zu leiten;\nc) die auf die Landeskasse unter Bezug auf einen vorausgegangenen Landtagsbeschluss auszustellenden Schuld- und Pfandverschreibungen mit zu unterzeichnen;\nd) die vom Landtag erhaltenen besonderen Aufträge zur Vorbereitung künftiger Landtagsverhandlungen zu erfüllen;\ne) in dringenden Fällen Anzeige an den Landesfürsten oder die Regierung zu erstatten und bei Bedrohung oder Verletzung verfassungsmässiger Rechte, Vorstellungen, Verwahrungen und Beschwerden zu erheben;\nf) nach Erfordernis der Umstände die Einberufung des Landtages zu beantragen."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "Vom Landesausschusse",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Der Landesausschuss kann keine bleibende Verbindlichkeit für das Land eingehen und ist dem Landtage für seine Geschäftsführung verantwortlich."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "Vom Landesausschusse",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1) Die Sitzungen des Landesausschusses finden nach Bedarf über Einberufung durch den Präsidenten am Sitze der Regierung statt.\n2) Zur Gültigkeit seiner Beschlüsse ist die Anwesenheit von mindestens drei Mitgliedern erforderlich."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "Vom Landesausschusse",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Die Mitglieder des Landesausschusses beziehen während ihrer Sitzungen die nämlichen Taggelder und Reisevergütungen wie die Abgeordneten.\nVII. Hauptstück\nVon der Regierung"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "Von der Regierung",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "1) Die gesamte Landesverwaltung wird unter Vorbehalt der nachfolgenden Bestimmungen dieses Artikels durch die dem Landesfürsten und dem Landtag verantwortliche Kollegialregierung in Gemässheit der Bestimmungen dieser Verfassung und der übrigen Gesetze besorgt.\n2) Durch Gesetz oder kraft gesetzlicher Ermächtigung können bestimmte Geschäfte einzelnen Amtspersonen, Amtsstellen oder besonderen Kommissionen, unter Vorbehalt des Rechtszuges an die Kollegialregierung, zur selbständigen Erledigung übertragen werden.\n3) Durch Gesetz können besondere Kommissionen für die Entscheidung von Beschwerden an Stelle der Kollegialregierung eingesetzt werden.\n4) Zur Besorgung wirtschaftlicher, sozialer und kultureller Aufgaben können durch Gesetz besondere Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts errichtet werden, die unter der Oberaufsicht der Regierung stehen."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "Von der Regierung",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "1) Die Kollegialregierung besteht aus dem Regierungschef und vier Regierungsräten.\n2) Der Regierungschef und die Regierungsräte werden vom Landesfürsten einvernehmlich mit dem Landtage auf dessen Vorschlag ernannt. In gleicher Weise ist für den Regierungschef und die Regierungsräte je ein Stellvertreter zu ernennen, der im Falle der Verhinderung das betreffende Regierungsmitglied in den Sitzungen der Kollegialregierung vertritt.\n3) Einer der Regierungsräte wird auf Vorschlag des Landtages vom Landesfürsten zum Regierungschef-Stellvertreter ernannt.\n4) Die Regierungsmitglieder müssen Liechtensteiner und zum Landtag wählbar sein.\n5) Bei der Bestellung der Kollegialregierung ist darauf Rücksicht zu nehmen, dass auf jede der beiden Landschaften wenigstens zwei Mitglieder entfallen. Ihre Stellvertreter sind der gleichen Landschaft zu entnehmen.\n6) Die Amtsperiode der Kollegialregierung beträgt vier Jahre. Bis zur Ernennung einer neuen Regierung haben die bisherigen Regierungsmitglieder die Geschäfte verantwortlich weiterzuführen, es sei denn, Art. 80 kommt zur Anwendung."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Von der Regierung",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "1) Verliert die Regierung das Vertrauen des Landesfürsten oder des Landtages, dann erlischt ihre Befugnis zur Ausübung des Amtes. Für die Zeit bis zum Antritt der neuen Regierung bestellt der Landesfürst unter Anwendung der Bestimmungen gemäss Art. 79 Abs. 1 und 4 eine Übergangsregierung zur interimistischen Besorgung der gesamten Landesverwaltung (Art. 78 Abs. 1). Der Landesfürst kann auch Mitglieder der alten Regierung in die Übergangsregierung berufen. Vor Ablauf von vier Monaten hat sich die Übergangsregierung im Landtag einer Vertrauensabstimmung zu stellen, sofern nicht vorher vom Landesfürsten einvernehmlich mit dem Landtage auf dessen Vorschlag eine neue Regierung ernannt wurde (Art. 79 Abs. 2).\n2) Verliert ein einzelnes Regierungsmitglied das Vertrauen des Landesfürsten oder des Landtages, dann wird die Entscheidung über den Verlust der Befugnis zur Ausübung seines Amtes zwischen Landesfürst und Landtag einvernehmlich getroffen. Bis zur Ernennung des neuen Regierungsmitgliedes hat der Stellvertreter die Amtsgeschäfte fortzuführen."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Von der Regierung",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Zu einem gültigen Beschluss der Kollegialregierung ist die Anwesenheit von wenigstens vier Mitgliedern und die Stimmenmehrheit unter den anwesenden Mitgliedern erforderlich. Bei Stimmengleichheit entscheidet der Vorsitzende. Es besteht Stimmzwang."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Von der Regierung",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Im Wege der Gesetzgebung wird bestimmt, aus welchen Gründen ein Mitglied der Regierung von der Vornahme einer Amtshandlung ausgeschlossen ist oder abgelehnt werden kann."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Von der Regierung",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Die Geschäftsbehandlung durch die Regierung ist teils eine kollegiale, teils eine ressortmässige."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "Von der Regierung",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "Die Kollegialregierung erlässt im Verordnungswege ihre Geschäftsordnung."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "Von der Regierung",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Der Regierungschef führt den Vorsitz in der Regierung. Er besorgt die ihm unmittelbar vom Fürsten übertragenen Geschäfte und die Gegenzeichnung der Gesetze sowie der vom Fürsten oder einer Regentschaft ausgehenden Erlässe und Verordnungen und geniesst bei öffentlichen Feierlichkeiten die dem Repräsentanten des Landesfürsten vorschriftsgemäss zustehenden Vorzüge."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "Von der Regierung",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "1) Der Regierungschef hat über die der landesherrlichen Verfügung unterstellten Gegenstände dem Landesfürsten Vortrag zu halten beziehungsweise Bericht zu erstatten.\n2) Die Ausfertigungen der über seinen Antrag ergehenden landesherrlichen Resolutionen erhalten die eigenhändige Unterschrift des Landesherrn und überdies die Gegenzeichnung des Regierungschefs."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "Von der Regierung",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Der Regierungschef legt den Diensteid in die Hände des Landesfürsten oder des Regenten ab; die übrigen Mitglieder der Regierung und die Staatsangestellten werden vom Regierungschef in Eid und Pflicht genommen."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "Von der Regierung",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Bei Verhinderung des Regierungschefs tritt der Regierungschef-Stellvertreter in die Funktionen ein, die durch die Verfassung ausdrücklich dem Regierungschef übertragen sind. Ist auch der Regierungschef-Stellvertreter verhindert, so tritt für ihn der an Jahren ältere Regierungsrat ein."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "Von der Regierung",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "Der Regierungschef unterzeichnet die von der Regierung auf Grund kollegialer Behandlung ausgehenden Erlässe und Verfügungen; ihm steht auch die unmittelbare Überwachung des Geschäftsganges in der Regierung zu."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "Von der Regierung",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "1) Alle wichtigeren, der Regierung zur Behandlung zugewiesenen Angelegenheiten, insbesondere die Erledigung der Verwaltungsstreitsachen, unterliegen der Beratung und Beschlussfassung der Kollegialregierung. Bestimmte minder wichtige Geschäfte können durch Gesetz den nach der Geschäftsverteilung zuständigen Regierungsmitgliedern zur selbständigen Erledigung übertragen werden.\n2) Über die Sitzungen ist durch den Regierungssekretär, im Verhinderungsfall durch einen von der Kollegialregierung bestimmten Stellvertreter, Protokoll zu führen.\n3) Der Regierungschef hat die Beschlüsse der Kollegialregierung in Vollzug zu setzen. Nur in dem Falle, als er vermeint, dass ein Beschluss gegen bestehende Gesetze oder Verordnungen verstosse, kann er mit der Vollziehung desselben innehalten, jedoch hat er hievon ohne jeden Verzug die Anzeige an den Verwaltungsgerichtshof zu erstatten, welcher, unbeschadet des Beschwerderechtes einer Partei, über den Vollzug entscheidet."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "Von der Regierung",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "Zur Vorbereitung der kollegial zu beschliessenden Angelegenheiten und zur selbständigen Erledigung der durch Gesetz dafür bezeichneten Geschäfte hat die Kollegialregierung zu Beginn der Amtsperiode ihre Geschäfte auf den Regierungschef und die Regierungsräte zu verteilen. Für den Fall der Verhinderung ist eine gegenseitige Vertretung vorzusehen."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "Von der Regierung",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1) Der Regierung obliegt der Vollzug aller Gesetze und rechtlich zulässigen Aufträge des Landesfürsten oder des Landtages.\n2) Sie erlässt die zur Durchführung der Gesetze und der direkt anwendbaren Staatsverträge erforderlichen Verordnungen, die nur im Rahmen der Gesetze und der direkt anwendbaren Staatsverträge erlassen werden dürfen.\n3) Zur Umsetzung anderer staatsvertraglicher Verpflichtungen kann die Regierung die erforderlichen Verordnungen erlassen, soweit dazu keine Gesetzeserlasse nötig sind.\n4) Die gesamte Landesverwaltung überhaupt hat sich innerhalb der Schranken der Verfassung, der Gesetze und staatsvertraglichen Regelungen zu bewegen, auch in jenen Angelegenheiten, in welchen das Gesetz der Verwaltung ein freies Ermessen einräumt, sind die demselben durch die Gesetze gezogenen Grenzen streng zu beobachten."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "Von der Regierung",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "In den Wirkungskreis der Regierung fallen insbesonders: a) die Beaufsichtigung aller ihr unterstellten Behörden und Angestellten sowie die Ausübung der Disziplinargewalt über letztere; die Aufsicht und Disziplinargewalt über Staatsanwälte werden durch das Gesetz bestimmt;\nb) die Zuweisung des für die Regierung und die übrigen Behörden nötigen Personales;\nc) die Überwachung der Gefängnisse und die Oberaufsicht über die Behandlung der Untersuchungshäftlinge und Sträflinge;\nd) die Verwaltung der landschaftlichen Gebäude;\ne) die Überwachung des gesetzmässigen und ununterbrochenen Geschäftsganges der ordentlichen Gerichte;\nf) die Erstattung des jährlich dem Landtage vorzulegenden Berichtes über ihre Amtstätigkeit;\ng) die Ausarbeitung von Regierungsvorlagen an den Landtag und die Begutachtung der ihr zu diesem Zwecke vom Landtag überwiesenen Vorlagen;\nh) die Verfügung über dringende, im Voranschlage nicht aufgenommene Auslagen;\ni) die Beschlussfassung über Bürgschaften bis 250 000 Franken, über den Erwerb und die Veräusserung von Grundstücken des Finanzvermögens bis 1 000 000 Franken und des Verwaltungsvermögens bis 30 000 Franken sowie kraft gesetzlicher Ermächtigung über die Aufnahme von Krediten und Anleihen."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "Von der Regierung",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Die Verwaltungsorganisation ist mit Gesetz zu regeln.\nVIII. Hauptstück\nVon den Gerichten\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "1) Die gesamte Gerichtsbarkeit wird im Namen des Fürsten und des Volkes durch verpflichtete Richter ausgeübt, die vom Landesfürsten ernannt werden (Art. 11). Die Entscheidungen der Richter in Urteilsform werden \"im Namen von Fürst und Volk\" erlassen und ausgefertigt.\n2) Die Richter sind in der Ausübung ihres richterlichen Amtes innerhalb der gesetzlichen Grenzen ihrer Wirksamkeit und im gerichtlichen Verfahren unabhängig. Sie haben ihren Entscheidungen und Urteilen Gründe beizufügen. Einwirkungen durch nichtrichterliche Organe auf die Rechtsprechung sind nur soweit zulässig, als sie die Verfassung ausdrücklich vorsieht (Art. 12).\n3) Richter im Sinne dieses Artikels sind die Richter aller ordentlichen Gerichte (Art. 97 bis 101), die Richter des Obersten Gerichtshofes als Verwaltungsgerichtshof (Art. 102 und 103) sowie die Richter des Staatsgerichtshofes (Art. 104 und 105)."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1) Für die Auswahl von Richtern bedienen sich Landesfürst und Landtag eines gemeinsamen Gremiums. In diesem Gremium hat der Landesfürst den Vorsitz und den Stichentscheid. Er kann ebenso viele Mitglieder in dieses Gremium berufen wie der Landtag Vertreter entsendet. Der Landtag entsendet je einen Abgeordneten von jeder im Landtag vertretenen Wählergruppe. Die Regierung entsendet das für die Justiz zuständige Regierungsmitglied. Die Beratungen des Gremiums sind vertraulich. Kandidaten können nur mit Zustimmung des Landesfürsten vom Gremium dem Landtag empfohlen werden. Wählt der Landtag den empfohlenen Kandidaten, dann wird dieser vom Landesfürsten zum Richter ernannt.\n2) Lehnt der Landtag den vom Gremium empfohlenen Kandidaten ab, und lässt sich innerhalb von vier Wochen keine Einigung über einen neuen Kandidaten erzielen, dann hat der Landtag einen Gegenkandidaten vorzuschlagen und eine Volksabstimmung anzuberaumen. Im Falle einer Volksabstimmung sind auch die wahlberechtigten Landesbürger berechtigt, unter den Bedingungen einer Initiative (Art. 64) Kandidaten zu nominieren. Wird über mehr als zwei Kandidaten abgestimmt, dann erfolgt die Abstimmung in zwei Wahlgängen gemäss Art. 113 Abs. 2. Jener Kandidat, der die absolute Mehrheit der Stimmen erhält, wird vom Landesfürsten zum Richter ernannt.\n3) Ein auf Zeit ernannter Richter bleibt bis zur Vereidigung seines Nachfolgers im Amt.\nB. Die ordentlichen Gerichte"
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "B. Die ordentlichen Gerichte",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "1) In erster Instanz wird die ordentliche Gerichtsbarkeit durch das Fürstliche Landgericht in Vaduz, in zweiter Instanz durch das Fürstliche Obergericht in Vaduz und in dritter Instanz durch den Fürstlichen Obersten Gerichtshof ausgeübt.\n2) Die Organisation der ordentlichen Gerichte, das Verfahren und die Gerichtsgebühren werden durch das Gesetz bestimmt."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "B. Die ordentlichen Gerichte",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Mit Gesetz kann die Besorgung einzelner, genau zu bezeichnender Arten von Geschäften der Gerichtsbarkeit erster Instanz besonders ausgebildeten und weisungsgebundenen nichtrichterlichen Angestellten des Landgerichtes (Rechtspflegern) übertragen werden."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "B. Die ordentlichen Gerichte",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Der Fiskus und die fürstlichen Domänenbehörden haben vor den ordentlichen Gerichten Recht zu nehmen und zu geben."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "B. Die ordentlichen Gerichte",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "1) Das Verfahren in bürgerlichen Rechtsstreitigkeiten ist nach den Grundsätzen der Mündlichkeit, Unmittelbarkeit und freien Beweiswürdigung zu regeln. In Strafsachen gilt ausserdem das Anklageprinzip.\n2) In bürgerlichen Rechtssachen wird die ordentliche Gerichtsbarkeit in erster Instanz durch einen oder mehrere Einzelrichter ausgeübt.\n3) Das Obergericht und der Oberste Gerichtshof sind Kollegialgerichte.\n4) Die Gerichtsbarkeit in Strafsachen wird in erster Instanz beim Landgericht von diesem, allenfalls vom Kriminalgericht und vom Jugendgericht ausgeübt."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "B. Die ordentlichen Gerichte",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "1) Der Landgerichtspräsident übt die Aufsicht über die Richter des Landgerichtes aus.\n2) Der Obergerichtspräsident führt die Aufsicht über den Landgerichtspräsidenten und die Richter des Obergerichtes. Er übt die Disziplinargewalt über die Richter des Landgerichtes aus.\n3) Der Präsident des Obersten Gerichtshofes führt die Aufsicht über den Obergerichtspräsidenten und die Richter des Obersten Gerichtshofes. Er übt die Disziplinargewalt über die Richter des Obergerichtes und des Obersten Gerichtshofes aus.\n4) Ein aus drei Richtern des Obersten Gerichtshofes bestehender Dienstsenat übt die Aufsicht und die Disziplinargewalt über den Präsidenten des Obersten Gerichtshofes aus.\nC. Der Oberste Gerichtshof als Verwaltungsgerichtshof"
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "C. Der Oberste Gerichtshof als Verwaltungsgerichtshof",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "1) Unbeschadet seiner Zuständigkeit im Rahmen der ordentlichen Gerichtsbarkeit (Art. 97 bis 101) fungiert der Oberste Gerichtshof auch als Verwaltungsgerichtshof.\n2) Die Mehrheit der Richter des Obersten Gerichtshofes als Verwaltungsgerichtshof muss das liechtensteinische Landesbürgerrecht besitzen.\n3) Soweit das Gesetz nichts anderes bestimmt, unterliegen sämtliche Entscheidungen oder Verfügungen der Regierung und der anstelle der Kollegialregierung eingesetzten besonderen Kommissionen (Art. 78 Abs. 3) dem Rechtsmittel der Beschwerde an den Obersten Gerichtshof als Verwaltungsgerichtshof.\n4) Für internationale Amtshilfeverfahren können mit Gesetz die Befugnis eines Richters des Obersten Gerichtshofes zur Genehmigung bestimmter Massnahmen sowie die direkte Beschwerde von der erstinstanzlich verfügenden Behörde an den Obersten Gerichtshof als Verwaltungsgerichtshof vorgesehen werden."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "C. Der Oberste Gerichtshof als Verwaltungsgerichtshof",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "Die näheren Bestimmungen über das Verfahren, über die Ausstandspflicht, über die Entlohnung und über die von den Parteien zu entrichtenden Gebühren werden durch ein besonderes Gesetz getroffen.\nD. Der Staatsgerichtshof"
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "D. Der Staatsgerichtshof",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "1) Im Wege eines besonderen Gesetzes ist ein Staatsgerichtshof als Gerichtshof des öffentlichen Rechtes zum Schutze der verfassungsmässig gewährleisteten Rechte, zur Entscheidung von Kompetenzkonflikten zwischen den Gerichten und den Verwaltungsbehörden und als Disziplinargerichtshof für die Mitglieder der Regierung zu errichten.\n2) In seine Kompetenz fallen weiter die Prüfung der Verfassungsmässigkeit von Gesetzen und Staatsverträgen sowie der Gesetzmässigkeit der Regierungsverordnungen; in diesen Angelegenheiten urteilt er kassatorisch. Endlich fungiert er auch als Wahlgerichtshof."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "D. Der Staatsgerichtshof",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "1) Der Staatsgerichtshof besteht aus fünf Richtern und fünf Ersatzrichtern, die vom Landesfürsten ernannt werden (Art. 96). Der Präsident des Staatsgerichtshofes und die Mehrheit der Richter müssen das liechtensteinische Landesbürgerrecht besitzen.\n2) Die Amtsdauer der vollamtlichen Richter des Staatsgerichtshofes beträgt 15 Jahre; sie endet jedoch in jedem Fall mit dem Kalenderjahr, in welchem der vollamtliche Richter das 70. Lebensjahr vollendet. Eine Wiederwahl ist unzulässig, es sei denn, die Amtsdauer der beiden vollamtlichen Richter endet innerhalb eines Zeitraumes von zwei Jahren; in diesem Fall kann einer der betroffenen Richter für höchstens zwei Jahre wiedergewählt werden.\n3) Die Amtsdauer der nebenamtlichen Richter und der Ersatzrichter des Staatsgerichtshofes beträgt fünf Jahre. Die Amtsdauer ist so zu gestalten, dass jedes Jahr ein anderer Richter beziehungsweise Ersatzrichter ausscheidet. Scheidet ein Richter beziehungsweise ein Ersatzrichter vorzeitig aus dem Amt, dann wird der Nachfolger für die restliche Amtsdauer des ausscheidenden Richters ernannt. Wiederwahlen sind zulässig.\n4) Ist ein Richter verhindert, dann wird er für diesen Fall durch einen Ersatzrichter vertreten. Die Geschäftsordnung des Staatsgerichtshofes hat Regeln über die Vertretung durch Ersatzrichter zu enthalten.\n5) Die Organisation des Staatsgerichtshofes wird durch das Gesetz bestimmt.\nIX. Hauptstück\nVon den Behörden und Staatsbediensteten"
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "Von den Behörden und Staatsbediensteten",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "Unbefristete Richterstellen dürfen nur mit Zustimmung des Landtages geschaffen werden."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "Von den Behörden und Staatsbediensteten",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "Die Organisation der Behörden erfolgt im Wege der Gesetzgebung. Sämtliche Behörden haben unter Vorbehalt staatsvertraglicher Abmachungen ihren Sitz im Lande; kollegiale Behörden sind mindestens mehrheitlich mit Liechtensteinern zu besetzen."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "Von den Behörden und Staatsbediensteten",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "Die Mitglieder der Regierung, die Staatsangestellten sowie alle Ortsvorstände, deren Stellvertreter und die Gemeindekassiere haben beim Dienstantritt folgenden Eid abzulegen: \"Ich schwöre Treue dem Landesfürsten, Gehorsam den Gesetzen und genaue Beobachtung der Verfassung, so wahr mir Gott helfe.\""
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "Von den Behörden und Staatsbediensteten",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "1) Das Land, die Gemeinden und die sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts haften für den Schaden, den die als ihre Organe handelnden Personen in Ausübung ihrer amtlichen Tätigkeit Dritten widerrechtlich zufügen. Bei Vorsatz oder grober Fahrlässigkeit bleibt der Rückgriff auf die fehlbaren Personen vorbehalten.\n2) Die als Organe handelnden Personen haften dem Land, der Gemeinde oder sonstigen Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts, in deren Dienst sie stehen, für den Schaden, den sie ihnen durch vorsätzliche oder grobfahrlässige Verletzung der Amtspflichten unmittelbar zufügen.\n3) Die näheren Bestimmungen, insbesondere über die Zuständigkeit, werden durch Gesetz getroffen.\nX. Hauptstück\nVon den Gemeinden"
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "Von den Gemeinden",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "1) Über Bestand, Organisation und Aufgaben der Gemeinden im eigenen und übertragenen Wirkungskreise bestimmen die Gesetze.\n2) In den Gemeindegesetzen sind folgende Grundzüge festzulegen: a) freie Wahl der Ortsvorsteher und der übrigen Gemeindeorgane durch die Gemeindeversammlung;\nb) selbständige Verwaltung des Gemeindevermögens und der Handhabung der Ortspolizei unter Aufsicht der Landesregierung;\nc) Pflege eines geregelten Armenwesens unter Aufsicht der Landesregierung;\nd) Recht der Gemeinde zur Aufnahme von Bürgern und Freiheit der Niederlassung der Landesangehörigen in jeder Gemeinde."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "Von den Gemeinden",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "In Gemeindeangelegenheiten sind alle in der Gemeinde wohnhaften Landesangehörigen wahl- und stimmberechtigt, die das 18. Lebensjahr vollendet haben und nicht im Wahl- und Stimmrecht eingestellt sind.\nXI. Hauptstück\nDie Verfassungsgewähr"
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "Die Verfassungsgewähr",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "1) Die gegenwärtige Verfassungsurkunde ist nach ihrer Verkündigung als Landesgrundgesetz allgemein verbindlich.\n2) Abänderungen oder allgemein verbindliche Erläuterungen dieses Grundgesetzes können sowohl von der Regierung als auch vom Landtage oder im Wege der Initiative (Art. 64) beantragt werden. Sie erfordern auf Seite des Landtages Stimmeneinhelligkeit seiner anwesenden Mitglieder oder eine auf zwei nacheinander folgenden Landtagssitzungen sich aussprechende Stimmenmehrheit von drei Vierteln derselben, allenfalls eine Volksabstimmung (Art. 66) und jedenfalls die nachfolgende Zustimmung des Landesfürsten, abgesehen von dem Verfahren zur Abschaffung der Monarchie (Art. 113)."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "Die Verfassungsgewähr",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "1) Wenigstens 1 500 Landesbürgern steht das Recht zu, eine Initiative auf Abschaffung der Monarchie einzubringen. Im Falle der Annahme der Initiative durch das Volk hat der Landtag eine neue Verfassung auf republikanischer Grundlage auszuarbeiten und diese frühestens nach einem Jahr und spätestens nach zwei Jahren einer Volksabstimmung zu unterziehen. Dem Landesfürsten steht das Recht zu, für die gleiche Volksabstimmung eine neue Verfassung vorzulegen. Das im Folgenden geregelte Verfahren tritt insoweit an die Stelle des Verfassungsänderungsverfahrens nach Art. 112 Abs. 2.\n2) Liegt nur ein Entwurf vor, dann genügt für die Annahme die absolute Mehrheit (Art. 66 Abs. 4). Liegen zwei Entwürfe vor, dann hat der wahlberechtigte Landesbürger die Möglichkeit, zwischen der bestehenden Verfassung und den beiden Entwürfen zu wählen. In diesem Fall hat der wahlberechtigte Landesbürger in der ersten Abstimmung zwei Stimmen. Diese teilt er jenen beiden Verfassungsvarianten zu, von denen er wünscht, dass sie in die zweite Abstimmung gelangen. Jene zwei Verfassungsvarianten, welche die meisten Erst- und Zweitstimmen auf sich vereinen, kommen in die zweite Abstimmung. In der zweiten Abstimmung, die 14 Tage nach der ersten Abstimmung durchzuführen ist, hat der wahlberechtigte Landesbürger eine Stimme. Jene Verfassung gilt als angenommen, welche die absolute Mehrheit erhält (Art. 66 Abs. 4).\nXII. Hauptstück\nSchlussbestimmungen"
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "Schlussbestimmungen",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "Alle Gesetze, Verordnungen und statutarischen Bestimmungen, die mit einer ausdrücklichen Bestimmung der gegenwärtigen Verfassungsurkunde im Widerspruche stehen, sind hiermit aufgehoben beziehungsweise unwirksam; jene gesetzlichen Bestimmungen, die mit dem Geiste dieses Grundgesetzes nicht im Einklange sind, werden einer verfassungsmässigen Revision unterzogen."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "Schlussbestimmungen",
+      "section": "115",
+      "title": "Art. 115",
+      "content": "1) Mit der Durchführung dieser Verfassung ist Meine Regierung betraut.\n2) Die Regierung hat die in dieser Verfassung vorgesehenen Gesetze mit tunlichster Beförderung zu entwerfen und der verfassungsmässigen Behandlung zuzuführen.\nVaduz, am 5. Oktober 1921\nIn Vertretung Seiner Durchlaucht, des regierenden Fürsten Johann II. von und zu Liechtenstein und in dessen, mit Höchstem Handschreiben vom 2. Oktober 1921 erteilten Auftrage:\ngez. Karl\ngez. Jos. Ospelt\nFürstlicher Rat\nDem Original der Verfassungsurkunde sind folgende zwei Schreiben beigeheftet:\nMein lieber Rat Ospelt!\nMit besonderer Befriedigung habe Ich zur Kenntnis genommen, dass der Landtag Meines Fürstentumes in seiner Sitzung vom 24. August 1921 einstimmig die neue Verfassung angenommen hat.\nIndem Ich diesem Beschlusse Meine landesherrliche Sanktion erteile, spreche Ich den innigen Wunsch und die Hoffnung aus, dass, ebenso wie die Vertreter Meines Volkes, sich in der Schaffung dieses für das Land so bedeutsamen Gesetzgebungswerkes ohne Unterschied der Partei einträchtig zusammengefunden haben, auch fürderhin der Geist gleicher Eintracht die Bevölkerung Meines Landes in friedlicher Arbeit zum dauernden Wohle des Ganzen und aller seiner Teile vereinige und aus dem altbewährten, auch weiter zu pflegenden Zusammenarbeiten von Staat und Kirche unter Gottes Schutz auch auf dem Boden des neuen Staatsgrundgesetzes Meinem Volke und Meinem Lande neues Heil und reicher Segen erblühe.\nGerne hätte Ich selbst, Ihrer Mir unterbreiteten Bitte stattgebend, die Verfassungsurkunde in Vaduz, dem Hauptorte Meines Landes, inmitten Meines getreuen und geliebten Volkes unterzeichnet; zu Meinem herzlichen Bedauern bin Ich durch Gesundheitsrücksichten im gegenwärtigen Augenblicke hieran verhindert.\nUm aber dennoch Meiner Freude über das Zustandekommen des grossen Reformwerkes Ausdruck und Meinem Lande einen Beweis Meiner väterlichen Liebe zu geben, betraue Ich im Sinne des Art. 13 der neuen Verfassung Meinen derzeit im Lande weilenden geliebten Neffen, Seine Durchlaucht, den Herrn Prinzen Karl von und zu Liechtenstein, am 5. Oktober ds. Js., dem Tage, an dem Ich durch Gottes gnädige Fügung Mein einundachtzigstes Lebensjahr zu vollenden hoffe, die Verfassungsurkunde in Meiner Vertretung in Vaduz zu unterzeichnen.\nZugleich entbiete Ich Meinem geliebten Volke Meinen landesväterlichen Gruss und spreche allen jenen, die sich um das Zustandekommen der neuen Verfassung einträchtig und erfolgreich bemüht haben, aus vollem Herzen Meinen Dank und Meine Anerkennung aus.\nIch beauftrage Sie, diese Meine Entschliessungen zur allgemeinen Kenntnis zu bringen.\nFeldsberg, am 2. Oktober 1921\ngez. Johann\ngez. Jos. Ospelt\nFürstlicher Rat\nMein lieber Neffe Prinz Karl!\nIm Sinne des Art. 13 der vom Landtage Meines Fürstentums in seiner Sitzung vom 24. August 1921 beschlossenen und von Mir sanktionierten Verfassung des Fürstentumes Liechtenstein betraue Ich Euer Liebden damit, die neue Verfassungsurkunde in Meiner Stellvertretung an Meinem Geburtstage - 5. Oktober 1921 - in Vaduz, dem Hauptorte Meines Fürstentumes, zu unterzeichnen.\nIch verbleibe Euer Liebden stets wohlgeneigter und freundwilliger Oheim.\nFeldsberg, am 2. Oktober 1921\ngez. Johann\ngez. Jos. Ospelt\nFürstlicher Rat\nÜbergangs- und Inkrafttretensbestimmungen\n101 Verfassung des Fürstentums Liechtenstein\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2025 Nr. 15 ausgegeben am 10. Januar 2025\nVerfassungsgesetz\nvom 8. November 2024\nüber die Abänderung der Verfassung vom 5. Oktober 1921\n...\nII.\nÜbergangsbestimmungen\n1) Mit Inkrafttreten dieses Verfassungsgesetzes endet die Amtsdauer der nach bisherigem Recht bestellten Richter und Ersatzrichter des Verwaltungsgerichtshofes.\n2) Die bei Inkrafttreten dieses Verfassungsgesetzes nach bisherigem Recht bestellten Richter und Ersatzrichter des Staatsgerichtshofes führen ihr Amt bis zum Ablauf ihrer nach bisherigem Recht bestimmten Amtsdauer weiter.\n3) Im Übrigen wird die übergangsrechtliche Organisation des Obersten Gerichtshofes als Verwaltungsgerichtshof und des Staatsgerichtshofes durch Gesetz bestimmt.\n...\n1\nArt. 1 abgeändert durch LGBl. 2003 Nr. 186 .\n2\nArt. 3 abgeändert durch LGBl. 2003 Nr. 186 .\n3\nArt. 4 abgeändert durch LGBl. 2003 Nr. 186 .\n4\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n5\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n6\nArt. 7 Abs. 2 abgeändert durch LGBl. 2003 Nr. 186 .\n7\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n8\nArt. 10 abgeändert durch LGBl. 2003 Nr. 186 .\n9\nArt. 11 abgeändert durch LGBl. 2003 Nr. 186 .\n10\nArt. 13 abgeändert durch LGBl. 2003 Nr. 186 .\n11\nArt. 13bis abgeändert durch LGBl. 2003 Nr. 186 .\n12\nArt. 13ter eingefügt durch LGBl. 2003 Nr. 186 .\n13\nArt. 16 Abs. 6 aufgehoben durch LGBl. 1972 Nr. 8 .\n14\nArt. 16 Abs. 7 aufgehoben durch LGBl. 1972 Nr. 8 .\n15\nArt. 17 Abs. 1 abgeändert durch LGBl. 1972 Nr. 8 .\n16\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n17\nÜberschrift vor Art. 27bis eingefügt durch LGBl. 2005 Nr. 267 .\n18\nArt. 27bis eingefügt durch LGBl. 2005 Nr. 267 .\n19\nArt. 27ter eingefügt durch LGBl. 2005 Nr. 267 .\n20\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n21\nArt. 28 Abs. 2 abgeändert durch LGBl. 2008 Nr. 310 .\n22\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n23\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n24\nArt. 29 Abs. 2 abgeändert durch LGBl. 2000 Nr. 55 .\n25\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n26\nArt. 31 Abs. 2 abgeändert durch LGBl. 1992 Nr. 81 .\n27\nArt. 31 Abs. 3 abgeändert durch LGBl. 1992 Nr. 81 .\n28\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n29\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n30\nArt. 46 Abs. 1 abgeändert durch LGBl. 1988 Nr. 11 .\n31\nArt. 46 Abs. 2 abgeändert durch LGBl. 1994 Nr. 46 und berichtigt durch LGBl. 1994 Nr. 56 .\n32\nArt. 46 Abs. 3 eingefügt durch LGBl. 1973 Nr. 49 .\n33\nArt. 46 Abs. 4 abgeändert durch LGBl. 1997 Nr. 46 .\n34\nArt. 46 Abs. 5 eingefügt durch LGBl. 1997 Nr. 46 .\n35\nArt. 47 Abs. 1 abgeändert durch LGBl. 1958 Nr. 1 .\n36\nArt. 47 Abs. 2 aufgehoben durch LGBl. 1997 Nr. 46 .\n37\nArt. 48 Abs. 2 abgeändert durch LGBl. 1947 Nr. 55 und LGBl. 1984 Nr. 27 .\n38\nArt. 48 Abs. 3 abgeändert durch LGBl. 1947 Nr. 55 und LGBl. 1984 Nr. 27 .\n39\nArt. 49 Abs. 4 eingefügt durch LGBl. 1939 Nr. 3 .\n40\nArt. 51 abgeändert durch LGBl. 2003 Nr. 186 .\n41\nArt. 52 Abs. 2 aufgehoben durch LGBl. 1989 Nr. 71 .\n42\nArt. 53 abgeändert durch LGBl. 1939 Nr. 3 .\n43\nArt. 59 abgeändert durch LGBl. 1958 Nr. 1 .\n44\nArt. 61 abgeändert durch LGBl. 1982 Nr. 13 .\n45\nArt. 62 Bst. d abgeändert durch LGBl. 2010 Nr. 372 .\n46\nArt. 62 Bst. f abgeändert durch LGBl. 2003 Nr. 186 .\n47\nArt. 62 Bst. g abgeändert durch LGBl. 2003 Nr. 186 .\n48\nArt. 62 Bst. h eingefügt durch LGBl. 2003 Nr. 186 .\n49\nArt. 63 Abs. 1 abgeändert durch LGBl. 2003 Nr. 186 .\n50\nArt. 63 Abs. 2 abgeändert durch LGBl. 2003 Nr. 186 .\n51\nArt. 63 Abs. 3 aufgehoben durch LGBl. 1989 Nr. 64 .\n52\nArt. 63bis eingefügt durch LGBl. 1989 Nr. 64 .\n53\nArt. 63ter abgeändert durch LGBl. 2010 Nr. 372 .\n54\nArt. 64 Abs. 2 abgeändert durch LGBl. 1947 Nr. 55 und LGBl. 1984 Nr. 27 .\n55\nArt. 64 Abs. 4 abgeändert durch LGBl. 1947 Nr. 55 und LGBl. 1984 Nr. 27 .\n56\nArt. 65 Abs. 1 Satz 3 eingefügt durch LGBl. 2003 Nr. 186 .\n57\nArt. 65 Abs. 2 abgeändert durch LGBl. 2003 Nr. 186 .\n58\nArt. 66 Abs. 1 abgeändert durch LGBl. 2010 Nr. 372 .\n59\nArt. 66 Abs. 2 abgeändert durch LGBl. 1947 Nr. 55 und LGBl. 1984 Nr. 27 .\n60\nArt. 66 Abs. 5 abgeändert durch LGBl. 2003 Nr. 186 .\n61\nArt. 66bis eingefügt durch LGBl. 1992 Nr. 27 .\n62\nArt. 67 Abs. 2 abgeändert durch LGBl. 1996 Nr. 121 .\n63\nArt. 67 Abs. 3 aufgehoben durch LGBl. 2020 Nr. 357 .\n64\nArt. 70 abgeändert durch LGBl. 2003 Nr. 186 .\n65\nArt. 74 Bst. e abgeändert durch LGBl. 2003 Nr. 186 .\n66\nÜberschrift vor Art. 78 abgeändert durch LGBl. 2003 Nr. 186 .\n67\nArt. 78 Abs. 1 abgeändert durch LGBl. 1972 Nr. 8 .\n68\nArt. 78 Abs. 2 abgeändert durch LGBl. 1964 Nr. 10 .\n69\nArt. 78 Abs. 3 abgeändert durch LGBl. 1964 Nr. 10 .\n70\nArt. 78 Abs. 4 abgeändert durch LGBl. 1964 Nr. 10 .\n71\nArt. 79 Abs. 1 abgeändert durch LGBl. 1965 Nr. 22 .\n72\nArt. 79 Abs. 2 abgeändert durch LGBl. 1965 Nr. 22 .\n73\nArt. 79 Abs. 3 abgeändert durch LGBl. 1965 Nr. 22 .\n74\nArt. 79 Abs. 4 abgeändert durch LGBl. 2003 Nr. 186 .\n75\nArt. 79 Abs. 5 abgeändert durch LGBl. 1965 Nr. 22 .\n76\nArt. 79 Abs. 6 abgeändert durch LGBl. 1965 Nr. 22 und LGBl. 2003 Nr. 186 .\n77\nArt. 80 abgeändert durch LGBl. 2003 Nr. 186 .\n78\nArt. 81 abgeändert durch LGBl. 1965 Nr. 22 .\n79\nArt. 83 abgeändert durch LGBl. 1965 Nr. 22 .\n80\nArt. 84 abgeändert durch LGBl. 1965 Nr. 22 .\n81\nArt. 85 abgeändert durch LGBl. 1972 Nr. 8 .\n82\nArt. 88 abgeändert durch LGBl. 1965 Nr. 22 .\n83\nArt. 90 Abs. 1 abgeändert durch LGBl. 1965 Nr. 22 .\n84\nArt. 90 Abs. 2 abgeändert durch LGBl. 1965 Nr. 22 .\n85\nArt. 90 Abs. 3 abgeändert durch LGBl. 1965 Nr. 22 und LGBl. 2003 Nr. 186 .\n86\nArt. 91 abgeändert durch LGBl. 1965 Nr. 22 .\n87\nArt. 92 abgeändert durch LGBl. 2003 Nr. 186 .\n88\nArt. 93 Bst. a abgeändert durch LGBl. 2011 Nr. 50 .\n89\nArt. 93 Bst. e abgeändert durch LGBl. 2007 Nr. 346 .\n90\nArt. 93 Bst. i eingefügt durch LGBl. 2010 Nr. 372 .\n91\nArt. 94 abgeändert durch LGBl. 1965 Nr. 22 .\n92\nÜberschrift vor Art. 95 eingefügt durch LGBl. 2003 Nr. 186 .\n93\nÜberschrift vor Art. 95 abgeändert durch LGBl. 2003 Nr. 186 .\n94\nArt. 95 abgeändert durch LGBl. 2003 Nr. 186 .\n95\nArt. 95 Abs. 3 abgeändert durch LGBl. 2025 Nr. 15 .\n96\nArt. 96 abgeändert durch LGBl. 2003 Nr. 186 .\n97\nÜberschrift vor Art. 97 abgeändert durch LGBl. 2003 Nr. 186 .\n98\nArt. 97 abgeändert durch LGBl. 2003 Nr. 186 .\n99\nArt. 98 abgeändert durch LGBl. 2008 Nr. 145 .\n100\nArt. 99 abgeändert durch LGBl. 2003 Nr. 186 .\n101\nArt. 100 Abs. 1 abgeändert durch LGBl. 2003 Nr. 186 .\n102\nArt. 100 Abs. 2 abgeändert durch LGBl. 2003 Nr. 186 .\n103\nArt. 100 Abs. 3 abgeändert durch LGBl. 2003 Nr. 186 .\n104\nArt. 100 Abs. 4 abgeändert durch LGBl. 2011 Nr. 594 .\n105\nArt. 101 abgeändert durch LGBl. 2007 Nr. 346 .\n106\nArt. 101 Abs. 4 abgeändert durch LGBl. 2025 Nr. 15 .\n107\nÜberschrift vor Art. 102 abgeändert durch LGBl. 2025 Nr. 15 .\n108\nArt. 102 abgeändert durch LGBl. 2025 Nr. 15 .\n109\nArt. 103 abgeändert durch LGBl. 2003 Nr. 186 .\n110\nÜberschrift vor Art. 104 abgeändert durch LGBl. 2003 Nr. 186 .\n111\nArt. 104 Abs. 2 abgeändert durch LGBl. 2003 Nr. 186 .\n112\nArt. 105 abgeändert durch LGBl. 2025 Nr. 15 .\n113\nÜberschrift vor Art. 106 abgeändert durch LGBl. 2003 Nr. 186 .\n114\nArt. 106 abgeändert durch LGBl. 2008 Nr. 145 .\n115\nArt. 107 abgeändert durch LGBl. 2003 Nr. 186 .\n116\nArt. 108 abgeändert durch LGBl. 2003 Nr. 186 .\n117\nArt. 109 (109bis) eingefügt durch LGBl. 1964 Nr. 10 und abgeändert durch LGBl. 2003 Nr. 186 .\n118\nÜberschrift vor Art. 110 abgeändert durch LGBl. 2003 Nr. 186 .\n119\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n120\nArt. 111 (110bis) abgeändert durch LGBl. 2000 Nr. 55 und LGBl. 2003 Nr. 186 .\n121\nAuthentische Interpretation des Begriffs \"Landesangehörige\" durch LGBl. 1971 Nr. 22 .\n122\nÜberschrift vor Art. 112 eingefügt durch LGBl. 2003 Nr. 186 .\n123\nArt. 112 abgeändert durch LGBl. 2003 Nr. 186 .\n124\nArt. 113 abgeändert durch LGBl. 2003 Nr. 186 .\n125\nÜberschrift vor Art. 114 eingefügt durch LGBl. 2003 Nr. 186 .\n126\nArt. 114 abgeändert durch LGBl. 2003 Nr. 186 .\n127\nArt. 115 abgeändert durch LGBl. 2003 Nr. 186 .\n128\nInkrafttreten: 1. Januar 2026."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "li-konso-1995179000",
+  "type": "statute",
+  "title": "Gesetz vom 21. Juni 1995 über das vereinfachte Verfahren bei Übertretungen von Strassenverkehrsvorschriften (Ordnungsbussengesetz; OBG)",
+  "title_en": "",
+  "short_name": "OBG",
+  "status": "in_force",
+  "issued_date": "1995-06-21",
+  "in_force_date": "1995-06-21",
+  "url": "https://www.gesetze.li/konso/1995179000",
+  "description": "Gesetz vom 21. Juni 1995 über das vereinfachte Verfahren bei Übertretungen von Strassenverkehrsvorschriften (Ordnungsbussengesetz; OBG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Grundsatz; Bussenliste",
+      "content": "1) Übertretungen von Strassenverkehrsvorschriften können in einem vereinfachten Verfahren mit Ordnungsbussen bis zu 600 Franken geahndet werden (Ordnungsbussenverfahren).\n2) Die Regierung stellt mit Verordnung die Liste der Übertretungstatbestände auf, die durch Ordnungsbussen zu ahnden sind, und bestimmt den Bussenbetrag (Bussenliste).\n3) Vorleben und persönliche Verhältnisse des Täters werden nicht berücksichtigt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Ausschluss des Ordnungsbussenverfahrens",
+      "content": "Das Ordnungsbussenverfahren ist ausgeschlossen:\na) bei Widerhandlungen, durch die der Täter Personen verletzt oder Sachschaden verursacht hat;\nb) wenn dem Täter zusätzlich eine nicht in der Bussenliste (Art. 1 Abs. 2) aufgeführte Widerhandlung vorgeworfen wird."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Zusammentreffen mehrerer Übertretungen",
+      "content": "1) Es können gleichzeitig mehrere Widerhandlungen eines Täters mit einer Ordnungsbusse geahndet werden. Die Summe mehrerer Bussenbeträge darf aber 600 Franken nicht übersteigen.\n2) Lehnt der Täter das Ordnungsbussenverfahren für eine von mehreren ihm vorgeworfenen Übertretungen ab (Art. 7 Abs. 2), so wird auf alle Übertretungen das ordentliche Strafverfahren angewendet."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Zuständige Organe",
+      "content": "1) Zur Verhängung von Ordnungsbussen sind die Landespolizei und die Gemeindepolizei ermächtigt.\n2) Die Polizeibeamten können Ordnungsbussen in Dienstuniform oder in Zivil, die Gemeindepolizisten nur in Dienstuniform verhängen. Es gilt die Ausweispflicht."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Bezahlung der Busse",
+      "content": "1) Die Busse kann sofort oder innert 30 Tagen nach deren Verhängung bezahlt werden, andernfalls das ordentliche Strafverfahren eingeleitet wird.\n2) Bei der sofortigen Bezahlung erhält der Täter eine Quittung, die seinen Namen nicht nennen muss. Es dürfen keine Kosten erhoben werden.\n3) Mit der Bezahlung wird die Busse rechtskräftig; Art. 8 bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6 Ausländischer Wohnsitz",
+      "content": "Bezahlt ein Täter, der im Fürstentum Liechtenstein keinen Wohnsitz hat, die Busse nicht sofort, so hat er den Betrag zu hinterlegen oder eine andere angemessene Sicherheit zu leisten."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7 Ablehnung, Verzeigung",
+      "content": "1) Die Polizeibeamten und Gemeindepolizisten sind verpflichtet, dem Täter mitzuteilen, dass er das Ordnungsbussenverfahren ablehnen kann.\n2) Lehnt der Täter das Ordnungsbussenverfahren ab, so wird das ordentliche Strafverfahren eingeleitet."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8 Ordentliches Strafverfahren",
+      "content": "Stellt das Landgericht bei der Durchführung des ordentlichen Verfahrens fest, dass Art. 2 missachtet wurde, so hebt es die Ordnungsbusse auf und bestimmt gegebenenfalls die Strafe unter Berücksichtigung des bereits bezahlten Betrages."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Gesetz vom 27. September 1972 über das vereinfachte Verfahren bei Übertretungen von Strassenverkehrsvorschriften, LGBl. 1972 Nr. 52;\nb) Gesetz vom 15. November 1985 betreffend die Abänderung des Gesetzes über das vereinfachte Verfahren bei Übertretungen von Strassenverkehrsvorschriften, LGBl. 1985 Nr. 5."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Hans-Adam\ngez. Dr. Mario Frick\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

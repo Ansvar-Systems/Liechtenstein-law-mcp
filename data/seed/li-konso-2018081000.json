@@ -1,0 +1,221 @@
+{
+  "id": "li-konso-2018081000",
+  "type": "statute",
+  "title": "Gesetz vom 2. März 2018 über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Katastergesetz; ÖREBKG)",
+  "title_en": "",
+  "short_name": "ÖREBKG",
+  "status": "in_force",
+  "issued_date": "2018-03-02",
+  "in_force_date": "2018-03-02",
+  "url": "https://www.gesetze.li/konso/2018081000",
+  "description": "Gesetz vom 2. März 2018 über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Katastergesetz; ÖREBKG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Dieses Gesetz regelt den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (Kataster)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Zweck des Katasters",
+      "content": "Der Kataster soll zuverlässige Informationen über öffentlich-rechtliche Eigentumsbeschränkungen enthalten und diese öffentlich zugänglich machen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als:\na) \"Geodaten\": raumbezogene Daten, die mit einem bestimmten Zeitbezug die Ausdehnung und Eigenschaften bestimmter Räume und Objekte beschreiben;\nb) \"Geodatensatz\": eine identifizierbare Sammlung von Geodaten;\nc) \"Geodatendienste\": vernetzbare Anwendungen, welche die Nutzung von elektronischen Dienstleistungen im Bereich der Geodaten vereinfachen und Geodatensätze und Metadaten in strukturierter Form zugänglich machen;\nd) \"ÖREB-Fachstelle\": die für die Festlegung von öffentlich-rechtlichen Eigentumsbeschränkungen zuständige Stelle des Landes oder der Gemeinden;\ne) \"Geodatenmodelle\": Abbildungen der Wirklichkeit, welche Struktur und Inhalt von Geodaten systemunabhängig festlegen;\nf) \"Darstellungsmodelle\": Beschreibungen grafischer Darstellungen zur Veranschaulichung von Geodaten (z.B. in Form von Karten und Plänen).\n2) Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nII. Inhalt, Form und Wirkung des Katasters"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Inhalt, Form und Wirkung des Katasters",
+      "section": "4",
+      "title": "Art. 4 Inhalt",
+      "content": "1) Der Kataster umfasst öffentlich-rechtliche Eigentumsbeschränkungen, die nach den Vorschriften des Sachenrechts nicht im Grundbuch angemerkt werden.\n2) Der Kataster beinhaltet:\na) die von der Regierung mit Verordnung bezeichneten Geodaten;\nb) die Rechtsvorschriften, die zusammen mit den Geodaten als Einheit die Eigentumsbeschränkung unmittelbar umschreiben und für die das gleiche Verfahren massgebend ist;\nc) die Hinweise auf gesetzliche Grundlagen der Eigentumsbeschränkungen;\nd) weitere Informationen und Hinweise, die dem Verständnis der öffentlich-rechtlichen Eigentumsbeschränkungen dienen, soweit sie im Datenmodell nach der Geoinformationsgesetzgebung vorgesehen sind.\n3) Die Regierung regelt das Nähere über den Inhalt des Katasters mit Verordnung, insbesondere:\na) die Informationstiefe des Inhalts und die Anforderungen an die Daten- und Darstellungsmodelle;\nb) die Abbildung der Rechtsvorschriften und die Hinweise auf die gesetzlichen Grundlagen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Inhalt, Form und Wirkung des Katasters",
+      "section": "5",
+      "title": "Art. 5 Form",
+      "content": "Der Kataster wird in digitaler Form geführt und der Inhalt im Abrufverfahren oder auf eine andere Weise in elektronischer Form zugänglich gemacht."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Inhalt, Form und Wirkung des Katasters",
+      "section": "6",
+      "title": "Art. 6 Rechtswirkung",
+      "content": "Der Inhalt des Katasters gilt als bekannt."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Inhalt, Form und Wirkung des Katasters",
+      "section": "7",
+      "title": "Art. 7 Funktion als amtliches Publikationsorgan",
+      "content": "1) Dem Kataster kann für bestimmte öffentlich-rechtliche Eigentumsbeschränkungen die Funktion als amtliches Publikationsorgan zukommen.\n2) Die Regierung regelt das Nähere mit Verordnung."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Inhalt, Form und Wirkung des Katasters",
+      "section": "8",
+      "title": "Art. 8 Haftung",
+      "content": "Die Haftung für die Führung des Katasters richtet sich nach Art. 532 des Sachenrechts.\nIII. Aufnahme in den Kataster"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "III. Aufnahme in den Kataster",
+      "section": "9",
+      "title": "Art. 9 Bereitstellung von Daten",
+      "content": "1) Die zuständigen ÖREB-Fachstellen stellen der katasterverantwortlichen Stelle alle Daten nach Art. 4 zeitgerecht in der verlangten Qualität und Form zur Verfügung.\n2) Die Regierung regelt das Nähere über die Bereitstellung von Daten mit Verordnung."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Aufnahme in den Kataster",
+      "section": "10",
+      "title": "Art. 10 Prüfung von Daten",
+      "content": "1) Die katasterverantwortliche Stelle überprüft vor der Eintragung, ob die bereitgestellten Daten die qualitativen und technischen Anforderungen dieses Gesetzes, insbesondere nach Art. 4 und 9, erfüllen.\n2) Weist die Datenlieferung Mängel auf, lässt sie diese beheben, bevor sie die Daten in den Kataster aufnimmt.\n3) Die Regierung regelt das Nähere über die Prüfung von Daten mit Verordnung."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "III. Aufnahme in den Kataster",
+      "section": "11",
+      "title": "Art. 11 Aufnahme und Änderung",
+      "content": "1) Die bereitgestellten Daten werden nach Eintritt der Rechtskraft in den Kataster aufgenommen. Vorbehalten bleibt die Publikation nach Art. 7.\n2) Der Zeitpunkt der Eintragung und der letzten Änderung der Daten muss jederzeit ersichtlich sein.\n3) Für die Aufnahme in den Kataster legt die katasterverantwortliche Stelle in Absprache mit der zuständigen ÖREB-Fachstelle den Bearbeitungsablauf fest.\n4) Die Regierung regelt das Nähere über die Aufnahme und Änderung von Daten des Katasters mit Verordnung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Aufnahme in den Kataster",
+      "section": "12",
+      "title": "Art. 12 Vorpublikation laufender Änderungen",
+      "content": "1) Informationen über laufende Änderungen von öffentlich-rechtlichen Eigentumsbeschränkungen können mit dem Inhalt des Katasters verknüpft werden. Solche Informationen entfalten keine Rechtswirkung.\n2) Die Regierung regelt das Nähere über die Vorpublikation laufender Änderungen, insbesondere die betroffenen Geodatensätze, mit Verordnung.\nIV. Zugang zum Kataster"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "IV. Zugang zum Kataster",
+      "section": "13",
+      "title": "Art. 13 Auszug",
+      "content": "1) Ein Auszug besteht aus einer analogen oder digitalen Darstellung der Inhalte des Katasters über mindestens eine Liegenschaft oder ein selbstständiges und dauerndes Recht.\n2) Die Daten über öffentlich-rechtliche Eigentumsbeschränkungen werden der Informationsebene Liegenschaften der Amtlichen Vermessung überlagert.\n3) Der Auszug informiert darüber, welche Inhalte des Katasters dargestellt und welche Inhalte weggelassen werden.\n4) Die Regierung regelt das Nähere über die Erstellung und Darstellung von Auszügen mit Verordnung."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "IV. Zugang zum Kataster",
+      "section": "14",
+      "title": "Art. 14 Auszug mit reduzierter Information",
+      "content": "Wer einen Auszug bestellt, kann verlangen, dass folgende Inhalte weggelassen werden:\na) die Rechtsvorschriften;\nb) die vorpublizierten Daten nach Art. 12;\nc) die nicht im amtlichen Lagebezug dargestellten Daten."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "IV. Zugang zum Kataster",
+      "section": "15",
+      "title": "Art. 15 Geodatendienste",
+      "content": "1) Die Inhalte des Katasters, die im Lagebezugssystem der Amtlichen Vermessung vorliegen, werden durch einen Darstellungsdienst zugänglich gemacht.\n2) Die betroffenen Geodaten werden zusätzlich als Download-Dienst angeboten."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "IV. Zugang zum Kataster",
+      "section": "16",
+      "title": "Art. 16 Zusatzinformationen",
+      "content": "Zusätzlich zu den Inhalten des Katasters dürfen als unverbindliche Informationen andere von der Regierung mit Verordnung bezeichnete Geodaten nach der Geoinformationsgesetzgebung dargestellt werden.\nV. Organisation und Durchführung"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "V. Organisation und Durchführung",
+      "section": "17",
+      "title": "Art. 17 Katasterführung",
+      "content": "1) Katasterverantwortliche Stelle im Sinne dieses Gesetzes ist das Amt für Tiefbau und Geoinformation. Ihm obliegt die Führung des Katasters.\n2) Das Amt für Tiefbau und Geoinformation stellt die Kataster-Infrastruktur bereit, gewährleistet die Verfügbarkeit der Daten und macht den Kataster öffentlich zugänglich.\n3) Die Regierung ist ermächtigt, mit der Schweiz eine Vereinbarung über die Unterstützung und Kontrolle der Katasterführung abzuschliessen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "V. Organisation und Durchführung",
+      "section": "18",
+      "title": "Art. 18 Mitwirkung der Gemeinden",
+      "content": "Bei der Vorbereitung von Vorgaben der Regierung, die nicht ausschliesslich die Amtsstellen des Landes betreffen, stellt die Regierung auf geeignete Weise die Mitwirkung der Gemeinden sicher."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "V. Organisation und Durchführung",
+      "section": "19",
+      "title": "Art. 19 Datenbearbeitung durch Dritte",
+      "content": "1) Die zuständigen ÖREB-Fachstellen können für die Bereitstellung der Daten in ihrem Zuständigkeitsbereich Dritte beauftragen.\n2) Dritte, die im Auftrag der zuständigen ÖREB-Fachstelle Daten bearbeiten, prüfen die Daten in technischer Hinsicht und übermitteln sie der katasterverantwortlichen Stelle.\n3) Die Regierung regelt das Nähere über die Datenbearbeitung durch Dritte, insbesondere die Voraussetzung für die Beauftragung Dritter, mit Verordnung.\nVI. Finanzierung"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VI. Finanzierung",
+      "section": "20",
+      "title": "Art. 20 Kostentragung für die Erfassung und Nachführung der Daten",
+      "content": "1) Die Kosten für die Erfassung, Anpassung und Nachführung der Daten nach Art. 4 trägt die zuständige ÖREB-Fachstelle.\n2) Ergibt sich aus der Fachgesetzgebung keine zuständige ÖREB-Fachstelle, werden die Kosten von der katasterverantwortlichen Stelle getragen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "VI. Finanzierung",
+      "section": "21",
+      "title": "Art. 21 Kostentragung für den Betrieb des Katasters",
+      "content": "Das Land trägt die Kosten für:\na) die Führung des Katasters (Art. 17 Abs. 1);\nb) die Bereitstellung der Kataster-Infrastruktur und die Zugänglichmachung des Katasters (Art. 17 Abs. 2)."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "VI. Finanzierung",
+      "section": "22",
+      "title": "Art. 22 Gebühren",
+      "content": "1) Die katasterverantwortliche Stelle erhebt Gebühren für Amtshandlungen nach diesem Gesetz.\n2) Gebührenpflichtig ist, wer eine Amtshandlung veranlasst. Gegenüber inländischen Behörden wird keine Gebühr erhoben.\n3) Die Gebühren werden nach Aufwand berechnet.\n4) Die Regierung regelt das Nähere über die Gebührenerhebung, insbesondere die Aufwandsberechnung, mit Verordnung.\nVII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "23",
+      "title": "Art. 23 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "24",
+      "title": "Art. 24 Einführung des Katasters",
+      "content": "1) Die Regierung erstellt einen Zeitplan für die Einführung der Themen in den Kataster. Die zuständigen ÖREB-Fachstellen sind verpflichtet, die Daten nach Art. 4 zu erheben und rechtzeitig der katasterverantwortlichen Stelle bereitzustellen.\n2) Die Regierung legt den Zeitpunkt für die definitive Betriebsaufnahme des Katasters mit Verordnung fest. Diese erfolgt spätestens drei Jahre nach Inkrafttreten dieses Gesetzes."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "25",
+      "title": "Art. 25 Inkrafttreten",
+      "content": "Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. Juli 2018 in Kraft, andernfalls am Tag nach der Kundmachung.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 86/2017 und 3/2018\n2\nArt. 17 Abs. 1 abgeändert durch LGBl. 2022 Nr. 56 .\n3\nArt. 17 Abs. 2 abgeändert durch LGBl. 2022 Nr. 56 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Geodaten",
+      "definition": "raumbezogene Daten, die mit einem bestimmten Zeitbezug die Ausdehnung und Eigenschaften bestimmter Räume und Objekte beschreiben;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatensatz",
+      "definition": "eine identifizierbare Sammlung von Geodaten;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatendienste",
+      "definition": "vernetzbare Anwendungen, welche die Nutzung von elektronischen Dienstleistungen im Bereich der Geodaten vereinfachen und Geodatensätze und Metadaten in strukturierter Form zugänglich machen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "ÖREB-Fachstelle",
+      "definition": "die für die Festlegung von öffentlich-rechtlichen Eigentumsbeschränkungen zuständige Stelle des Landes oder der Gemeinden;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Geodatenmodelle",
+      "definition": "Abbildungen der Wirklichkeit, welche Struktur und Inhalt von Geodaten systemunabhängig festlegen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Darstellungsmodelle",
+      "definition": "Beschreibungen grafischer Darstellungen zur Veranschaulichung von Geodaten (z.B. in Form von Karten und Plänen).",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": "li-konso-2015007000",
+  "type": "statute",
+  "title": "Gesetz vom 4. Dezember 2014 über die Umsetzung des FATCA-Abkommens zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika (FATCA-Gesetz)",
+  "title_en": "",
+  "short_name": "FATCA-Gesetz",
+  "status": "in_force",
+  "issued_date": "2014-12-04",
+  "in_force_date": "2014-12-04",
+  "url": "https://www.gesetze.li/konso/2015007000",
+  "description": "Gesetz vom 4. Dezember 2014 über die Umsetzung des FATCA-Abkommens zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika (FATCA-Gesetz)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Dieses Gesetz regelt die Umsetzung des Abkommens vom 16. Mai 2014 zwischen der Regierung des Fürstentums Liechtenstein und der Regierung der Vereinigten Staaten von Amerika zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten und hinsichtlich der als Gesetz über die Steuerehrlichkeit bezüglich Auslandskonten bekannten US-amerikanischen Informations- und Meldebestimmungen (FATCA-Abkommen), insbesondere: a) die Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften;\nb) die Rechte der meldepflichtigen spezifizierten Personen der Vereinigten Staaten und der Rechtsträger, die Kontoinhaber sind;\nc) die Weiterleitung der Informationen durch die Steuerverwaltung;\nd) die Vertraulichkeit, Datenverarbeitung und Datensicherheit;\ne) die anwendbaren Verfahren;\nf) die Strafbestimmungen;\ng) die Behördenzusammenarbeit."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Die in diesem Gesetz verwendeten Begriffe sind im Sinne des FATCA-Abkommens zu verstehen. Dies betrifft insbesondere die folgenden Begriffe: a) zuständige US-amerikanische Behörde (\"U.S. Competent Authority\") nach Art. 1 Abs. 1 Bst. f Ziff. 1 des FATCA-Abkommens;\nb) Finanzinstitut (\"Financial Institution\") nach Art. 1 Abs. 1 Bst. g des FATCA-Abkommens;\nc) liechtensteinisches Finanzinstitut (\"Liechtenstein Financial Institution\") nach Art. 1 Abs. 1 Bst. l des FATCA-Abkommens;\nd) meldendes liechtensteinisches Finanzinstitut (\"Reporting Liechtenstein Financial Institution\") nach Art. 1 Abs. 1 Bst. o des FATCA-Abkommens;\ne) nicht teilnehmendes Finanzinstitut (\"Nonparticipating Financial Institution\") nach Art. 1 Abs. 1 Bst. r des FATCA-Abkommens;\nf) US-amerikanisches meldepflichtiges Konto (\"U.S. Reportable Account\") nach Art. 1 Abs. 1 Bst. cc des FATCA-Abkommens;\ng) spezifizierte Person der Vereinigten Staaten (\"Specified U.S. Person\") nach Art. 1 Abs. 1 Bst. ff des FATCA-Abkommens;\ng ) Rechtsträger (\"Entity\") nach Art. 1 Abs. 1 Bst. gg des FATCA-Abkommens;\nh) abzugssteuerpflichtige Zahlung aus US-amerikanischer Quelle (\"U.S. Source Withholdable Payment\") nach Art. 1 Abs. 1 Bst. ii des FATCA-Abkommens;\ni) US-amerikanische Steueridentifikationsnummer (\"U.S. TIN\") nach Art. 1 Abs. 1 Bst. kk des FATCA-Abkommens;\nk) Trust nach Anlage II Abschnitt VI Unterabschnitt C des FATCA-Abkommens und im Sinne der Einvernehmenserklärung (\"Memorandum of Understanding\") zum FATCA-Abkommen.\n2) Im Sinne des FATCA-Abkommens und dieses Gesetzes umfasst: a) Trustee nach Anlage II Abschnitt IV Unterabschnitt A des FATCA-Abkommens insbesondere: 1. eine Treuhandgesellschaft im Sinne des Treuhändergesetzes (TrHG);\n2. eine Treuhandgesellschaft nach Ziff. 1, für deren Rechnung ein Mitarbeiter oder eine in die Organisation ihres Betriebes eingegliederte Person mit einer Treuhänderbewilligung nach dem TrHG Tätigkeiten nach Art. 2 Bst. a oder b TrHG ausübt;\n3. eine Treuhandgesellschaft nach Ziff. 1, für deren Rechnung ein Mitarbeiter oder eine in die Organisation ihres Betriebes eingegliederte Person mit einer Bewilligung nach dem Gesetz betreffend die Aufsicht über Personen nach Art. 180a des Personen‐ und Gesellschaftsrechts (PGR) Tätigkeiten nach Art. 180a PGR ausübt; und\n4. einen Rechtsträger, für dessen Rechnung ein nach dem Gesetz betreffend die Aufsicht über Personen nach Art. 180a des Personen‐ und Gesellschaftsrechts mit einer Bewilligung zur selbständigen Ausübung von Tätigkeiten nach Art. 180a PGR ausgestatteter Mitarbeiter Verwaltungsmandate nach Art. 180a PGR übernimmt;\nb) ein nach liechtensteinischem Recht errichteter Trust (\"a trust established under the laws of Liechtenstein\") nach Anlage II Abschnitt IV Unterabschnitt A des FATCA-Abkommens sowie im Sinne der Einvernehmenserklärung: einen nach liechtensteinischem Recht errichteten Trust und einen in Liechtenstein ansässigen Trust;\nc) ein in Liechtenstein gegründetes Investmentunternehmen (\"an Investment Entity established in Liechtenstein\") nach Anlage II Abschnitt IV Unterabschnitt B Ziff. 1 Bst. a des FATCA-Abkommens: ein nach liechtensteinischem Recht gegründetes Investmentunternehmen und ein in Liechtenstein ansässiges Investmentunternehmen.\n2a) Im Sinne dieses Gesetzes gelten als: a) vertretungsbefugte Organe: sämtliche zur Vertretung nach aussen berufenen Organe eines liechtensteinischen Rechtsträgers ohne Rücksicht auf die Art des jeweiligen Zeichnungsrechtes und die Zahl der vertretungsbefugten Organe;\nb) Löschung: die im Handelsregister vorgenommene Löschung eines Rechtsträgers oder die Beendigung eines nicht im Handelsregister eingetragenen Rechtsträgers;\nc) Dienstleister für Rechtsträger: ein Dienstleister für Rechtsträger nach Art. 3 Abs. 1 Bst. k Ziff. 2 und 4 des Sorgfaltspflichtgesetzes;\nd) Fonds-Verwaltungsgesellschaft: 1. eine Verwaltungsgesellschaft eines Organismus für gemeinsame Anlagen nach dem Gesetz über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren oder nach dem Investmentunternehmensgesetz;\n2. ein Verwalter alternativer Investmentfonds nach dem Gesetz über die Verwalter alternativer Investmentfonds.\n3) Bei der Durchführung des FATCA-Abkommens und dieses Gesetzes kann anstelle einer Begriffsbestimmung des FATCA-Abkommens und dieses Gesetzes eine entsprechende Begriffsbestimmung aus den einschlägigen Ausführungsbestimmungen des Finanzministeriums der Vereinigten Staaten verwendet werden, sofern diese Anwendung dem Zweck des FATCA-Abkommens nicht entgegensteht.\n4) Soweit dieses Gesetz nichts anderes bestimmt, ist die Steuerverwaltung die nach dem FATCA-Abkommen zuständige liechtensteinische Behörde.\n5) Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen.\nII. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften"
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "2a",
+      "title": "Art. 2a Klassifizierungs-, Mitteilungs- und Dokumentationspflicht",
+      "content": "1) Liechtensteinische Rechtsträger haben sich für Zwecke des FATCA-Abkommens und dieses Gesetzes zu klassifizieren als: a) meldendes Finanzinstitut oder nicht meldendes Finanzinstitut, wenn sie sich als Finanzinstitut klassifizieren;\nb) aktive oder passive NFFE, wenn sie sich nicht als Finanzinstitut klassifizieren.\n2) Die Klassifizierung nach Abs. 1 und deren Änderungen sind unverzüglich vorzunehmen und den jeweils meldenden liechtensteinischen Finanzinstituten mitzuteilen.\n3) Die Klassifizierung nach Abs. 1 und deren Änderungen sind vom liechtensteinischen Rechtsträger zu dokumentieren. Für die Dokumentation gilt Folgendes: a) Die Dokumentation hat die unternommenen Schritte, die zur Klassifizierung geführt haben, zu enthalten und ist so aufzubewahren, dass sie der Steuerverwaltung beziehungsweise den von ihr beauftragten Dritten jederzeit zur Verfügung steht.\nb) Die Dokumentation ist während zehn Jahren nach Löschung des liechtensteinischen Rechtsträgers an einer von diesem zu bezeichnenden Stelle so aufzubewahren, dass sie der Steuerverwaltung beziehungsweise den von ihr beauftragten Dritten jederzeit zur Verfügung steht. Die Aufbewahrungsstelle ist der Steuerverwaltung vor Löschung des liechtensteinischen Rechtsträgers mitzuteilen."
+    },
+    {
+      "provision_ref": "art2b",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "2b",
+      "title": "Art. 2b Aktive NFFE",
+      "content": "Liechtensteinische Rechtsträger, die als aktive NFFE klassifizieren, haben vorbehaltlich der Klassifizierungs-, Mitteilungs- und Dokumentationspflicht nach Art. 2a keine Pflichten nach diesem Gesetz."
+    },
+    {
+      "provision_ref": "art2c",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "2c",
+      "title": "Art. 2c Passive NFFE",
+      "content": "1) Liechtensteinische passive NFFE haben den jeweils meldenden liechtensteinischen Finanzinstituten unverzüglich und unaufgefordert alle beherrschenden Personen einschliesslich der auszutauschenden Informationen nach Art. 2 Abs. 2 Bst. a Ziff. 1 des FATCA-Abkommens mitzuteilen.\n2) Liechtensteinische passive NFFE haben angemessene Anstrengungen zu unternehmen, um die Steueridentifikationsnummer(n) der beherrschenden Personen und, im Falle einer natürlichen Person, das Geburtsdatum für Zwecke der Mitteilung nach Abs. 1 zu beschaffen.\n3) Änderungen der mitgeteilten Informationen nach Abs. 1 sind den meldenden liechtensteinischen Finanzinstituten unverzüglich mitzuteilen.\n4) Liechtensteinische passive NFFE sind für die Richtigkeit und Vollständigkeit der mitgeteilten Informationen verantwortlich. Meldende liechtensteinische Finanzinstitute haben von der Richtigkeit und Vollständigkeit der mitgeteilten Informationen auszugehen.\n5) Kommt ein liechtensteinischer passiver NFFE der Mitteilungspflicht nicht unverzüglich nach, so haben meldende liechtensteinische Finanzinstitute von der Richtigkeit und Vollständigkeit der auszutauschenden Informationen, die ihnen vorliegen, auszugehen. Meldende liechtensteinische Finanzinstitute haben diese passiven NFFE unverzüglich der Steuerverwaltung zu melden."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "3",
+      "title": "Art. 3 Registrierungspflicht",
+      "content": "1) Meldende liechtensteinische Finanzinstitute müssen den Registrierungspflichten auf der IRS FATCA registration website nachkommen.\n2) Meldende liechtensteinische Finanzinstitute müssen sich ausserdem nach Abschluss ihrer Klassifizierung unverzüglich und unaufgefordert bei der Steuerverwaltung registrieren.\n3) Änderungen der nach Abs. 2 registrierten Daten sind der Steuerverwaltung unverzüglich mitzuteilen.\n4) Endet die Eigenschaft als meldendes liechtensteinisches Finanzinstitut, so hat sich das Finanzinstitut bei der Steuerverwaltung unaufgefordert abzumelden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "4",
+      "title": "Art. 4 FATCA-Sorgfaltspflichten",
+      "content": "1) Meldende liechtensteinische Finanzinstitute müssen US-amerikanische meldepflichtige Konten und Konten nicht teilnehmender Finanzinstitute identifizieren. Bei der Identifizierung sind die in Anlage I des FATCA-Abkommens enthaltenen Verfahren zur Erfüllung der FATCA-Sorgfaltspflichten anzuwenden.\n2) Meldenden liechtensteinischen Finanzinstituten steht das Wahlrecht nach Anlage I Abschnitt II bis V jeweils Unterabschnitt A des FATCA-Abkommens zu.\n3) Anstelle der in Anlage I des FATCA-Abkommens beschriebenen Verfahren können meldende liechtensteinische Finanzinstitute für FATCA-Zwecke anhand der in den einschlägigen Ausführungsbestimmungen des Finanzministeriums der Vereinigten Staaten beschriebenen Verfahren feststellen, ob ein Konto ein US-amerikanisches meldepflichtiges Konto oder ein Konto eines nicht teilnehmenden Finanzinstituts ist. Meldende liechtensteinische Finanzinstitute können diese Entscheidung für jeden Abschnitt der Anlage I des FATCA-Abkommens entweder im Hinblick auf alle erheblichen Finanzkonten oder im Hinblick auf eine genau bestimmte Gruppe solcher Konten treffen.\n4) Meldende liechtensteinische Finanzinstitute können sich zur Erfüllung der FATCA-Sorgfaltspflichten auf von Dritten angewandte Verfahren stützen, soweit dies in den einschlägigen Ausführungsbestimmungen des Finanzministeriums der Vereinigten Staaten vorgesehen ist.\n5) Meldende liechtensteinische Finanzinstitute sind verpflichtet, die zur Durchführung der FATCA-Sorgfaltspflichten unternommenen Schritte und herangezogenen Nachweise zu dokumentieren. Die Dokumentation ist während zehn Jahren ab dem Ende der Meldeperiode, für die letztmalig eine Meldung nach Art. 5 zu erstatten war, so aufzubewahren, dass sie der Steuerverwaltung beziehungsweise den von ihr beauftragten Dritten jederzeit zur Verfügung steht. Bei Löschung eines meldenden liechtensteinischen Finanzinstituts findet Art. 2a Abs. 3 Bst. b sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "5",
+      "title": "Art. 5 Meldepflicht",
+      "content": "1) Meldende liechtensteinische Finanzinstitute haben vorbehaltlich Art. 4 Abs. 6 Bst. a des FATCA-Abkommens in Bezug auf jedes US-amerikanische meldepflichtige Konto die nach Art. 2 Abs. 2 Bst. a des FATCA-Abkommens meldepflichtigen Informationen für den in Art. 3 des FATCA-Abkommens genannten Zeitraum und in der dort genannten Form der Steuerverwaltung zu melden.\n2) Meldende liechtensteinische Finanzinstitute haben in Bezug auf meldepflichtige Konten, die ab 30. Juni 2014 geführt werden, bis zum 31. Dezember 2016 die US-amerikanische Steueridentifikationsnummer jeder spezifizierten Person der Vereinigten Staaten zu beschaffen.\n3) Meldende liechtensteinische Finanzinstitute haben für die Jahre 2015 und 2016 den Namen jedes nicht teilnehmenden Finanzinstituts, an das sie im entsprechenden Jahr Zahlungen geleistet haben, sowie den Gesamtbetrag dieser Zahlungen zu melden.\n4) Ausländische Rechtsträger, die Verpflichtungen nach dem FATCA-Abkommen und diesem Gesetz haben oder übernommen haben, müssen für Meldungen an die Steuerverwaltung einen inländischen Zustellungsbevollmächtigten namhaft machen.\n5) Meldungen an die Steuerverwaltung haben innerhalb von sechs Monaten nach Ablauf des jeweiligen Kalenderjahres entsprechend den Vorgaben der Steuerverwaltung zu erfolgen. Wird diese Frist versäumt, so ist die Meldung unverzüglich nach Feststellung des Versäumnisses nachzuholen.\n6) Sind bereits an die Steuerverwaltung übermittelte Informationen zu berichtigen oder zu löschen, so übermittelt das meldende liechtensteinische Finanzinstitut die berichtigten Informationen oder die Löschungsmeldung unverzüglich der Steuerverwaltung.\n7) Meldende liechtensteinische Finanzinstitute sind verpflichtet, die auszutauschenden Informationen bis zum Ablauf der maximalen Verjährungsfristen nach Art. 22 so aufzubewahren, dass sie der Steuerverwaltung beziehungsweise den von ihr beauftragten Dritten jederzeit zur Verfügung stehen. Vorbehaltlich sonstiger Rechtsvorschriften sind die auszutauschenden Informationen, welche der Steuerverwaltung übermittelt wurden, nach Ablauf der Verjährungsfristen zu vernichten. Bei Löschung eines meldenden liechtensteinischen Finanzinstituts findet Art. 2a Abs. 3 Bst. b sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art5a",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "5a",
+      "title": "Art. 5a Informationspflicht der meldenden liechtensteinischen Finanzinstitute und Weiterleitungspflicht der Rechtsträger",
+      "content": "1) Meldende liechtensteinische Finanzinstitute sind verpflichtet, meldepflichtige spezifizierte Personen der Vereinigten Staaten und Rechtsträger, die Kontoinhaber sind, spätestens am 31. März des Jahres, in dem erstmals sie betreffende Informationen an die Steuerverwaltung übermittelt werden, zu informieren über: a) ihre Eigenschaft als meldendes liechtensteinisches Finanzinstitut;\nb) das FATCA-Abkommen, deren Inhalt und deren Zweck;\nc) die aufgrund des FATCA-Abkommens auszutauschenden Informationen;\nd) die zulässige Nutzung der auszutauschenden Informationen nach Art. 8a und 8b;\ne) die Rechte der meldepflichtigen spezifizierten Personen der Vereinigten Staaten und der Rechtsträger, die Kontoinhaber sind, nach der Datenschutzgesetzgebung unter Beachtung der besonderen Bestimmungen dieses Gesetzes, insbesondere das Auskunftsrecht sowie das Recht auf Berichtigung oder Löschung unrichtiger Daten.\n2) Meldende liechtensteinische Finanzinstitute sind verpflichtet, meldepflichtige spezifizierte Personen der Vereinigten Staaten und Rechtsträger, die Kontoinhaber sind, über jede Änderung der nach Abs. 1 erteilten Informationen spätestens am 31. März des Jahres, in dem erstmals sie betreffende geänderte Informationen an die Steuerverwaltung übermittelt werden, zu informieren.\n2a) Ist eine Meldung nach Art. 5 Abs. 5 nachzuholen, so sind die meldepflichtigen spezifizierten Personen der Vereinigten Staaten und die Rechtsträger, die Kontoinhaber sind, vor oder gleichzeitig mit Erstattung dieser Meldung nach Massgabe von Abs. 1 und 2 zu informieren.\n3) Bei einem Rechtsträger, der Kontoinhaber ist und für den eine oder mehrere beherrschende Personen ermittelt wurden, erfolgt die Zustellung der Information der meldepflichtigen spezifizierten Personen der Vereinigten Staaten an den Rechtsträger. Liechtensteinische Rechtsträger haben die Information den meldepflichtigen spezifizierten Personen der Vereinigten Staaten unverzüglich weiterzuleiten.\n4) Bei meldepflichtigen Konten, die geschlossen worden sind, erfolgt die Information einmalig an die letzte bekannte Adresse. Bei nachrichtenlosen Konten kann die Information ausbleiben.\n5) Informationen nach Abs. 1 bis 2a sind zu dokumentieren. Die Dokumentation ist während zehn Jahren so aufzubewahren, dass sie der Steuerverwaltung beziehungsweise den von ihr beauftragten Dritten jederzeit zur Verfügung steht. Bei Löschung eines meldenden liechtensteinischen Finanzinstituts findet Art. 2a Abs. 3 Bst. b sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "6",
+      "title": "Art. 6 Inanspruchnahme von Fremddienstleistern",
+      "content": "Liechtensteinische Rechtsträger können zur Erfüllung ihrer Verpflichtungen, die ihnen durch das FATCA-Abkommen und dieses Gesetz auferlegt werden, Fremddienstleister in Anspruch nehmen. Die Verantwortung für die Erfüllung der Verpflichtungen liegt weiterhin bei den liechtensteinischen Rechtsträgern."
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "6a",
+      "title": "Art. 6a Erfüllung der Pflichten bei gelöschten liechtensteinischen Rechtsträgern",
+      "content": "1) Bei gelöschten liechtensteinischen Rechtsträgern sind die letzten vertretungsbefugten Organe solidarisch für die nachträgliche Erfüllung der Pflichten nach dem FATCA-Abkommen und diesem Gesetz für den gelöschten liechtensteinischen Rechtsträger verantwortlich.\n2) Bei mehreren letzten vertretungsbefugten Organen bestimmt die Steuerverwaltung das Organ, welches die Pflichten nach Abs. 1 für den gelöschten liechtensteinischen Rechtsträger nachträglich zu erfüllen hat. Die Kosten für allfällige Aufwendungen tragen die letzten vertretungsbefugten Organe solidarisch.\n3) Können die letzten vertretungsbefugten Organe die Pflichten nach Abs. 1 aus triftigen Gründen nicht erfüllen, so bestimmt die Steuerverwaltung einen Dritten, der die Pflichten für den gelöschten liechtensteinischen Rechtsträger nachträglich zu erfüllen hat. Die Kosten des Dritten für die nachträgliche Pflichterfüllung trägt das Land."
+    },
+    {
+      "provision_ref": "art6b",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "6b",
+      "title": "Art. 6b Interne Organisation für FATCA-Zwecke",
+      "content": "1) Liechtensteinische Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften müssen die für die Umsetzung des FATCA-Abkommens und dieses Gesetzes notwendigen organisatorischen Massnahmen treffen.\n2) Die interne Organisation muss den Umständen und den individuellen Risiken entsprechend je nach Art und Grösse des liechtensteinischen Finanzinstituts, des Dienstleisters für Rechtsträger oder der Fonds-Verwaltungsgesellschaft ausgestaltet sein."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Pflichten liechtensteinischer Rechtsträger, Finanzinstitute, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften",
+      "section": "7",
+      "title": "Art. 7 Quellensteuer und Bereitstellung von Informationen",
+      "content": "1) Meldende liechtensteinische Finanzinstitute nach Art. 4 Abs. 1 Bst. d des FATCA-Abkommens behalten von allen abzugssteuerpflichtigen Zahlungen aus US-amerikanischen Quellen an nicht teilnehmende Finanzinstitute 30 % ein.\n2) Ein meldendes liechtensteinisches Finanzinstitut, das nicht unter Art. 4 Abs. 1 Bst. d des FATCA-Abkommens fällt und das in Bezug auf eine abzugssteuerpflichtige Zahlung aus US-amerikanischer Quelle an ein nicht teilnehmendes Finanzinstitut eine Zahlung leistet oder diesbezüglich als Intermediär auftritt, hat jedem unmittelbar Zahlenden einer solchen abzugssteuerpflichtigen Zahlung aus US-amerikanischer Quelle die Informationen zur Verfügung zu stellen, die für den Steuerabzug und die Meldung in Bezug auf diese Zahlung erforderlich sind.\nIIa. Rechte der meldepflichtigen spezifizierten Personen der Vereinigten Staaten und der Rechtsträger, die Kontoinhaber sind"
+    },
+    {
+      "provision_ref": "art7a",
+      "chapter": "IIa. Rechte der meldepflichtigen spezifizierten Personen der Vereinigten Staaten und der Rechtsträger, die Kontoinhaber sind",
+      "section": "7a",
+      "title": "Art. 7a Rechte gegenüber meldenden liechtensteinischen Finanzinstituten und der Steuerverwaltung",
+      "content": "1) In Bezug auf auszutauschende Informationen, die von meldenden liechtensteinischen Finanzinstituten oder der Steuerverwaltung verarbeitet werden, stehen den meldepflichtigen spezifizierten Personen der Vereinigten Staaten und den Rechtsträgern, die Kontoinhaber sind, die Rechte nach der Datenschutzgesetzgebung und den besonderen Bestimmungen dieses Gesetzes zu.\n2) Eine Berichtigung oder Löschung unrichtiger auszutauschender Informationen, einschliesslich personenbezogener Daten, ist gegenüber dem meldenden liechtensteinischen Finanzinstitut geltend zu machen. Wird ein Antrag auf Berichtigung oder Löschung bei der Steuerverwaltung eingereicht, so leitet sie diesen unverzüglich an das betroffene meldende liechtensteinische Finanzinstitut weiter und informiert den Antragsteller.\n3) Eine Berichtigung oder Löschung nach Abs. 2 kann nur verlangt werden, wenn der Antragsteller durch Vorlage entsprechender Unterlagen nachweist, dass die nach dem FATCA-Abkommen und diesem Gesetz auszutauschenden Informationen unrichtig sind.\n4) Anträgen auf eine Berichtigung oder Löschung nach Abs. 2, die nach dem 31. Mai des Kalenderjahres, in dem die Meldung an die Steuerverwaltung erfolgt, eingehen, kann vom meldenden liechtensteinischen Finanzinstitut aufgrund der erforderlichen Prüfung und Plausibilisierung der Anträge regelmässig nur durch nachträgliche Berichtigung oder Löschung der an die Steuerverwaltung übermittelten Informationen nachgekommen werden.\n5) Im Falle einer Klage und einstweiligen Verfügung (sichernde Massnahme) in Bezug auf die Rechte nach Abs. 1 und 2 ist das meldende liechtensteinische Finanzinstitut erst nach rechtskräftigem Abschluss des jeweiligen Hauptverfahrens verpflichtet, die entsprechenden Informationen an die Steuerverwaltung zu melden. Dies gilt sinngemäss für die Übermittlung der Informationen durch die Steuerverwaltung nach Art. 8 Abs. 1."
+    },
+    {
+      "provision_ref": "art7b",
+      "chapter": "IIa. Rechte der meldepflichtigen spezifizierten Personen der Vereinigten Staaten und der Rechtsträger, die Kontoinhaber sind",
+      "section": "7b",
+      "title": "Art. 7b",
+      "content": "Aufgehoben\nIII. Weiterleitung der Informationen durch die Steuerverwaltung"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III. Weiterleitung der Informationen durch die Steuerverwaltung",
+      "section": "8",
+      "title": "Art. 8 Grundsatz",
+      "content": "1) Die Steuerverwaltung übermittelt die in Art. 2 des FATCA-Abkommens genannten Informationen in einem automatisierten Verfahren nach Art. 5a des Übereinkommens vom 8. Dezember 2008 zwischen der Regierung des Fürstentums Liechtenstein und der Regierung der Vereinigten Staaten von Amerika über die Zusammenarbeit und den Informationsaustausch in Steuersachen (im Folgenden \"Übereinkommen\") innerhalb von neun Monaten nach Ablauf des jeweiligen Kalenderjahres an die zuständige US-amerikanische Behörde.\n2) Die Steuerverwaltung ist nicht verpflichtet, Informationen weiterzuleiten, wenn die Übermittlung der öffentlichen Ordnung (ordre public) des Fürstentums Liechtenstein widerspricht.\n3) Die Steuerverwaltung hat die ausgetauschten Informationen bis zum Ablauf der maximalen Verjährungsfristen nach Art. 22 aufzubewahren. Die ausgetauschten Informationen sind nach Ablauf der maximalen Verjährungsfristen zu vernichten.\nIIIa. Vertraulichkeit, Datenverarbeitung und Datensicherheit"
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "IIIa. Vertraulichkeit, Datenverarbeitung und Datensicherheit",
+      "section": "8a",
+      "title": "Art. 8a Vertraulichkeit",
+      "content": "1) Sämtliche auszutauschenden Informationen, welche die zuständige US-amerikanische Behörde erhält, sind vertraulich zu behandeln.\n2) Diese Informationen dürfen nur den Personen oder Behörden (einschliesslich der Gerichte und der Verwaltungsbehörden) offengelegt werden, die mit der Veranlagung oder Erhebung, der Vollstreckung oder Verfolgung sowie der Behandlung von Beschwerden in Bezug auf Steuern, welche unter das Übereinkommen fallen, befassen, einschliesslich der Aufsichtsbehörden. In jedem Fall darf die Offenlegung nur so weit gehen, als dies zur Erfüllung der Pflichten dieser Personen, Behörden oder Aufsichtsbehörden notwendig ist, und diese Personen oder Behörden dürfen die Informationen nur für solche Zwecke verwenden. Sie dürfen die Informationen in öffentlichen Gerichtsverfahren oder in Gerichtsentscheiden offenlegen.\n3) Die Informationen dürfen nicht anderen Personen, Rechtsträgern oder Behörden offengelegt werden oder für andere als die in Art. 2 aufgeführten Zwecke verwendet werden, ausser wenn die Steuerverwaltung im Voraus schriftlich einwilligt, dass die Informationen auch für Zwecke verwendet werden dürfen, die in den Bestimmungen des bestehenden des Vertrags vom 8. Juli 2002 zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika betreffend die internationale Rechtshilfe in Strafsachen genannt sind, das den Austausch von bestimmten Steuerinformationen gestattet."
+    },
+    {
+      "provision_ref": "art8b",
+      "chapter": "IIIa. Vertraulichkeit, Datenverarbeitung und Datensicherheit",
+      "section": "8b",
+      "title": "Art. 8b Verbot der Weiterleitung der ausgetauschten Informationen an Drittstaaten",
+      "content": "Die Weiterleitung von ausgetauschten Informationen an Drittstaaten ist unzulässig. Die Steuerverwaltung teilt dies der zuständigen US-amerikanischen Behörde mit."
+    },
+    {
+      "provision_ref": "art8c",
+      "chapter": "IIIa. Vertraulichkeit, Datenverarbeitung und Datensicherheit",
+      "section": "8c",
+      "title": "Art. 8c Datenverarbeitung",
+      "content": "Die Steuerverwaltung darf personenbezogene Daten, einschliesslich personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, verarbeiten oder verarbeiten lassen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist. Sie kann zu diesem Zweck ein Informationssystem betreiben."
+    },
+    {
+      "provision_ref": "art8d",
+      "chapter": "IIIa. Vertraulichkeit, Datenverarbeitung und Datensicherheit",
+      "section": "8d",
+      "title": "Art. 8d Sicherheitsverletzungen",
+      "content": "1) Die Steuerverwaltung unterrichtet meldende liechtensteinische Finanzinstitute über eine Sicherheitsverletzung betreffend Informationen, die bei der Steuerverwaltung verarbeitet werden, wenn durch diese Sicherheitsverletzung voraussichtlich ein hohes Risiko für die persönlichen Rechte und Freiheiten von natürlichen Personen oder die Rechte von Rechtsträgern zu erwarten ist.\n2) Abs. 1 gilt sinngemäss bei einer Sicherheitsverletzung betreffend Informationen, die bei der zuständigen US-amerikanischen Behörde verarbeitet werden, sofern die Steuerverwaltung hierüber benachrichtigt wird.\n3) Meldende liechtensteinische Finanzinstitute sind verpflichtet, meldepflichtige spezifizierte Personen der Vereinigten Staaten und Rechtsträger, die Kontoinhaber sind, unverzüglich über eine Sicherheitsverletzung nach Abs. 1 und 2 zu informieren.\n4) Art. 5a Abs. 3 findet sinngemäss Anwendung.\n5) Die Steuerverwaltung informiert die Datenschutzstelle über eine Sicherheitsverletzung nach Abs. 1 und 2, sofern diese Sicherheitsverletzung voraussichtlich ein Risiko für die persönlichen Rechte und Freiheiten von natürlichen Personen zur Folge hat.\nIV. Verfahrensbestimmungen"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "9",
+      "title": "Art. 9 Organisation und Verfahren",
+      "content": "1) Aufgehoben\n2) Aufgehoben\n3) Die Steuerverwaltung erlässt alle Verfügungen und trifft alle Entscheidungen, die für die Anwendung des FATCA-Abkommens und dieses Gesetzes notwendig sind.\n4) Sie kann die Verwendung bestimmter Formulare in elektronischer Form vorschreiben."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "10",
+      "title": "Art. 10 Auskunftspflicht",
+      "content": "1) Liechtensteinische Rechtsträger, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften haben der Steuerverwaltung sowie den unabhängigen Dritten (Art. 11) Auskunft über alle Tatsachen zu erteilen, die für die Umsetzung des FATCA-Abkommens und dieses Gesetzes notwendig sind.\n2) Bei gelöschten liechtensteinischen Rechtsträgern haben die ehemaligen vertretungsbefugten Organe, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften die Auskünfte nach Abs. 1 zu erteilen. Die Auskunftspflicht gilt auch gegenüber den von der Steuerverwaltung bestimmten Dritten (Art. 6a Abs. 3). Die Aufbewahrungsstellen (Art. 2a Abs. 3 Bst. b) haben entsprechenden Zugang zur aufbewahrten Dokumentation zu gewähren.\n3) Gesetzliche Vorschriften über Daten-, Berufs- oder Geschäftsgeheimnisse stehen der Herausgabe der Informationen nach Abs. 1 und 2 nicht entgegen, ausser es handelt sich um Informationen, die vom Geheimnisschutz nach § 108 Abs. 1 Ziff. 2 StPO erfasst sind und deren Herausgabe eine unzulässige Umgehung des Geheimnisschutzes im Sinne von § 108 Abs. 3 StPO bedeuten würde. Liechtensteinische Rechtsträger, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften sind im entsprechenden Umfang von ihren Geheimhaltungspflichten entbunden. Dies gilt auch für Meldungen, die liechtensteinische Finanzinstitute gestützt auf ein Qualified-Intermediary-Abkommen an die US-amerikanische Steuerbehörde zu übermitteln haben.\n4) Die Kosten für die Erteilung von Auskünften werden nicht erstattet."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "11",
+      "title": "Art. 11 Kontrolle",
+      "content": "1) Liechtensteinische Rechtsträger, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften unterliegen zur Überprüfung der Erfüllung ihrer Pflichten nach dem FATCA-Abkommen und diesem Gesetz risikobasierten Kontrollen.\n1a) Bei liechtensteinischen Rechtsträgern, die von Dienstleistern für Rechtsträger oder Fonds-Verwaltungsgesellschaften verwaltet werden, können die Kontrollen konsolidiert beim Dienstleister für Rechtsträger beziehungsweise bei der Fonds-Verwaltungsgesellschaft durchgeführt werden.\n1b) Die Kontrollen nach Abs. 1 und 1a erfolgen durch die Steuerverwaltung oder durch von ihr beauftragte unabhängige Dritte.\n2) Als unabhängige Dritte qualifizieren ausschliesslich Wirtschaftsprüfer, Wirtschaftsprüfungsgesellschaften und spezialgesetzliche Revisionsstellen im Sinne von Art. 26 Abs. 1 des Sorgfaltspflichtgesetzes.\n3) Unabhängige Dritte haben ihre Kontrollen nach den Vorgaben der Steuerverwaltung durchzuführen. Sie sind verpflichtet: a) der Steuerverwaltung einen Kontrollbericht einzureichen. Hierbei dürfen wesentliche Tatsachen nicht verschwiegen werden. Die Angaben im Kontrollbericht müssen der Wahrheit entsprechen;\nb) die von der Steuerverwaltung bestimmten Grundsätze über die Kontrolltätigkeit und die Durchführung der Kontrollen einzuhalten und der Steuerverwaltung auf Verlangen sämtliche im Rahmen der Kontrolle erstellten Arbeitspapiere zur Verfügung zu stellen;\nc) Unterlagen und Daten der Kontrollen während zehn Jahren nach Abschluss der Kontrollen so aufzubewahren, dass sie der Steuerverwaltung jederzeit zur Verfügung stehen; und\nd) der Steuerverwaltung auf Verlangen sämtliche Auskünfte sowie Unterlagen und Abschriften zu übermitteln, die diese zur Erfüllung ihrer Tätigkeiten nach dem FATCA-Abkommen und diesem Gesetz benötigt.\n4) Unabhängige Dritte unterliegen der Geheimhaltungspflicht nach Art. 15. Vorbehalten bleibt die Berichterstattungs- und Auskunftspflicht nach Abs. 3.\n5) Die Kosten der Kontrollen nach Abs. 1 tragen die kontrollierten liechtensteinischen Rechtsträger, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften. Werden die Kontrollen nach Abs. 1a konsolidiert bei Dienstleistern für Rechtsträger beziehungsweise bei Fonds-Verwaltungsgesellschaften durchgeführt, tragen diese die Kosten.\n5a) Die Kosten der Kontrollen haben sich nach den anwendbaren branchenüblichen Tarifen zu richten und müssen in Bezug auf den Zweck der Kontrolltätigkeit verhältnismässig sein. Unabhängige Dritte haben vor Prüfbeginn auf Verlangen einen Kostenvoranschlag zu erstellen.\n5b) Soweit die Kosten der Kontrollen nicht bezahlt werden, haften die vertretungsbefugten Organe zur ungeteilten Hand. Wurde ein Rechtsträger, ein Dienstleister für Rechtsträger oder eine Fonds-Verwaltungsgesellschaften bereits gelöscht, haften die letzten vertretungsbefugten Organe zur ungeteilten Hand.\n6) Liechtensteinische Rechtsträger, Dienstleister für Rechtsträger und Fonds-Verwaltungsgesellschaften haben der Steuerverwaltung und den unabhängigen Dritten unbeschränkten Zugang zu allen Informationen zu gewähren, die im Zusammenhang mit der Erfüllung ihrer Verpflichtungen aus dem FATCA-Abkommen und diesem Gesetz relevant sind und die diese daher zur Durchführung der Kontrollen für notwendig erachten.\n7) Bei gelöschten liechtensteinischen Rechtsträgern haben die Aufbewahrungsstellen (Art. 2a Abs. 3 Bst. b) entsprechenden Zugang zur aufbewahrten Dokumentation zu gewähren."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "12",
+      "title": "Art. 12 Herstellung des ordnungsgemässen Zustands",
+      "content": "1) Die Steuerverwaltung fordert liechtensteinische Rechtsträger, Dienstleister für Rechtsträger oder Fonds-Verwaltungsgesellschaften formlos auf, innerhalb einer angemessenen Frist den ordnungsgemässen Zustand herzustellen, wenn: a) Grund zur Annahme besteht, dass verwaltungstechnische oder sonstige geringfügige Fehler zu einer unrichtigen oder unvollständigen Informationsübermittlung oder sonstigen Verstössen gegen das FATCA-Abkommen oder dieses Gesetz geführt haben könnten; oder\nb) die Steuerverwaltung feststellt, dass ein liechtensteinischer Rechtsträger, ein Dienstleister für Rechtsträger oder eine Fonds-Verwaltungsgesellschaft die Verpflichtungen nach dem FATCA-Abkommen und diesem Gesetz in erheblichem Umfang nicht einhält.\n2) Die Frist nach Abs. 1 kann in begründeten Fällen angemessen verlängert werden. Wird der Fehler nicht fristgerecht behoben, so erlässt die Steuerverwaltung eine entsprechende Verfügung.\n3) Vorbehalten bleibt die Verhängung von Bussen nach Art. 16 bis 18."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "13",
+      "title": "Art. 13 Anwendbares Verfahrensrecht",
+      "content": "Soweit dieses Gesetz nichts anderes bestimmt, ist für Verwaltungsverfahren das Gesetz über die allgemeine Landesverwaltungspflege (LVG) anwendbar."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "14",
+      "title": "Art. 14 Rechtsmittel",
+      "content": "1) Gegen Verfügungen der Steuerverwaltung nach diesem Abschnitt kann innert 30 Tagen ab Zustellung schriftlich Einsprache erhoben werden.\n2) Die Einsprache hat die Anträge zu enthalten und die zur Begründung dienenden Tatsachen anzugeben.\n3) Wurde gültig Einsprache erhoben, so überprüft die Steuerverwaltung die Verfügung ohne Bindung an die gestellten Anträge und erlässt eine begründete Einspracheentscheidung.\n4) Auf die Rechtsmittel und das Verfahren finden die Bestimmungen der Art. 117 und 118 SteG sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "15",
+      "title": "Art. 15 Geheimhaltungspflichten",
+      "content": "1) Wer mit dem Vollzug der Bestimmungen des FATCA-Abkommens und dieses Gesetzes betraut ist oder zu deren Vollzug beigezogen wird, unterliegt dem Amtsgeheimnis und hat gegenüber anderen Amtsstellen und Privaten über die in Ausübung dieser Tätigkeit gemachten Wahrnehmungen Stillschweigen zu bewahren und Einsicht in amtliche Akten zu verweigern.\n2) Keine Geheimhaltungspflicht besteht: a) für die Steuerverwaltung bei Meldungen und Erteilung von Auskünften an die zuständige US-amerikanische Behörde nach dem FATCA-Abkommen und diesem Gesetz;\nb) gegenüber liechtensteinischen Organen der Rechtspflege, die mit dem Vollzug des FATCA-Abkommens und dieses Gesetzes betraut sind;\nc) gegenüber liechtensteinischen Organen der Rechtspflege, der Staatsanwaltschaft und der Landespolizei bei der Untersuchung von gerichtlich strafbaren Handlungen;\nd) gegenüber liechtensteinischen Aufsichtsbehörden und Stellen, die für die Verhängung von Aufsichts- und Disziplinarmassnahmen zuständig sind;\ne) gegenüber der Stabsstelle Financial Intelligence Unit zum Zweck der Bekämpfung der Geldwäscherei, organisierten Kriminalität und Terrorismusfinanzierung;\nf) soweit dafür eine gesetzliche Grundlage besteht."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "16",
+      "title": "Art. 16 Verwaltungsübertretungen",
+      "content": "1) Von der Steuerverwaltung wird mit Busse bis zu 250 000 Franken bestraft, wer vorsätzlich: a) die Klassifizierungspflicht nach Art. 2a Abs. 1 oder die Mitteilungspflicht nach Art. 2a Abs. 2 verletzt;\nb) die Mitteilungspflichten für passive NFFE nach Art. 2c verletzt;\nc) die FATCA-Sorgfaltspflichten nach Art. 4 verletzt;\nd) die Meldepflichten nach Art. 5 verletzt;\nd ) die Pflicht zur internen Organisation nach Art. 6b verletzt;\ne) die Einbehaltungs- oder Informationspflicht nach Art. 7 verletzt;\nf) als beauftragter Dritter im Kontrollbericht nach Art. 11 Abs. 3 Bst. a unwahre Angaben macht oder wesentliche Tatsachen verschweigt.\n2) Von der Steuerverwaltung wird mit Busse bis zu 20 000 Franken bestraft, wer vorsätzlich: a) die Dokumentationspflicht nach Art. 2a Abs. 3, Art. 4 Abs. 5 oder Art. 5 Abs. 7 verletzt;\nb) die Meldepflichten nach Art. 2c Abs. 5 gegenüber der Steuerverwaltung verletzt;\nc) die Registrierungspflicht nach Art. 3 verletzt;\nd) die Auskunftspflicht nach Art. 10 gegenüber der Steuerverwaltung oder einem von ihr nach Art. 6a Abs. 3 bestimmten oder nach Art. 11 beauftragten Dritten verletzt, indem er Auskünfte verweigert, unwahre Angaben macht oder wesentliche Tatsachen verschweigt oder den Zugang zur aufbewahrten Dokumentation nicht gewährt;\ne) die ordnungsgemässe Durchführung einer Kontrolle nach Art. 11 erschwert, behindert oder verunmöglicht;\nf) als beauftragter Dritter den Kontrollbericht nach Art. 11 Abs. 3 Bst. a nicht, nicht gehörig oder nicht fristgerecht einreicht oder die von der Steuerverwaltung nach Art. 11 Abs. 3 Bst. b vorgegebenen Kontrollgrundsätze nicht einhält;\ng) als beauftragter Dritter Unterlagen und Daten der Kontrollen entgegen Art. 11 Abs. 3 Bst. c aufbewahrt;\nh) als beauftragter Dritter die Pflicht zur Erteilung von Auskünften oder Übermittlung von Unterlagen und Abschriften nach Art. 11 Abs. 3 Bst. d verletzt.\n3) Von der Steuerverwaltung wird mit Busse bis zu 10 000 Franken bestraft, wer vorsätzlich: a) die Informations-, Dokumentations- oder Weiterleitungspflicht nach Art. 5a sowie 8d Abs. 3 und 4 verletzt;\nb) gegen eine an ihn gerichtete rechtskräftige Verfügung oder Entscheidung der Steuerverwaltung nach Art. 9 verstösst.\n4) Bei fahrlässiger Begehung beträgt die Busse: a) bei Übertretungen nach Abs. 1 Bst. a bis e: bis zu 100 000 Franken;\nb) bei Übertretungen nach Abs. 2 Bst. a bis c und f bis h: bis zu 10 000 Franken;\nc) bei Übertretungen nach Abs. 3 Bst. a: bis zu 5 000 Franken.\n5) In Abweichung von Art. 21 des Verwaltungsstrafgesetzes können bei der Strafbemessung auch im abgekürzten Verfahren (Art. 53 ff. VStG) die in Betracht kommenden Erschwerungs- und Milderungsgründe berücksichtigt werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "17",
+      "title": "Art. 17 Schwerwiegende, wiederholte oder systematische Verstösse",
+      "content": "Von der Steuerverwaltung wird mit Busse bis zu 500 000 Franken bestraft, wer Verstösse nach Art. 16 Abs. 1 schwerwiegend, wiederholt oder systematisch begeht."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "18",
+      "title": "Art. 18 Beteiligte",
+      "content": "Von der Steuerverwaltung wird mit Busse bis zu 500 000 Franken bestraft, wer in schwerwiegender, wiederholter oder systematischer Weise einen anderen zu einem Verstoss nach Art. 16 Abs. 1 bestimmt oder sonst zu seiner Ausführung beiträgt."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "19",
+      "title": "Art. 19 Verwaltungsstrafverfahren",
+      "content": "1) Soweit dieses Gesetz nichts anderes bestimmt, ist für Verwaltungsstrafverfahren das Verwaltungsstrafgesetz anwendbar.\n2) In einem Verfahren wegen eines Verstosses nach Art. 16 kann die Steuerverwaltung bei klarer Sach- und Rechtslage mittels einer Strafverfügung vorgehen. Soweit in diesem Gesetz keine abweichenden Vorschriften bestehen, finden die Art. 53 ff. des Verwaltungsstrafgesetzes sinngemäss Anwendung.\n3) In allen übrigen Verfahren wegen Verstössen nach Art. 16 sowie in Verfahren wegen Verstössen nach Art. 17 und 18 finden, soweit in diesem Gesetz keine abweichenden Regelungen bestehen, die Art. 40 ff. des Verwaltungsstrafgesetzes sinngemäss Anwendung.\n4) In einem Verfahren wegen eines Verstosses nach Art. 16 bis 18 ist Art. 29 des Verwaltungsstrafgesetzes nicht anwendbar."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "20",
+      "title": "Art. 20 Rechtsmittel im Verwaltungsstrafverfahren",
+      "content": "1) Gegen Verwaltungsstrafentscheidungen der Steuerverwaltung nach Art. 16 bis 18 kann binnen 14 Tagen ab Zustellung Beschwerde bei der Landessteuerkommission erhoben werden.\n2) Gegen Entscheidungen der Landessteuerkommission kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\n3) Gegen Strafverfügungen der Steuerverwaltung nach Art. 19 Abs. 2 kann binnen 14 Tagen ab Zustellung Einspruch (Art. 55 VStG) bei der Steuerverwaltung erhoben werden. Art. 53 Abs. 2 des Verwaltungsstrafgesetzes bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "21",
+      "title": "Art. 21 Verantwortlichkeit von Rechtsträgern",
+      "content": "1) Werden mit Wirkung für einen Rechtsträger Widerhandlungen begangen, so wird der Rechtsträger gebüsst und zwar unabhängig davon, ob dieser über Rechtspersönlichkeit verfügt. Die Verantwortlichkeit von Rechtsträgern besteht unabhängig davon, wer für den Rechtsträger die Widerhandlung begangen hat.\n2) Für die verhängten Bussen haften die zum Tatzeitpunkt vertretungsbefugten Organe zur ungeteilten Hand, sofern die Busse vom Rechtsträger nicht bezahlt wird.\n3) Wurden mit Wirkung für einen zwischenzeitlich gelöschten Rechtsträger Widerhandlungen begangen, so werden die zum Tatzeitpunkt vertretungsbefugten Organe gebüsst. Diese haften zur ungeteilten Hand für die Busse."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "IV. Verfahrensbestimmungen",
+      "section": "22",
+      "title": "Art. 22 Verjährung",
+      "content": "1) Die Strafverfolgung und die Strafvollstreckung verjähren bei Widerhandlungen nach Art. 16 bis 18 in fünf Jahren.\n2) Die Verjährung der Strafverfolgung beginnt nach Ablauf des Jahres, in welchem die Gesetzesverletzung letztmals begangen wurde oder mit Beendigung der Funktion als vertretungsbefugtes Organ. Sie ist gehemmt, solange die tatverdächtige Person im Ausland ist. Die Verjährung wird durch jede gegen die tatverdächtige Person gerichtete Untersuchungshandlung der Steuerverwaltung unterbrochen. Nach jeder Unterbrechung beginnt die Verjährungsfrist von neuem. Die ursprüngliche Verjährungsfrist kann nicht mehr als verdoppelt werden.\n3) Die Verjährung der Strafvollstreckung beginnt mit dem rechtskräftigen Abschluss des Strafverfahrens. Sie ist gehemmt, solange die Strafe im Inland nicht vollzogen werden kann. Die Verjährung des Strafvollzuges wird durch jede gegen die verurteilte Person gerichtete Vollstreckungshandlung der Steuerverwaltung unterbrochen. Nach jeder Unterbrechung beginnt die Verjährungsfrist von neuem. Die ursprüngliche Verjährungsfrist kann nicht mehr als verdoppelt werden.\nVa. Behördenzusammenarbeit"
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "Va. Behördenzusammenarbeit",
+      "section": "22a",
+      "title": "Art. 22a Zusammenarbeit inländischer Behörden",
+      "content": "Inländische Behörden, insbesondere die Gerichte, die Staatsanwaltschaft, die Stabstelle Financial Intelligence Unit, das Amt für Justiz, die Finanzmarktaufsicht, die Liechtensteinische Rechtsanwaltskammer und die Steuerverwaltung, erteilen einander alle für die Durchführung des FATCA-Abkommens und dieses Gesetzes erforderlichen Informationen und Auskünfte, einschliesslich personenbezogener Daten."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Va. Behördenzusammenarbeit",
+      "section": "23",
+      "title": "Art. 23 Mitteilung der Steuerverwaltung an die zuständigen Aufsichtsbehörden und Stellen",
+      "content": "Werden Verwaltungsstrafverfahren nach Art. 17 und 18 eingeleitet, so informiert die Steuerverwaltung die für die zur Verhängung von Aufsichts- und Disziplinarmassnahmen zuständigen Aufsichtsbehörden und Stellen.\nVI. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "24",
+      "title": "Art. 24 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "25",
+      "title": "Art. 25 Inkrafttreten",
+      "content": "Dieses Gesetz tritt gleichzeitig mit dem FATCA-Abkommen in Kraft.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Adrian Hasler\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n359.131.2 G über die Umsetzung des FATCA-Abkommens zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika (FATCA-Gesetz)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2020 Nr. 500 ausgegeben am 23. Dezember 2020\nGesetz\nvom 6. November 2020\nüber die Abänderung des FATCA-Gesetzes\n...\nII.\nÜbergangsbestimmungen\n1) Liechtensteinische Rechtsträger, die sich bis zum 31. Dezember 2020 noch nicht für Zwecke des FATCA-Abkommens oder dieses Gesetzes klassifiziert haben, haben dies nach Massgabe von Art. 2a des neuen Rechts bis zum 31. Dezember 2021 nachzuholen.\n2) Liechtensteinische passive NFFE, die den jeweils meldenden liechtensteinischen Finanzinstituten per 31. Dezember 2020 noch nicht alle beherrschenden Personen einschliesslich der auszutauschenden Informationen nach Art. 2 Abs. 2 Bst. a Ziff. 1 des FATCA-Abkommens mitgeteilt oder für bis zu diesem Zeitpunkt eingetretene Änderungen keine Mitteilung erstattet haben, haben dies nach Art. 2c des neuen Rechts bis zum 31. Dezember 2021 nachzuholen.\n3) Ist die nach Art. 2a Abs. 3 oder Art. 4 Abs. 5 des neuen Rechts erforderliche Dokumentation per 1. Januar 2021 nicht vorhanden, so sind liechtensteinische Rechtsträger verpflichtet, diese bis zum 31. Dezember 2021 zu erstellen.\n4) Meldende liechtensteinische Finanzinstitute, die per 31. Dezember 2020 nicht bei der Steuerverwaltung registriert sind, haben sich bis zum 31. Dezember 2021 nach Art. 3 des neuen Rechts zu registrieren.\n5) Die Dokumentationspflicht nach Art. 5a Abs. 5 des neuen Rechts gilt für Informationen, die ab dem 1. Januar 2021 zu erfolgen haben.\n6) Das Landgericht bleibt für Verfahren, die bei Inkrafttreten dieses Gesetzes hängig sind, zuständig. Die durch dieses Gesetz geänderten Strafbestimmungen sind in Strafsachen, in denen vor ihrem Inkrafttreten das Urteil erster Instanz gefällt worden ist, nicht anzuwenden. Nach Aufhebung eines solchen Urteils infolge eines ordentlichen Rechtsmittels oder eines anderen Rechtsbehelfs ist jedoch im Sinne der §§ 1 und 61 des Strafgesetzbuches vorzugehen.\n...\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 81/2014 und 106/2014\n2\nArt. 1 abgeändert durch LGBl. 2020 Nr. 500 .\n3\nArt. 1 Bst. a abgeändert durch LGBl. 2024 Nr. 487 .\n4\nArt. 2 Abs. 1 Bst. gbis eingefügt durch LGBl. 2020 Nr. 500 .\n5\nArt. 2 Abs. 2a eingefügt durch LGBl. 2020 Nr. 500 .\n6\nArt. 2 Abs. 2a Bst. c eingefügt durch LGBl. 2024 Nr. 487 .\n7\nArt. 2 Abs. 2a Bst. d eingefügt durch LGBl. 2024 Nr. 487 .\n8\nArt. 2 Abs. 5 abgeändert durch LGBl. 2024 Nr. 487 .\n9\nÜberschrift vor Art. 2a abgeändert durch LGBl. 2024 Nr. 487 .\n10\nArt. 2a eingefügt durch LGBl. 2020 Nr. 500 .\n11\nArt. 2a Abs. 3 abgeändert durch LGBl. 2025 Nr. 587 .\n12\nArt. 2b eingefügt durch LGBl. 2020 Nr. 500 .\n13\nArt. 2c eingefügt durch LGBl. 2020 Nr. 500 .\n14\nArt. 3 Abs. 2 eingefügt durch LGBl. 2020 Nr. 500 .\n15\nArt. 3 Abs. 3 eingefügt durch LGBl. 2020 Nr. 500 .\n16\nArt. 3 Abs. 4 eingefügt durch LGBl. 2020 Nr. 500 .\n17\nArt. 4 Abs. 5 abgeändert durch LGBl. 2025 Nr. 587 .\n18\nArt. 5 Abs. 5 abgeändert durch LGBl. 2020 Nr. 500 .\n19\nArt. 5 Abs. 6 eingefügt durch LGBl. 2020 Nr. 500 .\n20\nArt. 5 Abs. 7 abgeändert durch LGBl. 2025 Nr. 587 .\n21\nArt. 5a eingefügt durch LGBl. 2018 Nr. 389 .\n22\nArt. 5a Abs. 2a eingefügt durch LGBl. 2020 Nr. 500 .\n23\nArt. 5a Abs. 5 abgeändert durch LGBl. 2025 Nr. 587 .\n24\nArt. 6 abgeändert durch LGBl. 2024 Nr. 487 .\n25\nArt. 6a eingefügt durch LGBl. 2020 Nr. 500 .\n26\nArt. 6b eingefügt durch LGBl. 2024 Nr. 487 .\n27\nÜberschrift vor Art. 7a abgeändert durch LGBl. 2020 Nr. 500 .\n28\nArt. 7a abgeändert durch LGBl. 2020 Nr. 500 .\n29\nArt. 7a Abs. 2 abgeändert durch LGBl. 2024 Nr. 487 .\n30\nArt. 7a Abs. 3 abgeändert durch LGBl. 2024 Nr. 487 .\n31\nArt. 7a Abs. 4 abgeändert durch LGBl. 2024 Nr. 487 .\n32\nArt. 7b aufgehoben durch LGBl. 2020 Nr. 500 .\n33\nArt. 8 abgeändert durch LGBl. 2018 Nr. 389 .\n34\nÜberschrift vor Art. 8a abgeändert durch LGBl. 2020 Nr. 500 .\n35\nArt. 8a eingefügt durch LGBl. 2018 Nr. 389 .\n36\nArt. 8b eingefügt durch LGBl. 2018 Nr. 389 .\n37\nArt. 8c abgeändert durch LGBl. 2020 Nr. 500 .\n38\nArt. 8d eingefügt durch LGBl. 2018 Nr. 389 .\n39\nArt. 8d Abs. 1 abgeändert durch LGBl. 2020 Nr. 500 .\n40\nArt. 8d Abs. 3 abgeändert durch LGBl. 2024 Nr. 487 .\n41\nArt. 8d Abs. 5 abgeändert durch LGBl. 2020 Nr. 500 .\n42\nArt. 9 Abs. 1 aufgehoben durch LGBl. 2018 Nr. 389 .\n43\nArt. 9 Abs. 2 aufgehoben durch LGBl. 2018 Nr. 389 .\n44\nArt. 10 abgeändert durch LGBl. 2024 Nr. 487 .\n45\nArt. 11 abgeändert durch LGBl. 2020 Nr. 500 .\n46\nArt. 11 Abs. 1 abgeändert durch LGBl. 2024 Nr. 487 .\n47\nArt. 11 Abs. 1a eingefügt durch LGBl. 2024 Nr. 487 .\n48\nArt. 11 Abs. 1b eingefügt durch LGBl. 2024 Nr. 487 .\n49\nArt. 11 Abs. 3 Bst. c abgeändert durch LGBl. 2025 Nr. 587 .\n50\nArt. 11 Abs. 5 abgeändert durch LGBl. 2024 Nr. 487 .\n51\nArt. 11 Abs. 5a eingefügt durch LGBl. 2024 Nr. 487 .\n52\nArt. 11 Abs. 5b eingefügt durch LGBl. 2024 Nr. 487 .\n53\nArt. 11 Abs. 6 abgeändert durch LGBl. 2024 Nr. 487 .\n54\nArt. 12 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2024 Nr. 487 .\n55\nArt. 12 Abs. 1 Bst. b abgeändert durch LGBl. 2024 Nr. 487 .\n56\nArt. 12 Abs. 3 abgeändert durch LGBl. 2020 Nr. 500 .\n57\nArt. 13 abgeändert durch LGBl. 2025 Nr. 591 .\n58\nArt. 15 Abs. 2 Bst. b abgeändert durch LGBl. 2020 Nr. 500 .\n59\nArt. 15 Abs. 2 Bst. c abgeändert durch LGBl. 2020 Nr. 500 .\n60\nArt. 15 Abs. 2 Bst. d abgeändert durch LGBl. 2020 Nr. 500 .\n61\nArt. 15 Abs. 2 Bst. e abgeändert durch LGBl. 2020 Nr. 500 .\n62\nArt. 15 Abs. 2 Bst. f eingefügt durch LGBl. 2020 Nr. 500 .\n63\nArt. 16 abgeändert durch LGBl. 2020 Nr. 500 .\n64\nArt. 16 Abs. 1 Bst. dbis eingefügt durch LGBl. 2024 Nr. 487 .\n65\nArt. 16 Abs. 2 Bst. a abgeändert durch LGBl. 2024 Nr. 487 .\n66\nArt. 16 Abs. 2 Bst. g abgeändert durch LGBl. 2025 Nr. 587 .\n67\nArt. 16 Abs. 5 eingefügt durch LGBl. 2025 Nr. 591 .\n68\nArt. 17 abgeändert durch LGBl. 2020 Nr. 500 .\n69\nArt. 18 abgeändert durch LGBl. 2020 Nr. 500 .\n70\nArt. 19 abgeändert durch LGBl. 2025 Nr. 591 .\n71\nArt. 20 abgeändert durch LGBl. 2020 Nr. 500 .\n72\nArt. 20 Abs. 3 abgeändert durch LGBl. 2025 Nr. 591 .\n73\nArt. 21 abgeändert durch LGBl. 2020 Nr. 500 .\n74\nArt. 21 Abs. 1 abgeändert durch LGBl. 2025 Nr. 591 .\n75\nArt. 22 Abs. 1 abgeändert durch LGBl. 2020 Nr. 500 .\n76\nArt. 22 Abs. 2 abgeändert durch LGBl. 2020 Nr. 500 .\n77\nÜberschrift vor Art. 22a eingefügt durch LGBl. 2020 Nr. 500 .\n78\nArt. 22a eingefügt durch LGBl. 2020 Nr. 500 .\n79\nArt. 23 abgeändert durch LGBl. 2020 Nr. 500 .\n80\nInkrafttreten: 1. Januar 2021."
+    }
+  ],
+  "definitions": []
+}

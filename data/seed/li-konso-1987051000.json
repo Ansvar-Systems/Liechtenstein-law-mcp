@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-1987051000",
+  "type": "statute",
+  "title": "Verordnung vom 13. Oktober 1987 über die Gerichtsferien",
+  "title_en": "",
+  "short_name": "LGBl 1987.051",
+  "status": "in_force",
+  "issued_date": "1987-10-13",
+  "in_force_date": "1987-10-13",
+  "url": "https://www.gesetze.li/konso/1987051000",
+  "description": "Verordnung vom 13. Oktober 1987 über die Gerichtsferien",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Die Gerichtsferien beginnen im Sommer jeweils am 15. Juli und dauern bis einschliesslich 25. August eines jeden Jahres. An Weihnachten und Neujahr beginnen sie jeweils am 24. Dezember eines jeden Jahres und dauern bis einschliesslich 6. Januar des folgenden Jahres."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Die Verordnung vom 2. Juli 1943, LGBl. 1943 Nr. 15, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nLR 271.0"
+    }
+  ],
+  "definitions": []
+}

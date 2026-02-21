@@ -1,0 +1,144 @@
+{
+  "id": "li-konso-2011434000",
+  "type": "statute",
+  "title": "Verordnung vom 30. August 2011 über die Gebühren für die Nutzung der Geodateninfrastruktur Liechtenstein (GDI-Gebührenverordnung; GDI-GebV)",
+  "title_en": "",
+  "short_name": "GDI-GebV",
+  "status": "in_force",
+  "issued_date": "2011-08-30",
+  "in_force_date": "2011-08-30",
+  "url": "https://www.gesetze.li/konso/2011434000",
+  "description": "Verordnung vom 30. August 2011 über die Gebühren für die Nutzung der Geodateninfrastruktur Liechtenstein (GDI-Gebührenverordnung; GDI-GebV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt die Gebühren für die Nutzung von Geodaten der Geodateninfrastruktur Liechtenstein (GDI-Liechtenstein)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Eigengebrauch\": Nutzung von Geodaten der GDI-Liechtenstein:\n1. im persönlichen Bereich und im Kreis von Personen, die unter sich eng verbunden sind, wie Verwandte oder Freunde;\n2. durch Lehrpersonen für den Unterricht in der Klasse; sowie\n3. in Betrieben, öffentlichen Verwaltungen, Instituten, Kommissionen und ähnlichen Einrichtungen für die interne Information oder Dokumentation;\nb) \"gewerbliche Nutzung\": jede Nutzung von Geodaten der GDI-Liechtenstein, die keine Nutzung zum Eigengebrauch ist;\nc) \"GDI-Auszüge\": Karten, Pläne und alle weiteren Auszüge und Darstellungen zur Veranschaulichung von Geodaten aus der GDI-Liechtenstein;\nd) \"Download-Dienst mit direktem Datenzugriff\": Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon zum Zeitpunkt der Nutzung ohne dauerhafte Speicherung der Geodatensätze auf dem System des Nutzers;\ne) \"Download-Dienst ohne direkten Datenzugriff\": Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon auf Bestellung und ohne direkten Zugriff (z.B. eShop-Funktion);\nf) \"Web Map Service\": ein Schnittstellenstandard für Darstellungsdienste zum Abrufen von Plan- und Kartenauszügen über das Internet.\n2) Unter den in dieser Verordnung verwendeten Personen- und Berufsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Gebühren\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Allgemeines",
+      "section": "3",
+      "title": "Art. 3 Bemessungsgrundlagen",
+      "content": "1) Sofern keine Pauschalgebühren vorgesehen sind, werden die Gebühren für die Nutzung von Geodaten der GDI-Liechtenstein bemessen nach:\na) der Flächengrösse;\nb) der Anzahl Informationsebenen;\nc) der Anzahl Objekte;\nd) der Pixelmenge;\ne) der Dauer der Nutzung;\nf) der Papiergrösse.\n2) Enthält eine Informationsebene nur wenige Datensätze, kann sie für die Berechnung der Gebühren mit anderen Informationsebenen zu einer Informationseinheit zusammengefasst werden.\n3) Die Bemessungsgrundlagen nach Abs. 1 werden pro angefangene Verrechnungseinheit wie folgt auf ganze Einheiten aufgerundet:\na) Flächengrösse auf ganze km&sup2;;\nb) Objektanzahl auf 10 000 Objekte;\nc) Pixelmenge auf 10 Megapixel;\nd) Nutzungsdauer auf ganze Minuten.\n4) Für die Berechnung der Flächengrösse wird zwischen intensiv und extensiv genutzten Gebieten unterschieden, wobei die extensiv genutzten Gebiete mit 1/10 der tatsächlichen Fläche berücksichtigt werden. Die Abgrenzung erfolgt aufgrund der Toleranzstufeneinteilung nach Art. 40 der Vermessungsverordnung; extensiv genutzte Flächen entsprechen TS4 und TS5."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Allgemeines",
+      "section": "4",
+      "title": "Art. 4 Gebührenart und -umfang",
+      "content": "1) Es werden folgende Gebühren erhoben:\na) Datennutzungsgebühr (Art. 5 und 6);\nb) Infrastrukturgebühr (Art. 8);\nc) Bereitstellungsgebühr (Art. 9);\nd) Richtigkeitsbescheinigungsgebühr (Art. 10).\n2) Die gesamte Gebühr ergibt sich aus der Summe der anfallenden Einzelgebühren nach Abs. 1 zuzüglich der Mehrwertsteuer.\nB. Datennutzungsgebühr"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. Datennutzungsgebühr",
+      "section": "5",
+      "title": "Art. 5 Grundsatz",
+      "content": "Je nach Art der Nutzung von Geodaten der GDI-Liechtenstein wird unterschieden zwischen:\na) Datennutzungsgebühr bei Eigengebrauch;\nb) Datennutzungsgebühr bei gewerblicher Nutzung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Datennutzungsgebühr",
+      "section": "6",
+      "title": "Art. 6 Gebührenhöhe",
+      "content": "1) Die Datennutzungsgebühr bei Eigengebrauch beträgt:\na) für Darstellungsdienste:\n1. Web Map Service der zuständigen Fachstelle mit Basisfunktionalität und einer Datenrate bis 3 Megapixel pro Einzelbild: gebührenfrei;\n2. übrige Darstellungsdienste mit einem nach Art. 21 der Geoinformationsverordnung vertraglich festgelegtem erweitertem Funktionsumfang: 1.00 Franken pro 10 Megapixel;\nb) für Downloaddienste mit direktem Datenzugriff: 1.00 Franken pro 10 000 Objekte;\nc) für Downloaddienste ohne direkten Datenzugriff oder für den Bezug entsprechender Daten bei der Ausgabestelle:\n1. als Vektordatensatz: 5.00 Franken pro km&sup2; und Informationsebene;\n2. als Rasterdatensatz: bis zu einer Datenmenge von 500 Megapixel pauschal 10.00 Franken pro Datensatz, ab einer Datenmenge von 500 Megapixel 0.20 Franken pro 10 Megapixel;\nd) für Auszüge aus der GDI-Liechtenstein als massstäbliche Pläne oder massstabsgetreue elektronische Dokumente:\n1. bei einer Plangrösse bis A3 (0.125 m&sup2;): pauschal 10.00 Franken;\n2. bei einer Plangrösse ab A3 (0.125 m&sup2;) bis A1 (0.5 m&sup2;): pauschal 20.00 Franken;\n3. bei einer Plangrösse ab A1 (0.5 m&sup2;): pauschal 40.00 Franken;\ne) für Abonnenten: pauschal 1.50 Franken pro Monat, km&sup2; und Informationsebene;\nf) für Auszüge aus dem ÖREB-Kataster: gebührenfrei.\n2) Die Datennutzungsgebühr bei gewerblicher Nutzung beträgt das Zehnfache der Gebührenansätze nach Abs. 1.\n3) Bei gleichzeitigem Bezug von Geodaten in analoger oder digitaler Form wird die höhere Datennutzungsgebühr erhoben.\n4) Beim Bezug von Geodaten der GDI-Liechtenstein nach Abs. 1 Bst. c und d sowie Abs. 2 ist der Verwendungszweck anzugeben. Die Geodaten dürfen nur für den angegebenen Zweck verwendet werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Datennutzungsgebühr",
+      "section": "7",
+      "title": "Art. 7 Gebührenbefreiung",
+      "content": "1) Von der Datennutzungsgebühr sind befreit:\na) steuerbefreite gemeinnützige Organisationen: für alle Nutzungen, ausser der Weitergabe an Dritte;\nb) Schüler, Studierende sowie Bildungs- und Forschungseinrichtungen: für den Eigengebrauch;\nc) Landesbehörden: für die Nutzung von Geodaten der zuständigen Fachstellen des Landes im Rahmen ihres gesetzlichen Auftrags;\nd) Personen, die Suchdienste nach Art. 13 Abs. 1 Bst. a GeoIG und die dazu notwendigen Darstellungsdienste nutzen;\ne) Organe und Einrichtungen der Europäischen Gemeinschaft: für die Nutzung von Geodaten, soweit sie die Daten zur Erfüllung von Berichtspflichten nach Massgabe des Gemeinschaftsumweltrechts benötigen;\nf) Nutzer des öffentlichen Online-Kartenangebots der zuständigen Fachstellen und der damit angebotenen Druck- und Auswertemöglichkeiten.\n2) Von der Erhebung der Datennutzungsgebühr wird abgesehen für:\na) historische oder nicht nachgeführte Geodaten;\nb) Geodaten für Testzwecke;\nc) Geodatensätze, die Umweltinformationen nach dem Umweltinformationsgesetz beinhalten sowie Datensätze nach Ziff. 19 bis 26, 28, 31 bis 33, 37, 38, 40 bis 48 und 55 des Anhangs der Geoinformationsverordnung;\nd) Georeferenzdaten nach Ziff. 16 und 39 des Anhangs der Geoinformationsverordnung;\ne) die Bereitstellung von Geodaten für die Landes- und Gemeindeenergiekataster nach Art. 35e und 35f des Energieeffizienzgesetzes.\nC. Infrastruktur-, Bereitstellungs- und Richtigkeitsbescheinigungsgebühr"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "C. Infrastruktur-, Bereitstellungs- und Richtigkeitsbescheinigungsgebühr",
+      "section": "8",
+      "title": "Art. 8 Infrastrukturgebühr",
+      "content": "Für die Beanspruchung der Informatik-Infrastruktur von Geodatendiensten werden folgende Infrastrukturgebühren erhoben:\na) Suchdienste: gebührenfrei;\nb) Darstellungsdienste: gebührenfrei;\nc) Download-Dienste mit direktem Datenzugriff: 1.00 Franken pro 10 000 Objekte;\nd) Download-Dienste ohne direkten Datenzugriff: pauschal 40.00 Franken;\ne) Transformationsdienste: gebührenfrei;\nf) Dienste zum Abrufen von Geodatendiensten: gebührenfrei;\ng) Darstellungsdienste und Download-Dienste des ÖREB-Kastasters: gebührenfrei."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "C. Infrastruktur-, Bereitstellungs- und Richtigkeitsbescheinigungsgebühr",
+      "section": "9",
+      "title": "Art. 9 Bereitstellungsgebühr",
+      "content": "1) Für den verursachten Aufwand werden Bereitstellungsgebühren nach Massgabe folgender Kriterien erhoben:\na) der Dauer der Beanspruchung von Personal;\nb) der Dauer der Beanspruchung der Anlagen;\nc) der Kosten des für die Produkterstellung verwendeten Materials.\n2) Die Bereitstellungsgebühr beträgt für:\na) die Beanspruchung von Personal nach Abs. 1 Bst. a: 124.00 Franken pro Stunde;\nb) die Beanspruchung von Anlagen nach Abs. 1 Bst. b: 50.00 Franken pro Stunde;\nc) die Materialkosten nach Abs. 1 Bst. c: Einstandspreis zuzüglich 20 % Zuschlag."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "C. Infrastruktur-, Bereitstellungs- und Richtigkeitsbescheinigungsgebühr",
+      "section": "10",
+      "title": "Art. 10 Richtigkeitsbescheinigungsgebühr",
+      "content": "Die Richtigkeitsbescheinigungsgebühr beträgt 25.00 Franken.\nD. Einhebung und Zuteilung"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "D. Einhebung und Zuteilung",
+      "section": "11",
+      "title": "Art. 11 Grundsatz",
+      "content": "1) Die Einhebung der Gebühren erfolgt über:\na) einen Zahlungsdienst für Online-Zahlungen; oder\nb) die Zustellung einer Rechnung.\n2) Die Einhebung der Gebühren obliegt der nach der Geoinformationsverordnung zuständigen Abgabestelle oder Fachstelle.\n3) Die Gebühren werden wie folgt zugeteilt:\na) die Datennutzungsgebühr den zuständigen Fachstellen;\nb) die Infrastrukturgebühr dem Betreiber der Infrastruktur;\nc) die Bereitstellungs- und die Richtigkeitsbescheinigungsgebühr den zuständigen Abgabestellen.\n4) Datennutzungsgebühren, die nicht die zuständige Fachstelle einhebt, sind dieser jeweils bis zum Ende des Jahres gutzuschreiben.\n5) Die Nachführungsgeometer überweisen dem Amt für Finanzen jeweils bis Ende Februar die im Vorjahr eingehobenen Datennutzungsgebühren.\nIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Übergangs- und Schlussbestimmungen",
+      "section": "12",
+      "title": "Art. 12 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 12. Juli 2005 über die Gebühren für den Bezug von Daten aus der Geodateninfrastruktur Liechtenstein (GDI-Gebührenverordnung), LGBl. 2005 Nr. 153, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III. Übergangs- und Schlussbestimmungen",
+      "section": "13",
+      "title": "Art. 13 Übergangsbestimmung",
+      "content": "Die zum Zeitpunkt des Inkrafttretens dieser Verordnung bestehenden Verträge über die Nutzung von Geodaten der GDI-Liechtenstein und die dafür zu entrichtenden Gebühren bleiben bis zum Ende der vereinbarten Vertragsdauer, längstens jedoch bis zum 31. Dezember 2012, in Kraft."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III. Übergangs- und Schlussbestimmungen",
+      "section": "14",
+      "title": "Art. 14 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\n1\nIngress abgeändert durch LGBl. 2018 Nr. 132 .\n2\nArt. 2 Abs. 1 Bst. f eingefügt durch LGBl. 2018 Nr. 221 .\n3\nArt. 6 Abs. 1 Bst. a abgeändert durch LGBl. 2018 Nr. 221 .\n4\nArt. 6 Abs. 1 Bst. c Ziff. 2 abgeändert durch LGBl. 2018 Nr. 221 .\n5\nArt. 6 Abs. 1 Bst. f eingefügt durch LGBl. 2018 Nr. 132 .\n6\nArt. 7 Abs. 1 Bst. b abgeändert durch LGBl. 2018 Nr. 221 .\n7\nArt. 7 Abs. 1 Bst. f eingefügt durch LGBl. 2018 Nr. 221 .\n8\nArt. 7 Abs. 2 abgeändert durch LGBl. 2018 Nr. 221 .\n9\nArt. 7 Abs. 2 Bst. e eingefügt durch LGBl. 2020 Nr. 236 .\n10\nArt. 8 Bst. b abgeändert durch LGBl. 2018 Nr. 221 .\n11\nArt. 8 Bst. g eingefügt durch LGBl. 2018 Nr. 132 .\n12\nArt. 9 Abs. 2 Bst. a abgeändert durch LGBl. 2018 Nr. 221 .\n13\nArt. 11 Abs. 5 abgeändert durch LGBl. 2023 Nr. 378 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Eigengebrauch",
+      "definition": "Nutzung von Geodaten der GDI-Liechtenstein:",
+      "source_provision": "art2"
+    },
+    {
+      "term": "gewerbliche Nutzung",
+      "definition": "jede Nutzung von Geodaten der GDI-Liechtenstein, die keine Nutzung zum Eigengebrauch ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "GDI-Auszüge",
+      "definition": "Karten, Pläne und alle weiteren Auszüge und Darstellungen zur Veranschaulichung von Geodaten aus der GDI-Liechtenstein;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Download-Dienst mit direktem Datenzugriff",
+      "definition": "Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon zum Zeitpunkt der Nutzung ohne dauerhafte Speicherung der Geodatensätze auf dem System des Nutzers;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Download-Dienst ohne direkten Datenzugriff",
+      "definition": "Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon auf Bestellung und ohne direkten Zugriff (z.B. eShop-Funktion);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Web Map Service",
+      "definition": "ein Schnittstellenstandard für Darstellungsdienste zum Abrufen von Plan- und Kartenauszügen über das Internet.",
+      "source_provision": "art2"
+    }
+  ]
+}

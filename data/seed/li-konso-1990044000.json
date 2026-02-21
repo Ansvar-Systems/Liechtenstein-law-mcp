@@ -1,0 +1,323 @@
+{
+  "id": "li-konso-1990044000",
+  "type": "statute",
+  "title": "Fischereigesetz vom 16. Mai 1990",
+  "title_en": "",
+  "short_name": "LGBl 1990.044",
+  "status": "in_force",
+  "issued_date": "1990-05-16",
+  "in_force_date": "1990-05-16",
+  "url": "https://www.gesetze.li/konso/1990044000",
+  "description": "Fischereigesetz vom 16. Mai 1990",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Zweck",
+      "content": "Dieses Gesetz bezweckt:\na) die natürliche Artenvielfalt und den Bestand einheimischer Fische, Krebse und Fischnährtiere sowie deren Lebensräume zu erhalten oder zu verbessern;\nb) bedrohte Arten und Rassen von Fischen und Krebsen zu schützen;\nc) eine nachhaltige Nutzung der Fisch- und der Krebsbestände zu gewährleisten sowie die Fischerei zu fördern."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Geltungsbereich",
+      "content": "1) Dieses Gesetz gilt für öffentliche und private Gewässer.\n2) Für Fischzuchtanlagen und für diejenigen künstlich angelegten privaten Gewässer, in die Fische und Krebse aus offenen Gewässern natürlicherweise nicht gelangen können, gelten nur die Bestimmungen über die fremden Arten, Rassen und Varietäten (Art. 17). Für Fischzuchtanlagen gelten zusätzlich die Bestimmungen über technische Eingriffe (Art. 21 bis 23)."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Fischereirecht",
+      "content": "1) Das Recht der Fischerei steht in den öffentlichen Gewässern des Landes und in den mit diesen in Zusammenhang stehenden Kanälen und Weihern dem Staat zu. Es umfasst das Recht, Fische, Krebse und Fischnährtiere zu hegen, zu fangen und zu verwerten. Vorbehalten bleiben die Sonderrechte von Gemeinden, Korporationen oder Privaten, soweit solche nachgewiesen werden.\n2) Der Fang darf auch da, wo Sonderrechte bestehen, nur im Rahmen der Vorschriften dieses Gesetzes und der gestützt darauf erlassenen Verordnungen und Verfügungen ausgeübt werden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Grenzgewässer",
+      "content": "Allfällige Abmachungen mit den Nachbarstaaten über die Fischerei in Grenzgewässern bleiben vorbehalten.\nII. Fischereiberechtigung"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Fischereiberechtigung",
+      "section": "5",
+      "title": "Art. 5 Fischereiberechtigung",
+      "content": "1) Die Regierung verleiht die Berechtigung zum Fischfang durch:\na) Verpachtung der Fischgewässer;\nb) Abgabe von Fischereikarten.\n2) Die Ausübung der Fischerei setzt den Nachweis der nötigen Fachkenntnisse voraus. Diese können aufgrund einer einfachen Prüfung ausgewiesen werden. Die Regierung regelt die Einzelheiten in einer Verordnung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Fischereiberechtigung",
+      "section": "6",
+      "title": "Art. 6 Pacht",
+      "content": "Die Verpachtung erfolgt für eine Periode von höchstens acht Jahren an Inländer. Als Pächter können juristische Personen oder volljährige Einzelpersonen zugelassen werden. Als Pächter sind wenn möglich Vereine zuzulassen, die sich der Förderung der Fischerei widmen und einer dem Pachtkreis angemessenen Zahl von Fischern die Fischerei ermöglichen. Die Regierung regelt Voraussetzungen, Art, Umfang und Zins der Verpachtung mit Verordnung."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Fischereiberechtigung",
+      "section": "7",
+      "title": "Art. 7 Fischereikarten",
+      "content": "1) Die Regierung gibt Fischereikarten ab. Sie kann Fischereivereine zur Abgabe von Fischereikarten ermächtigen.\n2) Fischereikarten können als Jahres-, Wochen- oder Tageskarten abgegeben werden. Die Regierung kann mit Verordnung zeitliche und mengenmässige Begrenzungen für den Fischfang festlegen.\n3) An Personen mit oder ohne Wohnsitz im Inland, die nicht Mitglieder eines Fischereivereins sind, können Fischereikarten für höchstens sechs Tage im Jahr abgegeben werden. Davon können für den Stausee Steg Ausnahmen gemacht werden. Für Personen ohne Wohnsitz im Inland kann ein Gebührenzuschlag erhoben werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Fischereiberechtigung",
+      "section": "8",
+      "title": "Art. 8 Krebsfang",
+      "content": "Für den Fang von Krebsen bedarf es einer besonderen Bewilligung der Regierung."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II. Fischereiberechtigung",
+      "section": "9",
+      "title": "Art. 9 Mindestalter",
+      "content": "1) Der Erwerb von Fischereikarten ist vom zurückgelegten 18. Altersjahr an möglich.\n2) Die Regierung umschreibt in einer Verordnung die Voraussetzungen, unter welchen auch jüngere Personen Fischereikarten erlangen können.\nIII. Ausübung der Fischerei und Schutz der Fische"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "10",
+      "title": "Art. 10 Fang und Fanggeräte",
+      "content": "1) Der Fischfang darf nur mit der Angelrute ausgeübt werden. Die Regierung kann andere Fanggeräte bewilligen oder vorschreiben.\n2) Die Verwendung lebender Fische als Köder ist verboten.\n3) Das Watfischen ist in allen Fliessgewässern verboten. Davon ausgenommen ist der Rhein.\n4) Die Regierung regelt Art und Verwendung der Fang- und Hilfsgeräte mit Verordnung. Dabei ist dem Schutz der Fische und Krebse in bestmöglicher Weise Rechnung zu tragen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "11",
+      "title": "Art. 11 Betretungsrecht",
+      "content": "1) Der Fischereiberechtigte ist befugt, die an die Gewässer angrenzenden Grundstücke zu betreten, soweit dies zur Ausübung der Fischerei notwendig ist. Gebäude und eingezäunte Anlagen dürfen nur mit Zustimmung des Besitzers betreten werden.\n2) Auf Grundstücken, die an die Gewässerufer anstossen, ist für die Ausübung der Fischerei ein genügender Durchgang dem Ufer entlang offenzulassen.\n3) Schäden, die bei der Ausübung des Betretungsrechts entstehen, sind zu ersetzen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "12",
+      "title": "Art. 12 Schonzeiten; Fangmindestmasse",
+      "content": "1) Die Regierung regelt mit Verordnung Schonzeiten und Fangmindestmasse für Fische und Krebse sowie den Fang von Fischnährtieren.\n2) Fische und Krebse, die während ihrer Schonzeit gefangen werden oder das festgesetzte Fangmindestmass nicht erreichen, sind sofort und mit aller Sorgfalt ins Gewässer zurückzusetzen.\n3) In den Gewässern abgelegter Laich darf nicht entnommen werden. Ausnahmen bedürfen der Bewilligung der Regierung.\n4) Laichplätze dürfen nicht beschädigt werden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "13",
+      "title": "Art. 13 Laich-Fischfang",
+      "content": "Die Regierung kann zur Gewinnung von Laichgut den Fang von Fischen und Krebsen während der Schonzeit bewilligen. Während der Schonzeit gefangene und gestreifte Fische sind, wenn sie lebensfähig sind, wieder in die Gewässer auszusetzen, in denen sie gefangen werden."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "14",
+      "title": "Art. 14 Fischnährtiere; Plankton",
+      "content": "Der Fang von Fischnährtieren und die Gewinnung von Plankton ist im Einverständnis mit dem Pächter jedermann gestattet. Sie haben schonend zu erfolgen. Erfolgen sie zu gewerblichen Zwecken, bedürfen sie einer Bewilligung der Regierung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "15",
+      "title": "Art. 15 Schongebiete",
+      "content": "Zum Schutz der Fischbestände kann die Regierung Schongebiete festsetzen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "16",
+      "title": "Art. 16 Gefährdete Arten und Rassen",
+      "content": "Die Regierung bezeichnet die Arten und Rassen von Fischen und Krebsen, die einheimisch sind, sowie diejenigen, die gefährdet sind. Sie lässt in periodischen Abständen den Fisch- und Krebsbestand gutachterlich untersuchen und trifft die erforderlichen Massnahmen zum Schutze von Fischen und Krebsen, wie Fangverbot, Schongebiet, Schutz und Wiederherstellung ihrer Lebensräume."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "17",
+      "title": "Art. 17 Fremde Arten, Rassen und Varietäten",
+      "content": "1) Das Einführen und das Einsetzen orts- und landesfremder Arten, Rassen und Varietäten von Fischen und Krebsen bedürfen einer Bewilligung der Regierung.\n2) Die Bewilligung wird erteilt, wenn der Gesuchsteller nachweist, dass\na) die einheimische Tier- und Pflanzenwelt nicht gefährdet wird und\nb) keine Faunaveränderung erfolgt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "18",
+      "title": "Art. 18 Fischeinsatz",
+      "content": "Sämtliche Fischeinsätze unterstehen der Aufsicht der Regierung. Sie dürfen ein ökologisch vertretbares Mass nicht überschreiten."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III. Ausübung der Fischerei und Schutz der Fische",
+      "section": "19",
+      "title": "Art. 19 Aussergewöhnliche Verhältnisse",
+      "content": "Die Regierung kann bei Eintritt aussergewöhnlicher Verhältnisse die Fangausübung festlegen.\nIV. Schutz der Lebensräume"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "IV. Schutz der Lebensräume",
+      "section": "20",
+      "title": "Art. 20 Erhaltung und Verbesserung der Lebensräume",
+      "content": "1) Der Staat sorgt dafür, dass Bachläufe, Uferpartien und Wasservegetationen, die dem Laichen und dem Aufwachsen der Fische dienen, erhalten bleiben.\n2) Der Staat ergreift nach Möglichkeit Massnahmen, welche die Lebensbedingungen der Wassertiere verbessern."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "IV. Schutz der Lebensräume",
+      "section": "21",
+      "title": "Art. 21 Bewilligung für technische Eingriffe",
+      "content": "1) Eingriffe in die Gewässer, ihre Wasserführung oder ihren Verlauf sowie Eingriffe in die Ufer und den Grund von Gewässern bedürfen einer Bewilligung der Regierung.\n2) Einer Bewilligung bedürfen insbesondere:\na) Seeregulierungen;\nb) Fluss- und Bachverbauungen;\nc) die Schaffung künstlicher Fliessgewässer;\nd) die Verlegung von Leitungen in und entlang von Gewässern sowie der Bau von Strassen entlang von Gewässern;\ne) Fischzuchtanlagen.\n3) Anlagen, die erweitert oder wieder instandgestellt werden, gelten als Neuanlagen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "IV. Schutz der Lebensräume",
+      "section": "22",
+      "title": "Art. 22 Massnahmen für Neuanlagen",
+      "content": "1) Die Regierung hat unter Berücksichtigung der natürlichen Gegebenheiten und allfälliger anderer Interessen alle Massnahmen vorzuschreiben, die geeignet sind:\na) günstige Lebensbedingungen für die Wassertiere zu schaffen hinsichtlich\n- der Mindestabflussmenge bei Wasserentnahmen,\n- der Beschaffenheit der Sohle und der Böschungen,\n- der Zahl und Gestaltung der Fischunterschlupfe,\n- der Wassertiefe und Wassertemperatur,\n- der Fliessgeschwindigkeit,\n- der Vermeidung unnatürlicher Abflussmengen (Schwallbetrieb);\nb) die freie Fischwanderung sicherzustellen;\nc) die natürliche Fortpflanzung zu ermöglichen;\nd) zu verhindern, dass Fische und Krebse durch bauliche Anlagen oder Maschinen getötet oder verletzt werden.\n2) Lassen sich bei den vorgesehenen Eingriffen in die Gewässer, ihre Wasserführung oder ihren Verlauf sowie bei Eingriffen in die Ufer und den Grund von Gewässern keine Massnahmen finden, die schwerwiegende Beeinträchtigungen von Interessen der Fischerei im Sinne von Art. 1 verhindern können, so muss nach der Abwägung der Gesamtinteressenlage entschieden werden.\n3) Massnahmen nach Abs. 1 müssen bereits bei der Projektierung der technischen Eingriffe vorgesehen werden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "IV. Schutz der Lebensräume",
+      "section": "23",
+      "title": "Art. 23 Massnahmen für bestehende Anlagen und verbaute oder beeinträchtigte Gewässer",
+      "content": "Der Staat sorgt dafür, dass bei bestehenden Anlagen und verbauten oder beeinträchtigten Gewässern Massnahmen nach Art. 22 Abs. 1 getroffen werden, sofern die damit verbundenen Schwierigkeiten und die entstehende wirtschaftliche oder finanzielle Belastung nicht übermässig gross sind.\nV. Beschaffung von Grundlagen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "V. Beschaffung von Grundlagen",
+      "section": "24",
+      "title": "Art. 24 Fangstatistik",
+      "content": "1) Über die gefangenen Fische und Krebse sind von den Fischereiberechtigten jährlich Statistiken zu führen.\n2) Die Regierung erlässt mit Verordnung die erforderlichen Bestimmungen über die Fangstatistik."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "V. Beschaffung von Grundlagen",
+      "section": "25",
+      "title": "Art. 25 Untersuchungen",
+      "content": "Die Regierung lässt soweit erforderlich für wissenschaftliche Zwecke sowie zur Beschaffung und Bewertung der Fischgewässer den Fang von Fischen und Krebsen unabhängig von Schonzeit und Schonmass durchführen.\nVI. Fischereibeirat"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "VI. Fischereibeirat",
+      "section": "26",
+      "title": "Art. 26 Bestellung",
+      "content": "Die Regierung bestellt einen Fischereibeirat, dem je zwei Mitglieder aus den Fischerei- und Naturschutzkreisen angehören. Ebenfalls sind zwei Stellvertreter zu bestellen. Die Mandatsdauer beträgt vier Jahre. Der Vorsitz und die Geschäftsführung obliegen dem Leiter des Amtes für Umwelt."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "VI. Fischereibeirat",
+      "section": "27",
+      "title": "Art. 27 Aufgaben",
+      "content": "Der Fischereibeirat berät die Regierung in Fragen, die die Fischerei betreffen. Er ist zu allen grundsätzlichen Fragen der Fischerei zu hören.\nVII. Fischereiaufsicht"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "VII. Fischereiaufsicht",
+      "section": "28",
+      "title": "Art. 28 Ausweispflicht; Kontrollrecht",
+      "content": "Der Fischereiberechtigte hat bei der Ausübung der Fischerei den Ausweis über die Fischereiberechtigung mit sich zu führen und ihn den Aufsichtsorganen auf Verlangen vorzuweisen. Auf Verlangen der Aufsichtsorgane sind die Fischereigeräte und die gefangenen Fische vorzuzeigen. Taschen, Behälter, Motorfahrzeuge und andere Behältnisse sind auf Verlangen zu öffnen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VII. Fischereiaufsicht",
+      "section": "29",
+      "title": "Art. 29 Aufsichtsorgane",
+      "content": "Aufsichtsorgane sind:\na) Fischereiaufseher;\nb) Jagdaufseher."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VII. Fischereiaufsicht",
+      "section": "30",
+      "title": "Art. 30 Fischereiaufseher",
+      "content": "1) Die Regierung ernennt Fischereiaufseher. Ihre Aufgaben werden in einer Verordnung geregelt.\n2) Die Fischereiaufseher sind in den Pflichteid zu nehmen. Sie gelten bei der Verfolgung von Widerhandlungen gegen gesetzliche Vorschriften über die Fischerei als Organe des öffentlichen Rechts.\n3) Die Regierung sorgt für ihre Ausbildung und Instruktion."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "VII. Fischereiaufsicht",
+      "section": "31",
+      "title": "Art. 31 Polizei",
+      "content": "Die Polizeiorgane des Landes und der Gemeinden überwachen die Einhaltung der Fischereivorschriften und unterstützen die Fischereiaufseher bei ihrer Aufgabe.\nVIII. Förderung der Fischerei"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VIII. Förderung der Fischerei",
+      "section": "32",
+      "title": "Art. 32 Finanzhilfen",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VIII. Förderung der Fischerei",
+      "section": "33",
+      "title": "Art. 33 Brut- und Aufzuchtanlagen",
+      "content": "Der Staat fördert den Fisch- und Krebsbestand durch den Betrieb von Brut- und Aufzuchtanlagen. Er kann entsprechende Bestrebungen von Körperschaften und Privaten unterstützen.\nIX. Fischereiliche Schäden"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "IX. Fischereiliche Schäden",
+      "section": "34",
+      "title": "Art. 34 Wiedergutmachung",
+      "content": "1) Wer den Fischbestand schädigt oder das Fischertragsvermögen eines Gewässers schmälert, ist zur Wiedergutmachung verpflichtet. Zu ersetzen sind inbesondere:\na) die Kosten des zur raschen Wiederbevölkerung des Gewässers notwendigen Einsatzes von Jungfischen;\nb) der Ausfall des Fischertrages nach der von der Regierung festgesetzten Verrechnungsart;\nc) die aus der Feststellung des Schadens erwachsenden Kosten;\nd) die aus der Entsorgung von geschädigten Fischen entstehenden Kosten.\n2) Schäden infolge von Fluss- und Wildbachverbauungen, Meliorationen und anderen im öffentlichen Interesse liegenden Arbeiten der öffentlichen Hand fallen nicht unter diese Bestimmungen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "IX. Fischereiliche Schäden",
+      "section": "35",
+      "title": "Art. 35 Verwendung der Entschädigung",
+      "content": "Der Empfänger der Entschädigung hat den gestützt auf Art. 34 bezogenen Betrag ausschliesslich und möglichst bald zur Wiedergutmachung des Schadens oder allgemein zur Förderung der Fischerei zu verwenden.\nX. Strafen und Massnahmen"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "X. Strafen und Massnahmen",
+      "section": "36",
+      "title": "Art. 36 Widerhandlungen",
+      "content": "Wer die Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Verordnungen übertritt, insbesondere\nwer die an eine Bewilligung geknüpften Bedingungen oder Auflagen missachtet,\nwer ohne Bewilligung landesfremde Arten, Rassen und Varietäten von Fischen oder Krebsen einführt oder einsetzt,\nwer beim Fischfang die Ausweise nicht mit sich trägt,\nwer seine Pflicht zur Meldung der Fangergebnisse nicht erfüllt,\nwird, soweit auf die Tat nicht eine Bestimmung des Strafgesetzbuches anwendbar ist, von der Regierung mit einer Geldstrafe bis zu 10 000 Franken bestraft."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "X. Strafen und Massnahmen",
+      "section": "37",
+      "title": "Art. 37 Verantwortlichkeit",
+      "content": "Werden die Widerhandlungen im Geschäftsbereich einer juristischen Person oder einer Kollektiv- oder Kommanditgesellschaft oder einer Einzelfirma begangen, finden die Strafbestimmungen auf die Personen Anwendung, die für sie gehandelt haben oder hätten handeln sollen, jedoch unter solidarischer Mithaftung der juristischen Person, der Gesellschaft oder der Einzelfirma für die Geldstrafen und Kosten."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "X. Strafen und Massnahmen",
+      "section": "38",
+      "title": "Art. 38 Entzug der Fischereiberechtigung",
+      "content": "Inhabern einer Fischereiberechtigung, die in schwerer Weise den Fischereivorschriften zuwiderhandeln, kann die Berechtigung durch die Regierung auf Dauer oder für eine bestimmte Zeit entzogen werden."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "X. Strafen und Massnahmen",
+      "section": "39",
+      "title": "Art. 39 Beschlagnahme",
+      "content": "1) Auf die Beschlagnahme finden die Vorschriften der Strafprozessordnung Anwendung.\n2) Beschlagnahmt werden:\na) die bei unerlaubter Fischerei verwendeten Fanggeräte;\nb) die bei der erlaubten Fischerei verwendeten verbotenen Fanggeräte;\nc) widerrechtlich gefangene Fische, Krebse und Fischnährtiere.\n3) Beschlagnahmte Fische, Krebse und Fischnährtiere werden zugunsten des Pächters oder des Staates verwertet.\nXI. Rechtsschutz"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "XI. Rechtsschutz",
+      "section": "40",
+      "title": "Art. 40 Rechtsmittel",
+      "content": "1) Gegen Entscheidungen und Verfügungen der von der Regierung beauftragten Amtsstelle, welcher bestimmte Geschäfte nach diesem Gesetz zur selbständigen Erledigung übertragen worden sind, kann binnen 14 Tagen ab Zustellung Beschwerde bei der Regierung erhoben werden.\n2) Gegen Entscheidungen und Verfügungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\nXII. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "XII. Schlussbestimmungen",
+      "section": "41",
+      "title": "Art. 41 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "XII. Schlussbestimmungen",
+      "section": "42",
+      "title": "Art. 42 Delegation",
+      "content": "Die Regierung kann Vollzugsaufgaben, mit Ausnahme der Massnahmen zum Schutz der Lebensräume (Art. 20 bis 23), unter Vorbehalt des Rechtszuges an die Regierung an das Amt für Umwelt übertragen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "XII. Schlussbestimmungen",
+      "section": "43",
+      "title": "Art. 43 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Fischereigesetz vom 8. Dezember 1869, LGBl. 1869 Nr. 9;\nb) Gesetz vom 3. Januar 1922 betreffend die Einführung von Fischereikarten, LGBl. 1922 Nr. 5;\nc) Gesetz vom 3. Oktober 1954 über die Fischereikarten, LGBl. 1954 Nr. 14."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "XII. Schlussbestimmungen",
+      "section": "44",
+      "title": "Art. 44 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Hans-Adam\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nArt. 26 abgeändert durch LGBl. 1996 Nr. 127 und LGBl. 2012 Nr. 272 .\n2\nArt. 32 aufgehoben durch LGBl. 2005 Nr. 242 .\n3\nArt. 40 Abs. 2 abgeändert durch LGBl. 2004 Nr. 33 .\n4\nArt. 42 abgeändert durch LGBl. 1996 Nr. 127 und LGBl. 2012 Nr. 272 ."
+    }
+  ],
+  "definitions": []
+}

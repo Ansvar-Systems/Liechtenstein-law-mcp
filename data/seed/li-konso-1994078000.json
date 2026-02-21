@@ -1,0 +1,162 @@
+{
+  "id": "li-konso-1994078000",
+  "type": "statute",
+  "title": "Gesetz vom 14. September 1994 über die Motorfahrzeugsteuer",
+  "title_en": "",
+  "short_name": "LGBl 1994.078",
+  "status": "in_force",
+  "issued_date": "1994-09-14",
+  "in_force_date": "1994-09-14",
+  "url": "https://www.gesetze.li/konso/1994078000",
+  "description": "Gesetz vom 14. September 1994 über die Motorfahrzeugsteuer",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Geltungsbereich",
+      "content": "Dieses Gesetz regelt die Motorfahrzeugsteuer."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Steuerobjekt",
+      "content": "Auf Motorfahrzeuge, die zum Verkehr auf öffentlichen Strassen und Wegen benützt werden, ist nach Massgabe der folgenden Bestimmungen die Motorfahrzeugsteuer zu entrichten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Steuersubjekt",
+      "content": "1) Steuerpflichtig ist der Fahrzeughalter.\n2) Ausländische Fahrzeuge sind von dem Tag an zu besteuern, an dem sie mit liechtensteinischen Fahrzeugausweisen und liechtensteinischen Kontrollschildern versehen werden oder hätten versehen werden müssen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Steuerbefreiung",
+      "content": "Von den Steuern sind befreit:\na) Fahrzeuge des Landes, des Landesfürsten, des Erbprinzen;\nb) Fahrzeuge, die ausschliesslich oder vorwiegend für die Feuerwehr, den Rettungsdienst oder als Krankenwagen bestimmt sind;\nc) Fahrzeuge, die gemäss Verordnung über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr weder Fahrzeugausweis noch Kontrollschilder benötigen;\nd) Solar- und Elektrofahrzeuge sowie Hybrid-Fahrzeuge;\ne) Fahrzeuge, die mit Erdgas betrieben werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Steuererlass für Invalide",
+      "content": "1) Invaliden, die wegen ihres Gebrechens auf ein eigenes Fahrzeug angewiesen sind, wird auf Gesuch für ein Fahrzeug die Steuer erlassen.\n2) Über den Erlass der Motorfahrzeugsteuer entscheidet das Amt für Strassenverkehr."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Art. 6 Beginn und Ende der Steuerpflicht",
+      "content": "1) Die Steuerpflicht beginnt mit dem Tag, an dem das Kontrollschild ausgehändigt wird.\n2) Sie endet mit dem Tag, an dem das Schild zurückgegeben wird, oder beim Amt für Strassenverkehr eintrifft.\n3) Bei Fahrzeugen mit Pauschalsteuer beginnt die Steuerpflicht mit dem Monat, an dem das Kontrollschild ausgehändigt wird und sie endet am Ende des Monats, an dem es zurückgegeben wird (Monatsbesteuerung)."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Art. 7 Rechnungstellung",
+      "content": "1) Die Steuer wird für das Kalenderjahr im voraus geschuldet.\n2) Alle Steuerbeträge werden auf den ganzen Franken auf- oder abgerundet."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "8",
+      "title": "Art. 8 Steuernachforderungen und Steuerrückgaben",
+      "content": "1) Entgangene Steuern werden nachgefordert.\n2) Nicht geschuldete Steuern werden zurückbezahlt."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "9",
+      "title": "Art. 9 Verjährung",
+      "content": "1) Forderungen aus dem Steuerrechtsverhältnis verjähren nach fünf Jahren.\n2) Die Verjährung wird durch behördliche Tätigkeit unterbrochen.\n3) Die Verjährung tritt aber, abgesehen von rechtskräftigen Verfügungen, jedenfalls nach acht Jahren ein.\nII. Steuerberechnung"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Steuerberechnung",
+      "section": "10",
+      "title": "Art. 10 Bemessungsgrundlagen",
+      "content": "1) Für Motorräder und Kleinmotorräder bildet der Hubraum die Bemessungsgrundlage.\n2) Für Sattelmotorfahrzeuge bildet das Gewicht des Zuges die Bemessungsgrundlage.\n3) Für Arbeitsanhänger, landwirtschaftliche Einachser und Motoreinachser wird eine Pauschalsteuer erhoben.\n4) Für alle übrigen Fahrzeugarten bildet das Gesamtgewicht gemäss Fahrzeugausweis die Bemessungsgrundlage."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Steuerberechnung",
+      "section": "11",
+      "title": "Art. 11 Besteuerung nach Hubraum",
+      "content": "1) Die Jahressteuer berechnet sich bei Motorrädern und Kleinmotorrädern aus einem Grundbetrag von 45.65 Franken pro Kalenderjahr und einem Zuschlag von 11.40 Franken pro 100 ccm.\n2) Endet der Hubraum eines Fahrzeuges nicht auf 100 ccm, so ist der Hubraum für die Berechnung der Jahressteuer auf die nächst höheren 100 ccm aufzurunden."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Steuerberechnung",
+      "section": "12",
+      "title": "Art. 12 Besteuerung nach Gewicht",
+      "content": "1) Die Jahressteuer für Personenwagen beträgt:\na) bis 1 000 kg Gesamtgewicht: 114.10 Franken;\nb) von 1 001 bis 2 000 kg Gesamtgewicht: 29.65 Franken pro 100 kg;\nc) ab 2 001 kg Gesamtgewicht: 34.25 Franken pro 100 kg.\n2) Die Jahressteuer für Lieferwagen, Kleinbusse und leichte Motorwagen beträgt:\na) bis 1 000 kg Gesamtgewicht: 114.10 Franken;\nb) von 1 001 bis 2 000 kg Gesamtgewicht: 18.25 Franken pro 100 kg;\nc) ab 2 001 kg Gesamtgewicht: 6.85 Franken pro 100 kg.\n3) Die Jahressteuer für Lastwagen, Sattelschlepper, schwere Motorwagen, Gesellschaftswagen, Sattelmotorfahrzeuge und Traktoren beträgt:\na) bis 1 000 kg Gesamtgewicht: 114.10 Franken;\nb) von 1 001 bis 12 000 kg Gesamtgewicht: 9.15 Franken pro 100 kg;\nc) ab 12 001 kg Gesamtgewicht: 6.85 Franken pro 100 kg.\n4) Die Jahressteuer für Motorkarren sowie alle Anhänger ausser Arbeitsanhänger beträgt:\na) bis 2 000 kg Gesamtgewicht: 57.05 Franken;\nb) von 2 001 bis maximal 24 000 kg Gesamtgewicht: 2.30 Franken pro 100 kg.\n5) Die Jahressteuer für landwirtschaftliche Traktoren, Arbeitsmaschinen, Arbeitskarren, landwirtschaftliche Arbeitskarren und landwirtschaftliche Motorkarren beträgt:\na) bis 4 000 kg Gesamtgewicht: 57.05 Franken;\nb) von 4 001 bis maximal 45 000 kg Gesamtgewicht: 1.15 Franken pro 100 kg.\n6) Das Gesamtgewicht wird jeweils auf die nächsten 100 kg aufgerundet."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Steuerberechnung",
+      "section": "13",
+      "title": "Art. 13 Fahrzeuge mit Pauschalsteuern",
+      "content": "Die Pauschalsteuer beträgt:\na) für landwirtschaftliche Einachser, Motoreinachser und Arbeitsanhänger bis 3 500 kg: 57.05 Franken;\nb) für Arbeitsanhänger über 3 500 kg: 91.30 Franken."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Steuerberechnung",
+      "section": "14",
+      "title": "Art. 14 Fahrzeuge mit Wechselschildern",
+      "content": "Bei Fahrzeugen mit Wechselschildern wird die Steuer für das Fahrzeug mit dem höchsten Ansatz erhoben. Alle weiteren Fahrzeuge werden mit einer jährlichen Wechselschildgebühr von 114.10 Franken, jedoch höchstens bis zur Höhe des ersten Steuerbetrages belastet."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Steuerberechnung",
+      "section": "15",
+      "title": "Art. 15 Fahrzeuge mit Kollektivschildern",
+      "content": "Für Kollektivschilder von Motorwagen beträgt die Steuer 798.70 Franken, für alle anderen Fahrzeugarten 342.30 Franken pro Jahr."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Steuerberechnung",
+      "section": "16",
+      "title": "Art. 16 Motorfahrräder",
+      "content": "Für Motorfahrräder beträgt die Steuer 22.80 Franken pro Jahr."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II. Steuerberechnung",
+      "section": "17",
+      "title": "Art. 17 Tagesschilderbesteuerung",
+      "content": "Für den Bezug von Tagesschildern werden folgende Steuern erhoben:\na) Motorräder: 11.40 Franken pro Tag;\nb) Personenwagen, Lieferwagen, leichte Motorwagen: 17.10 Franken pro Tag;\nc) schwere Motorwagen: 22.80 Franken pro Tag;\nd) landwirtschaftliche Traktoren: 11.40 Franken pro Tag;\ne) Anhänger bis 2 000 kg: 11.40 Franken pro Tag;\nf) Anhänger über 2 000 kg: 17.10 Franken pro Tag.\nIII. Steuerbezug"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III. Steuerbezug",
+      "section": "18",
+      "title": "Art. 18 Zuständigkeit",
+      "content": "1) Die Vorschreibung und der Bezug der Motorfahrzeugsteuer obliegt dem Amt für Strassenverkehr.\n2) Die Regierung kann die Einzelheiten der Steuererhebung in einer Verordnung regeln.\nIV. Rechtsschutz"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "IV. Rechtsschutz",
+      "section": "19",
+      "title": "Art. 19 Rechtsmittel",
+      "content": "1) Gegen Verfügungen des Amts für Strassenverkehr kann binnen 14 Tagen ab Zustellung Beschwerde an die Regierung erhoben werden.\n2) Gegen Entscheidungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.\nV. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "20",
+      "title": "Art. 20 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) die Art. 116 bis 121 des Gesetzes vom 30. Januar 1961 über die Landes- und Gemeindesteuern (Steuergesetz), LGBl. 1961 Nr. 7;\nb) das Gesetz vom 30. Januar 1962 betreffend die Abänderung von Art. 118 des Steuergesetzes, LGBl. 1962 Nr. 5;\nc) das Gesetz vom 21. Dezember 1968 betreffend die Abänderung des Steuergesetzes, LGBl. 1969 Nr. 7;\nd) das Gesetz vom 12. Juni 1985 betreffend die Schaffung eines Gesetzes über die Abänderung des Steuergesetzes, LGBl. 1985 Nr. 47;\ne) das Gesetz vom 11. November 1987 betreffend die Abänderung des Gesetzes über die Landes- und Gemeindesteuern (Steuergesetz), LGBl. 1987 Nr. 66."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "V. Schlussbestimmungen",
+      "section": "21",
+      "title": "Art. 21 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am 1. Januar 1995 in Kraft.\ngez. Hans-Adam\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\n1\nArt. 4 abgeändert durch LGBl. 2000 Nr. 39 .\n2\nArt. 5 Abs. 2 abgeändert durch LGBl. 2019 Nr. 222 .\n3\nArt. 6 Abs. 2 abgeändert durch LGBl. 2019 Nr. 222 .\n4\nArt. 11 Abs. 1 abgeändert durch LGBl. 2013 Nr. 431 .\n5\nArt. 12 Abs. 1 abgeändert durch LGBl. 2013 Nr. 431 .\n6\nArt. 12 Abs. 2 abgeändert durch LGBl. 2013 Nr. 431 .\n7\nArt. 12 Abs. 3 abgeändert durch LGBl. 2013 Nr. 431 .\n8\nArt. 12 Abs. 4 abgeändert durch LGBl. 2013 Nr. 431 .\n9\nArt. 12 Abs. 5 abgeändert durch LGBl. 2013 Nr. 431 .\n10\nArt. 13 abgeändert durch LGBl. 2013 Nr. 431 .\n11\nArt. 14 abgeändert durch LGBl. 2013 Nr. 431 .\n12\nArt. 15 abgeändert durch LGBl. 2013 Nr. 431 .\n13\nArt. 16 abgeändert durch LGBl. 2013 Nr. 431 .\n14\nArt. 17 abgeändert durch LGBl. 2013 Nr. 431 .\n15\nArt. 18 Abs. 1 abgeändert durch LGBl. 2019 Nr. 222 .\n16\nArt. 19 Abs. 1 abgeändert durch LGBl. 2019 Nr. 222 .\n17\nArt. 19 Abs. 2 abgeändert durch LGBl. 2004 Nr. 33 ."
+    }
+  ],
+  "definitions": []
+}

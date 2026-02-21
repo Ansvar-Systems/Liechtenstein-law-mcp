@@ -1,0 +1,904 @@
+{
+  "id": "li-konso-2011312000",
+  "type": "statute",
+  "title": "Verordnung vom 5. Juli 2011 über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (UCITSV)",
+  "title_en": "",
+  "short_name": "UCITSV",
+  "status": "in_force",
+  "issued_date": "2011-07-05",
+  "in_force_date": "2011-07-05",
+  "url": "https://www.gesetze.li/konso/2011312000",
+  "description": "Verordnung vom 5. Juli 2011 über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (UCITSV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "A. Zweck, Gegenstand, Geltungsbereich und Begriffsbestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt in Durchführung des Gesetzes das Nähere über die Aufnahme, Ausübung und Beaufsichtigung der Tätigkeit von Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) sowie deren Verwaltungsgesellschaften, insbesondere:\na) die Rechtsformen und die Ausgestaltung der konstituierenden Dokumente;\nb) die Zulassung von OGAW;\nc) die Zulassung und Pflichten von Verwaltungsgesellschaften;\nd) die Verwahrstelle;\ne) die Verschmelzung von OGAW;\nf) die Master-Feeder-Strukturen;\ng) die Pflichten eines OGAW; und\nh) die Aufsicht.\n2) Sie dient der Umsetzung bzw. Durchführung folgender EWR-Rechtsvorschriften:\na) Richtlinie 2009/65/EG zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) ;\nb) Richtlinie 2007/16/EG zur Durchführung der Richtlinie 85/611/EWG zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) im Hinblick auf die Erläuterungen gewisser Definitionen ;\nc) Richtlinie 2010/43/EU zur Durchführung der Richtlinie 2009/65/EG im Hinblick auf organisatorische Anforderungen, Interessenkonflikte, Wohlverhalten, Risikomanagement und den Inhalt der Vereinbarung zwischen Verwahrstelle und Verwaltungsgesellschaft ;\nd) Richtlinie 2010/42/EU zur Durchführung der Richtlinie 2009/65/EG in Bezug auf Bestimmungen über Fondsverschmelzungen, Master-Feeder-Strukturen und das Anzeigeverfahren .\n2a) Sie lässt die von der EU-Kommission erlassenen unmittelbar anwendbaren Durchführungsvorschriften unberührt.\n2b) Die geltende Fassung der in Abs. 2 und 2a genannten EWR-Rechtsvorschriften ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes.\n3) Soweit in dieser Verordnung nichts anderes bestimmt ist, finden auf selbstverwaltete Investmentgesellschaften die Vorschriften für Verwaltungsgesellschaften sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "A. Zweck, Gegenstand, Geltungsbereich und Begriffsbestimmungen",
+      "section": "2",
+      "title": "Art. 2 Teilfonds",
+      "content": "1) Teilfonds im Sinne von Art. 2 Abs. 2 UCITSG sind auch Teilgesellschaftsvermögen einer Investmentgesellschaft.\n2) Für jeden Teilfonds ist eine Verwahrstelle zu bestellen. Die Vermögensgegenstände mehrerer Teilfonds unter einem gemeinsamen Dach (Umbrella) können bei unterschiedlichen Verwahrstellen verwahrt werden.\n3) Umbrellafonds mit einem einzigen Teilfonds sind zulässig. Auf den Umstand, dass nur ein Teilfonds unter dem Umbrella besteht, ist im Dokument mit wesentlichen Informationen für den Anleger (KIID) nach Art. 80 UCITSG und im Prospekt nach Art. 71 UCITSG hinzuweisen. Bis zur Zulassung eines zweiten Teilfonds unter einem Umbrella darf der Name des einen Teilfonds nicht darauf schliessen lassen, dass eine Wechselmöglichkeit in andere Teilfonds besteht."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Zweck, Gegenstand, Geltungsbereich und Begriffsbestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Auf die in dieser Verordnung verwendeten Begriffe finden die Begriffsbestimmungen der anwendbaren EWR-Rechtsvorschriften, insbesondere der Richtlinien 2007/16/EG, 2010/43/EU und 2010/42/EU sowie der Delegierten Verordnung (EU) 2016/438 , Anwendung.\n1a) Als Vertrieb im Sinne dieser Verordnung gilt das direkte oder indirekte, auf Initiative der Verwaltungsgesellschaft oder in deren Auftrag erfolgende Anbieten oder Platzieren von Anteilen des OGAW an Anleger oder bei Anlegern mit Wohnsitz oder Sitz innerhalb des EWR.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige weiblichen und männlichen Geschlechts zu verstehen.\nB. Rechtsformen\n1. Inhalt der konstituierenden Dokumente"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "4",
+      "title": "Art. 4 Richtlinien der Anlagepolitik",
+      "content": "1) Die in den konstituierenden Dokumenten enthaltene Anlagepolitik des OGAW hat das Anlageziel und die Anlagestrategie nach Art. 50 bis 59 UCITSG zu definieren sowie die zulässigen Anlagen wie folgt festzulegen:\na) nach ihrer Art;\nb) nach Branchen, Ländern oder Ländergruppen; oder\nc) nach ihrem Anteil am Vermögen.\n2) Bildet der OGAW einen Index nach, so ist dieser zu benennen und das Mass der Nachbildung zu beziffern."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "5",
+      "title": "Art. 5 Regelungen zur Anteilsbewertung",
+      "content": "1) Die Regeln in den konstituierenden Dokumenten zur Bewertung des Vermögens sowie die Berechnung des Ausgabe- oder Verkaufspreises und des Rücknahme- oder Auszahlungspreises der Anteile eines OGAW oder einer bestimmten Art eines OGAW haben den Marktusancen und internationalen Standards zu entsprechen.\n2) Die FMA kann Abs. 1 entsprechende Standards für verbindlich erklären."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "6",
+      "title": "Art. 6 Transparenzgebot",
+      "content": "1) Belastungen des Vermögens eines OGAW oder des Anlegers durch Kosten und Gebühren sind in den konstituierenden Dokumenten detailliert aufzuführen.\n2) Die Regelungen zu Kosten und Gebühren in den konstituierenden Dokumenten müssen transparent sein. Transparenz ist gegeben, wenn die nach Massgabe von Art. 10 bis 14 und Anhang II der Verordnung (EU) Nr. 583/2010 zu erstellenden Informationen für den Anleger nachvollziehbar und verständlich sind."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "7",
+      "title": "Art. 7 Allgemeine inhaltliche Anforderungen",
+      "content": "1) Die Art, Höhe und Berechnung der Verwaltervergütung, Gebühren und Kosten in den konstituierenden Dokumenten müssen neben den Vorschriften des Gesetzes und dieser Verordnung den Marktusancen und internationalen Standards entsprechen.\n2) Die FMA kann Abs. 1 entsprechende Standards für verbindlich erklären."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "8",
+      "title": "Art. 8 Ausweis der laufenden Gebühren, Art der Gebühren",
+      "content": "1) Die Belastung des Vermögens des OGAW mit laufenden Gebühren ist in den konstituierenden Dokumenten mit Angaben zum Betrag oder Prozentsatz zu unterteilen in:\na) vom Vermögen abhängiger Aufwand (variabel);\nb) vom Vermögen unabhängiger Aufwand (fix);\nc) vom Anlageerfolg abhängiger Aufwand.\n2) Die Erhebung von Mindestgebühren bei vom Vermögen abhängigem Aufwand ist zulässig.\n3) Die Belastung des Vermögens des OGAW mit laufenden Gebühren ist der Art nach unterteilbar in:\na) Einzelaufwand nach Art. 9;\nb) Pauschalaufwand, d.h. die Zusammenfassung von Einzelaufwand nach Art. 9 zu einer oder mehreren Pauschalgebühren.\n4) Eine Regelung, wonach neben Einzelaufwand zusätzlich ein fixer Pauschalaufwand für dieselbe Gegenleistung geschuldet wird, ist unzulässig.\n5) Aufgehoben"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "9",
+      "title": "Art. 9 Mindestregelungen zu den laufenden Gebühren",
+      "content": "1) Die Gebührenregelung in den konstituierenden Dokumenten hat zumindest Regelungen über Aufwendungen zu enthalten für:\na) die Verwaltungsgesellschaft, allenfalls unterteilt nach Administration, Anlageentscheid und Risikomanagement sowie Vertrieb;\nb) die Verwahrstelle;\nc) die Wirtschaftsprüfung;\nd) die Aufsicht;\ne) Transaktionskosten;\nf) Veröffentlichungen;\ng) Kosten des Auslandsvertriebs; und\nh) ausserordentliche Dispositionskosten.\n2) Ein erfolgsabhängiger Aufwand (Performance Fee) ist als separate Angabe zusätzlich bei dem Aufwand für die Verwaltungsgesellschaft auszuweisen.\n3) Transaktionsbezogene Vergütungen im Zuständigkeitsbereich der Verwaltungsgesellschaft sind beim Aufwand für die Verwaltungsgesellschaft je nach Entstehungsbereich unterteilt nach Administration oder Risikomanagement auszuweisen. Transaktionsbezogene Vergütungen für den Anlageentscheid oder den Vertrieb sind nicht zulässig.\n4) Ausserordentliche Dispositionskosten setzen sich aus dem Aufwand zusammen, der ausschliesslich der Wahrung des Anlegerinteresses dient, im Laufe der regelmässigen Geschäftstätigkeit entsteht und bei Gründung des Fonds nicht vorhersehbar war. Ausserordentliche Dispositionskosten sind insbesondere Rechtsberatungs- und Verfahrenskosten im Interesse des OGAW oder der Anleger."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "10",
+      "title": "Art. 10 Regeln zur Anteilsausgabe und -rücknahme",
+      "content": "1) Die Regeln in den konstituierenden Dokumenten zur Anteilsausgabe und -rücknahme müssen:\na) Marktusancen und internationalen Standards entsprechen, welche von der FMA für verbindlich erklärt wurden;\nb) den Annahmeschluss pro Börsentag konkret angeben;\nc) Kriterien für die Aussetzung nach Art. 85 Abs. 2 UCITSG festlegen.\n2) Die Verwaltungsgesellschaft ist für die Einhaltung des Annahmeschlusses nach Abs. 1 Bst. b durch die Vertriebsintermediäre zuständig.\n3) Unbeschadet der Pflicht, Anteile zu jedem Bewertungstermin nach Art. 86 UCITSG zurückzunehmen, kann die Anteilsrücknahme in den konstituierenden Dokumenten wie folgt geregelt werden:\na) börsentäglich;\nb) wöchentlich;\nc) zweiwöchentlich; oder\nd) in Ausnahmefällen monatlich, soweit sich dies nicht nachteilig auf die Interessen der Anleger auswirkt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Inhalt der konstituierenden Dokumente",
+      "section": "11",
+      "title": "Art. 11 Regelungen zur Abwicklung eines OGAW",
+      "content": "1) Die Regelungen in den konstituierenden Dokumenten zur Abwicklung eines OGAW haben mindestens vorzusehen, dass die Verwaltungsgesellschaft den Beschluss über die Abwicklung eines OGAW oder eines Teilfonds:\na) den Anlegern unverzüglich, mindestens aber 30 Tage vor dem Beginn der Abwicklung mitteilt; und\nb) der FMA unverzüglich nach Mitteilung an die Anleger mitteilt; gleichzeitig ist bei der FMA eine Kopie der Anlegerinformation einzureichen.\n2) Sofern die konstituierenden Dokumente keine hinreichend konkreten Regelungen zur Abwicklung enthalten, gilt Art. 60 Abs. 1 sinngemäss.\n2. Eintragung in das Handelsregister"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Eintragung in das Handelsregister",
+      "section": "12",
+      "title": "Art. 12 Grundsatz",
+      "content": "Die Verwaltungsgesellschaft hat binnen 30 Tagen nach Zustellung des Zulassungsentscheids oder der schriftlichen Bestätigung der FMA nach Art. 10 Abs. 6 UCITSG für den Investmentfonds und die Kollektivtreuhänderschaft beim Amt für Justiz die Eintragung in das Handelsregister zu beantragen.\nII. Zulassung eines OGAW"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "13",
+      "title": "Art. 13 Mindestvermögen",
+      "content": "1) Sofern die Geschäftstätigkeit nicht mit der Zulassung aufgenommen wird, ist die Aufnahme der Geschäftstätigkeit eines zugelassenen OGAW der FMA unverzüglich anzuzeigen. Als Aufnahme der Geschäftstätigkeit gilt die Erstausgabe von Anteilen.\n2) Das Mindestvermögen nach Art. 9 Abs. 4 UCITSG beträgt 1,25 Millionen Euro oder den Gegenwert in Schweizer Franken und ist binnen eines Jahres nach der Zulassung oder, sofern die Geschäftstätigkeit mit einer Anzeige nach Abs. 1 aufgenommen wird, binnen eines Jahres nach Zugang der Anzeige bei der FMA zu erreichen. Die Unterschreitung des Mindestvermögens ist der FMA unverzüglich anzuzeigen. In den konstituierenden Dokumenten darf von der Verwaltungsgesellschaft für jeden OGAW ein höheres Mindestvermögen festgesetzt werden.\n3) Die FMA kann auf begründeten Antrag der Verwaltungsgesellschaft von der Anzeigepflicht nach Abs. 1 befreien oder die Frist nach Abs. 2 bis zu zwei Mal auf bis zu jeweils sechs Monate verlängern.\n4) Im Fall der Befreiung oder der Fristverlängerung dürfen dem OGAW keine Mindestgebühren berechnet werden.\n5) Abs. 2 bis 4 gelten sinngemäss für den Fall, dass das Mindestvermögen zu einem beliebigen Zeitpunkt wieder unterschritten wird.\n6) Wird das Mindestvermögen innert der in Abs. 2 und 3 vorgesehenen Fristen nicht erreicht, so erlischt die Zulassung des OGAW."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "14",
+      "title": "Art. 14 Erstmalige Geltung der kurzen Bearbeitungsfrist und der Zulassungswirkung",
+      "content": "Die Frist nach Art. 10 Abs. 4 UCITSG mit der Zulassungswirkung nach Art. 10 Abs. 6 UCITSG gilt bei einem neuen Antragsteller erst, wenn mehrere OGAW einer Verwaltungsgesellschaft in Liechtenstein zugelassen worden sind. Bis dahin gelten die Fristen nach Art. 10 Abs. 5 UCITSG."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "15",
+      "title": "Art. 15 Gründe für die Fristverlängerung",
+      "content": "1) Die FMA kann die Fristen nach Art. 10 Abs. 4 UCITSG verlängern, wenn:\na) der Antragsteller nicht das von der FMA bereitgestellte Formular verwendet oder nicht vollständig ausfüllt;\nb) der Antragsteller keine Musterdokumente verwendet oder von den Musterdokumenten abweicht;\nc) aufgrund von Mitteilungen anderer Aufsichtsbehörden innerhalb des EWR oder von Drittstaaten zur Verwaltungsgesellschaft oder ihren Geschäftsleitern eine Fristverlängerung angemessen oder erforderlich ist;\nd) das Gebührenmodell in den konstituierenden Dokumenten nicht den Anforderungen der Art. 6 bis 9 entspricht oder intransparent dargestellt ist;\ne) die Regelungen zur Anteilsbewertung nicht den Anforderungen des Art. 5 entsprechen oder intransparent dargestellt sind;\nf) Anhaltspunkte für einen Gesetzesverstoss gegeben sind, zu dessen Aufklärung weitere Informationen erforderlich sind; oder\ng) aus den Ausführungen zur Anlagepolitik nicht klar erkennbar ist, ob die Anlagepolitik den Bestimmungen des Gesetzes, insbesondere den Art. 50 bis 59 UCITSG, entspricht.\n2) Im Fall der Fristverlängerung ist der Verlängerungsgrund nach Abs. 1 mit Angabe der massgeblichen Verordnungsbestimmung anzugeben."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "16",
+      "title": "Art. 16 Aussetzung der Zulassungswirkung in Ausnahmefällen",
+      "content": "1) Die FMA kann die Zulassungswirkung nach Art. 10 Abs. 6 iVm Abs. 4 UCITSG in Ausnahmefällen aussetzen, wenn Sinn und Zweck des Gesetzes gefährdet erscheinen. Dies ist insbesondere der Fall, wenn:\na) der Anlegerschutz oder das öffentliche Interesse der Anwendung der Zulassungswirkung entgegenstehen;\nb) eine rechtsmissbräuchliche Ausnutzung der Zulassungswirkung anzunehmen ist; oder\nc) sonstige aussergewöhnliche Umstände vorliegen.\n2) Aussergewöhnliche Umstände ergeben sich namentlich aus der Anzahl der bei der FMA eingegangenen Anträge, den personellen oder technischen Ressourcen der FMA oder ausserordentlichen Ereignissen auf dem Finanzplatz.\n3) Im Fall der Aussetzung gelten die Fristen nach Art. 10 Abs. 5 UCITSG.\n4) Die Aussetzung ist bekanntzumachen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "17",
+      "title": "Art. 17 Bestätigung der Zulassungswirkung",
+      "content": "Die FMA hat die Zulassungswirkung des Fristablaufs unverzüglich schriftlich zu bestätigen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "18",
+      "title": "Art. 18 Vollständigkeit des Antrags",
+      "content": "1) Der Antrag nach Art. 10 UCITSG ist vollständig, wenn:\na) die für den Antrag notwendigen Unterlagen eingereicht wurden;\nb) das Antragsformular der FMA ordnungsgemäss und in nicht handschriftlicher Form ausgefüllt wurde;\nc) eine Bestätigung von mindestens einem Geschäftsleiter der Verwaltungsgesellschaft vorliegt, dass die in den Unterlagen beschriebenen Tatsachen zutreffen;\nd) gegebenenfalls eine Erklärung darüber vorliegt, dass die eingereichten Unterlagen keine Abweichungen von den genehmigten Musterdokumenten enthalten, oder, wenn es zu Abweichungen kommt, in transparenter oder durch optische Hilfsmittel unterstützte Weise dargestellt wird, in welcher Form die eingereichten Unterlagen von den genehmigten Musterdokumenten abweichen.\n2) Die FMA hat auf dem Antragsformular die gesetzlich geforderten Begleitdokumente anzuführen.\n3) Die FMA kann weitere Unterlagen und Angaben verlangen, soweit dies aufgrund des öffentlichen Interesses erforderlich ist."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "II. Zulassung eines OGAW",
+      "section": "19",
+      "title": "Art. 19 Mitteilung des Geschäftsleiterwechsels bei der Verwahrstelle",
+      "content": "Die Mitteilung einer neuen Geschäftsleitung nach dem Bankengesetz ersetzt die nach Art. 11 Abs. 3 UCITSG erforderliche Mitteilung für Verwahrstellen in Liechtenstein.\nIII. Zulassung und Pflichten von Verwaltungsgesellschaften\nA. Zulassung von Verwaltungsgesellschaften"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "A. Zulassung von Verwaltungsgesellschaften",
+      "section": "20",
+      "title": "Art. 20 Rechtsform und Geschäftsplan",
+      "content": "1) Die Verwaltungsgesellschaft muss eine juristische Person oder eine Kommanditgesellschaft sein.\n2) Die Verwaltungsgesellschaft muss über einen Verwaltungs- oder Aufsichtsrat verfügen, dessen Aufgaben nach der Satzung oder dem Gesellschaftsvertrag denen eines Verwaltungsrats nach Art. 344 bis 349 PGR oder eines Aufsichtsrats nach Art. 27 bis 34 SEG entspricht.\n3) Der Geschäftsplan nach Art. 15 Abs. 1 Bst. c UCITSG muss insbesondere enthalten:\na) Angaben über:\n1. Organisation;\n2. Personal;\n3. Büro- und Geschäftsausstattung;\nb) eine vom Wirtschaftsprüfer auf rechnerische Richtigkeit und Plausibilität geprüfte Planbilanz und eine Planerfolgsrechnung zumindest für die ersten drei Geschäftsjahre.\n4) Die Angaben nach Abs. 3 Bst. a Ziff. 1 sind in folgende Aufgabenbereiche zu unterteilen:\na) Anlageverwaltung, bestehend aus Anlageentscheid und Risikomanagement;\nb) Administration;\nc) Vertrieb.\n5) Im Geschäftsplan sind die Zeiträume anzugeben, in denen die Planziele erreicht werden sollen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "A. Zulassung von Verwaltungsgesellschaften",
+      "section": "21",
+      "title": "Art. 21 Gewähr für einwandfreie Geschäftstätigkeit",
+      "content": "1) Die Geschäftsleiter der Verwaltungsgesellschaft müssen gemeinsam aufgrund ihrer Ausbildung oder ihrer bisherigen beruflichen Laufbahn fachlich für die vorgesehene Aufgabe ausreichend qualifiziert sein.\n2) Die FMA berücksichtigt bei der Festlegung der qualitativen Anforderungen unter anderem die Richtlinien der Anlagepolitik.\n3) Die Geschäftsleiter müssen auch unter Berücksichtigung ihrer weiteren Verpflichtungen, ihres Wohnorts und der Infrastruktur sowie Organisation des Unternehmens in der Lage sein, ihre Aufgaben einwandfrei zu erfüllen.\n4) Zum Zwecke der Sicherstellung einer ordnungsgemässen Geschäftstätigkeit kann die FMA ein Kollektivzeichnungsrecht der Geschäftsleiter zu zweien anordnen.\n5) Aufgehoben\nB. Pflichten der Verwaltungsgesellschaft"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "B. Pflichten der Verwaltungsgesellschaft",
+      "section": "22",
+      "title": "Art. 22 Änderungen des Geschäftsplans",
+      "content": "1) Nur materielle Änderungen des Geschäftsplans bedürfen der Mitteilung nach Art. 18 Abs. 1 UCITSG.\n2) Eine materielle Änderung liegt vor, wenn eine Verwaltungsgesellschaft Grössen- oder Risikoklassen über- oder unterschreitet. Eine Grössen- oder Risikoklasse wird über- oder unterschritten, wenn infolge der Veränderung des Geschäftsplans zusätzliche rechtliche oder organisatorische Anforderungen entstehen oder solche Anforderungen entfallen.\n3) Die FMA ist berechtigt, die Grössen- oder Risikoklassen nach Abs. 2 zu konkretisieren.\n4) Wird von der FMA ein Antragsformular bereitgestellt, sind Änderungen, die nach Art. 18 Abs. 1 UCITSG der Mitteilungspflicht unterliegen, nur solche Änderungen des Geschäftsplans, die zu einer Änderung der Angaben im Antragsformular der Verwaltungsgesellschaft führen. Die FMA kann die Verwaltungsgesellschaft von der Pflicht zur Einreichung einzelner Angaben befreien."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "B. Pflichten der Verwaltungsgesellschaft",
+      "section": "23",
+      "title": "Art. 23 Qualifizierte Beteiligungen",
+      "content": "1) Die Absicht, eine qualifizierte Beteiligung im Sinne von Art. 19 Abs. 1 UCITSG zu erwerben, zu erhöhen oder zu veräussern, liegt vor, wenn ein verbindliches Angebot oder ein endgültiger Beschluss der Geschäftsleitung oder des Verwaltungsrats zum Erwerb, zur Erhöhung oder zur Veräusserung gefasst wurde. Der jeweils frühere Zeitpunkt ist massgeblich.\n2) Das Verfahren und die Kriterien zur Beurteilung des Erwerbs, der Erhöhung oder der Veräusserung von qualifizierten Beteiligungen an einer Verwaltungsgesellschaft richten sich sinngemäss nach Art. 10b und 10c VVG."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "B. Pflichten der Verwaltungsgesellschaft",
+      "section": "24",
+      "title": "Art. 24 Aufgabenübertragung",
+      "content": "1) Eine Verwaltungsgesellschaft hat der FMA die Übertragung von Aufgaben nach Art. 22 UCITSG spätestens zehn Werktage vor der zivilrechtlichen Wirksamkeit und der tatsächlichen Aufnahme der Geschäfte durch den beauftragten Dritten unter Verwendung eines amtlichen Formulars anzuzeigen.\n2) Die Anzeige nach Abs. 1 hat zu enthalten:\na) den beauftragten Dritten;\nb) die übertragenen Aufgaben; und\nc) die organisatorischen Folgewirkungen.\nC. Wohlverhaltensregeln"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "25",
+      "title": "Art. 25 Pflicht, im besten Interesse der OGAW und ihrer Anleger zu handeln",
+      "content": "1) Die Verwaltungsgesellschaft hat eine faire Behandlung der Anleger von verwalteten OGAW sicherzustellen. Sie stellt die Interessen einer bestimmten Gruppe von Anlegern nicht über die Interessen einer anderen Anlegergruppe.\n2) Die Verwaltungsgesellschaft hat angemessene Grundsätze und Verfahren zur Verhinderung unzulässiger Praktiken anzuwenden, von denen normalerweise eine Beeinträchtigung der Marktstabilität und -integrität zu erwarten wäre.\n3) Die Verwaltungsgesellschaft hat sicherzustellen, dass für die von ihr verwalteten OGAW faire, korrekte und transparente Kalkulationsmodelle und Bewertungssysteme verwendet werden, damit der Pflicht, im besten Interesse der Anleger zu handeln, Genüge getan ist. Sie muss nachweisen können, dass die OGAW-Portfolios präzise bewertet wurden.\n4) Die Verwaltungsgesellschaft hat durch ihre Handlungsweise zu verhindern, dass den OGAW und ihren Anlegern überzogene Kosten in Rechnung gestellt werden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "26",
+      "title": "Art. 26 Sorgfaltspflichten",
+      "content": "1) Die Verwaltungsgesellschaft hat im besten Interesse der OGAW und der Marktintegrität bei der Auswahl und laufenden Überwachung der Anlagen grosse Sorgfalt walten zu lassen.\n2) Die Verwaltungsgesellschaft hat sicherzustellen, dass sie über ausreichendes Wissen und ausreichende Erkenntnisse über die Anlagen, in die die OGAW investiert werden, verfügen.\n3) Die Verwaltungsgesellschaft hat schriftliche Grundsätze und Verfahren zum Thema Sorgfaltspflichten festzulegen und wirksame Vorkehrungen zu treffen, um zu gewährleisten, dass Anlageentscheidungen, die für die OGAW getroffen werden, mit deren Zielen, Anlagestrategie und Risikolimits übereinstimmen.\n4) Die Verwaltungsgesellschaft hat bei der Umsetzung ihrer Risikomanagement-Grundsätze und soweit dies unter Berücksichtigung der Art einer geplanten Anlage angemessen ist, in Bezug auf den Beitrag, den die Anlage zur Zusammensetzung des OGAW-Portfolios, zu dessen Liquidität und zu dessen Risiko- und Ertragsprofil leistet, vor Tätigung der Anlage Prognosen abzugeben und Analysen anzustellen. Die Analysen dürfen sich quantitativ wie qualitativ nur auf verlässliche und aktuelle Daten stützen.\n5) Wenn Verwaltungsgesellschaften mit Dritten Vereinbarungen über die Ausführung von Tätigkeiten im Bereich des Risikomanagements schliessen, solche Vereinbarungen verwalten oder beenden, lassen sie dabei die gebotene Sachkenntnis, Sorgfalt und Gewissenhaftigkeit walten. Vor dem Abschluss solcher Vereinbarungen leiten die Verwaltungsgesellschaften die notwendigen Schritte ein, um sich zu vergewissern, dass der Dritte über die erforderlichen Fähigkeiten und Kapazitäten verfügt, um die betreffenden Tätigkeiten zuverlässig, professionell und wirksam auszuführen. Die Verwaltungsgesellschaft legt Methoden für die laufende Bewertung der Leistungen des Dritten fest.\n6) Die Verwaltungsgesellschaft hat bei der Erfüllung der in Abs. 1 bis 5 aufgeführten Anforderungen Nachhaltigkeitsrisiken zu berücksichtigen.\n7) Die Verwaltungsgesellschaft hat, soweit sie die wichtigsten nachteiligen Auswirkungen von Investitionsentscheidungen auf Nachhaltigkeitsfaktoren nach Art. 4 Abs. 1 Bst. a der Verordnung (EU) 2019/2088 oder nach Massgabe von Art. 4 Abs. 3 und 4 der genannten Verordnung berücksichtigt, diesen wichtigsten nachteiligen Auswirkungen bei der Erfüllung der in den Abs. 1 bis 5 dieser Bestimmung aufgeführten Anforderungen Rechnung zu tragen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "27",
+      "title": "Art. 27 Mitteilungspflichten in Bezug auf die Ausführung von Zeichnungs- und Rücknahmeaufträgen",
+      "content": "1) Die Verwaltungsgesellschaft hat einem Anleger, dessen Zeichnungs- oder Rücknahmeauftrag sie ausgeführt hat, diese Ausführung schnellstmöglich, spätestens jedoch am ersten Geschäftstag nach Auftragsausführung oder - sofern die Verwaltungsgesellschaft die Bestätigung von einem Dritten erhält - spätestens am ersten Geschäftstag nach Eingang der Bestätigung des Dritten auf einem dauerhaften Datenträger zu bestätigen. Diese Bestimmung findet jedoch keine Anwendung, wenn die Bestätigungsmitteilung die gleichen Informationen enthalten würde wie eine Bestätigung, die dem Anleger von einer anderen Person unverzüglich zuzusenden ist.\n2) Die Mitteilung nach Abs. 1 enthält, sofern anwendbar, folgende Angaben:\na) Name der Verwaltungsgesellschaft;\nb) Name oder sonstige Bezeichnung des Anlegers;\nc) Datum und Uhrzeit des Auftragseingangs sowie Zahlungsweise;\nd) Datum der Ausführung;\ne) Name des OGAW;\nf) Art des Auftrags (Zeichnung oder Rücknahme);\ng) Zahl der betroffenen Anteile;\nh) Stückwert, zu dem die Anteile gezeichnet bzw. zurückgenommen wurden;\ni) Referenz-Wertstellungsdatum;\nk) Bruttoauftragswert einschliesslich Zeichnungsgebühren oder Nettobetrag nach Rücknahmegebühren;\nl) Summe der in Rechnung gestellten Provisionen und Auslagen sowie auf Wunsch des Anlegers Aufschlüsselung nach Einzelposten.\n3) Bei regelmässiger Auftragsausführung für einen Anleger verfährt die Verwaltungsgesellschaft entweder nach Abs. 1 oder übermittelt dem Anleger mindestens alle sechs Monate die in Abs. 2 aufgeführten Informationen über die betreffenden Geschäfte.\n4) Die Verwaltungsgesellschaft übermittelt dem Anleger auf Wunsch Informationen über den Status seines Auftrags."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "28",
+      "title": "Art. 28 Ausführung von Handelsentscheidungen für die verwalteten OGAW",
+      "content": "1) Die Verwaltungsgesellschaft hat im besten Interesse der von ihr verwalteten OGAW zu handeln, wenn sie für diese bei der Verwaltung ihrer Portfolios Handelsentscheidungen ausführt.\n2) Für die Zwecke von Abs. 1 hat die Verwaltungsgesellschaft alle angemessenen Massnahmen zu ergreifen, um das bestmögliche Ergebnis für den OGAW zu erzielen, wobei sie den Kurs, die Kosten, die Geschwindigkeit und Wahrscheinlichkeit der Ausführung und Abrechnung, den Umfang und die Art des Auftrags sowie alle sonstigen, für die Auftragsausführung relevanten Aspekte berücksichtigt. Die relative Bedeutung dieser Faktoren wird anhand folgender Kriterien bestimmt:\na) Ziele, Anlagepolitik und spezifische Risiken des OGAW, wie im Prospekt oder gegebenenfalls in den Vertragsbedingungen oder der Satzung des OGAW dargelegt;\nb) Merkmale des Auftrags;\nc) Merkmale der Finanzinstrumente, die Gegenstand des betreffenden Auftrags sind;\nd) Merkmale der Ausführungsplätze, an die der Auftrag weitergeleitet werden kann.\n3) Die Verwaltungsgesellschaft hat wirksame Vorkehrungen für die Einhaltung der in Abs. 2 niedergelegten Verpflichtung zu treffen und umzusetzen. Sie legt insbesondere Grundsätze fest, die ihr bei OGAW-Aufträgen die Erzielung des bestmöglichen Ergebnisses nach Abs. 2 gestatten, und setzt diese um. Sie holt zu den Grundsätzen für die Auftragsausführung die vorherige Zustimmung der Investmentgesellschaft ein. Sie stellt den Anlegern angemessene Informationen über die nach diesem Artikel festgelegten Grundsätze und wesentliche Änderungen daran zur Verfügung.\n4) Die Verwaltungsgesellschaft überwacht die Wirksamkeit ihrer Vorkehrungen und Grundsätze für die Auftragsausführung regelmässig, um etwaige Mängel aufzudecken und bei Bedarf zu beheben. Ausserdem unterzieht die Verwaltungsgesellschaft ihre Grundsätze für die Auftragsausführung alljährlich einer Überprüfung. Eine Überprüfung findet auch immer dann statt, wenn eine wesentliche Veränderung eintritt, die die Fähigkeit der Verwaltungsgesellschaft beeinträchtigt, für die verwalteten OGAW auch weiterhin das bestmögliche Ergebnis zu erzielen.\n5) Die Verwaltungsgesellschaft kann nachweisen, dass sie Aufträge für OGAW entsprechend ihren Grundsätzen für die Auftragsausführung ausgeführt hat."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "29",
+      "title": "Art. 29 Weiterleitung von OGAW-Handelsaufträgen an andere Ausführungseinrichtungen",
+      "content": "1) Die Verwaltungsgesellschaft hat im besten Interesse der von ihr verwalteten OGAW zu handeln, wenn sie bei der Verwaltung ihrer Portfolios Handelsaufträge für die verwalteten OGAW zur Ausführung an andere Einrichtungen weiterleitet.\n2) Die Verwaltungsgesellschaft hat alle angemessenen Massnahmen zu ergreifen, um das bestmögliche Ergebnis für den OGAW zu erzielen, wobei sie den Kurs, die Kosten, die Geschwindigkeit und die Wahrscheinlichkeit der Ausführung und Abrechnung, den Umfang und die Art des Auftrags sowie alle sonstigen, für die Auftragsausführung relevanten Aspekte berücksichtigt. Die relative Bedeutung dieser Faktoren wird anhand von Art. 28 Abs. 2 bestimmt. Für diese Zwecke legt die Verwaltungsgesellschaft Grundsätze fest, die ihr die Erfüllung dieser Verpflichtung gestattet, und setzt diese um. In diesen Grundsätzen werden für jede Instrumentengattung die Einrichtungen genannt, bei denen Aufträge platziert werden dürfen. Die Verwaltungsgesellschaft geht nur dann Ausführungsvereinbarungen ein, wenn diese mit den in diesem Artikel niedergelegten Verpflichtungen vereinbar sind. Die Verwaltungsgesellschaft stellt den Anlegern angemessene Informationen über die nach diesem Absatz festgelegten Grundsätze und wesentliche Änderungen daran zur Verfügung.\n3) Die Verwaltungsgesellschaft überwacht die Wirksamkeit der nach Abs. 2 festgelegten Grundsätze, insbesondere die Qualität der Ausführung durch die in diesen Grundsätzen genannten Einrichtungen regelmässig und behebt bei Bedarf etwaige Mängel. Ausserdem unterzieht die Verwaltungsgesellschaft ihre Grundsätze alljährlich einer Überprüfung. Eine solche Überprüfung findet auch immer dann statt, wenn eine wesentliche Veränderung eintritt, die die Fähigkeit der Verwaltungsgesellschaft beeinträchtigt, für die verwalteten OGAW auch weiterhin das bestmögliche Ergebnis zu erzielen.\n4) Die Verwaltungsgesellschaft kann nachweisen, dass sie Aufträge für OGAW entsprechend den nach Abs. 2 festgelegten Grundsätzen platziert hat."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "30",
+      "title": "Art. 30 Bearbeitung von Aufträgen",
+      "content": "1) Die Verwaltungsgesellschaft hat Verfahren und Vorkehrungen festzulegen und umzusetzen, die für die umgehende, redliche und zügige Ausführung der für OGAW getätigten Portfoliogeschäfte sorgen. Die von der Verwaltungsgesellschaft umgesetzten Verfahren und Vorkehrungen erfüllen folgende Voraussetzungen:\na) Sie gewährleisten, dass für OGAW ausgeführte Aufträge umgehend und korrekt registriert und zugewiesen werden.\nb) Ansonsten vergleichbare OGAW-Aufträge werden der Reihe nach umgehend ausgeführt, es sei denn, die Merkmale des Auftrags oder die herrschenden Marktbedingungen machen dies unmöglich oder die Interessen des OGAW verlangen etwas anderes.\n2) Finanzinstrumente oder Gelder, die zur Abwicklung der ausgeführten Aufträge eingegangen sind, werden umgehend und korrekt auf dem Konto des betreffenden OGAW verbucht.\n3) Eine Verwaltungsgesellschaft darf Informationen im Zusammenhang mit laufenden OGAW-Aufträgen nicht missbrauchen und trifft alle angemessenen Massnahmen, um den Missbrauch derartiger Informationen durch ihre relevanten Personen zu verhindern."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "31",
+      "title": "Art. 31 Zusammenlegung und Zuweisung von Handelsaufträgen",
+      "content": "1) Die Verwaltungsgesellschaft darf keinen OGAW-Auftrag zusammen mit dem Auftrag eines anderen OGAW oder sonstigen Kunden oder zusammen mit einem Auftrag für eigene Rechnung ausführen, es sei denn, die folgenden Bedingungen sind erfüllt:\na) Es muss unwahrscheinlich sein, dass die Zusammenlegung der Aufträge für einen OGAW oder Kunden, dessen Auftrag mit anderen zusammengelegt wird, insgesamt von Nachteil ist.\nb) Es müssen Grundsätze für die Auftragszuweisung festgelegt und umgesetzt werden, die die faire Zuweisung zusammengelegter Aufträge präzise genug regeln, auch im Hinblick darauf, wie Auftragsvolumen und -preis die Zuweisungen bestimmen und wie bei Teilausführungen zu verfahren ist.\n2) Eine Verwaltungsgesellschaft, die einen OGAW-Auftrag mit einem oder mehreren anderen OGAW- oder Kundenaufträgen zusammenlegt und den zusammengelegten Auftrag teilweise ausführt, hat die zugehörigen Geschäfte entsprechend ihren Grundsätzen für die Auftragszuweisung zuzuweisen.\n3) Eine Verwaltungsgesellschaft, die Geschäfte für eigene Rechnung mit einem oder mehreren Aufträgen von OGAW oder sonstigen Kunden zusammengelegt hat, hat bei der Zuweisung der zugehörigen Geschäfte nicht in einer für den OGAW oder sonstigen Kunden nachteiligen Weise zu verfahren.\n4) Eine Verwaltungsgesellschaft, die einen OGAW- oder sonstigen Kundenauftrag mit einem Geschäft für eigene Rechnung zusammenlegt und den zusammengelegten Auftrag teilweise ausführt, hat bei der Zuweisung der zugehörigen Geschäfte dem OGAW oder sonstigen Kunden gegenüber ihren Eigengeschäften Vorrang einzuräumen. Kann die Verwaltungsgesellschaft gegenüber dem OGAW oder ihrem sonstigen Kunden jedoch schlüssig darlegen, dass sie den Auftrag ohne die Zusammenlegung nicht zu derart günstigen Bedingungen oder überhaupt nicht hätte ausführen können, kann sie das Geschäft für eigene Rechnung in Einklang mit ihren nach Abs. 1 Bst. b festgelegten Grundsätzen anteilsmässig zuweisen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "32",
+      "title": "Art. 32 Schutz der besten Interessen des OGAW",
+      "content": "1) Die Verwaltungsgesellschaft gilt nicht als ehrlich, redlich und professionell im besten Interesse des OGAW handelnd, wenn sie im Zusammenhang mit der Anlageverwaltung für den OGAW eine Gebühr oder Provision zahlt oder erhält oder wenn sie eine nicht in Geldform angebotene Zuwendung gewährt oder annimmt, es sei denn:\na) es handelt sich um eine Gebühr, eine Provision oder eine nicht in Geldform angebotene Zuwendung, die dem OGAW oder einer in seinem Auftrag handelnden Person gezahlt bzw. vom OGAW oder einer in seinem Auftrag handelnden Person gewährt wird;\nb) es handelt sich um Gebühren, die die Erbringung der betreffenden Dienstleistung ermöglichen oder dafür notwendig sind - einschliesslich Verwahrungsgebühren, Abwicklungs- und Handelsplatzgebühren, Verwaltungsabgaben oder gesetzliche Gebühren - und die wesensbedingt keine Konflikte mit der Verpflichtung der Verwaltungsgesellschaft hervorrufen können, im besten Interesse des OGAW ehrlich, redlich und professionell zu handeln; oder\nc) es handelt sich um eine Gebühr, eine Provision oder eine nicht in Geldform angebotene Zuwendung, die einem Dritten oder einer in seinem Auftrag handelnden Person gezahlt bzw. von einer dieser Personen gewährt wird, sofern die folgenden Voraussetzungen erfüllt sind:\n1. Die Existenz, die Art und der Betrag der Gebühr, Provision oder Zuwendung oder - wenn der Betrag nicht feststellbar ist - die Art und Weise der Berechnung dieses Betrages müssen dem OGAW vor Erbringung der betreffenden Dienstleistung in umfassender, zutreffender und verständlicher Weise unmissverständlich offengelegt werden.\n2. Die Zahlung der Gebühr oder der Provision bzw. die Gewährung der nicht in Geldform angebotenen Zuwendung muss den Zweck verfolgen, die Qualität der betreffenden Dienstleistung zu verbessern und darf die Verwaltungsgesellschaft nicht daran hindern, pflichtgemäss im besten Interesse des OGAW zu handeln.\n2) Die Verwaltungsgesellschaft kann für die Zwecke von Abs. 1 Bst. c Ziff. 1 die wesentlichen Bestimmungen der Vereinbarungen über Gebühren, Provisionen und nicht in Geldform angebotene Zuwendungen in zusammengefasster Form offenlegen, sofern sich die Verwaltungsgesellschaft verpflichtet, auf Wunsch des Anlegers weitere Einzelheiten offenzulegen, und dieser Verpflichtung auch nachkommt."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "C. Wohlverhaltensregeln",
+      "section": "33",
+      "title": "Art. 33 Befugnisse der FMA im Zusammenhang mit Pflichten der Verwaltungsgesellschaft",
+      "content": "1) Die FMA kann die Wohlverhaltensregeln nach diesem Abschnitt konkretisieren.\n2) Über Abs. 1 hinaus kann die FMA folgende Regelungen nach dem UCITSG und dieser Verordnung konkretisieren, insbesondere um Entwicklungen innerhalb des EWR Rechnung zu tragen:\na) Anforderungen an Verfahren und Organisation nach Abschnitt D;\nb) Interessenkonflikte nach Abschnitt E;\nc) Risikomanagement nach Abschnitt F;\nd) Verwaltungs- und Rechnungslegungsverfahren nach Abschnitt G;\ne) interne Kontrollmechanismen nach Abschnitt H.\n3) Die FMA kann geeignete Massnahmen zur Durchsetzung der Pflichten von Verwaltungsgesellschaften ergreifen.\nD. Anforderungen an Verfahren und Organisation"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "D. Anforderungen an Verfahren und Organisation",
+      "section": "34",
+      "title": "Art. 34 Allgemeine Anforderungen",
+      "content": "1) Die Verwaltungsgesellschaft ist verpflichtet:\na) Entscheidungsprozesse und eine Organisationsstruktur, bei der Berichtspflichten klar festgelegt und dokumentiert und Funktionen und Aufgaben klar zugewiesen und dokumentiert sind, zu schaffen, umzusetzen und aufrechtzuerhalten;\nb) sicherzustellen, dass ihre relevanten Personen über die Verfahren, die für eine ordnungsgemässe Wahrnehmung ihrer Aufgaben einzuhalten sind, im Bilde sind;\nc) angemessene interne Kontrollmechanismen, die die Einhaltung von Beschlüssen und Verfahren auf allen Ebenen der Verwaltungsgesellschaft sicherstellen sollen, zu schaffen, umzusetzen und aufrechtzuerhalten;\nd) eine reibungslos funktionierende interne Berichterstattung und Weitergabe von Informationen auf allen massgeblichen Ebenen der Verwaltungsgesellschaft sowie einen reibungslosen Informationsfluss mit allen beteiligten Dritten einzuführen, zu praktizieren und aufrechtzuerhalten;\ne) angemessene und systematische Aufzeichnungen über ihre Geschäftstätigkeit und interne Organisation zu führen.\n2) Die Verwaltungsgesellschaft hat der Art, dem Umfang und der Komplexität ihrer Geschäfte, der Art und dem Spektrum der im Zuge dieser Geschäfte erbrachten Dienstleistungen und Tätigkeiten sowie den Nachhaltigkeitsrisiken Rechnung zu tragen.\n3) Die Verwaltungsgesellschaft hat angemessene Systeme und Verfahren zum Schutz von Sicherheit, Integrität und Vertraulichkeit von Daten, insbesondere im Zusammenhang mit dem Meldesystem nach Art. 21 Abs. 3a UCITSG, einzurichten, anzuwenden und aufrechtzuerhalten und dabei der Art dieser Daten Rechnung zu tragen.\n4) Die Verwaltungsgesellschaft hat eine angemessene Notfallplanung festzulegen, umzusetzen und aufrechtzuerhalten, die bei einer Störung ihrer Systeme und Verfahren gewährleisten soll, dass wesentliche Daten und Funktionen erhalten bleiben und Dienstleistungen und Tätigkeiten fortgeführt werden oder - sollte dies nicht möglich sein - diese Daten und Funktionen bald zurückgewonnen und die Dienstleistungen und Tätigkeiten bald wieder aufgenommen werden.\n5) Die Verwaltungsgesellschaft hat zur Festlegung, Umsetzung und Aufrechterhaltung von Rechnungslegungsgrundsätzen und -methoden, die es ihnen ermöglichen, der FMA auf Verlangen rechtzeitig Abschlüsse vorzulegen, die ein den tatsächlichen Verhältnissen entsprechendes Bild ihrer Vermögens- und Finanzlage vermitteln und mit allen geltenden Rechnungslegungsstandards und -vorschriften in Einklang stehen.\n6) Die Verwaltungsgesellschaft hat die Angemessenheit und Wirksamkeit ihrer nach Abs. 1 bis 4 geschaffenen Systeme, internen Kontrollmechanismen und Vorkehrungen zu überwachen und regelmässig zu bewerten und die zur Abstellung etwaiger Mängel erforderlichen Massnahmen zu ergreifen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "D. Anforderungen an Verfahren und Organisation",
+      "section": "35",
+      "title": "Art. 35 Ressourcen",
+      "content": "1) Die Verwaltungsgesellschaft hat Mitarbeiter, die über die zur Erfüllung der ihnen zugewiesenen Aufgaben notwendigen Fähigkeiten, Kenntnisse und Erfahrungen verfügen, zu beschäftigen.\n2) Die Verwaltungsgesellschaft hat die Ressourcen und Fachkenntnisse, die für eine wirksame Überwachung der von Dritten im Rahmen einer Vereinbarung mit der Verwaltungsgesellschaft ausgeführten Tätigkeiten erforderlich sind, zu halten, was insbesondere für das Management der mit solchen Vereinbarungen verbundenen Risiken gilt.\n3) Die Verwaltungsgesellschaft hat sicherzustellen, dass für den Fall, dass relevante Personen mit mehreren Aufgaben betraut sind, diese Personen dadurch weder tatsächlich noch voraussichtlich daran gehindert werden, die betreffenden Aufgaben solide, redlich und professionell zu erfüllen.\n4) Die Verwaltungsgesellschaft hat für die in Abs. 1 bis 3 festgelegten Zwecke der Art, dem Umfang und der Komplexität ihrer Geschäfte sowie der Art und dem Spektrum der im Zuge dieser Geschäfte erbrachten Dienstleistungen und Tätigkeiten Rechnung zu tragen.\n5) Die Verwaltungsgesellschaft hat für die in Abs. 1 bis 3 festgelegten Zwecke über die Ressourcen und Fachkenntnisse zu verfügen, die für eine wirksame Einbeziehung von Nachhaltigkeitsrisiken erforderlich sind.\nE. Interessenkonflikte"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "E. Interessenkonflikte",
+      "section": "36",
+      "title": "Art. 36 Kriterien für die Feststellung von Interessenkonflikten",
+      "content": "1) Die Verwaltungsgesellschaft hat bei der Feststellung der Arten von Interessenkonflikten, die bei der Dienstleistungserbringung und der Ausführung von Tätigkeiten auftreten und den Interessen eines OGAW abträglich sein können, zumindest der Frage Rechnung zu tragen, ob auf die Verwaltungsgesellschaft, eine relevante Person oder eine Person, die direkt oder indirekt durch Kontrolle mit der Verwaltungsgesellschaft verbunden ist, aufgrund der Tatsache, dass sie in der gemeinsamen Portfolioverwaltung oder einem anderen Bereich tätig ist, eine der folgenden Situationen zutrifft:\na) Die Verwaltungsgesellschaft oder die betreffende Person wird voraussichtlich einen finanziellen Vorteil erzielen oder einen finanziellen Verlust vermeiden, was zu Lasten des OGAW geht.\nb) Die Verwaltungsgesellschaft oder die betreffende Person hat am Ergebnis einer für den OGAW oder einen anderen Kunden erbrachten Dienstleistung oder eines für den OGAW oder einen anderen Kunden getätigten Geschäfts ein Interesse, das sich nicht mit dem Interesse des OGAW an diesem Ergebnis deckt.\nc) Für die Verwaltungsgesellschaft oder die betreffende Person gibt es einen finanziellen oder sonstigen Anreiz, die Interessen eines anderen Kunden oder einer anderen Kundengruppe über die Interessen des OGAW zu stellen.\nd) Die Verwaltungsgesellschaft oder die betreffende Person führt für den OGAW und für einen oder mehrere andere Kunden, bei denen es sich nicht um OGAW handelt, die gleichen Tätigkeiten aus.\ne) Die Verwaltungsgesellschaft oder die betreffende Person erhält aktuell oder künftig von einer anderen Person als dem OGAW in Bezug auf Leistungen der gemeinsamen Portfolioverwaltung, die für den OGAW erbracht werden, zusätzlich zu der hierfür üblichen Provision oder Gebühr einen Anreiz in Form von Geld, Gütern oder Dienstleistungen.\n2) Die Verwaltungsgesellschaft hat bei der Ermittlung der Arten von Interessenkonflikten Folgendes zu berücksichtigen:\na) ihre eigenen Interessen, einschliesslich solcher, die aus der Zugehörigkeit der Verwaltungsgesellschaft zu einer Gruppe oder aus der Erbringung von Dienstleistungen und Tätigkeiten resultieren, die Interessen der Kunden und die Verpflichtung der Verwaltungsgesellschaft gegenüber dem OGAW;\nb) die Interessen von zwei oder mehreren verwalteten OGAW.\n3) Die Verwaltungsgesellschaft hat bei der Feststellung der Arten von Interessenskonflikten, die den Interessen eines OGAW abträglich sein können, auch Interessenskonflikte zu berücksichtigen, die sich aus der Einbeziehung von Nachhaltigkeitsrisiken in ihre Prozesse, Systeme und internen Kontrollen ergeben können."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "E. Interessenkonflikte",
+      "section": "37",
+      "title": "Art. 37 Grundsätze für den Umgang mit Interessenkonflikten",
+      "content": "1) Die Verwaltungsgesellschaft hat wirksame Grundsätze für den Umgang mit Interessenkonflikten festzulegen, einzuhalten und aufrechtzuerhalten. Diese Grundsätze sind schriftlich festzulegen und müssen der Grösse und Organisation der Verwaltungsgesellschaft sowie der Art, dem Umfang und der Komplexität ihrer Geschäfte angemessen sein. Gehört die Verwaltungsgesellschaft einer Gruppe an, müssen diese Grundsätze darüber hinaus allen Umständen Rechnung tragen, die der Gesellschaft bekannt sind oder sein sollten und die aufgrund der Struktur und der Geschäftstätigkeiten anderer Gruppenmitglieder zu einem Interessenkonflikt Anlass geben könnten.\n2) In den nach Abs. 1 festgelegten Grundsätzen für den Umgang mit Interessenkonflikten wird:\na) im Hinblick auf die Leistungen der gemeinsamen Portfolioverwaltung, die von oder für die Verwaltungsgesellschaft erbracht werden, festgelegt, unter welchen Umständen ein Interessenkonflikt, der den Interessen des OGAW oder eines oder mehrerer anderer Kunden erheblich schaden könnte, vorliegt oder entstehen könnte;\nb) festgelegt, welche Verfahren für den Umgang mit diesen Konflikten einzuhalten und welche Massnahmen zu treffen sind."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "E. Interessenkonflikte",
+      "section": "38",
+      "title": "Art. 38 Unabhängigkeit beim Konfliktmanagement",
+      "content": "1) Die in Art. 37 Abs. 2 Bst. b vorgesehenen Verfahren und Massnahmen müssen so gestaltet sein, dass relevante Personen, die verschiedene Tätigkeiten ausführen, die einen Interessenkonflikt nach sich ziehen, diese Tätigkeiten mit einem Grad an Unabhängigkeit ausführen, der der Grösse und dem Betätigungsfeld der Verwaltungsgesellschaft und der Gruppe, der sie angehört, sowie der Erheblichkeit des Risikos, dass die Interessen von Kunden geschädigt werden, angemessen ist.\n2) Die Verfahren und Massnahmen, die nach Art. 37 Abs. 2 Bst. b einzuhalten bzw. zu treffen sind, schliessen - soweit dies zur Gewährleistung des geforderten Grades an Unabhängigkeit der Verwaltungsgesellschaft notwendig und angemessen ist - Folgendes ein:\na) wirksame Verfahren, die den Austausch von Informationen zwischen relevanten Personen, die in der gemeinsamen Portfolioverwaltung tätig sind und deren Tätigkeiten einen Interessenkonflikt nach sich ziehen könnten, verhindern oder kontrollieren, wenn dieser Informationsaustausch den Interessen eines oder mehrerer Kunden schaden könnte;\nb) die gesonderte Beaufsichtigung relevanter Personen, zu deren Hauptaufgaben die gemeinsame Portfolioverwaltung für Kunden oder die Erbringung von Dienstleistungen für Kunden oder Anleger gehört, deren Interessen möglicherweise kollidieren oder die in anderer Weise unterschiedliche, möglicherweise kollidierende Interessen vertreten, was auch die Interessen der Verwaltungsgesellschaft einschliesst;\nc) die Beseitigung jeder direkten Verbindung zwischen der Vergütung relevanter Personen, die sich hauptsächlich mit einer Tätigkeit beschäftigen, und der Vergütung oder den Einnahmen anderer relevanter Personen, die sich hauptsächlich mit einer anderen Tätigkeit beschäftigen, wenn bei diesen Tätigkeiten ein Interessenkonflikt entstehen könnte;\nd) Massnahmen, die jeden ungebührlichen Einfluss auf die Art und Weise, in der eine relevante Person die gemeinsame Portfolioverwaltung ausführt, verhindern oder einschränken;\ne) Massnahmen, die die gleichzeitige oder anschliessende Beteiligung einer relevanten Person an einer anderen gemeinsamen Portfolioverwaltung verhindern oder kontrollieren, wenn eine solche Beteiligung einem einwandfreien Konfliktmanagement im Wege stehen könnte.\n3) Sollten eine oder mehrere der Massnahmen und Verfahren nach Abs. 2 in der Praxis nicht das erforderliche Mass an Unabhängigkeit gewährleisten, hat die Verwaltungsgesellschaften, die für die genannten Zwecke erforderlichen und angemessenen alternativen oder zusätzlichen Massnahmen und Verfahren festzulegen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "E. Interessenkonflikte",
+      "section": "39",
+      "title": "Art. 39 Umgang mit Tätigkeiten, die einen schädlichen Interessenkonflikt nach sich ziehen",
+      "content": "1) Die Verwaltungsgesellschaft hat Aufzeichnungen darüber zu führen, bei welchen Arten der von ihr oder für sie erbrachten gemeinsamen Portfolioverwaltung ein Interessenkonflikt aufgetreten ist bzw. bei laufender Portfolioverwaltung noch auftreten könnte, bei dem das Risiko, dass die Interessen eines oder mehrerer OGAW oder anderer Kunden Schaden nehmen, erheblich ist, und diese Aufzeichnungen regelmässig zu aktualisieren.\n2) In Fällen, in denen die organisatorischen oder administrativen Vorkehrungen der Verwaltungsgesellschaft zum Umgang mit Interessenkonflikten nicht ausreichen, um nach vernünftigem Ermessen zu gewährleisten, dass das Risiko einer Schädigung der Interessen des OGAW oder seiner Anleger ausgeschlossen werden kann, ist die Geschäftsleitung oder eine andere zuständige interne Stelle der Verwaltungsgesellschaft umgehend zu informieren, damit sie die notwendigen Entscheidungen treffen kann, um zu gewährleisten, dass die Verwaltungsgesellschaft stets im besten Interesse des OGAW und seiner Anleger handelt.\n3) Die Verwaltungsgesellschaft setzt die Anleger auf einem zweckmässigen dauerhaften Datenträger über die in Abs. 2 genannten Gegebenheiten in Kenntnis und begründet ihre Entscheidung."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "E. Interessenkonflikte",
+      "section": "40",
+      "title": "Art. 40 Strategien für die Ausübung von Stimmrechten",
+      "content": "1) Die Verwaltungsgesellschaft hat wirksame und angemessene Strategien im Hinblick darauf auszuarbeiten, wann und wie die mit den Instrumenten in den verwalteten Portfolios verbundenen Stimmrechte ausgeübt werden sollen, damit dies ausschliesslich zum Nutzen des betreffenden OGAW ist.\n2) Die in Abs. 1 genannte Strategie enthält Massnahmen und Verfahren, die:\na) eine Verfolgung der massgeblichen Corporate Events ermöglichen;\nb) sicherstellen, dass die Ausübung von Stimmrechten mit den Anlagezielen und der Anlagepolitik des jeweiligen OGAW in Einklang steht;\nc) Interessenkonflikte, die aus der Ausübung von Stimmrechten resultieren, verhindern oder regeln.\n3) Den Anlegern wird eine Kurzbeschreibung der in Abs. 1 genannten Strategien zur Verfügung gestellt.\n4) Nähere Angaben zu den aufgrund dieser Strategien getroffenen Massnahmen sind den Anlegern auf Verlangen kostenlos zur Verfügung zu stellen.\nF. Risikomanagement\n1. Risikomanagement-Grundsätze und Risikobeurteilung"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "1. Risikomanagement-Grundsätze und Risikobeurteilung",
+      "section": "41",
+      "title": "Art. 41 Risikomanagement-Grundsätze",
+      "content": "1) Die Verwaltungsgesellschaft hat angemessene und dokumentierte Risikomanagement-Grundsätze festzulegen, umzusetzen und aufrechtzuerhalten, in denen die Risiken genannt werden, denen die von ihr verwalteten OGAW ausgesetzt sind oder sein könnten.\n2) Die Risikomanagement-Grundsätze umfassen die Verfahren, die notwendig sind, damit die Verwaltungsgesellschaft bei jedem von ihr verwalteten OGAW dessen Markt-, Liquiditäts-, Nachhaltigkeits- und Kontrahentenrisiko sowie alle sonstigen Risiken, einschliesslich operationeller Risiken, bewerten kann, die für die einzelnen von ihr verwalteten OGAW wesentlich sein könnten.\n3) Die Verwaltungsgesellschaft hat in ihren Risikomanagement-Grundsätzen zumindest folgende Punkte zu behandeln:\na) Methoden, Mittel und Vorkehrungen, die ihr die Erfüllung der in den Art. 43 und 44 festgelegten Pflichten ermöglichen;\nb) Zuständigkeitsverteilung innerhalb der Verwaltungsgesellschaft in Bezug auf das Risikomanagement.\n4) Die Verwaltungsgesellschaft hat sicherzustellen, dass in den in Abs. 1 und 2 vorgesehenen Risikomanagement-Grundsätzen Modalitäten, Inhalt und Häufigkeit der in Art. 55 vorgesehenen Berichterstattung der Risikomanagement-Funktion an das Leitungs- oder Verwaltungsorgan und die Geschäftsleitung sowie gegebenenfalls an die Aufsichtsfunktion festgelegt werden.\n5) Für die Zwecke der Abs. 1 bis 4 hat die Verwaltungsgesellschaft der Art, dem Umfang und der Komplexität ihrer Geschäfte und der von ihr verwalteten OGAW Rechnung zu tragen."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "1. Risikomanagement-Grundsätze und Risikobeurteilung",
+      "section": "42",
+      "title": "Art. 42 Bewertung, Überwachung und Überprüfung der Risikomanagement-Grundsätze",
+      "content": "1) Die Verwaltungsgesellschaft hat Folgendes zu bewerten, zu überwachen und periodisch zu überprüfen:\na) Angemessenheit und Wirksamkeit der Risikomanagement-Grundsätze sowie der in den Art. 43 und 44 vorgesehenen Vorkehrungen, Prozesse und Verfahren;\nb) Einhaltung der Risikomanagement-Grundsätze sowie der in den Art. 43 und 44 vorgesehenen Vorkehrungen, Prozesse und Verfahren durch die Verwaltungsgesellschaft;\nc) Angemessenheit und Wirksamkeit der Massnahmen zur Behebung etwaiger Schwächen in der Leistungsfähigkeit des Risikomanagement-Prozesses.\n2) Die Verwaltungsgesellschaft hat die FMA über alle wesentlichen Änderungen am Risikomanagement-Prozess zu unterrichten.\n3) Die in Abs. 1 niedergelegten Anforderungen sind von der FMA laufend und insbesondere auch bei Erteilung der Zulassung zu überprüfen.\n2. Risikomanagement-Prozesse, Kontrahentenrisiko und Emittentenkonzentration"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "2. Risikomanagement-Prozesse, Kontrahentenrisiko und Emittentenkonzentration",
+      "section": "43",
+      "title": "Art. 43 Messung und Management von Risiken",
+      "content": "1) Die Verwaltungsgesellschaft hat angemessene und wirksame Vorkehrungen, Prozesse und Verfahren einzuführen, um:\na) die Risiken, denen die von ihr verwalteten OGAW ausgesetzt sind oder sein könnten, jederzeit messen und managen zu können;\nb) die Einhaltung der Obergrenzen für das Gesamtrisiko und das Kontrahentenrisiko nach den Art. 44 und 46 sicherzustellen.\n2) Die Vorkehrungen, Prozesse und Verfahren nach Abs. 1 sind der Art, dem Umfang und der Komplexität der Geschäfte der Verwaltungsgesellschaft und der von ihr verwalteten OGAW angemessen und entsprechen dem OGAW-Risikoprofil.\n3) Für die Zwecke von Abs. 1 hat die Verwaltungsgesellschaft für jeden von ihr verwalteten OGAW folgende Massnahmen zu ergreifen:\na) Einführung der notwendigen Risikomanagement-Vorkehrungen, -Prozesse und -Verfahren, um sicherzustellen, dass die Risiken übernommener Positionen und deren Beitrag zum Gesamtrisikoprofil auf der Grundlage solider und verlässlicher Daten genau gemessen werden und dass die Risikomanagement-Vorkehrungen, -Prozesse und -Verfahren adäquat dokumentiert werden;\nb) gegebenenfalls Durchführung periodischer Rückvergleiche (Backtesting) zur Überprüfung der Stichhaltigkeit der Risikomessvorkehrungen, zu denen modellbasierte Prognosen und Schätzungen gehören;\nc) gegebenenfalls Durchführung periodischer Stresstests und Szenarioanalysen zur Erfassung der Risiken aus potenziellen Veränderungen der Marktbedingungen, die sich nachteilig auf den OGAW auswirken könnten;\nd) Festlegung, Umsetzung und Aufrechterhaltung eines dokumentierten Systems interner Limits für die Massnahmen, mit denen die einschlägigen Risiken für jeden OGAW gemanagt und kontrolliert werden, wobei allen in Art. 41 genannten Risiken, die für den OGAW wesentlich sein könnten, Rechnung getragen und die Übereinstimmung mit dem Risikoprofil des OGAW sichergestellt wird;\ne) Gewährleistung, dass der jeweilige Risikostand bei jedem OGAW mit dem unter Bst. d dargelegten Risikolimit-System in Einklang steht;\nf) Festlegung, Umsetzung und Aufrechterhaltung angemessener Verfahren, die im Falle von tatsächlichen oder zu erwartenden Verstössen gegen das Risikolimit-System des OGAW zu zeitnahen Abhilfemassnahmen im besten Interesse der Anleger führen.\n4) Die Verwaltungsgesellschaft hat einen angemessenen Risikomanagement-Prozess für Liquiditätsrisiken anzuwenden, um zu gewährleisten, dass jeder von ihr verwaltete OGAW jederzeit zur Erfüllung von Art. 85 Abs. 1 UCITSG imstande ist. Gegebenenfalls führt die Verwaltungsgesellschaft Stresstests durch, die die Bewertung des Liquiditätsrisikos des OGAW unter aussergewöhnlichen Umständen ermöglichen.\n5) Die Verwaltungsgesellschaft hat sicherzustellen, dass das Liquiditätsprofil der OGAW-Anlagen bei jedem von ihr verwalteten OGAW den in den Vertragsbedingungen oder der Satzung oder dem Prospekt niedergelegten Rücknahmegrundsätzen entspricht."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "2. Risikomanagement-Prozesse, Kontrahentenrisiko und Emittentenkonzentration",
+      "section": "44",
+      "title": "Art. 44 Berechnung des Gesamtrisikos",
+      "content": "1) Die Verwaltungsgesellschaft hat das Gesamtrisiko eines verwalteten OGAW im Sinne von Art. 53 Abs. 2 UCITSG als eine der folgenden beiden Grössen zu berechnen:\na) zusätzliches Risiko und zusätzliche Leverage, die der verwaltete OGAW durch die Nutzung derivativer Finanzinstrumente einschliesslich eingebetteter Derivate im Sinne von Art. 53 Abs. 1 UCITSG erzeugt und die den Gesamtbetrag des OGAW-Nettoinventarwerts nicht übersteigen dürfen;\nb) Marktrisiko des OGAW-Portfolios.\n2) Die Verwaltungsgesellschaft hat das OGAW-Gesamtrisiko mindestens einmal täglich zu berechnen.\n3) Die Verwaltungsgesellschaft kann das Gesamtrisiko je nach Zweckdienlichkeit nach dem Commitment-Ansatz, dem Value-at-Risk-Modell oder einem fortgeschrittenen Messansatz ermitteln. Für die Zwecke dieser Bestimmung bezeichnet der \"Value at risk\" den bei einem gegebenen Konfidenzniveau über einen bestimmten Zeitraum maximal zu erwartenden Verlust. Die Verwaltungsgesellschaft hat sicherzustellen, dass die zur Messung des Gesamtrisikos gewählte Methode der vom OGAW verfolgten Anlagestrategie sowie der Art und Komplexität der genutzten derivativen Finanzinstrumente und dem Anteil derivativer Finanzinstrumente am OGAW-Portfolio angemessen ist.\n4) Nutzt ein OGAW nach Art. 53 Abs. 4 UCITSG Techniken und Instrumente einschliesslich Rückkaufsvereinbarungen oder Wertpapierverleihgeschäfte, um seine Leverage oder sein Marktrisiko zu erhöhen, hat die Verwaltungsgesellschaft die betreffenden Geschäfte bei der Berechnung des Gesamtrisikos zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "2. Risikomanagement-Prozesse, Kontrahentenrisiko und Emittentenkonzentration",
+      "section": "45",
+      "title": "Art. 45 Commitment-Ansatz",
+      "content": "1) Wird das Gesamtrisiko nach dem Commitment-Ansatz berechnet, hat die Verwaltungsgesellschaft diesen Ansatz auf sämtliche Positionen in derivativen Finanzinstrumenten einschliesslich eingebetteter Derivate im Sinne von Art. 53 Abs. 3 UCITSG anzuwenden, und zwar unabhängig davon, ob sie im Zuge der allgemeinen Anlagepolitik des OGAW, zum Zwecke der Risikominderung oder zum Zwecke der effizienten Portfolioverwaltung im Sinne von Art. 53 Abs. 4 UCITSG genutzt werden.\n2) Wird das Gesamtrisiko nach dem Commitment-Ansatz berechnet, hat die Verwaltungsgesellschaft jede Position in derivativen Finanzinstrumenten in den Marktwert einer gleichwertigen Position im Basiswert des betreffenden Derivats umzurechnen (Standard-Commitment-Ansatz). Die Verwaltungsgesellschaft kann andere Berechnungsmethoden anwenden, wenn diese dem Standard-Commitment-Ansatz gleichwertig sind.\n3) Die Verwaltungsgesellschaft kann bei der Berechnung des Gesamtrisikos Netting- und Hedging-Vereinbarungen berücksichtigen, sofern diese offenkundige und wesentliche Risiken nicht ausser Acht lassen und eindeutig zu einer Verringerung des Risikos führen.\n4) Erzeugt die Nutzung derivativer Finanzinstrumente für den OGAW kein zusätzliches Risiko, braucht die zugrunde liegende Risikoposition nicht in die Commitment-Berechnung einbezogen zu werden.\n5) Bei Anwendung des Commitment-Ansatzes brauchen vorübergehende Kreditvereinbarungen, die nach Art. 89 UCITSG für den OGAW abgeschlossen werden, bei der Berechnung des Gesamtrisikos nicht berücksichtigt zu werden."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "2. Risikomanagement-Prozesse, Kontrahentenrisiko und Emittentenkonzentration",
+      "section": "46",
+      "title": "Art. 46 Kontrahentenrisiko und Emittentenkonzentration",
+      "content": "1) Die Verwaltungsgesellschaft hat sicherzustellen, dass für das Kontrahentenrisiko aus nicht börsengehandelten derivativen Finanzinstrumenten (\"OTC-Derivaten\") die in Art. 54 UCITSG festgelegten Obergrenzen gelten.\n2) Für die Berechnung des Kontrahentenrisikos eines OGAW in Einklang mit den in Art. 54 Abs. 2 UCITSG festgelegten Obergrenzen legt die Verwaltungsgesellschaft den positiven Neubewertungswert (Mark-to-Market-Wert) des OTC-Derivatkontrakts mit der betreffenden Gegenpartei zugrunde. Die Verwaltungsgesellschaft kann die Derivatpositionen eines OGAW mit ein und derselben Gegenpartei miteinander verrechnen (Netting), wenn die Verwaltungsgesellschaft die Möglichkeit hat, Nettingvereinbarungen mit der betreffenden Gegenpartei für den OGAW rechtlich durchzusetzen. Das Netting ist nur bei den OTC-Derivaten mit einer Gegenpartei, nicht bei anderen Positionen des OGAW gegenüber dieser Gegenpartei zulässig.\n3) Die Verwaltungsgesellschaft kann das Kontrahentenrisiko eines OGAW aus einem OTC-Derivat durch die Entgegennahme von Sicherheiten mindern. Die entgegengenommene Sicherheit muss ausreichend liquide sein, damit sie rasch zu einem Preis veräussert werden kann, der nahe an der vor dem Verkauf festgestellten Bewertung liegt.\n4) Die Verwaltungsgesellschaft hat Sicherheiten bei der Berechnung des Ausfallrisikos im Sinne von Art. 54 Abs. 2 UCITSG zu berücksichtigen, wenn die Verwaltungsgesellschaft einer OTC-Gegenpartei für den OGAW eine Sicherheit stellt. Die gestellte Sicherheit darf nur dann auf Nettobasis berücksichtigt werden, wenn die Verwaltungsgesellschaft die Möglichkeit hat, Nettingvereinbarungen mit der betreffenden Gegenpartei für den OGAW rechtlich durchzusetzen.\n5) Die Verwaltungsgesellschaft hat die in Art. 54 UCITSG für die Emittentenkonzentration vorgesehenen Obergrenzen auf Basis des zugrunde liegenden Risikos zu berechnen, das nach dem Commitment-Ansatz durch die Nutzung derivativer Finanzinstrumente entsteht.\n6) Im Hinblick auf das Risiko aus Geschäften mit OTC-Derivaten im Sinne von Art. 54 Abs. 3 UCITSG hat die Verwaltungsgesellschaft etwaige Kontrahentenrisiken aus OTC-Derivaten in die Berechnung einzubeziehen.\n3. Verfahren für die Bewertung der OTC-Derivate"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "3. Verfahren für die Bewertung der OTC-Derivate",
+      "section": "47",
+      "title": "Art. 47 Verfahren für die Ermittlung des Wertes von OTC-Derivaten",
+      "content": "1) Die Verwaltungsgesellschaft hat sich zu vergewissern, dass den Risiken von OGAW aus OTC-Derivaten ein beizulegender Zeitwert zugewiesen wird, der sich nicht nur auf die Marktnotierungen der Kontrahenten der OTC-Geschäfte stützt und die in Art. 8 Abs. 4 der Richtlinie 2007/16/EG niedergelegten Kriterien erfüllt.\n2) Für die Zwecke von Abs. 1 werden von der Verwaltungsgesellschaft Vorkehrungen und Verfahren festgelegt, umgesetzt und aufrechterhalten, die eine geeignete, transparente und faire Bewertung der OGAW-Risiken aus OTC-Derivaten sicherstellen. Die Verwaltungsgesellschaft hat sicherzustellen, dass der beizulegende Zeitwert von OTC-Derivaten angemessen, präzise und unabhängig bewertet wird. Die Bewertungsvorkehrungen und -verfahren sind der Art und Komplexität der betreffenden OTC-Derivate angemessen und stehen in einem angemessenen Verhältnis dazu. Schliessen die Vorkehrungen und Verfahren für die Bewertung von OTC-Derivaten die Durchführung bestimmter Aufgaben durch Dritte ein, muss die Verwaltungsgesellschaft die in Art. 26 Abs. 5 und Art. 35 Abs. 2 niedergelegten Anforderungen erfüllen.\n3) Für die Zwecke der Abs. 1 und 2 werden der Risikomanagement-Funktion spezielle Pflichten und Zuständigkeiten übertragen.\n4) Die in Abs. 2 genannten Bewertungsvorkehrungen und -verfahren werden adäquat dokumentiert.\n4. Übermittlung von Informationen zu Derivaten"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "4. Übermittlung von Informationen zu Derivaten",
+      "section": "48",
+      "title": "Art. 48 Berichte über Derivate",
+      "content": "1) Die Verwaltungsgesellschaft hat der FMA zumindest einmal jährlich Berichte mit Informationen zu übermitteln, die ein den tatsächlichen Verhältnissen entsprechendes Bild der für jeden verwalteten OGAW genutzten Derivate, der zugrunde liegenden Risiken, der Anlagegrenzen und der Methoden vermitteln, die zur Schätzung der mit den Derivatgeschäften verbundenen Risiken angewandt werden.\n2) Die FMA hat die regelmässige Übermittlung und Vollständigkeit der in Abs. 1 vorgesehenen Informationen zu überprüfen und bei Bedarf einzugreifen.\nG. Verwaltungs- und Rechnungslegungsverfahren"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "G. Verwaltungs- und Rechnungslegungsverfahren",
+      "section": "49",
+      "title": "Art. 49 Bearbeitung von Beschwerden",
+      "content": "1) Die Verwaltungsgesellschaft hat wirksame und transparente Verfahren für die angemessene und prompte Bearbeitung von Anlegerbeschwerden zu schaffen, anzuwenden und aufrechtzuerhalten.\n2) Die Verwaltungsgesellschaft hat sicherzustellen, dass alle Beschwerden und alle zu deren Beilegung getroffenen Massnahmen aufgezeichnet werden.\n3) Anleger müssen kostenlos Beschwerde einlegen können. Informationen über die in Abs. 1 genannten Verfahren sind den Anlegern kostenlos zur Verfügung zu stellen."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "G. Verwaltungs- und Rechnungslegungsverfahren",
+      "section": "50",
+      "title": "Art. 50 Elektronische Datenverarbeitung",
+      "content": "1) Die Verwaltungsgesellschaft hat angemessene Vorkehrungen für geeignete elektronische Systeme zu treffen, um eine zeitnahe und ordnungsgemässe Aufzeichnung jedes Portfoliogeschäfts und jedes Zeichnungs- oder Rücknahmeauftrags und damit die Einhaltung der Art. 57 und 58 zu ermöglichen.\n2) Die Verwaltungsgesellschaft hat bei der elektronischen Datenverarbeitung ein hohes Mass an Sicherheit zu gewährleisten und gegebenenfalls für die Integrität und vertrauliche Behandlung der aufgezeichneten Daten zu sorgen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "G. Verwaltungs- und Rechnungslegungsverfahren",
+      "section": "51",
+      "title": "Art. 51 Rechnungslegungsverfahren",
+      "content": "1) Um den Schutz der Anleger zu gewährleisten, hat die Verwaltungsgesellschaft die Anwendung der in Art. 34 Abs. 5 genannten Rechnungslegungsgrundsätze und -methoden sicherzustellen.\n2) Die OGAW-Rechnungslegung ist so ausgelegt, dass alle Vermögenswerte und Verbindlichkeiten des OGAW jederzeit direkt ermittelt werden können.\n3) Hat ein OGAW mehrere Teilfonds, werden für jeden dieser Teilfonds getrennte Konten geführt.\n4) Um eine präzise Berechnung des Nettoinventarwerts jedes einzelnen OGAW anhand der Rechnungslegung zu gewährleisten und sicherzustellen, dass Zeichnungs- und Rücknahmeaufträge zu diesem Nettoinventarwert ordnungsgemäss ausgeführt werden können, hat die Verwaltungsgesellschaft Rechnungslegungsgrundsätze und -methoden festzulegen, anzuwenden und aufrechtzuerhalten, die den Rechnungslegungsvorschriften des OGAW-Herkunftsmitgliedstaats entsprechen.\n5) Die Verwaltungsgesellschaft hat angemessene Verfahren zu schaffen, um eine ordnungsgemässe und präzise Bewertung der Vermögenswerte und Verbindlichkeiten des OGAW in Einklang mit den in Art. 86 UCITSG genannten anzuwendenden Regeln zu gewährleisten.\nH. Interne Kontrollmechanismen"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "52",
+      "title": "Art. 52 Kontrolle durch Geschäftsleitung und Aufsichtsfunktion",
+      "content": "1) Die Verwaltungsgesellschaft hat bei der internen Aufgabenverteilung sicherzustellen, dass die Geschäftsleitung und gegebenenfalls die Aufsichtsfunktion die Verantwortung dafür tragen, dass die Verwaltungsgesellschaft ihren Pflichten nach dem Gesetz und dieser Verordnung nachkommt.\n2) Die Verwaltungsgesellschaft stellt sicher, dass ihre Geschäftsleitung:\na) die Verantwortung dafür trägt, dass die allgemeine Anlagepolitik, wie sie gegebenenfalls im Prospekt, in den Vertragsbedingungen oder in der Satzung der Investmentgesellschaft festgelegt ist, bei jedem verwalteten OGAW umgesetzt wird;\nb) für jeden verwalteten OGAW die Genehmigung der Anlagestrategien überwacht;\nc) die Verantwortung dafür trägt, dass die Verwaltungsgesellschaft über die in Art. 53 genannte dauerhafte und wirksame Compliance-Funktion verfügt, selbst wenn diese Funktion einem Dritten übertragen wurde;\nd) dafür sorgt und sich regelmässig vergewissert, dass die allgemeine Anlagepolitik, die Anlagestrategien und die Risikolimits jedes verwalteten OGAW ordnungsgemäss und wirkungsvoll umgesetzt und eingehalten werden, auch wenn die Risikomanagement-Funktion einem Dritten übertragen wurde;\ne) die Angemessenheit der internen Verfahren, nach denen für jeden verwalteten OGAW die Anlageentscheidungen getroffen werden, feststellt und regelmässig überprüft, um zu gewährleisten, dass solche Entscheidungen mit den genehmigten Anlagestrategien in Einklang stehen;\nf) die in Art. 41 genannten Grundsätze für das Risikomanagement sowie die zur Umsetzung dieser Grundsätze genutzten Vorkehrungen, Verfahren und Methoden billigt und regelmässig überprüft, was auch die Risikolimits für jeden verwalteten OGAW betrifft;\ng) die Verantwortung dafür trägt, dass Nachhaltigkeitsrisiken in die unter Bst. a bis f genannten Tätigkeiten einbezogen werden.\n3) Die Verwaltungsgesellschaft stellt ebenfalls sicher, dass ihre Geschäftsführung und gegebenenfalls ihre Aufsichtsfunktion:\na) die Wirksamkeit der Grundsätze, Vorkehrungen und Verfahren, die zur Erfüllung der im Gesetz und dieser Verordnung festgelegten Pflichten eingeführt wurden, bewerten und regelmässig überprüfen;\nb) angemessene Massnahmen ergreifen, um etwaige Mängel zu beseitigen.\n4) Die Verwaltungsgesellschaft hat sicherzustellen, dass ihre Geschäftsleitung häufig, mindestens aber einmal jährlich, schriftliche Berichte zu Fragen der Rechtsbefolgung, der Innenrevision und des Risikomanagements erhält, in denen insbesondere angegeben wird, ob zur Beseitigung etwaiger Mängel geeignete Abhilfemassnahmen getroffen wurden.\n5) Die Verwaltungsgesellschaft hat sicherzustellen, dass ihre Geschäftsleitung regelmässig Berichte über die Umsetzung der in Abs. 2 Bst. b bis e genannten Anlagestrategien und internen Verfahren für Anlageentscheidungen erhält.\n6) Die Verwaltungsgesellschaft hat sicherzustellen, dass die Aufsichtsfunktion - falls vorhanden - regelmässig schriftliche Berichte zu den in Abs. 4 genannten Punkten erhält."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "53",
+      "title": "Art. 53 Ständige Compliance-Funktion",
+      "content": "1) Die Verwaltungsgesellschaft hat angemessene Grundsätze und Verfahren festzulegen, anzuwenden und aufrechtzuerhalten, die darauf ausgelegt sind, jedes Risiko der Nichteinhaltung der im Gesetz und dieser Verordnung festgelegten Pflichten durch die betreffende Verwaltungsgesellschaft sowie die damit verbundenen Risiken aufzudecken. Des Weiteren hat die Verwaltungsgesellschaft angemessene Massnahmen und Verfahren zu schaffen, um das Risiko der Nichteinhaltung der im Gesetz und dieser Verordnung festgelegten Pflichten auf ein Minimum zu begrenzen und die FMA in die Lage zu versetzen, ihre Befugnisse wirksam auszuüben.\n2) Die Verwaltungsgesellschaft hat der Art, dem Umfang und der Komplexität ihrer Geschäfte sowie der Art und dem Spektrum der im Zuge dieser Geschäfte erbrachten Dienstleistungen und Tätigkeiten Rechnung zu tragen.\n3) Die Verwaltungsgesellschaft hat eine wirksame Compliance-Funktion einzurichten und aufrechtzuerhalten, die unabhängig ist und folgende Aufgaben hat:\na) Überwachung und regelmässige Bewertung der Angemessenheit und Wirksamkeit der nach Abs. 1 festgelegten Massnahmen, Grundsätze und Verfahren, sowie der Schritte, die zur Beseitigung etwaiger Defizite der Verwaltungsgesellschaft bei der Wahrnehmung ihrer Pflichten unternommen wurden;\nb) Beratung und Unterstützung der für Dienstleistungen und Tätigkeiten zuständigen relevanten Personen im Hinblick auf die Erfüllung der im Gesetz und dieser Verordnung für Verwaltungsgesellschaften festgelegten Pflichten.\n4) Damit die in Abs. 3 genannte Compliance-Funktion ihre Aufgaben ordnungsgemäss und unabhängig wahrnehmen kann, stellen die Verwaltungsgesellschaften sicher, dass:\na) die Compliance-Funktion über die notwendigen Befugnisse, Ressourcen und Fachkenntnisse verfügt und zu allen für sie relevanten Informationen Zugang hat;\nb) ein Compliance-Beauftragter benannt wird, der für die Compliance-Funktion und die Erstellung der Berichte verantwortlich ist, die der Geschäftsleitung regelmässig, mindestens aber einmal jährlich, zu Fragen der Rechtsbefolgung vorgelegt werden und in denen insbesondere angegeben wird, ob die zur Beseitigung etwaiger Mängel erforderlichen Abhilfemassnahmen getroffen wurden;\nc) relevante Personen, die in diese Funktion eingebunden sind, nicht in die von ihnen überwachten Dienstleistungen oder Tätigkeiten eingebunden sind;\nd) das Verfahren, nach dem die Bezüge der in die Compliance-Funktion eingebundenen relevanten Personen bestimmt wird, weder deren Objektivität beeinträchtigt noch dies wahrscheinlich erscheinen lässt.\n5) Kann eine Verwaltungsgesellschaft jedoch nachweisen, dass die in Abs. 4 Bst. c oder d genannte Anforderung mit Blick auf die Art, den Umfang und die Komplexität ihrer Geschäfte sowie die Art und das Spektrum ihrer Dienstleistungen und Tätigkeiten unverhältnismässig ist und dass die Compliance-Funktion dennoch ihre Aufgabe erfüllt, ist sie von dieser Anforderung befreit."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "54",
+      "title": "Art. 54 Ständige Innenrevisionsfunktion",
+      "content": "1) Die Verwaltungsgesellschaft hat - soweit dies angesichts der Art, des Umfangs und der Komplexität ihrer Geschäfte sowie der Art und des Spektrums der im Zuge dieser Geschäfte erbrachten gemeinsamen Portfolioverwaltungsdienste angemessen und verhältnismässig ist - eine von den übrigen Funktionen und Tätigkeiten der Verwaltungsgesellschaft getrennte, unabhängige Innenrevisionsfunktion einzurichten und aufrechtzuerhalten.\n2) Die in Abs. 1 genannte Innenrevisionsfunktion hat folgende Aufgaben:\na) Erstellung, Umsetzung und Aufrechterhaltung eines Revisionsprogramms mit dem Ziel, die Angemessenheit und Wirksamkeit der Systeme, internen Kontrollmechanismen und Vorkehrungen der Verwaltungsgesellschaft zu prüfen und zu bewerten;\nb) Ausgabe von Empfehlungen auf der Grundlage der Ergebnisse der nach Bst. a ausgeführten Arbeiten;\nc) Überprüfung der Einhaltung der unter Bst. b genannten Empfehlungen;\nd) Erstellung von Berichten zu Fragen der Innenrevision nach Art. 52 Abs. 4."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "55",
+      "title": "Art. 55 Ständige Risikomanagement-Funktion",
+      "content": "1) Die Verwaltungsgesellschaft hat eine ständige Risikomanagement-Funktion einzurichten und aufrechtzuerhalten.\n2) Die in Abs. 1 genannte ständige Risikomanagement-Funktion ist von den operativen Abteilungen hierarchisch und funktionell unabhängig.\n3) Von den Auflagen nach Abs. 2 kann abgewichen werden, wenn dies angesichts der Art, des Umfangs und der Komplexität der Geschäfte der Verwaltungsgesellschaft und der von ihr verwalteten OGAW angemessen und verhältnismässig ist.\n4) Eine Verwaltungsgesellschaft muss nachweisen können, dass angemessene Massnahmen zum Schutz vor Interessenkonflikten getroffen wurden, um ein unabhängiges Risikomanagement zu ermöglichen, und dass ihr Risikomanagement-Prozess den Anforderungen des Art. 23 und 53 UCITSG entspricht.\n5) Die ständige Risikomanagement-Funktion hat die Aufgabe:\na) die Risikomanagement-Grundsätze und -Verfahren umzusetzen;\nb) für die Einhaltung der OGAW-Risikolimits zu sorgen, worunter auch die gesetzlichen Limits für das Gesamt- und das Kontrahentenrisiko nach den Art. 44 bis 46 fallen;\nc) das Leitungs- oder Verwaltungsorgan bei der Ermittlung des Risikoprofils der einzelnen verwalteten OGAW zu beraten;\nd) dem Leitungs- oder Verwaltungsorgan und - falls vorhanden - der Aufsichtsfunktion regelmässig zu folgenden Themen Bericht zu erstatten:\n1. Kohärenz zwischen dem aktuellen Risikostand bei jedem verwalteten OGAW und dem für diesen vereinbarten Risikoprofil;\n2. Einhaltung der jeweiligen Risikolimits durch die einzelnen verwalteten OGAW;\n3. Angemessenheit und Wirksamkeit des Risikomanagement-Prozesses, wobei insbesondere angegeben wird, ob bei eventuellen Mängeln angemessene Abhilfemassnahmen eingeleitet wurden;\ne) der Geschäftsleitung regelmässig über den aktuellen Risikostand bei jedem verwalteten OGAW und jede tatsächliche oder vorhersehbare Überschreitung der für den jeweiligen OGAW geltenden Limits Bericht zu erstatten, um zu gewährleisten, dass umgehend angemessene Massnahmen eingeleitet werden können;\nf) die in Art. 47 dargelegten Vorkehrungen und Verfahren für die Bewertung von OTC-Derivaten zu überprüfen und gegebenenfalls zu verstärken.\n6) Die ständige Risikomanagement-Funktion verfügt über die notwendige Autorität und über Zugang zu allen relevanten Informationen, die zur Erfüllung der in Abs. 5 genannten Aufgaben erforderlich sind."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "56",
+      "title": "Art. 56 Persönliche Geschäfte",
+      "content": "1) Die Verwaltungsgesellschaft hat zur Festlegung, Umsetzung und Aufrechterhaltung angemessener Vorkehrungen, die relevante Personen, deren Tätigkeiten zu einem Interessenkonflikt Anlass geben könnten, oder die aufgrund von Tätigkeiten, die sie für die Verwaltungsgesellschaft ausüben, Zugang zu Insider-Informationen im Sinne von Art. 7 der Verordnung (EU) Nr. 596/2014 oder zu anderen vertraulichen Informationen über OGAW oder über die mit oder für OGAW getätigten Geschäfte haben, daran hindern sollen:\na) ein persönliches Geschäft zu tätigen, bei dem zumindest eine der folgenden Bedingungen erfüllt ist:\n1. Die Person darf das persönliche Geschäft nach der Verordnung (EU) Nr. 596/2014 nicht tätigen.\n2. Es geht mit dem Missbrauch oder der vorschriftswidrigen Weitergabe vertraulicher Informationen einher.\n3. Es kollidiert mit einer Pflicht der Verwaltungsgesellschaft nach dem Gesetz oder dieser Verordnung oder der Richtlinie 2014/65/EG oder wird voraussichtlich damit kollidieren;\nb) ausserhalb ihres regulären Beschäftigungsverhältnisses oder Dienstleistungsvertrags einer anderen Person ein Geschäft mit Finanzinstrumenten zu empfehlen, das - würde es sich um ein persönliches Geschäft der relevanten Person handeln - unter Bst. a oder unter Art. 25 Abs. 2 Bst. a oder b der Richtlinie 2006/73/EG fiele oder einen anderweitigen Missbrauch von Informationen über laufende Aufträge darstellen würde, oder diese Person zu einem solchen Geschäft zu veranlassen;\nc) ausserhalb ihres regulären Beschäftigungsverhältnisses oder Dienstleistungsvertrags und unbeschadet des Art. 14 Bst. c der Verordnung (EU) Nr. 596/2014 Informationen oder Meinungen an eine andere Person weiterzugeben, wenn der relevanten Person klar ist oder nach vernünftigem Ermessen klar sein sollte, dass diese Weitergabe die andere Person dazu veranlassen wird oder veranlassen dürfte:\n1. ein Geschäft mit Finanzinstrumenten einzugehen, das - würde es sich um ein persönliches Geschäft der relevanten Person handeln - unter Bst. a oder unter Art. 25 Abs. 2 Bst. a oder b der Kommissions-Richtlinie 2006/73/EG fiele oder einen anderweitigen Missbrauch von Informationen über laufende Aufträge darstellen würde;\n2. einer anderen Person zu einem solchen Geschäft zu raten oder zu verhelfen.\n2) Die in Abs. 1 vorgeschriebenen Vorkehrungen gewährleisten insbesondere, dass:\na) jede unter Abs. 1 fallende relevante Person über die Beschränkungen für persönliche Geschäfte und die Massnahmen, die die Verwaltungsgesellschaft im Hinblick auf persönliche Geschäfte und Informationsweitergabe nach Abs. 1 getroffen hat, im Bilde ist;\nb) die Verwaltungsgesellschaft umgehend über jedes persönliche Geschäft einer relevanten Person unterrichtet wird, und zwar entweder durch Meldung des Geschäfts oder durch andere Verfahren, die der Verwaltungsgesellschaft die Feststellung solcher Geschäfte ermöglichen;\nc) ein bei der Verwaltungsgesellschaft gemeldetes oder von dieser festgestelltes persönliches Geschäft sowie jede Erlaubnis und jedes Verbot im Zusammenhang mit einem solchen Geschäft festgehalten wird.\n3) Werden bestimmte Tätigkeiten von Dritten ausgeführt, stellt die Verwaltungsgesellschaft für die Zwecke von Abs. 2 Bst. b sicher, dass das Unternehmen, das die Tätigkeit ausführt, persönliche Geschäfte aller relevanten Personen festhält und der Verwaltungsgesellschaft diese Informationen auf Verlangen unverzüglich vorlegt.\n4) Von den Abs. 1 bis 3 ausgenommen sind:\na) persönliche Geschäfte, die im Rahmen eines Vertrags über die Portfolioverwaltung mit Ermessensspielraum getätigt werden, sofern vor Geschäftsabschluss keine diesbezüglichen Kontakte zwischen dem Portfolioverwalter und der relevanten Person oder der Person, für deren Rechnung das Geschäft getätigt wird, stattfinden;\nb) persönliche Geschäfte mit OGAW oder mit Anteilen an OGAW, die nach der Rechtsvorschrift eines EWR-Mitgliedstaats, die für deren Anlagen ein gleich hohes Mass an Risikostreuung vorschreibt, der Aufsicht unterliegen, wenn die relevante Person oder jede andere Person, für deren Rechnung die Geschäfte getätigt werden, nicht an der Geschäftsleitung dieses Organismus beteiligt ist.\n5) Für die Zwecke der Abs. 1 bis 4 hat der Begriff \"persönliches Geschäft\" die gleiche Bedeutung wie in Art. 11 der Kommissions-Richtlinie 2006/73/EG."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "57",
+      "title": "Art. 57 Aufzeichnung von Portfoliogeschäften",
+      "content": "1) Die Verwaltungsgesellschaft hat sicherzustellen, dass jedes Portfoliogeschäft im Zusammenhang mit OGAW unverzüglich so aufgezeichnet wird, dass der Auftrag und das ausgeführte Geschäft im Einzelnen rekonstruiert werden können.\n2) Die in Abs. 1 genannte Aufzeichnung enthält:\na) den Namen oder die sonstige Bezeichnung des OGAW und der Person, die für Rechnung des OGAW handelt;\nb) die zur Feststellung des betreffenden Instruments notwendigen Einzelheiten;\nc) die Menge;\nd) die Art des Auftrags oder des Geschäfts;\ne) den Preis;\nf) bei Aufträgen das Datum und die genaue Uhrzeit der Auftragsübermittlung und den Namen oder die sonstige Bezeichnung der Person, an die der Auftrag übermittelt wurde, bzw. bei Geschäften das Datum und die genaue Uhrzeit der Geschäftsentscheidung und -ausführung;\ng) den Namen der Person, die den Auftrag übermittelt oder das Geschäft ausführt;\nh) gegebenenfalls die Gründe für den Widerruf eines Auftrags;\ni) bei ausgeführten Geschäften die Gegenpartei und den Ausführungsplatz.\n3) Für die Zwecke von Abs. 2 Bst. i bezeichnet \"Ausführungsplatz\" einen geregelten Markt im Sinne von Art. 4 Ziff. 21 der Richtlinie 2014/65/EG, ein multilaterales Handelssystem im Sinne von Art. 4 Ziff. 22 der genannten Richtlinie, einen systematischen Internalisierer im Sinne von Art. 4 Ziff. 20 der genannten Richtlinie oder einen Marktmacher, einen sonstigen Liquiditätsgeber oder eine Einrichtung, die in einem Drittland eine ähnliche Funktion erfüllt."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "58",
+      "title": "Art. 58 Aufzeichnung von Zeichnungs- und Rücknahmeaufträgen",
+      "content": "1) Die Verwaltungsgesellschaft hat angemessene Vorkehrungen zu treffen, um zu gewährleisten, dass die eingegangenen OGAW-Zeichnungs- und -Rücknahmeaufträge unmittelbar nach ihrem Eingang zentral erfasst und aufgezeichnet werden.\n2) Aufgezeichnet werden folgende Angaben:\na) Name des betreffenden OGAW;\nb) Person, die den Auftrag erteilt oder übermittelt;\nc) Person, die den Auftrag erhält;\nd) Datum und Uhrzeit des Auftrags;\ne) Zahlungsbedingungen und -mittel;\nf) Art des Auftrags;\ng) Datum der Auftragsausführung;\nh) Zahl der gezeichneten oder zurückgenommenen Anteile;\ni) Zeichnungs- oder Rücknahmepreis für jeden Anteil;\nk) Gesamtzeichnungs- oder -rücknahmewert der Anteile;\nl) Bruttowert des Auftrags einschliesslich Zeichnungsgebühren oder Nettobetrag nach Abzug von Rücknahmegebühren."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "H. Interne Kontrollmechanismen",
+      "section": "59",
+      "title": "Art. 59 Aufzeichnungspflichten",
+      "content": "1) Die Verwaltungsgesellschaft hat die Aufbewahrung der in den Art. 57 und 58 genannten Aufzeichnungen für einen Zeitraum von mindestens fünf Jahren sicherzustellen.\n2) Unter aussergewöhnlichen Umständen kann die FMA verlangen, dass die Verwaltungsgesellschaft alle oder einige dieser Aufzeichnungen für einen längeren, von der Art des Instruments oder Portfoliogeschäfts abhängigen Zeitraum aufbewahrt, wenn dies notwendig ist, um der FMA die Wahrnehmung ihrer Aufsichtsfunktion nach dem Gesetz und der Verordnung zu ermöglichen.\n3) Ist die Zulassung einer Verwaltungsgesellschaft abgelaufen, kann die FMA von der Verwaltungsgesellschaft verlangen, dass sie die in Abs. 1 genannten Aufzeichnungen bis zum Ende des Fünfjahreszeitraums aufbewahrt.\n4) Überträgt die Verwaltungsgesellschaft die Aufgaben, die sie im Zusammenhang mit dem OGAW hat, auf eine andere Verwaltungsgesellschaft, kann die FMA Vorkehrungen im Hinblick darauf verlangen, dass dieser Gesellschaft die Aufzeichnungen für die vorangegangenen fünf Jahre zur Verfügung gestellt werden.\n5) Die Aufzeichnungen sind auf einem Datenträger aufzubewahren, auf dem sie so gespeichert werden können, dass die FMA auch künftig auf sie zugreifen kann und die folgenden Bedingungen erfüllt sind:\na) Die FMA muss ohne weiteres auf die Aufzeichnungen zugreifen und jede massgebliche Stufe der Bearbeitung jedes einzelnen Portfoliogeschäfts rekonstruieren können.\nb) Jede Korrektur oder sonstige Änderung sowie der Inhalt der Aufzeichnungen vor einer solchen Korrektur oder sonstigen Änderung müssen leicht feststellbar sein.\nc) Die Aufzeichnungen dürfen nicht anderweitig manipulierbar oder zu verändern sein.\nI. Auflösung und Liquidation, Fortsetzung der Verwaltungsgesellschaft"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "I. Auflösung und Liquidation, Fortsetzung der Verwaltungsgesellschaft",
+      "section": "60",
+      "title": "Art. 60 Grundsatz",
+      "content": "1) Soweit im UCITSG nichts anderes bestimmt wird und die FMA zum Schutz der Anleger kein anderes Verfahren anordnet, richten sich die Auflösung und Liquidation (Art. 29 und 31 UCITSG) nach den Bestimmungen des PGR. Der Liquidator muss fachlich geeignet sein oder eine fachlich geeignete Person beiziehen.\n2) Mit Zustimmung der FMA kann die nach Art. 29 Abs. 1 UCITSG aufgelöste Verwaltungsgesellschaft die Fortsetzung ihrer Geschäftstätigkeit mit einem anderen Gesellschaftszweck beschliessen. Der Fortsetzungsbeschluss kann auch so gefasst werden, dass er zusammen mit der Auflösung nach Art. 29 Abs. 1 UCITSG wirksam wird.\n3) Eine Verwaltungsgesellschaft kann auf die Zulassung erst verzichten, wenn sie keine OGAW mehr verwaltet.\nIV. Verwahrstelle"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "IV. Verwahrstelle",
+      "section": "61",
+      "title": "Art. 61 Grundsatz",
+      "content": "1) Soweit nachfolgend nichts anderes bestimmt ist, richtet sich das Nähere über die Bestellung, die Pflichten, die Aufgabenübertragung und die Haftung von Verwahrstellen (Art. 32 bis 35 UCITSG) nach der Delegierten Verordnung (EU) 2016/438.\n2) Die FMA ist befugt, auf Kosten der Verwaltungsgesellschaft einen Hinweis auf anhängige Gerichtsverfahren gegen die Verwahrstelle nach Art. 35 UCITSG im Publikationsorgan nach Art. 94 zu veröffentlichen.\n3) Ein Vergleich zwischen der Verwaltungsgesellschaft und Verwahrstelle ist binnen sieben Tagen im Publikationsorgan nach Art. 94 zu veröffentlichen und der FMA mitzuteilen. Die FMA und die Anleger sind befugt, einen Vergleich binnen sechs Monaten vor dem Landgericht anzufechten.\nV. Strukturmassnahmen\nA. Verschmelzung\n1. Inhalt der Informationen über die Verschmelzung"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "1. Inhalt der Informationen über die Verschmelzung",
+      "section": "62",
+      "title": "Art. 62 Allgemeine Bestimmungen hinsichtlich des Inhalts der Informationen für die Anleger",
+      "content": "1) Die Informationen, die den Anlegern nach Art. 43 Abs. 1 UCITSG zur Verfügung gestellt werden müssen, sind kurz zu halten und in allgemein verständlicher Sprache abzufassen, damit die Anleger sich ein fundiertes Urteil über die Auswirkungen der vorgeschlagenen Verschmelzung auf ihre Anlage bilden können.\n2) Wird eine grenzüberschreitende Verschmelzung vorgeschlagen, erläutern der übertragende OGAW und der übernehmende OGAW in leicht verständlicher Sprache sämtliche Begriffe und Verfahren in Bezug auf den anderen OGAW, die sich von den im anderen EWR-Mitgliedstaat üblichen Begriffen und Verfahren unterscheiden.\n3) Die Informationen für die Anleger des übertragenden OGAW sind auf Anleger abzustimmen, die von den Merkmalen des übernehmenden OGAW und der Art seiner Tätigkeiten keine Kenntnis haben. Diese werden auf die wesentlichen Informationen für den Anleger des übernehmenden OGAW verwiesen und aufgefordert, diese zu lesen.\n4) Bei den Informationen für die Anleger des übernehmenden OGAW liegt der Schwerpunkt auf dem Vorgang der Verschmelzung und den potenziellen Auswirkungen auf den übernehmenden OGAW."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "1. Inhalt der Informationen über die Verschmelzung",
+      "section": "63",
+      "title": "Art. 63 Besondere Bestimmungen hinsichtlich des Inhalts der Informationen für die Anleger",
+      "content": "1) Die Informationen, die den Anlegern des übertragenden OGAW nach Art. 43 Abs. 2 Bst. b UCITSG zur Verfügung gestellt werden müssen, haben Folgendes zu umfassen:\na) Einzelheiten zu Unterschieden hinsichtlich der Rechte von Anlegern des übertragenden OGAW vor und nach Wirksamwerden der vorgeschlagenen Verschmelzung;\nb) wenn die wesentlichen Informationen für den Anleger des übertragenden OGAW und des übernehmenden OGAW synthetische Risiko- und Ertragsindikatoren in unterschiedlichen Kategorien aufweisen oder in der begleitenden erläuternden Beschreibung unterschiedliche wesentliche Risiken beschrieben werden, einen Vergleich dieser Unterschiede;\nc) einen Vergleich sämtlicher Kosten, Gebühren und Aufwendungen beider OGAW auf der Grundlage der in den jeweiligen wesentlichen Informationen für den Anleger genannten Beträge;\nd) wenn der übertragende OGAW eine an die Wertentwicklung gebundene Gebühr erhebt, eine Erläuterung der Erhebung dieser Gebühr bis Wirksamwerden der Verschmelzung;\ne) wenn der übernehmende OGAW eine an die Wertentwicklung gebundene Gebühr erhebt, eine Erläuterung der Erhebung dieser Gebühr unter Gewährleistung einer fairen Behandlung der Anleger, die vorher Anteile des übertragenden OGAW hielten;\nf) wenn dem übertragenden oder übernehmenden OGAW oder deren Anlegern nach Art. 46 UCITSG Kosten im Zusammenhang mit der Vorbereitung und Durchführung der Verschmelzung angelastet werden dürfen, die Einzelheiten der Allokation dieser Kosten;\ng) eine Erklärung, ob die Verwaltungsgesellschaft des übertragenden OGAW beabsichtigt, vor Wirksamwerden der Verschmelzung eine Neuordnung des Portfolios vorzunehmen.\n2) Die Informationen, die den Anlegern des übernehmenden OGAW nach Art. 43 Abs. 2 Bst. b UCITSG zu übermitteln sind, haben auch eine Erklärung zu umfassen, in der mitgeteilt wird, ob die Verwaltungsgesellschaft des übernehmenden OGAW davon ausgeht, dass die Verschmelzung wesentliche Auswirkungen auf das Portfolio des übernehmenden OGAW hat, und ob sie beabsichtigt, vor oder nach Wirksamwerden der Verschmelzung eine Neuordnung des Portfolios vorzunehmen.\n3) Die Informationen, die nach Art. 43 Abs. 2 Bst. c UCITSG zur Verfügung gestellt werden müssen, haben Folgendes zu umfassen:\na) Angaben zum Umgang mit den aufgelaufenen Erträgen des betreffenden OGAW;\nb) einen Hinweis darauf, wie der in Art. 42 Abs. 4 UCITSG genannte Bericht des unabhängigen Wirtschaftsprüfers oder der Verwahrstelle erhalten werden kann.\n4) Ist im Verschmelzungsplan eine Barzahlung nach Art. 3 Abs. 1 Ziff. 19 Bst. a und b UCITSG vorgesehen, haben die Informationen für die Anleger des übertragenden OGAW Angaben zur vorgeschlagenen Zahlung zu enthalten, einschliesslich Angaben zu Zeitpunkt und Modalitäten der Barzahlung an die Anleger des übertragenden OGAW.\n5) Die Informationen, die nach Art. 43 Abs. 2 Bst. d UCITSG zur Verfügung gestellt werden müssen, haben Folgendes zu umfassen:\na) sofern für den betreffenden OGAW relevant, das Verfahren für das Ersuchen der Anleger um Genehmigung der vorgeschlagenen Verschmelzung und Angaben zu den Vorkehrungen, die getroffen werden, um sie über das Ergebnis zu informieren;\nb) Einzelheiten jeder geplanten Aussetzung des Anteilehandels mit dem Ziel, eine effiziente Durchführung der Verschmelzung zu ermöglichen;\nc) Angabe des Zeitpunkts des Wirksamwerdens der Verschmelzung nach Art. 47 Abs. 1 und 2 UCITSG.\n6) Muss die vorgeschlagene Verschmelzung nach den für den betreffenden OGAW geltenden Rechtsvorschriften von den Anlegern genehmigt werden, können die Informationen eine Empfehlung der Verwaltungsgesellschaft bzw. des Leitungs- oder Verwaltungsorgans der Investmentgesellschaft enthalten.\n7) Die Informationen für die Anleger des übertragenden OGAW haben Folgendes zu umfassen:\na) Angabe des Zeitraums, während dessen die Anleger im übertragenden OGAW noch Aufträge für die Zeichnung und Auszahlung von Anteilen erteilen können;\nb) Angabe des Zeitraums, während dessen Anleger, die ihre nach Art. 45 Abs. 1 und 2 UCITSG gewährten Rechte nicht innerhalb der einschlägigen Frist wahrnehmen, ihre Rechte als Anleger des übernehmenden OGAW wahrnehmen können;\nc) wenn die vorgeschlagene Verschmelzung von den Anlegern des übertragenden OGAW genehmigt werden muss und der Vorschlag die erforderliche Mehrheit erhält, eine Erklärung, der zufolge Anleger, die gegen die vorgeschlagene Verschmelzung stimmen oder sich der Stimme enthalten und ihre nach Art. 45 Abs. 1 und 2 UCITSG gewährten Rechte nicht innerhalb der einschlägigen Frist wahrnehmen, Anleger des übernehmenden OGAW werden.\n8) Wird den Informationsunterlagen eine Zusammenfassung der wichtigsten Punkte der vorgeschlagenen Verschmelzung vorangestellt, muss darin auf die Abschnitte der Informationsunterlagen verwiesen werden, die weitere Informationen enthalten."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "1. Inhalt der Informationen über die Verschmelzung",
+      "section": "64",
+      "title": "Art. 64 Wesentliche Informationen für den Anleger",
+      "content": "1) Den Anlegern des übertragenden OGAW ist eine aktuelle Fassung der wesentlichen Informationen für den Anleger des übernehmenden OGAW zur Verfügung zu stellen.\n2) Werden aufgrund der vorgeschlagenen Verschmelzung Änderungen an den wesentlichen Informationen für den Anleger des übernehmenden OGAW vorgenommen, so werden diese Informationen den Anlegern des übernehmenden OGAW übermittelt."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "1. Inhalt der Informationen über die Verschmelzung",
+      "section": "65",
+      "title": "Art. 65 Neue Anleger",
+      "content": "Zwischen dem Datum der Übermittlung der Informationen nach Art. 43 Abs. 1 UCITSG an die Anleger und dem Datum des Wirksamwerdens der Verschmelzung werden die Informationsunterlagen und die aktuellen wesentlichen Informationen für den Anleger des übernehmenden OGAW jeder Person übermittelt, die entweder im übertragenden oder im übernehmenden OGAW Anteile kauft oder zeichnet oder Kopien der Vertragsbedingungen oder der Satzung, des Prospekts oder der wesentlichen Informationen für den Anleger eines der beiden OGAW anfordert.\n2. Informationsübermittlung"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "2. Informationsübermittlung",
+      "section": "66",
+      "title": "Art. 66 Verfahren für die Übermittlung der Informationen an die Anleger",
+      "content": "1) Der übertragende und der übernehmende OGAW haben den Anlegern die nach Art. 43 Abs. 1 UCITSG zu übermittelnden Informationen auf Papier oder einem anderen dauerhaften Datenträger zur Verfügung stellen.\n2) Sollen die Informationen allen oder bestimmten Anlegern auf einem anderen dauerhaften Datenträger als Papier zur Verfügung gestellt werden, müssen folgende Bedingungen erfüllt sein:\na) Die Bereitstellung der Informationen ist den Rahmenbedingungen angemessen, unter denen die Geschäftstätigkeiten zwischen Anleger und dem übertragenden bzw. übernehmenden OGAW oder, sofern relevant, der jeweiligen Verwaltungsgesellschaft ausgeführt werden oder werden sollen.\nb) Der Anleger, dem die Informationen zur Verfügung zu stellen sind, entscheidet sich bei der Wahl zwischen Informationen auf Papier oder einem anderen dauerhaften Datenträger ausdrücklich für Letzteres.\n3) Für die Zwecke der Abs. 1 und 2 wird die Bereitstellung von Informationen auf elektronischem Wege im Hinblick auf die Rahmenbedingungen, unter denen die Geschäftstätigkeiten zwischen übertragendem und übernehmendem OGAW bzw. deren Verwaltungsgesellschaften und dem Anleger ausgeführt werden oder werden sollen, als angemessen betrachtet, wenn der Anleger nachweislich über einen regelmässigen Zugang zum Internet verfügt. Dies gilt als nachgewiesen, wenn der Anleger für die Ausführung dieser Geschäfte eine E-Mail-Adresse angegeben hat.\nB. Andere Strukturmassnahmen"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "B. Andere Strukturmassnahmen",
+      "section": "67",
+      "title": "Art. 67 Verbot der Kostenzuweisung an die Anleger",
+      "content": "Für Verschmelzungsfälle nach Art. 49 Bst. a bis c UCITSG gilt Art. 46 UCITSG sinngemäss.\nC. Registerverfahren"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "C. Registerverfahren",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art68a",
+      "chapter": "C. Registerverfahren",
+      "section": "68a",
+      "title": "Art. 68a",
+      "content": "Aufgehoben\nVI. Anlagepolitik"
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "VI. Anlagepolitik",
+      "section": "69",
+      "title": "Art. 69 Derivateeinsatz",
+      "content": "1) Der Derivateeinsatz hat den Marktusancen und internationalen Standards zu entsprechen.\n2) Die FMA kann entsprechende Standards für verbindlich erklären."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "VI. Anlagepolitik",
+      "section": "70",
+      "title": "Art. 70 Wertpapierleihe und Pensionsgeschäft",
+      "content": "1) Wertpapierleihe und Pensionsgeschäfte sind zulässig.\n2) Die Verwahrstelle haftet für die marktkonforme einwandfreie Abwicklung der Wertpapierleihe und des Pensionsgeschäfts.\n3) Banken, Wertpapierfirmen, Kreditinstitute, Finanzdienstleistungsinstitute, Versicherungsunternehmen und Clearing-Organisationen dürfen bei der Wertpapierleihe als Entleiher herangezogen werden, sofern sie auf die Wertpapierleihe spezialisiert sind und Sicherheiten leisten, die dem Umfang und dem Risiko der beabsichtigten Geschäfte entsprechen. Unter den gleichen Bedingungen darf das Pensionsgeschäft mit den genannten Instituten abgewickelt werden.\n4) Die Wertpapierleihe und das Pensionsgeschäft sind in einem standardisierten Rahmenvertrag zu regeln.\n5) Die FMA kann Richtlinien über die Wertpapierleihe und Pensionsgeschäfte erlassen.\nVII. Master-Feeder-Strukturen\nA. Gemeinsame Bestimmungen für Feeder- OGAW und Master-OGAW\n1. Inhalt der Vereinbarung zwischen Feeder-OGAW und\nMaster-OGAW"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "71",
+      "title": "Art. 71 Zugang zu Informationen",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannte Vereinbarung zwischen Master-OGAW und Feeder-OGAW in Bezug auf den Zugang zu Informationen hat folgende Angaben zu enthalten:\na) wie und wann der Master-OGAW dem Feeder-OGAW Kopien seiner Vertragsbedingungen bzw. Satzung, des Prospekts und der wesentlichen Informationen für den Anleger übermittelt;\nb) wie und wann der Master-OGAW den Feeder-OGAW über die Übertragung von Aufgaben des Investment- und Risikomanagements an Dritte nach Art. 22 UCITSG unterrichtet;\nc) wie und wann der Master-OGAW dem Feeder-OGAW - sofern relevant - interne Betriebsdokumente wie die Beschreibung des Risikomanagement-Verfahrens und die Compliance-Berichte übermittelt;\nd) welche Angaben zu Verstössen des Master-OGAW gegen Rechtsvorschriften, Vertragsbedingungen oder Satzung und die Vereinbarung zwischen Master-OGAW und Feeder-OGAW der Master-OGAW dem Feeder-OGAW meldet, einschliesslich Angaben zu Modalitäten und Zeitpunkt dieser Meldung;\ne) falls der Feeder-OGAW zu Sicherungszwecken in derivative Finanzinstrumente investiert, wie und wann der Master-OGAW dem Feeder-OGAW Informationen über seine tatsächliche Risikoexponierung gegenüber derivativen Finanzinstrumenten übermittelt, damit der Feeder-OGAW sein eigenes Gesamtrisiko nach Art. 60 Abs. 2 Bst. a UCITSG ermitteln kann;\nf) eine Erklärung, der zufolge der Master-OGAW den Feeder-OGAW über jegliche weitere Vereinbarungen über den Informationsaustausch mit Dritten unterrichtet, und gegebenenfalls wie und wann der Master-OGAW dem Feeder-OGAW diese Vereinbarungen über den Informationsaustausch übermittelt."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "72",
+      "title": "Art. 72 Anlage- und Veräusserungsbasis des Feeder-OGAW",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannte Vereinbarung zwischen Master-OGAW und Feeder-OGAW hat in Bezug auf die Investitions- und Veräusserungsbasis des Feeder-OGAW folgende Angaben zu enthalten:\na) die Angabe, in welche Anteilklassen des Master-OGAW der Feeder-OGAW investieren kann;\nb) Kosten und Aufwendungen, die vom Feeder-OGAW zu tragen sind, sowie Nachlässe oder Rückvergütungen von Gebühren oder Aufwendungen des Master-OGAW;\nc) sofern zutreffend, die Modalitäten für jegliche anfängliche oder spätere Übertragung von Sacheinlagen vom Feeder-OGAW auf den Master-OGAW."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "73",
+      "title": "Art. 73 Standardvereinbarungen",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannte Vereinbarung zwischen Master-OGAW und Feeder-OGAW hat in Bezug auf Standardvereinbarungen Folgendes zu enthalten:\na) Abstimmung der Häufigkeit und des Zeitplans für die Berechnung des Nettoinventarwerts und die Veröffentlichung der Anteilpreise;\nb) Abstimmung der Weiterleitung von Aufträgen durch den Feeder-OGAW, gegebenenfalls einschliesslich einer Beschreibung der Rolle der für die Weiterleitung zuständigen Personen oder Dritter;\nc) sofern relevant, die erforderlichen Vereinbarungen zur Berücksichtigung der Tatsache, dass einer oder beide OGAW auf einem Sekundärmarkt notiert sind oder gehandelt werden;\nd) sofern erforderlich, weitere angemessene Massnahmen, die nötig sind, um die Einhaltung der Anforderungen nach Art. 62 Abs. 3 UCITSG zu gewährleisten;\ne) falls die Anteile von Feeder-OGAW und Master-OGAW auf unterschiedliche Währungen lauten, die Grundlage für die Umrechnung von Aufträgen;\nf) Abwicklungszyklen und Zahlungsmodalitäten für Kauf und Zeichnung sowie Rücknahme oder Auszahlung von Anteilen des Master-OGAW, bei entsprechenden Vereinbarungen zwischen den Parteien, einschliesslich der Modalitäten für die Erledigung von Auszahlungsaufträgen im Wege der Übertragung von Sacheinlagen vom Master-OGAW auf den Feeder-OGAW, insbesondere in den in Art. 62 Abs. 5 und 7 UCITSG genannten Fällen;\ng) Verfahren zur Gewährleistung einer angemessenen Bearbeitung von Anfragen und Beschwerden der Anleger;\nh) wenn Vertragsbedingungen oder Satzung und Prospekt des Master-OGAW diesem bestimmte Rechte oder Befugnisse in Bezug auf die Anleger gewähren und der Master-OGAW beschliesst, in Bezug auf den Feeder-OGAW alle oder bestimmte Rechte und Befugnisse nur in beschränktem Masse oder gar nicht wahrzunehmen, eine Beschreibung der einschlägigen Modalitäten."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "74",
+      "title": "Art. 74 Ereignisse mit Auswirkungen auf Handelsvereinbarungen",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannte Vereinbarung zwischen Master-OGAW und Feeder-OGAW hat in Bezug auf Ereignisse mit Auswirkung auf Handelsvereinbarungen Folgendes zu enthalten:\na) Modalitäten und Zeitplan für die Mitteilung der befristeten Aussetzung und Wiederaufnahme von Rücknahme, Auszahlung, Kauf oder Zeichnung von Anteilen eines OGAW durch den betreffenden OGAW;\nb) Vorkehrungen für Meldung und Korrektur von Fehlern bei der Preisfestsetzung im Master-OGAW."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "75",
+      "title": "Art. 75 Standardvereinbarungen für den Prüfbericht",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannte Vereinbarung zwischen Master-OGAW und Feeder-OGAW hat in Bezug auf Standardvereinbarungen für den Prüfbericht Folgendes zu enthalten:\na) sofern Feeder- und Master-OGAW die gleichen Rechnungsjahre haben, Abstimmung der Erstellung der regelmässigen Berichte;\nb) sofern Feeder- und Master-OGAW unterschiedliche Rechnungsjahre haben, Vorkehrungen für die Übermittlung aller erforderlichen Informationen durch den Master-OGAW an den Feeder-OGAW, damit dieser seine regelmässigen Berichte rechtzeitig erstellen kann, und um sicherzustellen, dass der Wirtschaftsprüfer des Master-OGAW in der Lage ist, zum Abschlusstermin des Feeder-OGAW einen Ad-hoc-Bericht nach Art. 64 Abs. 3 UCITSG zu erstellen."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "76",
+      "title": "Art. 76 Änderungen von Dauervereinbarungen",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannte Vereinbarung zwischen Master-OGAW und Feeder-OGAW hat in Bezug auf Dauervereinbarungen Folgendes zu enthalten:\na) Modalitäten und Zeitplan für die Mitteilung vorgeschlagener und bereits wirksamer Änderungen der Vertragsbedingungen oder der Satzung, des Prospekts und der wesentlichen Informationen für den Anleger durch den Master-OGAW, wenn diese Informationen von den in den Vertragsbedingungen, der Satzung oder dem Prospekt des Master-OGAW festgelegten Standardvereinbarungen für die Unterrichtung der Anleger abweichen;\nb) Modalitäten und Zeitplan für die Mitteilung einer geplanten oder vorgeschlagenen Liquidation, Verschmelzung oder Spaltung durch den Master-OGAW;\nc) Modalitäten und Zeitplan für die Mitteilung eines OGAW, dass die Bedingungen für einen Feeder-OGAW bzw. Master-OGAW nicht mehr erfüllt sind oder nicht mehr erfüllt sein werden;\nd) Modalitäten und Zeitplan für die Mitteilung der Absicht eines OGAW, seine Verwaltungsgesellschaft, seine Verwahrstelle, seinen Wirtschaftsprüfer oder jegliche Dritte, die mit Aufgaben des Investment- oder Risikomanagements betraut sind, zu ersetzen;\ne) Modalitäten und Zeitplan für die Mitteilung anderer Änderungen von Dauervereinbarungen durch den Master-OGAW."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "1. Inhalt der Vereinbarung zwischen Feeder-OGAW und Master-OGAW",
+      "section": "77",
+      "title": "Art. 77 Wahl des anzuwendenden Rechts",
+      "content": "1) Sind Feeder-OGAW und Master-OGAW in Liechtenstein niedergelassen, so ist in der in Art. 62 Abs. 1 UCITSG genannten Vereinbarung zwischen Master-OGAW und Feeder-OGAW das liechtensteinische Recht als auf die Vereinbarung anzuwendendes Recht festzulegen und beide Parteien haben die ausschliessliche Zuständigkeit der liechtensteinischen Gerichte anzuerkennen.\n2) Sind Feeder-OGAW und Master-OGAW in unterschiedlichen EWR-Mitgliedstaaten niedergelassen, so ist in der in Art. 62 Abs. 1 UCITSG genannten Vereinbarung zwischen Master-OGAW und Feeder-OGAW als anzuwendendes Recht entweder das Recht des EWR-Mitgliedstaats, in dem der Feeder-OGAW niedergelassen ist, oder das Recht des EWR-Mitgliedstaats, in dem der Master-OGAW niedergelassen ist, festzulegen. Des Weiteren müssen beide Parteien in der Vereinbarung die ausschliessliche Zuständigkeit der Gerichte des EWR-Mitgliedstaats anerkennen, dessen Recht sie als für die Vereinbarung anzuwendendes Recht festgelegt haben.\n2. Inhalt der internen Regelungen für Geschäftstätigkeiten"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "2. Inhalt der internen Regelungen für Geschäftstätigkeiten",
+      "section": "78",
+      "title": "Art. 78 Interessenkonflikte",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannten internen Regelungen für Geschäftstätigkeiten haben angemessene Massnahmen zur Abschwächung von Interessenkonflikten zu enthalten, die zwischen Feeder-OGAW und Master-OGAW oder zwischen Feeder-OGAW und anderen Anlegern des Master-OGAW entstehen können, sofern die Massnahmen, die die Verwaltungsgesellschaft ergreift, um den Anforderungen nach Art. 20 Abs. 1 Bst. d und Art. 21 Abs. 3 UCITSG sowie Kapitel III Abschnitt E dieser Verordnung zu genügen, nicht ausreichen."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "2. Inhalt der internen Regelungen für Geschäftstätigkeiten",
+      "section": "79",
+      "title": "Art. 79 Anlage- und Veräusserungsbasis des Feeder-OGAW",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannten internen Regelungen für Geschäftstätigkeiten der Verwaltungsgesellschaft haben in Bezug auf die Anlage- und Veräusserungsbasis des Feeder-OGAW Folgendes zu enthalten:\na) die Angabe, in welche Anteilklassen des Master-OGAW der Feeder-OGAW investieren kann;\nb) Kosten und Aufwendungen, die vom Feeder-OGAW zu tragen sind, sowie Nachlässe oder Rückvergütungen von Gebühren oder Aufwendungen des Master-OGAW;\nc) sofern zutreffend, die Modalitäten für jegliche anfängliche oder spätere Übertragung von Sacheinlagen vom Feeder-OGAW auf den Master-OGAW."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "2. Inhalt der internen Regelungen für Geschäftstätigkeiten",
+      "section": "80",
+      "title": "Art. 80 Standardvereinbarungen",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannten internen Regelungen für Geschäftstätigkeiten der Verwaltungsgesellschaft haben in Bezug auf Standardvereinbarungen Folgendes zu enthalten:\na) Abstimmung der Häufigkeit und des Zeitplans für die Berechnung des Nettoinventarwerts und die Veröffentlichung der Anteilpreise;\nb) Abstimmung der Weiterleitung von Aufträgen durch den Feeder-OGAW, gegebenenfalls einschliesslich einer Beschreibung der Rolle der für die Weiterleitung zuständigen Personen oder Dritter;\nc) sofern relevant, die erforderlichen Vereinbarungen zur Berücksichtigung der Tatsache, dass einer oder beide OGAW auf einem Sekundärmarkt notiert sind oder gehandelt werden;\nd) angemessene Massnahmen zur Gewährleistung der Einhaltung der Anforderungen von Art. 62 Abs. 3 UCITSG;\ne) falls die Anteile von Feeder-OGAW und Master-OGAW auf unterschiedliche Währungen lauten, die Grundlage für die Umrechnung von Aufträgen;\nf) Abwicklungszyklen und Zahlungsmodalitäten für Kauf und Auszahlung von Anteilen des Master-OGAW, bei entsprechenden Vereinbarungen zwischen den Parteien, einschliesslich der Modalitäten für die Erledigung von Auszahlungsaufträgen im Wege der Übertragung von Sacheinlagen vom Master-OGAW auf den Feeder-OGAW, insbesondere in den in Art. 62 Abs. 5 und 7 UCITSG genannten Fällen;\ng) wenn Vertragsbedingungen oder Satzung und Prospekt des Master-OGAW diesem bestimmte Rechte oder Befugnisse in Bezug auf die Anleger gewähren und der Master-OGAW beschliesst, in Bezug auf den Feeder-OGAW alle oder bestimmte Rechte und Befugnisse nur in beschränktem Masse oder gar nicht wahrzunehmen, eine Beschreibung der einschlägigen Modalitäten."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "2. Inhalt der internen Regelungen für Geschäftstätigkeiten",
+      "section": "81",
+      "title": "Art. 81 Ereignisse mit Auswirkungen auf Handelsvereinbarungen",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannten internen Regelungen für Geschäftstätigkeiten der Verwaltungsgesellschaft haben in Bezug auf Ereignisse mit Auswirkungen auf Handelsvereinbarungen Folgendes zu enthalten:\na) Modalitäten und Zeitplan für die Mitteilung der befristeten Aussetzung und Wiederaufnahme von Rücknahme, Auszahlung oder Zeichnung von Anteilen eines OGAW durch den betreffenden OGAW;\nb) Vorkehrungen für Meldung und Korrektur von Fehlern bei der Preisfestsetzung im Master-OGAW."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "2. Inhalt der internen Regelungen für Geschäftstätigkeiten",
+      "section": "82",
+      "title": "Art. 82 Standardvereinbarungen für den Prüfbericht",
+      "content": "Die in Art. 62 Abs. 1 UCITSG genannten internen Regelungen für Geschäftstätigkeiten der Verwaltungsgesellschaft haben in Bezug auf den Prüfbericht Folgendes zu enthalten:\na) sofern Feeder- und Master-OGAW die gleichen Rechnungsjahre haben, Abstimmung der Erstellung der regelmässigen Berichte;\nb) sofern Feeder- und Master-OGAW unterschiedliche Rechnungsjahre haben, Vereinbarungen für die Übermittlung aller erforderlichen Informationen durch den Master-OGAW an den Feeder-OGAW, damit dieser seine regelmässigen Berichte rechtzeitig erstellen kann, und um sicherzustellen, dass der Wirtschaftsprüfer des Master-OGAW in der Lage ist, zum Abschlusstermin des Feeder-OGAW einen Ad-hoc-Bericht nach Art. 64 Abs. 3 UCITSG zu erstellen.\n3. Verfahren im Falle der Liquidation"
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "3. Verfahren im Falle der Liquidation",
+      "section": "83",
+      "title": "Art. 83 Antrag auf Genehmigung",
+      "content": "1) Ein Feeder-OGAW mit Sitz in Liechtenstein hat spätestens zwei Monate nach Mitteilung der verbindlichen Entscheidung zur Liquidation durch den Master-OGAW der FMA folgende Unterlagen zu übermitteln:\na) wenn der Feeder-OGAW beabsichtigt, nach Art. 62 Abs. 5 Bst. a UCITSG mindestens 85 % seiner Vermögenswerte in Anteile eines anderen Master-OGAW anzulegen:\n1. den Antrag auf Genehmigung dieser Anlage;\n2. den Antrag auf Genehmigung der vorgeschlagenen Änderungen seiner Vertragsbedingungen oder Satzung;\n3. die Änderungen des Prospekts und der wesentlichen Informationen für den Anleger nach den Art. 76 und 84 UCITSG;\n4. die anderen nach Art. 61 Abs. 2 UCITSG erforderlichen Dokumente;\nb) wenn der Feeder-OGAW nach Art. 62 Abs. 5 Bst. b UCITSG eine Umwandlung in einen OGAW, der kein Feeder-OGAW ist, beabsichtigt:\n1. den Antrag auf Genehmigung der vorgeschlagenen Änderungen seiner Vertragsbedingungen oder Satzung;\n2. die Änderungen des Prospekts und der wesentlichen Informationen für den Anleger nach den Art. 76 und 84 UCITSG;\nc) wenn der Feeder-OGAW eine Liquidation plant, die Mitteilung dieser Absicht.\n2) Wenn der Master-OGAW den Feeder-OGAW mit Sitz in Liechtenstein mehr als fünf Monate vor dem Beginn der Liquidation über seine verbindliche Entscheidung zur Liquidation informiert hat, übermittelt der Feeder-OGAW abweichend von Abs. 1 der FMA seinen Antrag bzw. seine Mitteilung nach Abs. 1 Bst. a, b oder c spätestens drei Monate vor diesem Datum.\n3) Der Feeder-OGAW unterrichtet seine Anleger unverzüglich über die beabsichtigte Liquidation."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "3. Verfahren im Falle der Liquidation",
+      "section": "84",
+      "title": "Art. 84 Genehmigung",
+      "content": "1) Der Feeder-OGAW mit Sitz in Liechtenstein wird innerhalb von 15 Arbeitstagen nach Vorlage der vollständigen, in Art. 83 Abs. 1 Bst. a oder b genannten Unterlagen darüber informiert, ob die FMA die erforderlichen Genehmigungen erteilt hat.\n2) Nach Erhalt der Genehmigung der FMA nach Abs. 1 unterrichtet der Feeder-OGAW den Master-OGAW entsprechend.\n3) Sobald die zuständigen Behörden die erforderlichen Genehmigungen nach Art. 83 Abs. 1 Bst. a erteilt haben, ergreift der Feeder-OGAW alle erforderlichen Massnahmen, um die Anforderungen von Art. 66 UCITSG so rasch wie möglich zu erfüllen.\n4) Wird der Liquidationserlös des Master-OGAW vor dem Datum ausgezahlt, zu dem der Feeder-OGAW damit beginnt, entweder nach Art. 83 Abs. 1 Bst. a in andere Master-OGAW zu investieren oder in Einklang mit seinen neuen Anlagezielen und seiner neuen Anlagepolitik nach Art. 83 Abs. 1 Bst. b Anlagen zu tätigen, erteilt die FMA als Aufsichtsbehörde des Feeder-OGAW ihre Genehmigung unter folgenden Bedingungen:\na) der Feeder-OGAW erhält:\n1. den Liquidationserlös in bar; oder\n2. einen Teil des Erlöses oder den gesamten Erlös in Form einer Übertragung von Sacheinlagen, sofern dies dem Wunsch des Feeder-OGAW entspricht und in der Vereinbarung zwischen Feeder-OGAW und Master-OGAW oder den internen Regelungen für Geschäftstätigkeiten und der verbindlichen Entscheidung zur Liquidation vorgesehen ist;\nb) sämtliche nach diesem Absatz gehaltenen oder erhaltenen Barmittel können vor dem Datum, zu dem der Feeder-OGAW beginnt, Anlagen in einen anderen Master-OGAW oder in Einklang mit seinen neuen Anlagezielen und seiner neuen Anlagepolitik zu tätigen, ausschliesslich zum Zweck eines effizienten Liquiditätsmanagements neu angelegt werden.\n5) Kommt Abs. 4 Bst. a Ziff. 2 zur Anwendung, kann der Feeder-OGAW jeden Teil der als Sacheinlagen übertragenen Vermögenswerte jederzeit in Barwerte umwandeln.\n4. Verfahren im Falle der Verschmelzung oder Spaltung"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "4. Verfahren im Falle der Verschmelzung oder Spaltung",
+      "section": "85",
+      "title": "Art. 85 Antrag auf Genehmigung",
+      "content": "1) Der Feeder-OGAW mit Sitz in Liechtenstein hat der FMA innerhalb eines Monats nach dem Datum, zu dem er nach Art. 62 Abs. 8 UCITSG über die geplante Verschmelzung oder Spaltung unterrichtet wurde, folgende Unterlagen zu unterbreiten:\na) wenn der Feeder-OGAW beabsichtigt, Feeder-OGAW des gleichen Master-OGAW zu bleiben:\n1. den entsprechenden Genehmigungsantrag;\n2. sofern relevant, den Antrag auf Genehmigung der vorgeschlagenen Änderungen seiner Vertragsbedingungen oder Satzung;\n3. sofern relevant, die Änderungen des Prospekts und der wesentlichen Informationen für den Anleger nach den Art. 76 und 84 UCITSG;\nb) wenn der Feeder-OGAW beabsichtigt, Feeder-OGAW eines anderen, aus der vorgeschlagenen Verschmelzung oder Spaltung des Master-OGAW hervorgegangenen Master-OGAW zu werden oder mindestens 85 % seines Vermögens in Anteile eines anderen, nicht aus der vorgeschlagenen Verschmelzung oder Spaltung hervorgegangenen Master-OGAW anzulegen:\n1. den Antrag auf Genehmigung dieser Anlage;\n2. den Antrag auf Genehmigung der vorgeschlagenen Änderungen seiner Vertragsbedingungen oder Satzung;\n3. die Änderungen des Prospekts und der wesentlichen Informationen für den Anleger nach den Art. 76 und 84 UCITSG;\n4. die anderen nach Art. 61 Abs. 2 UCITSG erforderlichen Dokumente;\nc) wenn der Feeder-OGAW nach Art. 62 Abs. 5 Bst. b UCITSG eine Umwandlung in einen OGAW, der kein Feeder-OGAW ist, beabsichtigt:\n1. den Antrag auf Genehmigung der vorgeschlagenen Änderungen seiner Vertragsbedingungen oder Satzung;\n2. die Änderungen des Prospekts und der wesentlichen Informationen für den Anleger nach den Art. 76 und 84 UCITSG;\nd) wenn der Feeder-OGAW eine Liquidation plant, die Mitteilung dieser Absicht.\n2) Zum Zweck der Anwendung von Abs. 1 Bst. a und b ist Folgendes zu berücksichtigen:\na) Der Ausdruck \"bleibt Feeder-OGAW des Master-OGAW\" bezieht sich auf Fälle, in denen:\n1. der Master-OGAW übernehmender OGAW einer vorgeschlagenen Verschmelzung ist;\n2. der Master-OGAW ohne wesentliche Veränderungen einer der aus der vorgeschlagenen Spaltung hervorgehenden OGAW bleibt.\nb) Der Ausdruck \"wird Feeder-OGAW eines anderen, aus der vorgeschlagenen Verschmelzung oder Spaltung des Master-OGAW hervorgegangenen Master-OGAW\" bezieht sich auf Fälle, in denen:\n1. der Master-OGAW übertragender OGAW ist und der Feeder-OGAW infolge der Verschmelzung Anleger des übernehmenden OGAW wird;\n2. der Feeder-OGAW Anleger eines aus einer Spaltung hervorgegangenen OGAW wird, der sich wesentlich vom Master-OGAW unterscheidet.\n3) Wenn der Master-OGAW dem Feeder-OGAW die in Art. 43 UCITSG genannten oder vergleichbare Informationen mehr als vier Monate vor dem vorgeschlagenen Datum des Wirksamwerdens der Verschmelzung bzw. Spaltung übermittelt, unterbreitet der Feeder-OGAW der FMA abweichend von Abs. 1 seinen Antrag bzw. seine Mitteilung nach Abs. 1 Bst. a bis d spätestens drei Monate vor dem vorgeschlagenen Datum des Wirksamwerdens der Verschmelzung bzw. Spaltung des Master-OGAW.\n4) Der Feeder-OGAW unterrichtet seine Anleger und den Master-OGAW unverzüglich über die beabsichtigte Liquidation."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "4. Verfahren im Falle der Verschmelzung oder Spaltung",
+      "section": "86",
+      "title": "Art. 86 Genehmigung",
+      "content": "1) Der Feeder-OGAW mit Sitz in Liechtenstein wird innerhalb von 15 Arbeitstagen nach Vorlage der vollständigen, in Art. 85 Abs. 1 Bst. a bis c genannten Unterlagen darüber informiert, ob die FMA die erforderlichen Genehmigungen erteilt hat.\n2) Sobald der Feeder-OGAW die Mitteilung nach Abs. 1 erhält, unterrichtet er den Master-OGAW entsprechend.\n3) Nachdem der Feeder-OGAW darüber informiert wurde, dass die FMA die erforderlichen Genehmigungen nach Art. 85 Abs. 1 Bst. b erteilt hat, ergreift er alle erforderlichen Massnahmen, um die Anforderungen von Art. 66 UCITSG unverzüglich zu erfüllen.\n4) In den in Art. 85 Abs. 1 Bst. b und c beschriebenen Fällen hat der Feeder-OGAW das Recht, nach Art. 62 Abs. 8 und Art. 45 Abs. 1 und 2 UCITSG die Rücknahme und Auszahlung seiner Anteile im Master-OGAW zu verlangen, sofern die FMA bis zum Arbeitstag, der dem letzten Tag, an dem der Feeder-OGAW vor Wirksamwerden der Verschmelzung bzw. Spaltung eine Rücknahme oder Auszahlung seiner Anteile im Master-OGAW verlangen kann, vorausgeht, die nach Art. 85 Abs. 1 erforderlichen Genehmigungen nicht erteilt hat.\n5) Der Feeder-OGAW übt das Recht nach Abs. 4 auch aus, um das Recht seiner Anleger, die Rücknahme oder Auszahlung ihrer Anteile im Feeder-OGAW nach Art. 66 Abs. 1 Bst. d UCITSG zu verlangen, zu wahren.\n6) Vor Wahrnehmung des in Abs. 4 genannten Rechts prüft der Feeder-OGAW mögliche Alternativen, die dazu beitragen können, Transaktionskosten oder andere negative Auswirkungen auf seine Anleger zu vermeiden oder zu verringern.\n7) Verlangt der Feeder-OGAW die Rücknahme oder Auszahlung seiner Anteile im Master-OGAW, so erhält er:\na) entweder den Erlös aus der Rücknahme oder Auszahlung in bar; oder\nb) einen Teil oder den gesamten Erlös aus der Rücknahme oder Auszahlung in Form einer Übertragung von Sacheinlagen, sofern dies dem Wunsch des Feeder-OGAW entspricht und in der Vereinbarung zwischen Feeder-OGAW und Master-OGAW vorgesehen ist. In diesem Fall kann der Feeder-OGAW jeden Teil der übertragenen Vermögenswerte jederzeit in Barwerte umwandeln.\n8) Die FMA erteilt die Genehmigung unter der Bedingung, dass sämtliche gehaltene oder nach Abs. 7 erhaltene Barmittel vor dem Datum, zu dem der Feeder-OGAW beginnt, Anlagen in den neuen Master-OGAW oder in Einklang mit seinen neuen Investitionszielen und seiner neuen Investitionspolitik zu tätigen, ausschliesslich zum Zweck eines effizienten Liquiditätsmanagements neu angelegt werden können.\nB. Verwahrstellen und Wirtschaftsprüfer\n1. Verwahrstellen"
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "1. Verwahrstellen",
+      "section": "87",
+      "title": "Art. 87 Inhalt der Vereinbarung über den Informationsaustausch zwischen Verwahrstellen",
+      "content": "1) Die in Art. 63 Abs. 1 UCITSG genannte Vereinbarung über den Informationsaustausch zwischen der Verwahrstelle des Master-OGAW und der Verwahrstelle des Feeder-OGAW enthält Folgendes:\na) Beschreibung der Unterlagen und Kategorien von Informationen, die die beiden Verwahrstellen routinemässig austauschen, und die Angabe, ob diese Informationen oder Unterlagen von einer Verwahrstelle an die andere übermittelt oder auf Anfrage zur Verfügung gestellt werden;\nb) Modalitäten und Zeitplanung, einschliesslich der Angabe aller Fristen, für die Übermittlung von Informationen durch die Verwahrstelle des Master-OGAW an die Verwahrstelle des Feeder-OGAW;\nc) Koordinierung der Beteiligung beider Verwahrstellen unter angemessener Berücksichtigung ihrer Pflichten hinsichtlich operationeller Fragen, einschliesslich:\n1. des Verfahrens zur Berechnung des Nettoinventarwerts jedes OGAW und aller angemessenen Massnahmen zum Schutz vor Market Timing nach Art. 62 Abs. 3 UCITSG;\n2. der Bearbeitung von Aufträgen des Feeder-OGAW für Kauf, Zeichnung, Rücknahme oder Auszahlung von Anteilen im Master-OGAW und der Abwicklung dieser Transaktionen unter Berücksichtigung von Vereinbarungen zur Übertragung von Sacheinlagen;\nd) Koordinierung der Verfahren zur Erstellung der Jahresabschlüsse;\ne) Angabe, welche Verstösse des Master-OGAW gegen Rechtsvorschriften und die Vertragsbedingungen oder die Satzung von der Verwahrstelle des Master-OGAW der Verwahrstelle des Feeder-OGAW mitgeteilt werden, sowie Modalitäten und Zeitpunkt für die Bereitstellung dieser Informationen;\nf) Verfahren für die Bearbeitung von Ad-hoc-Ersuchen um Unterstützung zwischen Verwahrstellen;\ng) Beschreibung von Eventualereignissen, über die sich die Verwahrstellen auf Ad-hoc-Basis gegenseitig unterrichten sollten, sowie Modalitäten und Zeitpunkt hierfür."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "1. Verwahrstellen",
+      "section": "88",
+      "title": "Art. 88 Wahl des anzuwendenden Rechts",
+      "content": "1) Haben Feeder-OGAW und Master-OGAW eine Vereinbarung nach Art. 62 Abs. 1 UCITSG geschlossen, ist nach der Vereinbarung zwischen den Verwahrstellen des Master-OGAW und des Feeder-OGAW das Recht des EWR-Mitgliedstaats, das nach Art. 77 für diese Vereinbarung gilt, auch auf die Vereinbarung über den Informationsaustausch zwischen den beiden Verwahrstellen anzuwenden. Zudem müssen beide Verwahrstellen die ausschliessliche Zuständigkeit der Gerichte des betreffenden EWR-Mitgliedstaats anerkennen.\n2) Wurde die Vereinbarung zwischen Feeder-OGAW und Master-OGAW nach Art. 62 Abs. 1 UCITSG durch interne Regelungen für Geschäftstätigkeiten ersetzt, muss gemäss der Vereinbarung zwischen den Verwahrstellen des Master-OGAW und des Feeder-OGAW auf die Vereinbarung über den Informationsaustausch zwischen den beiden Verwahrstellen entweder das Recht des EWR-Mitgliedstaats, in dem der Feeder-OGAW niedergelassen ist, oder - sofern abweichend - das Recht des EWR-Mitgliedstaats, in dem der Master-OGAW niedergelassen ist, angewendet werden. Beide Verwahrstellen haben die ausschliessliche Zuständigkeit der Gerichte des EWR-Mitgliedstaats anzuerkennen, dessen Recht auf die Vereinbarung über den Informationsaustausch anzuwenden ist."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "1. Verwahrstellen",
+      "section": "89",
+      "title": "Art. 89 Berichterstattung über Unregelmässigkeiten durch die Verwahrstelle des Master-OGAW",
+      "content": "Die in Art. 63 Abs. 4 UCITSG genannten Unregelmässigkeiten, die die Verwahrstelle des Master-OGAW feststellt und die negative Auswirkungen auf den Feeder-OGAW haben können, umfassen insbesondere folgende Ereignisse:\na) Fehler bei der Berechnung des Nettoinventarwerts des Master-OGAW;\nb) Fehler bei Transaktionen oder bei der Abwicklung von Kauf und Zeichnung oder von Aufträgen zur Rücknahme oder Auszahlung von Anteilen im Master-OGAW durch den Feeder-OGAW;\nc) Fehler bei der Zahlung oder Kapitalisierung von Erträgen aus dem Master-OGAW oder bei der Berechnung der damit zusammenhängenden Quellensteuer;\nd) Verstösse gegen die in den Vertragsbedingungen oder der Satzung, dem Prospekt oder den wesentlichen Informationen für den Anleger beschriebenen Anlageziele, -politik oder -strategie des Master-OGAW;\ne) Verstösse gegen im Gesetz oder der Verordnung, in den Vertragsbedingungen oder der Satzung, dem Prospekt oder den wesentlichen Informationen für den Anleger festgelegte Höchstgrenzen für Anlagen und Kreditaufnahme.\n2. Wirtschaftsprüfer"
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "2. Wirtschaftsprüfer",
+      "section": "90",
+      "title": "Art. 90 Vereinbarung über den Informationsaustausch zwischen Wirtschaftsprüfern",
+      "content": "1) Die in Art. 64 Abs. 1 UCITSG genannte Vereinbarung über den Informationsaustausch zwischen den Wirtschaftsprüfern von Master-OGAW und Feeder-OGAW enthält Folgendes:\na) Beschreibung der Unterlagen und Kategorien von Informationen, die die beiden Wirtschaftsprüfer routinemässig austauschen;\nb) Angabe, ob die unter Bst. a genannten Informationen oder Unterlagen von einem Wirtschaftsprüfer an den anderen übermittelt oder auf Anfrage zur Verfügung gestellt werden;\nc) Modalitäten und Zeitplanung, einschliesslich Angabe aller Fristen, für die Übermittlung von Informationen durch den Wirtschaftsprüfer des Master-OGAW an den Wirtschaftsprüfer des Feeder-OGAW;\nd) Koordinierung der Rolle der Wirtschaftsprüfer in den Verfahren zur Erstellung der Jahresabschlüsse der OGAW;\ne) Angabe der Unregelmässigkeiten, die im Prüfbericht des Wirtschaftsprüfers des Master-OGAW für die Zwecke von Art. 64 Abs. 3 UCITSG zu nennen sind;\nf) Modalitäten und Zeitplan für die Bearbeitung von Ad-hoc-Ersuchen um Unterstützung zwischen Wirtschaftsprüfern, einschliesslich Ersuchen um weitere Informationen über Unregelmässigkeiten, die im Prüfbericht des Wirtschaftsprüfers des Master-OGAW genannt werden.\n2) Die in Abs. 1 genannte Vereinbarung enthält Bestimmungen für die Erstellung der in Art. 64 Abs. 3 und Art. 75 UCITSG genannten Prüfberichte sowie Modalitäten und Zeitplan für die Übermittlung des Prüfberichts für den Master-OGAW und von dessen Entwürfen an den Wirtschaftsprüfer des Feeder-OGAW.\n3) Haben Feeder- und Master-OGAW unterschiedliche Abschlussstichtage, so werden in der unter Abs. 1 genannten Vereinbarung Modalitäten und Zeitplan für die Erstellung des in Art. 64 Abs. 3 UCITSG geforderten Ad-hoc-Berichts des Wirtschaftsprüfers des Master-OGAW sowie für dessen Übermittlung, einschliesslich Entwürfen, an den Wirtschaftsprüfer des Feeder-OGAW geregelt."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "2. Wirtschaftsprüfer",
+      "section": "91",
+      "title": "Art. 91 Wahl des anzuwendenden Rechts",
+      "content": "1) Haben Feeder-OGAW und Master-OGAW eine Vereinbarung nach Art. 62 Abs. 1 UCITSG geschlossen, muss gemäss der Vereinbarung zwischen den Wirtschaftsprüfern des Master-OGAW und des Feeder-OGAW das Recht des EWR-Mitgliedstaats, das nach Art. 77 für diese Vereinbarung gilt, auch auf die Vereinbarung über den Informationsaustausch zwischen den beiden Wirtschaftsprüfern angewendet werden. Zudem müssen beide Wirtschaftsprüfer die ausschliessliche Zuständigkeit der Gerichte des betreffenden EWR-Mitgliedstaats anerkennen.\n2) Wurde die Vereinbarung zwischen Feeder-OGAW und Master-OGAW nach Art. 62 Abs. 1 UCITSG durch interne Regelungen für Geschäftstätigkeiten ersetzt, muss gemäss der Vereinbarung zwischen den Wirtschaftsprüfern des Master-OGAW und des Feeder-OGAW auf die Vereinbarung über den Informationsaustausch zwischen den beiden Wirtschaftsprüfern entweder das Recht des EWR-Mitgliedstaats, in dem der Feeder-OGAW niedergelassen ist, oder - sofern abweichend - das Recht des EWR-Mitgliedstaats, in dem der Master-OGAW niedergelassen ist, angewendet werden. Zudem müssen beide Wirtschaftsprüfer die ausschliessliche Zuständigkeit der Gerichte des EWR-Mitgliedstaats anerkennen, dessen Recht auf die Vereinbarung über den Informationsaustausch anzuwenden ist."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "2. Wirtschaftsprüfer",
+      "section": "92",
+      "title": "Art. 92 Verfahren für die Übermittlung von Informationen an die Anleger",
+      "content": "Die Bereitstellung der in Art. 66 Abs. 1 UCITSG genannten Informationen durch den Feeder-OGAW hat anhand des in Art. 66 beschriebenen Verfahrens zu erfolgen.\nVIII. Anlegerinformation\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "A. Allgemeines",
+      "section": "93",
+      "title": "Art. 93 Grundsatz",
+      "content": "1) Soweit das Gesetz und diese Verordnung nicht ausdrücklich eine Veröffentlichung von Informationen für Anleger im Publikationsorgan nach Art. 94 vorsehen, kann die Verwaltungsgesellschaft die entsprechenden Informationen dem Anleger in anderer physischer oder elektronischer Form zur Verfügung stellen.\n2) Soweit das Gesetz und diese Verordnung keine Fristen für die Veröffentlichung von genehmigungspflichtigen Informationen vorsehen, sind diese so bald als möglich, spätestens jedoch 30 Tage nach Genehmigung durch die FMA, zu publizieren.\n3) Bei der Veröffentlichung wesentlicher Änderungen der konstituierenden Dokumente sind die Anleger darauf hinzuweisen, dass sie ihre Anteile zurückgeben können."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "A. Allgemeines",
+      "section": "94",
+      "title": "Art. 94 Publikationsorgan",
+      "content": "1) Sofern mit dem EWR-Recht vereinbar, ist das Publikationsorgan im Sinne dieser Verordnung für Verwaltungsgesellschaften mit Sitz in Liechtenstein die Internetseite des Liechtensteinischen Anlagefondsverbands (LAFV). Die FMA kann weitere Publikationsorgane für zulässig erklären. Das Recht der Verwaltungsgesellschaft, dieselben Informationen zur gleichen Zeit auf andere Weise zur Verfügung zu stellen, bleibt unberührt.\n2) Verwaltungsgesellschaften, deren Sitz nicht in Liechtenstein ist, müssen die im Publikationsorgan zu veröffentlichenden Informationen, sofern sie keinen Zugang zum Publikationsorgan nach Abs. 1 haben, auf ihrer Internetseite zur Verfügung stellen.\nB. Prospekte und Finanzberichte"
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "B. Prospekte und Finanzberichte",
+      "section": "95",
+      "title": "Art. 95 Kostentransparenz im Rahmen der Finanzberichterstattung",
+      "content": "Sämtliche Kommissionen und Kosten, die laufend dem Vermögen eines OGAW belastet werden, sind im Geschäfts- und Halbjahresbericht nach den Marktusancen und internationalen Standards (Total Expense Ratio) offen zu legen. Die FMA kann bestimmte Marktusancen und internationale Standards für verbindlich erklären.\nC. Wesentliche Informationen für den Anleger"
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "C. Wesentliche Informationen für den Anleger",
+      "section": "96",
+      "title": "Art. 96 Anwendbares Recht",
+      "content": "Auf die wesentlichen Informationen für den Anleger ist das Recht des Herkunftsmitgliedstaats des OGAW anzuwenden."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "C. Wesentliche Informationen für den Anleger",
+      "section": "97",
+      "title": "Art. 97 Aktualisierung",
+      "content": "1) Die wesentlichen Informationen für den Anleger sind jedenfalls zu aktualisieren, wenn eine der angegebenen Zahlen oder Prozentsätze in einem Umfang von mehr als 5 % von der Zahl abweicht, die in den letzten bereitgestellten wesentlichen Informationen für den Anleger veröffentlicht worden sind.\n2) Ist aufgrund von Vertriebsmassnahmen eine erhebliche Anzahl von neuen Anlegern zu erwarten, hat stets eine Aktualisierung zu erfolgen."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "C. Wesentliche Informationen für den Anleger",
+      "section": "98",
+      "title": "Art. 98 Bereitstellung und Weiterleitung an FMA",
+      "content": "1) Die wesentlichen Informationen für den Anleger sind über das Publikationsorgan nach Art. 94 unmittelbar nach deren Aktualisierung bereitzustellen.\n2) Die wesentlichen Informationen für den Anleger nach Abs. 1 sind der FMA unmittelbar mit der Bereitstellung nach Abs. 1 mitzuteilen.\n3) Vor der Bereitstellung nach Abs. 1 und der Mitteilung nach Abs. 2 dürfen die Anteile des OGAW nicht vertrieben werden.\nD. Privatplatzierung"
+    },
+    {
+      "provision_ref": "art98a",
+      "chapter": "D. Privatplatzierung",
+      "section": "98a",
+      "title": "Art. 98a Ausnahmen von der Prospektpflicht",
+      "content": "Die Prospektpflicht gilt nicht bei einem Angebot von Anteilen an OGAW in Liechtenstein:\na) das sich ausschliesslich an professionelle Anleger richtet;\nb) das sich an weniger als 150 nicht professionelle Anleger in Liechtenstein richtet;\nc) sofern die Mindestanteilsstückelung oder die minimale Einzahlung pro Anleger 100 000 Euro oder den entsprechenden Gegenwert in anderer Währung beträgt; oder\nd) wenn nach den konstituierenden Dokumenten des OGAW ein Erwerb zur Einbindung in andere Finanzinstrumente und Anlageverträge, welche an Privatanleger vertrieben werden, ausgeschlossen ist; ein Erwerb zur Einbindung erfolgt insbesondere bei Erwerb durch OGAW, AIF, Indexfonds sowie als Referenzwert eines strukturierten Produkts oder Zertifikats und als Anlagegegenstand einer Lebensversicherung.\nIX. Allgemeine Verpflichtungen eines OGAW"
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "IX. Allgemeine Verpflichtungen eines OGAW",
+      "section": "99",
+      "title": "Art. 99 Inhalt der Aussetzungsanzeige",
+      "content": "In der Anzeige zur Aussetzung der Anteilsrücknahme nach Art. 85 Abs. 3 UCITSG ist anzugeben:\na) Grund der Aussetzung;\nb) Zeitpunkt der Aussetzung;\nc) voraussichtliche Dauer der Aussetzung;\nd) ob und wie die Anleger über die Aussetzung informiert worden sind; und\ne) wann die Anzeige an die zuständigen Behörden der EWR-Mitgliedstaaten nach Art. 85 Abs. 3 UCITSG erfolgt ist oder erfolgen wird."
+    },
+    {
+      "provision_ref": "art99a",
+      "chapter": "IX. Allgemeine Verpflichtungen eines OGAW",
+      "section": "99a",
+      "title": "Art. 99a Verbot der Kreditgewährung und Bürgschaft",
+      "content": "Die zum Vermögen gehörenden Sachen und Rechte dürfen nicht verpfändet werden, ausser für die nach dem Gesetz zulässige Kreditaufnahme und für nach dem Gesetz zulässige Geschäfte mit derivativen Finanzinstrumenten.\nX. Wirtschaftsprüfer"
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "100",
+      "title": "Art. 100 Qualifikation des Wirtschaftsprüfers",
+      "content": "1) Wirtschaftsprüfer sind nach Art. 129 Abs. 4 UCITSG qualifiziert, wenn sie über die für die Prüfung des Portfolio- und des Risikomanagements der Verwaltungsgesellschaft - nach Massgabe des Zulassungsumfangs nach Art. 14 Abs. 4 UCITSG - erforderlichen Kenntnisse verfügen und aufgrund ihrer Betriebsorganisation eine sachgemässe und dauernde Erfüllung der Prüfungs- und Berichtstätigkeiten - insbesondere durch angemessene Vertretungsregeln - gewährleisten.\n2) Wirtschaftsprüfer, die nach der Richtlinie 2006/43/EG in einem anderen EWR-Mitgliedstaat zugelassen sind und Prüfungs- und Berichtstätigkeiten nach dem UCITSG in Liechtenstein ausüben wollen, müssen regelmässig eine mit der Prüfungs- und Berichtstätigkeit nach dem UCITSG vergleichbare Tätigkeit gegenüber Aufsichtsbehörden anderer EWR-Mitgliedstaaten ausüben.\n3) Wirtschaftsprüfer im Sinne des UCITSG oder dieser Verordnung sind auch nach dem Wirtschaftsprüfergesetz bewilligte oder registrierte Wirtschaftsprüfungsgesellschaften."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "101",
+      "title": "Art. 101 Nachweis der Qualifikation",
+      "content": "1) Der Wirtschaftsprüfer hat der FMA gegenüber den Nachweis für seine Qualifikation zu erbringen.\n2) Die FMA veröffentlicht auf ihrer Internetseite eine Liste der Wirtschaftsprüfer, die im Sinne von Art. 129 Abs. 4 UCITSG und Art. 100 dieser Verordnung qualifiziert sind."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "102",
+      "title": "Art. 102 Vorgaben zur Prüfung",
+      "content": "1) Die FMA kann nach Anhörung der Liechtensteinischen Wirtschaftsprüfervereinigung verbindliche Prüfungsformulare für OGAW und deren Verwaltungsgesellschaften bereitstellen.\n2) Die FMA kann den Grundsatz der risikoorientierten Prüfung sowie Form und Inhalt des jährlichen Prüfungsberichts durch Richtlinien konkretisieren."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "103",
+      "title": "Art. 103 Pflichten der Wirtschaftsprüfer",
+      "content": "1) Die Honorareinnahmen aus einem Prüfungsmandat dürfen im Durchschnitt nicht mehr als 20 % der gesamten jährlichen Honorareinnahmen des Wirtschaftsprüfers ausmachen. Prüfungsmandate aller Organismen für die gemeinsamen Anlagen, die von derselben Verwaltungsgesellschaft verwaltet werden, gelten als ein einziges Prüfungsmandat.\n2) Die Wirtschaftsprüfer sind verpflichtet:\na) der FMA jede Änderung der Statuten und Reglemente sowie jede personelle Änderung in der Zusammensetzung ihrer Organe und der leitenden Wirtschaftsprüfer zu melden;\nb) die Prüfungsleitung nur Wirtschaftsprüfern anzuvertrauen, die der FMA gemeldet wurden und die erforderlichen Voraussetzungen erfüllen;\nc) den Mandatsleiter und den leitenden Wirtschaftsprüfer der FMA vor Prüfungsbeginn zu melden; und\nd) der FMA alljährlich den Geschäftsbericht einzureichen.\n3) Die FMA kann über die Gründe des Ausscheidens von Mitgliedern der Geschäftsleitung und den der FMA gemeldeten leitenden Wirtschaftsprüfern Auskunft verlangen."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "104",
+      "title": "Art. 104 Wechsel des Wirtschaftsprüfers",
+      "content": "1) Die Verwaltungsgesellschaft hat den Wechsel des Wirtschaftsprüfers sechs Wochen vor Wirksamkeit schriftlich begründet der FMA anzuzeigen.\n2) Die Anzeige nach Abs. 1 ist vom bisherigen Wirtschaftsprüfer mit zu unterzeichnen. Können sich Verwaltungsgesellschaft und Wirtschaftsprüfer über den Grund für den Wechsel nicht einigen, hat der bisherige Wirtschaftsprüfer eine eigene Anzeige nach Abs. 1 zu machen.\n3) Der Wechsel des Wirtschaftsprüfers ist im Zeitpunkt des Wirksamwerdens von der Verwaltungsgesellschaft im Publikationsorgan zu veröffentlichen. Dabei sind die Anleger darauf hinzuweisen, dass sie die Rückgabe ihrer Anteile verlangen können.\n4) Entfällt die Qualifikation des Wirtschaftsprüfers oder wird einem Wirtschaftsprüfer die Zulassung entzogen, hat die Verwaltungsgesellschaft unverzüglich, spätestens binnen eines Monats, einen neuen Wirtschaftsprüfer zu bestellen. In Ausnahmefällen kann die FMA auf Antrag diese Frist angemessen verlängern. Der FMA ist die Bestellung des neuen Wirtschaftsprüfers binnen einer Woche nach Beauftragung mitzuteilen."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "105",
+      "title": "Art. 105 Zwischenprüfung der Verwaltungsgesellschaft und des OGAW",
+      "content": "1) Der Wirtschaftsprüfer führt im Laufe des Rechnungsjahres mindestens eine unangemeldete Zwischenprüfung bei der Verwaltungsgesellschaft durch.\n2) Anlässlich der Zwischenprüfung der Verwaltungsgesellschaft prüft der Wirtschaftsprüfer unter Beachtung des risikobasierten Ansatzes insbesondere die Einhaltung:\na) der Zulassungsvoraussetzungen;\nb) der Vorschriften zum Risikomanagement;\nc) der Wohlverhaltensregeln;\nd) der Vorschriften zur Aufgabenübertragung und damit verbundener Pflichten der Verwaltungsgesellschaft; sowie\ne) der Vorschriften zur Vertriebsorganisation der Verwaltungsgesellschaft.\n3) Anlässlich der Zwischenprüfung des OGAW prüft der Wirtschaftsprüfer insbesondere, ob:\na) die Buchhaltung ordnungsgemäss geführt wird;\nb) der Gegenwert der neu ausgegebenen Anteile dem Vermögen des OGAW zugeflossen ist;\nc) die Bewertung des Vermögens, die Berechnung und Publikation der Ausgabe- und Rücknahmepreise sowie die Ausgabe und Rücknahme von Anteilen den Vorschriften des Gesetzes und den konstituierenden Dokumenten entsprechen;\nd) die das Vermögen bildenden Vermögenswerte vollständig erhalten sind;\ne) die Anlagevorschriften eingehalten werden;\nf) allfällige unbelehnte Schuldbriefe von der Verwahrstelle aufbewahrt werden;\ng) die Vorschriften zum Mindestvermögen nach Art. 13 ständig eingehalten sind.\n4) Die FMA ist berechtigt, weitere Prüfungsschwerpunkte festzulegen.\n5) Über das Ergebnis der Zwischenprüfung ist im jährlichen Prüfungsbericht zu berichten.\n6) Stellt der Wirtschaftsprüfer anlässlich der Zwischenprüfung schwere Verstösse oder Missstände fest, benachrichtigt er unverzüglich die FMA und übermittelt ihr innert 30 Tagen einen Bericht über die Zwischenprüfung."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "106",
+      "title": "Art. 106 Ausserordentliche Prüfung",
+      "content": "1) Die FMA kann für die Durchführung einer ausserordentlichen Prüfung im Sinne von Art. 129 Abs. 2 Bst. e UCITSG einen qualifizierten Wirtschaftsprüfer nach Art. 129 Abs. 4 UCITSG iVm Art. 100 dieser Verordnung beauftragen.\n2) Die FMA kann von der Verwaltungsgesellschaft einen Kostenvorschuss verlangen."
+    },
+    {
+      "provision_ref": "art106a",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "106a",
+      "title": "Art. 106a Bestellung des Wirtschaftsprüfers für Verwaltungsgesellschaften nach UCITSG mit einer Zulassung als Verwaltungsgesellschaft nach IUG oder als AIFM nach AIFMG",
+      "content": "Eine Verwaltungsgesellschaft hat für Tätigkeiten nach dem UCITSG, dem IUG oder dem AIFMG denselben Wirtschaftsprüfer zu bestellen."
+    },
+    {
+      "provision_ref": "art106b",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "106b",
+      "title": "Art. 106b Anzeigepflichten",
+      "content": "1) Anzeigen im Sinne von Art. 95 Abs. 1 UCITSG sind innerhalb von drei Arbeitstagen ab der Verifizierung des Sachverhalts bei der FMA zu erstatten.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art106c",
+      "chapter": "X. Wirtschaftsprüfer",
+      "section": "106c",
+      "title": "Art. 106c Prüfungsberichte",
+      "content": "1) Die Prüfungsberichte sind die vertraulichen, ausführlichen Berichte des Wirtschaftsprüfers über die aufsichtsrechtliche Prüfung der Verwaltungsgesellschaft und der von ihr verwalteten OGAW. Sie sind nicht zu veröffentlichen.\n2) Der Prüfungsbericht muss auf alle der Verwaltungsgesellschaft und der von ihr verwalteten OGAW schriftlich und mündlich erteilten Informationen und Hinweise mit Bezug zu Beanstandungen und rechtlichen Zweifel eingehen.\n3) Der Prüfungsbericht für die Verwaltungsgesellschaft hat über die Angaben im Jahresbericht hinaus zumindest zu enthalten:\na) Angaben über die dauernde Einhaltung der Zulassungsvoraussetzungen nach Art. 15 UCITSG;\nb) Angaben über die Einhaltung der Pflichten der Verwaltungsgesellschaft nach Art. 17 bis 25 UCITSG; und\nc) die Ergebnisse der Zwischenprüfung der Verwaltungsgesellschaft nach Art. 105.\n4) Der Prüfungsbericht für den OGAW hat über die Angaben im Jahresbericht hinaus zumindest zu enthalten:\na) Angaben über die dauernde Einhaltung der Bestimmungen zur Anlagepolitik nach Art. 50 ff. UCITSG; und\nb) die Ergebnisse der Zwischenprüfung des OGAW nach Art. 105.\n5) Sofern der Wirtschaftsprüfer der Verwaltungsgesellschaft und des OGAW identisch sind, dürfen Prüfungsberichte über die Verwaltungsgesellschaft und solche über den OGAW zusammengefasst werden. Die Ausführungen über die Verwaltungsgesellschaft und über den OGAW sind in getrennten Abschnitten eines Prüfungsberichts aufzuführen. Der Prüfungsbericht über den OGAW darf sich auf die Angaben im Prüfungsbericht über die Verwaltungsgesellschaft beziehen.\n6) Die Prüfungsberichte nach UCITSG und AIFMG dürfen zusammengefasst werden. Im Übrigen gilt Abs. 5 entsprechend.\nXI. Grenzüberschreitende Geschäftstätigkeit innerhalb des EWR\nA. Grenzüberschreitender Vertrieb des OGAW"
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "A. Grenzüberschreitender Vertrieb des OGAW",
+      "section": "107",
+      "title": "Art. 107 Einrichtungen und Anlegerinformationen",
+      "content": "1) Ein OGAW hat die Angaben über die nach Art. 96 Abs. 1 UCITSG getroffenen Vorkehrungen und Massnahmen in die Vertriebsinformationen für Liechtenstein aufzunehmen.\n2) Zur Wahrnehmung der Aufgaben nach Art. 96 Abs. 1 Bst. a UCITSG hat ein OGAW ein Kreditinstitut im Sinne der Richtlinie 2013/36/EU über den Zugang zur Tätigkeit von Kreditinstituten zu benennen.\n3) Der FMA ist der Vertrag mit einem Dritten nach Art. 96 Abs. 3 UCITSG auf deren Verlangen zu übermitteln."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "A. Grenzüberschreitender Vertrieb des OGAW",
+      "section": "108",
+      "title": "Art. 108 Zugang des Aufnahmemitgliedstaats des OGAW zu Unterlagen",
+      "content": "1) OGAW haben eine elektronische Kopie jeder in Art. 98 Abs. 2 sowie Art. 98a Abs. 2 Bst. a und b UCITSG genannten Unterlage auf einer Internetseite des OGAW, einer Internetseite der Verwaltungsgesellschaft dieses OGAW oder einer anderen Internetseite bereitzustellen, die der OGAW in dem nach Art. 98 Abs. 1 und Art. 98a Abs. 1 UCITSG zu übermittelnden Anzeigeschreiben oder in jeglichen Aktualisierungen dieses Schreibens angibt. Jede auf einer Internetseite zur Verfügung gestellte Unterlage wird dort in einem allgemein üblichen elektronischen Format eingestellt.\n2) Der Aufnahmemitgliedstaat des OGAW muss Zugang zu den in Abs. 1 genannten Internetseiten haben."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "A. Grenzüberschreitender Vertrieb des OGAW",
+      "section": "109",
+      "title": "Art. 109 Aktualisierung von Angaben",
+      "content": "1) Die FMA teilt dem OGAW eine E-Mail-Adresse mit, an die nach Art. 98 Abs. 7 UCITSG Aktualisierungen und Änderungen der in Art. 98 Abs. 1 UCITSG genannten Angaben gemeldet werden können. In der E-Mail kann entweder die vorgenommene Aktualisierung oder Änderung beschrieben oder eine neue Fassung der Vertriebsanzeige als Anlage beigefügt werden.\n2) Jede Vertriebsanzeige, die der in Abs. 1 genannten E-Mail als Anlage beigefügt wird, ist in einem allgemein üblichen elektronischen Format bereitzustellen."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "A. Grenzüberschreitender Vertrieb des OGAW",
+      "section": "110",
+      "title": "Art. 110 Entwicklung gemeinsamer Datenverarbeitungssysteme",
+      "content": "1) Die FMA darf sich mit den zuständigen Behörden anderer EWR-Mitgliedstaaten in der Frage der Einrichtung moderner elektronischer Datenverarbeitungs- und Zentralspeichersysteme für alle EWR-Mitgliedstaaten abstimmen, um den zuständigen Behörden der Aufnahmemitgliedstaaten des OGAW den Zugang zu den in Art. 98 Abs. 1 bis 3, Art. 98a Abs. 2 und 3 sowie Art. 99 Abs. 1 und 2 UCITSG genannten Angaben und Unterlagen zu den Zwecken nach Art. 98 Abs. 6 und 7 UCITSG zu erleichtern.\n2) Die Abstimmung der EWR-Mitgliedstaaten nach Abs. 1 erfolgt im Rahmen der Europäischen Wertpapier- und Marktaufsichtsbehörde (ESMA).\nB. Sonstige grenzüberschreitende Tätigkeit"
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "B. Sonstige grenzüberschreitende Tätigkeit",
+      "section": "111",
+      "title": "Art. 111 Erstnotifizierung und Änderungsmitteilung für Zweigniederlassungen",
+      "content": "1) Die Anzeige über die beabsichtigte Errichtung einer Zweigniederlassung nach Art. 103 UCITSG hat unter Verwendung des von der FMA zur Verfügung gestellten Formulars zu erfolgen.\n2) Für die Mitteilung von Änderungen nach Art. 104 UCITSG gilt Abs. 1 sinngemäss."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "B. Sonstige grenzüberschreitende Tätigkeit",
+      "section": "112",
+      "title": "Art. 112 Erstnotifizierung und Änderungsmitteilung für den grenzüberschreitenden Dienstleistungsverkehr",
+      "content": "1) Die Anzeige über die beabsichtigte Aufnahme des grenzüberschreitenden Dienstleistungsverkehrs nach Art. 105 UCITSG hat unter Verwendung des von der FMA zur Verfügung gestellten Formulars zu erfolgen.\n2) Für die Mitteilung von Änderungen nach Art. 106 UCITSG gilt Abs. 1 sinngemäss.\nC. Gemeinsame Portfolioverwaltung\n1. Allgemeines"
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "1. Allgemeines",
+      "section": "113",
+      "title": "Art. 113 Anwendbares Recht bei der grenzüberschreitenden gemeinsamen Portfolioverwaltung",
+      "content": "1) Ist Liechtenstein Herkunftsmitgliedstaat einer Verwaltungsgesellschaft, so gelten die Voraussetzungen nach Art. 110 Abs. 2 UCITSG als erfüllt, wenn die Verwaltungsgesellschaft die Bestimmungen nach Art. 13 bis 31 UCITSG einhält.\n2) Ist Liechtenstein Herkunftsmitgliedstaat des OGAW, so gelten die Voraussetzungen nach Art. 110 Abs. 3 und 4 UCITSG als erfüllt, wenn die Bestimmungen nach Art. 4 bis 12 sowie 32 bis 92 UCITSG eingehalten werden.\n3) Die übrigen Vorschriften des UCITSG gelten in den Fällen des Abs. 1 für die Verwaltungsgesellschaft und in den Fällen des Abs. 2 für den OGAW.\n2. Standardvereinbarung zwischen Verwahrstelle und\nVerwaltungsgesellschaft"
+    },
+    {
+      "provision_ref": "art114bis121",
+      "chapter": "2. Standardvereinbarung zwischen Verwahrstelle und Verwaltungsgesellschaft",
+      "section": "114bis121",
+      "title": "Art. 114bis121",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "2. Standardvereinbarung zwischen Verwahrstelle und Verwaltungsgesellschaft",
+      "section": "122",
+      "title": "Art. 122 Ermächtigung zur Datenerhebung von inländischen Zweigstellen",
+      "content": "Die FMA kann verlangen, dass die Verwaltungsgesellschaften die nach Art. 114 Abs. 1 UCITSG erforderlichen Informationen und Angaben zu erstatten haben.\nXII. Aufsicht"
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "XII. Aufsicht",
+      "section": "123",
+      "title": "Art. 123 Verzeichnisse",
+      "content": "1) Die FMA erstellt jeweils ein gesondertes Verzeichnis über die in Liechtenstein zugelassenen:\na) Verwaltungsgesellschaften;\nb) OGAW; und\nc) Verwahrstellen.\nd) Aufgehoben.\n2) Die Verzeichnisse werden Interessenten in geeigneter Weise zur Verfügung gestellt."
+    },
+    {
+      "provision_ref": "art123a",
+      "chapter": "XII. Aufsicht",
+      "section": "123a",
+      "title": "Art. 123a Sprachen",
+      "content": "1) Zulassungsanträge nach dem UCITSG sind in deutscher oder englischer Sprache zu stellen. Die FMA kann die Antragstellung in deutscher Sprache verlangen. Die FMA kann Anträge in anderen Sprachen akzeptieren.\n2) Die Dokumente, die den Anträgen beizufügen sind, sind in deutscher oder englischer Sprache einzureichen. Die FMA kann die Dokumente in anderen Sprachen akzeptieren oder beglaubigte Übersetzungen solcher Dokumente verlangen.\n3) Die FMA kann auf Antrag und Kosten eines Antragstellers eine Übersetzung einer Verfügung nach dem UCITSG in eine Fremdsprache erstellen oder erstellen lassen und den Inhalt dieser Übersetzung bestätigen."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "XII. Aufsicht",
+      "section": "124",
+      "title": "Art. 124 Quartals- und Halbjahresberichte in Bezug auf den OGAW und die Verwaltungsgesellschaft",
+      "content": "1) Die FMA kann zu Aufsichtszwecken von einzelnen Verwaltungsgesellschaften oder zu einzelnen OGAW Quartalsberichte verlangen. In diesem Fall haben die Verwaltungsgesellschaften die Quartalsberichte nach Massgabe des von der FMA zur Verfügung gestellten Formulars zu erstellen und diese jeweils innerhalb von zwei Monaten nach dem von der FMA bestimmten Stichtag bei der FMA einzureichen.\n2) Verwaltungsgesellschaften haben halbjährlich einen Bericht nach Massgabe des von der FMA zur Verfügung gestellten Formulars zu erstellen und diesen jeweils innerhalb von zwei Monaten nach dem entsprechenden Stichtag bei der FMA einzureichen.\n3) Für die inländischen Zweigniederlassungen ausländischer Verwaltungsgesellschaften gelten Abs. 1 und 2 sinngemäss mit der Massgabe, dass sich der Bericht auf die Einhaltung der Vorschriften nach Art. 108 und 109 UCITSG beschränkt.\nXIII. Aussergerichtliche Streitbeilegung"
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "XIII. Aussergerichtliche Streitbeilegung",
+      "section": "125",
+      "title": "Art. 125 Aussergerichtliche Schlichtungsstelle",
+      "content": "Auf die aussergerichtliche Schlichtungsstelle finden die Bestimmungen der Finanzdienstleistungs-Schlichtungsstellen-Verordnung Anwendung.\nXIV. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "XIV. Schlussbestimmungen",
+      "section": "126",
+      "title": "Art. 126 Übersetzungen",
+      "content": "Das Generalsekretariat des Ministeriums für Präsidiales und Finanzen sorgt nach Art. 148 UCITSG für die Übersetzung des Gesetzes und dieser Verordnung."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "XIV. Schlussbestimmungen",
+      "section": "127",
+      "title": "Art. 127 Inkrafttreten",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Gesetz vom 28. Juni 2011 über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (UCITSG) in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\nÜbergangs- und Inkrafttretensbestimmungen\n951.311 V über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (UCITSV)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2022 Nr. 372 ausgegeben am 16. Dezember 2022\nVerordnung\nvom 13. Dezember 2022\nbetreffend die Abänderung der Verordnung über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren\n...\nIII.\nInkrafttreten\nDiese Verordnung tritt gleichzeitig mit dem Beschluss des Gemeinsamen EWR-Ausschusses Nr. 138/2022 vom 29. April 2022 zur Änderung von Anhang IX (Finanzdienstleistungen) des EWR-Abkommens in Kraft.\n...\n1\nIngress abgeändert durch LGBl. 2021 Nr. 232 .\n2\nArt. 1 Abs. 2 abgeändert durch LGBl. 2020 Nr. 25 .\n3\nRichtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32) .\n4\nRichtlinie 2007/16/EG der Kommission vom 19. März 2007 zur Durchführung der Richtlinie 85/611/EWG des Rates zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) im Hinblick auf die Erläuterungen gewisser Definitionen (ABl. L 79 vom 20.3.2007, S. 11) .\n5\nRichtlinie 2010/43/EU der Kommission vom 1. Juli 2010 zur Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates im Hinblick auf organisatorische Anforderungen, Interessenkonflikte, Wohlverhalten, Risikomanagement und den Inhalt der Vereinbarung zwischen Verwahrstelle und Verwaltungsgesellschaft (ABl. L 176 vom 10.7.2010, S. 42) .\n6\nRichtlinie 2010/42/EU der Kommission vom 1. Juli 2010 zur Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates in Bezug auf Bestimmungen über Fondsverschmelzungen, Master-Feeder-Strukturen und das Anzeigeverfahren (ABl. L 176 vom 10.7.2010, S. 28) .\n7\nArt. 1 Abs. 2a eingefügt durch LGBl. 2020 Nr. 25 .\n8\nArt. 1 Abs. 2b eingefügt durch LGBl. 2020 Nr. 25 .\n9\nDelegierte Verordnung (EU) 2016/438 der Kommission vom 17. Dezember zur Ergänzung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates in Bezug auf die Pflichten der Verwahrstellen (ABl. L 78 vom 24.3.2016, S.11).\n10\nArt. 3 Abs. 1 abgeändert durch LGBl. 2020 Nr. 25 .\n11\nArt. 3 Abs. 1a eingefügt durch LGBl. 2013 Nr. 77 .\n12\nVerordnung (EU) Nr. 583/2010 der Kommission vom 1. Juli 2010 zur Durchführung der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates im Hinblick auf die wesentlichen Informationen für den Anleger und die Bedingungen, die einzuhalten sind, wenn die wesentlichen Informationen für den Anleger oder der Prospekt auf einem anderen dauerhaften Datenträger als Papier oder auf einer Website zur Verfügung gestellt werden (ABl. L 176 vom 10.7.2010, S. 1) .\n13\nArt. 6 Abs. 2 abgeändert durch LGBl. 2020 Nr. 25 .\n14\nArt. 8 Sachüberschrift abgeändert durch LGBl. 2013 Nr. 77 .\n15\nArt. 8 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2013 Nr. 77 .\n16\nArt. 8 Abs. 5 aufgehoben durch LGBl. 2013 Nr. 77 .\n17\nArt. 9 Abs. 1 Bst. b abgeändert durch LGBl. 2013 Nr. 77 .\n18\nArt. 11 abgeändert durch LGBl. 2020 Nr. 25 .\n19\nÜberschrift vor Art. 12 abgeändert durch LGBl. 2013 Nr. 12 .\n20\nArt. 12 abgeändert durch LGBl. 2016 Nr. 99 .\n21\nArt. 13 Abs. 1 abgeändert durch LGBl. 2013 Nr. 77 .\n22\nArt. 13 Abs. 2 abgeändert durch LGBl. 2020 Nr. 25 .\n23\nArt. 13 Abs. 3 abgeändert durch LGBl. 2013 Nr. 77 .\n24\nArt. 13 Abs. 5 abgeändert durch LGBl. 2013 Nr. 77 .\n25\nArt. 14 abgeändert durch LGBl. 2016 Nr. 99 .\n26\nArt. 16 Sachüberschrift abgeändert durch LGBl. 2016 Nr. 99 .\n27\nArt. 16 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2016 Nr. 99 .\n28\nArt. 16 Abs. 1 Bst. a abgeändert durch LGBl. 2016 Nr. 99 .\n29\nArt. 16 Abs. 1 Bst. b abgeändert durch LGBl. 2016 Nr. 99 .\n30\nArt. 17 abgeändert durch LGBl. 2016 Nr. 99 .\n31\nArt. 20 Abs. 4 Einleitungssatz abgeändert durch LGBl. 2016 Nr. 99 .\n32\nArt. 21 Abs. 5 aufgehoben durch LGBl. 2017 Nr. 434 .\n33\nArt. 22 Abs. 1 abgeändert durch LGBl. 2016 Nr. 99 .\n34\nArt. 22 Abs. 4 abgeändert durch LGBl. 2016 Nr. 99 .\n35\nArt. 23 abgeändert durch LGBl. 2016 Nr. 99 .\n36\nArt. 23 Abs. 2 abgeändert durch LGBl. 2022 Nr. 133 .\n37\nArt. 26 Abs. 6 eingefügt durch LGBl. 2022 Nr. 372 .\n38\nVerordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1)\n39\nArt. 26 Abs. 7 eingefügt durch LGBl. 2022 Nr. 372 .\n40\nArt. 34 Abs. 2 abgeändert durch LGBl. 2022 Nr. 372 .\n41\nArt. 34 Abs. 3 abgeändert durch LGBl. 2016 Nr. 99 .\n42\nArt. 35 Abs. 5 eingefügt durch LGBl. 2022 Nr. 372 .\n43\nArt. 36 Abs. 3 eingefügt durch LGBl. 2022 Nr. 372 .\n44\nArt. 41 Abs. 2 abgeändert durch LGBl. 2022 Nr. 372 .\n45\nArt. 47 Abs. 1 abgeändert durch LGBl. 2020 Nr. 25 .\n46\nArt. 52 Abs. 2 Bst. g eingefügt durch LGBl. 2022 Nr. 372 .\n47\nVerordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) .\n48\nArt. 56 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2021 Nr. 55 .\n49\nArt. 56 Abs. 1 Bst. a Ziff. 1 abgeändert durch LGBl. 2021 Nr. 55 .\n50\nRichtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349) .\n51\nArt. 56 Abs. 1 Bst. a Ziff. 3 abgeändert durch LGBl. 2020 Nr. 25 .\n52\nRichtlinie 2006/73/EG der Kommission vom 10. August 2006 zur Durchführung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 241 vom 2.9.2006, S. 26) .\n53\nArt. 56 Abs. 1 Bst. b abgeändert durch LGBl. 2020 Nr. 25 .\n54\nArt. 56 Abs. 1 Bst. c Einleitungssatz abgeändert durch LGBl. 2021 Nr. 55 .\n55\nArt. 57 Abs. 3 abgeändert durch LGBl. 2017 Nr. 434 .\n56\nÜberschrift vor Art. 60 abgeändert durch LGBl. 2016 Nr. 99 .\n57\nArt. 60 abgeändert durch LGBl. 2016 Nr. 99 .\n58\nArt. 61 abgeändert durch LGBl. 2016 Nr. 99 .\n59\nArt. 61 Abs. 1 abgeändert durch LGBl. 2020 Nr. 25 .\n60\nArt. 67 abgeändert durch LGBl. 2016 Nr. 99 .\n61\nArt. 68 aufgehoben durch LGBl. 2021 Nr. 232 .\n62\nArt. 68a aufgehoben durch LGBl. 2016 Nr. 99 .\n63\nArt. 94 abgeändert durch LGBl. 2020 Nr. 25 .\n64\nÜberschrift vor Art. 98a eingefügt durch LGBl. 2013 Nr. 77 .\n65\nArt. 98a eingefügt durch LGBl. 2013 Nr. 77 .\n66\nArt. 99a eingefügt durch LGBl. 2013 Nr. 77 .\n67\nArt. 100 abgeändert durch LGBl. 2013 Nr. 77 .\n68\nRichtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG des Rates (ABl. L 157 vom 9.6.2006, S. 87) .\n69\nArt. 100 Abs. 2 abgeändert durch LGBl. 2020 Nr. 25 .\n70\nArt. 100 Abs. 3 abgeändert durch LGBl. 2020 Nr. 484 .\n71\nArt. 101 abgeändert durch LGBl. 2013 Nr. 77 .\n72\nArt. 102 abgeändert durch LGBl. 2013 Nr. 77 .\n73\nArt. 103 Abs. 1 abgeändert durch LGBl. 2013 Nr. 77 .\n74\nArt. 104 Abs. 1 abgeändert durch LGBl. 2016 Nr. 99 .\n75\nArt. 104 Abs. 2 abgeändert durch LGBl. 2013 Nr. 77 .\n76\nArt. 104 Abs. 4 abgeändert durch LGBl. 2013 Nr. 77 .\n77\nArt. 105 abgeändert durch LGBl. 2013 Nr. 77 .\n78\nArt. 105 Sachüberschrift abgeändert durch LGBl. 2016 Nr. 99 .\n79\nArt. 105 Abs. 3 Bst. c abgeändert durch LGBl. 2016 Nr. 99 .\n80\nArt. 106a abgeändert durch LGBl. 2016 Nr. 99 .\n81\nArt. 106b eingefügt durch LGBl. 2013 Nr. 77 .\n82\nArt. 106b Abs. 2 aufgehoben durch LGBl. 2016 Nr. 99 .\n83\nArt. 106c eingefügt durch LGBl. 2013 Nr. 77 .\n84\nArt. 107 abgeändert durch LGBl. 2021 Nr. 232 .\n85\nRichtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338)\n86\nArt. 108 abgeändert durch LGBl. 2021 Nr. 232 .\n87\nArt. 109 abgeändert durch LGBl. 2021 Nr. 232 .\n88\nArt. 110 Abs. 1 abgeändert durch LGBl. 2021 Nr. 232 .\n89\nArt. 114 bis 121 aufgehoben durch LGBl. 2016 Nr. 99 .\n90\nArt. 123 Abs. 1 Bst. d aufgehoben durch LGBl. 2016 Nr. 99 .\n91\nArt. 123a eingefügt durch LGBl. 2013 Nr. 77 .\n92\nArt. 124 Abs. 1 abgeändert durch LGBl. 2013 Nr. 77 .\n93\nArt. 124 Abs. 2 abgeändert durch LGBl. 2013 Nr. 77 .\n94\nArt. 125 abgeändert durch LGBl. 2013 Nr. 440 .\n95\nÜberschrift vor Art. 126 eingefügt durch LGBl. 2013 Nr. 77 .\n96\nArt. 126 abgeändert durch LGBl. 2019 Nr. 40 .\n97\nInkrafttreten: 15. Dezember 2022 ( LGBl. 2023 Nr. 1 )."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "li-konso-1931007000",
+  "type": "statute",
+  "title": "Gesetz vom 11. Mai 1931 betreffend die Ausgabe von Goldmünzen der Frankenwährung",
+  "title_en": "",
+  "short_name": "LGBl 1931.007",
+  "status": "in_force",
+  "issued_date": "1931-05-11",
+  "in_force_date": "1931-05-11",
+  "url": "https://www.gesetze.li/konso/1931007000",
+  "description": "Gesetz vom 11. Mai 1931 betreffend die Ausgabe von Goldmünzen der Frankenwährung",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Es werden je 2500 Goldmünzen zu 10 und 20 Franken ausgegeben. Die Prägung erfolgt in der Eidgenössischen Münzstätte in Bern."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1) Diese Goldmünzen werden in einem Mischungsverhältnisse von 900 Tausendteilen Gold und 100 Tausendteilen Kupfer ausgeprägt. Aus 1 kg Münzgold werden daher 310 Stücke zu 10 Franken und 155 Stücke zu 20 Franken ausgeprägt.\n2) Das Rohgewicht des 10 Franken-Goldstückes beträgt daher 3.225805 g, das Feingewicht 2.90322 g, das Rohgewicht des 20 Franken-Goldstückes 6.45161 g, das Feingewicht 5.80644 g."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1) Die Goldmünzen werden auf der Aversseite das Brustbild des regierenden Fürsten Franz I. mit der Umschrift \"Franz I. Fürst von Liechtenstein\" und auf der Reversseite das Landeswappen mit der Wertbezeichnung 10 beziehungsweise 20 Franken sowie die Jahreszahl 1930 tragen. Der Rand wird gerippt sein.\n2) Die Goldmünzen zu 10 Franken messen 19 mm, jene zu 20 Franken 21 mm im Durchmesser."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Der Feingehalt der neuen Goldmünzen wird vom schweizerischen Amte für Gold und Silber geprüft. Es wird eine Gewichtstoleranz von 2 &permil; und eine Feingehaltstoleranz von 1 &permil; gestattet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1) Goldmünzen, welche infolge längerer Zirkulation und Abnützung am Gewicht eingebüsst haben, werden bei den öffentlichen Kassen zwar stets voll zu ihrem Nennwerte angenommen, sind aber für Rechnung des Landes zum Einschmelzen einzuziehen.\n2) Münzen, welche in anderer Art als durch den gewöhnlichen Umlauf am Gewichte verringert wurden, werden von den öffentlichen Kassen im Vorkommensfalle gegen Ersatz des ihnen zukommenden inneren Wertes eingezogen und der Umprägung zugeführt werden."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Dieses Gesetz ist als dringlich erklärt und tritt sofort in Kraft. Mit seiner Durchführung ist die Fürstliche Regierung beauftragt.\nVaduz, am 11. Mai 1931\ngez. Franz\ngez. Dr. Hoop\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

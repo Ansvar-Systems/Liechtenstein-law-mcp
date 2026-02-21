@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-2017443000",
+  "type": "statute",
+  "title": "Verordnung vom 19. Dezember 2017 über die Delegation von Geschäften nach dem Naturschutzgesetz",
+  "title_en": "",
+  "short_name": "LGBl 2017.443",
+  "status": "in_force",
+  "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
+  "url": "https://www.gesetze.li/konso/2017443000",
+  "description": "Verordnung vom 19. Dezember 2017 über die Delegation von Geschäften nach dem Naturschutzgesetz",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Delegation von Geschäften",
+      "content": "Die nach Art. 30 Abs. 1 Bst. d, e, h, p bis r, t, u und w des Gesetzes der Regierung zugewiesenen Geschäfte werden unter Vorbehalt des Rechtszugs an die Beschwerdekommission für Verwaltungsangelegenheiten an das Amt für Umwelt zur selbständigen Erledigung übertragen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 18. Juni 2013 über die Delegation von Geschäften nach dem Gesetz zum Schutz von Natur und Landschaft, LGBl. 2013 Nr. 225, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2018 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "li-konso-1989061000",
+  "type": "statute",
+  "title": "Höchstes Handschreiben vom 13. November 1989 betreffend die Übernahme der Regierung durch Seine Durchlaucht Fürst Hans-Adam II.",
+  "title_en": "",
+  "short_name": "LGBl 1989.061",
+  "status": "in_force",
+  "issued_date": "1989-11-13",
+  "in_force_date": "1989-11-13",
+  "url": "https://www.gesetze.li/konso/1989061000",
+  "description": "Höchstes Handschreiben vom 13. November 1989 betreffend die Übernahme der Regierung durch Seine Durchlaucht Fürst Hans-Adam II.",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "betreffend die Übernahme der Regierung durch Seine Durchlaucht Fürst Hans-Adam II.",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Lieber Herr Regierungschef"
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "betreffend die Übernahme der Regierung durch Seine Durchlaucht Fürst Hans-Adam II.",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "Gemäss Art. 3 und 13 der Verfassung übernehme Ich als Fürst Hans-Adam II. die Regierung des Fürstentums Liechtenstein. Gleichzeitig beurkunde Ich, dass Ich das Fürstentum in Gemässheit der Verfassung und der übrigen Gesetze regieren, seine Integrität erhalten und die landesfürstlichen Rechte unzertrennlich und in gleicher Weise beobachten werde.\nVaduz, am 13. November 1989\ngez. Hans-Adam\ngez. Hans Brunhart\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

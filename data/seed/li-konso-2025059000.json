@@ -1,0 +1,45 @@
+{
+  "id": "li-konso-2025059000",
+  "type": "statute",
+  "title": "Verordnung vom 21. Januar 2025 über Massnahmen zur Verhinderung der Weiterverbreitung der Blauzungenkrankheit",
+  "title_en": "",
+  "short_name": "LGBl 2025.059",
+  "status": "in_force",
+  "issued_date": "2025-01-21",
+  "in_force_date": "2025-01-21",
+  "url": "https://www.gesetze.li/konso/2025059000",
+  "description": "Verordnung vom 21. Januar 2025 über Massnahmen zur Verhinderung der Weiterverbreitung der Blauzungenkrankheit",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Zweck und anwendbares Recht",
+      "content": "1) Diese Verordnung soll die Weiterverbreitung der Blauzungenkrankheit von Serotypen 3 und 8 bei allen Paarhufern mit Ausnahme von Schweinen verhindern.\n2) Sie lässt die aufgrund des Zollvertrags in Liechtenstein anwendbaren schweizerischen Rechtsvorschriften, insbesondere die schweizerische Tierseuchengesetzgebung, unberührt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Ein- und Ausfuhr sowie Verwendungsbeschränkungen",
+      "content": "Die schweizerische Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Blauzungenkrankheit (SR 916.401.348.2) findet Anwendung auf:\na) die Ein- und Ausfuhr von Paarhufern mit Ausnahme von Schweinen sowie von Samen, Eizellen und Embryonen;\nb) die Verwendung von Samen, Eizellen und Embryonen im Verdachts- oder Seuchenfall."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Umfang der Blauzungen-Zone",
+      "content": "Die Blauzungen-Zone umfasst das ganze Gebiet des Fürstentums Liechtenstein."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Vektorfreie Periode",
+      "content": "Als vektorfreie Periode gilt die Zeit vom 1. Dezember bis zum 31. März."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tag der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Dr. Graziella Marok-Wachter\nRegierungsrätin"
+    }
+  ],
+  "definitions": []
+}

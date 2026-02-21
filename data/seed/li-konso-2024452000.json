@@ -1,0 +1,631 @@
+{
+  "id": "li-konso-2024452000",
+  "type": "statute",
+  "title": "Verordnung vom 3. Dezember 2024 über eine leistungsabhängige Schwerverkehrsabgabe (Schwerverkehrsabgabeverordnung; SVAV)",
+  "title_en": "",
+  "short_name": "SVAV",
+  "status": "in_force",
+  "issued_date": "2024-12-03",
+  "in_force_date": "2024-12-03",
+  "url": "https://www.gesetze.li/konso/2024452000",
+  "description": "Verordnung vom 3. Dezember 2024 über eine leistungsabhängige Schwerverkehrsabgabe (Schwerverkehrsabgabeverordnung; SVAV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung des Schwerverkehrsabgabegesetzes das Nähere insbesondere über: a) das Abgabeobjekt und die Bemessungsgrundlage;\nb) die Erhebung der leistungsabhängigen Abgabe;\nc) die NETS- und EETS-Anbieter;\nd) die pauschale Abgabeerhebung;\ne) die akzeptierten Zahlungsmittel;\nf) die Durchführung von Kontrollen;\ng) die Registrierung und das elektronische Verfahren;\nh) den Vollzug."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Personenbezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personenbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen.\nII. Abgabeobjekt und Bemessungsgrundlage\nA. Abgabeobjekt"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Abgabeobjekt",
+      "section": "3",
+      "title": "Art. 3 Pauschal erhobene Abgabe",
+      "content": "1) Für die folgenden Fahrzeuge wird die Abgabe pauschal erhoben. Sie beträgt jährlich für: a) schwere Motorwagen für den Personentransport, schwere Personenwagen, Personentransport- und Wohnanhänger mit je einem Gesamtgewicht von über 3,5 t: 650 Franken;\nb) Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 3,5 t bis höchstens 8,5 t: 2 200 Franken;\nc) Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 8,5 t bis höchstens 19,5 t: 3 300 Franken;\nd) Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 19,5 t bis höchstens 26 t: 4 400 Franken;\ne) Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 26 t: 5 000 Franken;\nf) Motorfahrzeuge für den Sachentransport mit einer Höchstgeschwindigkeit bis 45 km/h und Motorkarren und Traktoren: pro 100 kg Gesamtgewicht 11 Franken;\ng) Motorfahrzeuge des Schausteller- und Zirkusgewerbes, die ausschliesslich Schausteller- oder Zirkusmaterial transportieren oder der Abgabe nicht unterliegende Anhänger ziehen: pro 100 kg Gesamtgewicht 8 Franken.\n2) Für der Abgabe unterliegende Anhänger, die von Motorfahrzeugen gezogen werden, die keiner Abgabe unterliegen oder für die die Abgabe pauschal erhoben wird, wird die Abgabe in Form einer Pauschale auf dem Motorfahrzeug erhoben. Sie beträgt jährlich für: a) Lieferwagen, Personenwagen, Kleinbusse und Wohnmotorwagen mit einer Anhängelast von mehr als 3,5 t: pro 100 kg Anhängelast 22 Franken;\nb) Motorfahrzeuge für den Sachentransport mit einer Höchstgeschwindigkeit bis 45 km/h und Motorkarren und Traktoren mit einer Anhängelast von mehr als 3,5 t: pro 100 kg Anhängelast 11 Franken.\n3) Für provisorisch immatrikulierte Fahrzeuge, die zur Ausfuhr bestimmt sind, wird die Abgabe pauschal erhoben. Sie beträgt pro Aufenthaltstag im Zollgebiet: a) für Fahrzeuge nach Abs. 1 und 2: 20 Franken;\nb) für andere Fahrzeuge: 70 Franken.\n4) Das Bundesamt für Zoll und Grenzsicherheit (BAZG) kann in Einzelfällen auf Gesuch hin für weitere Fahrzeuge die pauschale Abgabeerhebung bewilligen.\nB. Bemessungsgrundlage\n1. Massgebendes Gewicht"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Massgebendes Gewicht",
+      "section": "4",
+      "title": "Art. 4 Grundsatz",
+      "content": "1) Für die Bemessung der leistungsabhängig erhobenen Abgabe ist das im Fahrzeugausweis eingetragene höchstzulässige Gesamtgewicht massgebend. Dieses richtet sich auch für ausländische Fahrzeuge nach schweizerischem Strassenverkehrsrecht.\n2) Für folgende Fahrzeuge ist folgendes Gewicht massgebend: a) für Sattelmotorfahrzeuge, die als Einheit immatrikuliert sind: das im Fahrzeugausweis eingetragene höchstzulässige Gesamtgewicht der Einheit;\nb) für Sattelmotorfahrzeuge mit getrennt immatrikuliertem Sattelschlepper und Sattelanhänger: die Summe der folgenden im Fahrzeugausweis eingetragenen Gewichte: Leergewicht des Sattelschleppers und höchstzulässiges Gesamtgewicht des Sattelanhängers; unterliegt nur der Sattelanhänger der Abgabe, so ist nur dessen Gesamtgewicht massgebend;\nc) für andere als die in Bst. b vorgesehenen Kombinationen zweier Fahrzeuge, die der Abgabe unterliegen: die Summe der folgenden im Fahrzeugausweis eingetragenen Gewichte: höchstzulässiges Gesamtgewicht des Motorfahrzeugs und dasjenige des Anhängers;\nd) für Kombinationen zweier Fahrzeuge, bei denen die gefahrenen Kilometer manuell ermittelt werden, und für Fahrzeuge, die unter verschiedenen Fahrzeugarten oder Karosserien zum Verkehr zugelassen sind: das höchste in Frage kommende Gesamtgewicht."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Massgebendes Gewicht",
+      "section": "5",
+      "title": "Art. 5 Begrenzung des massgebenden Gewichts",
+      "content": "1) Ist in Fällen nach Art. 4 Abs. 2 Bst. b und c das massgebende Gewicht höher als das höchstzulässige Gesamtzugsgewicht, so ist das Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) das massgebende Gewicht.\n2) Unterliegt nur der Sattelanhänger der Abgabe, so ist bei leichten Sattelmotorfahrzeugen, die nicht als Einheit immatrikuliert sind, das höchstzulässige Gesamtzugsgewicht abzüglich des im Fahrzeugausweis eingetragenen Leergewichts des Sattelschleppers das massgebende Gewicht.\n3) Das massgebende Gewicht beträgt in jedem Fall höchstens 40 t."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Massgebendes Gewicht",
+      "section": "6",
+      "title": "Art. 6 Ausnahmebewilligungen betreffend massgebendes Gewicht",
+      "content": "1) Das BAZG kann in Einzelfällen auf Gesuch hin für Fahrzeuge ein anderes massgebendes Gewicht als jenes nach Art. 4 Abs. 2 festsetzen.\n2) Die Abgabe darf dadurch nicht geschmälert und die Erhebungskosten nicht erhöht werden.\n2. Tarif"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Tarif",
+      "section": "7",
+      "title": "Art. 7 Tarif für Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen",
+      "content": "1) Für Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, beträgt die Abgabe pro gefahrenen Kilometer und Tonne massgebendes Gewicht: a) 3,26 Rappen für die Abgabekategorie 1;\nb) 2,82 Rappen für die Abgabekategorie 2;\nc) 2,39 Rappen für die Abgabekategorie 3.\n2) Für die Einteilung der Fahrzeuge in die Abgabekategorien ist der Anhang massgebend. Kann die Zugehörigkeit eines Fahrzeugs zur Abgabekategorie 2 oder 3 nicht nachgewiesen werden, so ist die Abgabekategorie 1 anwendbar.\n3) Fahrzeuge, die der Abgabekategorie 3 zugeteilt werden, bleiben während mindestens sieben Jahren in dieser Abgabekategorie eingereiht. Die Frist beginnt im Zeitpunkt zu laufen, in dem die jeweilige Emissionsklasse für die erste Inverkehrsetzung von Neufahrzeugen gemäss den Anhängen 1 und 4 VTS sowie der Verordnung über technische Anforderungen an Transportmotorwagen und deren Anhänger obligatorisch wird.\nC. Sonderregelungen für Fahrzeuge mit besonderem Verwendungszweck\n1. Fahrzeuge des öffentlichen Verkehrs"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Fahrzeuge des öffentlichen Verkehrs",
+      "section": "8",
+      "title": "Art. 8 Pauschale Abgabe",
+      "content": "Für Fahrzeuge des Linienverkehrs (Art. 5 Abs. 1 Bst. b SVAG) wird die Abgabe für die ausserhalb des Linienverkehrs gefahrenen Kilometer pauschal erhoben. Sie berechnet sich nach dem Anteil der ausserhalb des Linienverkehrs gefahrenen Kilometer an der gesamten Fahrleistung.\n2. Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren",
+      "section": "9",
+      "title": "Art. 9 Vergünstigungen",
+      "content": "1) Für die folgenden Fahrzeuge beträgt die Abgabe 75 % des Ansatzes, der in der jeweils anwendbaren der nachstehenden Bestimmungen genannt ist: a) für Fahrzeuge, mit denen ausschliesslich Rohholz transportiert wird: Art. 3 Abs. 1 Bst. f oder Abs. 2 Bst. a oder b oder Art. 7 Abs. 1 Bst. a, b oder c;\nb) für Milch-Transportfahrzeuge, mit denen ausschliesslich offene Milch transportiert wird: Art. 7 Abs. 1 Bst. a, b oder c;\nc) für Viehtransportfahrzeuge, ausgenommen Pferdetransportfahrzeuge, mit denen ausschliesslich landwirtschaftliche Nutztiere transportiert werden: Art. 7 Abs. 1 Bst. a, b oder c.\n2) Als Rohholz gilt: a) unverarbeitetes, in der Regel vermessenes Wald- oder Sägerundholz in der Form von Stammholz, mit oder ohne Rinde, mit einer Mindestlänge von ca. 1 Meter;\nb) Industrie- und Energie-Waldholz, namentlich unvermessenes und unverarbeitetes Waldrundholz, Hackschnitzel, Rinde, Knüppel, Spälte, Scheiter und andere Waldholzprodukte;\nc) Industrie- und Energie-Restholz, namentlich Hackschnitzel, Rinde, Spreissel, Schwarten, Sägespäne, Hobelspäne, Sägemehl und andere Restholzprodukte."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren",
+      "section": "10",
+      "title": "Art. 10 Voraussetzungen für die Gewährung der Vergünstigungen",
+      "content": "1) Die Vergünstigungen für Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren werden gewährt, wenn der Fahrzeughalter sich gegenüber dem BAZG verpflichtet, das Fahrzeug ausschliesslich für den entsprechenden Zweck zu verwenden.\n2) Die Verpflichtung gilt ab dem Tag der Einreichung der Verpflichtungserklärung. Sind die Voraussetzungen für die Vergünstigung nicht mehr erfüllt, so muss der Fahrzeughalter die Verpflichtungserklärung zurückziehen.\n3) Der Fahrzeughalter kann einmal im Kalendermonat erklären, dass er für kurze Zeit auf die Vergünstigung verzichtet.\n4) Die Verpflichtung und der Verzicht auf die Vergünstigung gelten für ganze Kalendertage.\n5) Der Fahrzeughalter muss sämtliche für die Vergünstigung wesentlichen Unterlagen und Belege während fünf Jahren aufbewahren. Er muss auf Verlangen des BAZG die Einhaltung der Verpflichtung nachweisen.\n6) Stellt das BAZG fest, dass der Fahrzeughalter die Verpflichtung verletzt, so wird für das betreffende Fahrzeug während 12 Monaten ab der Feststellung keine Vergünstigung gewährt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren",
+      "section": "11",
+      "title": "Art. 11 Rückerstattung für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird",
+      "content": "1) Für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird, gewährt das BAZG auf Gesuch hin eine Rückerstattung von 2,10 Franken pro m&sup3; transportiertes Rohholz. Es wird höchstens 25 % der gesamten Abgabe pro Fahrzeug und Periode zurückerstattet.\n2) Das Gesuch um Rückerstattung muss je Fahrzeug eingereicht werden. Es muss innerhalb eines Jahres nach Ablauf der Rückerstattungsperiode, in der der Transport stattgefunden hat, eingereicht werden und die folgenden Angaben enthalten: a) Fahrgestellnummer für inländische Fahrzeuge;\nb) Kontrollschild mit Landeszeichen für ausländische Fahrzeuge;\nc) Rückerstattungsperiode;\nd) Holzvolumen in Kubikmetern (m&sup3;).\n3) Das BAZG kann den Rückerstattungsbetrag mit der geschuldeten Abgabe verrechnen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren",
+      "section": "12",
+      "title": "Art. 12 Rückerstattungsperiode für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird",
+      "content": "Die Rückerstattungsperiode für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird, ist: a) für inländische Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen: die Abgabeperiode;\nb) für ausländische Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen: der Kalendermonat;\nc) für Fahrzeuge, die der pauschal erhobenen Abgabe unterliegen: die Abgabeperiode."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren",
+      "section": "13",
+      "title": "Art. 13 Nachweis für die Rückerstattung für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird",
+      "content": "1) Für jeden Transport von Rohholz, für den nach Art. 10 eine Rückerstattung der Abgabe beantragt wird, muss die gesuchstellende Person dem BAZG auf Verlangen einen Nachweis vorlegen. Das BAZG kann zusätzliche Angaben und Unterlagen verlangen.\n2) Sämtliche für die Rückerstattung wesentlichen Unterlagen und Belege sind während fünf Jahren aufzubewahren und dem BAZG auf Verlangen vorzuweisen.\n3. Fahrten im unbegleiteten kombinierten Verkehr"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Fahrten im unbegleiteten kombinierten Verkehr",
+      "section": "14",
+      "title": "Art. 14 Rückerstattung für im unbegleiteten kombinierten Verkehr eingesetzte Fahrzeuge",
+      "content": "1) Halter von der Abgabe unterliegenden Fahrzeugen, mit denen Fahrten im unbegleiteten kombinierten Verkehr (UKV) ausgeführt werden, erhalten für die Fahrten im Vor- und Nachlauf des UKV auf Gesuch hin eine Rückerstattung.\n2) Pro Ladebehälter und pro Sattelanhänger, der von der Strasse auf die Bahn oder das Schiff oder von der Bahn oder dem Schiff auf die Strasse umgeschlagen wird, beträgt die Rückerstattung: a) für Ladebehälter oder Sattelanhänger mit einer Länge von 4,8 bis 5,5 m: 15 Franken;\nb) für Ladebehälter oder Sattelanhänger mit einer Länge von über 5,5 bis 6,1 m: 22 Franken;\nc) für Ladebehälter oder Sattelanhänger mit einer Länge von über 6,1 m: 33 Franken."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Fahrten im unbegleiteten kombinierten Verkehr",
+      "section": "15",
+      "title": "Art. 15 Fahrten im Vor- oder Nachlauf des UKV",
+      "content": "Als Fahrt im Vor- und Nachlauf des UKV gilt eine Fahrt, die von Strassenfahrzeugen mit Ladebehältern oder mit Sattelanhängern zwischen dem Verlade- oder Entladeort und einem Umschlagsbahnhof oder Rheinhafen ausgeführt wird."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Fahrten im unbegleiteten kombinierten Verkehr",
+      "section": "16",
+      "title": "Art. 16 Verbot des Wechsels des Transportgefässes",
+      "content": "Das Ladegut darf beim Übergang vom einen zum anderen Verkehrsträger den Ladebehälter oder den Sattelanhänger nicht wechseln."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Fahrten im unbegleiteten kombinierten Verkehr",
+      "section": "17",
+      "title": "Art. 17 Rückerstattungsgesuch und Verrechnung des Rückerstattungsbetrags",
+      "content": "1) Das Gesuch um Rückerstattung muss innerhalb eines Jahres nach Ablauf des Kalendermonats, in dem die Fahrt stattgefunden hat, beim BAZG eingereicht werden.\n2) Es muss die Anzahl Ladebehälter und Sattelanhänger enthalten, aufgeschlüsselt nach den Kategorien nach Art. 14 Abs. 2.\n3) Es muss sämtliche Fahrten im Vor- und Nachlauf des UKV aller Fahrzeuge des Halters in einem Kalendermonat umfassen.\n4) Das BAZG kann den Rückerstattungsbetrag mit der geschuldeten Abgabe verrechnen.\nIII. Erhebung der leistungsabhängigen Abgabe\nA. Abgabeperiode"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "A. Abgabeperiode",
+      "section": "18",
+      "title": "Art. 18 Grundsatz",
+      "content": "1) Die Abgabeperiode für inländische Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, ist der Kalendermonat.\n2) Die Abgabeperiode für ausländische Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, richtet sich nach Art. 12 Abs. 2 des Schwerverkehrsabgabegesetzes.\nB. Ermittlung der gefahrenen Kilometer\n1. Grundsatz"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Grundsatz",
+      "section": "19",
+      "title": "Art. 19 Automatisierte Ermittlung der gefahrenen Kilometer",
+      "content": "1) Bei Motorfahrzeugen, die der leistungsabhängigen Abgabe unterliegen, sind die gefahrenen Kilometer automatisiert zu ermitteln.\n2) Das gilt auch für Sattelschlepper mit einem zulässigen Gesamtgewicht von bis zu 3,5 t, die zum Ziehen von der Abgabe unterliegenden Anhängern zugelassen sind."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "1. Grundsatz",
+      "section": "20",
+      "title": "Art. 20 Ausnahmen von der automatisierten Ermittlung der gefahrenen Kilometer",
+      "content": "1) In folgenden Fällen sind die gefahrenen Kilometer in Abweichung von Art. 18 manuell zu ermitteln: a) bei ausländischen Motorfahrzeugen, die nicht mit einem fahrzeugseitigen Erfassungssystem nach Art. 21 ausgerüstet sind;\nb) bei Motorfahrzeugen, die nicht mit einem fahrzeugseitigen Erfassungssystem nach Art. 21 ausgerüstet werden können;\nc) bei inländischen Motorfahrzeugen, die im Zeitpunkt nach Art. 25 Bst. a nicht mit einem fahrzeugseitigen Erfassungssystem nach Art. 21 ausgerüstet sind: bis zur Ausrüstung.\n2) Bei Motorfahrzeugen, bei denen die Anzahl der gefahrenen Kilometer gering ist: a) können die gefahrenen Kilometer auf Gesuch hin manuell ermittelt werden;\nb) müssen die gefahrenen Kilometer auf Anordnung des BAZG manuell ermittelt werden.\n2. Fahrzeugseitige Erfassungssysteme"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Fahrzeugseitige Erfassungssysteme",
+      "section": "21",
+      "title": "Art. 21 Zu verwendende fahrzeugseitige Erfassungssysteme",
+      "content": "1) Die automatisierte Ermittlung der gefahrenen Kilometer hat mit einem fahrzeugseitigen Erfassungssystem eines der folgenden Anbieter zu erfolgen: a) eines vom BAZG beauftragten oder zugelassenen Anbieters eines nationalen Dienstes zur elektronischen Erhebung von Strassenbenützungsgebühren (National Electronic Toll Service; NETS-Anbieter);\nb) eines vom BAZG zugelassenen Anbieters eines europäischen Dienstes zur elektronischen Erhebung von Strassenbenützungsgebühren (European Electronic Toll Service; EETS-Anbieter).\n2) Das BAZG veröffentlicht die Namen des beauftragten NETS-Anbieters und der zugelassenen NETS- und EETS-Anbieter auf seiner Website."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Fahrzeugseitige Erfassungssysteme",
+      "section": "22",
+      "title": "Art. 22 Anforderungen an das fahrzeugseitige Erfassungssystem",
+      "content": "Der Anbieter eines fahrzeugseitigen Erfassungssystems muss sicherstellen, dass das System die folgenden Anforderungen erfüllt: a) Es muss dem Motorfahrzeug eindeutig zugeordnet werden können.\nb) Es zeichnet die zur Ermittlung der gefahrenen Kilometer erforderlichen Positionen und Uhrzeiten (Wegpunkte) auf.\nc) Die aufgrund der Wegpunkte ermittelten Kilometer dürfen höchstens um 4 % von den tatsächlich gefahrenen Kilometern abweichen.\nd) Es ermöglicht die Erfassung mitgeführter Anhänger."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Fahrzeugseitige Erfassungssysteme",
+      "section": "23",
+      "title": "Art. 23 Kostenlose Abgabe von fahrzeugseitigen Erfassungssystemen",
+      "content": "1) Der beauftragte Anbieter muss den Fahrzeughaltern, von denen er mit der Ermittlung der gefahrenen Kilometer beauftragt wurde, für jedes Motorfahrzeug ein fahrzeugseitiges Erfassungssystem kostenlos zur Verfügung stellen.\n2) Das Eidgenössische Finanzdepartement (EFD) kann vorsehen, dass die kostenlose Abgabe von fahrzeugseitigen Erfassungssystemen eingeschränkt oder an Bedingungen und die Leistung von Sicherheiten geknüpft ist.\n3. Mitwirkungspflichten"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Mitwirkungspflichten",
+      "section": "24",
+      "title": "Art. 24 Mitwirkung bei der Ermittlung der gefahrenen Kilometer",
+      "content": "1) Die abgabepflichtige Person muss dafür sorgen, dass der Fahrzeugführer bei der Ermittlung der gefahrenen Kilometer mitwirkt. Sie muss insbesondere dafür sorgen, dass der Fahrzeugführer: a) das fahrzeugseitige Erfassungssystem während der Fahrt korrekt bedient oder, wenn die gefahrenen Kilometer manuell ermittelt werden, die Ermittlung vorschriftsgemäss erfolgt;\nb) mitgeführte Anhänger korrekt erfasst.\n2) Der Fahrzeughalter trägt die Kosten, die ihm aus der Pflicht der Ermittlung der gefahrenen Kilometer entstehen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "3. Mitwirkungspflichten",
+      "section": "25",
+      "title": "Art. 25 Sicherstellung der Funktionstüchtigkeit des fahrzeugseitigen Erfassungssystems",
+      "content": "Erfolgt die Ermittlung der gefahrenen Kilometer automatisiert, so muss die abgabepflichtige Person dafür sorgen, dass das fahrzeugseitige Erfassungssystem ab folgendem Zeitpunkt ununterbrochen funktionstüchtig ist: a) bei inländischen Motorfahrzeugen: ab Inverkehrsetzung;\nb) bei ausländischen Motorfahrzeugen: ab Einfahrt ins Zollgebiet."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "3. Mitwirkungspflichten",
+      "section": "26",
+      "title": "Art. 26 Defekt und Ausfall des fahrzeugseitigen Erfassungssystems",
+      "content": "1) Erfolgt die Ermittlung der gefahrenen Kilometer automatisiert und kommt es zu einem Defekt oder Ausfall des fahrzeugseitigen Erfassungssystems, so muss die abgabepflichtige Person dieses unverzüglich überprüfen sowie reparieren oder ersetzen lassen.\n2) Führt der Defekt oder der Ausfall dazu, dass die gefahrenen Kilometer nicht automatisiert ermittelt werden, so muss die abgabepflichtige Person dafür sorgen, dass der Fahrzeugführer die nicht aufgezeichneten Kilometer manuell ermittelt."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "3. Mitwirkungspflichten",
+      "section": "27",
+      "title": "Art. 27 Gewährung des Zugriffs auf das fahrzeugseitige Erfassungssystem",
+      "content": "1) Erfolgt die Ermittlung der gefahrenen Kilometer automatisiert, so muss die abgabepflichtige Person sicherstellen, dass der Anbieter nach seinen Vorgaben Zugriff auf das fahrzeugseitige Erfassungssystem hat.\n2) Kann sie den Zugriff nicht sicherstellen, so muss sie dafür sorgen, dass die für die Anmeldung notwendigen Daten innerhalb der Fristen nach Art. 39 der dort genannten Stelle übermittelt werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "3. Mitwirkungspflichten",
+      "section": "28",
+      "title": "Art. 28 Meldepflichten der NETS-Anbieter",
+      "content": "Der NETS-Anbieter hat für die folgenden Motorfahrzeuge dem BAZG eine tägliche Meldung gemäss den technischen und betrieblichen Vorgaben zu übermitteln: a) Motorfahrzeuge, die sich ausserhalb des Zollgebiets befinden;\nb) Motorfahrzeuge, auf deren fahrzeugseitiges Erfassungssystem er keinen Zugriff hat.\nC. Übermittlung von Angaben zu ausländischen Motorfahrzeugen und zu inländischen Ersatzfahrzeugen"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "C. Übermittlung von Angaben zu ausländischen Motorfahrzeugen und zu inländischen Ersatzfahrzeugen",
+      "section": "29",
+      "title": "Art. 29 Übermittlung von Angaben zu ausländischen Motorfahrzeugen",
+      "content": "1) Halter ausländischer Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters müssen dem BAZG vor der Beauftragung des NETS-Anbieters die folgenden Angaben zum Fahrzeug übermitteln: a) Fahrzeugart;\nb) Kontrollschild mit Landeszeichen;\nc) Fahrgestellnummer;\nd) Leergewicht;\ne) höchstzulässiges Gesamtgewicht;\nf) höchstzulässiges Gewicht des Zuges;\ng) EURO-Emissionsklasse;\nh) Art des verwendeten Treibstoffs.\n2) Beendet ein Halter eines ausländischen Motorfahrzeugs das Auftragsverhältnis mit dem NETS-Anbieter, so muss er dies dem BAZG melden."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "C. Übermittlung von Angaben zu ausländischen Motorfahrzeugen und zu inländischen Ersatzfahrzeugen",
+      "section": "30",
+      "title": "Art. 30 Übermittlung von Angaben zu inländischen Ersatzfahrzeugen",
+      "content": "Wer ein inländisches Ersatzfahrzeug nach Art. 10 Abs. 4 VVV zur Verfügung stellt oder besitzt, muss dem BAZG vor jedem Einsatz des Fahrzeugs die folgenden Angaben übermitteln: a) die Angaben nach Art. 29 Abs. 1;\nb) die Unternehmens-Identifikationsnummer (UID) des Nutzers oder, wenn der Nutzer über keine UID verfügt, die Geschäftspartner-Nummer des BAZG;\nc) die Dauer, während der das Fahrzeug voraussichtlich genutzt wird."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "C. Übermittlung von Angaben zu ausländischen Motorfahrzeugen und zu inländischen Ersatzfahrzeugen",
+      "section": "31",
+      "title": "Art. 31 Anpassung der übermittelten Angaben",
+      "content": "Die Person, die die Angaben nach Art. 29 oder 30 übermittelt hat, muss dafür sorgen, dass das BAZG zu jedem Zeitpunkt über aktuelle Daten verfügt.\nD. Anmeldung\n1. Anmeldung bei automatisierter Ermittlung der gefahrenen\nKilometer"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "1. Anmeldung bei automatisierter Ermittlung der gefahrenen Kilometer",
+      "section": "32",
+      "title": "Art. 32 Grundsatz",
+      "content": "Werden die gefahrenen Kilometer automatisiert ermittelt, so muss die Anmeldung (Art. 14b Abs. 1 Bst. d SVAG) für jedes Motorfahrzeug erfolgen."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "1. Anmeldung bei automatisierter Ermittlung der gefahrenen Kilometer",
+      "section": "33",
+      "title": "Art. 33 Inhalt der Anmeldung",
+      "content": "1) Die Anmeldung muss die folgenden Angaben enthalten: a) die Wegpunkte gemäss dem globalen Satellitennavigationssystem (GNSS);\nb) das höchstzulässige Gesamtgewicht allfällig mitgeführter Anhänger.\n2) Für ausländische Fahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters sowie für inländische Fahrzeuge muss sie zusätzlich zu den Angaben nach Abs. 1 enthalten: a) Fahrgestellnummer;\nb) Art des Anhängers;\nc) Identifikationsnummer des Anbieters.\n3) Für ausländische Fahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines EETS-Anbieters muss sie zusätzlich zu den Angaben nach Abs. 1 enthalten: a) Personalien des Fahrzeughalters gemäss Fahrzeugausweis;\nb) Adresse des Fahrzeughalters gemäss Fahrzeugausweis;\nc) Korrespondenzsprache;\nd) Personal Account Number (PAN-Nummer);\ne) Kontrollschild mit Landeszeichen;\nf) Leergewicht des Motorfahrzeugs, wenn der Anhänger nicht nach dem vom Anbieter vorgesehenen vereinfachten Verfahren angemeldet wird;\ng) höchstzulässiges Gesamtgewicht;\nh) höchstzulässiges Gewicht des Zuges;\ni) EURO-Emissionsklasse;\nk) Angabe, ob es ein Fahrzeug mit elektrischem Antrieb ist;\nl) Angabe, ob ein Anhänger mitgeführt wird, wenn er vereinfacht angemeldet wird;\nm) Art des mitgeführten Anhängers, wenn er nicht nach dem vom Anbieter vorgesehenen vereinfachten Verfahren angemeldet wird."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "1. Anmeldung bei automatisierter Ermittlung der gefahrenen Kilometer",
+      "section": "34",
+      "title": "Art. 34 Frist für die Anmeldung",
+      "content": "1) Die Anmeldung muss dem BAZG gemäss den technischen und betrieblichen Vorgaben und innerhalb folgender Fristen eingereicht werden: a) für inländische Motorfahrzeuge: täglich;\nb) für ausländische Motorfahrzeuge: nach der Ausfahrt aus dem Zollgebiet oder, wenn das Motorfahrzeug sich länger als einen Tag im Zollgebiet befindet, täglich.\n2) Das BAZG kann auch dann eine tägliche Anmeldung verlangen, wenn das Fahrzeug nicht bewegt worden ist."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "1. Anmeldung bei automatisierter Ermittlung der gefahrenen Kilometer",
+      "section": "35",
+      "title": "Art. 35 Einsicht in Daten",
+      "content": "Die NETS-Anbieter müssen dem BAZG auf Verlangen Einsicht in die Daten gewähren, die zur Überprüfung der Anmeldung erforderlich sind.\n2. Anmeldung bei manueller Ermittlung der gefahrenen Kilometer"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Anmeldung bei manueller Ermittlung der gefahrenen Kilometer",
+      "section": "36",
+      "title": "Art. 36 Grundsatz",
+      "content": "1) Werden die gefahrenen Kilometer manuell ermittelt, so muss die abgabepflichtige Person die Anmeldung für jedes Motorfahrzeug vornehmen.\n2) Für Fahrzeuge mit elektrischem Antrieb für den Warentransport muss ebenfalls eine Anmeldung eingereicht werden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "2. Anmeldung bei manueller Ermittlung der gefahrenen Kilometer",
+      "section": "37",
+      "title": "Art. 37 Inhalt der Anmeldung für inländische Fahrzeuge",
+      "content": "Für inländische Fahrzeuge muss die Anmeldung die folgenden Angaben enthalten: a) Fahrgestellnummer;\nb) Datum der Fahrt;\nc) Grund für die manuelle Ermittlung;\nd) Anzahl gefahrener Kilometer oder die aufgezeichneten Wegpunkte;\ne) Art des Anhängers für den mitgeführten Anhänger mit dem höchsten zulässigen Gesamtgewicht;\nf) massgebendes Gewicht für das Motorfahrzeug und den mitgeführten Anhänger mit dem höchsten zulässigen Gesamtgewicht."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "2. Anmeldung bei manueller Ermittlung der gefahrenen Kilometer",
+      "section": "38",
+      "title": "Art. 38 Inhalt der Anmeldung für ausländische Fahrzeuge",
+      "content": "1) Für ausländische Fahrzeuge muss vor der Einfahrt ins Zollgebiet und bei der Ausfahrt aus dem Zollgebiet je eine Anmeldung eingereicht werden.\n2) Die Anmeldung vor der Einfahrt ins Zollgebiet muss die folgenden Angaben enthalten: a) Kontrollschild mit Landeszeichen;\nb) massgebendes Gewicht bei der Einfahrt;\nc) EURO-Emissionsklasse beziehungsweise die Angabe, dass es ein Fahrzeug mit elektrischem Antrieb ist;\nd) Anzahl Kilometer, die im Zollgebiet voraussichtlich zurückgelegt werden;\ne) Datum der Einfahrt ins Zollgebiet und voraussichtliches Datum der Ausfahrt aus dem Zollgebiet;\nf) Grund für die manuelle Ermittlung;\ng) Zahlungsmittel, wenn die Anmeldung ein der Abgabe unterliegendes Fahrzeug betrifft.\n3) Die Anmeldung bei der Ausfahrt aus dem Zollgebiet muss die folgenden Angaben enthalten: a) Kontrollschild mit Landeszeichen gemäss der Anmeldung vor der Einfahrt;\nb) massgebendes Gewicht bei der Ausfahrt aus dem Zollgebiet;\nc) Anzahl gefahrener Kilometer oder die aufgezeichneten Wegpunkte."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "2. Anmeldung bei manueller Ermittlung der gefahrenen Kilometer",
+      "section": "39",
+      "title": "Art. 39 Frist der Anmeldung",
+      "content": "1) Für inländische Fahrzeuge ist die Anmeldung täglich bei Fahrtende einzureichen.\n2) Für ausländische Fahrzeuge gelten die folgenden Fristen: a) für die Anmeldung nach Art. 38 Abs. 2: vor der Einfahrt ins Zollgebiet;\nb) für die Anmeldung nach Art. 38 Abs. 3: 1. bei bargeldloser Bezahlung: spätestens fünf Tage nach der Ausfahrt aus dem Zollgebiet,\n2. bei Bezahlung in bar: mit der Ausfahrt aus dem Zollgebiet."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "2. Anmeldung bei manueller Ermittlung der gefahrenen Kilometer",
+      "section": "40",
+      "title": "Art. 40 Anmeldung bei Ausfall oder Defekt des fahrzeugseitigen Erfassungssystems",
+      "content": "Kommt es zu einem Defekt oder Ausfall des fahrzeugseitigen Erfassungssystems (Art. 26), so muss die abgabepflichtige Person die manuell ermittelten Kilometer sowie die Angaben zu mitgeführten Anhängern (Art. 37 Bst. e und f und Art. 38) innerhalb der folgenden Fristen übermitteln: a) für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters: innerhalb von fünf Arbeitstagen nach dem Defekt oder Ausfall dem NETS-Anbieter;\nb) für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines EETS-Anbieters: 1. inländische Motorfahrzeuge: innerhalb von fünf Arbeitstagen nach dem Defekt oder Ausfall dem BAZG,\n2. ausländische Motorfahrzeuge: innerhalb von fünf Arbeitstagen nach der Ausfahrt aus dem Zollgebiet dem BAZG.\n3. Korrektur der Anmeldung"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "3. Korrektur der Anmeldung",
+      "section": "41",
+      "title": "Art. 41 Grundsatz",
+      "content": "Die im Hinblick auf die Anmeldung erfassten Daten können bis zum Zeitpunkt, zu dem die Anmeldung verbindlich wird, korrigiert werden.\n4. Verbindlichkeit der Anmeldung"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "4. Verbindlichkeit der Anmeldung",
+      "section": "42",
+      "title": "Art. 42 Grundsatz",
+      "content": "1) Werden die Kilometer automatisiert ermittelt, so wird die Anmeldung zu folgendem Zeitpunkt verbindlich: a) für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters: zehn Tage nach Ablauf der Anmeldefrist;\nb) für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines EETS-Anbieters: um 23.59 Uhr am Tag der Einreichung.\n2) Werden die Kilometer in Fällen nach Art. 20 manuell ermittelt, so wird die Anmeldung zu folgendem Zeitpunkt verbindlich: a) für inländische Motorfahrzeuge: fünf Tage nach Ablauf der Anmeldefrist;\nb) für ausländische Motorfahrzeuge, wenn die Bezahlung bargeldlos erfolgt: 1. Anmeldung vor Einfahrt ins Zollgebiet: mit der Einfahrt ins Zollgebiet,\n2. Anmeldung bei Ausfahrt aus dem Zollgebiet: mit Ablauf der Anmeldefrist nach Art. 39 Abs. 2 Bst. b;\nc) für ausländische Motorfahrzeuge, wenn die Bezahlung mit Bargeld erfolgt: 1. Anmeldung vor Einfahrt ins Zollgebiet: mit der Bezahlung der Abgabe bei der Einfahrt ins Zollgebiet,\n2. Anmeldung bei Ausfahrt aus dem Zollgebiet: mit der Ausfahrt aus dem Zollgebiet.\n3) Werden die Kilometer aufgrund eines Ausfalls oder Defekts des fahrzeugseitigen Erfassungssystems manuell ermittelt (Art. 26 Abs. 2), so wird die Anmeldung zu folgendem Zeitpunkt verbindlich: a) für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters: fünf Tage nach Ablauf der Anmeldefrist;\nb) für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines EETS-Anbieters: mit Ablauf der Anmeldefrist.\nE. Sonderregelungen für von der Abgabe befreite Fahrzeuge\n1. Ermittlung der gefahrenen Kilometer und Anmeldung für Motorfahrzeuge mit elektrischem Antrieb für den Warentransport"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "1. Ermittlung der gefahrenen Kilometer und Anmeldung für Motorfahrzeuge mit elektrischem Antrieb für den Warentransport",
+      "section": "43",
+      "title": "Art. 43 Grundsatz",
+      "content": "1) Die Pflicht zur Ermittlung der gefahrenen Kilometer und zur Anmeldung gilt auch für Motorfahrzeuge mit elektrischem Antrieb für den Warentransport (Art. 5 Abs. 1 Bst. i SVAG).\n2) Die gefahrenen Kilometer müssen automatisiert ermittelt werden. In Fällen nach Art. 20 erfolgt die Ermittlung manuell.\n2. Meldepflicht für von der Abgabe befreite ausländische Fahrzeuge"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "2. Meldepflicht für von der Abgabe befreite ausländische Fahrzeuge",
+      "section": "44",
+      "title": "Art. 44 Grundsatz",
+      "content": "Für ausländische Motorfahrzeuge mit elektrischem Antrieb für den Personentransport (Art. 5 Abs. 1 Bst. i SVAG) und für ausländische Motorfahrzeuge nach Art. 5 Abs. 1 Bst. b bis e, g bis i und n sowie Abs. 3 des Schwerverkehrsabgabegesetzes sind dem BAZG vor der Einfahrt die folgenden Daten zu übermitteln: a) Kontrollschild mit Landeszeichen;\nb) Datum der Einfahrt ins Zollgebiet und voraussichtliches Datum der Ausfahrt aus dem Zollgebiet.\nF. Veranlagung und Bezug der Abgabe\n1. Veranlagung der Abgabe"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "1. Veranlagung der Abgabe",
+      "section": "45",
+      "title": "Art. 45 Veranlagungsverfügung",
+      "content": "1) Das BAZG veranlagt die leistungsabhängige Abgabe auf der Grundlage der Anmeldung.\n2) Für ausländische Fahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters sowie für inländische Fahrzeuge fasst das BAZG die Veranlagungen pro Fahrzeug in einer monatlichen Verfügung zusammen.\n3) Die Veranlagungsverfügung wird der abgabepflichtigen Person eröffnet. Für ausländische Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines EETS-Anbieters wird die Veranlagungsverfügung dem Anbieter eröffnet.\n4) Die Eröffnung erfolgt elektronisch, sofern der Verfügungsadressat zuvor das Einverständnis gegeben hat."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "1. Veranlagung der Abgabe",
+      "section": "46",
+      "title": "Art. 46 Veranlagungsverfügung für ausländische Fahrzeuge mit manueller Ermittlung der gefahrenen Kilometer",
+      "content": "1) Bei ausländischen Fahrzeugen, bei denen die Anzahl Kilometer manuell ermittelt wird, sind für die Veranlagung der leistungsabhängigen Abgabe die folgenden Daten zum massgebenden Gewicht und zur Anzahl gefahrener Kilometer massgebend: a) das massgebende Gewicht nach Art. 38 Abs. 2 Bst. b oder Abs. 3 Bst. b, das höher ist;\nb) die Anzahl gefahrener Kilometer oder die aufgezeichneten Wegpunkte bei der Ausfahrt aus dem Zollgebiet (Art. 38 Abs. 3 Bst. c).\n2) Das BAZG stellt für Fahrzeuge nach Abs. 1 nach der Entrichtung der Abgabe eine Quittung aus. Diese dient als Zahlungsnachweis. Eine Veranlagungsverfügung wird eröffnet, wenn die abgabepflichtige Person dies innerhalb von 30 Tagen ab der Ausstellung der Quittung verlangt."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "1. Veranlagung der Abgabe",
+      "section": "47",
+      "title": "Art. 47 Grundlage für die Veranlagung bei lückenhafter Anmeldung",
+      "content": "1) Ist die Anmeldung lückenhaft, so ermittelt das BAZG die Anzahl gefahrener Kilometer automatisiert mittels stationärer und mobiler Kontrollanlagen sowie Routing-Methoden.\n2) Die Routing-Methoden berücksichtigen die kürzeste für den Schwerverkehr geeignete Strecke.\n3) Die kürzeste für den Schwerverkehr geeignete Strecke wird um einen von der Durchschnittsgeschwindigkeit des Fahrzeugs abhängigen Zuschlag erhöht. Der Zuschlag beträgt bei einer Durchschnittsgeschwindigkeit: a) von über 45 Kilometern pro Stunde: 0 %;\nb) von über 35 bis 45 Kilometern pro Stunde: 25 %;\nc) von über 25 bis 35 Kilometern pro Stunde: 50 %;\nd) von über 15 bis 25 Kilometern pro Stunde: 75 %;\ne) von unter 15 Kilometern pro Stunde: 100 %."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "1. Veranlagung der Abgabe",
+      "section": "48",
+      "title": "Art. 48 Grundlage für die Veranlagung bei nicht korrekter Anmeldung mitgeführter Anhänger",
+      "content": "Stellt das BAZG fest, dass ein mitgeführter Anhänger in der Anmeldung nicht korrekt erfasst wurde, so wird die Abgabe für die Fahrzeugkombination auf der Grundlage des höchstzulässigen Gesamtzugsgewichts veranlagt."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "1. Veranlagung der Abgabe",
+      "section": "49",
+      "title": "Art. 49 Grundlage für die Veranlagung bei fehlender Anmeldung",
+      "content": "1) Unterbleibt die Anmeldung oder hat das BAZG Kenntnis davon, dass ein der leistungsabhängigen Abgabe unterliegendes Fahrzeug im Zollgebiet verkehrte, für das keine Anmeldung vorliegt, so wird die Abgabe auf der Grundlage folgender Daten veranlagt: a) Anzahl gefahrener Kilometer: 1. wenn keine Durchfahrten bei Kontrollanlagen registriert sind: 300 Kilometer pro Tag,\n2. wenn Durchfahrten bei einer oder mehreren Kontrollanlagen registriert sind: nach Art. 47 ermittelte gefahrene Kilometer;\nb) massgebendes Gewicht: 1. bei Fahrzeugen, die keine Anhänger mitführen können: Gesamtgewicht,\n2. bei Fahrzeugen, die Anhänger mitführen können: Gesamtzugsgewicht.\n2) Hat das BAZG Anhaltspunkte, dass 300 Kilometer pro Tag zu wenig sind, so wird die Anzahl der gefahrenen Kilometer nach pflichtgemässem Ermessen festgelegt.\n2. Bezug der Abgabe"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "2. Bezug der Abgabe",
+      "section": "50",
+      "title": "Art. 50 Rechnungsstellung",
+      "content": "1) Das BAZG kann die leistungsabhängig erhobene Abgabe periodisch in Rechnung stellen. Die Rechnungsstellung erfolgt mindestens monatlich.\n2) Das BAZG stellt dem EETS-Anbieter die Summe aller Abgaben für die in seinem Dienst stehenden ausländischen Fahrzeuge in Rechnung. Die Rechnungsstellung erfolgt höchstens einmal wöchentlich.\n3) Die Zahlungsfrist beträgt 60 Tage nach Rechnungsstellung. Für EETS-Anbieter beträgt sie 30 Tage."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "2. Bezug der Abgabe",
+      "section": "51",
+      "title": "Art. 51 Sicherstellung",
+      "content": "1) Das BAZG kann zur Deckung von Abgaben, Zinsen und Kosten, auch solche, die weder rechtskräftig festgesetzt noch fällig sind, eine Sicherstellung verlangen, wenn: a) die Bezahlung als gefährdet erscheint;\nb) die abgabepflichtige Person mit der Zahlung der Abgabe und allfälliger Zinsen in Verzug ist.\n2) In der Sicherstellungsverfügung sind der Rechtsgrund der Sicherstellung, der sicherzustellende Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben.\n3) Die Beschwerde gegen Sicherstellungsverfügungen richtet sich nach Art. 23 des Schwerverkehrsabgabegesetzes. Sie hat keine aufschiebende Wirkung."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "2. Bezug der Abgabe",
+      "section": "52",
+      "title": "Art. 52 Vorauszahlungen und Sicherheiten bei Fahrzeugen mit manueller Ermittlung der gefahrenen Kilometer",
+      "content": "1) Bei Fahrzeugen, bei denen die gefahrenen Kilometer manuell ermittelt werden, kann das BAZG: a) Vorauszahlungen oder Sicherheiten verlangen;\nb) die Abgabe in Teilbeträgen erheben.\n2) Verlangt das BAZG Vorauszahlungen oder Sicherheiten, so erstattet es zu viel erhobene Beträge auf Ersuchen der abgabepflichtigen Person zurück."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "2. Bezug der Abgabe",
+      "section": "53",
+      "title": "Art. 53 Inkassorisiko bei EETS-Anbietern in Bezug auf ausländische Fahrzeuge",
+      "content": "Das Risiko, dass die abgabepflichtige Person die Abgabe nicht bezahlt, trägt bei ausländischen Fahrzeugen mit einem Erfassungssystem eines EETS-Anbieters der EETS-Anbieter.\nIV. NETS- und EETS-Anbieter"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "IV. NETS- und EETS-Anbieter",
+      "section": "54",
+      "title": "Art. 54 Gesuch um Zulassung",
+      "content": "1) Wer vom BAZG als NETS- oder EETS-Anbieter zugelassen werden will, muss beim BAZG ein Gesuch einreichen.\n2) Das Gesuch muss Dokumente enthalten, mit denen der Gesuchsteller: a) nachweist, dass er die formellen Voraussetzungen erfüllt;\nb) glaubhaft macht, dass er fähig ist: 1. die vom BAZG gestützt auf Art. 14a Abs. 4 des Schwerverkehrsabgabegesetzes festgelegten technischen und betrieblichen Vorgaben dauerhaft zu erfüllen, und\n2. ein fahrzeugseitiges Erfassungssystem zur Verfügung zu stellen, das die Anforderungen nach Art. 22 erfüllt.\nV. Pauschale Abgabeerhebung\nA. Inländische Fahrzeuge\n1. Allgemeines"
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "1. Allgemeines",
+      "section": "55",
+      "title": "Art. 55 Abgabeperiode",
+      "content": "Die Abgabeperiode für inländische Fahrzeuge, für die die Abgabe pauschal erhoben wird, beginnt am ersten Tag des Kalenderjahrs und endet am letzten Tag des Kalenderjahrs."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "1. Allgemeines",
+      "section": "56",
+      "title": "Art. 56 Entrichtung der Abgabe",
+      "content": "1) Die pauschal erhobene Abgabe ist vor Beginn der Abgabeperiode zu entrichten.\n2) Sie wird mit der amtlichen Zulassung des Fahrzeugs und anschliessend jeweils zu Jahresbeginn fällig.\n3) Zahlungsfrist und Zahlungsweise richten sich nach den Bestimmungen über die Erhebung der Motorfahrzeugsteuer."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "1. Allgemeines",
+      "section": "57",
+      "title": "Art. 57 Zuständigkeit für die Erhebung der Abgabe",
+      "content": "Die für inländische Fahrzeuge pauschal erhobene Schwerverkehrsabgabe wird vom Amt für Strassenverkehr erhoben."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "1. Allgemeines",
+      "section": "58",
+      "title": "Art. 58 Rückerstattung der Abgabe bei Ausserverkehrsetzung des Fahrzeugs",
+      "content": "1) Wird ein Fahrzeug während einer Abgabeperiode ausser Verkehr gesetzt, so wird dem Fahrzeughalter die Abgabe anteilsmässig zurückerstattet.\n2) Das Rückerstattungsverfahren richtet sich nach den Bestimmungen über die Erhebung der Motorfahrzeugsteuer.\n3) Beträge unter 50 Franken müssen nicht zurückerstattet werden."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Allgemeines",
+      "section": "59",
+      "title": "Art. 59 Rückerstattung für Auslandfahrten",
+      "content": "1) Für jeden Tag, an dem ein Fahrzeug nachweislich ausschliesslich im Ausland verkehrt, wird dem Fahrzeughalter auf Gesuch hin 1/360 der Jahresabgabe zurückerstattet. Für Tage, an denen das Fahrzeug sowohl im Ausland als auch im Zollgebiet verkehrt, besteht kein Anspruch auf Rückerstattung.\n2) Rückerstattungsgesuche sind innerhalb eines Jahres nach Ablauf der Abgabeperiode dem BAZG einzureichen. Dieses kann Beweismittel verlangen.\n3) Beträge unter 50 Franken je Gesuch werden nicht zurückerstattet.\n2. Anmeldung für Fahrzeuge des Linienverkehrs"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "2. Anmeldung für Fahrzeuge des Linienverkehrs",
+      "section": "60",
+      "title": "Art. 60 Grundsatz",
+      "content": "1) Für Fahrzeuge des Linienverkehrs ist eine Anmeldung einzureichen.\n2) Sie ist für jedes Fahrzeug einzureichen."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "2. Anmeldung für Fahrzeuge des Linienverkehrs",
+      "section": "61",
+      "title": "Art. 61 Inhalt der Anmeldung",
+      "content": "Die Anmeldung muss folgende Angaben enthalten: a) Fahrgestellnummer;\nb) Zeitraum der Inverkehrsetzung;\nc) Kilometerstand bei der Inverkehrsetzung oder am Jahresanfang;\nd) Kilometerstand bei der Ausserverkehrsetzung oder am Jahresende;\ne) innerhalb und ausserhalb des Linienverkehrs gefahrene Kilometer."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "2. Anmeldung für Fahrzeuge des Linienverkehrs",
+      "section": "62",
+      "title": "Art. 62 Frist für die Einreichung der Anmeldung",
+      "content": "1) Die Anmeldung muss bis zum Ende des zweiten Quartals des auf die Abgabeperiode folgenden Jahres erfolgen.\n2) Reicht der Fahrzeughalter ein Gesuch um Rückerstattung der Mineralölsteuer nach Art. 18 Abs. 1 des schweizerischen Mineralölsteuergesetzes fristgerecht ein, so gilt dieses Gesuch als Anmeldung.\n3) Bleibt die Anmeldung aus, so erhebt das BAZG in Zusammenarbeit mit dem Amt für Strassenverkehr die Abgabe in der Höhe nach Art. 3 für die ganze Periode.\nB. Ausländische Fahrzeuge"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "B. Ausländische Fahrzeuge",
+      "section": "63",
+      "title": "Art. 63 Entrichtung der Abgabe",
+      "content": "1) Für ausländische Fahrzeuge, für die die Abgabe pauschal erhoben wird, ist diese vor Beginn der Abgabepflicht zu entrichten.\n2) Die abgabepflichtige Person hat bei der Entrichtung der Abgabe das Datum der Einfahrt und das voraussichtliche Datum der Ausfahrt aus dem Zollgebiet anzugeben.\n3) Das BAZG stellt nach der Entrichtung der Abgabe eine Quittung aus. Diese dient als Zahlungsnachweis. Eine Veranlagungsverfügung wird eröffnet, wenn die abgabepflichtige Person dies innerhalb von 30 Tagen ab der Ausstellung der Quittung verlangt."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "B. Ausländische Fahrzeuge",
+      "section": "64",
+      "title": "Art. 64 Höhe der Abgabe bei einer Abgabepflicht von weniger als einem Jahr",
+      "content": "1) Dauert die Abgabepflicht weniger als ein Jahr, so wird die Abgabe anteilmässig berechnet. Sie beträgt in Prozenten der Ansätze nach Art. 3: a) wenn sich das Fahrzeug während eines Monats oder mehrerer aufeinanderfolgender Monate im Zollgebiet befindet: 9 % pro vollständigem Monat und 0,5 % pro Tag für nicht vollständig im Zollgebiet verbrachte Monate;\nb) wenn sich das Fahrzeug weniger als einen Monat im Zollgebiet befindet: 0,5 % pro Tag, mindestens aber 25 Franken je Fahrzeug.\n2) Die pro Tag berechnete Abgabe beträgt je Fahrzeug nicht mehr als der monatliche Abgabesatz für die betreffende Fahrzeugkategorie.\n3) Wird der Zahlungsnachweis vor Ablauf des letzten Tages, für den die Abgabe bezahlt worden ist, dem BAZG zurückgegeben, so besteht Anspruch auf eine anteilmässige Rückerstattung der Abgabe.\n4) Beträge unter 50 Franken werden nicht zurückerstattet."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "B. Ausländische Fahrzeuge",
+      "section": "65",
+      "title": "Art. 65 Informationssystem",
+      "content": "Die Angaben nach Art. 63 Abs. 2 sind über das vom BAZG zur Verfügung gestellte Informationssystem zu machen.\nVI. Akzeptierte Zahlungsmittel"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "VI. Akzeptierte Zahlungsmittel",
+      "section": "66",
+      "title": "Art. 66 Grundsatz",
+      "content": "1) Das BAZG kann für die Bezahlung der Abgabe sowie für die Leistung von Sicherheiten oder Vorauszahlungen insbesondere Kredit-, Debit- und Tankkarten akzeptieren.\n2) Tankkarten akzeptiert das BAZG nur von zugelassenen Tankkarten-Anbietern. Ein Tankkarten-Anbieter wird auf Gesuch hin zugelassen, wenn er: a) in einem Mitgliedstaat des Europäischen Wirtschaftsraums, im Vereinigten Königreich Grossbritannien und Nordirland oder in der Schweiz niedergelassen ist;\nb) nachweist, dass er die technischen und betrieblichen Vorgaben erfüllt; und\nc) die geforderte Sicherheit zur Sicherstellung der Abgabe leistet.\n3) Die Anbieter von Kredit-, Debit- und Tankkarten erhalten ein Entgelt.\n4) Das EFD legt die technischen und betrieblichen Vorgaben, die Höhe des Entgelts und die Zahlungsfristen für Tankkarten-Anbieter fest und regelt das Zulassungsverfahren.\nVII. Kontrollen"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "VII. Kontrollen",
+      "section": "67",
+      "title": "Art. 67 Grundsatz",
+      "content": "1) Die abgabepflichtigen Personen und Personen, die für die Veranlagung der Abgabe wesentliche Unterlagen besitzen oder ausstellen oder die sonst wie am Vollzug mitwirken, müssen dem BAZG auf Verlangen alle Auskünfte erteilen und alle Belege vorlegen, die für den Vollzug der Abgabeerhebung von Bedeutung sind.\n2) Das BAZG kann Kontrollen am Domizil der abgabepflichtigen Person durchführen: a) zur Überprüfung der Mitwirkungspflichten der abgabepflichtigen Person;\nb) zur Überprüfung der im Rückerstattungsverfahren gemachten Angaben.\n3) Sofern die Umstände es erlauben, sind die Kontrollen am Domizil während der Geschäftszeiten durchzuführen."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "VII. Kontrollen",
+      "section": "68",
+      "title": "Art. 68 Befugnisse der Mitarbeiter des BAZG",
+      "content": "1) Die vom BAZG für die Kontrollen nach Art. 37a des Schwerverkehrsabgabegesetzes eingesetzten Mitarbeiter können zur Überprüfung der Mitwirkungspflichten Fahrzeuge anhalten und betreten.\n2) Bei Verdacht auf eine Widerhandlung nach Art. 43 oder 43a des Schwerverkehrsabgabegesetzes können sie zur Feststellung der Identität des Fahrzeugführers Ausweispapiere verlangen."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "VII. Kontrollen",
+      "section": "69",
+      "title": "Art. 69 Stationäre und mobile Kontrollanlagen",
+      "content": "1) Das BAZG betreibt für die Kontrollen nach Art. 37a des Schwerverkehrsabgabegesetzes stationäre und mobile Anlagen.\n2) Mit den stationären und mobilen Anlagen können folgende Daten erfasst werden: a) Kontrollschilder;\nb) Front-, Heck- und Übersichtsbilder der Fahrzeuge und Fahrzeugkombinationen;\nc) Fahrzeugart;\nd) Fahrtrichtung;\ne) Ort und Zeitpunkt der Durchfahrt;\nf) Ort der Ein- und der Ausfahrt ins oder aus dem Zollgebiet.\n3) Die von den Anlagen erfassten Daten werden dem BAZG übermittelt und danach in der Anlage gelöscht.\n4) Das BAZG kann Dritte mit dem Bau und dem Betrieb der stationären und mobilen Anlagen beauftragen.\n5) Die Mitarbeiter des beauftragten Dritten, welche die mobilen Anlagen bedienen, dürfen zur Überprüfung der Richtigkeit der erfassten Daten die von ihnen selbst erfassten Daten vor Ort einsehen. Stellen sie fest, dass Daten falsch erfasst wurden, so dürfen sie diese korrigieren.\n6) Die dem BAZG übermittelten Daten können abgeglichen werden mit: a) den Daten der für die Schwerverkehrsabgabe registrierten Fahrzeuge;\nb) den Daten der für die Nationalstrassenabgabe registrierten Fahrzeuge;\nc) den im Informationssystem Verkehrszulassung (IVZ) registrierten Daten der von der Abgabe befreiten oder der pauschal erhobenen Abgabe unterliegenden Fahrzeuge;\nd) den im IVZ registrierten Daten der nicht der Abgabe unterliegenden Fahrzeuge."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "VII. Kontrollen",
+      "section": "70",
+      "title": "Art. 70 Mitwirkungspflichten bei Verwendung der Daten des Fahrtschreibers",
+      "content": "Die Fahrzeughalter müssen dem BAZG die vom Fahrtschreiber aufgezeichneten Daten auf Verlangen übermitteln.\nVIII. Registrierung und elektronisches Verfahren"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "VIII. Registrierung und elektronisches Verfahren",
+      "section": "71",
+      "title": "Art. 71 Registrierung",
+      "content": "1) Folgende Personen müssen sich beim BAZG registrieren: a) Halter von inländischen Motorfahrzeugen, die der leistungsabhängigen Abgabe unterliegen, und von Motorfahrzeugen mit elektrischem Antrieb für den Warentransport;\nb) Halter von ausländischen Motorfahrzeugen, die den Dienst eines NETS-Anbieters nutzen, einschliesslich von Motorfahrzeugen mit elektrischem Antrieb für den Warentransport;\nc) Fahrzeughalter, die sich verpflichten, Fahrzeuge ausschliesslich für Transporte von Rohholz, offener Milch und landwirtschaftlichen Nutztieren zu nutzen;\nd) solidarisch haftende Personen, die Anfragen nach Art. 7a des Schwerverkehrsabgabegesetzes stellen;\ne) Halter von Ersatzfahrzeugen und Personen, die solche zur Verfügung stellen;\nf) Halter von Fahrzeugen des Linienverkehrs zur Abrechnung der ausserhalb des Linienverkehrs gefahrenen Kilometer;\ng) Personen, die regelmässig Gesuche nach Art. 5 Abs. 3 des Schwerverkehrsabgabegesetzes um Befreiung von der Abgabe stellen;\nh) rückerstattungsberechtigte Personen;\ni) NETS- und EETS-Anbieter;\nk) Tankkartenanbieter.\n2) Registriert sich eine Person nach Abs. 1 Bst. a, b oder f nicht, so kann das BAZG für den dadurch entstandenen Mehraufwand eine Gebühr erheben.\n3) Andere Personen als jene nach Abs. 1 können sich registrieren."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "VIII. Registrierung und elektronisches Verfahren",
+      "section": "72",
+      "title": "Art. 72 Elektronisches Verfahren",
+      "content": "1) Sieht das BAZG nach Massgabe der Zollgesetzgebung vor, dass ein Verfahren elektronisch geführt wird, so wird es über das Portal geführt, das für elektronische Verfahren im Zusammenhang mit der Schwerverkehrsabgabe vorgesehen ist.\n2) Es obliegt der betroffenen Person, bei einem laufenden elektronisch geführten Verfahren regelmässig im Portal zu prüfen, ob neue Dokumente zum Abruf bereitstehen."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "VIII. Registrierung und elektronisches Verfahren",
+      "section": "73",
+      "title": "Art. 73 Elektronische Eröffnung von Verfügungen",
+      "content": "1) Sieht das BAZG nach Massgabe der Zollgesetzgebung vor, dass ein Verfahren elektronisch geführt wird, so können Verfügungen mit dem Einverständnis der betroffenen Person über das Portal nach Art. 72 eröffnet werden.\n2) Über das Portal eröffnete Verfügungen gelten im Zeitpunkt des erstmaligen Abrufs als eröffnet, spätestens jedoch am siebten Tag, nachdem die Verfügung im Portal abrufbar ist.\nIX. Vollzug\nA. Durchführung"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "A. Durchführung",
+      "section": "74",
+      "title": "Art. 74 Zurverfügungstellung der erforderlichen Fahrzeug- und Halterdaten",
+      "content": "Das Amt für Strassenverkehr stellt dem BAZG die für die Erhebung der Abgabe erforderlichen Fahrzeug- und Halterdaten zur Verfügung."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "A. Durchführung",
+      "section": "75",
+      "title": "Art. 75 Erlass von Weisungen",
+      "content": "Die vom BAZG für den Vollzug erlassenen Weisungen sind auch für Liechtenstein verbindlich."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "A. Durchführung",
+      "section": "76",
+      "title": "Art. 76 Abrechnung über die pauschal erhobene Abgabe",
+      "content": "1) Das Amt für Strassenverkehr rechnet über die pauschal erhobene Abgabe periodisch mit dem BAZG nach dessen Weisungen ab. Am Ende des Rechnungsjahres erstellt es einen definitiven Abschluss.\n2) Das Rechnungsjahr ist das Kalenderjahr.\nB. Entschädigung für den Vollzugsaufwand"
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "B. Entschädigung für den Vollzugsaufwand",
+      "section": "77",
+      "title": "Art. 77 Entschädigung des Amts für Strassenverkehr",
+      "content": "1) Das Amt für Strassenverkehr wird für seinen Aufwand beim Vollzug des Schwerverkehrsabgabegesetzes und dieser Verordnung mit einer jährlichen Pauschale entschädigt.\n2) Die Pauschale bemisst sich nach der Anzahl der im Zusammenhang mit der Schwerverkehrsabgabegesetzgebung zu bewirtschaftenden Fahrzeuge, die in Liechtenstein immatrikuliert sind.\n3) Berechnungsgrundlage ist die Anzahl der am 30. September des Jahres, für das die Entschädigung entrichtet wird, in Verkehr stehenden Fahrzeuge gemäss Informatiksystem LSVA beim BAZG.\n4) Das BAZG meldet dem Amt für Strassenverkehr den Fahrzeugbestand jeweils bis zum 15. Oktober."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "B. Entschädigung für den Vollzugsaufwand",
+      "section": "78",
+      "title": "Art. 78 Verrechnung",
+      "content": "1) Die Entschädigung beträgt für die ersten 2 000 Fahrzeuge 24 Franken, für alle weiteren 12 Franken je Fahrzeug.\n2) Das Amt für Strassenverkehr verrechnet die voraussichtliche Entschädigung mit den Einnahmen aus der pauschalen Schwerverkehrsabgabe.\n3) Die definitive Entschädigung ist im jährlichen Rechnungsabschluss mit dem BAZG zu berücksichtigen.\nX. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "79",
+      "title": "Art. 79 Geräte zur Ermittlung der Fahrleistung",
+      "content": "1) Erfassungsgeräte zur Ermittlung der Fahrleistung, die das BAZG gestützt auf die bisherige Schwerverkehrsabgabeverordnung abgibt, dürfen noch bis zum Einsatz eines fahrzeugseitigen Erfassungssystems eines NETS- oder EETS-Anbieters, längstens jedoch bis zum 31. Dezember 2025, für die Ermittlung der gefahrenen Kilometer verwendet werden. Danach müssen sie dem BAZG auf Verlangen zurückgegeben werden.\n2) Solange ein Erfassungsgerät nach der bisherigen Schwerverkehrsabgabeverordnung verwendet wird, gilt das bisherige Recht."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "80",
+      "title": "Art. 80 Ermittlung der Kilometer ohne Erfassungsgerät bei ausländischen Motorfahrzeugen",
+      "content": "Halter ausländischer Motorfahrzeuge, bei denen die für die Erhebung der Abgabe erforderlichen Daten ohne Erfassungsgerät erfasst werden (Art. 17a Abs. 1 Bst. c der bisherigen Schwerverkehrsabgabeverordnung), können bis zur Ausserbetriebnahme der Infrastruktur für die Erfassung ohne Gerät, längstens jedoch bis zum 31. Dezember 2025, die Anzahl Kilometer ohne Erfassungsgerät nach bisherigem Recht ermitteln."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "81",
+      "title": "Art. 81 Transport von Rohholz, offener Milch oder landwirtschaftlichen Nutztieren",
+      "content": "Vor Inkrafttreten dieser Verordnung eingereichte Erklärungen, mit denen sich Halter verpflichten, Fahrzeuge ausschliesslich für Transporte von Rohholz, offener Milch oder landwirtschaftlichen Nutztieren zu verwenden, sind bis zur Ausrüstung der Fahrzeuge mit einem fahrzeugseitigen Erfassungssystem, längstens jedoch bis zum 31. Dezember 2025, gültig."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "82",
+      "title": "Art. 82 Bewilligungen für Ausnahme vom Erfassungsgeräteobligatorium",
+      "content": "Bewilligungen, mit denen das BAZG vor Inkrafttreten dieser Verordnung, gestützt auf Art. 8 Abs. 2 der bisherigen Schwerverkehrsabgabeverordnung, Motorfahrzeuge vom Erfassungsgeräteobligatorium ausgenommen hat, sind längstens bis zum 31. Dezember 2025 gültig."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "83",
+      "title": "Art. 83 Bewilligungen für Befreiung von der Pflicht zur Entrichtung der Abgabe",
+      "content": "Bewilligungen, mit denen die Regierung vor Inkrafttreten dieser Verordnung Fahrzeuge von der Abgabepflicht ausgenommen hat (Art. 5 Abs. 3 SVAG), sind längstens gültig bis zum: a) 31. Dezember 2025 für die leistungsabhängig erhobene Abgabe;\nb) 31. Dezember 2026 für die pauschal erhobene Abgabe."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "84",
+      "title": "Art. 84 Rückerstattung der Abgabe für Fahrten im Vor- und Nachlauf des UKV",
+      "content": "Für Motorfahrzeuge, die mit einem vom BAZG gestützt auf die bisherige Schwerverkehrsabgabeverordnung abgegebenen Erfassungsgerät ausgerüstet sind und mit denen Fahrten im Vor- und Nachlauf des UKV ausgeführt werden, richtet sich das Rückerstattungsverfahren nach neuem Recht, sofern die gesuchstellende Person Halter von mindestens einem Motorfahrzeug ist, das mit einem fahrzeugseitigen Erfassungssystem nach neuem Recht ausgerüstet ist."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "85",
+      "title": "Art. 85 Rückerstattung der für zehn frei wählbare Tage pauschal erhobenen Abgabe",
+      "content": "Vor Inkrafttreten dieser Verordnung ausgestellte Zahlungsnachweise, wonach die pauschal erhobene Abgabe für zehn frei wählbare Tage innerhalb eines Jahres entrichtet worden ist (Art. 26 Abs. 1 Bst. b der bisherigen Schwerverkehrsabgabeverordnung) sind längstens bis zum 31. Dezember 2024 gültig. Das BAZG erstattet nicht entwertete Resttage auf Gesuch hin gebührenfrei zurück."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "86",
+      "title": "Art. 86 Datenverarbeitung",
+      "content": "Für Daten, die vor Inkrafttreten dieser Verordnung erfasst wurden und für die nach bisherigem Recht andere Aufbewahrungsfristen als nach neuem Recht gelten, gelten die Aufbewahrungsfristen nach neuem Recht."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "87",
+      "title": "Art. 87 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 5. Dezember 2000 über eine leistungsabhängige Schwerverkehrsabgabe (Schwerverkehrsabgabeverordnung, SVAV), LGBl. 2000 Nr. 275, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "88",
+      "title": "Art. 88 Inkrafttreten",
+      "content": "1) Diese Verordnung tritt unter Vorbehalt von Abs. 2 am 1. Januar 2025 in Kraft.\n2) Kapitel III Abschnitt E tritt am 1. Oktober 2025 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nAnhang\n(Art. 7 Abs. 2)\nAbgabekategorien\n1 Schwere Motorwagen\n1.1 Abgabekategorie 1\n- EURO I / EURO 1, EURO 0 oder vorher\n- EURO II / EURO 2 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 88/77/EWG in der Fassung der Richtlinie 91/542/EWG Grenzwerte Zeile B oder in der Fassung der Richtlinie 96/1/EG\n- Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG\n- UNECE-Reglement Nr. 49 Änderung 02 Grenzwerte Zeile B\n- UNECE-Reglement Nr. 83 Änderung 04\n- EURO III / EURO 3 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile A oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile A (inkl. Gasmotoren)\n- Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile A\n- UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile A oder Änderung 04 Grenzwerte Zeile A (inkl. Gasmotoren)\n- UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile A\n- EURO IV / EURO 4 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B1 (inkl. Gasmotoren)\n- Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile B\n- Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B1\n- UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B1 oder Änderung 04 Grenzwerte Zeile B1 (inkl. Gasmotoren) oder Änderung 05 Grenzwerte Zeile B1\n- UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile B\n- EURO V / EURO 5 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B2 und folgende (inkl. Gasmotoren)\n- Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B2 und folgende\n- Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 1\n- UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B2 und folgende oder Änderung 04 Grenzwerte Zeile B2 (inkl. Gasmotoren) oder Änderung 05 Grenzwerte Zeile B2 und folgende (inkl. Gasmotoren)\n- UNECE-Reglement Nr. 83 Änderung 06\n1.2 Abgabekategorie 2\n-\n1.3 Abgabekategorie 3\n- EURO VI / EURO 6 oder später Die folgenden Abgasvorschriften sind massgebend: - Verordnung (EG) Nr. 595/2009 in der Fassung der Verordnung (EU) Nr. 582/2011\n- Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 2\n- UNECE-Reglement Nr. 49 Änderung 06\n- UNECE-Reglement Nr. 83 Änderung 07\n2 Leichte Motorwagen\n2.1 Abgabekategorie 1\n- EURO I / EURO 1, EURO 0 oder vorher\n- EURO II / EURO 2 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG\n- Richtlinie 88/77/EWG in der Fassung der Richtlinie 91/542/EWG Grenzwerte Zeile B oder in der Fassung der Richtlinie 96/1/EG\n- UNECE-Reglement Nr. 83 Änderung 04\n- UNECE-Reglement Nr. 49 Änderung 02 Grenzwerte Zeile B\n- EURO III / EURO 3 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile A\n- Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile A oder in der Fassung der Richtlinie 2001/27/EG Zeile A\n- UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile A oder Änderung 04 Grenzwerte Zeile A\n- UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile A\n- EURO IV / EURO 4 Die folgenden Abgasvorschriften sind massgebend: - Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile B\n- Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B1\n- Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B1\n- UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile B\n- UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B1 oder Änderung 04 Grenzwerte Zeile B1 oder Änderung 05 Grenzwerte Zeile B1\n- EURO V / EURO 5 Die folgenden Abgasvorschriften sind massgebend: - Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 1\n- Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B2 und folgende\n- Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B2 und folgende\n- UNECE-Reglement Nr. 83 Änderung 06\n- UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B2 und folgende oder Änderung 04 Grenzwerte Zeile B2 und folgende oder Änderung 05 Grenzwerte Zeile B2 und folgende\n2.2 Abgabekategorie 2\n-\n2.3 Abgabekategorie 3\n- EURO VI / EURO 6 oder später Die folgenden Abgasvorschriften sind massgebend: - Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 2\n- Verordnung (EG) Nr. 595/2009 in der Fassung der Verordnung (EU) Nr. 582/2011\n- UNECE-Reglement Nr. 83 Änderung 07\n- UNECE-Reglement Nr. 49 Änderung 06"
+    }
+  ],
+  "definitions": []
+}

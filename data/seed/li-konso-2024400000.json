@@ -1,0 +1,45 @@
+{
+  "id": "li-konso-2024400000",
+  "type": "statute",
+  "title": "Verordnung vom 12. November 2024 über die Anpassung der Leistungen der Alters-, Hinterlassenen- und Invalidenversicherung an die Lohn- und Preisentwicklung",
+  "title_en": "",
+  "short_name": "LGBl 2024.400",
+  "status": "in_force",
+  "issued_date": "2024-11-12",
+  "in_force_date": "2024-11-12",
+  "url": "https://www.gesetze.li/konso/2024400000",
+  "description": "Verordnung vom 12. November 2024 über die Anpassung der Leistungen der Alters-, Hinterlassenen- und Invalidenversicherung an die Lohn- und Preisentwicklung",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Renten",
+      "content": "1) Der Mindestbetrag der vollen Altersrente nach Art. 68 des Gesetzes über die Alters- und Hinterlassenenversicherung wird auf 1 225 Franken festgesetzt.\n2) Die laufenden Voll- und Teilrenten werden angepasst, indem das bisher massgebende durchschnittliche Jahreseinkommen um (1 225 - 1 190) / 1 190 = 2.9 % (gerundet) erhöht wird. Zur Anwendung gelangen die ab 1. Januar 2025 gültigen Rententabellen.\n3) Die neuen Voll- und Teilrenten dürfen nicht niedriger sein als die bisherigen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Indexstand",
+      "content": "Die nach Art. 1 angepassten Renten entsprechen einem Rentenindex von 229.1 Punkten. Dieser stellt nach Art. 77 Abs. 2 des Gesetzes über die Alters- und Hinterlassenenversicherung den Mittelwert dar aus:\na) 203.7 Punkten für die Preisentwicklung, entsprechend einem Stand des Landesindexes der Konsumentenpreise von 212.1 Punkten (September 1 977 = 100);\nb) 254.5 Punkten für die Lohnentwicklung, entsprechend einem Stand des Nominallohnindexes von 2 555 Punkten (Juni 1 939 = 100)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Andere Leistungen",
+      "content": "Neben den Renten der Alters- und Hinterlassenenversicherung werden auch die Ansätze in den übrigen Gesetzen und Verordnungen, die in ihrer Höhe vom Mindestbetrag der vollen Altersrente nach dem Gesetz über die Alters- und Hinterlassenenversicherung abhängen, entsprechend erhöht."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 13. Dezember 2022 über die Anpassung der Leistungen der Alters-, Hinterlassenen- und Invalidenversicherung an die Lohn- und Preisentwicklung, LGBl. 2022 Nr. 401, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2025 in Kraft.\nFürstliche Regierung:\ngez. Sabine Monauni\nRegierungschef-Stellvertreterin"
+    }
+  ],
+  "definitions": []
+}

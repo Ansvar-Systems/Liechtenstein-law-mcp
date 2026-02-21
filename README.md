@@ -23,7 +23,12 @@ npx @ansvar/liechtenstein-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official consolidated law texts from Lilex (`https://www.gesetze.li/konso`), ingested from
+the Gebietssystematik corpus and parsed into provision-level JSON seeds.
+
+- Seed files: `data/seed/*.json`
+- Full-corpus discovery script: `npm run ingest:discover`
+- Full-corpus ingestion script: `npm run ingest:full`
 
 ## License
 

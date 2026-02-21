@@ -1,0 +1,177 @@
+{
+  "id": "li-konso-2009197000",
+  "type": "statute",
+  "title": "Statistikverordnung (StatV) vom 7. Juli 2009",
+  "title_en": "",
+  "short_name": "LGBl 2009.197",
+  "status": "in_force",
+  "issued_date": "2009-07-07",
+  "in_force_date": "2009-07-07",
+  "url": "https://www.gesetze.li/konso/2009197000",
+  "description": "Statistikverordnung (StatV) vom 7. Juli 2009",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt:\na) die Harmonisierung der Einwohnerregister der Gemeinden im Hinblick auf ihre statistische Nutzung;\nb) die Führung von Registern durch das Amt für Statistik;\nc) die statistischen Veröffentlichungen, die vom Amt für Statistik zu erstellen sind."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen; Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung bedeuten:\na) \"Identifikator\": eine unveränderliche Nummer, die als funktionales Element in einem Datenbestand die eindeutige Identifikation einer Person oder Sache erlaubt;\nb) \"Merkmal\": eine Eigenschaft einer Person oder Sache, die objektiv erfasst und beschrieben werden kann, oder ein Identifikator;\nc) \"Unternehmen\": eine organisatorische Einheit zur Erzeugung von Waren und Dienstleistungen, die in Bezug auf die Verwendung der ihr zufliessenden Mittel über eine gewisse Entscheidungsfreiheit verfügt und eine oder mehrere wirtschaftliche Tätigkeiten in einer oder mehreren Arbeitsstätten ausübt. Dazu gehören auch private Haushalte mit Angestellten;\nd) \"Unternehmensgruppe\": eine Gruppe von Unternehmen, die rechtlich-finanzielle Beziehungen untereinander haben;\ne) \"Arbeitsstätte\": ein an einem räumlich festgestellten Ort gelegenes Unternehmen oder ein Teil eines Unternehmens (Werkstätte, Werk, Verkaufsladen, Büro, Lagerhaus), in dem eine bestimmte wirtschaftliche Tätigkeit ausgeübt wird und mindestens eine Person beschäftigt ist;\nf) \"Personenmerkmale\": Versichertennummer der Alters- und Hinterlassenenversicherung (AHV) oder persönliche Identifikationsnummer, amtlicher Name und alle Vornamen, Geschlecht, Zivilstand, Geburts- und Todesdatum, Geburtsort, Bürgerort, Staatsbürgerschaft und Art der ausländerrechtlichen Bewilligung;\ng) Aufgehoben\nh) \"Gebäude\": auf Dauer angelegte, mit dem Boden fest verbundene Bauten, die Wohnzwecken oder Zwecken der Arbeit, der Ausbildung, der Kultur oder des Sportes dienen. Bei Doppel-, Gruppen- oder Reihenhäusern zählt jedes Gebäude als selbständig, wenn es einen eigenen Zugang von aussen hat und zwischen den Gebäuden eine senkrechte, vom Erdgeschoss bis zum Dach reichende Trennmauer besteht.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Harmonisierung der Einwohnerregister der Gemeinden"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Harmonisierung der Einwohnerregister der Gemeinden",
+      "section": "3",
+      "title": "Art. 3 Mindestinhalt der Einwohnerregister",
+      "content": "Die Gemeinden führen in ihren Einwohnerregistern zu allen Personen, die dort ihren Wohnsitz haben, folgende Merkmale:\na) Versichertennummer der Alters- und Hinterlassenenversicherung (AHV) oder persönliche Identifikationsnummer;\nb) Gebäude- und Wohnungsidentifikator des Gebäude- und Wohnungsregisters;\nc) Aufgehoben\nd) amtlicher Name und alle Vornamen in der richtigen Reihenfolge;\ne) Wohnadresse (Strasse, Hausnummer, Postleitzahl, Ort);\nf) Geburtsdatum und Staatsbürgerschaft;\ng) bei Zuzug: Datum und Herkunftsgemeinde oder Herkunftsstaat;\nh) bei Wegzug: Datum und Zielgemeinde oder Zielstaat;\ni) bei Umzug in der Gemeinde: Datum."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Harmonisierung der Einwohnerregister der Gemeinden",
+      "section": "4",
+      "title": "Art. 4 Meldepflichten; Überprüfung von Daten",
+      "content": "1) Die Gemeinden melden dem Amt für Statistik laufend alle Zu-, Weg- und Umzüge von Einwohnern mit den Daten nach Art. 3.\n2) Das Amt für Statistik nimmt jährlich einen Abgleich mit den Daten der Einwohnerregister der Gemeinden vor, um die bevölkerungsstatistischen Daten hinsichtlich ihrer Vollständigkeit und Richtigkeit zu prüfen. Zu diesem Zweck haben die Gemeinden dem Amt für Statistik jährlich bis zum 31. Januar einen Auszug aus ihrem Einwohnerregister in elektronischer Form zur Verfügung zu stellen, der die Daten nach Art. 3 Bst. a bis f zum Stichtag 31. Dezember enthält.\nIII. Register des Amtes für Statistik\nA. Liechtensteinisches Unternehmensregister"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Liechtensteinisches Unternehmensregister",
+      "section": "5",
+      "title": "Art. 5 Führung und Zweck",
+      "content": "1) Das Liechtensteinische Unternehmensregister (LUR) wird im Rahmen des elektronischen Zentralen Personenregisters (ZPR) durch das Amt für Statistik und andere zuständige öffentliche Stellen geführt.\n2) Das LUR dient statistischen und verwaltungstechnischen Zwecken."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Liechtensteinisches Unternehmensregister",
+      "section": "6",
+      "title": "Art. 6 Inhalt",
+      "content": "1) Das LUR umfasst Unternehmen, die:\na) in Liechtenstein mindestens eine Arbeitsstätte führen;\nb) in Liechtenstein wohnhafte Personen beschäftigen.\n2) Das LUR beinhaltet die entsprechenden Attribute nach Art. 5 Abs. 4 ZPRV."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Liechtensteinisches Unternehmensregister",
+      "section": "7",
+      "title": "Art. 7 Datenzugriff",
+      "content": "Zugriffe auf Daten des LUR erfolgen nach Art. 14 ZPRG durch Benutzer, die die hierfür notwendige Berechtigung besitzen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Liechtensteinisches Unternehmensregister",
+      "section": "8",
+      "title": "Art. 8 Bekanntgabe von Daten an Private",
+      "content": "1) Das Amt für Statistik kann Privaten Daten von folgenden Merkmalen von Unternehmen und Arbeitsstätten bekannt geben, sofern dies einem öffentlichen Interesse dient:\na) Name und Adresse;\nb) Identifikatoren;\nc) Grössenklasse des Unternehmens nach Beschäftigten und Vollzeitäquivalenten;\nd) Art der wirtschaftlichen Tätigkeit;\ne) Unternehmensstruktur;\nf) Rechtsform.\n2) Die Weitergabe von Daten für andere als in Abs. 1 genannte Zwecke ist untersagt.\nA . Statistisches Unternehmensregister"
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "A . Statistisches Unternehmensregister",
+      "section": "8a",
+      "title": "Art. 8a Grundsatz",
+      "content": "1) Das Amt für Statistik erstellt nach Massgabe und für die Zwecke der Verordnung (EG) Nr. 177/2008 aus Daten des LUR, anderen Daten des ZPR sowie aus weiteren Datenquellen ein statistisches Unternehmensregister.\n2) Neben den Zwecken nach Abs. 1 dient das statistische Unternehmensregister der Erstellung statistischer Veröffentlichungen nach Art. 14.\n3) Die Daten des statistischen Unternehmensregisters werden mindestens einmal jährlich aktualisiert und dienen ausschliesslich statistischen Zwecken.\nB. Gebäude- und Wohnungsregister"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Gebäude- und Wohnungsregister",
+      "section": "9",
+      "title": "Art. 9 Führung und Zweck",
+      "content": "1) Das Amt für Statistik führt ein Gebäude- und Wohnungsregister (GWR) in Zusammenarbeit mit den Gemeinden, dem Amt für Hochbau und Raumplanung sowie dem Amt für Tiefbau und Geoinformation.\n2) Das GWR dient Zwecken der Statistik und Planung sowie dem Vollzug gesetzlicher Aufgaben."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Gebäude- und Wohnungsregister",
+      "section": "10",
+      "title": "Art. 10 Inhalt",
+      "content": "1) Im GWR werden alle bewohnten und bewohnbaren Gebäude mit den dazugehörigen Wohnungen geführt. Das GWR kann bei Bedarf auch nicht Wohnzwecken dienende Gebäude sowie projektierte Bauwerke enthalten.\n2) Im GWR werden folgende Gebäudemerkmale geführt:\na) Gebäudeidentifikator;\nb) Gemeindename;\nc) Parzellennummer;\nd) Adresse des Gebäudes einschliesslich Postleitzahl und Ort;\ne) Name des Gebäudes, soweit vorhanden;\nf) Gebäudekoordinaten;\ng) Gebäudestatus, Gebäudekategorie und Gebäudeklasse;\nh) Baujahr oder Bauperiode;\ni) Jahr oder Periode des letzten Umbaus;\nk) Abbruchjahr;\nl) Gebäudefläche;\nm) Anzahl Geschosse und Anzahl separate Wohnräume;\nn) Heizungsart und Energieträger der Heizung;\no) Energieträger für Warmwasser;\np) Haustechnikanlagen;\nq) Angaben für die Baustatistik.\n3) Im GWR werden folgende Wohnungsmerkmale geführt:\na) Gebäude- und Wohnungsidentifikator;\nb) Stockwerk;\nc) Wohnungsstatus;\nd) Baujahr der Wohnung;\ne) Abbruchjahr der Wohnung;\nf) Anzahl Zimmer;\ng) Wohnungsfläche;\nh) Kocheinrichtung;\ni) Nutzungsart der Wohnung, soweit vorhanden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Gebäude- und Wohnungsregister",
+      "section": "11",
+      "title": "Art. 11 Datenlieferungen der Gemeinden",
+      "content": "1) Die Gemeinden liefern dem Amt für Statistik vierteljährlich die Daten zu ihrem Gebäude- und Wohnungsbestand nach Art. 10 Abs. 2 Bst. a bis o und Abs. 3.\n2) Stichtage für die Datenlieferungen sind der 31. März, der 30. Juni, der 30. September und der 31. Dezember. Die Daten müssen spätestens am letzten Tag des Folgemonats beim Amt für Statistik eintreffen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Gebäude- und Wohnungsregister",
+      "section": "12",
+      "title": "Art. 12 Zugriffsrechte",
+      "content": "1) Das Amt für Statistik kann folgenden Stellen Zugriffsrechte auf das GWR gewähren, soweit dies für Zwecke der Planung oder zum Vollzug gesetzlicher Aufgaben erforderlich ist:\na) Gemeinden, Zweckverbänden der Gemeinden und Bürgergenossenschaften für das Gemeindegebiet;\nb) anderen Amtsstellen;\nc) den Liechtensteinischen Kraftwerken, der Anstalt Liechtenstein Wärme und Vermessungsunternehmen, die im Rahmen der amtlichen Vermessung tätig sind.\n2) Ist eine andere Stelle Inhaber der Daten einzelner Merkmale, hat das Amt für Statistik vorgängig deren Zustimmung einzuholen."
+    },
+    {
+      "provision_ref": "art12a",
+      "chapter": "B. Gebäude- und Wohnungsregister",
+      "section": "12a",
+      "title": "Art. 12a Veröffentlichung von Daten",
+      "content": "Auf der Internetseite der Landesverwaltung werden folgende Gebäudemerkmale veröffentlicht:\na) Gebäudeidentifikator;\nb) Gemeindename;\nc) Adresse des Gebäudes einschliesslich Postleitzahl und Ort;\nd) Name des Gebäudes;\ne) Gebäudekategorie;\nf) Parzellennummer und Gebäudekoordinaten."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Gebäude- und Wohnungsregister",
+      "section": "13",
+      "title": "Art. 13 Bekanntgabe von Daten",
+      "content": "1) Das Amt für Statistik kann öffentlich-rechtlichen Stellen und Privaten Daten zu Gebäude- und Wohnungsmerkmalen nach Art. 10 Abs. 2 und 3 bekannt geben, sofern dies einem öffentlichen Interesse dient.\n2) Die Weitergabe von nicht veröffentlichten Daten aus dem GWR für andere als die in Abs. 1 genannten Zwecke, insbesondere für den Adresshandel oder andere kommerzielle Zwecke, ist untersagt.\nIV. Statistische Veröffentlichungen"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "IV. Statistische Veröffentlichungen",
+      "section": "14",
+      "title": "Art. 14 Veröffentlichungen des Amtes für Statistik",
+      "content": "Das Amt für Statistik hat Veröffentlichungen zu folgenden Statistiken zu erstellen:\na) Aktuelle Entwicklung, Liechtenstein in Zahlen, Statistisches Jahrbuch;\nb) Energiestatistik, Umweltstatistik;\nc) Bevölkerungsstatistik, Bevölkerungsszenarien, Einbürgerungsstatistik, Gebäude- und Wohnungsstatistik, Migrationsstatistik, Volkszählung, Vornamenstatistik, Zivilstandsstatistik;\nd) Arbeitslosenstatistik, Beschäftigungsstatistik, Lohnstatistik;\ne) Aussenhandelsstatistik, Bankstatistik, Baustatistik, Konjunkturstatistik, Landesindex der Konsumentenpreise, Landwirtschaftsstatistik, Tourismusstatistik, Volkswirtschaftliche Gesamtrechnung, Forschungs- und Entwicklungsstatistik;\nf) Indikatoren nachhaltiger Entwicklung, Gleichstellungsindikatoren;\ng) Fahrzeugstatistik (Bestand und Neuzulassungen);\nh) Gesundheitsversorgungsstatistik, Krankenkassenstatistik, Unfallversicherungsstatistik;\ni) Bildungsstatistik;\nk) Finanzstatistik, Steuerstatistik.\nV. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "V. Übergangs- und Schlussbestimmungen",
+      "section": "15",
+      "title": "Art. 15 Übergangsbestimmungen",
+      "content": "1) Für die Vorbereitung und Durchführung der Volkszählung 2010 liefern die Gemeinden dem Amt für Statistik:\na) zur Erfassung des Einwohnerbestands die Daten nach Art. 3 Bst. a bis f:\n1. bis zum 31. Januar 2010 (Testlieferung) und bis zum 30. April 2010 (bereinigte Lieferung); Stichtag für die Datenlieferungen ist der 31. Dezember 2009;\n2. bis zum 15. November 2010; Stichtag für die Datenlieferung ist der 1. November 2010;\n3. bis zum 31. Januar 2011; Stichtag für die Datenlieferung ist der 31. Dezember 2010;\nb) zur Erfassung des Gebäude- und Wohnungsbestands die Daten nach Art. 10 Abs. 2 Bst. a bis o und Abs. 3:\n1. bis zum 31. Januar 2010 (Testlieferung) und bis zum 30. April 2010 (bereinigte Lieferung); Stichtag für die Datenlieferungen ist der 31. Dezember 2009;\n2. bis zum 31. Januar 2011; Stichtag für die Datenlieferung ist der 31. Dezember 2010.\n2) Der Gebäudeidentifikator und der Wohnungsidentifikator sind spätestens ab dem 1. Januar 2010 in den Einwohnerregistern der Gemeinden zu führen.\n3) Die Gemeinden haben dem Amt für Statistik den Gebäudeidentifikator, den Wohnungsidentifikator und die Haushaltsnummer erstmals für Zu-, Weg- und Umzüge ab dem 1. Januar 2010 zu melden."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "V. Übergangs- und Schlussbestimmungen",
+      "section": "16",
+      "title": "Art. 16 Inkrafttreten",
+      "content": "1) Diese Verordnung tritt vorbehaltlich Abs. 2 am Tage der Kundmachung in Kraft.\n2) Art. 9 bis 13 treten am 1. Januar 2010 in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\n1\nLR 431.0\n2\nArt. 2 Abs. 1 Bst. g aufgehoben durch LGBl. 2018 Nr. 219 .\n3\nArt. 3 Bst. c aufgehoben durch LGBl. 2018 Nr. 219 .\n4\nArt. 5 abgeändert durch LGBl. 2022 Nr. 327 .\n5\nArt. 6 abgeändert durch LGBl. 2022 Nr. 327 .\n6\nArt. 7 abgeändert durch LGBl. 2022 Nr. 327 .\n7\nArt. 8 abgeändert durch LGBl. 2022 Nr. 327 .\n8\nÜberschrift vor Art. 8a eingefügt durch LGBl. 2022 Nr. 327 .\n9\nArt. 8a eingefügt durch LGBl. 2022 Nr. 327 .\n10\nVerordnung (EG) Nr. 177/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Schaffung eines gemeinsamen Rahmens für Unternehmensregister für statistische Zwecke und zur Aufhebung der Verordnung (EWG) Nr. 2186/93 des Rates (ABl. L 61 vom 5.3.2008, S. 6)\n11\nArt. 9 Abs. 1 abgeändert durch LGBl. 2022 Nr. 56 .\n12\nArt. 10 Abs. 2 Bst. m abgeändert durch LGBl. 2018 Nr. 219 .\n13\nArt. 10 Abs. 3 Bst. b abgeändert durch LGBl. 2018 Nr. 219 .\n14\nArt. 12 Abs. 1 Bst. c abgeändert durch LGBl. 2024 Nr. 185 .\n15\nArt. 12a eingefügt durch LGBl. 2018 Nr. 219 .\n16\nArt. 13 abgeändert durch LGBl. 2018 Nr. 219 .\n17\nArt. 14 Einleitungssatz abgeändert durch LGBl. 2022 Nr. 327 .\n18\nArt. 14 Bst. c abgeändert durch LGBl. 2018 Nr. 219 .\n19\nArt. 14 Bst. e abgeändert durch LGBl. 2022 Nr. 327 .\n20\nArt. 14 Bst. f abgeändert durch LGBl. 2022 Nr. 327 .\n21\nArt. 14 Bst. g abgeändert durch LGBl. 2018 Nr. 219 .\n22\nArt. 14 Bst. h abgeändert durch LGBl. 2018 Nr. 219 .\n23\nArt. 14 Bst. k abgeändert durch LGBl. 2018 Nr. 219 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Identifikator",
+      "definition": "eine unveränderliche Nummer, die als funktionales Element in einem Datenbestand die eindeutige Identifikation einer Person oder Sache erlaubt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Merkmal",
+      "definition": "eine Eigenschaft einer Person oder Sache, die objektiv erfasst und beschrieben werden kann, oder ein Identifikator;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Unternehmen",
+      "definition": "eine organisatorische Einheit zur Erzeugung von Waren und Dienstleistungen, die in Bezug auf die Verwendung der ihr zufliessenden Mittel über eine gewisse Entscheidungsfreiheit verfügt und eine oder mehrere wirtschaftliche Tätigkeiten in einer oder mehreren Arbeitsstätten ausübt. Dazu gehören auch private Haushalte mit Angestellten;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Unternehmensgruppe",
+      "definition": "eine Gruppe von Unternehmen, die rechtlich-finanzielle Beziehungen untereinander haben;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Arbeitsstätte",
+      "definition": "ein an einem räumlich festgestellten Ort gelegenes Unternehmen oder ein Teil eines Unternehmens (Werkstätte, Werk, Verkaufsladen, Büro, Lagerhaus), in dem eine bestimmte wirtschaftliche Tätigkeit ausgeübt wird und mindestens eine Person beschäftigt ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Personenmerkmale",
+      "definition": "Versichertennummer der Alters- und Hinterlassenenversicherung (AHV) oder persönliche Identifikationsnummer, amtlicher Name und alle Vornamen, Geschlecht, Zivilstand, Geburts- und Todesdatum, Geburtsort, Bürgerort, Staatsbürgerschaft und Art der ausländerrechtlichen Bewilligung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gebäude",
+      "definition": "auf Dauer angelegte, mit dem Boden fest verbundene Bauten, die Wohnzwecken oder Zwecken der Arbeit, der Ausbildung, der Kultur oder des Sportes dienen. Bei Doppel-, Gruppen- oder Reihenhäusern zählt jedes Gebäude als selbständig, wenn es einen eigenen Zugang von aussen hat und zwischen den Gebäuden eine senkrechte, vom Erdgeschoss bis zum Dach reichende Trennmauer besteht.",
+      "source_provision": "art2"
+    }
+  ]
+}

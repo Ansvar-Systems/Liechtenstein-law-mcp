@@ -1,0 +1,120 @@
+{
+  "id": "li-konso-2020459000",
+  "type": "statute",
+  "title": "Verordnung vom 15. Dezember 2020 über den elektronischen Geschäftsverkehr mit Behörden (E-Government-Verordnung; E-GovV)",
+  "title_en": "",
+  "short_name": "E-GovV",
+  "status": "in_force",
+  "issued_date": "2020-12-15",
+  "in_force_date": "2020-12-15",
+  "url": "https://www.gesetze.li/konso/2020459000",
+  "description": "Verordnung vom 15. Dezember 2020 über den elektronischen Geschäftsverkehr mit Behörden (E-Government-Verordnung; E-GovV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung des E-Government-Gesetzes das Nähere über den elektronischen Geschäftsverkehr zwischen Behörden sowie zwischen Behörden und Personen, insbesondere:\na) die Form der elektronischen Kommunikation;\nb) die Ausnahmen von der Pflicht zur elektronischen Kommunikation;\nc) die elektronisch beglaubigten Kopien;\nd) das Verfahren zur Ausstellung einer elektronischen Identität (eID);\ne) die Verwendung der eID in Datenanwendungen von privaten Dateninhabern;\nf) die Anerkennung elektronischer Identifizierungsmittel der Schweiz oder anderer Drittstaaten;\ng) den Betrieb des eID-Systems;\nh) die Vertretung im elektronischen Geschäftsverkehr;\ni) die elektronische Einmalkennung für E-Government-Dienste (Art. 13b)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Elektronische Kommunikation"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "3",
+      "title": "Art. 3 Form der elektronischen Kommunikation",
+      "content": "Im Rahmen des elektronischen Geschäftsverkehrs kann jede Form der elektronischen Kommunikation genutzt werden. Sie kann insbesondere erfolgen über:\na) den elektronischen Zustelldienst der Landesverwaltung;\nb) technische Schnittstellen zwischen Datenanwendungen;\nc) elektronische Formulare."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "4",
+      "title": "Art. 4 Ausnahmen von der Pflicht zur elektronischen Kommunikation",
+      "content": "1) Die Ausnahmen von der Pflicht zur elektronischen Kommunikation nach Art. 5 Abs. 3 des Gesetzes sind in Anhang 1 aufgeführt.\n2) Behörden können bei der Regierung die Aufnahme von Verfahren in den Anhang 1 schriftlich anregen. Die Anregung hat folgende Angaben zu enthalten:\na) die genaue Bezeichnung des Verfahrens, das von der Pflicht zur elektronischen Kommunikation ausgenommen werden soll;\nb) die technischen oder organisatorischen Hindernisse, die einer elektronischen Kommunikation entgegenstehen;\nc) die Massnahmen, die zur Beseitigung der Hindernisse nach Bst. b ergriffen werden; und\nd) den Zeitraum, für den die Ausnahme voraussichtlich erforderlich sein wird."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "5",
+      "title": "Art. 5 Elektronisch beglaubigte Kopien",
+      "content": "1) Elektronisch beglaubigte Kopien nach Art. 8 des Gesetzes werden durch die Regierungskanzlei angefertigt.\n2) Die Anforderungen an das zu beglaubigende Dokument, die Eigenschaften der elektronisch beglaubigten Kopie sowie das Verfahren zur elektronischen Beglaubigung von Kopien werden auf der Internetseite der Regierungskanzlei veröffentlicht.\n3) Für die Erstellung einer elektronisch beglaubigten Kopie werden von der Regierungskanzlei Gebühren in der Höhe von 1 bis 50 Franken erhoben. Die Höhe der Gebühr richtet sich nach dem Seitenumfang der zu beglaubigenden Kopie.\nIII. Elektronische Identifikation\nAusstellungsverfahren\nArt. 6\na) Grundsatz\n1) Die Ausstellung einer eID setzt voraus, dass der Antragsteller über eine persönliche Identifikationsnummer (PEID) nach dem Gesetz über das Zentrale Personenregister verfügt.\n2) Antragsteller, die über keine PEID verfügen, werden im Zuge des Verfahrens zur Ausstellung einer eID im Zentralen Personenregister (ZPR) eingetragen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "7",
+      "title": "Art. 7 b) Feststellung der Identität des Antragstellers",
+      "content": "1) Für die Ausstellung einer eID bedarf es der Feststellung der Identität des Antragstellers; die Feststellung erfolgt durch:\na) das Ausländer- und Passamt bei persönlicher Anwesenheit unter Vorlage eines gültigen Reisepasses oder Personalausweises; oder\nb) einen vom Ausländer- und Passamt beauftragten Dritten im Rahmen eines dem jeweiligen Stand der Technik entsprechenden Identifizierungsverfahrens, insbesondere eines Videoidentifizierungsverfahrens.\n2) Der beauftragte Dritte hat dem Ausländer- und Passamt unmittelbar nach Feststellung der Identität folgende Angaben zu übermitteln und zu bestätigen:\na) Name und Vorname;\nb) Geburtsdatum;\nc) Geschlecht;\nd) Staatsangehörigkeit;\ne) Adresse.\n3) Die Kosten für die Feststellung der Identität durch einen beauftragten Dritten trägt der Antragsteller. Sie werden direkt durch den beauftragten Dritten in Rechnung gestellt."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "8",
+      "title": "Art. 8 c) Verbindung im eID-System",
+      "content": "Sobald die Identität des Antragstellers festgestellt ist, stellt das Ausländer- und Passamt unverzüglich eine Verbindung im eID-System her."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "9",
+      "title": "Art. 9 Verwendung der eID in Datenanwendungen von privaten Dateninhabern",
+      "content": "1) Das Amt für Informatik kann einem privaten Dateninhaber die Verwendung der eID zur eindeutigen elektronischen Identifikation von natürlichen Personen in seiner Datenanwendung nach Art. 12a des Gesetzes bewilligen, wenn:\na) es sich beim privaten Dateninhaber um ein Unternehmen handelt, welches entweder seinen Sitz in Liechtenstein hat oder nach Art. 12 Abs. 3 des Gesetzes über Token und VT-Dienstleister in Liechtenstein registriert ist;\nb) der private Dateninhaber die vom Amt für Informatik in einem Reglement festgelegten technischen Voraussetzungen einhält; und\nc) der private Dateninhaber die Nutzungsbedingungen des Amtes für Informatik akzeptiert hat.\n2) Die Verwendung der eID ist vorbehaltlich Abs. 3 auf die Übermittlung folgender Attribute beschränkt:\na) Name und Vorname;\nb) Geburtsdatum;\nc) Identifikator.\n3) Das Amt für Informatik kann die Übermittlung weiterer Attribute nach Massgabe der technischen Möglichkeiten genehmigen, wenn nachgewiesen wird:\na) die Einhaltung der Grundsätze der Datenschutzgesetzgebung;\nb) das Vorliegen eines überwiegenden privaten oder öffentlichen Interesses; und\nc) die Erfüllung der von der Regierung in einem Reglement festgelegten weiteren Kriterien.\n4) Das Amt für Informatik hat die Bewilligung zu entziehen, wenn:\na) die Bewilligungsvoraussetzungen nach Abs. 1 nicht mehr erfüllt sind; oder\nb) der private Dateninhaber allfällige mit der Bewilligung verbundene Bedingungen und Auflagen nicht einhält.\n5) Das Amt für Informatik erhebt für die Ausfertigung von Verfügungen im Zusammenhang mit Bewilligungen nach Abs. 1 je nach Aufwand Gebühren in der Höhe von 200 bis 500 Franken; bei Notwendigkeit umfangreicher Recherchen bzw. Ausführungen beträgt die Gebühr je nach Aufwand bis zu 1 000 Franken."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "10",
+      "title": "Art. 10 Anerkennung elektronischer Identifizierungsmittel der Schweiz oder anderer Drittstaaten",
+      "content": "1) Die anerkannten elektronischen Identifizierungsmittel der Schweiz oder anderer Drittstaaten sind in Anhang 2 aufgeführt.\n2) Behörden können bei der Regierung die Aufnahme von elektronischen Identifizierungsmitteln nach Abs. 1 für einzelne Datenanwendungen in den Anhang 2 anregen. Die Anregung ist der Regierung schriftlich und begründet zu übermitteln."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "11",
+      "title": "Art. 11 Information über die Sperrung und Wiederaktivierung der eID",
+      "content": "Die Information des eID-Inhabers über die Sperrung und Wiederaktivierung seiner eID erfolgt über das eID-System."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "12",
+      "title": "Art. 12 Betrieb des eID-Systems",
+      "content": "1) Das eID-System hat zur Umsetzung der Zwecke nach Art. 19 Abs. 1 des Gesetzes insbesondere folgende technische Anforderungen zu umfassen:\na) eine mobile, digitale Anwendung der Landesverwaltung zur eindeutigen elektronischen Identifikation einer natürlichen Person (eID-App);\nb) eine technische Anwendung, welche die gegenseitige Nutzung von notifizierten elektronischen Identifizierungssystemen unter den EWR-Mitgliedstaaten ermöglicht (eIDAS-Knoten);\nc) eine Software der Landesverwaltung oder eines Vertrauensdiensteanbieters sowie die Schnittstellen zur eID-App und zum eIDAS-Knoten (technische eID-Anwendung).\n2) Zur Umsetzung der Zwecke nach Art. 19 Abs. 1 des Gesetzes können elektronische Transaktionen zwischen dem eID-System und Datenanwendungen von Behörden oder privaten Dateninhabern durchgeführt werden.\n3) Das Amt für Informatik kann das Nähere über den Betrieb des eID-Systems, insbesondere die technischen Anforderungen, in einem Reglement festlegen.\nVertretung im elektronischen Geschäftsverkehr (eVertretung)\nArt. 13\na) Grundsatz\n1) Zum Nachweis der Vertretungsbefugnis im elektronischen Geschäftsverkehr kann die eindeutige Kennung des Vertreters und des Vertretenen in Datenanwendungen von Behörden oder privaten Dateninhabern verarbeitet werden.\n2) Eine eindeutige Kennung nach Abs. 1 ist insbesondere die PEID einer natürlichen Person bzw. eines Unternehmens oder ein davon abgeleiteter Identifikator."
+    },
+    {
+      "provision_ref": "art13a",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "13a",
+      "title": "Art. 13a b) Erstmalige Aktivierung von Unternehmen",
+      "content": "1) Damit sich ein Unternehmen im elektronischen Geschäftsverkehr vertreten lassen kann, bedarf es einer erstmaligen Aktivierung des Unternehmens in der entsprechenden Applikation der Liechtensteinischen Landesverwaltung.\n2) Unabhängig von der rechtsgeschäftlichen Vertretungsmacht genügt es, wenn die Aktivierung nach Abs. 1 durch eine Person vorgenommen wird, die:\na) zur Vertretung des Unternehmens befugt ist; und\nb) eine Funktion ausübt, die in der vom Amt für Justiz auf seiner Internetseite veröffentlichten Liste der Funktionsbezeichnungen für eVertretungen aufgeführt ist."
+    },
+    {
+      "provision_ref": "art13b",
+      "chapter": "III. Elektronische Identifikation",
+      "section": "13b",
+      "title": "Art. 13b Elektronische Einmalkennung für E-Government-Dienste",
+      "content": "Auf die elektronische Einmalkennung für E-Government-Dienste als zeitlich befristetes und örtlich begrenztes Äquivalent zur eID finden die Bestimmungen dieses Kapitels sinngemäss Anwendung mit Ausnahme von Art. 7 Abs. 1 Bst. b, Abs. 2 und 3, Art. 9 bis 11 sowie 12 Abs. 1 und 2.\nIV. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "IV. Schlussbestimmungen",
+      "section": "14",
+      "title": "Art. 14 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 20. Dezember 2011 über den elektronischen Geschäftsverkehr mit Behörden (E-Government-Verordnung; E-GovV), LGBl. 2011 Nr. 600, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "IV. Schlussbestimmungen",
+      "section": "15",
+      "title": "Art. 15 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2021 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\nAnhang 1\n(Art. 4)\nAusnahmen von der Pflicht zur elektronischen Kommunikation\nZiff.\nBetroffene Behörde/n\nBetroffenes Verfahren\nDauer der Ausnahme\n1.\nRegierung und Amtsstellen\nEinreichung von Rechtsmitteln\nbis 31. Dezember 2026\n2.\nAmtsstellen sowie weitere Behörden, für welche das Amt für Finanzen die Buchhaltung führt\nEmpfang und Übermittlung von nicht im Elektronischen Kreditorenworkflow erfassten Kreditorenbelegen von bzw. an andere Behörden\nbis 31. Dezember 2027\n3.\nBehörden, deren Rechnungen in die Landesrechnung einfliessen oder deren Jahresrechnungen in Zusammenarbeit mit dem Amt für Finanzen erstellt werden, sowie Gemeinden\nVersand von Rechnungen und Mahnungen\nbis 31. Dezember 2027\n4.\nAmt für Statistik\nVersand von Ankündigungs- und Erinnerungsschreiben\nbis 31. Dezember 2027\n5.\nZivilstandsamt\nAusstellung und Versand von Dokumenten und Urkunden\nbis 31. Dezember 2026\n6.\nZivilstandsamt\nEmpfang und Versand von Zivilstandsmeldungen von bzw. an Behörden\nbis 31. Dezember 2026\n7.\nZivilstandsamt und Gemeinden\nKommunikation zwischen Zivilstandsamt und Gemeinden in Zusammenhang mit Einbürgerungen\nbis 31. Dezember 2026\n8.\nLiechtensteinische Botschaft in Washington, Liechtensteinische Botschaft in Bern, Liechtensteinische Botschaft in Wien, Liechtensteinische Botschaft in Berlin und Amt für Justiz\nEmpfang und Übermittlung von Dokumenten und Beweisen in Rechtshilfe- und Auslieferungsverfahren\nunbefristet\n9.\nLiechtensteinische Botschaft in Bern, Liechtensteinische Botschaft in Wien und Liechtensteinische Botschaft in Berlin\nEmpfang und Übermittlung von Originaldokumenten in Zusammenhang mit Zivilstandsmeldungen\nunbefristet\n10.\nLiechtensteinische Botschaft in Bern, Liechtensteinische Botschaft in Wien und Liechtensteinische Botschaft in Berlin\nEmpfang und Übermittlung von Originaldokumenten für Beglaubigungen durch liechtensteinische oder ausländische Behörden\nunbefristet\n11.\nLiechtensteinische Botschaft in Bern, Liechtensteinische Botschaft in Wien, Liechtensteinische Botschaft in Berlin, Amt für Auswärtige Angelegenheiten, Staatsoberhaupt bzw. dessen Stellvertreter und Regierung\nEmpfang und Übermittlung von Vollmachten und Verträgen bzw. Abkommen\nunbefristet\n12.\nLiechtensteinische Botschaft in Bern, Liechtensteinische Botschaft in Wien, Liechtensteinische Botschaft in Berlin und Amt für Auswärtige Angelegenheiten\nEmpfang und Übermittlung von Pässen, Identitätskarten und sonstigen Ausweisen oder von Ausweis-Exemplaren\nunbefristet\n13.\nLiechtensteinische Botschaft in Bern, Liechtensteinische Botschaft in Wien, Liechtensteinische Botschaft in Berlin, Amt für Auswärtige Angelegenheiten, Stabsstelle Regierungskanzlei, Staatsoberhaupt bzw. dessen Stellvertreter und Regierung\nEmpfang und Übermittlung von Originalschreiben vom oder an das Staatsoberhaupt bzw. dessen Stellvertreter sowie von oder an Regierungsmitglieder/n\nunbefristet\n14.\nAusländer- und Passamt\nBeantragung, Ausstellung und Verlängerung einer Grenzgängermeldebestätigung (GMB)\nbis 31. Dezember 2026\n15.\nAusländer- und Passamt\nBeantragung, Ausstellung und Verlängerung einer Kurzaufenthalts- (L), Aufenthalts- (B), Niederlassungs- (C) und Daueraufenthaltsbewilligung (D), Bewilligung in Briefform (BiB) und Grenzgängerbewilligung (G)\nunbefristet\n16.\nAusländer- und Passamt\nBeantragung und Ausstellung von Reisedokumenten\nunbefristet\n17.\nAusländer- und Passamt\nAusstellung und Verlängerung von Visa\nunbefristet\n18.\nAufgehoben\n19.\nAusländer- und Passamt\nAsylverfahren\nunbefristet\n20.\nAusländer- und Passamt\nAnhörungen im Verwaltungs(straf)verfahren\nunbefristet\n21.\nAusländer- und Passamt\nAnordnung von Entfernungs- und Fernhaltemassnahmen\nunbefristet\n22.\nAusländer- und Passamt\nVor-Ort-Registrierung der eID\nunbefristet\n22a.\nAusländer- und Passamt\nVor-Ort-Identifizierung für die Ausstellung einer elektronischen Einmalkennung für E-Government-Dienste (Art. 13b)\nbis 31. Dezember 2026\n23.\nAmt für Gesundheit\nEmpfang und Versand von Dokumenten in Zusammenhang mit Inspektionen, Bewilligungen, Meldebestätigungen und Export-Zertifikaten im Rahmen des Heilmittelrechts, der Humanforschung, der Transplantationsmedizin und der Strahlenschutzgesetzgebung\nbis 31. Dezember 2026\n24.\nAmt für Gesundheit\nEinreichung von Anträgen sowie Zustellung von Verfügungen und Urkunden in Berufsausübungsbewilligungsverfahren nach dem Ärztegesetz und dem Gesundheitsgesetz\nbis 31. Dezember 2026\n25.\nAmt für Gesundheit\nEinreichung von Anträgen und Zustellung von Verfügungen in Verfahren zur Ausrichtung von Mutterschaftszulagen\nbis 31. Dezember 2026\n26.\nAmt für Gesundheit\nVersand von Einladungen zu Vorsorgeuntersuchungen\nbis 31. Dezember 2027\n27.\nAufgehoben\n28.\nAmt für Hochbau und Raumplanung\nEinreichung von Anträgen und Zustellung von Entscheidungen in Wohnbauförderungsverfahren\nbis 31. Dezember 2026\n29.\nAmt für Hochbau und Raumplanung sowie Gemeinden\nRaumplanungsverfahren\nbis 31. Dezember 2026\n30.\nAmt für Hochbau und Raumplanung, Stabsstelle staatliche Liegenschaften, Amt für Tiefbau und Geoinformation sowie Gemeinden\nAbschluss von Verträgen in Zusammenhang mit Landerwerb\nbis 31. Dezember 2026\n31.\nAmt für Hochbau und Raumplanung, Stabsstelle staatliche Liegenschaften sowie Amt für Tiefbau und Geoinformation\nAbschluss von Miet- und Pachtverträgen\nbis 31. Dezember 2026\n32.\nAmt für Volkswirtschaft\nEinreichung von Gesuchen und Erteilung von Bewilligungen in Spielbankenbewilligungsverfahren\nbis 31. Dezember 2026\n33.\nAmt für Volkswirtschaft\nAusfertigung und Zustellung von Verfügungen, Entscheidungen, Beanstandungen, Mahnungen, Bussen, Bestätigungen, verfahrensleitenden Beschlüssen und Mitteilungen in Verwaltungs(straf)verfahren\nbis 31. Dezember 2027\n34.\nAmt für Volkswirtschaft\nEinreichung von Anzeigen, Anträgen bzw. Gesuchen und Eingaben\nbis 31. Dezember 2027\n35.\nAmt für Volkswirtschaft und Liechtensteinische Mission bei der EU in Brüssel\nKommunikation, die nach Massgabe internationaler Abkommen physisch erfolgen muss\nunbefristet\n36.\nAmt für Volkswirtschaft\nAusstellung und Versand von Akkreditierungsurkunden\nunbefristet\n37.\nAufgehoben\n38.\nAufgehoben\n39.\nSteuerverwaltung\nZustellung von Dokumenten wie Aufforderungen zur Einreichung der Steuererklärung, Verfügungen, Bestätigungen, Mahnungen, Bussen und Einspracheentscheide, ausgenommen im Bereich der Mehrwertsteuer\nbis 31. Dezember 2026\n40.\nSteuerverwaltung\nKommunikation im Bereich des steuerlichen Informationsaustausches\nbis 31. Dezember 2026\n41.\nAmt für Justiz\nEmpfang und Versand von Dokumenten in Zusammenhang mit Registereintragungen und Prüftätigkeiten (Grundbuch, Verzeichnis wirtschaftlich berechtigter Personen, Stiftungsaufsicht, Handelsregister) oder Auskünften bezüglich der Registereintragungen\nbis 31. Dezember 2026\n42.\nAufgehoben\n43.\nAufgehoben\n44.\nAufgehoben\n45.\nAufgehoben\n46.\nRechtsdienst der Regierung sowie Staatsoberhaupt und Regierungschef bzw. deren Stellvertreter\nUnterzeichnung von beschlossenen Rechtsvorschriften\nunbefristet\n47.\nStabsstelle Regierungskanzlei\nEmpfang und Übermittlung von Dokumenten in Amtshilfeverfahren\nunbefristet\n48.\nStabsstelle Regierungskanzlei und Gemeinden\nEntgegennahme von Sammelbegehren (Referenden und Initiativen)\nunbefristet\n49.\nStabsstelle Regierungskanzlei\nVornahme von Überbeglaubigungen\nunbefristet\n50.\nStabsstelle Regierungskanzlei\nVersand diverser physischer Dokumente, deren symbolischer Wert keinen elektronischen Versand erlaubt\nunbefristet\n51.\nStabsstelle Regierungssekretär\nAusfertigung und Zustellung von Regierungsbeschlüssen samt Beilagen\nbis 31. Dezember 2026\n52.\nLiechtensteinische AHV-IV-FAK\nVersand von Unterlagen und Dokumenten betreffend Beiträge nach AHVG, IVG, FZG und ALVG sowie Abrechnungen nach Art. 16 des CO 2 -Gesetzes\nbis 31. Dezember 2026\n53.\nLiechtensteinische AHV-IV-FAK\ngesamte Kommunikation betreffend Leistungen\nbis 31. Dezember 2026\n54.\nLiechtensteinische AHV-IV-FAK\nKommunikation im Bereich Arbeitgeberkontrolle nach Art. 28bis AHVG sowie im Bereich Anschlusskontrolle nach Art. 4a BPVG, Art. 11a KVG und Art. 59a UVersG\nbis 31. Dezember 2026\n55.\nLiechtensteinische AHV-IV-FAK\nKommunikation betreffend Rechtsmittel\nbis 31. Dezember 2026\n56.\nFinanzmarktaufsicht\nausgehende Kommunikation mit Unternehmen\nbis 31. Dezember 2026\n57.\nOrdentliche Gerichte, Oberster Gerichtshof als Verwaltungsgerichtshof, Staatsgerichtshof, Beschwerdekommissionen im Sinne von Art. 78 Abs. 3 der Verfassung, Staatsanwaltschaft sowie Behörden, die in solche Verfahren involviert sind\ngesamter Rechtsverkehr in allen Verfahren\nbis 31. Dezember 2026\n58.\nAufgehoben\n59.\nAufgehoben\n60.\nGemeinden\nVersand der Aufforderungen zur Einreichung der Steuererklärung, der Veranlagungsverfügungen bzw. Steuerrechnungen sowie von Mahnungen und Bussen (natürliche Personen)\nbis 31. Dezember 2027\n61.\nGemeinden\nVersand und Empfang von Wahl- und Abstimmungsunterlagen\nunbefristet\n62.\nGemeinden\nAnmeldung einer Person bei der Wohngemeinde\nunbefristet\n63.\nKulturstiftung Liechtenstein\nZustellung von Entscheidungen\nbis 31. Dezember 2027\n64.\nSchätzungskommission\nZustellung von Schätzungsergebnissen sowie Versand von Unterlagen für Schätzungen\nbis 31. Dezember 2026\n65.\nLiechtensteinische Post AG\nErbringung des gesetzlichen Universaldienstes (physische Postsendungen)\nunbefristet\n66.\nAuftraggeber im Sinne von Art. 2 ÖAWG und Art. 4 ÖAWSG\nnationale Verfahren zur Vergabe von öffentlichen Aufträgen und Konzessionen\nbis 31. Dezember 2027\nAnhang 2\n(Art. 10)\nAnerkannte elektronische Identifizierungsmittel der Schweiz oder anderer Drittstaaten\nHerkunftsstaat\nBezeichnung des Identifizierungsmittels\nVorgesehene Datenanwendung\nDefinition des Identifikators\n1\nArt. 1 Bst. i eingefügt durch LGBl. 2025 Nr. 249 .\n2\nArt. 9 Abs. 1 abgeändert durch LGBl. 2023 Nr. 435 .\n3\nArt. 9 Abs. 4 eingefügt durch LGBl. 2023 Nr. 435 .\n4\nArt. 9 Abs. 5 eingefügt durch LGBl. 2023 Nr. 435 .\n5\nSachüberschrift vor Art. 13 eingefügt durch LGBl. 2024 Nr. 462 .\n6\nArt. 13 Sachüberschrift abgeändert durch LGBl. 2024 Nr. 462 .\n7\nArt. 13a eingefügt durch LGBl. 2024 Nr. 462 .\n8\nArt. 13b eingefügt durch LGBl. 2025 Nr. 249 .\n9\nAnhang 1 abgeändert durch LGBl. 2022 Nr. 370 , LGBl. 2023 Nr. 123 , LGBl. 2023 Nr. 254 , LGBl. 2023 Nr. 378 , LGBl. 2023 Nr. 474 , LGBl. 2024 Nr. 128 , LGBl. 2024 Nr. 455 , LGBl. 2025 Nr. 249 , LGBl. 2025 Nr. 435 und LGBl. 2025 Nr. 601 ."
+    }
+  ],
+  "definitions": []
+}

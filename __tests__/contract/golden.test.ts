@@ -6,11 +6,13 @@
 import { describe, it, expect, beforeAll } from 'vitest';
 import Database from 'better-sqlite3';
 import * as path from 'path';
+import * as fs from 'fs';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const SEED_DIR = path.resolve(__dirname, '../../data/seed');
 
 let db: InstanceType<typeof Database>;
 
@@ -20,11 +22,12 @@ beforeAll(() => {
 });
 
 describe('Database integrity', () => {
-  it('should have 10 legal documents (excluding EU cross-refs)', () => {
+  it('should have one legal document per seed file', () => {
+    const expected = fs.readdirSync(SEED_DIR).filter(file => file.endsWith('.json')).length;
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
     ).get() as { cnt: number };
-    expect(row.cnt).toBe(10);
+    expect(row.cnt).toBe(expected);
   });
 
   it('should have at least 175 provisions', () => {

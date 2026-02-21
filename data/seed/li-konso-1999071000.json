@@ -1,0 +1,260 @@
+{
+  "id": "li-konso-1999071000",
+  "type": "statute",
+  "title": "Verordnung vom 16. März 1999 über den Schutz der Gewässer vor wassergefährdenden Flüssigkeiten (VWF)",
+  "title_en": "",
+  "short_name": "VWF",
+  "status": "in_force",
+  "issued_date": "1999-03-16",
+  "in_force_date": "1999-03-16",
+  "url": "https://www.gesetze.li/konso/1999071000",
+  "description": "Verordnung vom 16. März 1999 über den Schutz der Gewässer vor wassergefährdenden Flüssigkeiten (VWF)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Geltungsbereich",
+      "content": "1) Diese Verordnung gilt für die folgenden Anlagen für wassergefährdende Flüssigkeiten: a) Lageranlagen;\nb) Umschlagplätze;\nc) Betriebsanlagen;\nd) Kreisläufe, die den Gewässern, dem Boden oder dem Untergrund Wärme entziehen oder an diese abgeben (Kreisläufe).\n2) Sie gilt nicht für: a) Behälter mit einem Nutzvolumen bis 20 Liter;\nb) Lageranlagen, Umschlagplätze und Betriebsanlagen für verflüssigte Gase;\nc) Abwasseranlagen;\nd) Anlagen für landwirtschaftliche Abgänge;\ne) Anlagen für flüssige Lebens- und Genussmittel;\nf) Anlagen, die der Rohrleitungs-, der Atom- oder der Elektrizitätsgesetzgebung unterstehen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe",
+      "content": "1) Als \"wassergefährdende Flüssigkeiten\" gelten Flüssigkeiten, die Wasser physikalisch, chemisch oder biologisch nachteilig verändern können. Sie werden eingeteilt in: a) die Klasse 1, wenn sie in kleinen Mengen Wasser nachteilig verändern können;\nb) die Klasse 2, wenn sie in grossen Mengen Wasser nachteilig verändern können.\n2) Behälter sind Teile von Anlagen für das Lagern oder den Transport wassergefährdender Flüssigkeiten. Als \"Behälter\" gelten: a) Gebinde (Nutzvolumen über 20 Liter bis 450 Liter);\nb) Kleintanks (Nutzvolumen über 450 Liter bis 2 000 Liter);\nc) Mittelgrosse Tanks (Nutzvolumen über 2 000 Liter bis 250 000 Liter);\nd) Grosstanks (Nutzvolumen über 250 000 Liter).\n3) Als \"Nutzvolumen\" gilt bei Gebinden, Kleintanks und mittelgrossen Tanks 95 % und bei Grosstanks 97 % der Flüssigkeitsmenge, die der Behälter aufgrund einer statischen Berechnung und der technischen Ausrüstung höchstens aufnehmen kann.\n4) Als \"freistehend\" gelten Behälter und Rohrleitungen, deren Aussenwände so weit sichtbar sind, dass Flüssigkeitsverluste von aussen leicht erkannt werden können; ebenfalls als freistehend gelten Behälter, deren Boden von aussen nicht sichtbar ist, aber mit einem Leckanzeigesystem dauernd auf Flüssigkeitsverluste überwacht wird. Als \"erdverlegt\" gelten alle übrigen Behälter und Rohrleitungen.\n5) Als \"apparative Vorrichtungen\" gelten folgende Vorrichtungen zur Kontrolle von Anlagen: a) Leckanzeigesysteme;\nb) Füllsicherungen.\n6) Als \"Umschlagplätze\" gelten: a) Abfüllstellen (Umschlag zwischen Transportbehältern oder zwischen Transportbehältern und Behältern von Lager- und Betriebsanlagen);\nb) Tankstellen (Umschlag aus Lager- oder Transportbehältern in Treibstoffbehältern von Fahrzeugen);\nc) Gebindeabfüllstellen (Umschlag aus Lager- oder Transportbehältern in Gebinde).\n7) Als \"Betriebsanlagen\" gelten Anlagen, deren wassergefährdende Flüssigkeiten: a) sich in einem Produktionsprozess (einschliesslich Verarbeitungs- und Behandlungsprozess) befinden;\nb) Kraft übertragen oder Wärme oder feste Stoffe transportieren; ausgenommen sind Kreisläufe."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Personenbezeichnungen",
+      "content": "Die in dieser Verordnung verwendeten Personenbezeichnungen gelten für Personen männlichen und weiblichen Geschlechts."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Klassierung der wassergefährdenden Flüssigkeiten",
+      "content": "1) Das Amt für Umwelt ordnet die wassergefährdenden Flüssigkeiten den zwei Klassen nach Art. 2 Abs. 1 zu. Es berücksichtigt dabei deren: a) Schädlichkeit für Menschen, Tiere und Pflanzen;\nb) biologische Abbaubarkeit und Bioakkumulation;\nc) Verhalten in Wasser, Boden und Untergrund;\nd) Farbe, Geruch und Geschmack.\n2) Das Amt für Umwelt erstellt eine Liste der klassierten Flüssigkeiten."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Stand der Technik und Qualitätssicherung",
+      "content": "1) Wer Anlagen erstellt, ändert, befüllt oder ausser Betrieb setzt, wer Mängel an Anlagen behebt, wer Funktionskontrollen an apparativen Vorrichtungen oder Revisionsarbeiten ausführt und wer Anlageteile herstellt, muss dabei den Stand der Technik einhalten. Wer Anlageteile herstellt, muss prüfen, ob diese dem Stand der Technik entsprechen und die Prüfungsergebnisse in einem Protokoll festhalten.\n2) Die Inhaber von Anlagen müssen dafür sorgen, dass das Erstellen, Ändern und Ausserbetriebsetzen von Anlagen, das Beheben von Mängeln sowie die periodischen Funktionskontrollen an apparativen Vorrichtungen und Revisionsarbeiten von fachkundigen Unternehmen ausgeführt werden.\n3) Unternehmen, die Arbeiten nach Abs. 2 durchführen, müssen über Personal verfügen, das aufgrund seiner Ausbildung, Ausrüstung und Erfahrung gewährleistet, dass diese Arbeiten nach dem Stand der Technik erfolgen.\n4) Das Amt für Umwelt erstellt eine Liste der von ihm anerkannten Regeln der Technik. Für Bereiche, in denen solche fehlen, kann das Amt für Umwelt Richtlinien erlassen.\nII. Schutzmassnahmen"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Schutzmassnahmen",
+      "section": "6",
+      "title": "Art. 6 Verhindern von Flüssigkeitsverlusten",
+      "content": "Die Inhaber von Anlagen müssen für Schutzmassnahmen sorgen, die gewährleisten, dass Flüssigkeitsverluste verhindert werden. Sie müssen insbesondere dafür sorgen, dass: a) die Anlagen fachgerecht dimensioniert, erstellt, geändert, betrieben und gegen Eingriffe durch Unbefugte gesichert werden;\nb) Tanks mit Füllleitung über Vorrichtungen zur Messung des Füllstandes und zur Verhinderung von Überfüllungen verfügen;\nc) erdverlegte Anlageteile aus nicht korrosionsbeständigen Materialien gegen Korrosion von aussen (einschliesslich elektrische Fremdströme) geschützt sind;\nd) Rohrleitungen über Vorrichtungen verfügen, mit denen bei Lecks das selbsttätige Ausfliessen der gelagerten Flüssigkeit verhindert wird."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Schutzmassnahmen",
+      "section": "7",
+      "title": "Art. 7 Leichtes Erkennen von Flüssigkeitsverlusten",
+      "content": "1) Die Inhaber von Anlagen müssen für Schutzmassnahmen sorgen, die gewährleisten, dass Flüssigkeitsverluste leicht erkannt werden, bei: a) Gebinden und Gebindeabfüllstellen;\nb) freistehenden Rohrleitungen;\nc) Tankstellen, bei denen jährlich im Mittel über 10 m&sup3; Treibstoffe umgeschlagen werden;\nd) Betriebsanlagen;\ne) Kreisläufen.\n2) Sie müssen insbesondere dafür sorgen, dass: a) Gebinde in Schutzbauwerken aufbewahrt werden, die soviel Flüssigkeit aufnehmen können, wie für das Erkennen von Verlusten erforderlich ist;\nb) freistehende Rohrleitungen, aus denen die Flüssigkeit bei einem Leck ausfliessen kann und die nicht täglich mit Sichtkontrollen überwacht werden, über eine Vorrichtung zur Leckerkennung verfügen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Schutzmassnahmen",
+      "section": "8",
+      "title": "Art. 8 Leichtes Erkennen und Zurückhalten auslaufender Flüssigkeiten",
+      "content": "1) Die Inhaber von Anlagen müssen für Schutzmassnahmen sorgen, die gewährleisten, dass Flüssigkeitsverluste leicht erkannt und auslaufende Flüssigkeiten zurückgehalten werden, bei: a) Tanks;\nb) Transportbehältern mit einem Nutzvolumen über 450 Liter, die als Lagerbehälter verwendet werden;\nc) erdverlegten Behältern von Betriebsanlagen;\nd) erdverlegten Rohrleitungen;\ne) Abfüllstellen, bei denen jährlich im Mittel über 1 000 m&sup3; Flüssigkeiten der Klasse 1 in tiefer liegende Behälter abgefüllt oder über 250 m&sup3; Flüssigkeiten der Klasse 1 auf andere Weise umgeschlagen werden;\nf) Abfüllstellen, bei denen jährlich im Mittel über 1 000 m&sup3; Flüssigkeiten der Klasse 2 umgeschlagen werden.\n2) Sie müssen insbesondere dafür sorgen, dass: a) freistehende Tanks über Schutzbauwerke verfügen, die bei Flüssigkeiten der Klasse 1 mindestens 100 % und bei Flüssigkeiten der Klasse 2 mindestens 50 % des Nutzvolumens des grössten Behälters aufnehmen können; mehrere Behälter, die hydraulisch eine Einheit bilden, gelten als ein Behälter;\nb) freistehende Tanks mit nicht sichtbarem Boden über einen Doppelboden verfügen, dessen Zwischenraum mit einem Leckanzeigesystem überwacht wird;\nc) erdverlegte Tanks über Doppelwände verfügen, deren Zwischenräume mit einem Leckanzeigesystem überwacht werden;\nd) längere erdverlegte Rohrleitungen, aus denen die Flüssigkeit bei einem Leck ausfliessen kann, über Doppelwände verfügen, deren Zwischenräume mit einem Leckanzeigesystem überwacht werden;\ne) Abfüllstellen über Schutzbauwerke verfügen, die mindestens so viel Flüssigkeit aufnehmen können, wie bis zur Behebung eines Lecks höchstens auslaufen kann, mindestens jedoch 5 m&sup3;;\nf) freistehende Tanks, die mit einer Druckausgleichsleitung ausgerüstet sind, über eine Vorrichtung verfügen, die gewährleistet, dass bei Überfüllungen die auslaufende Flüssigkeit ins Schutzbauwerk gelangt."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II. Schutzmassnahmen",
+      "section": "9",
+      "title": "Art. 9 Zusätzliche Massnahme bei Kreisläufen",
+      "content": "1) Die Inhaber müssen dafür sorgen, dass in Kreisläufen diejenigen Kältemittel und Wärmeträgerflüssigkeiten verwendet werden, die das Wasser möglichst wenig gefährden.\n2) Das Amt für Umwelt erstellt eine Liste dieser Flüssigkeiten."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Schutzmassnahmen",
+      "section": "10",
+      "title": "Art. 10 Beschränkungen für Anlagen in Wasserschutzgebieten, Schutzzonen und Schutzarealen",
+      "content": "1) In Wasserschutzgebieten, Schutzzonen und Schutzarealen ist das Erstellen von sämtlichen Anlagen für wassergefährdende Flüssigkeiten sowie der dafür erforderlichen Rohrleitungen grundsätzlich verboten. Ausnahmen sind, ausser für Grosstanks für Flüssigkeiten der Klasse 1, aus wichtigen Gründen möglich, wenn a) keine wesentlichen öffentlichen Interessen dagegen stehen, insbesondere die öffentliche Wasserversorgung nicht gefährdet wird, und\nb) alle zumutbaren Schutzmassnahmen getroffen werden.\n2) In den Schutzzonen und Schutzarealen sind nur freistehende Lagerbehälter, deren Inhalt ausschliesslich der Wasseraufbereitung dient, sowie die dafür erforderlichen freistehenden Rohrleitungen und Abfüllstellen zulässig.\n3) Ausnahmebewilligungen können mit Auflagen oder Bedingungen verbunden und unter dem Vorbehalt eines jederzeitigen Widerrufs erteilt werden.\n4) Soweit Ausnahmebewilligungen in Bauzonen oder Zonen für Sport- und Freizeitanlagen, welche sich in Wasserschutzgebieten befinden, zu erteilen sind, ist das Amt für Umwelt Bewilligungsbehörde, in allen anderen Fällen die Regierung.\nIII. Bewilligungs- und Meldepflicht"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "III. Bewilligungs- und Meldepflicht",
+      "section": "11",
+      "title": "Art. 11 Bewilligungspflicht",
+      "content": "1) Die Erstellung oder Änderung einer Anlage ist bewilligungspflichtig. Die Bewilligung erteilt vorbehaltlich Art. 10 Abs. 4 das Amt für Umwelt.\n2) Keine Bewilligung ist erforderlich für: a) Lageranlagen mit einem gesamten Nutzvolumen bis 450 Liter;\nb) Umschlagplätze, für die keine Schutzmassnahmen nach den Art. 7 und 8 vorgeschrieben sind;\nc) Betriebsanlagen ausserhalb von Wasserschutzgebieten, Schutzzonen und Schutzarealen;\nd) Lageranlagen mit freistehenden Behältern und einem gesamten Nutzvolumen über 450 bis 4 000 Liter, wenn kumulativ die folgenden Voraussetzungen erfüllt sind: 1. Lagerung von ausschliesslich Heiz- oder Dieselöl oder Flüssigkeiten der Klasse 2;\n2. Lagerung von Flüssigkeiten nur in Gebinden oder Kleintanks;\n3. Standort ausserhalb von Wasserschutzgebieten, Schutzzonen und Schutzarealen;\n4. Befüllung der Behälter nur von Hand mit einer Zapfpistole;\n5. Entnahme der Flüssigkeit mit freistehenden Rohrleitungen ohne Rücklaufleitung und im Saugbetrieb (keine Druckpumpe)."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Bewilligungs- und Meldepflicht",
+      "section": "12",
+      "title": "Art. 12 Meldepflicht",
+      "content": "Die Inhaber von nicht bewilligungspflichtigen Lageranlagen nach Art. 11 Abs. 2 Bst. d müssen dem Amt für Umwelt nach dessen Anordnungen melden, dass eine Anlage nach den Anforderungen dieser Verordnung erstellt oder geändert wurde."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III. Bewilligungs- und Meldepflicht",
+      "section": "13",
+      "title": "Art. 13 Abnahme",
+      "content": "1) Die Inhaber von bewilligungspflichtigen Anlagen müssen dafür sorgen, dass die Anlagen vor ihrer Inbetriebnahme vom Amt für Umwelt abgenommen werden. Bei der Abnahme prüft das Amt für Umwelt anhand der Prüfprotokolle der Anlageteile und mit einer Sichtkontrolle, ob die Anforderungen dieser Verordnung eingehalten sind.\n2) Das Amt für Umwelt kann sachkundige Personen mit der Abnahme von Anlagen gemäss Abs. 1 beauftragen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III. Bewilligungs- und Meldepflicht",
+      "section": "14",
+      "title": "Art. 14 Kataster",
+      "content": "Das Amt für Umwelt führt einen Kataster, welcher mindestens die bewilligungs- und meldepflichtigen Anlagen beinhaltet. Der Kataster enthält insbesondere die zur Gewährleistung des Vollzugs dieser Verordnung erforderlichen Angaben.\nIV. Betrieb von Anlagen\nA. Allgemeine Vorschriften"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "15",
+      "title": "Art. 15 Tankkontrollheft",
+      "content": "1) Für Lageranlagen, welche gemäss Art. 12 gemeldet oder gemäss Art. 13 abgenommen wurden, stellt das Amt für Umwelt ein Tankkontrollheft aus.\n2) In das Tankkontrollheft sind insbesondere einzutragen: a) Datum und Ergebnis von Revisionen;\nb) Datum der nächsten Revision;\nc) Firma, welche die Revision durchgeführt hat;\nd) Datum von Einbau und Funktionskontrollen von apparativen Vorrichtungen;\ne) Name und Unterschrift des Kontrolleurs;\nf) Flüssigkeitsstand vor Befüllungen;\ng) Datum von Befüllungen;\nh) Menge und Art des eingefüllten Produktes;\ni) Name und Unterschrift des Befüllers;\nk) besondere Vorkommnisse.\n3) Tankstellen zum Umschlag von Treibstoffen sind von den Bestimmungen gemäss Abs. 2 Bst. e bis h ausgenommen, sofern eine einsehbare Lagerbuchhaltung geführt wird und der jährliche Umschlag mindestens 100 000 Liter beträgt."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "16",
+      "title": "Art. 16 Sorgfalts- und Aufbewahrungspflicht",
+      "content": "Die Inhaber von Anlagen müssen: a) dafür sorgen, dass die Anlagen regelmässig auf Mängel, insbesondere Lecks, kontrolliert und dass Mängel behoben werden;\nb) Bewilligungen, Prüfprotokolle (Art. 5 Abs. 1), Revisionsrapporte (Art. 23 Abs. 1 Bst. a) und Kontrollrapporte (Art. 24 Abs. 3 Bst. a) während mindestens zehn Jahren aufbewahren;\nc) dafür sorgen, dass sie im Besitz eines Tankkontrollheftes sind; dieses haben sie gut zugänglich bei der Anlage aufzubewahren."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "17",
+      "title": "Art. 17 Befüllen von Tanks",
+      "content": "1) Tanks dürfen nur befüllt werden, wenn: a) sie abgenommen oder gemeldet wurden;\nb) die Revisionspflicht erfüllt ist und allfällige Mängel behoben sind.\n2) Tanks dürfen insbesondere nicht befüllt werden, wenn: a) kein Tankkontrollheft vorliegt;\nb) der Flüssigkeitsstand im Tank nicht überwacht werden kann;\nc) der Fühler der Abfüllsicherung defekt ist;\nd) das Leckanzeigesystem Alarm anzeigt;\ne) die Tankanlage einen Mangel aufweist, der eine konkrete Gefahr für die Umwelt darstellt;\nf) die Sanierungs- oder Revisionsfrist abgelaufen ist.\n3) Tanks dürfen höchstens bis zum Füllstand befüllt werden, der sich aus dem Nutzvolumen ergibt.\n4) Transportbehälter mit einem Nutzvolumen über 450 Liter, die zum Lagern von wassergefährdenden Flüssigkeiten verwendet werden, dürfen am Lagerort nicht befüllt werden."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "18",
+      "title": "Art. 18 Pflichten der Befüller",
+      "content": "1) Der Befüller von Behältern ist für deren sachgemässe Auffüllung verantwortlich. Der Umschlag von Lagerprodukten ist mit aller Sorgfalt durchzuführen. Wer einen Behälter befüllt, muss insbesondere: a) ermitteln, wieviel Flüssigkeit höchstens eingefüllt werden darf;\nb) das Befüllen persönlich überwachen;\nc) das Befüllen spätestens beim höchstzulässigen Füllstand manuell abbrechen; und\nd) bei Behältern, die mit dem Fühler einer Abfüllsicherung ausgerüstet sind, den Fühler an das Steuergerät des Tankfahrzeugs anschliessen; wenn das Steuergerät eine Störung anzeigt, darf nicht befüllt werden.\n2) Der Befüller von Tanks ist verpflichtet, die folgenden Angaben in das Tankkontrollheft einzutragen: a) Flüssigkeitsstand vor der Befüllung;\nb) Datum der Befüllung;\nc) Menge und Art des eingefüllten Produktes;\nd) allfällige Überfüllungen und offensichtliche Mängel der Anlage;\ne) Name und Unterschrift.\n3) Der Befüller ist verpflichtet, Überfüllungen sowie Anlagen mit offensichtlichen Mängeln oder mit abgelaufener Sanierungs- oder Revisionsfrist dem Amt für Umwelt zu melden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "19",
+      "title": "Art. 19 Ausserbetriebsetzen",
+      "content": "1) Will der Inhaber eine Anlage nicht mehr weiter betreiben, oder verlangt das Amt für Umwelt das Ausserbetriebsetzen, so muss der Inhaber dafür sorgen, dass die Anlage durch ein Revisionsunternehmen nach Art. 21 ausser Betrieb gesetzt wird.\n2) Der Inhaber muss das Ausserbetriebsetzen von Anlagen dem Amt für Umwelt nach dessen Anordnungen melden.\nB. Revision von Lageranlagen"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "B. Revision von Lageranlagen",
+      "section": "20",
+      "title": "Art. 20 Revisionspflicht",
+      "content": "1) Die Inhaber von bewilligungspflichtigen Lageranlagen müssen dafür sorgen, dass ein Revisionsunternehmen nach Art. 21 deren Funktionstüchtigkeit und Dichtheit mindestens alle zehn Jahre kontrolliert; ausgenommen sind Gebindelager.\n2) Die Revision umfasst: a) bei Schutzbauwerken eine Sichtkontrolle auf Dichtheit;\nb) bei freistehenden Lagerbehältern eine Sichtkontrolle von aussen auf Dichtheit;\nc) bei Rohrleitungen eine Dichtheitskontrolle;\nd) bei Druckausgleichseinrichtungen und Fühlern von Abfüllsicherungen eine Funktionskontrolle;\ne) bei erdverlegten einwandigen Tanks mit Leckanzeigesystem (Vollvakuumgerät) eine Kontrolle der Dichtheit von innen;\nf) bei erdverlegten doppelwandigen Tanks mit Überwachungssystem eine Funktionskontrolle der Abfüllsicherung sowie der Rohr- und Druckausgleichleitungen.\nMittelgrosse Tanks ohne Messstab sind bei der nächstfälligen Revision zwingend mit einem solchen auszurüsten.\n3) Für Lageranlagen, die insbesondere wegen ihrer Lage, ihrer technischen Ausgestaltung oder ihres Zustandes eine besondere Gefahr für die Umwelt darstellen, oder bei denen eine Revision nach Abs. 2 nicht möglich ist, legt das Amt für Umwelt für die Revision kürzere Zeitabstände fest oder ordnet besondere Kontrollmassnahmen an."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "B. Revision von Lageranlagen",
+      "section": "21",
+      "title": "Art. 21 Revisionsunternehmen",
+      "content": "1) Revisionen von Anlagen mit wassergefährdenden Flüssigkeiten dürfen nur von in- oder ausländischen Unternehmen ausgeführt werden, die eine Bewilligung des Amtes für Umwelt haben.\n2) Die Bewilligung wird erteilt, wenn das Unternehmen: a) die Revisionsarbeiten unter Leitung und Aufsicht einer ausgewiesenen Fachperson ausführt;\nb) über die notwendige Ausrüstung verfügt;\nc) gewährleistet, dass die Arbeiten nach dem Stand der Technik ausgeführt und die Meldepflichten erfüllt werden;\nd) die Bestimmungen zur Haftpflichtversicherung gemäss Art. 22 einhält.\n3) Das Amt für Umwelt überwacht die Revisionsarbeiten der in Liechtenstein tätigen Revisionsunternehmen.\n4) Das Amt für Umwelt entzieht oder beschränkt die Bewilligung, wenn eine der Voraussetzungen nach Abs. 2 nicht mehr erfüllt ist."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "B. Revision von Lageranlagen",
+      "section": "22",
+      "title": "Art. 22 Haftpflichtversicherung",
+      "content": "1) Das Revisionsunternehmen ist verpflichtet, vor Aufnahme seiner Tätigkeit dem Amt für Umwelt nachzuweisen, dass zur Deckung der aus dieser Tätigkeit gegen das Revisionsunternehmen entstehende Schadenersatzansprüche eine Haftpflichtversicherung mit einer Mindestversicherungssumme von zwei Millionen Franken besteht. Es hat diese Versicherung während der Dauer seiner Tätigkeit aufrecht zu erhalten und dies dem Amt für Umwelt auf Verlangen nachzuweisen.\n2) Das Revisionsunternehmen sowie dessen Versicherer müssen dem Amt für Umwelt unverzüglich melden, wenn der Vertrag über die Haftpflichtversicherung aufgelöst oder wesentlich geändert wird."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "B. Revision von Lageranlagen",
+      "section": "23",
+      "title": "Art. 23 Pflichten des Revisionsunternehmens",
+      "content": "1) Das Revisionsunternehmen muss bei Revisionen: a) über den Zustand der Anlage einen Revisionsrapport erstellen und diesen dem Inhaber zustellen;\nb) Mängel der Anlage, die eine konkrete Gefahr für die Umwelt darstellen, unverzüglich dem Amt für Umwelt melden;\nc) die Durchführung der Revision dem Amt für Umwelt nach dessen Anordnungen melden.\n2) Der Revisor ist verpflichtet, die folgenden Angaben in das Tankkontrollheft einzutragen: a) Datum der Revision;\nb) Ergebnis der Revision;\nc) Datum der nächsten Revision;\nd) Firma;\ne) Name und Unterschrift.\nC. Periodische Funktionskontrolle bei apparativen Vorrichtungen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "C. Periodische Funktionskontrolle bei apparativen Vorrichtungen",
+      "section": "24",
+      "title": "Art. 24 Funktionskontrolle",
+      "content": "1) Die Inhaber von bewilligungspflichtigen Lageranlagen und Umschlagplätzen müssen dafür sorgen, dass die Funktionstüchtigkeit von apparativen Vorrichtungen regelmässig kontrolliert wird; ausgenommen sind Fühler von Abfüllsicherungen.\n2) Die Funktionskontrolle muss durchgeführt werden bei: a) Leckanzeigesystemen für einwandige Behälter und Rohrleitungen: einmal jährlich;\nb) Leckanzeigesystemen für doppelwandige Behälter und Rohrleitungen: alle zwei Jahre;\nc) Leckanzeigesystemen mit Flüssigkeitsfühlern: alle zwei Jahre;\nd) Füllsicherungen: alle drei Jahre.\n3) Wer die Funktionskontrolle durchführt, muss: a) das Ergebnis der Funktionskontrolle in einem Kontrollrapport festhalten und dem Inhaber der Anlage zustellen;\nb) die Durchführung der Kontrolle dem Amt für Umwelt nach deren Anordnungen melden.\n4) Der Kontrolleur ist verpflichtet, die folgenden Angaben in das Tankkontrollheft einzutragen: a) Datum der Kontrolle;\nb) Funktionstüchtigkeit der Vorrichtung;\nc) Name und Unterschrift.\nV. Prüfung von Anlageteilen und Spezialarbeiten"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "V. Prüfung von Anlageteilen und Spezialarbeiten",
+      "section": "25",
+      "title": "Art. 25 Prüfpflichtige Anlageteile",
+      "content": "1) Die Inhaber von Lageranlagen und Umschlagplätzen müssen dafür sorgen, dass Anlageteile nach den Abs. 2 bis 5 nur verwendet werden, wenn eine Prüfbescheinigung vorliegt, die bestätigt, dass die Anlageteile nach dem Stand der Technik den Anforderungen des Gewässerschutzes genügen; Einzelanfertigungen dürfen mit Zustimmung des Amtes für Umwelt ohne Prüfbescheinigung verwendet werden.\n2) Für folgende Behälter ist eine Prüfbescheinigung erforderlich: a) Kleintanks aus Metall;\nb) Mittelgrosse prismatische Tanks aus Metall;\nc) Mittelgrosse zylindrische Tanks aus Metall mit gewölbten Böden;\nd) Kleintanks und mittelgrosse Tanks aus Kunststoffen.\n3) Für folgende bauliche Vorrichtungen ist eine Prüfbescheinigung erforderlich: a) Schutzbauwerke aus Kunststoffen;\nb) Abdichtungen aus Kunststoffen (einschliesslich Fugenabdichtungen) für Schutzbauwerke aus mineralischen Baustoffen;\nc) innere Doppelwände aus Kunststoffen für Lagerbehälter.\n4) Für folgende apparative Vorrichtungen ist eine Prüfbescheinigung erforderlich: a) Steuergeräte und Fühler von Füllsicherungen;\nb) Leckanzeigegeräte und Fühler von Leckanzeigesystemen.\n5) Für Behälter, bauliche und apparative Vorrichtungen, die nicht unter die Abs. 2 bis 4 fallen, ist eine Prüfbescheinigung erforderlich, wenn sie technische Neuentwicklungen darstellen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "V. Prüfung von Anlageteilen und Spezialarbeiten",
+      "section": "26",
+      "title": "Art. 26 Prüfbescheinigung",
+      "content": "1) Bei Anlageteilen, die den vom Amt für Umwelt anerkannten Regeln der Technik entsprechen, wird die Prüfbescheinigung von einem Sachverständigen ausgestellt.\n2) Bei Anlageteilen, die den vom Amt für Umwelt anerkannten Regeln der Technik nicht entsprechen, wird die Prüfbescheinigung von einem Sachverständigen im Einvernehmen mit dem Amt für Umwelt ausgestellt, wenn der Antragsteller nachweist, dass der Anlageteil den Anforderungen des Gewässerschutzes trotzdem genügt.\n3) Bei Anlageteilen, für die keine vom Amt für Umwelt anerkannten Regeln der Technik bestehen oder für die kein Sachverständiger bezeichnet ist, kann das Amt für Umwelt die Prüfbescheinigung ausstellen.\n4) Die Prüfbescheinigung ist höchstens fünf Jahre gültig. Sie kann auf Gesuch hin und nach erneuter Beurteilung um jeweils höchstens fünf Jahre verlängert werden.\n5) Die Kosten für das Ausstellen und das Verlängern der Prüfbescheinigung trägt der Antragsteller.\n6) Die Sachverständigen oder das Amt für Umwelt erklären eine Prüfbescheinigung als ungültig, wenn bei einem Anlageteil nachträglich Mängel festgestellt werden.\n7) Das Amt für Umwelt bezeichnet die Sachverständigen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "V. Prüfung von Anlageteilen und Spezialarbeiten",
+      "section": "27",
+      "title": "Art. 27 Spezialarbeiten",
+      "content": "1) Die Inhaber von Lageranlagen und Umschlagplätzen müssen dafür sorgen, dass Spezialarbeiten nach Abs. 2 nur von Unternehmen ausgeführt werden, für welche ein Sachverständiger bestätigt hat, dass die Unternehmen über Personal verfügen, das aufgrund seiner Ausbildung, Ausrüstung und Erfahrung gewährleistet, dass die Arbeiten nach dem Stand der Technik erfolgen. Die Sachverständigen werden vom Amt für Umwelt bezeichnet.\n2) Als Spezialarbeiten gelten der Einbau und die Funktionsprüfung von: a) Abdichtungen mit Beschichtungen, Laminaten, Folien, Fugendichtungsmassen oder Fugenbändern;\nb) inneren Doppelwänden mit Folien.\n3) Die Sachverständigen müssen regelmässig mit Stichproben kontrollieren, ob die geprüften Unternehmen die Anforderungen erfüllen. Ist dies nicht der Fall, müssen die Sachverständigen die Bestätigung nach Abs. 1 widerrufen.\n4) Die Kosten für die Prüfung nach Abs. 1 und die Kontrollen nach Abs. 3 trägt das Unternehmen.\nVI. Organisation und Durchführung"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "VI. Organisation und Durchführung",
+      "section": "28",
+      "title": "Art. 28 Vollzug",
+      "content": "1) Der Vollzug dieser Verordnung obliegt dem Amt für Umwelt. Die Gemeinden sind zur Mitarbeit verpflichtet.\n2) Das Amt für Umwelt kann den Vollzug dieser Verordnung jederzeit durch Kontrollen vor Ort sicherstellen und die zum Schutz der Umwelt erforderlichen Massnahmen verfügen. Bei Nichtbefolgen der angeordneten Massnahmen kann das Amt für Umwelt die Ersatzvornahme auf Kosten des Inhabers anordnen.\n3) Die Aufsicht über den Vollzug dieser Verordnung obliegt der Regierung."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VI. Organisation und Durchführung",
+      "section": "29",
+      "title": "Art. 29 Auskunfts- und Duldungspflicht",
+      "content": "Jedermann ist verpflichtet, die für den Vollzug dieser Verordnung erforderlichen Auskünfte zu erteilen, nötigenfalls Abklärungen durchzuführen oder zu dulden."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VI. Organisation und Durchführung",
+      "section": "30",
+      "title": "Art. 30 Rechtsmittel",
+      "content": "1) Gegen Entscheidungen und Verfügungen des Amtes für Umwelt kann binnen 14 Tagen ab Zustellung Beschwerde an die Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden.\n2) Gegen Entscheidungen und Verfügungen der Beschwerdekommission für Verwaltungsangelegenheiten oder der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\nVII. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "31",
+      "title": "Art. 31 Widerhandlungen",
+      "content": "Nach Art. 61 des Gewässerschutzgesetzes wird bestraft, wer: a) sich bei seinen Tätigkeiten nicht an den Stand der Technik hält (Art. 5);\nb) durch ungenügende Massnahmen das Verhindern von Flüssigkeitsverlusten nicht gewährleistet (Art. 6);\nc) durch ungenügende Massnahmen das leichte Erkennen von Flüssigkeitsverlusten nicht gewährleistet (Art. 7);\nd) durch ungenügende Massnahmen das Zurückhalten von auslaufenden Flüssigkeiten nicht gewährleistet (Art. 8);\ne) in Wasserschutzgebieten, Schutzzonen oder Schutzarealen eine Anlage ohne die entsprechende Ausnahmebewilligung erstellt (Art. 10);\nf) eine bewilligungspflichtige Anlage ohne Bewilligung erstellt oder ändert (Art. 11);\ng) das Erstellen oder Ändern einer nicht bewilligungspflichtigen Anlage nicht meldet (Art. 12);\nh) eine bewilligungspflichtige Anlage vor deren Abnahme in Betrieb nimmt (Art. 13);\ni) den Pflichten zur Eintragung in das Tankkontrollheft nicht nachkommt (Art. 15, Art. 18 Abs. 2, Art. 23 Abs. 2, Art. 24 Abs. 4);\nk) die Sorgfalts- und Aufbewahrungspflichten nicht einhält (Art. 16);\nl) eine Anlage vorschriftswidrig befüllt (Art. 17 und 18);\nm) die Ausserbetriebnahme einer Anlage nicht gemäss dem Stand der Technik durchführt (Art. 19);\nn) der Revisionspflicht nicht nachkommt (Art. 20);\no) Revisionen ohne Bewilligung ausführt (Art 21);\np) apparative Vorrichtungen nicht regelmässig kontrollieren lässt (Art. 24);\nq) Anlageteile ohne Prüfbescheinigung verwendet (Art. 25);\nr) ohne Bestätigung durch einen Sachverständigen Spezialarbeiten ausführt (Art. 27);\ns) angeordnete Massnahmen nicht befolgt (Art. 28);\nt) Auskünfte verweigert oder Abklärungen nicht duldet (Art. 29);\nu) Revisionen nach bisherigem Recht nicht durchführt (Art. 33);\nv) in anderer Weise gegen die Bestimmungen dieser Verordnung verstösst.\nVIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "32",
+      "title": "Art. 32 Bestehende Anlagen und Anlageteile",
+      "content": "1) Anlagen und Anlageteile, die vor Inkrafttreten dieser Verordnung vorschriftsgemäss erstellt wurden, dürfen solange weiterbetrieben werden, wie sie dem bisherigen Recht und den gestützt darauf erlassenen behördlichen Anordnungen entsprechen, funktionstüchtig sind und keine konkrete Gefahr einer Beeinträchtigung der Umwelt darstellen.\n2) Für Anlagen, die vor Inkrafttreten dieser Verordnung erstellt oder geändert wurden, ist ebenfalls ein Tankkontrollheft auszustellen."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "33",
+      "title": "Art. 33 Revisionspflicht nach bisherigem Recht",
+      "content": "Inhaber von Anlagen, welchen gemäss bisherigem Recht bis zum Inkrafttreten dieser Verordnung eine Revisionsaufforderung zugestellt wurde, müssen dafür sorgen, dass diese Revision gemäss bisherigem Recht und den gestützt darauf erlassenen behördlichen Anordnungen durchgeführt wird."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "34",
+      "title": "Art. 34 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben: a) Verordnung vom 27. April 1971 über Tankanlagen zur Lagerung von Öl, Benzin und anderen wassergefährdenden Flüssigkeiten, LGBl. 1971 Nr. 25;\nb) Verordnung vom 20. Juli 1976 über die Sicherung und Ausserbetriebnahme von Tankanlagen, LGBl. 1976 Nr. 54."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "35",
+      "title": "Art. 35 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 1999 in Kraft.\nFürstliche Regierung:\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\n1\nIngress abgeändert durch LGBl. 2021 Nr. 272 .\n2\nArt. 4 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2012 Nr. 321 .\n3\nArt. 4 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n4\nArt. 5 Abs. 4 abgeändert durch LGBl. 2012 Nr. 321 .\n5\nArt. 9 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n6\nArt. 10 Abs. 4 abgeändert durch LGBl. 2012 Nr. 321 .\n7\nArt. 11 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n8\nArt. 12 abgeändert durch LGBl. 2012 Nr. 321 .\n9\nArt. 13 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n10\nArt. 13 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n11\nArt. 14 abgeändert durch LGBl. 2012 Nr. 321 .\n12\nArt. 15 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n13\nArt. 16 Bst. c abgeändert durch LGBl. 1999 Nr. 252 .\n14\nArt. 18 Abs. 3 abgeändert durch LGBl. 2012 Nr. 321 .\n15\nArt. 19 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n16\nArt. 19 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n17\nArt. 20 Abs. 2 Bst. f abgeändert durch LGBl. 1999 Nr. 252 .\n18\nArt. 20 Abs. 3 abgeändert durch LGBl. 2012 Nr. 321 .\n19\nArt. 21 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n20\nArt. 21 Abs. 3 abgeändert durch LGBl. 2012 Nr. 321 .\n21\nArt. 21 Abs. 4 abgeändert durch LGBl. 2012 Nr. 321 .\n22\nArt. 22 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n23\nArt. 22 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n24\nArt. 23 Abs. 1 Bst. b abgeändert durch LGBl. 2012 Nr. 321 .\n25\nArt. 23 Abs. 1 Bst. c abgeändert durch LGBl. 2012 Nr. 321 .\n26\nArt. 24 Abs. 3 Bst. b abgeändert durch LGBl. 2012 Nr. 321 .\n27\nArt. 25 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n28\nArt. 26 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n29\nArt. 26 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n30\nArt. 26 Abs. 3 abgeändert durch LGBl. 2012 Nr. 321 .\n31\nArt. 26 Abs. 6 abgeändert durch LGBl. 2012 Nr. 321 .\n32\nArt. 26 Abs. 7 abgeändert durch LGBl. 2012 Nr. 321 .\n33\nArt. 27 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n34\nArt. 28 Abs. 1 abgeändert durch LGBl. 2012 Nr. 321 .\n35\nArt. 28 Abs. 2 abgeändert durch LGBl. 2012 Nr. 321 .\n36\nArt. 30 abgeändert durch LGBl. 2021 Nr. 272 .\n37\nArt. 31 abgeändert durch LGBl. 1999 Nr. 252 .\n38\nArt. 31 Einleitungssatz abgeändert durch LGBl. 2021 Nr. 272 .\n39\nArt. 32 Abs. 2 eingefügt durch LGBl. 1999 Nr. 252 ."
+    }
+  ],
+  "definitions": []
+}

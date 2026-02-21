@@ -1,0 +1,71 @@
+{
+  "id": "li-konso-2022326000",
+  "type": "statute",
+  "title": "Verordnung vom 15. November 2022 über das Zentrale Personenregister (ZPRV)",
+  "title_en": "",
+  "short_name": "ZPRV",
+  "status": "in_force",
+  "issued_date": "2022-11-15",
+  "in_force_date": "2022-11-15",
+  "url": "https://www.gesetze.li/konso/2022326000",
+  "description": "Verordnung vom 15. November 2022 über das Zentrale Personenregister (ZPRV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt das Nähere über die Datenqualität sowie den Inhalt des Zentralen Personenregisters (ZPR)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Datenqualität"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Datenqualität",
+      "section": "3",
+      "title": "Art. 3 Massnahmen zur Sicherstellung der Datenqualität",
+      "content": "Als Massnahmen zur Sicherstellung der Datenqualität nach Art. 5 Abs. 3 ZPRG gelten insbesondere:\na) Validierungen zur Sicherstellung der Konsistenz und Einheitlichkeit von Daten;\nb) Richtlinien und Vorgaben zur Sicherstellung der Einheitlichkeit und Genauigkeit von Daten;\nc) Schulungs- und Organisationskonzepte sowie -massnahmen zur Sicherstellung der Redundanzfreiheit und Zuverlässigkeit von Daten;\nd) Attributsbeschreibungen und Hilfetexte zur Sicherstellung der Relevanz und Verständlichkeit von Attributen;\ne) ablauforientierte Erfassung von Daten zur Sicherstellung der Einheitlichkeit und Vollständigkeit von Daten;\nf) automatische Vorbefüllung von Attributen zur Sicherstellung der Konsistenz und Richtigkeit von Daten;\ng) definierter Zeichensatz zur Sicherstellung der Aktualität und Konsistenz von Daten;\nh) Darstellung von geschäftsfallorientierten Metadaten zu jeder Datenerfassung zur Sicherstellung der Eindeutigkeit und Zuverlässigkeit von Daten;\ni) Darstellung inaktiver Datensätze zur Sicherstellung der Aktualität und Eindeutigkeit von Daten;\nk) monatliche und periodische Reports über die Qualitätssicherung zur Sicherstellung der Eindeutigkeit und Redundanzfreiheit von Daten.\nIII. Inhalt des ZPR"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "III. Inhalt des ZPR",
+      "section": "4",
+      "title": "Art. 4 Kriterien für die Aufnahme von Attributen in das ZPR",
+      "content": "Attribute im Sinne von Art. 3 Abs. 1 Bst. b ZPRG werden in das ZPR aufgenommen, wenn:\na) das Attribut aus sachlich-fachlicher Sicht eine direkte Ausprägung einer Stammdaten-Kategorie \"natürliche Personen\", \"Unternehmen\" oder \"Sachstammdaten\" ist;\nb) das Attribut eine Mehrfachrelevanz für die Erfüllung gesetzlich übertragener Aufgaben von öffentlichen Stellen hat; oder\nc) die zentrale Führung und Zurverfügungstellung des Attributs zu Vorteilen für die öffentlichen Stellen oder die Betroffenen führen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "III. Inhalt des ZPR",
+      "section": "5",
+      "title": "Art. 5 Zusammenfassung von Attributen",
+      "content": "1) Attribute werden nach Art. 6 Abs. 1 Bst. a ZPRG in Gruppen zusammengefasst; die Zusammenfassung erfolgt nach sachlichen und logischen Aspekten.\n2) Gruppen nach Abs. 1 sind:\na) die Gruppen \"ZSD1\" und \"ZSD1 historisch\", wobei \"ZSD\" für \"Zentrale Stammdaten\" steht;\nb) die Gruppen \"NP 1\" bis \"NP 6\", wobei \"NP\" für \"Natürliche Personen\" steht;\nc) die Gruppen \"NP/JP1\" und \"NP/JP2\", wobei \"NP\" für \"Natürliche Personen\" und \"JP\" für \"Unternehmen\" steht.\n3) Die Gruppe \"ZSD1\" umfasst die Kernattribute nach Art. 14 Abs. 2 Bst. b ZPRG und steht sämtlichen Benutzern der öffentlichen Stellen ohne gesonderte Berechtigung der ZPR-Kommission zur Verfügung. Die übrigen Gruppen stehen Benutzern zur Verfügung, denen von der ZPR-Kommission eine Berechtigung nach Art. 8 ZPRG erteilt wurde.\n4) Die den Gruppen nach Abs. 2 zugeordneten Attribute werden im Anhang aufgeführt. Der Anhang umfasst diejenigen Attribute, die:\na) von den Benutzern verarbeitet werden können; und\nb) eine tatsächliche Ausprägung einer natürlichen Person oder eines Unternehmens darstellen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "III. Inhalt des ZPR",
+      "section": "6",
+      "title": "Art. 6 Reglement",
+      "content": "Als notwendige Umsetzungsmassnahme im Sinne von Art. 19 Abs. 2 Bst. b ZPRG wird von der ZPR-Kommission ein Reglement erlassen, das Erklärungen für die im Anhang Bst. A und B aufgeführten Attribute enthält.\nIV. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "IV. Schlussbestimmungen",
+      "section": "7",
+      "title": "Art. 7 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 20. Dezember 2011 über das Zentrale Personenregister (ZPRV), LGBl. 2011 Nr. 602, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "IV. Schlussbestimmungen",
+      "section": "8",
+      "title": "Art. 8 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Dezember 2022 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nAnhang\n(Art. 5 Abs. 4)\nAttribute der Stammdaten-Kategorien\nA. Attribute der Stammdaten-Kategorie \"Natürliche Personen\"\nAttribute der Stammdaten-Kategorie \"Natürliche Personen\" sind:\nPEID (Personenidentifikationsnummer)\nName\nGeburtsname\nName Aufenthaltstitel\nFamilienname\nVorname\nRufvorname\nVorname Aufenthaltstitel\nGeburtsdatum\nGeburtsort, Geburtsland\nBürgerort\nStaatsbürgerschaft\nGeschlecht\nAnrede\nTitel\nZivilstand\nAHV\nStatus\nErsatz PEID\nGeburtsvorname\nFoto\nUnterschrift\nBesachwalterung\nErwerbstätig\nErwerbsstellung\nEmail\nTelefonnummer\nAdresstyp\nStrasse\nNr.\nPLZ\nOrt\nGemeindegebiet\nLand\nc/o\nz.Hd.\nPostfach\nTyp Zivilstands-Ereignis\nEreignisdatum\nEreigniszeit\nLänderkürzel\nBeziehungstyp\nTyp des Arbeitsverhältnisses\nName örtliche Einheit\nBeschäftigungsgrad\nBerufsstellung\nTätigkeit\nName\nRechtsform\nB. Attribute der Stammdaten-Kategorie \"Unternehmen\"\nAttribute der Stammdaten-Kategorie \"Unternehmen\" sind:\nTyp\nPEID (Personenidentifikationsnummer)\nName\nRufname\nRechtsform\nAusländische Registernummer\nÖffentlich-rechtliches Unternehmen\nNOGA (Nomenclature Générale des Activités économiques)\nNOGA ab\nGegründet am\nBeendet am\nEmail\nTelefonnummer\nAdresstyp\nStrasse\nNr.\nPLZ\nOrt\nGemeindegebiet\nLand\nc/o\nz.Hd.\nPostfach\nNOGA Text\nArbeitsverhältnisse\nVollzeitäquivalent\nName\nVorname\nFunktion\nGeburtsdatum\nKapitalbetrag\nKapitalwährung\nKapitaltext\nSitzverlegungsdatum\nKonkurseröffnungsdatum\nLiquidationsdatum\nLiquidationsgrund\nZweck\nC. Attribute der Stammdaten-Kategorie \"Sachstammdaten\"\nAttribute der Stammdaten-Kategorie \"Sachstammdaten\" sind:\nLänder\nLändergruppen\nOrte\nStrassen\nRechtsformen\nWährungen\nSektoren\n1\nArt. 5 Abs. 2 Bst. c abgeändert durch LGBl. 2024 Nr. 249 .\n2\nAnhang abgeändert durch LGBl. 2024 Nr. 249 ."
+    }
+  ],
+  "definitions": []
+}

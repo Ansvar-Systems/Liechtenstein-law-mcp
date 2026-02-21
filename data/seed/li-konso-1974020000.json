@@ -1,0 +1,904 @@
+{
+  "id": "li-konso-1974020000",
+  "type": "statute",
+  "title": "Ehegesetz (EheG) vom 13. Dezember 1973",
+  "title_en": "",
+  "short_name": "LGBl 1974.020",
+  "status": "in_force",
+  "issued_date": "1973-12-13",
+  "in_force_date": "1973-12-13",
+  "url": "https://www.gesetze.li/konso/1974020000",
+  "description": "Ehegesetz (EheG) vom 13. Dezember 1973",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Wesen der Ehe",
+      "content": "Die Ehe ist die durch Vertrag begründete, volle und ungeteilte Lebensgemeinschaft zweier Menschen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Ehefreiheit",
+      "content": "Jedermann kann eine Ehe schliessen, wenn der beabsichtigten Verbindung kein gesetzliches Hindernis entgegensteht."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Religiös geschlossene Ehe",
+      "content": "1) Eine religiös geschlossene Ehe kann nur unter Beachtung der von der jeweiligen Religionsgemeinschaft erlassenen Vorschriften eingegangen werden.\n2) Die religiöse Traufeierlichkeit darf erst nach Vorlage des Ehescheines vorgenommen werden.\n3) Im übrigen bleibt eine religiös geschlossene Ehe von den Bestimmungen dieses Gesetzes unberührt."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "Allgemeine Bestimmungen",
+      "section": "3a",
+      "title": "Art. 3a Bezeichnungen",
+      "content": "Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen.\n2. Teil\nDas Recht der Eheschliessung\n1. Abschnitt\nDie Verlobung"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Die Verlobung",
+      "section": "4",
+      "title": "Art. 4 Verlobung",
+      "content": "Die Verlobung besteht in dem Versprechen zweier ehemündiger Personen, einander zu heiraten."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Die Verlobung",
+      "section": "5",
+      "title": "Art. 5 Ausschluss der Klage auf Eingehung der Ehe",
+      "content": "1) Aus dem Verlöbnis entsteht kein klagbarer Anspruch auf Eingehung der Ehe.\n2) Eine Konventionalstrafe, die für den Fall des Verlöbnisbruches festgesetzt ist, kann nicht eingeklagt werden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Die Verlobung",
+      "section": "6",
+      "title": "Art. 6 Folgen des Verlöbnisbruches",
+      "content": "1) Bricht ein Verlobter ohne wichtige Gründe das Verlöbnis, oder wird es aus einem Grunde, den er selbst verschuldet hat, von ihm oder dem anderen Verlobten aufgehoben, so hat er diesem, dessen Eltern oder dritten Personen, die anstelle der Eltern gehandelt haben, für die Veranstaltungen, die mit Hinsicht auf die Eheschliessung in guten Treuen getroffen worden sind, einen angemessenen Ersatz zu leisten.\n2) Erleidet durch den Verlöbnisbruch ein Verlobter ohne sein Verschulden eine schwere Verletzung in seinen persönlichen Verhältnissen, so kann ihm das Gericht bei Verschulden des anderen Verlobten eine Geldsumme als Genugtuung (§ 1293 ff. ABGB) zusprechen.\n3) Dieser Anspruch ist nicht übertragbar und geht auf die Erben nur über, wenn er zur Zeit des Todes des Anspruchberechtigten anerkannt oder eingeklagt ist."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Die Verlobung",
+      "section": "7",
+      "title": "Art. 7 Rückerstattung von Geschenken",
+      "content": "1) Geschenke unter Verlobten können bei Aufhebung des Verlöbnisses zurückgefordert werden. Sind sie nicht mehr vorhanden, ist der Betrag der Bereicherung herauszugeben.\n2) Wird das Verlöbnis durch den Tod eines Verlobten aufgelöst, so ist jede Rückforderung ausgeschlossen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Die Verlobung",
+      "section": "8",
+      "title": "Art. 8 Verjährung",
+      "content": "Die Ansprüche aus dem Verlöbnis verjähren mit Ablauf eines Jahres nach der Auflösung.\n2. Abschnitt\nEhefähigkeit und Ehehindernisse\nI. Ehefähigkeit"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "I. Ehefähigkeit",
+      "section": "9",
+      "title": "Art. 9 Ehemündigkeit",
+      "content": "1) Um eine Ehe eingehen zu können, müssen die Brautleute das 18. Altersjahr zurückgelegt haben.\n2) Das Gericht kann jedoch in ausserordentlichen Fällen, wenn schwerwiegende Rücksichten es rechtfertigen, eines der Brautleute mit Zustimmung des gesetzlichen Vertreters für ehemündig erklären."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "I. Ehefähigkeit",
+      "section": "10",
+      "title": "Art. 10 Urteilsfähigkeit",
+      "content": "1) Um eine Ehe eingehen zu können, müssen die Brautleute urteilsfähig sein.\n2) Geisteskranke sind in keinem Falle ehefähig."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "I. Ehefähigkeit",
+      "section": "11",
+      "title": "Art. 11 Einwilligung des gesetzlichen Vertreters",
+      "content": "1) Unmündige oder Personen, die aus anderen Gründen in ihrer Geschäftsfähigkeit beschränkt sind, können eine Ehe nur mit Einwilligung des gesetzlichen Vertreters eingehen.\n2) Verweigert der gesetzliche Vertreter die Einwilligung ohne triftige Gründe, so kann das Gericht sie auf Antrag eines der Brautleute, das der Einwilligung bedarf, ersetzen.\nII. Ehehindernisse"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Ehehindernisse",
+      "section": "12",
+      "title": "Art. 12 Ehehindernisse",
+      "content": "Ehehindernisse sind:\na) Blutsverwandtschaft und Adoption;\nb) bestehendes Eheband oder bestehende eingetragene Partnerschaft mit einer Drittperson."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Ehehindernisse",
+      "section": "13",
+      "title": "Art. 13 Blutsverwandtschaft und Adoption",
+      "content": "1) Eine Ehe darf nicht geschlossen werden zwischen Blutsverwandten gerader Linie, zwischen voll- oder halbbürtigen Geschwistern und zwischen Onkel und Nichte, Tante und Neffe, seien sie einander ehelich oder ausserehelich verwandt.\n2) Eine Ehe darf nicht geschlossen werden zwischen dem angenommenen Kinde und dem Annehmenden."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Ehehindernisse",
+      "section": "14",
+      "title": "Art. 14 Bestehendes Eheband oder bestehende eingetragene Partnerschaft; Verschollenheit",
+      "content": "1) Eine Ehe darf nicht geschlossen werden, solange eine frühere Ehe oder eine mit einer Drittperson begründete eingetragene Partnerschaft besteht.\n2) Ist ein Ehegatte für verschollen erklärt, so kann der andere Ehegatte eine neue Ehe nur eingehen, wenn die frühere Ehe gerichtlich aufgelöst worden ist.\n3. Abschnitt\nVerkündung und Trauung\nI. Verkündung"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "I. Verkündung",
+      "section": "15",
+      "title": "Art. 15 Verkündungsgesuch",
+      "content": "Um die Verkündung zu erwirken, müssen die Brautleute ihr Ehevorhaben beim Zivilstandsbeamten anmelden, der die Verkündung durch Veröffentlichung auf der Webseite der Behörde veranlasst."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "I. Verkündung",
+      "section": "16",
+      "title": "Art. 16 Form des Verkündungsgesuches",
+      "content": "Die Anmeldung erfolgt durch die Brautleute persönlich oder mit einer schriftlichen Erklärung, in der die Unterschriften amtlich beglaubigt sind."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "I. Verkündung",
+      "section": "17",
+      "title": "Art. 17 Abweisung des Verkündungsgesuches",
+      "content": "1) Die Verkündung wird verweigert, wenn:\na) die Anmeldung nicht richtig erfolgt;\nb) eines der Brautleute nicht ehefähig ist;\nc) ein gesetzliches Ehehindernis offenkundig ist; oder\nd) eines der Brautleute offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländern umgehen will.\n2) Der Zivilstandsbeamte hört die Brautleute in den Fällen nach Abs. 1 Bst. d an und kann bei anderen Behörden oder bei Drittpersonen Auskünfte einholen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "I. Verkündung",
+      "section": "18",
+      "title": "Art. 18 Einspruchsrecht",
+      "content": "1) Während der Verkündungsfrist kann jedermann, der ein Interesse hat, Einspruch gegen die Eheschliessung erheben unter Berufung auf den Mangel der Ehefähigkeit eines der Brautleute oder auf ein gesetzliches Ehehindernis.\n2) Der Einspruch ist beim Zivilstandsbeamten schriftlich anzubringen.\n3) Ein Einspruch, der weder den Mangel der Ehefähigkeit noch ein gesetzliches Ehehindernis betrifft, wird vom Zivilstandsbeamten zurückgewiesen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "I. Verkündung",
+      "section": "19",
+      "title": "Art. 19 Mitteilung des Einspruches",
+      "content": "1) Ist ein Einspruch erhoben worden, so hat der Zivilstandsbeamte nach Ablauf der Verkündungsfrist den Brautleuten sofort davon Kenntnis zu geben.\n2) Wird der Einspruch von einem der Brautleute nicht anerkannt, so ist dem Einsprecher davon unverzüglich Kenntnis zu geben."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "I. Verkündung",
+      "section": "20",
+      "title": "Art. 20 Entscheidung über den Einspruch",
+      "content": "Will der Einsprecher den Einspruch aufrecht erhalten, so hat er beim Gericht auf Untersagung des Eheabschlusses zu klagen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "I. Verkündung",
+      "section": "21",
+      "title": "Art. 21 Frist",
+      "content": "1) Die Frist für die Anmeldung des Einspruches, für die Verweigerung der Anerkennung sowie für die Anbringung der Klage auf Untersagung des Eheabschlusses beträgt jeweils 14 Tage.\n2) Sie beginnt mit dem Tage, an dem die Verkündung erfolgt, der Einspruch den Brautleuten mitgeteilt oder die Verweigerung der Anerkennung dem Einsprecher eröffnet worden ist.\nII. Trauung"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "II. Trauung",
+      "section": "22",
+      "title": "Art. 22 Voraussetzung",
+      "content": "Der Zivilstandsbeamte darf die Trauung nur vornehmen, wenn kein Einspruch vorliegt oder der angebrachte Einspruch beim Gericht nicht anhängig gemacht oder abgewiesen worden ist. Nimmt er sie nicht selbst vor, so stellt er einen Verkündungsschein aus, der sechs Monate gilt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "II. Trauung",
+      "section": "23",
+      "title": "Art. 23 Verweigerung der Trauung",
+      "content": "1) Der Zivilstandsbeamte hat die Vornahme der Trauung zu verweigern, sobald ein Grund vorliegt, aus dem die Verkündung verweigert werden muss.\n2) Nach Ablauf von sechs Monaten verliert die Verkündung ihre Wirkung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "II. Trauung",
+      "section": "24",
+      "title": "Art. 24 Trauung ohne Verkündung",
+      "content": "Besteht wegen schwerer Erkrankung eines der Brautleute die Gefahr, dass bei Beobachtung der Verkündungsfristen die Ehe nicht mehr geschlossen werden könnte, so darf die Regierung den Zivilstandsbeamten ermächtigen, die Trauung unter Abkürzung der Fristen oder ohne Verkündung vorzunehmen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "II. Trauung",
+      "section": "25",
+      "title": "Art. 25 Öffentlichkeit der Trauungshandlung",
+      "content": "1) Die Trauung erfolgt öffentlich in dem Trauungslokal vor zwei mündigen Zeugen.\n2) Ausserhalb des Trauungslokals ist die Trauung nur dann statthaft, wenn durch ärztliches Zeugnis festgestellt ist, dass eines der Brautleute wegen Krankheit verhindert ist, beim Amte zu erscheinen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "II. Trauung",
+      "section": "26",
+      "title": "Art. 26 Form der Trauung",
+      "content": "1) Der Zivilstandsbeamte richtet an die Brautleute einzeln die Frage, ob sie die Ehe miteinander eingehen wollen.\n2) Nach Bejahung dieser Frage erklärt der Zivilstandsbeamte, dass durch diese beidseitige Zustimmung die Ehe kraft des Gesetzes geschlossen sei."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "II. Trauung",
+      "section": "27",
+      "title": "Art. 27 Verordnung",
+      "content": "Die Regierung erlässt im Verordnungswege nähere Vorschriften über die Verkündung, die Trauung und die Führung der Eheregister.\n4. Abschnitt\nDie Ungültigkeit der Ehe\nI. Ungültigkeitsgründe"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "28",
+      "title": "Art. 28 Grundsatz",
+      "content": "Eine Ehe ist nur in den Fällen ungültig, in denen dies in den Art. 29 bis 38 bestimmt ist."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "29",
+      "title": "Art. 29 Blutsverwandtschaft und Adoption",
+      "content": "Eine Ehe ist ungültig, wenn sie trotz Vorliegens des Ehehindernisses der Blutsverwandtschaft oder der Adoption (Art. 13) eingegangen worden ist."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "30",
+      "title": "Art. 30 Bestehendes Eheband oder bestehende eingetragene Partnerschaft",
+      "content": "Eine Ehe ist ungültig, wenn sie trotz bestehenden Ehebandes oder bestehender eingetragener Partnerschaft mit einer Drittperson (Art. 14) eingegangen worden ist."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "31",
+      "title": "Art. 31 Geschlechtliches Unvermögen",
+      "content": "Eine Ehe ist ungültig, wenn einer der Ehegatten wegen dauerndem physischem oder psychischem Unvermögen, das schon zur Zeit des Eheabschlusses bestanden hat, die Ehe mit dem anderen Ehegatten nicht vollziehen kann."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "32",
+      "title": "Art. 32 Mangel der Form",
+      "content": "1) Eine Ehe ist ungültig, wenn die Eheschliessung vor dem Zivilstandsbeamten nicht in der durch Art. 26 vorgeschriebenen Form stattgefunden hat.\n2) Die Ehe ist jedoch als von Anfang an gültig anzusehen, wenn die Ehegatten nach der Eheschliessung fünf Jahre oder, falls einer von ihnen vorher verstorben ist, bis zu dessen Tode, jedoch mindestens drei Jahre, als Ehegatten miteinander gelebt haben, es sei denn, dass bei Ablauf der fünf Jahre oder zur Zeit des Todes des einen Ehegatten die Ungültigkeitsklage erhoben ist."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "33",
+      "title": "Art. 33 Mangel der Urteilsfähigkeit",
+      "content": "Eine Ehe ist ungültig, wenn einer der Ehegatten zur Zeit der Eheschliessung geisteskrank oder aus einem dauernden oder vorübergehenden Grund urteilsunfähig ist."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "34",
+      "title": "Art. 34 Mangel der Einwilligung des gesetzlichen Vertreters",
+      "content": "1) Eine Ehe ist ungültig, wenn ein Ehegatte, der unmündig oder aus anderen Gründen in seiner Geschäftsfähigkeit beschränkt ist, ohne Einwilligung des gesetzlichen Vertreters die Ehe eingegangen ist.\n2) Die Ehe ist jedoch von Anfang an als gültig anzusehen, wenn der Ehegatte mündig geworden ist oder die Geschäftsunfähigkeit weggefallen ist oder der gesetzliche Vertreter seine Einwilligung nachträglich erteilt hat oder wenn die Frau schwanger geworden ist."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "35",
+      "title": "Art. 35 Irrtum in der Person des anderen Ehegatten",
+      "content": "Eine Ehe ist ungültig, wenn sich ein Ehegatte bei der Eheschliessung in der Person des anderen Ehegatten geirrt hat. Alle übrigen Irrtümer der Ehegatten sowie auch ihre getäuschten Erwartungen der vorausgesetzten oder auch verabredeten Bedingungen machen die Ehe nicht ungültig."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "36",
+      "title": "Art. 36 Arglistige Täuschung",
+      "content": "1) Eine Ehe ist ungültig, wenn ein Ehegatte zur Eingehung der Ehe durch arglistige Täuschung über solche Umstände bestimmt worden ist, die ihn bei Kenntnis der Sachlage und bei richtiger Würdigung des Wesens der Ehe von der Eingehung der Ehe abgehalten hätten.\n2) Die Ehe ist jedoch als von Anfang an gültig anzusehen, wenn der Ehegatte nach Entdeckung der Täuschung zu erkennen gegeben hat, dass er die Ehe fortsetzen will."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "37",
+      "title": "Art. 37 Gegründete Furcht",
+      "content": "1) Eine Ehe ist ungültig, wenn ein Ehegatte unter dem Einfluss einer gegründeten Furcht, deren Vorhandensein aus der Grösse und Wahrscheinlichkeit der Gefahr und aus der Leibes- und Gemütsbeschaffenheit des bedrohten Ehegatten zu beurteilen ist, zur Eingehung der Ehe bestimmt worden ist.\n2) Die Ehe ist jedoch als von Anfang an gültig anzusehen, wenn der Ehegatte nach Aufhören der gegründeten Zwangslage zu erkennen gegeben hat, dass er die Ehe fortsetzen will."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "38",
+      "title": "Art. 38 Staatsbürgerschaftsehe",
+      "content": "1) Eine Ehe ist ungültig, wenn ein Ehegatte nicht eine Lebensgemeinschaft begründen, sondern die Vorschriften über den Erwerb des Landesbürgerrechts umgehen wollte.\n2) Die Ehe ist jedoch als von Anfang an gültig anzusehen, wenn die Ehegatten nach der Eheschliessung fünf Jahre oder, falls einer von ihnen vorher verstorben ist, bis zu seinem Tode, jedoch mindestens drei Jahre, als Ehegatten miteinander gelebt haben, es sei denn, dass bei Ablauf der fünf Jahre oder zur Zeit des Todes des einen Ehegatten die Ungültigkeitsklage erhoben ist."
+    },
+    {
+      "provision_ref": "art38a",
+      "chapter": "I. Ungültigkeitsgründe",
+      "section": "38a",
+      "title": "Art. 38a Umgehung der Bestimmungen über Zulassung und Aufenthalt von Ausländern",
+      "content": "Die Ehe ist ungültig, wenn einer der Ehegatten nicht eine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländern umgehen will.\nII. Ungültigerklärung"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "II. Ungültigerklärung",
+      "section": "39",
+      "title": "Art. 39 Bedeutung der Ungültigerklärung",
+      "content": "1) Die Ungültigkeit der Ehe wird erst wirksam, nachdem das Gericht die Ungültigkeit durch Urteil ausgesprochen hat.\n2) Bis zu diesem Urteil hat die Ehe die Wirkungen einer gültigen Ehe."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "II. Ungültigerklärung",
+      "section": "40",
+      "title": "Art. 40 Verfahren",
+      "content": "1) Das Verfahren auf Ungültigerklärung ist unter Vorbehalt von Abs. 2 von Amtes wegen durchzuführen.\n2) In den Fällen der Art. 31, 35, 36 und 37 kann die Klage nur von dem in seinen Rechten verletzten Ehegatten und im Falle von Art. 34 nur vom gesetzlichen Vertreter erhoben werden.\nIII. Folgen der Ungültigkeit"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "III. Folgen der Ungültigkeit",
+      "section": "41",
+      "title": "Art. 41 Für die Kinder",
+      "content": "1) Wird eine Ehe für ungültig erklärt, so gelten die Kinder gleichwohl als ehelich, ohne Rücksicht auf den guten oder bösen Glauben ihrer Eltern.\n2) Für die Pflege und Erziehung der Kinder gelten die gleichen Vorschriften wie bei der Trennung."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "III. Folgen der Ungültigkeit",
+      "section": "42",
+      "title": "Art. 42 Für die Ehegatten",
+      "content": "1) Wird eine Ehe für ungültig erklärt, so nehmen die Ehegatten den Namen wieder an, den sie vor dem Abschluss der Ehe getragen haben. Im übrigen gelten die Bestimmungen des Art. 66 sinngemäss.\n2) Für die Regelung von Unterhaltsansprüchen nach der Ungültigerklärung einer Ehe sind die Bestimmungen der Art. 67 ff. sinngemäss heranzuziehen. Dabei ist für die Bemessung eines allfälligen Unterhaltes nach Billigkeit auch zu berücksichtigen, ob der Grund, der zur Ungültigerklärung der Ehe führte, einem Ehegatten beim Eingehen der Ehe bekannt war oder bekannt sein musste.\n3) Für die vermögensrechtliche Auseinandersetzung der Ehegatten nach einer Ungültigerklärung der Ehe gelten, sofern in den Ehepakten keine entsprechende Vorsorge getroffen worden ist, die Bestimmungen der Art. 73 ff.\n4) Für die Aufteilung der während der Ehe erworbenen Austrittsleistungen aus der beruflichen Vorsorge gelten die Bestimmungen der Art. 89b bis 89f.\n5. Abschnitt\nDie Wirkungen der Ehe"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "43",
+      "title": "Art. 43 Eheliche Gemeinschaft; Rechte und Pflichten der Ehegatten",
+      "content": "1) Durch die Trauung werden die Ehegatten zur ehelichen Gemeinschaft verbunden.\n2) Sie verpflichten sich gegenseitig, das Wohl der Gemeinschaft im einträchtigen Zusammenwirken zu wahren und für die Kinder gemeinsam zu sorgen.\n3) Sie schulden einander Treue und Beistand."
+    },
+    {
+      "provision_ref": "art43a",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "43a",
+      "title": "Art. 43a Rechtsverhältnis zwischen Ehegatten und ihren Kindern",
+      "content": "Auf das Rechtsverhältnis zwischen Ehegatten und ihren Kindern finden die einschlägigen Bestimmungen des Allgemeinen bürgerlichen Gesetzbuches Anwendung; für gleichgeschlechtliche Ehegatten und ihre Kinder gelten diese Bestimmungen sinngemäss."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "44",
+      "title": "Art. 44 Familienname",
+      "content": "1) Die Ehegatten bestimmen anlässlich der Trauung gegenüber dem Zivilstandsbeamten in öffentlicher oder öffentlich beglaubigter Urkunde, welchen ihrer Namen sie als gemeinsamen Familiennamen führen. Der Ehegatte, dessen Familienname nicht gemeinsamer Familienname wird, kann erklären, dass er seinen bisherigen Familiennamen dem gemeinsamen Familiennamen unter Setzung eines Bindestrichs voran- oder nachstellt. Trägt dieser Ehegatte bereits einen Doppelnamen, so kann er nur einen dieser Namen nach seiner Wahl verwenden.\n2) Bestimmen die Ehegatten keinen gemeinsamen Familiennamen, so behält ein jeder Ehegatte seinen bisherigen Familiennamen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "45",
+      "title": "Art. 45 Eheliche Wohnung",
+      "content": "Die Ehegatten bestimmen gemeinsam die eheliche Wohnung."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "46",
+      "title": "Art. 46 Unterhalt der Familie; im allgemeinen",
+      "content": "1) Die Ehegatten sorgen gemeinsam, ein jeder nach seinen Kräften, für den gebührenden Unterhalt der Familie.\n2) Sie verständigen sich über den Beitrag, den jeder von ihnen leistet, namentlich durch Geldzahlungen, Besorgen des Haushaltes, Betreuen der Kinder oder durch Mithilfe im Beruf oder Gewerbe des anderen.\n3) Dabei berücksichtigen sie die Bedürfnisse der ehelichen Gemeinschaft und ihre persönlichen Umstände."
+    },
+    {
+      "provision_ref": "art46a",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "46a",
+      "title": "Art. 46a Abgeltung der Mitwirkung im Erwerb des anderen Ehegatten",
+      "content": "Wirkt ein Ehegatte beim Erwerb des anderen mit, so hat er Anspruch auf angemessene Abgeltung seiner Mitwirkung. Die Höhe des Anspruches richtet sich nach der Art und Dauer der Leistungen; die gesamten Lebensverhältnisse der Ehegatten, besonders auch die gewährten Unterhaltsleistungen, sind angemessen zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art46b",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "46b",
+      "title": "Art. 46b Ansprüche auf Abgeltung",
+      "content": "Ansprüche auf Abgeltung der Mitwirkung eines Ehegatten beim Erwerb des anderen (Art. 46a) sind vererblich, unter Lebenden oder von Todes wegen übertragbar und pfändbar, soweit sie durch Vertrag oder Vergleich anerkannt oder gerichtlich geltend gemacht worden sind."
+    },
+    {
+      "provision_ref": "art46c",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "46c",
+      "title": "Art. 46c Ausschluss von Ansprüchen auf Abgeltung",
+      "content": "Der Art. 46a berührt nicht vertragliche Ansprüche eines Ehegatten an den anderen aus einem Mit- oder Zusammenwirken beim Erwerb. Solche Ansprüche schliessen einen Anspruch nach Art. 46a aus; bei einem Arbeitsverhältnis bleibt dem Ehegatten jedoch der Anspruch nach Art. 46a gewahrt, soweit er seine Ansprüche aus dem Arbeitsverhältnis übersteigt."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "47",
+      "title": "Art. 47 Betrag zur freien Verfügung",
+      "content": "1) Der Ehegatte, der den Haushalt besorgt, die Kinder betreut oder dem anderen im Berufe oder Gewerbe hilft, hat Anspruch darauf, dass der andere ihm regelmässig einen angemessenen Betrag zur freien Verfügung ausrichtet.\n2) Bei der Festsetzung des Betrages sind eigene Einkünfte des berechtigten Ehegatten und eine den Verhältnissen angemessene Vorsorge für Familie, Beruf oder Gewerbe zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "48",
+      "title": "Art. 48 Vertretung der ehelichen Gemeinschaft",
+      "content": "1) Jeder Ehegatte vertritt während des Zusammenlebens die eheliche Gemeinschaft für die laufenden Bedürfnisse der Familie.\n2) Für die übrigen Bedürfnisse der Familie kann ein Ehegatte die eheliche Gemeinschaft nur vertreten:\n1. wenn er vom anderen oder vom Gericht dazu ermächtigt worden ist; oder\n2. wenn das Interesse der ehelichen Gemeinschaft keinen Aufschub des Geschäftes duldet und der andere Ehegatte wegen Krankheit, Abwesenheit oder ähnlichen Gründen nicht zustimmen kann.\n3) Jeder Ehegatte verpflichtet sich durch seine Handlungen persönlich und, soweit diese nicht für Dritte erkennbar über seine Vertretungsbefugnis hinausgehen, solidarisch auch für den anderen Ehegatten."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49",
+      "title": "Art. 49 Beruf und Gewerbe der Ehegatten",
+      "content": "Bei der Wahl und Ausübung seines Berufes oder Gewerbes nimmt der Ehegatte auf den anderen und das Wohl der ehelichen Gemeinschaft Rücksicht."
+    },
+    {
+      "provision_ref": "art49a",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49a",
+      "title": "Art. 49a Rechtsgeschäfte der Ehegatten; im allgemeinen",
+      "content": "Jeder Ehegatte kann mit dem anderen oder mit Dritten Rechtsgeschäfte abschliessen, sofern das Gesetz nichts anderes bestimmt."
+    },
+    {
+      "provision_ref": "art49b",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49b",
+      "title": "Art. 49b Wohnung der Familie",
+      "content": "1) Ein Ehegatte kann nur mit der ausdrücklichen und schriftlichen Zustimmung des anderen einen Mietvertrag kündigen, das Haus oder die Wohnung der Familie veräussern oder durch andere Rechtsgeschäfte die Rechte an den Wohnräumen der Familie beschränken.\n2) Kann der Ehegatte diese Zustimmung nicht einholen oder wird sie ihm ohne triftigen Grund verweigert, so kann er das Gericht anrufen."
+    },
+    {
+      "provision_ref": "art49c",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49c",
+      "title": "Art. 49c Auskunftspflicht",
+      "content": "1) Jeder Ehegatte kann vom anderen Auskunft über dessen Einkommen, Vermögen oder Schulden verlangen.\n2) Auf sein Begehren kann der Richter den anderen Ehegatten oder Dritte verpflichten, die erforderlichen Auskünfte zu erteilen und die notwendigen Urkunden vorzulegen.\n3) Die Auskunfts- und Vorlagepflicht dritter Personen findet in den Bestimmungen des zivilgerichtlichen Verfahrens über die Unzulässigkeit und begründete Verweigerung des Zeugnisses ihre Grenze, es sei denn, es handelt sich um blosse Gehaltsauskünfte."
+    },
+    {
+      "provision_ref": "art49d",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49d",
+      "title": "Art. 49d Richterliche Massnahmen; im allgemeinen",
+      "content": "1) Erfüllt der Ehegatte seine Pflichten gegenüber der Familie nicht oder sind die Ehegatten in einer für die eheliche Gemeinschaft wichtigen Angelegenheit uneinig, so können sie gemeinsam oder einzeln das Gericht um Vermittlung anrufen.\n2) Das Gericht mahnt die Ehegatten an ihre Pflichten und versucht, sie zu versöhnen; es kann mit ihrem Einverständnis Sachverständige beiziehen oder sie an eine Ehe- oder Familienberatungsstelle weisen.\n3) Wenn nötig, trifft das Gericht auf Begehren eines Ehegatten die im Gesetze vorgesehenen Massnahmen.\n4) Unterhaltsbeiträge nach Art. 46 und 47 sind auf Begehren eines Ehegatten für die Zukunft ziffernmässig in Form einer Monatsrente festzusetzen, wenn der andere Ehegatte seine Beitragspflicht vernachlässigt."
+    },
+    {
+      "provision_ref": "art49e",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49e",
+      "title": "Art. 49e Entzug der Vertretungsbefugnis",
+      "content": "1) Überschreitet ein Ehegatte seine Befugnis zur Vertretung der ehelichen Gemeinschaft oder erweist er sich als unfähig, sie auszuüben, so kann ihm das Gericht auf Begehren des anderen die Vertretungsbefugnis ganz oder teilweise entziehen.\n2) Der Ehegatte, der das Begehren stellt, darf Dritten den Entzug nur durch persönliche Mitteilung bekanntgeben.\n3) Gutgläubigen Dritten gegenüber ist der Entzug nur wirksam, wenn er auf Anordnung des Gerichts veröffentlicht worden ist."
+    },
+    {
+      "provision_ref": "art49f",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49f",
+      "title": "Art. 49f Beschränkungen der Verfügungsbefugnis",
+      "content": "1) Soweit es die Sicherung der wirtschaftlichen Grundlagen der Familie oder die Erfüllung einer vermögensrechtlichen Verpflichtung aus der ehelichen Gemeinschaft erfordert, kann das Gericht auf Begehren eines Ehegatten die Verfügung von dessen Zustimmung abhängig machen.\n2) Untersagt das Gericht einem Ehegatten, über ein Grundstück zu verfügen, lässt es dies von amtswegen im Grundbuch anmerken."
+    },
+    {
+      "provision_ref": "art49g",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49g",
+      "title": "Art. 49g Veränderung der Verhältnisse",
+      "content": "Verändern sich die Verhältnisse wesentlich, so passt das Gericht auf Begehren eines Ehegatten die Massnahmen an oder hebt sie auf, wenn ihr Grund weggefallen ist."
+    },
+    {
+      "provision_ref": "art49h",
+      "chapter": "Die Wirkungen der Ehe",
+      "section": "49h",
+      "title": "Art. 49h Verfahren",
+      "content": "1) Das Gericht trifft die im Sinne der vorstehenden Bestimmungen zum Schutze von Ehe und Familie erforderlichen Verfügungen einschliesslich des Abgeltungsanspruches nach Art. 46a ff. im Ausserstreitverfahren. Ausgenommen hievon sind Unterhaltsbeträge und andere in Geld bestehende Ansprüche. Diese sind im ordentlichen Rechtsweg geltend zu machen.\n2) Von der Einbringung einer Ehetrennungsklage an steht für die Dauer des Prozesses und nach rechtskräftiger Ehetrennung oder Ehescheidung für allfällige Ansprüche aus den vorstehenden Bestimmungen nur noch der Zivilprozess zur Verfügung.\n3. Teil\nScheidung und Trennung der Ehe\n1. Abschnitt\nScheidung der Ehe\nI. Scheidung auf gemeinsames Begehren"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "I. Scheidung auf gemeinsames Begehren",
+      "section": "50",
+      "title": "Art. 50 Umfassende Einigung",
+      "content": "1) Verlangen die Ehegatten gemeinsam die Scheidung und reichen sie eine vollständige Vereinbarung gemäss Abs. 2 über die Nebenfolgen der Scheidung mit den nötigen Belegen ein, so hört das Gericht sie in der Regel je einmal getrennt und zusammen an; es überzeugt sich davon, dass das Scheidungsbegehren und die Vereinbarung auf freiem Willen und reiflicher Überlegung beruhen und die Vereinbarung genehmigt werden kann.\n2) Liegen die Voraussetzungen im Sinne von Abs. 1 vor, so spricht das Gericht die Scheidung durch Beschluss aus und genehmigt die Vereinbarung bezüglich des Unterhalts, der Zuweisung der Ehewohnung, der Verteilung des Hausrates, der Aufteilung des während der Ehe erzielten Vermögenszuwachses und der Aufteilung der Austrittsleistung aus der beruflichen Vorsorge. Ebenso prüft und genehmigt das Gericht die Vereinbarung bezüglich der Nebenfolgen betreffend den Unterhalt, die Obsorge und - im Fall der gemeinsamen Obsorge - die Betreuung der Kinder sowie die persönlichen Kontakte zwischen einem Elternteil und den Kindern nach den Vorschriften des ABGB. Die Ehegatten können allerdings erklären, dass sie hinsichtlich der Obsorge, ohne Anträge zu stellen, an der bestehenden Regelung festhalten wollen; auch hinsichtlich der Betreuung der Kinder im Fall der gemeinsamen Obsorge oder hinsichtlich der persönlichen Kontakte zwischen einem Elternteil und den Kindern können sie erklären, dass sie ein Einvernehmen erzielt haben und hiezu keine Anträge nach Art. 51 stellen.\n3) Ist eine Vereinbarung gemäss Abs. 2 unvollständig oder nicht genehmigungsfähig, so versucht der Richter zwischen den Ehegatten eine Einigung bezüglich der fehlenden oder mangelhaften Punkte herbeizuführen. Ist eine Einigung nicht möglich, so erfolgt das weitere Verfahren nach Art. 51 oder 54."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "I. Scheidung auf gemeinsames Begehren",
+      "section": "51",
+      "title": "Art. 51 Teileinigung",
+      "content": "1) Wird von den Ehegatten gemeinsam die Scheidung begehrt, jedoch keine vollständige Vereinbarung über die Nebenfolgen der Scheidung vorgelegt, und erklären die Ehegatten, dass das Gericht die Scheidungsfolgen beurteilen soll, über die sie sich nicht einig sind, so hat das Gericht die noch offenen Punkte zu regeln.\n2) Das Gericht hört die Ehegatten zum Scheidungsbegehren und zu den Nebenfolgen der Scheidung, über die sie sich geeinigt haben, sowie zur gemeinsamen Erklärung, dass die übrigen Nebenfolgen gerichtlich zu beurteilen sind, wie bei der umfassenden Einigung an.\n3) Zu den Nebenfolgen der Scheidung, über die sie sich nicht einig sind, stellt jeder Ehegatte Anträge."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "I. Scheidung auf gemeinsames Begehren",
+      "section": "52",
+      "title": "Art. 52 Wirkung des Scheidungsbeschlusses; Hauptfolge der Scheidung",
+      "content": "Mit Eintritt der Rechtskraft des Scheidungsbeschlusses ist das Band der Ehe gelöst."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "I. Scheidung auf gemeinsames Begehren",
+      "section": "53",
+      "title": "Art. 53 Zeitpunkt des Scheidungsbegehrens",
+      "content": "Das Gesuch um Scheidung auf gemeinsames Begehren kann erst gestellt werden, wenn seit der Eheschliessung ein Jahr vergangen ist."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "I. Scheidung auf gemeinsames Begehren",
+      "section": "54",
+      "title": "Art. 54 Wechsel zur Scheidung auf Klage",
+      "content": "1) Entscheidet das Gericht, dass die Voraussetzungen für eine Scheidung auf gemeinsames Begehren nicht oder nicht mehr erfüllt sind, so setzt es jedem Ehegatten eine Frist an, um das Scheidungsbegehren durch eine Klage zu ersetzen.\n2) Lassen beide Ehegatten die Frist unbenutzt verstreichen, ohne Klage zu erheben, so weist das Gericht das ursprüngliche gemeinsame Scheidungsbegehren ab.\n3) Das Recht der Ehegatten, neuerlich ein gemeinsames Scheidungsbegehren oder eine Scheidungsklage einzureichen, wird durch die Abweisung im Sinne von Abs. 2 nicht berührt.\nII. Scheidung auf Klage\nA. Nach Getrenntleben"
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "55",
+      "title": "Art. 55 3 Jahre Getrenntleben",
+      "content": "Ein Ehegatte kann die Scheidung verlangen, wenn die Ehegatten bei Eintritt der Rechtshängigkeit der Klage oder bei Wechsel zur Scheidung auf Klage mindestens drei Jahre getrennt gelebt haben.\nB. Unzumutbarkeit"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "56",
+      "title": "Art. 56 Grundsatz",
+      "content": "Vor Ablauf der dreijährigen Frist kann ein Ehegatte die Scheidung verlangen, wenn ihm die Fortsetzung der Ehe aus erheblichen Gründen, die überwiegend dem anderen Ehegatten zuzurechnen sind, nicht zugemutet werden kann."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "57",
+      "title": "Art. 57 Versöhnungsversuch",
+      "content": "Das Gericht hat nach Einlangung einer Scheidungsklage, welche sich auf Art. 56 stützt, einen Versöhnungsversuch durchzuführen, der einmal zu wiederholen ist, wenn Aussicht auf Aussöhnung besteht. Die Ehegatten haben zu den Versöhnungsversuchen persönlich und ohne Vertreter zu erscheinen."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "58",
+      "title": "Art. 58 Unterbrechung des Verfahrens",
+      "content": "Kommt das Gericht nach Abschluss des Versöhnungsverfahrens im Zuge des Scheidungsverfahrens nach Art. 56 zur Ansicht, dass eine Möglichkeit zur Aussöhnung der Ehepartner besteht, so kann das Gericht das Verfahren für einen angemessenen Zeitraum unterbrechen. Die Unterbrechungsgründe der ZPO werden dadurch nicht berührt.\nC. Gemeinsame Bestimmungen"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "59",
+      "title": "Art. 59 Zustimmung zur Scheidungsklage; Widerklage",
+      "content": "Klagt ein Ehegatte auf Scheidung nach Getrenntleben oder wegen Unzumutbarkeit und stimmt der andere Ehegatte ausdrücklich zu oder erhebt er Widerklage und begehrt darin selbst die Scheidung, so ist das weitere Verfahren nach den Bestimmungen über die Scheidung auf gemeinsames Begehren unter den dort geregelten Voraussetzungen durchzuführen. Ist der Verfahrenswechsel erfolgt, so ist ein Rückwechsel nach Art. 54 ausgeschlossen."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "60",
+      "title": "Art. 60 Vorsorgliche Massnahmen",
+      "content": "1) Jeder Ehegatte kann nach Eintritt der Rechtshängigkeit für die Dauer des Verfahrens den gemeinsamen Haushalt aufheben.\n2) Während der Dauer des Prozesses kann das Gericht über Antrag durch einstweilige Verfügung einem Ehegatten und den Kindern den anständigen Unterhalt ausmessen oder andere vorsorgliche Massnahmen treffen, wenn es das Wohl eines Ehegatten oder jenes der Kinder erfordert. Die Bestimmungen über die Massnahmen zum Schutz der ehelichen Gemeinschaft sind sinngemäss anwendbar.\n3) Diese Bestimmung ist sinngemäss anwendbar für Verfahren bei der Scheidung auf gemeinsames Begehren."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "61",
+      "title": "Art. 61 Amtswegige Untersuchung",
+      "content": "Das Gericht hat von Amtes wegen zu untersuchen, ob die Scheidungsgründe des dreijährigen Getrenntlebens oder der Unzumutbarkeit vorliegen und ob der Scheidungsklage stattgegeben werden kann."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "II. Scheidung auf Klage",
+      "section": "62",
+      "title": "Art. 62 Scheidungsurteil; Hauptfolge der Scheidung",
+      "content": "1) Die Scheidung auf Klage erfolgt durch Urteil.\n2) Das Gericht hat die Scheidung auszusprechen, wenn es aufgrund der Durchführung des jeweiligen Verfahrens objektiv und nach freier Überzeugung festgestellt hat, dass:\na) nach Anrufung des Art. 55 die Voraussetzung des dreijährigen Getrenntlebens vorliegt;\nb) nach Anrufung des Art. 56 die Fortsetzung der Ehe unzumutbar ist;\nc) im Sinne des Art. 59 ein beiderseitiger Scheidungswille besteht und die übrigen Voraussetzungen gemäss den Bestimmungen über die Scheidung auf gemeinsames Begehren vorliegen.\n3) Mit Eintritt der Rechtskraft des Scheidungsurteils ist das Band der Ehe gelöst.\n2. Abschnitt\nTrennung der Ehe"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Trennung der Ehe",
+      "section": "63",
+      "title": "Art. 63 Voraussetzungen und Verfahren",
+      "content": "1) Die Ehegatten können gemeinsam oder einzeln die Trennung verlangen.\n2) Die Trennung wird unter den gleichen Voraussetzungen und nach dem gleichen Verfahren wie die Scheidung ausgesprochen.\n3) Das Recht, die Scheidung zu verlangen, wird durch die Trennung nicht berührt."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Trennung der Ehe",
+      "section": "64",
+      "title": "Art. 64 Trennungsurteil oder -beschluss; Hauptfolge der Trennung",
+      "content": "Das Trennungsurteil oder der Trennungsbeschluss heben mit Eintritt der Rechtskraft die Verpflichtung zur ehelichen Gemeinschaft und zur ehelichen Treue auf. Das Eheband bleibt bestehen."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "Trennung der Ehe",
+      "section": "65",
+      "title": "Art. 65 Wiederaufnahme der ehelichen Gemeinschaft",
+      "content": "1) Das Trennungsurteil oder der Trennungsbeschluss verliert seine Wirkung, wenn die getrennten Ehegatten die eheliche Gemeinschaft wieder aufnehmen und davon das Gericht durch eine gemeinsame schriftliche Erklärung verständigen.\n2) Die Regelung betreffend die Aufteilung des während der Ehe erzielten Vermögenszuwachses bleibt vom Dahinfallen des Trennungsurteiles oder des Trennungsbeschlusses unberührt. Hingegen fallen die Regelungen aller anderen Nebenfolgen der Trennung mit der Verständigung gemäss Abs. 1 dahin.\n3. Abschnitt\nNebenfolgen der Scheidung und Trennung\nI. Namensrecht"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "I. Namensrecht",
+      "section": "66",
+      "title": "Art. 66 Wiederannahme eines früheren Namens",
+      "content": "1) Geschiedene oder getrennte Ehegatten behalten, soweit im folgenden nicht etwas anderes bestimmt wird, weiterhin ihren bisherigen ehelichen Familiennamen (Art. 44).\n2) Der Ehegatte, dessen Familienname bei der Eheschliessung geändert wurde, hat jedoch das Recht, nach Rechtskraft des auf Scheidung lautenden Urteils oder Beschlusses gegenüber dem Zivilstandsamt zu erklären, dass er den angestammten Namen oder den Namen, den er vor der Eheschliessung trug, wieder annimmt.\n3) Die Familiennamen der Kinder werden durch die Namensänderungen im Sinne des vorstehenden Abs. 2 nicht berührt.\nII. Regelung der Nebenfolgen"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "II. Regelung der Nebenfolgen",
+      "section": "67",
+      "title": "Art. 67 Grundsatz",
+      "content": "1) Die Ehegatten können unabhängig von der Art der Scheidung oder Trennung Vereinbarungen über den Unterhalt, die Zuweisung der ehelichen Wohnung, die Verteilung des Hausrates und die Aufteilung des während der Ehe erzielten Vermögenszuwachses, die Aufteilung der Austrittsleistungen aus der beruflichen Vorsorge sowie über den Unterhalt, die Pflege und Erziehung der Kinder und den Verkehr zwischen ihnen und den Kindern treffen. Die Vereinbarungen bedürfen der Genehmigung des Gerichts.\n2) Haben die Ehegatten keine Vereinbarung über die Nebenfolgen getroffen oder ist die vorgelegte Vereinbarung vom Gericht nicht genehmigt worden, so hat es nach den in den nachfolgenden Titeln festgelegten Grundsätzen im Beschluss eine Regelung zu treffen.\n3) Vorbehalten bleiben die speziellen Bestimmungen dieses Gesetzes, insbesondere die Vorschriften über die Scheidung auf gemeinsames Begehren und Art. 89a.\nIII. Unterhalt"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "III. Unterhalt",
+      "section": "68",
+      "title": "Art. 68 Unterhaltsbemessung",
+      "content": "1) Ist einem Ehegatten nicht zuzumuten, dass er für den ihm gebührenden Unterhalt unter Einschluss einer angemessenen Altersvorsorge, dem Stamm seines Vermögens und weiterwirkender Ehepakte selbst aufkommt, so hat ihm der andere einen angemessenen Beitrag zu leisten.\n2) Beim Entscheid, ob ein Beitrag zu leisten sei und gegebenenfalls in welcher Höhe und wie lange, sind insbesondere zu berücksichtigen:\na) die Aufgabenteilung während der Ehe;\nb) die Dauer der Ehe;\nc) die Lebensstellung beider Ehegatten während der Ehe;\nd) das Alter und die Gesundheit der Ehegatten;\ne) das Einkommen und das Vermögen der Ehegatten;\nf) der Umfang und die Dauer der von den Ehegatten noch zu leistenden Betreuung der Kinder;\ng) die berufliche Ausbildung und die Erwerbsaussichten der Ehegatten sowie der mutmassliche Aufwand für die berufliche Eingliederung der anspruchsberechtigten Person;\nh) die Anwartschaften aus der Alters- und Hinterlassenenversicherung und aus der beruflichen oder einer anderen privaten oder staatlichen Vorsorge.\n3) Würde durch Gewährung des nach Abs. 2 bestimmten Unterhaltes der eigene Unterhalt des unterhaltsverpflichteten Ehegatten bei Berücksichtigung seiner sonstigen Verpflichtungen gefährdet, so braucht er nur soviel zu leisten, als es mit Rücksicht auf die Bedürfnisse sowie die Einkommens- und Vermögensverhältnisse beider geschiedenen oder getrennten Ehegatten der Billigkeit entspricht.\n4) Ein Beitrag kann ausnahmsweise versagt oder gekürzt werden, wenn er offensichtlich unbillig wäre, weil die berechtigte Person:\na) ihre Pflicht, zum Unterhalt der Familie beizutragen, grob verletzt hat;\nb) ihre Bedürftigkeit mutwillig herbeigeführt hat;\nc) gegen die verpflichtete Person oder eine dieser nahe verbundenen Person eine schwere Straftat begangen hat."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "III. Unterhalt",
+      "section": "69",
+      "title": "Art. 69 Art der Unterhaltsgewährung",
+      "content": "1) Der Unterhalt ist durch Zahlung einer Geldrente zu gewähren, die monatlich im voraus zu entrichten ist.\n2) Statt der Rente kann der Berechtigte eine Abfindung verlangen, wenn ein wichtiger Grund vorliegt und der Verpflichtete dadurch nicht unbillig belastet wird."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "III. Unterhalt",
+      "section": "70",
+      "title": "Art. 70 Änderung in den Verhältnissen",
+      "content": "1) Ist eine wesentliche und dauernde Änderung in den einkommens- und vermögensrechtlichen Verhältnissen eingetreten, kann das Gericht auf Klage die Rente erhöhen, herabsetzen, aufheben oder für eine bestimmte Zeit einstellen.\n2) Die berechtigte Person kann die Erhöhung der Rente jedoch nur verlangen, solange sie die minderjährigen Kinder zu betreuen hat, oder wenn bei der Scheidung oder Trennung keine den gebührenden Unterhalt deckende Rente festgesetzt werden konnte, die wirtschaftlichen Verhältnisse der verpflichteten Person sich aber entsprechend verbessert haben.\n3) Das Gericht kann darüber hinaus in begründeten Ausnahmefällen unabhängig von Abs. 2 eine Erhöhung des Unterhaltes festsetzen, wenn dies aufgrund:\na) einer besonderen und unverschuldeten Bedürftigkeit des Unterhaltsberechtigten, wie bei schwerer Krankheit, schwerem Gebrechen oder wegen hohen Alters, oder\nb) besonderer Vorleistungen während der Ehe und\nc) der nachehelichen Solidarität im Verhältnis zur Dauer der Ehe gerechtfertigt erscheint und es die einkommens- und vermögensrechtlichen Verhältnisse des Unterhaltspflichtigen zulassen, ohne dass dieser durch die Erhöhung des Unterhaltes unbillige Einschränkungen hinnehmen müsste.\n4) Die Ehegatten können in der Vereinbarung die Änderung der darin festgesetzten Rente ganz oder teilweise ausschliessen.\n5) Die Rente kann durch Vereinbarung oder durch gerichtlichen Entscheid dem Landesindex für Konsumentenpreise oder einem gleichwertigen Nachfolgeindex unterstellt werden."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "III. Unterhalt",
+      "section": "71",
+      "title": "Art. 71 Verwirkung",
+      "content": "Der Berechtigte verwirkt den Unterhaltsanspruch, wenn er sich nach der Scheidung oder Trennung einer schweren Verfehlung gegen den Verpflichteten schuldig macht."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "III. Unterhalt",
+      "section": "72",
+      "title": "Art. 72 Erlöschen und Ruhen",
+      "content": "1) Der Unterhaltsanspruch erlischt mit dem Tode des Berechtigten. Nur soweit er auf Erfüllung oder Schadenersatz wegen Nichterfüllung für die Vergangenheit gerichtet ist oder sich auf Beiträge bezieht, die beim Tode des Berechtigten fällig sind, bleibt er auch nachher bestehen.\n2) Mit dem Tode des Verpflichteten geht die Unterhaltspflicht vorbehaltlich Abs. 3 auf die Erben als Nachlassverbindlichkeit über. Der Berechtigte muss sich jedoch die Herabsetzung der Unterhaltsrente auf einen Betrag gefallen lassen, der bei Berücksichtigung der Verhältnisse der Erben und der Ertragsfähigkeit des Nachlasses der Billigkeit entspricht.\n3) Ein nach Art. 68 Abs. 4 gekürzter Unterhaltsbeitrag erlischt mit dem Tod des Verpflichteten.\n4) Geht der Unterhaltsberechtigte eine faktische Lebensgemeinschaft ein, so ruht für deren Dauer die Unterhaltspflicht. Bei Wiederverheiratung der berechtigten Person erlischt die Unterhaltspflicht. Abgesehen von diesen Fällen des Ruhens und Erlöschens der Unterhaltspflicht geht dieselbe dem Range nach den Unterhaltspflichten anderer Personen vor.\nIV. Aufteilung des während der Ehe erzielten Vermögenszuwachses"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "73",
+      "title": "Art. 73 Gegenstand der Aufteilung",
+      "content": "1) Wird eine Ehe für ungültig erklärt, geschieden oder getrennt, so ist der während der Ehe erzielte Vermögenszuwachs unter den Ehegatten aufzuteilen.\n2) Der nach der Aufhebung der häuslichen Gemeinschaft erzielte Vermögenszuwachs hat bei der Zuwachsaufteilung ausser Betracht zu bleiben."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "74",
+      "title": "Art. 74 Aufteilungsmasse",
+      "content": "1) Zur Aufteilungsmasse gehört jeder von den Ehegatten während der Ehe bis zur Aufhebung der häuslichen Gemeinschaft erzielte Vermögenszuwachs, der nicht unter die in diesem Gesetz angeführten Ausnahmen fällt.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "75",
+      "title": "Art. 75 Ausgenommene Vermögenswerte; Eigengut",
+      "content": "1) Der Aufteilung unterliegen nicht Vermögenswerte, die\na) ein Ehegatte in die Ehe eingebracht, von Todes wegen erworben oder ihm ein Dritter geschenkt hat, oder\nb) dem persönlichen Gebrauch eines Ehegatten allein oder unmittelbar der Ausübung seines Berufes dienen, oder\nc) Schmerzensgeldansprüche oder andere höchstpersönliche Ansprüche.\n2) Die Ehewohnung sowie der Hausrat, auf deren Benützung ein Ehegatte zur Sicherung seiner Lebensbedürfnisse angewiesen ist, sind in die Aufteilung auch dann einzubeziehen, wenn sie ein Ehegatte in die Ehe eingebracht, von Todes wegen erworben oder ihm ein Dritter geschenkt hat.\n3) Die in Abs. 1 genannten Vermögenswerte bilden das Eigengut des jeweiligen Ehegatten."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "76",
+      "title": "Art. 76 Erträgnisse aus Eigengut",
+      "content": "Erträgnisse aus Eigengut zählen zu dem während der Ehe erzielten Vermögenszuwachs, wenn und soweit sie vom Berechtigten hierzu bestimmt oder für Anschaffungen verwendet wurden, die dem Gebrauch der Ehegatten dienen."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "77",
+      "title": "Art. 77 Ersatzanschaffungen aus Eigengut",
+      "content": "Ersatzanschaffungen aus Eigengut sind nur dann in die Aufteilung miteinzubeziehen, wenn und soweit sie vom Berechtigten hierzu bestimmt wurden oder dem dauernden Gebrauch beider Ehegatten dienen.\nAufteilungsgrundsätze\nArt. 78\na) Billigkeit\n1) Die Aufteilung ist nach Billigkeit vorzunehmen. Dabei ist besonders auf Gewicht und Umfang des Beitrages jedes Ehegatten bei der Schaffung des Vermögens Bedacht zu nehmen. Als Beitrag sind hierbei auch die Leistung des Unterhaltes, die Mitwirkung im Erwerb, soweit sie nicht anders bereits abgegolten worden ist, die Führung des gemeinsamen Haushaltes, die Pflege und Erziehung gemeinsamer Kinder und jeder sonstige eheliche Beistand zu werten.\n2) Im Rahmen der Aufteilung sind nach billigem Ermessen auch jene Schulden mit in Anschlag zu bringen, die zur Schaffung der der Aufteilung unterliegenden Vermögensstücke oder zur Deckung des ehelichen Lebensaufwandes aufgewendet worden sind und zum Zeitpunkt der Aufteilung noch unberichtigt aushaften.\n3) Die über die Aufteilung zu treffende Ermessensentscheidung hat insbesondere auch auf das Wohl und die Interessen der Kinder Bedacht zu nehmen."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "79",
+      "title": "Art. 79 b) Rücksichtnahme auf die Lebensbereiche",
+      "content": "Die Aufteilung soll so vorgenommen werden, dass sich die Lebensbereiche der geschiedenen oder getrennten Ehegatten künftig möglichst wenig berühren. Unternehmen, Gesellschaften, Betriebe und ähnliches sollen dabei in der Verfügungsgewalt des Ehegatten bleiben, der sie bisher besass oder leitete."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "80",
+      "title": "Art. 80 Gerichtliche Anordnungen",
+      "content": "1) Bei der Aufteilung des ehelichen Vermögenszuwachses kann das Gericht die Übertragung von Eigentum an beweglichen körperlichen Sachen oder eines Anwartschaftsrechtes darauf und die Übertragung von Eigentum oder sonstigen Rechten an unbeweglichen Sachen von einem auf den anderen Ehegatten sowie die Begründung von dinglichen Rechten oder schuldrechtlichen Rechtsverhältnissen zugunsten des einen Ehegatten an unbeweglichen Sachen des anderen anordnen.\n2) Soweit aufzuteilende Vermögensbestandteile im Eigentum eines Dritten stehen, darf das Gericht die Übertragung von Rechten und Pflichten, die sich auf diese Sache beziehen, nur mit Zustimmung des Eigentümers anordnen."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "81",
+      "title": "Art. 81 Ehewohnung",
+      "content": "1) Für die Ehewohnung kann das Gericht, wenn sie kraft Eigentums oder eines anderen dinglichen Rechtes eines oder beider Ehegatten benützt wird, die Übertragung des Eigentums oder des dinglichen Rechtes von einem auf den anderen Ehegatten oder die Begründung eines schuldrechtlichen Rechtsverhältnisses zugunsten eines Ehegatten anordnen.\n2) Wenn die Ehewohnung, welche im Eigentum eines Ehegatten steht und von der Aufteilung ausgenommen ist (Art. 75 Abs. 1), dem anderen Ehegatten zur Weiterbenützung überlassen wird (Art. 75 Abs. 2), darf zur Begründung dieser Weiterbenützung neben einem schuldrechtlichen Rechtsverhältnis nur ein Nutzniessungs- oder Wohnrecht angeordnet werden.\n3) Sonst kann das Gericht ohne Rücksicht auf eine Regelung durch Vertrag oder Satzung anordnen, dass ein Ehegatte anstelle des anderen in das der Benützung der Ehewohnung zugrundeliegende Rechtsverhältnis eintritt oder das bisher gemeinsame Rechtsverhältnis alleine fortsetzt."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "82",
+      "title": "Art. 82 Ehewohnung aufgrund eines Dienstverhältnisses",
+      "content": "1) Wird die Ehewohnung aufgrund eines Dienstverhältnisses benützt oder das Rechtsverhältnis daran im Zusammenhang mit einem Dienstverhältnis begründet, darf das Gericht eine Anordnung hinsichtlich der Benützung einer solchen Wohnung nur mit Zustimmung des Dienstgebers oder des für die Vergabe der Dienstwohnung zuständigen Rechtsträgers treffen, wenn\na) die Zuweisung der Wohnung deswegen, weil sie überwiegend der Erfüllung der Dienstpflicht dient, wesentliche Interessen des Dienstgebers verletzen könnte, oder\nb) die Wohnung unentgeltlich oder gegen ein bloss geringfügiges, wesentlich unter dem ortsüblichen Mass liegenden Entgelt benützt wird, oder\nc) die Wohnung vom Dienstgeber als Teil des Entgeltes für die geleisteten Dienste zur Verfügung gestellt wird.\n2) Wird die Ehewohnung nach Abs. 1 dem Ehegatten zugesprochen, der nicht Dienstnehmer ist, so hat das Gericht ein angemessenes Benützungsentgelt festzusetzen. Das Benützungsrecht dieses Ehegatten besteht nur solange, als er sich nicht wieder verheiratet, und kann von ihm nicht auf andere Personen übergehen oder übertragen werden."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "83",
+      "title": "Art. 83 Unbewegliche Sachen",
+      "content": "1) Die Übertragung des Eigentums an unbeweglichen Sachen oder die Begründung von dinglichen Rechten daran darf nur angeordnet werden, wenn eine billige Regelung in anderer Weise nicht erzielt werden kann.\n2) Dasselbe gilt für Unternehmen, Betriebe, Gesellschaften und ähnliches mehr, es sei denn, die Beteiligungsrechte liessen sich leicht zerlegen."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "84",
+      "title": "Art. 84 Ausgleich von Benachteiligungen",
+      "content": "1) Hat ein Ehegatte ohne ausdrückliche oder stillschweigende Zustimmung des anderen frühestens zwei Jahre vor der Einbringung einer Eheungültigkeitsklage, eines Begehrens oder einer Klage auf Scheidung oder Trennung, oder, wenn die eheliche Lebensgemeinschaft vor Einbringung der Klage aufgehoben worden ist, frühestens zwei Jahre vor dieser Aufhebung eheliches Gebrauchsvermögen oder eheliche Ersparnisse in einer Weise verringert, die der Gestaltung der Lebensverhältnisse der Ehegatten während der ehelichen Lebensgemeinschaft widerspricht, so ist der Wert des Fehlenden in die Aufteilung miteinzubeziehen.\n2) Gehört eine bewegliche Sache, die während aufrechter ehelicher Lebensgemeinschaft dem Gebrauche beider Ehegatten gedient hat, zu einem Unternehmen und verbleibt dieses Unternehmen auch nach der Aufteilung im Eigentum nur eines Ehegatten, so hat dies das Gericht bei der Aufteilung des ehelichen Vermögenszuwachses zugunsten des anderen Ehegatten angemessen zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "85",
+      "title": "Art. 85 Schulden",
+      "content": "Bezüglich der in die Aufteilung miteinzubeziehenden Schulden hat das Gericht zu bestimmen, welcher Ehegatte im Innenverhältnis zu ihrer Zahlung verpflichtet ist."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "86",
+      "title": "Art. 86 Zahlung von Kreditverbindlichkeiten",
+      "content": "1) Entscheidet das Gericht (Art. 85) oder vereinbaren die Ehegatten (Art. 89a), wer von beiden im Innenverhältnis zur Zahlung von Kreditverbindlichkeiten, für die beide haften, verpflichtet ist, so hat das Gericht mit Wirkung für den Gläubiger auszusprechen, dass derjenige Ehegatte, welcher im Innenverhältnis zur Zahlung verpflichtet ist, Hauptschuldner, der andere Ausfallbürge wird.\n2) Der Ausfallbürge nach Abs. 1 kann - vorbehaltlich des § 1356 ABGB - nur wegen des Betrages belangt werden, der vom Hauptschuldner nicht in angemessener Frist hereingebracht werden kann, obwohl der Gläubiger gegen ihn nach Erwirkung eines Exekutionstitels\na) Fahrnis- oder Gehaltsexekution und\nb) Exekution auf eine dem Gläubiger bekannte Liegenschaft des Hauptschuldners, die offensichtlich für die Forderung Deckung bietet, geführt, sowie\nc) Sicherheiten, die dem Gläubiger zur Verfügung stehen, verwertet hat.\n3) Müsste der Exekutionstitel im Ausland erwirkt oder müssten die angeführten Exekutionsmassnahmen im Ausland durchgeführt werden, bedarf es der in Abs. 2 angeführten Massnahmen gegen den Hauptschuldner nicht, soweit sie dem Gläubiger nicht möglich oder nicht zumutbar sind.\n4) Überdies kann der Ausfallbürge, dem der Rechtsstreit gegen den Hauptschuldner rechtzeitig verkündet worden ist (§ 21 ZPO) dem Gläubiger Einwendungen, die nicht in seiner Person begründet sind, nur entgegenhalten, soweit sie auch der Hauptschuldner erheben kann."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "87",
+      "title": "Art. 87 Durchführung der Aufteilung",
+      "content": "In seiner Entscheidung hat das Gericht auch die zu ihrer Durchführung nötigen Anordnungen zu treffen und die näheren Umstände, besonders in zeitlicher Hinsicht, für deren Erfüllung zu bestimmen. Sind mit der Durchführung der Entscheidung Aufwendungen verbunden, so hat das Gericht nach billigem Ermessen zu entscheiden, welcher Ehegatte sie zu tragen hat."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "88",
+      "title": "Art. 88 Ausgleichszahlung",
+      "content": "1) Soweit eine billige Aufteilung der in Betracht kommenden Vermögensbestandteile nach den vorstehenden Bestimmungen körperlich nicht erzielt werden kann, hat das Gericht einem Ehegatten eine Ausgleichszahlung an den anderen aufzuerlegen. Auch für diese gilt der dem Gericht eingeräumte Spielraum kraft billigen Ermessens.\n2) Das Gericht kann eine Stundung der Ausgleichszahlung oder deren Entrichtung in Teilbeträgen, tunlichst gegen Sicherstellung, anordnen, wenn dies für den Ausgleichspflichtigen wirtschaftlich notwendig und dem Ausgleichsberechtigten zumutbar ist."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "89",
+      "title": "Art. 89 Übergang des Aufteilungsanspruches",
+      "content": "Die Anwartschaft aus der Aufteilung des ehelichen Vermögenszuwachses ist vererblich, unter Lebenden oder von Todes wegen übertragbar und pfändbar, soweit sie durch Vertrag oder Vergleich anerkannt oder Gegenstand eines anhängigen Eheungültigkeits-, Scheidungs- oder Trennungsverfahren ist."
+    },
+    {
+      "provision_ref": "art89a",
+      "chapter": "IV. Aufteilung des während der Ehe erzielten Vermögenszuwachses",
+      "section": "89a",
+      "title": "Art. 89a Verträge",
+      "content": "1) Auf die Aufteilung des ehelichen Vermögenszuwachses kann im voraus nicht verzichtet werden.\n2) Das gilt nicht für Vereinbarungen der Ehegatten:\na) über die Ausscheidung von Vermögensbestandteilen, welche zu einem Unternehmen gehören oder Anteile an einem Unternehmen darstellen, ausgenommen es handle sich bei letzteren um blosse Wertanlagen; oder\nb) über die Ausscheidung von Erträgnissen oder Ersatzanschaffungen aus Vermögensbestandteilen, die nach Art. 75 Abs. 1 oder nach Art. 89a Abs. 2 Bst. a bei der Zuwachsermittlung ausser Betracht zu bleiben haben, selbst wenn diese Vereinbarungen über die Regelung des Art. 76 hinausgehen.\n3) In Zusammenhang mit einem bevorstehenden Eheungültigkeits-, Scheidungs- oder Trennungsverfahrens können Vereinbarungen über die Aufteilung des gesamten Vermögenszuwachses getroffen werden.\n4) Solche Vereinbarungen bedürfen der Schriftform und der Beglaubigung der Unterschriften; im Falle einer Eheungültigkeitsklage, einer Klage auf Scheidung oder Trennung und im Falle einer Scheidung oder Trennung auf gemeinsames Begehren jedoch der Genehmigung durch das Gericht.\nV. Aufteilung der Ansprüche aus beruflicher Vorsorge"
+    },
+    {
+      "provision_ref": "art89b",
+      "chapter": "V. Aufteilung der Ansprüche aus beruflicher Vorsorge",
+      "section": "89b",
+      "title": "Art. 89b Teilung der Austrittsleistungen",
+      "content": "1) Gehört ein Ehegatte oder gehören beide Ehegatten einer Einrichtung der beruflichen Vorsorge an und ist bei keinem Ehegatten ein Vorsorgefall eingetreten, so hat im Falle der Scheidung jeder Ehegatte Anspruch auf die Hälfte der nach den einschlägigen Gesetzen betreffend die berufliche Vorsorge zu ermittelnden, während der Dauer der Ehe bis zur Auflösung der häuslichen Gemeinschaft erworbenen Austrittsleistungen des anderen Ehegatten.\n2) Stehen den Ehegatten gegenseitig Ansprüche zu, so ist nur der Differenzbetrag zu teilen."
+    },
+    {
+      "provision_ref": "art89c",
+      "chapter": "V. Aufteilung der Ansprüche aus beruflicher Vorsorge",
+      "section": "89c",
+      "title": "Art. 89c Verzicht und Ausschluss",
+      "content": "1) Ein Ehegatte kann im Rahmen einer Scheidungsvereinbarung auf seinen Anspruch ganz oder teilweise verzichten, wenn eine entsprechende Alters- und Invalidenvorsorge auf andere Weise gewährleistet ist.\n2) Das Gericht kann die Teilung ganz oder teilweise verweigern, wenn sie aufgrund der vermögensrechtlichen oder wirtschaftlichen Verhältnisse nach der Scheidung offensichtlich unbillig wäre."
+    },
+    {
+      "provision_ref": "art89d",
+      "chapter": "V. Aufteilung der Ansprüche aus beruflicher Vorsorge",
+      "section": "89d",
+      "title": "Art. 89d Entschädigung",
+      "content": "1) Ist bei einem oder bei beiden Ehegatten ein Vorsorgefall bereits eingetreten oder können aus anderen Gründen Ansprüche aus der beruflichen Vorsorge, die während der Dauer der Ehe erworben worden sind, nicht geteilt werden, so ist eine angemessene Entschädigung geschuldet.\n2) Das Gericht kann den Schuldner verpflichten, die Entschädigung sicherzustellen, wenn es die Umstände rechtfertigen."
+    },
+    {
+      "provision_ref": "art89e",
+      "chapter": "V. Aufteilung der Ansprüche aus beruflicher Vorsorge",
+      "section": "89e",
+      "title": "Art. 89e Verfahren bei Einigung",
+      "content": "1) Haben sich die Ehegatten über die Teilung der Austrittsleistungen sowie die Art der Durchführung der Teilung geeinigt und legen sie eine Bestätigung der beteiligten Einrichtungen der beruflichen Vorsorge über die Durchführbarkeit der getroffenen Regelung und die Höhe der Guthaben vor, die für die Berechnung der zu teilenden Austrittsleistungen massgebend sind, so wird die Vereinbarung mit der Genehmigung durch das Gericht auch für die Einrichtungen der beruflichen Vorsorge verbindlich.\n2) Das Gericht eröffnet den Einrichtungen der beruflichen Vorsorge den rechtskräftigen Beschluss bezüglich der sie betreffenden Punkte unter Einschluss der nötigen Angaben für die Überweisung des vereinbarten Betrages."
+    },
+    {
+      "provision_ref": "art89f",
+      "chapter": "V. Aufteilung der Ansprüche aus beruflicher Vorsorge",
+      "section": "89f",
+      "title": "Art. 89f Verfahren bei Uneinigkeit",
+      "content": "1) Kommt keine Vereinbarung zustande, so entscheidet das Gericht über das Verhältnis, in welchem die Austrittsleistungen zu teilen sind, und legt den Zeitpunkt der Auflösung der häuslichen Gemeinschaft fest. Die Einrichtungen der beruflichen Vorsorge haben dem Gericht auf Verlangen Auskunft über die Ansprüche der versicherten Ehegatten zu geben.\n2) Sobald die Entscheidung gemäss Abs. 1 rechtskräftig ist, überweist das Gericht diese von Amtes wegen an die zuständigen Einrichtungen der beruflichen Vorsorge. Diese setzen auf der Basis des Scheidungsurteils oder Scheidungsbeschlusses, des festgelegten Teilungsverhältnisses und des Zeitpunktes der Auflösung der häuslichen Gemeinschaft die Höhe der während der Ehe erworbenen Austrittsleistungen im Hinblick auf die vorzunehmende Teilung fest.\nVI. Kindesrecht"
+    },
+    {
+      "provision_ref": "art89g",
+      "chapter": "VI. Kindesrecht",
+      "section": "89g",
+      "title": "Art. 89g Folgen betreffend das Kind",
+      "content": "Bezüglich der Regelung des Kindesunterhaltes, der Pflege und Erziehung der Kinder sowie des Verkehrs zwischen Eltern und Kindern bleiben die Bestimmungen des Allgemeinen bürgerlichen Gesetzbuches vorbehalten."
+    },
+    {
+      "provision_ref": "art89h",
+      "chapter": "VI. Kindesrecht",
+      "section": "89h",
+      "title": "Art. 89h Kindeswohl",
+      "content": "Der Richter hat bei der Entscheidung über die Nebenfolgen der Scheidung und Trennung grundsätzlich auf das Kindeswohl Bedacht zu nehmen."
+    },
+    {
+      "provision_ref": "art89ibis89s",
+      "chapter": "VI. Kindesrecht",
+      "section": "89ibis89s",
+      "title": "Art. 89ibis89s",
+      "content": "Aufgehoben\n4. Teil\nÜbergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "90",
+      "title": "Art. 90 Änderung von Rechtsbegriffen",
+      "content": "Die Trennung der Ehe dem Bande nach gemäss den bisherigen Gesetzesbestimmungen gilt als Scheidung der Ehe nach den Vorschriften dieses Gesetzes. Die Scheidung der Ehe von Tisch und Bett gemäss den bisherigen Gesetzesbestimmungen gilt als Trennung nach den Vorschriften dieses Gesetzes."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "91",
+      "title": "Art. 91 Scheidungsfolgen",
+      "content": "Sind vor Inkrafttreten dieses Gesetzes die Scheidungsfolgen vom Gericht gemäss § 105 ABGB bei den Gerichtsakten vorgemerkt oder gemäss § 108 und § 117 ABGB geregelt worden, so gelten diese auch nach einer Scheidung der Ehe nach neuem Recht (Art. 73 ff.) weiter."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "92",
+      "title": "Art. 92 Von Tisch und Bett geschiedene Ehen; Scheidung nach neuem Recht",
+      "content": "1) Jeder Ehegatte, dessen Ehe gemäss den §§ 107 und 109 ABGB durch richterliches Urteil geschieden wurde, kann ab Inkrafttreten dieses Gesetzes auf Scheidung nach neuem Recht klagen, wenn im übrigen die gesetzlichen Voraussetzungen erfüllt sind. Hat die Aufhebung der ehelichen Gemeinschaft noch nicht fünf Jahre gedauert, so kann das Widerspruchsrecht im Rahmen des Art. 76 geltend gemacht werden.\n2) Jeder Ehegatte, dessen Ehe gemäss den §§ 103 und 105 ABGB durch richterliche Bewilligung von Tisch und Bett geschieden wurde, kann ab Inkrafttreten dieses Gesetzes auf Scheidung nach neuem Recht klagen, wenn die Aufhebung der ehelichen Gemeinschaft fünf Jahre gedauert hat, ohne dass ihre Wiederaufnahme im Sinne von Art. 56 erfolgt ist."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "93",
+      "title": "Art. 93 Gültigkeit nach altem Recht geschlossener Ehen",
+      "content": "Die Gültigkeit einer vor Inkrafttreten dieses Gesetzes geschlossenen Ehe bestimmt sich nach den bisherigen Gesetzesbestimmungen."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "94",
+      "title": "Art. 94 Hängige Verfahren",
+      "content": "Auf die bei Inkrafttreten dieses Gesetzes hängigen Scheidungs- und Trennungsverfahren findet dieses Gesetz Anwendung."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "95",
+      "title": "Art. 95 Terminologie",
+      "content": "Wo in Gesetzen und Verordnungen von Scheidung die Rede ist, ist darunter Trennung im Sinne dieses Gesetzes zu verstehen, und wo von Trennung die Rede ist, ist darunter die Scheidung im Sinne dieses Gesetzes zu verstehen."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "96",
+      "title": "Art. 96 Aufhebung bisheriger Vorschriften",
+      "content": "Vorschriften, die Gegenstände betreffen, die in diesem Gesetz geregelt sind, verlieren mit dem Inkrafttreten dieses Gesetzes ihre Wirksamkeit."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "97",
+      "title": "Art. 97 Aufgehobene Vorschriften",
+      "content": "Mit Inkrafttreten dieses Gesetzes sind insbesondere nachstehende Vorschriften aufgehoben:\na) die §§ 44 bis 136 (2. Hauptstück), §§ 153, 160 und 1266 Satz 1 des ABGB;\nb) - Fürstliche Verordnung vom 14. Oktober 1804 betreffend die Einführung des politischen Ehekonsenses;\n- Hofdekret vom 23. September 1817, JGS Nr. 1372, zu den §§ 86 und 87 ABGB;\n- Hofdekret vom 10. August 1821, JGS Nr. 1789, zu § 136 ABGB;\n- Hofdekret vom 17. Juni 1825, JGS Nr. 2112, zu § 96 ABGB;\n- Hofdekret vom 22. Dezember 1826, JGS Nr. 2242, zu § 78 ABGB;\n- Hofdekret vom 17. Juli 1835, JGS Nr. 61, zu § 119 ABGB;\n- Hofdekret vom 27. Juni 1837, JGS Nr. 208, zu § 94 ABGB;\n- Hofdekret vom 4. Mai 1841, JGS Nr. 531, zu § 1264 ABGB.\nc) Art. 12 Abs. 2 PGR und § 3 Abs. 1, 2, 3, 4, 5 und 6 der Schlussabteilung zum PGR."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "98",
+      "title": "Art. 98 Abänderung bisheriger Vorschriften",
+      "content": "§ 142 ABGB erhält nachstehende neue Fassung:\n1) Bei Trennung der Ehe hat das Gericht die Pflege und Erziehung der Kinder zu regeln. Es hat unter Berücksichtigung der besonderen Verhältnisse des Falles mit Bedacht auf die Interessen der Kinder, auf Beruf, Persönlichkeit und Eigenschaft der Ehegatten zu entscheiden, ob alle oder welche Kinder dem Vater oder der Mutter zu überlassen sind. Der andere Ehegatte behält dessen ungeachtet die Befugnis, mit dem Kinde persönlich zu verkehren. Das Gericht kann den Verkehr näher regeln. Die Kosten der Erziehung sind vom Vater zu tragen.\n2) Bei geänderten Verhältnissen kann das Gericht ohne Rücksicht auf seine früheren Anordnungen die im Interesse der Kinder notwendigen neuen Anordnungen treffen."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "99",
+      "title": "Art. 99 Verordnungsrecht",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "Übergangs- und Schlussbestimmungen",
+      "section": "100",
+      "title": "Art. 100 Inkrafttreten",
+      "content": "Dieses Gesetz wird als nicht dringlich erklärt und tritt am 1. Juni 1974 in Kraft.\ngez. Franz Josef\ngez. Dr. Walter Kieber\nFürstlicher Regierungschef-Stellvertreter\nÜbergangsbestimmungen\n212.10 Ehegesetz (EheG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 1993 Nr. 53 ausgegeben am 1. April 1993\nGesetz\nvom 22. Oktober 1992\nüber die Abänderung des Ehegesetzes\n...\nII.\n1) Dieses Gesetz tritt am Tage der Kundmachung in Kraft .\n2) Von diesem Zeitpunkt an gilt es, soweit im folgenden nicht etwas anderes bestimmt wird, auch für jene Ehen, die vor seinem Inkrafttreten geschlossen und bis dahin noch nicht rechtskräftig durch Urteil für ungültig erklärt oder getrennt worden sind. Ist der Rechtsstreit zum Zeitpunkt des Inkrafttretens dieses Gesetzes bereits anhängig, steht aber die Rechtskraft der Entscheidung noch aus, so genügt es für die Nichtanwendung der Bestimmungen dieses Gesetzes, dass die mündliche Verhandlung erster Instanz, im Falle der Berufungserhebung jene der zweiten Instanz, vor dem Zeitpunkt des Inkrafttretens geschlossen und auf die Ungültigkeit der Trennung der Ehe erst nachfolgend rechtskräftig entschieden worden ist.\n3) Ehegatten, die vor Inkrafttreten dieses Gesetzes die Ehe geschlossen haben und deren Name nicht Familienname geworden ist, können binnen zwei Jahren ab Inkrafttreten dieses Gesetzes gegenüber dem Zivilstandsbeamten erklären, dass sie gemäss Art. 44 Abs. 2 ihren bisherigen Namen dem Familiennamen unter Setzung eines Bindestriches voran- oder nachstellen wollen.\n4) Die Bestimmungen über die Abgeltung der Mitwirkung eines Ehegatten beim Erwerb des anderen (Art. 46a bis Art. 46c) gelten rückwirkend auch für die Mitwirkung eines Ehegatten, die vor dem Inkrafttreten dieses Gesetzes geleistet worden ist. Für den Beginn der Verjährung (§ 1486 Ziff. 7 ABGB) ist dabei das Ende des Monats massgebend, in dem die Leistung erbracht worden ist.\n5) Ebenso rückwirkend gelten auch die Bestimmungen dieses Gesetzes über die Aufteilung des während der Ehe erzielten Vermögenszuwachses (Art. 89a bis Art. 89s) für Ehen im Sinne des Abs. 2. Jeder Ehegatte kann jedoch innerhalb von zwei Jahren nach Inkrafttreten dieses Gesetzes gegenüber dem anderen Ehegatten schriftlich und mit Beglaubigung seiner Unterschrift die Erklärung abgeben, dass er Vermögensbestandteile, welche gemäss Art. 89s Abs. 2 Ziff. 1 vertraglich von der Aufteilung ausgenommen werden können, einseitig dieser Aufteilung entzieht. In diesem Falle hat jedoch der Ehegatte, der diese Erklärung abgibt, dem anderen Ehegatten den angemessenen Unterhalt nach Art. 82 und 83 ohne Rücksicht auf den Verschuldensausspruch zu gewähren, wenn es in der Folge, aufgrund wessen Begehrens immer, zur Ungültigerklärung der Ehe oder ihrer Trennung ohne Einverständnis kommt. Diese unterhaltsrechtliche Folge tritt auf Einwendung des unterhaltspflichtigen Eheteiles nur dann nicht ein, wenn das erweiterte Unterhaltsbegehren nach den im Eheungültigkeits- oder Ehetrennungsstreit erhobenen Umständen als rechtsmissbräuchlich anzusehen ist.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 1999 Nr. 28 ausgegeben am 19. Februar 1999\nGesetz\nvom 17. Dezember 1998\nüber die Abänderung des Ehegesetzes\n...\nII.\nÜbergangsbestimmungen"
+    },
+    {
+      "provision_ref": "par1",
+      "chapter": "II.",
+      "section": "1",
+      "title": "§ 1 Trennung ohne Einverständnis; Scheidung nach neuem Recht",
+      "content": "1) Ehegatten, deren Ehe gemäss Art. 57 ff. des alten Rechts (aEheG) ohne Einverständnis getrennt wurde, können ab Inkrafttreten dieses Gesetzes unbeschadet der Dauer der Trennung gemäss Art. 75 aEheG gemeinsam beim Landgericht die Feststellung beantragen, dass ihre Ehe als geschieden gilt und das Band der Ehe somit gelöst ist.\n2) Kommt es zu keinem gemeinsamen Antrag, so kann jeder Ehegatte alleine die Feststellung gemäss Abs. 1 beantragen, sofern nach Rechtskraft des Trennungsurteils die Aufhebung der ehelichen Gemeinschaft drei Jahre gedauert hat.\n3) Liegen die Voraussetzungen gemäss Abs. 1 oder Abs. 2 vor, so stellt das Gericht mittels Beschluss fest, dass die betreffende Ehe als geschieden gilt und das Band der Ehe gelöst ist."
+    },
+    {
+      "provision_ref": "par2",
+      "chapter": "II.",
+      "section": "2",
+      "title": "§ 2 Einvernehmliche Trennung; Scheidung nach neuem Recht",
+      "content": "Wurde eine Ehe nach altem Recht einvernehmlich getrennt, können die Ehegatten nach neuem Recht entweder einzeln auf Scheidung klagen oder durch gemeinsames Begehren die Scheidung beantragen, sofern die gesetzlichen Voraussetzungen erfüllt sind."
+    },
+    {
+      "provision_ref": "par3",
+      "chapter": "II.",
+      "section": "3",
+      "title": "§ 3 Hängige Verfahren",
+      "content": "1) Auf die bei Inkrafttreten dieses Gesetzes hängigen Trennungsverfahren findet das neue Recht Anwendung.\n2) Sind sich die Ehegatten, welche sich in einem streitigen Trennungsverfahren befinden, über die Auflösung der Ehe oder die Trennung einig, so können sie die anhängige Klage in ein gemeinsames Scheidungs- oder Trennungsbegehren umwandeln.\n3) Sind sich die Ehegatten über die Auflösung der Ehe oder die Trennung nicht einig, so ist das Klagebegehren den in diesem Gesetz normierten Voraussetzungen anzupassen.\n4) Ehegatten, die ein Verfahren auf einvernehmliche Trennung eingeleitet haben, können sich nach den Vorschriften dieses Gesetzes trennen oder scheiden lassen. Das Begehren ist dementsprechend anzupassen.\n5) Hängige Scheidungsverfahren werden nach altem Recht durchgeführt. Das Widerspruchsrecht gemäss Art. 76 aEheG entfällt."
+    },
+    {
+      "provision_ref": "par4",
+      "chapter": "II.",
+      "section": "4",
+      "title": "§ 4 Unterhalt",
+      "content": "1) Wurde im Rahmen einer Trennung nach altem Recht kein Unterhalt festgesetzt, so erfolgt auf Klage die Festsetzung vorbehaltlich Abs. 3 nach neuem Recht.\n2) Klagen auf Abänderung eines nach altem Recht festgesetzten Unterhaltes wegen Änderung in den Verhältnissen sind nach neuem Recht (Art. 70) zu behandeln.\n3) Eine Erstfestsetzung oder eine Erhöhung des Unterhaltes nach neuem Recht ist ausgeschlossen, wenn:\na) der nach altem Recht überwiegend oder allein schuldig getrennte Ehegatte keinen Unterhalt zugesprochen erhalten hat;\nb) der nach altem Recht aus gleichteiligem Verschulden getrennte Ehegatte lediglich einen Beitrag zum Unterhalt gemäss Art. 84 aEheG zugesprochen erhalten hat."
+    },
+    {
+      "provision_ref": "par5",
+      "chapter": "II.",
+      "section": "5",
+      "title": "§ 5 Aufteilung des ehelichen Vermögenszuwachses",
+      "content": "1) Ehegatten, die im letzten Jahr vor Inkrafttreten des neuen Rechts getrennt wurden, aber noch keinen Antrag auf Aufteilung des Vermögenszuwachses gemäss Art. 89f aEheG gestellt haben, können während einer Übergangsfrist von einem Jahr nach Inkrafttreten des neuen Rechts eine Klage auf Aufteilung des ehelichen Vermögenszuwachses gemäss neuem Recht einreichen.\n2) Auf die bei Inkrafttreten dieses Gesetzes hängigen Verfahren wegen Aufteilung des ehelichen Vermögenszuwachses findet das neue Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2014 Nr. 272 ausgegeben am 30. Oktober 2014\nGesetz\nvom 4. September 2014\nüber die Abänderung des Ehegesetzes\n...\nII.\nÜbergangsbestimmungen\n1) Der Ehegatte, dessen Familienname vor Inkrafttreten dieses Gesetzes bei der Trauung geändert worden ist, kann jederzeit gegenüber dem Zivilstandsbeamten erklären, seinen vor der Trauung geführten Familiennamen wieder anzunehmen.\n2) Hat ein Ehegatte anlässlich seiner Trauung vor dem Inkrafttreten dieses Gesetzes gegenüber dem Zivilstandsbeamten gemäss Art. 44 Abs. 2 Ehegesetz in der bisherigen Fassung erklärt, dass er seinen bisherigen Namen unter Bildung eines Doppelnamens beibehalten will und hat er für die Bildung dieses Doppelnamens den ersten Namen eines von ihm bereits vor der Trauung geführten Doppelnamens verwendet, so kann er jederzeit nach Inkrafttreten dieses Gesetzes gegenüber dem Zivilstandsbeamten erklären, dass er statt des ersten den zweiten Namen des seinerzeitigen Doppelnamens dem gemeinsamen Familiennamen voran- oder nachstellen will.\n...\n1\nTitel abgeändert durch LGBl. 2010 Nr. 459 .\n2\nArt. 1 abgeändert durch LGBl. 2024 Nr. 261 .\n3\nArt. 3 Abs. 1 abgeändert durch LGBl. 2024 Nr. 261 .\n4\nArt. 3 Abs. 2 abgeändert durch LGBl. 2024 Nr. 261 .\n5\nArt. 3a eingefügt durch LGBl. 2024 Nr. 261 .\n6\nArt. 4 abgeändert durch LGBl. 2024 Nr. 261 .\n7\nArt. 9 abgeändert durch LGBl. 2024 Nr. 261 .\n8\nArt. 11 Abs. 1 abgeändert durch LGBl. 2010 Nr. 125 .\n9\nArt. 12 Bst. b abgeändert durch LGBl. 2024 Nr. 261 .\n10\nArt. 14 Sachüberschrift abgeändert durch LGBl. 2024 Nr. 261 .\n11\nArt. 14 Abs. 1 abgeändert durch LGBl. 2024 Nr. 261 .\n12\nArt. 15 abgeändert durch LGBl. 2008 Nr. 331 .\n13\nArt. 17 abgeändert durch LGBl. 2008 Nr. 312 .\n14\nArt. 17 Abs. 1 Bst. b abgeändert durch LGBl. 2024 Nr. 261 .\n15\nArt. 17 Abs. 1 Bst. d abgeändert durch LGBl. 2024 Nr. 261 .\n16\nArt. 26 Abs. 1 abgeändert durch LGBl. 2024 Nr. 261 .\n17\nArt. 30 abgeändert durch LGBl. 2024 Nr. 261 .\n18\nArt. 34 abgeändert durch LGBl. 2010 Nr. 125 .\n19\nArt. 38 Abs. 1 abgeändert durch LGBl. 1999 Nr. 28 .\n20\nArt. 38a eingefügt durch LGBl. 2008 Nr. 312 .\n21\nArt. 40 Abs. 2 abgeändert durch LGBl. 1999 Nr. 28 .\n22\nArt. 42 abgeändert durch LGBl. 1999 Nr. 28 .\n23\nArt. 43 abgeändert durch LGBl. 1993 Nr. 53 .\n24\nArt. 43a eingefügt durch LGBl. 2024 Nr. 261 .\n25\nArt. 44 abgeändert durch LGBl. 2014 Nr. 272 .\n26\nArt. 45 abgeändert durch LGBl. 1993 Nr. 53 .\n27\nArt. 46 abgeändert durch LGBl. 1993 Nr. 53 .\n28\nArt. 46a eingefügt durch LGBl. 1993 Nr. 53 .\n29\nArt. 46b eingefügt durch LGBl. 1993 Nr. 53 .\n30\nArt. 46c eingefügt durch LGBl. 1993 Nr. 53 .\n31\nArt. 47 abgeändert durch LGBl. 1993 Nr. 53 .\n32\nArt. 48 abgeändert durch LGBl. 1993 Nr. 53 .\n33\nArt. 49 abgeändert durch LGBl. 1993 Nr. 53 .\n34\nArt. 49a eingefügt durch LGBl. 1993 Nr. 53 .\n35\nArt. 49b eingefügt durch LGBl. 1993 Nr. 53 .\n36\nArt. 49c eingefügt durch LGBl. 1993 Nr. 53 .\n37\nArt. 49d eingefügt durch LGBl. 1993 Nr. 53 .\n38\nArt. 49e eingefügt durch LGBl. 1993 Nr. 53 .\n39\nArt. 49f eingefügt durch LGBl. 1993 Nr. 53 .\n40\nArt. 49g eingefügt durch LGBl. 1993 Nr. 53 .\n41\nArt. 49h Sachüberschrift eingefügt durch LGBl. 1993 Nr. 53 .\n42\nArt. 49h Abs. 1 eingefügt durch LGBl. 1993 Nr. 53 und abgeändert durch LGBl. 2010 Nr. 454 .\n43\nArt. 49h Abs. 2 eingefügt durch LGBl. 1993 Nr. 53 .\n44\nÜberschrift vor Art. 50 abgeändert durch LGBl. 1999 Nr. 28 .\n45\nÜberschrift vor Art. 50 abgeändert durch LGBl. 1999 Nr. 28 .\n46\nÜberschrift vor Art. 50 abgeändert durch LGBl. 1999 Nr. 28 .\n47\nArt. 50 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 28 .\n48\nArt. 50 Abs. 1 abgeändert durch LGBl. 1999 Nr. 28 .\n49\nArt. 50 Abs. 2 abgeändert durch LGBl. 2014 Nr. 203 .\n50\nArt. 50 Abs. 3 abgeändert durch LGBl. 1999 Nr. 28 .\n51\nArt. 51 abgeändert durch LGBl. 1999 Nr. 28 .\n52\nArt. 52 abgeändert durch LGBl. 2010 Nr. 459 .\n53\nArt. 53 abgeändert durch LGBl. 1999 Nr. 28 .\n54\nArt. 54 abgeändert durch LGBl. 1999 Nr. 28 .\n55\nÜberschrift vor Art. 55 eingefügt durch LGBl. 1999 Nr. 28 .\n56\nÜberschrift vor Art. 55 eingefügt durch LGBl. 1999 Nr. 28 .\n57\nArt. 55 abgeändert durch LGBl. 1999 Nr. 28 .\n58\nÜberschrift vor Art. 56 eingefügt durch LGBl. 1999 Nr. 28 .\n59\nArt. 56 abgeändert durch LGBl. 1999 Nr. 28 .\n60\nArt. 57 abgeändert durch LGBl. 1999 Nr. 28 .\n61\nArt. 58 abgeändert durch LGBl. 1999 Nr. 28 .\n62\nÜberschrift vor Art. 59 eingefügt durch LGBl. 1999 Nr. 28 .\n63\nArt. 59 abgeändert durch LGBl. 1999 Nr. 28 .\n64\nArt. 60 abgeändert durch LGBl. 1999 Nr. 28 .\n65\nArt. 61 abgeändert durch LGBl. 1999 Nr. 28 .\n66\nArt. 62 abgeändert durch LGBl. 1999 Nr. 28 .\n67\nÜberschrift vor Art. 63 eingefügt durch LGBl. 1999 Nr. 28 .\n68\nArt. 63 abgeändert durch LGBl. 1999 Nr. 28 .\n69\nArt. 64 abgeändert durch LGBl. 2010 Nr. 459 .\n70\nArt. 65 abgeändert durch LGBl. 2010 Nr. 459 .\n71\nÜberschrift vor Art. 66 eingefügt durch LGBl. 1999 Nr. 28 .\n72\nÜberschrift vor Art. 66 eingefügt durch LGBl. 1999 Nr. 28 .\n73\nArt. 66 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 28 .\n74\nArt. 66 Abs. 1 abgeändert durch LGBl. 1999 Nr. 28 .\n75\nArt. 66 Abs. 2 abgeändert durch LGBl. 2014 Nr. 272 .\n76\nArt. 66 Abs. 3 abgeändert durch LGBl. 1999 Nr. 28 .\n77\nÜberschrift vor Art. 67 eingefügt durch LGBl. 1999 Nr. 28 .\n78\nArt. 67 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 28 .\n79\nArt. 67 Abs. 1abgeändert durch LGBl. 1999 Nr. 28 .\n80\nArt. 67 Abs. 2 abgeändert durch LGBl. 2010 Nr. 459 .\n81\nArt. 67 Abs. 3 abgeändert durch LGBl. 1999 Nr. 28 .\n82\nÜberschrift vor Art. 68 eingefügt durch LGBl. 1999 Nr. 28 .\n83\nArt. 68 abgeändert durch LGBl. 1999 Nr. 28 .\n84\nArt. 69 abgeändert durch LGBl. 1999 Nr. 28 .\n85\nArt. 70 abgeändert durch LGBl. 1999 Nr. 28 .\n86\nArt. 71 abgeändert durch LGBl. 1999 Nr. 28 .\n87\nArt. 72 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 28 .\n88\nArt. 72 Abs. 1 abgeändert durch LGBl. 1999 Nr. 28 .\n89\nArt. 72 Abs. 2 abgeändert durch LGBl. 1999 Nr. 28 .\n90\nArt. 72 Abs. 3 abgeändert durch LGBl. 1999 Nr. 28 .\n91\nArt. 72 Abs. 4 abgeändert durch LGBl. 2011 Nr. 367 .\n92\nÜberschrift vor Art. 73 eingefügt durch LGBl. 1999 Nr. 28 .\n93\nArt. 73 abgeändert durch LGBl. 1999 Nr. 28 .\n94\nArt. 74 Sachüberschrift abgeändert durch LGBl. 1999 Nr. 28 .\n95\nArt. 74 Abs. 1 abgeändert durch LGBl. 1999 Nr. 28 .\n96\nArt. 74 Abs. 2 aufgehoben durch LGBl. 2000 Nr. 298 .\n97\nArt. 75 abgeändert durch LGBl. 1999 Nr. 28 .\n98\nArt. 76 abgeändert durch LGBl. 1999 Nr. 28 .\n99\nArt. 77 abgeändert durch LGBl. 1999 Nr. 28 .\n100\nSachüberschrift vor Art. 78 eingefügt durch LGBl. 1999 Nr. 28 .\n101\nArt. 78 abgeändert durch LGBl. 1999 Nr. 28 .\n102\nArt. 79 abgeändert durch LGBl. 1999 Nr. 28 .\n103\nArt. 80 abgeändert durch LGBl. 1999 Nr. 28 .\n104\nArt. 81 abgeändert durch LGBl. 1999 Nr. 28 .\n105\nArt. 82 abgeändert durch LGBl. 1999 Nr. 28 .\n106\nArt. 83 abgeändert durch LGBl. 1999 Nr. 28 .\n107\nArt. 84 abgeändert durch LGBl. 1999 Nr. 28 .\n108\nArt. 85 abgeändert durch LGBl. 1999 Nr. 28 .\n109\nArt. 86 abgeändert durch LGBl. 1999 Nr. 28 .\n110\nArt. 87 abgeändert durch LGBl. 1999 Nr. 28 .\n111\nArt. 88 abgeändert durch LGBl. 1999 Nr. 28 .\n112\nArt. 89 abgeändert durch LGBl. 1999 Nr. 28 .\n113\nArt. 89a abgeändert durch LGBl. 1999 Nr. 28 .\n114\nÜberschrift vor Art. 89b eingefügt durch LGBl. 1999 Nr. 28 .\n115\nArt. 89b abgeändert durch LGBl. 1999 Nr. 28 .\n116\nArt. 89c abgeändert durch LGBl. 1999 Nr. 28 .\n117\nArt. 89d abgeändert durch LGBl. 1999 Nr. 28 .\n118\nArt. 89e Sachüberschrift abgeändert durch LGBl. 1999 Nr. 28 .\n119\nArt. 89e Abs. 1 abgeändert durch LGBl. 1999 Nr. 28 .\n120\nArt. 89e Abs. 2 abgeändert durch LGBl. 2010 Nr. 459 .\n121\nArt. 89f Sachüberschrift abgeändert durch LGBl. 2000 Nr. 298 .\n122\nArt. 89f Abs. 1 abgeändert durch LGBl. 2000 Nr. 298 .\n123\nArt. 89f Abs. 2 abgeändert durch LGBl. 2010 Nr. 459 .\n124\nÜberschrift vor Art. 89g eingefügt durch LGBl. 1999 Nr. 28 .\n125\nArt. 89g abgeändert durch LGBl. 1999 Nr. 28 .\n126\nArt. 89h abgeändert durch LGBl. 1999 Nr. 28 .\n127\nArt. 89i bis 89s aufgehoben durch LGBl. 1999 Nr. 28 .\n128\nInkrafttreten: 1. April 1993.\n129\nInkrafttreten: 1. April 1999\n130\nInkrafttreten: 1. April 1999\n131\nInkrafttreten: 1. April 1999\n132\nInkrafttreten: 1. Januar 2015"
+    }
+  ],
+  "definitions": []
+}

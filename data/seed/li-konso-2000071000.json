@@ -1,0 +1,36 @@
+{
+  "id": "li-konso-2000071000",
+  "type": "statute",
+  "title": "Kundmachung vom 29. Februar 2000 der Stellungnahme zum Euro des Gemeinsamen EWR-Ausschusses",
+  "title_en": "",
+  "short_name": "LGBl 2000.071",
+  "status": "in_force",
+  "issued_date": "2000-02-29",
+  "in_force_date": "2000-02-29",
+  "url": "https://www.gesetze.li/konso/2000071000",
+  "description": "Kundmachung vom 29. Februar 2000 der Stellungnahme zum Euro des Gemeinsamen EWR-Ausschusses",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "der Stellungnahme zum Euro des Gemeinsamen EWR-Ausschusses",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Aufgrund von Art. 3 Bst. k des Kundmachungsgesetzes vom 17. April 1985, LGBl. 1985 Nr. 41, in der Fassung des Gesetzes vom 22. März 1995, LGBl. 1995 Nr. 101, macht die Regierung im Anhang die Stellungnahme zum Euro vom 30. April 1999 des Gemeinsamen EWR-Ausschusses kund.\nFürstliche Regierung:\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\nAnhang\nStellungnahme zum Euro"
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "der Stellungnahme zum Euro des Gemeinsamen EWR-Ausschusses",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "Der Gemeinsame Ausschuss hat folgene Stellungnahme angenommen:"
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "der Stellungnahme zum Euro des Gemeinsamen EWR-Ausschusses",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "\"Der Gemeinsame Ausschuss nimmt zur Kenntnis, dass unter \"Euro\" im Sinne dieses Abkommens der Euro im Sinne des Rechts der Europäischen Gemeinschaft zu verstehen ist. In sämtlichen Akten, auf die in den Anhängen und Protokollen zum EWR-Abkommen Bezug genommen wird, ist unter \"ECU\" und \"Europäische Rechnungseinheit\" daher \"Euro\" zu verstehen.\""
+    }
+  ],
+  "definitions": []
+}

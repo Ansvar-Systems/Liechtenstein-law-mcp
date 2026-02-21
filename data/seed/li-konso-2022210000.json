@@ -1,0 +1,271 @@
+{
+  "id": "li-konso-2022210000",
+  "type": "statute",
+  "title": "Verordnung vom 12. Juli 2022 über die Interoperabilität des Eisenbahnsystems",
+  "title_en": "",
+  "short_name": "LGBl 2022.210",
+  "status": "in_force",
+  "issued_date": "2022-07-12",
+  "in_force_date": "2022-07-12",
+  "url": "https://www.gesetze.li/konso/2022210000",
+  "description": "Verordnung vom 12. Juli 2022 über die Interoperabilität des Eisenbahnsystems",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Geltungsbereich",
+      "content": "1) Diese Verordnung regelt die technische Harmonisierung zur besseren Verknüpfung und Interoperabilität der europäischen Eisenbahnnetze und zur Verwirklichung des Binnenmarkts für die Ausrüstungen und Dienstleistungen für den Bau, die Inbetriebnahme, die Instandhaltung und den Betrieb von Eisenbahnen oder Bestandteilen von Eisenbahnen.\n2) Sie enthält für jedes Teilsystem:\na) die Bestimmungen über Interoperabilitätskomponenten, Schnittstellen und Verfahren; und\nb) die Bedingungen für die Gesamtkohärenz des europäischen Eisenbahnsystems, die für die Verwirklichung der Interoperabilität erforderlich sind.\n3) Sie ist auf Anschlussbahnen (Art. 3 Abs. 1 Bst. f EBG) nicht anzuwenden."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Umsetzung von EWR-Rechtsvorschriften",
+      "content": "1) Diese Verordnung dient insbesondere der Umsetzung der Richtlinie (EU) 2016/797 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union .\n2) Die gültige Fassung der in Abs. 1 genannten EWR-Rechtsvorschrift ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Interoperabilität\": die Eignung des Eisenbahnsystems für einen sicheren und durchgehenden Zugverkehr, indem den erforderlichen Leistungskennwerten entsprochen wird;\nb) \"Technische Spezifikationen für die Interoperabilität (TSI)\": Spezifikationen, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die die Interoperabilität des Eisenbahnsystems gewährleisten;\nc) \"grundlegende Anforderungen\": die Gesamtheit aller Bedingungen nach Anhang III der Richtlinie (EU) 2016/797, die das Eisenbahnsystem, die Teilsysteme und die Interoperabilitätskomponenten einschliesslich der Schnittstellen erfüllen müssen;\nd) \"Teilsysteme\": die in Anhang II der Richtlinie (EU) 2016/797 angeführten strukturellen oder funktionalen Teile des Eisenbahnsystems;\ne) \"Interoperabilitätskomponenten\": Bauteile, Bauteilgruppen, Unterbaugruppen oder komplette Materialbaugruppen, die in ein Teilsystem eingebaut sind oder eingebaut werden sollen und von denen die Interoperabilität des Eisenbahnsystems direkt oder indirekt abhängt, einschliesslich materieller oder immaterieller Produkte;\nf) \"Aufrüstung\": umfangreiche Änderungsarbeiten an einem Teilsystem oder von Teilen desselben, die eine Änderung des der EG-Prüferklärung beigefügten technischen Dossiers, soweit ein solches vorhanden ist, zur Folge haben und mit denen die Gesamtleistung des Teilsystems verbessert wird;\ng) \"Erneuerung\": umfangreiche Änderungsarbeiten an einem Teilsystem oder eines Teils davon, mit denen die Gesamtleistung nicht verändert wird;\nh) \"Konformitätsbewertung\": das Verfahren zur Bewertung, ob bestimmte Anforderungen an ein Produkt, ein Verfahren, eine Dienstleistung, ein Teilsystem, eine Person oder eine Stelle erfüllt sind;\ni) \"Konformitätsbewertungsstelle\": eine für Konformitätsbewertungen einschliesslich Kalibrierung, Prüfung, Zertifizierung und Inspektion zuständige Stelle, die nach dem Gesetz über die Akkreditierung und Notifizierung akkreditiert wurde.\n2) Im Übrigen finden die Begriffsbestimmungen von Art. 3 Abs. 1 EBG und des EWR-Rechts, insbesondere der Richtlinie (EU) 2016/797, ergänzend Anwendung.\n3) Unter den in dieser Verordnung verwendeten Personenbezeichnungen sind Angehörige des männlichen und des weiblichen Geschlechts zu verstehen.\nII. Interoperabilitätskomponenten"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Interoperabilitätskomponenten",
+      "section": "4",
+      "title": "Art. 4 Inverkehrbringen",
+      "content": "1) Es dürfen nur solche Interoperabilitätskomponenten in Verkehr gebracht werden, die die Verwirklichung der Interoperabilität des Eisenbahnsystems ermöglichen und den grundlegenden Anforderungen entsprechen (Art. 29 Abs. 1 EBG). Als Inverkehrbringen gilt die erstmalige Bereitstellung im Inland.\n2) Interoperabilitätskomponenten müssen bestimmungsgemäss verwendet werden und sind ordnungsgemäss zu installieren und instand zu halten.\n3) Dieser Artikel steht einem Inverkehrbringen von Interoperabilitätskomponenten für andere Verwendungen, die nicht dem Eisenbahngesetz unterliegen, nicht entgegen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Interoperabilitätskomponenten",
+      "section": "5",
+      "title": "Art. 5 Konformität oder Gebrauchstauglichkeit",
+      "content": "1) Mit einer EG-Konformitäts- oder EG-Gebrauchstauglichkeitserklärung für eine Interoperabilitätskomponente wird bescheinigt, dass die Interoperabilitätskomponente den in den jeweiligen TSI festgelegten Verfahren für die Bewertung der Konformität oder Gebrauchstauglichkeit unterzogen wurde. Eine solche EG-Erklärung begründet die widerlegbare Vermutung, dass die Interoperabilitätskomponente die grundlegenden Anforderungen erfüllt (Art. 29 Abs. 1 EBG).\n2) Falls es die für die Interoperabilitätskomponente massgebliche TSI verlangt, ist der EG-Erklärung Folgendes beizufügen:\na) eine von einer oder mehreren benannten Stellen ausgestellte Bescheinigung über die Konformität einer Interoperabilitätskomponente mit den einschlägigen technischen Spezifikationen;\nb) eine von einer oder mehreren benannten Stellen ausgestellte Bescheinigung über die Gebrauchstauglichkeit einer Interoperabilitätskomponente, wobei diese in ihrer eisenbahntechnischen Umgebung, insbesondere im Fall funktionaler Anforderungen, zu prüfen ist.\n3) Für Interoperabilitätskomponenten, die mit harmonisierten Normen oder Teilen von diesen übereinstimmen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht wurden, gilt die widerlegbare Vermutung, dass sie mit den grundlegenden Anforderungen, die in diesen Normen behandelt werden, in Einklang stehen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Interoperabilitätskomponenten",
+      "section": "6",
+      "title": "Art. 6 EG-Erklärung",
+      "content": "1) Für eine Interoperabilitätskomponente hat der Hersteller oder sein Bevollmächtigter eine datierte und von ihm unterzeichnete EG-Konformitäts- oder EG-Gebrauchstauglichkeitserklärung auszustellen.\n2) Falls es die für die Interoperabilitätskomponente massgebliche TSI verlangt, ist die Konformität oder Gebrauchstauglichkeit auf Antrag des Herstellers oder seines Bevollmächtigten von einer benannten Stelle (Art. 13 Abs. 1) zu bewerten.\n3) Hat die Interoperabilitätskomponente auch noch anderen Anforderungen, die in einer anderen zur Umsetzung von EWR-Recht erlassenen Rechtsvorschrift geregelt sind, zu entsprechen, so muss aus der EG-Erklärung auch die Erfüllung dieser anderen Anforderungen ersichtlich sein.\n4) Erfüllen weder der Hersteller noch sein Bevollmächtigter die Verpflichtungen der Abs. 1 bis 3, so gehen diese auf denjenigen über, der die Interoperabilitätskomponente in Verkehr bringt.\n5) Erweist sich eine Interoperabilitätskomponente, für die eine EG-Konformitäts- oder EG-Gebrauchstauglichkeitsbescheinigung vorliegt, als nicht konform oder nicht gebrauchstauglich, so hat die Eisenbahnbehörde die betreffende EG-Konformitäts- oder EG-Gebrauchstauglichkeitserklärung für ungültig zu erklären."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Interoperabilitätskomponenten",
+      "section": "7",
+      "title": "Art. 7 Nichtübereinstimmung von Interoperabilitätskomponenten mit grundlegenden Anforderungen",
+      "content": "1) Beeinträchtigt eine Interoperabilitätskomponente, für die eine EG-Konformitäts- oder EG-Gebrauchstauglichkeitserklärung vorliegt und die in Verkehr gebracht worden ist und bestimmungsgemäss verwendet wird, die Einhaltung der grundlegenden Anforderungen, so hat die Eisenbahnbehörde ein Verbot des Inverkehrbringens von und des freien Warenverkehrs mit Komponenten der gleichen Type zu erlassen.\n2) Die Eisenbahnbehörde hat die Massnahme nach Abs. 1 der EFTA-Überwachungsbehörde, der Eisenbahnagentur der Europäischen Union und den anderen EWR-Mitgliedstaaten mitzuteilen und die Gründe dafür zu benennen. Insbesondere ist zu erläutern, ob die Interoperabilitätskomponente nicht konform ist, weil:\na) die grundlegenden Anforderungen nicht erfüllt werden;\nb) die europäischen Spezifikationen nicht ordnungsgemäss angewandt worden sind; oder\nc) die europäischen Spezifikationen unvollständig sind.\n3) Die Massnahme nach Abs. 1 ist aufzuheben, wenn die EFTA-Überwachungsbehörde dem Fürstentum Liechtenstein mitteilt, dass sie das Verbot des Inverkehrbringens von und des freien Warenverkehrs mit dieser Interoperabilitätskomponente für unbegründet hält.\nIII. Teilsysteme"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III. Teilsysteme",
+      "section": "8",
+      "title": "Art. 8 Erfüllung der grundlegenden Anforderungen",
+      "content": "1) Teilsysteme müssen den grundlegenden Anforderungen entsprechen. Die EG-Prüferklärung über die Konformität mit den dafür einschlägigen TSI begründet die widerlegbare Vermutung, dass das Teilsystem die grundlegenden Anforderungen erfüllt (Art. 29 Abs. 1 EBG).\n2) Für Teilsysteme, die mit harmonisierten Normen oder Teilen von diesen übereinstimmen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht wurden, gilt die widerlegbare Vermutung, dass sie mit den grundlegenden Anforderungen, die in diesen Normen behandelt werden, in Einklang stehen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "III. Teilsysteme",
+      "section": "9",
+      "title": "Art. 9 Verfahren zur Ausstellung der EG-Prüferklärung",
+      "content": "1) Zur Ausstellung für das Inverkehrbringen und die Inbetriebnahme der Teilsysteme \"streckenseitige Zugsteuerung/Zugsicherung und Signalgebung\", \"Energie\" sowie \"Infrastruktur\" erforderlichen EG-Prüferklärung hat der Antragsteller eine oder mehrere benannte oder bestimmte Stellen (Art. 13 Abs. 1) mit der Durchführung des EG-Prüfverfahrens nach Anhang IV der Richtlinie (EU) 2016/797 zu beauftragen.\n2) Antragsteller nach Abs. 1 ist:\na) der Hersteller oder sein Bevollmächtigter; oder\nb) der Auftraggeber, der den Entwurf und/oder den Bau oder die Erneuerung oder die Aufrüstung eines Teilsystems in Auftrag gibt.\n3) Die EG-Prüferklärung für ein Teilsystem ist vom Antragsteller abzugeben. Dabei hat der Antragsteller alleinverantwortlich die Erklärung abzugeben, dass das betreffende Teilsystem den jeweiligen Prüfverfahren unterworfen wurde und die Anforderungen der einschlägigen Vorschriften erfüllt. Die EG-Prüferklärung und ihre Anlagen müssen datiert und vom Antragsteller unterzeichnet sein.\n4) Der Auftrag der mit der EG-Prüfung eines Teilsystems betrauten benannten Stelle (Art. 13 Abs. 1) hat sich über den gesamten Zeitraum von der Planung über den Bau bis hin zur Abnahme vor Inverkehrbringen oder Inbetriebnahme des Teilsystems zu erstrecken. Der Auftrag hat im Einklang mit den jeweiligen TSI auch die Prüfung der Schnittstellen des betreffenden Teilsystems mit dem System, dessen Teil es bildet, zu umfassen.\n5) Dem Antragsteller obliegt die Erstellung des technischen Dossiers, das der EG-Prüferklärung beiliegen muss. Dieses technische Dossier hat alle erforderlichen Schriftstücke hinsichtlich der Merkmale des Teilsystems sowie gegebenenfalls alle Bescheinigungen über die Konformität der Interoperabilitätskomponenten zu enthalten. Ferner hat es alle Angaben über Einsatzbedingungen und -beschränkungen, Wartung, laufende oder periodische Überwachung, Regelung und Instandhaltung zu enthalten.\n6) Im Falle der Erneuerung oder Aufrüstung eines Teilsystems, die eine Änderung des technischen Dossiers bewirkt und die Gültigkeit der bereits durchgeführten Prüfverfahren beeinträchtigt, hat der Antragsteller zu prüfen, ob die Ausstellung einer neuen EG-Prüferklärung erforderlich ist.\n7) Eine benannte Stelle kann Zwischenprüfbescheinigungen ausstellen, die sich auf bestimmte Phasen des Prüfverfahrens oder bestimmte Teile des Teilsystems beziehen.\n8) Wenn es nach den einschlägigen TSI zulässig ist, kann die benannte Stelle Prüfbescheinigungen für eines oder mehrere Teilsysteme oder für bestimmte Teile dieser Teilsysteme ausstellen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Teilsysteme",
+      "section": "10",
+      "title": "Art. 10 Nichtübereinstimmung von Teilsystemen mit den grundlegenden Anforderungen",
+      "content": "1) Stellt die Eisenbahnbehörde fest, dass ein Teilsystem, für das eine EG-Prüferklärung samt technischem Dossier vorliegt, nicht in vollem Umfang den einschlägigen Vorschriften, insbesondere den grundlegenden Anforderungen, entspricht, kann sie eine ergänzende Prüfung verlangen.\n2) Die Eisenbahnbehörde hat umgehend der EFTA-Überwachungsbehörde unter Angabe der Gründe mitzuteilen, welche ergänzenden Prüfungen verlangt wurden. Dabei hat sie zu erklären, ob das Nichtentsprechen des Teilsystems auf die Nichteinhaltung einer TSI oder der grundlegenden Anforderungen, auf eine mangelhafte Anwendung der TSI oder auf eine unvollständige TSI zurückzuführen ist.\nIV. Harmonisierte Einführung des Europäischen Eisenbahnverkehrsleitsystems (ERTMS)"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "IV. Harmonisierte Einführung des Europäischen Eisenbahnverkehrsleitsystems (ERTMS)",
+      "section": "11",
+      "title": "Art. 11 Antragstellung",
+      "content": "1) Im Falle von Teilsystemen \"streckenseitige Zugsteuerung/Zugsicherung und Signalgebung\", die die Ausrüstung mit dem \"Europäischen Zugsicherungs- und Zugsteuerungssystem\" (ETCS) und/oder dem globalen Mobilfunksystem für Bahnanwendungen (GSM-R) umfassen, ist vor Ausschreibung und Vergabe für streckenseitige ERTMS-Ausrüstung eine positive Entscheidung der Eisenbahnagentur der Europäischen Union erforderlich. Der entsprechende Antrag ist bei der in Art. 12 der Verordnung (EU) 2016/796 genannten zentralen Anlaufstelle einzubringen. Dem Antrag ist ein Dossier beizufügen, das Folgendes zu enthalten hat:\na) den Entwurf der Leistungsbeschreibung oder die Beschreibung der geplanten technischen Lösungen;\nb) Unterlagen zu den Bedingungen, die für die technische und operative Kompatibilität des Teilsystems mit den Schienenfahrzeugen, die auf dem betreffenden Eisenbahnnetz betrieben werden sollen, erforderlich sind;\nc) Unterlagen zur Übereinstimmung der geplanten technischen Lösungen mit den einschlägigen TSI; und\nd) alle sonstigen relevanten Dokumente wie Stellungnahmen der Eisenbahnbehörde, Prüferklärungen oder Konformitätsbescheinigungen.\n2) Die Eisenbahnbehörde kann eine Stellungnahme zu einem Antrag nach Abs. 1 abgeben. Die Abgabe der Stellungnahme hat vor der Antragstellung gegenüber dem Antragsteller und nach Antragstellung gegenüber der Eisenbahnagentur der Europäischen Union zu erfolgen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "IV. Harmonisierte Einführung des Europäischen Eisenbahnverkehrsleitsystems (ERTMS)",
+      "section": "12",
+      "title": "Art. 12 Nachträgliche Änderungen",
+      "content": "Erfolgt nach dem Erlass einer positiven Entscheidung durch die Eisenbahnagentur der Europäischen Union eine Änderung des Entwurfs der Leistungsbeschreibung oder der Beschreibung der geplanten technischen Lösungen, hat der Antragsteller unverzüglich die Eisenbahnbehörde im Wege der in Art. 12 der Verordnung (EU) 2016/796 genannten zentralen Anlaufstelle von diesen Änderungen zu unterrichten.\nV. Konformitätsbewertungsstellen\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "A. Allgemeines",
+      "section": "13",
+      "title": "Art. 13 Benennung und Bestimmung einer Konformitätsbewertungsstelle",
+      "content": "1) Eine Konformitätsbewertungsstelle gilt nach der Benennung durch einen EWR-Mitgliedstaat oder die Schweiz als benannte Stelle. Sie wird nach Massgabe der Richtlinie (EU) 2016/797 in das öffentliche Verzeichnis der benannten Stellen aufgenommen.\n2) Eine Konformitätsbewertungsstelle gilt nach der Bestimmung durch einen EWR-Mitgliedstaat oder die Schweiz als bestimmte Stelle.\nB. Anforderungen für die Benennung einer Konformitätsbewertungsstelle"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "B. Anforderungen für die Benennung einer Konformitätsbewertungsstelle",
+      "section": "14",
+      "title": "Art. 14 Allgemeine Anforderungen",
+      "content": "1) Eine Konformitätsbewertungsstelle muss nach liechtensteinischem Recht errichtet sein und über Rechtspersönlichkeit verfügen.\n2) Eine Konformitätsbewertungsstelle muss in der Lage sein, alle Konformitätsbewertungsaufgaben durchzuführen, die ihr nach Massgabe der einschlägigen TSI zugewiesen werden und im Rahmen derer sie benannt werden soll, unabhängig davon, ob diese Aufgaben von der Konformitätsbewertungsstelle selbst oder in ihrem Auftrag und unter ihrer Verantwortung erfüllt werden sollen.\n3) Eine Konformitätsbewertungsstelle hat jederzeit, für jedes Konformitätsbewertungsverfahren und für jede Art oder Kategorie eines Produkts, im Rahmen dessen sie benannt werden soll, über Folgendes zu verfügen:\na) die erforderlichen Mitarbeiter mit Fachkenntnis und ausreichender einschlägiger Erfahrung, um die bei der Konformitätsbewertung anfallenden Aufgaben erfüllen zu können;\nb) die massgeblichen Beschreibungen von Verfahren, nach denen die Konformitätsbewertung durchgeführt wird, um die Transparenz und die Möglichkeit der Anwendung dieser Verfahren sicherzustellen;\nc) geeignete Grundsätze und Verfahren, bei denen zwischen den Aufgaben, die sie als benannte Konformitätsbewertungsstelle wahrnehmen soll, und anderen Tätigkeiten unterschieden wird; und\nd) geeignete Verfahren zur Durchführung der Tätigkeiten, bei denen die Grösse eines Unternehmens, die Branche, in der es tätig ist, seine Strukturen sowie der Grad der Komplexität der jeweiligen Produktkategorie und der Massenfertigungs- und Seriencharakter des Herstellungsprozesses gebührend berücksichtigt werden.\n4) Einer Konformitätsbewertungsstelle müssen alle erforderlichen Mittel zur Verfügung stehen, um die technischen und administrativen Aufgaben, die mit der Konformitätsbewertung verbunden sind, in angemessener Weise zu erledigen. Ferner muss sie Zugang zu allen benötigten Ausrüstungen oder Einrichtungen haben."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "B. Anforderungen für die Benennung einer Konformitätsbewertungsstelle",
+      "section": "15",
+      "title": "Art. 15 Haftpflichtversicherung",
+      "content": "Eine Konformitätsbewertungsstelle hat gegen die Folgen einer Haftpflicht eine ausreichende Haftpflichtversicherung abzuschliessen.\nC. Benennung"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "C. Benennung",
+      "section": "16",
+      "title": "Art. 16 Antragstellung",
+      "content": "1) Eine Konformitätsbewertungsstelle hat ihre Benennung bei der Eisenbahnbehörde als notifizierende Behörde zu beantragen.\n2) Dem Antrag sind beizulegen:\na) eine Beschreibung der Konformitätsbewertungstätigkeiten, der Konformitätsbewertungsmodule und der Produkte, für die die Konformitätsbewertungsstelle Kompetenz beansprucht; und\nb) die Akkreditierungsurkunde.\n3) Kann die Konformitätsbewertungsstelle keine Akkreditierungsurkunde vorweisen, so sind dem Antrag alle Nachweise beizulegen, die für die Überprüfung, Anerkennung und regelmässige Überwachung, ob sie die Anforderungen nach Art. 14, 15, 21 und 22 erfüllt, erforderlich sind."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "C. Benennung",
+      "section": "17",
+      "title": "Art. 17 Benennungsverfahren",
+      "content": "1) Die Eisenbahnbehörde hat die Konformitätsbewertungsstelle, die ihre Benennung beantragt hat, der EFTA-Überwachungsbehörde, den anderen EWR-Mitgliedstaaten und der Schweiz mittels des elektronischen Benennungsinstruments, das von der Europäischen Kommission entwickelt und verwaltet wird, zu benennen, wenn sie die Anforderungen nach Art. 14, 15, 21 und 22 erfüllt.\n2) Weist die Konformitätsbewertungsstelle nach, dass sie im Akkreditierungsverfahren die Kriterien der einschlägigen harmonisierten Normen oder Teile dieser Normen erfüllt hat, deren Fundstelle im Amtsblatt der Europäischen Union veröffentlicht worden sind, so gilt die widerlegbare Vermutung, dass die Konformitätsbewertungsstelle die Anforderungen nach Art. 14, 15, 21 und 22 erfüllt, soweit die anwendbaren harmonisierten Normen diese Anforderungen abdecken.\n3) Die Benennung einer Konformitätsbewertungsstelle durch die Eisenbahnbehörde hat zu enthalten:\na) vollständige Angaben zu den Konformitätsbewertungstätigkeiten, den Konformitätsbewertungsmodulen und den Produkten; und\nb) die Akkreditierungsurkunde.\n4) In den Fällen nach Art. 16 Abs. 3 hat die Eisenbahnbehörde bei der Benennung alle Urkunden vorzulegen, die die Kompetenz der Konformitätsbewertungsstelle und die getroffenen Regelungen bescheinigen, durch die sichergestellt ist, dass die Stelle regelmässig überwacht wird und dauerhaft den Anforderungen nach Art. 14, 15, 21 und 22 genügt.\n5) Die Eisenbahnbehörde hat die Konformitätsbewertungsstelle über die Durchführung der Benennung zu unterrichten."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "C. Benennung",
+      "section": "18",
+      "title": "Art. 18 Aufnahme der Tätigkeit",
+      "content": "Eine benannte Konformitätsbewertungsstelle darf die Aufgaben einer benannten Stelle erst dann wahrnehmen, wenn weder die EFTA-Überwachungsbehörde noch ein anderer EWR-Mitgliedstaat oder die Schweiz innerhalb von zwei Wochen nach Durchführung der Benennung durch die Eisenbahnbehörde Einwände erhoben hat. In den Fällen nach Art. 16 Abs. 3 beträgt die Frist zwei Monate."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "C. Benennung",
+      "section": "19",
+      "title": "Art. 19 Änderungen der Benennung",
+      "content": "1) Stellt die Eisenbahnbehörde fest, dass eine von ihr benannte Stelle die Anforderungen nach Art. 14, 15, 21 und 22 nicht mehr erfüllt oder dass sie ihren Verpflichtungen nicht nachkommt, so hat sie unter Berücksichtigung des Ausmasses, in dem den Anforderungen nicht entsprochen wird, die Benennung einzuschränken, auszusetzen oder zu widerrufen. Davon sind die EFTA-Überwachungsbehörde, die anderen EWR-Mitgliedstaaten und die Schweiz unverzüglich in Kenntnis zu setzen.\n2) Wird die Benennung im Sinne von Abs. 1 geändert, hat die benannte Stelle die Akten zur Weiterbearbeitung einer anderen benannten Stelle zur Verfügung zu stellen oder der Eisenbahnbehörde und den Marktüberwachungsbehörden auf deren Verlangen bereitzuhalten. Dies gilt sinngemäss, wenn eine benannte Stelle ihre Tätigkeit einstellt.\n3) Im Falle von Ermittlungen der EFTA-Überwachungsbehörde über das Vorliegen der Kompetenz einer benannten Stelle hat die Eisenbahnbehörde auf Verlangen alle Auskünfte über die Grundlagen der Benennung oder die Erhaltung der Kompetenz der betreffenden benannten Stelle zu erteilen.\n4) Wird die Eisenbahnbehörde von der EFTA-Überwachungsbehörde unterrichtet, dass eine benannte Stelle die Voraussetzungen für ihre Benennung nicht oder nicht mehr erfüllt, und von ihr aufgefordert, die erforderlichen Korrekturmassnahmen zu ergreifen, hat sie zu ermitteln, ob eine Einschränkung, eine Aussetzung oder ein Widerruf der Benennung erforderlich ist.\n5) Die Eisenbahnbehörde hat die EFTA-Überwachungsbehörde, die anderen EWR-Mitgliedstaaten und die Schweiz über wesentliche Änderungen einer Benennung zu unterrichten.\nD. Pflichten der benannten Stellen"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "20",
+      "title": "Art. 20 Tätigkeiten",
+      "content": "1) Benannte Stellen haben die Konformitätsbewertungen im Einklang mit den Konformitätsbewertungsverfahren gemäss den einschlägigen TSI und unter Wahrung der Verhältnismässigkeit durchzuführen. Dabei haben sie ihre Tätigkeit unter Berücksichtigung der Grösse eines Unternehmens, der Branche, in der sie tätig sind, ihrer Struktur sowie des Grades der Komplexität der jeweiligen Produkttechnologie sowie des Massenfertigungs- oder Seriencharakters des Herstellungsprozesses auszuüben.\n2) Stellt die benannte Stelle fest, dass der Hersteller die Anforderungen der einschlägigen TSI oder der einschlägigen harmonisierten Normen oder technischen Spezifikationen nicht erfüllt, darf sie keine Konformitätsbescheinigung ausstellen. Sie hat den Hersteller davon in Kenntnis zu setzen und ihm die Gelegenheit zur Vornahme von geeigneten Korrekturmassnahmen einzuräumen.\n3) Hat eine benannte Stelle bereits eine Bescheinigung ausgestellt und stellt sie im Rahmen der Überwachung der Konformität fest, dass das Produkt die Anforderungen der einschlägigen TSI oder der einschlägigen harmonisierten Normen oder technischen Spezifikationen nicht mehr erfüllt, hat sie den Hersteller zu geeigneten Korrekturmassnahmen aufzufordern und die Bescheinigung nötigenfalls auszusetzen oder zu widerrufen.\n4) Trifft der Hersteller keine Korrekturmassnahmen oder zeigen diese nicht die erforderliche Wirkung, so hat die benannte Stelle gegebenenfalls alle Bescheinigungen mit Einschränkungen zu versehen, sie auszusetzen oder zu widerrufen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "21",
+      "title": "Art. 21 Unparteilichkeit",
+      "content": "1) Eine benannte Stelle muss vom Hersteller des Produkts, das sie bewertet, unabhängig sein und darf mit ihm in keiner die Unabhängigkeit beeinträchtigenden Verbindung stehen.\n2) Gehört eine benannte Stelle einem Fachverband oder Wirtschaftsverband an und bewertet sie Produkte, an deren Planung, Herstellung, Vertrieb, Montage, Gebrauch oder Wartung Unternehmen beteiligt sind, die ebenfalls von diesem Verband vertreten werden, muss ihre Unabhängigkeit von diesen Unternehmen und das Nichtbestehen von Interessenkonflikten nachgewiesen werden.\n3) Die Tätigkeit der benannten Stelle sowie ihrer obersten Führungsebene und der für die Konformitätsbewertung zuständigen Mitarbeiter hat unparteiisch zu sein.\n4) Eine benannte Stelle, ihre oberste Führungsebene und die für die Konformitätsbewertung zuständigen Mitarbeiter dürfen nicht Planer, Hersteller, Lieferant, Installateur, Käufer, Eigentümer, Verwender oder Wartungsbetrieb der Produkte sein, die sie bewerten. Ferner dürfen sie nicht Bevollmächtigter einer dieser Parteien sein. Dies schliesst nicht die Verwendung bereits einer Konformitätsbewertung unterzogener Produkte, die für die Tätigkeit der benannten Stelle erforderlich sind, oder den privaten Gebrauch solcher Produkte aus.\n5) Eine benannte Stelle, ihre oberste Führungsebene und die für die Konformitätsbewertung zuständigen Mitarbeiter dürfen weder direkt noch indirekt an der Planung, Herstellung bzw. Bau, Vermarktung, Installation, Verwendung oder Wartung dieser Produkte teilnehmen, noch die an diesen Tätigkeiten Beteiligten vertreten. Ferner dürfen sie sich nicht mit Tätigkeiten wie etwa Beratungsdienstleistungen befassen, die ihre Unabhängigkeit und Unparteilichkeit beeinträchtigen könnten.\n6) Eine benannte Stelle hat zu gewährleisten, dass die Tätigkeiten ihrer Zweigunternehmen oder Unterauftragnehmer die Vertraulichkeit, Objektivität oder Unparteilichkeit ihrer Konformitätsbewertung nicht beeinträchtigen.\n7) Eine benannte Stelle und ihre Mitarbeiter haben die Konformitätsbewertung mit der grösstmöglichen Professionalität und erforderlichen Fachkompetenz in dem betreffenden Bereich durchzuführen. Sie dürfen keinerlei Einflussnahme, insbesondere finanzieller Art, ausgesetzt sein, die sich auf ihre Beurteilung oder die Ergebnisse der Konformitätsbewertung auswirken könnte. Dies gilt insbesondere für eine Beeinflussung durch diejenigen, die ein Interesse am Ergebnis dieser Tätigkeiten haben."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "22",
+      "title": "Art. 22 Mitarbeiter",
+      "content": "1) Die für die Durchführung der Konformitätsbewertung zuständigen Mitarbeiter müssen folgende Voraussetzungen erfüllen:\na) eine solide Fach- und Berufsausbildung, die alle Tätigkeiten für die Konformitätsbewertung umfasst, für die die Konformitätsbewertungsstelle benannt wurde;\nb) eine ausreichende Kenntnis der Anforderungen, die mit den durchzuführenden Bewertungen verbunden sind, und die entsprechende Befugnis zur Durchführung solcher Bewertungen;\nc) angemessene Kenntnisse und ein angemessenes Verständnis der wesentlichen Anforderungen, der geltenden harmonisierten Normen sowie der einschlägigen EWR-Rechtsvorschriften; und\nd) die Fähigkeit zur Erstellung von Bescheinigungen, Protokollen und Berichten als Nachweis für durchgeführte Bewertungen.\n2) Die Mitarbeiter einer Konformitätsbewertungsstelle sind hinsichtlich der Informationen, die sie bei der Durchführung ihrer Aufgaben erhalten, zur Verschwiegenheit verpflichtet. Dies gilt nicht gegenüber den Behörden des Staates, in denen sie ihre Tätigkeiten ausüben.\n3) Die Entlohnung der obersten Führungsebene und der bewertenden Mitarbeiter einer benannten Stelle darf sich nicht nach der Anzahl der durchgeführten Bewertungen oder deren Ergebnissen richten."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "23",
+      "title": "Art. 23 Zweigunternehmen und Vergabe von Unteraufträgen",
+      "content": "1) Vergibt eine benannte Stelle bestimmte mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer oder überträgt sie diese einem Zweigunternehmen, so hat sie sicherzustellen, dass der Unterauftragnehmer oder das Zweigunternehmen die Anforderungen nach Art. 14, 15, 21 und 22 erfüllt. Von einer solchen Vergabe oder Übertragung von Konformitätsbewertungsaufgaben ist die Eisenbahnbehörde zu unterrichten.\n2) Die benannte Stelle hat die volle Verantwortung für die Arbeiten, die von Unterauftragnehmern oder Zweigunternehmen ausgeführt werden, zu tragen. Dies gilt unabhängig davon, wo ein Unterauftragnehmer oder Zweigunternehmen niedergelassen ist.\n3) Vor der Vergabe einer Tätigkeit an einen Unterauftragnehmer oder ihrer Übertragung an ein Zweigunternehmen hat die benannte Stelle die Zustimmung des Auftraggebers einzuholen.\n4) Die benannte Stelle hat für die Eisenbahnbehörde die einschlägigen Unterlagen über die Begutachtung der Qualifikation des Unterauftragnehmers oder des Zweigunternehmens und die von ihm gemäss der einschlägigen TSI ausgeführten Arbeiten bereitzuhalten."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "24",
+      "title": "Art. 24 Informationspflichten",
+      "content": "1) Benannte Stellen haben der Eisenbahnbehörde zu melden:\na) jede Vorenthaltung, Einschränkung, Aussetzung und jeden Widerruf einer Bescheinigung;\nb) alle Umstände mit Auswirkungen auf den Geltungsbereich und die Bedingungen der Benennung;\nc) jedes Auskunftsersuchen über Konformitätsbewertungstätigkeiten, das sie von Marktüberwachungsbehörden erhalten haben; und\nd) auf Verlangen, welchen Konformitätsbewertungstätigkeiten sie im Geltungsbereich ihrer Benennung nachgegangen sind und welche anderen Tätigkeiten sie ausgeführt haben, einschliesslich grenzüberschreitender Tätigkeiten und der Vergabe von Unteraufträgen.\n2) Benannte Stellen haben zudem die Sicherheitsbehörde über jede Vorenthaltung, Einschränkung, Aussetzung und jeden Widerruf einer Bescheinigung nach Abs. 1 Bst. a zu unterrichten.\n3) Benannte Stellen haben anderen benannten Stellen, die ähnliche Konformitätsbewertungen für dieselben Produkte durchführen, einschlägige Informationen über negative und auf Verlangen auch über positive Ergebnisse von Konformitätsbewertungen zu übermitteln.\n4) Benannte Stellen haben der Eisenbahnagentur der Europäischen Union von ihnen ausgestellte EG-Prüfbescheinigungen für Teilsysteme sowie von ihnen ausgestellte EG-Konformitäts- und EG-Gebrauchstauglichkeitsbescheinigungen für Interoperabilitätskomponenten zu übermitteln."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "25",
+      "title": "Art. 25 Mitwirkungspflichten",
+      "content": "1) Benannte Stellen haben an den einschlägigen Normungsaktivitäten und an den Aktivitäten der Koordinierungsgruppe benannter Stellen mitzuwirken, die auf der Grundlage des EWR-Rechts geschaffen wurden. Die von dieser Koordinierungsgruppe erarbeiteten Verwaltungsentscheidungen und Dokumente sind von den benannten Stellen als allgemeine Leitlinien anzuwenden.\n2) Benannte Stellen, die für die Teilsysteme \"fahrwegseitige Zugsteuerung/Zugsicherung und Signalgebung\" und/oder \"fahrzeugseitige Zugsteuerung/Zugsicherung und Signalgebung\" benannt sind, haben an den Tätigkeiten der nach Art. 29 der Verordnung (EU) 2016/796 geschaffenen ERTMS-Arbeitsgruppe mitzuwirken. Sie haben die von der ERTMS-Arbeitsgruppe erarbeiteten Leitlinien anzuwenden. Hält eine benannte Stelle die Anwendung für nicht angebracht oder unmöglich, so hat sie dies der ERTMS-Arbeitsgruppe zur Erörterung und fortlaufenden Verbesserung der Leitlinien mitzuteilen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "D. Pflichten der benannten Stellen",
+      "section": "26",
+      "title": "Art. 26 Beteiligung an einer sektoralen Gruppe",
+      "content": "Benannte Stellen haben sich an einer sektoralen Gruppe, die die Europäische Kommission zur Koordinierung und Kooperation der benannten Stellen eingerichtet hat, zu beteiligen.\nVI. Akkreditierte interne Stellen"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "VI. Akkreditierte interne Stellen",
+      "section": "27",
+      "title": "Art. 27 Befugnisse",
+      "content": "Ein Hersteller eines Produkts kann Konformitätsbewertungsverfahren, die in den Modulen A1, A2, C1 oder C2 nach Anhang II des Beschlusses Nr. 768/2008/EG und in den Modulen CA1 und CA2 nach Anhang I des Beschlusses Nr. 2010/713/EU festgelegt sind, von einer akkreditierten internen Stelle durchführen lassen. Diese Stelle hat einen eigenen und gesonderten Teil des Herstellers zu bilden und darf sich nicht an der Planung, Herstellung, Lieferung, Installation, Verwendung oder Wartung der durch sie bewerteten Produkte beteiligen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "VI. Akkreditierte interne Stellen",
+      "section": "28",
+      "title": "Art. 28 Anforderungen",
+      "content": "1) Eine akkreditierte interne Stelle hat folgende Anforderungen zu erfüllen:\na) Sie muss nach Massgabe des Gesetzes über die Akkreditierung und Notifizierung akkreditiert sein.\nb) Sie und ihre Mitarbeiter müssen von dem Unternehmen, dem sie angehören, organisatorisch unterscheidbar sein und über ein eigenes Berichtsverfahren verfügen, damit ihre Unparteilichkeit gewährleistet ist. Dies ist im Akkreditierungsverfahren nachzuweisen.\nc) Weder sie noch ihre Mitarbeiter dürfen für die Planung, Herstellung, Lieferung, Installation, Betrieb oder Wartung der von ihnen bewerteten Produkte verantwortlich sein und weder sie noch ihre Mitarbeiter dürfen Tätigkeiten nachgehen, die der Unabhängigkeit ihres Urteils oder ihrer Integrität im Zusammenhang mit den Bewertungsverfahren schaden könnte.\nd) Sie darf ihre Leistungen nur für das Unternehmen erbringen, dem sie angehört.\n2) Das Unternehmen, dem die interne akkreditierte Stelle angehört, sowie die Liechtensteinische Akkreditierungsstelle haben der Eisenbahnbehörde auf Verlangen Informationen über die Akkreditierung zu übermitteln.\nVII. Behörden"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VII. Behörden",
+      "section": "29",
+      "title": "Art. 29 Zuständigkeiten",
+      "content": "1) Die Eisenbahnbehörde ist als notifizierende Behörde für die Benennung von Konformitätsbewertungsstellen zuständig.\n2) Die Begutachtung und Überwachung der benannten Stellen hat durch die Liechtensteinische Akkreditierungsstelle zu erfolgen.\n3) Die Eisenbahnbehörde hat die EFTA-Überwachungsbehörde über ihre Verfahren zur Begutachtung, Benennung und Überwachung von benannten Stellen zu unterrichten. Dies gilt auch für allfällige Änderungen dieses Verfahrens.\nVIII. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VIII. Schlussbestimmung",
+      "section": "30",
+      "title": "Art. 30 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. August 2022 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\n1\nRichtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (ABl. L 138 vom 26.5.2016, S. 44)\n2\nVerordnung (EU) 2016/796 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Eisenbahnagentur der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 881/2004 (ABl. L 138 vom 26.5.2016, S. 1)\n3\nBeschluss Nr. 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates (ABl. L 218 vom 13.8.2008, S. 82)\n4\nBeschluss Nr. 2010/713/EU der Kommission vom 9. November 2010 über Module für die Verfahren der Konformitäts- und Gebrauchstauglichkeitsbewertung sowie der EG-Prüfung, die in den gemäss Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates angenommenen technischen Spezifikationen für die Interoperabilität zu verwenden sind (ABl. L 319 vom 4.12.2010, S. 1)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Interoperabilität",
+      "definition": "die Eignung des Eisenbahnsystems für einen sicheren und durchgehenden Zugverkehr, indem den erforderlichen Leistungskennwerten entsprochen wird;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Technische Spezifikationen für die Interoperabilität (TSI)",
+      "definition": "Spezifikationen, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die die Interoperabilität des Eisenbahnsystems gewährleisten;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "grundlegende Anforderungen",
+      "definition": "die Gesamtheit aller Bedingungen nach Anhang III der Richtlinie (EU) 2016/797, die das Eisenbahnsystem, die Teilsysteme und die Interoperabilitätskomponenten einschliesslich der Schnittstellen erfüllen müssen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Teilsysteme",
+      "definition": "die in Anhang II der Richtlinie (EU) 2016/797 angeführten strukturellen oder funktionalen Teile des Eisenbahnsystems;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Interoperabilitätskomponenten",
+      "definition": "Bauteile, Bauteilgruppen, Unterbaugruppen oder komplette Materialbaugruppen, die in ein Teilsystem eingebaut sind oder eingebaut werden sollen und von denen die Interoperabilität des Eisenbahnsystems direkt oder indirekt abhängt, einschliesslich materieller oder immaterieller Produkte;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Aufrüstung",
+      "definition": "umfangreiche Änderungsarbeiten an einem Teilsystem oder von Teilen desselben, die eine Änderung des der EG-Prüferklärung beigefügten technischen Dossiers, soweit ein solches vorhanden ist, zur Folge haben und mit denen die Gesamtleistung des Teilsystems verbessert wird;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Erneuerung",
+      "definition": "umfangreiche Änderungsarbeiten an einem Teilsystem oder eines Teils davon, mit denen die Gesamtleistung nicht verändert wird;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Konformitätsbewertung",
+      "definition": "das Verfahren zur Bewertung, ob bestimmte Anforderungen an ein Produkt, ein Verfahren, eine Dienstleistung, ein Teilsystem, eine Person oder eine Stelle erfüllt sind;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Konformitätsbewertungsstelle",
+      "definition": "eine für Konformitätsbewertungen einschliesslich Kalibrierung, Prüfung, Zertifizierung und Inspektion zuständige Stelle, die nach dem Gesetz über die Akkreditierung und Notifizierung akkreditiert wurde.",
+      "source_provision": "art3"
+    }
+  ]
+}

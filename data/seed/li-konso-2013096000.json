@@ -1,0 +1,27 @@
+{
+  "id": "li-konso-2013096000",
+  "type": "statute",
+  "title": "Verordnung vom 19. Februar 2013 über die Regulierungsbehörde nach dem Eisenbahngesetz (EB-RBV)",
+  "title_en": "",
+  "short_name": "EB-RBV",
+  "status": "in_force",
+  "issued_date": "2013-02-19",
+  "in_force_date": "2013-02-19",
+  "url": "https://www.gesetze.li/konso/2013096000",
+  "description": "Verordnung vom 19. Februar 2013 über die Regulierungsbehörde nach dem Eisenbahngesetz (EB-RBV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Regulierungsbehörde",
+      "content": "Regulierungsbehörde im Sinne von Art. 52 Abs. 1 des Gesetzes ist das Amt für Hochbau und Raumplanung."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. März 2013 in Kraft.\nFürstliche Regierung:\ngez. Dr. Martin Meyer\nRegierungschef-Stellvertreter\n1\nArt. 1 abgeändert durch LGBl. 2022 Nr. 56 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,687 @@
+{
+  "id": "li-konso-2005152000",
+  "type": "statute",
+  "title": "Verordnung vom 12. Juli 2005 über die Amtliche Vermessung (Vermessungsverordnung; VermV)",
+  "title_en": "",
+  "short_name": "VermV",
+  "status": "in_force",
+  "issued_date": "2005-07-12",
+  "in_force_date": "2005-07-12",
+  "url": "https://www.gesetze.li/konso/2005152000",
+  "description": "Verordnung vom 12. Juli 2005 über die Amtliche Vermessung (Vermessungsverordnung; VermV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Zuständigkeiten und Bezeichnungen",
+      "section": "1",
+      "title": "Art. 1 Regierung",
+      "content": "1) Der Regierung obliegen die durch Gesetz eingeräumten Aufgaben, soweit sie diese nicht übertragen hat.\n2) Die Regierung vergibt insbesondere die Arbeiten für die Amtliche Vermessung und legt die Rechte und Pflichten der mit Vermessungsarbeiten beauftragten Ingenieur-Geometer und weiteren qualifizierten Vermessungsfachleute fest."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Zuständigkeiten und Bezeichnungen",
+      "section": "2",
+      "title": "Art. 2 Amt für Tiefbau und Geoinformation",
+      "content": "1) Das Amt für Tiefbau und Geoinformation ist die zuständige Amtsstelle im Sinne von Art. 3 des Gesetzes.\n2) Dem Amt für Tiefbau und Geoinformation obliegen insbesondere:\na) die Leitung und die fachliche Überwachung der Amtlichen Vermessung;\nb) die Koordination der Amtlichen Vermessung mit der liechtensteinischen Geodateninfrastruktur (GDI);\nc) die Festlegung und Verwaltung der Datenmodelle in der Datenbeschreibungssprache \"Interlis\";\nd) die Erhebung und Nachführung der Staats- und Gemeindegrenzvermessung;\ne) die Erneuerung und der Unterhalt der Fixpunkte der Kategorie 2;\nf) Kontroll- und Verifikationsaufgaben, sofern diese nicht aufgrund zwischenstaatlicher Vereinbarung schweizerischen Behörden übertragen sind.\nIngenieur-Geometer"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Zuständigkeiten und Bezeichnungen",
+      "section": "3",
+      "title": "Art. 3 a) Anforderungen",
+      "content": "Vermessungsarbeiten im Bereich der Informationsebenen Fixpunkte (Lage- und Höhenfixpunkte der Kategorie 3), Liegenschaften, Dienstbarkeiten, Nomenklatur und administrative Einteilungen, mit Ausnahme der Hoheitsgrenzen, sowie der Unterhalt der Amtlichen Vermessung darf nur ausführen, wer den Nachweis der erfolgreich bestandenen schweizerischen Patentprüfung für Ingenieur-Geometer erbringen kann und im Inland als Ingenieur-Geometer zugelassen ist."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Zuständigkeiten und Bezeichnungen",
+      "section": "4",
+      "title": "Art. 4 b) Aufgaben",
+      "content": "Dem Ingenieur-Geometer obliegen insbesondere die folgenden Aufgaben:\na) die Daten der Amtlichen Vermessung nach Gesetz und Verordnung im Rahmen der ihnen vertraglich überbundenen Aufgaben zu erheben und nachzuführen;\nb) die Ergebnisse der Erhebungen, Erneuerungen sowie die laufenden periodischen Nachführungen nach den gesetzlichen Vorschriften an die entsprechenden Stellen weiterzuleiten und unter Berücksichtigung der Vorschriften über die Datensicherheit aufzubewahren."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Zuständigkeiten und Bezeichnungen",
+      "section": "5",
+      "title": "Art. 5 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen-, Berufs- und Funktionsbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nII. Informationsebenen\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Art. 6 Datenmodell und Detaillierungsgrad",
+      "content": "1) Für die verbindliche Beschreibung der Objekte und ihrer Attribute mit den für den Datenaustausch notwendigen Informationen gilt das Datenmodell nach Anhang 1.\n2) Die Regierung legt den Detaillierungsgrad der Daten fest."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Art. 7 Nummerierungsbereich",
+      "content": "Ein Nummerierungsbereich ist Bestandteil eines Identifikatoren-Systems mit zugeordneter Geometrie, das die Gültigkeitsbereiche eindeutiger Identifikatoren definiert."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "8",
+      "title": "Art. 8 Erhebungskriterien",
+      "content": "1) Objekte gemäss Datenmodell der Amtlichen Vermessung sind zu erheben, wenn sie:\na) einer Bewilligungs- oder öffentlichen Auflagepflicht unterstehen;\nb) wichtige Funktionen erfüllen und einer Vielzahl von Benutzern wichtige Informationen liefern; oder\nc) im Gelände als wichtige Orientierungshilfe dienen.\n2) Ausserdem werden Objekte erhoben, welche die Minimalfläche nach Art. 21 aufweisen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "9",
+      "title": "Art. 9 Geometrische Voraussetzungen",
+      "content": "1) Als linienförmige geometrische Elemente sind der Kreisbogen und die Gerade zugelassen.\n2) Kreisbogen und Gerade von gleichen Objekten dürfen sich innerhalb der folgenden Informationsebenen überschneiden:\na) \"Bodenbedeckung\" und \"Einzelobjekte\": 5 cm;\nb) \"Nomenklatur\": 20 cm;\nc) \"Liegenschaften\" und \"Dienstbarkeiten\": 5 cm;\nd) \"Administrative Einteilungen\":\n1. generell: 20 cm;\n2. Themen \"Nummerierungsbereiche\" und \"Planeinteilungen\" sowie alle Hoheitsgrenzen: 5 cm."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "10",
+      "title": "Art. 10 Zusammenlegung von Linien",
+      "content": "1) Linien von verschiedenen Objekten aus verschiedenen Informationsebenen dürfen bei der Erhebung zusammengelegt werden, wenn sie innerhalb des dreifachen Genauigkeitswertes nach den Bestimmungen über die Genauigkeit liegen.\n2) Linien der Informationsebenen \"Liegenschaften\", \"Dienstbarkeiten\", \"Bodenbedeckung\" sowie \"Einzelobjekte\", die im Gelände aus exakt definierten Punkten bestehen, dürfen bei der Zusammenlegung nach Abs. 1 nicht verändert werden.\nB. Im Einzelnen\n1. Informationsebene \"Fixpunkte\""
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "11",
+      "title": "Art. 11 Gliederung",
+      "content": "1) Die Lagefixpunkte (LFP) gliedern sich in solche der schweizerischen Landesvermessung (Kategorie 1: LFP1) und solche der Amtlichen Vermessung (Kategorie 2: LFP2 und Kategorie 3: LFP3).\n2) Die Höhenfixpunkte (HFP) gliedern sich in solche der schweizerischen Landesvermessung (Kategorie 1: HFP1) und solche der Amtlichen Vermessung (Kategorie 2: HFP2 und Kategorie 3: HFP3).\n3) Weitere, nicht dauerhaft gekennzeichnete Punkte, die für Detailaufnahmen, Absteckungen und Netzversteifungen notwendig sind, müssen den gleichen Bestimmungsanforderungen genügen wie die LFP 3.\n4) Wo HFP 3 vorhanden sind, kann auf die Höhenbestimmung der LFP 3 verzichtet werden."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "12",
+      "title": "Art. 12 Dichte der Lagefixpunkte",
+      "content": "Die Anzahl der Lagefixpunkte pro Quadratkilometer richtet sich nach den Toleranzstufen (TS) und den Bedürfnissen der Nachführung im Rahmen folgender Richtwerte:\nGebietstyp\nTS 2\nTS 3\nTS 4\nTS 5\nLFP3/km (inkl. LFP2)\n70\n20\n10\n2\nDurchschnittlicher Punktabstand (Werte gerundet)\n150 m\n250 m\n400 m\n850 m"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "13",
+      "title": "Art. 13 Dichte der Höhenfixpunkte",
+      "content": "Der mittlere Punktabstand bei HFP3-Netzen beträgt 150 bis 250 m."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "14",
+      "title": "Art. 14 Messanordnung",
+      "content": "1) Messungen sind so anzuordnen, dass die Anforderungen an Genauigkeit und Zuverlässigkeit eingehalten werden.\n2) Bestehende benachbarte Fixpunkte sind in die Messanordnung einzubeziehen.\n3) Die Messanordnungen müssen so konzipiert werden, dass die Anschlusspunkte in Bezug auf Lage und Höhe kontrolliert sind.\n4) Bei der Ersterhebung und der Erneuerung muss die Messanordnung dem Amt für Tiefbau und Geoinformation zur Genehmigung unterbreitet werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "15",
+      "title": "Art. 15 Fixpunktzeichen",
+      "content": "1) Jeder Fixpunkt muss vor Messbeginn im Feld an einem möglichst stabilen Standort errichtet und dauerhaft gekennzeichnet werden.\n2) Die Kennzeichnung besteht aus primären und eventuell sekundären Zeichen. Die primären Zeichen dienen dazu, die Punkte für die weitere Benützung eindeutig zu kennzeichnen. Die sekundären Zeichen bezwecken das Wiederherstellen der primären Zeichen mit der erforderlichen Genauigkeit im Falle einer Zerstörung oder Beschädigung.\n3) Bei den Fixpunkten mit sekundärer Versicherung müssen Punktprotokolle erstellt werden.\n4) Die Art der zu verwendenden Fixpunktzeichen wird vom Amt für Tiefbau und Geoinformation festgelegt."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "16",
+      "title": "Art. 16 Mathematisches Modell",
+      "content": "1) Die Berechnung erfolgt nach der Methode der kleinsten Quadrate.\n2) Jede Messung muss mit einem realistischen mittleren Fehler a priori versehen werden.\n3) Nach erfolgter Überprüfung gelten die Anschlusspunkte (Lage/Höhe) als fehlerlos."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "17",
+      "title": "Art. 17 Test der Messungen",
+      "content": "1) Es ist der Nachweis zu erbringen, dass bei zwangsfreier Netzlagerung die standardisierten Verbesserungen den vorgegebenen Grenzwert nicht überschreiten.\n2) Als Grenzwert für die standardisierte Verbesserung gilt der Wert 3.5. Das Irrtumsrisiko zweiter Art beträgt 5 %."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "18",
+      "title": "Art. 18 Qualitätsnachweis",
+      "content": "1) Für jeden Punkt muss in der definitiven Ausgleichung der Nachweis erbracht werden, dass die Genauigkeits- und Zuverlässigkeitsanforderungen eingehalten werden.\n2) Das Ausgleichungsprogramm muss, in Abhängigkeit der Punktkategorie und der Toleranzstufe, eine Statistik der erreichten Genauigkeits- und Zuverlässigkeitswerte liefern. Werte, die ausserhalb der Toleranz liegen, müssen speziell gekennzeichnet werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "19",
+      "title": "Art. 19 Fixpunkte in Rutschgebieten",
+      "content": "In Rutschgebieten ist unmittelbar vor der Vermessung ein den spezifischen Gegebenheiten angepasstes Fixpunktnetz aufzubauen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "1. Informationsebene \"Fixpunkte\"",
+      "section": "20",
+      "title": "Art. 20 Fixpunkte für besondere Zwecke",
+      "content": "Fixpunkte, die für besondere Zwecke ausserhalb der Amtlichen Vermessung angelegt wurden, sind in die Amtliche Vermessung aufzunehmen, wenn dies sinnvoll ist und sie deren Anforderungen erfüllen. Über eine Eingliederung in die Amtliche Vermessung entscheidet das Amt für Tiefbau und Geoinformation.\n2. Informationsebene \"Bodenbedeckung\""
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "21",
+      "title": "Art. 21 Minimalfläche",
+      "content": "Sofern Objekte den Kriterien nach Art. 8 nicht zugeordnet werden können, sind Flächen zu erheben, die ungefähr folgende Mindestgrössen aufweisen:\na) TS 2 > 100 m&sup2;;\nb) TS 3 > 1000 m&sup2;;\nc) TS 4 und 5 > 2500 m&sup2;."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "22",
+      "title": "Art. 22 Gebäude",
+      "content": "1) Gebäude sind auf Dauer angelegte, mit dem Boden fest verbundene Bauten, die im weitesten Sinn der wohnlichen, sportlichen, kulturellen, gewerblichen oder industriellen Nutzung dienen.\n2) Die Gebäudefläche wird durch die Hauptfassadenteile mit der jeweils äusseren grössten vertikalen Fläche gebildet."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "23",
+      "title": "Art. 23 Befestigte Flächen",
+      "content": "1) Als befestigt gelten künstlich hergerichtete Flächen, insbesondere asphaltierte, betonierte, gekieste, gemergelte oder mit Steinen oder Platten belegte Flächen.\n2) Bei den befestigten Flächen werden insbesondere folgende Objekte unterschieden:\na) Objekt \"Strassen\": künstlich hergerichtete Flächen für den allgemeinen motorisierten Fahrzeugverkehr, wie Land- und Gemeindestrassen sowie Haupterschliessungen von Land- und Forstwirtschaft;\nb) Objekt \"Wege\": künstlich hergerichtete Flächen, die nicht dem allgemeinen motorisierten Erschliessungs- oder Durchgangsverkehr dienen, wie Wald-, Fuss- und Radwege. Wege, die nicht von öffentlichem Interesse sind, werden nicht erhoben;\nc) Objekt \"Trottoirs\": künstlich hergerichtete Flächen für den Fussgängerverkehr;\nd) Objekt \"Verkehrsinseln\": künstlich hergerichtete Flächen für die Verkehrsführung und die Sicherheit der Verkehrsteilnehmer;\ne) Objekt \"Bahn\": das gesamte Gleisgebiet einschliesslich die Kofferung, die mit Schotter, Kies oder Sand belegten Flächen und die Bahnsteige, die zwischen oder neben den Geleisen liegen;\nf) Objekt \"Flugplatz\": künstlich befestigte Pisten, Rollwege und Abstellflächen für Flugzeuge und Helikopter;\ng) Objekt \"Wasserbecken\": die künstlichen Anlagen samt Umrandung, insbesondere Schwimm-, und Sprungbecken öffentlicher Badeanstalten, Bassins (auf öffentlichem und privatem Grund), Klärbecken und Abwasserreinigungsanlagen, Feuerweiher;\nh) Objekt \"Verkehrserschliessungen von Gebäuden\": Garagenzufahrten einschliesslich Abstellplätze;\ni) Objekt \"übrige befestigte Flächen\": alle Flächen, welche die Anforderungen nach Abs. 1 erfüllen, keine Objekte nach den Bst. a bis h sind und die Minimalfläche nach Art. 21 übersteigen, insbesondere Abstell-, Bahnhof-, Lager-, Rast- und Vorplätze oder Sportanlagen sowie künstlich verbaute Ufer."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "24",
+      "title": "Art. 24 Humusierte Flächen",
+      "content": "1) Humusierte Flächen umfassen den gewachsenen Boden ohne die bestockten Flächen.\n2) Zum Objekt \"Intensivkulturen\" gehören die Reben sowie die übrigen Intensivkulturen (Obstkulturen oder Gärtnereien).\n3) Zum Objekt \"Gartenanlagen\" gehören insbesondere Freizeitgärten, Parkanlagen, Kinderspielplätze, Gebüsche, Gartenbestockungen, Gartengebüsche, Rasen oder Hausumschwung.\n4) Zum Objekt \"Hoch- und Flachmoore\" gehören die nach den Weisungen des Amtes für Umwelt ausgeschiedenen Flächen.\n5) Zum Objekt \"übrige humusierte Fläche\" gehören insbesondere Grünflächen bei Verkehrsanlagen oder Bachborde."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "25",
+      "title": "Art. 25 Gewässer",
+      "content": "1) Gewässer umfassen alle Wasserflächen ohne die künstlichen Wasserbecken.\n2) Zum Objekt \"fliessendes Gewässer\" gehören insbesondere Flüsse, Bäche und Kanäle.\n3) Zum Objekt \"stehendes Gewässer\" gehören insbesondere Seen und Weiher.\n4) Zum Objekt \"Schilfgürtel\" gehören die mit Schilf bedeckten Flächen, die den Übergang zwischen dem offenen Gewässer und der landseitigen Bodenbedeckung bilden. In der Gewässerfläche stehende isolierte Schilfbestände werden nicht erhoben."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "26",
+      "title": "Art. 26 Bestockte Flächen",
+      "content": "1) Bestockte Flächen umfassen den Wald im Sinne von Art. 2 des Waldgesetzes.\n2) Grossflächige Windschutzhecken im nicht überbauten Gebiet sind als bestockte Flächen zu erheben.\n3) Zum Objekt \"übrige bestockte Fläche\" gehören insbesondere Weidwald, Parkanlagen mit Bäumen, Bestockungen von Ufer- und Bachzonen, die Mischzonen zwischen Wald und Weide/Fels/Geröll und Übergangszonen bei der klimatischen Waldgrenze, bei denen weniger als 50 % der Fläche durch Baumkronen abgedeckt ist."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "2. Informationsebene \"Bodenbedeckung\"",
+      "section": "27",
+      "title": "Art. 27 Vegetationslose Flächen",
+      "content": "Als vegetationslos gelten die land- und forstwirtschaftlich nicht nutzbaren Flächen.\n3. Informationsebene \"Einzelobjekte\""
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "3. Informationsebene \"Einzelobjekte\"",
+      "section": "28",
+      "title": "Art. 28 Objekte",
+      "content": "Der Informationsebene \"Einzelobjekte\" sind Objekte zuzuweisen, die Merkmale der Bodenbedeckung enthalten, aufgrund ihrer Eigenschaft oder Ausdehnung aber keine oder nur eine unwesentliche flächenmässige Bedeutung haben, insbesondere wenn:\na) sie nicht als Gebäude nach Art. 22 gelten, beispielsweise unterirdische Gebäude, Erker oder Balkone;\nb) die Abgrenzung als Fläche nicht eindeutig möglich ist oder die Aufnahme als Flächenobjekt einen unverhältnismässigen Aufwand bringen würde, beispielsweise bei Rinnsalen, Trampelpfaden, unregelmässig verlaufenden Fusswegen und Bachläufen oder Bergbächen;\nc) sie linienhaft ausgeprägt sind, wie beispielsweise Geleiseachsen;\nd) sie durch Symbole dargestellt werden, beispielsweise wichtige Einzelbäume.\n4. Informationsebene \"Höhen\""
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "4. Informationsebene \"Höhen\"",
+      "section": "29",
+      "title": "Art. 29 Inhalt",
+      "content": "Die Informationsebene \"Höhen\" wird durch ein flächendeckendes digitales Terrainmodell (DTM) gebildet und beinhaltet die klar definierten Geländebrüche, Kreten, Seekonturen, Mauern oder Böschungskanten als Bruchkanten, die sanften Neigungsübergänge, \"Rücken\" oder Einschnitte als Strukturlinien sowie ausgewählte markante Einzelpunkte des Geländes."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "4. Informationsebene \"Höhen\"",
+      "section": "30",
+      "title": "Art. 30 Detaillierungsgrad",
+      "content": "1) In überbauten Bauzonen ist das Gelände mit Bruchkanten nur längs Strassen und Wegen und bei grösseren Geländestufen, sowie ausserhalb der Strassen, mit denjenigen Einzelpunkten zu erheben, die für die Charakterisierung des Geländes erforderlich sind.\n2) In nicht überbauten Bauzonen ist das Gelände mit allen markanten Bruchkanten und Strukturlinien sowie mit denjenigen Einzelpunkten zu erheben, die für die Charakterisierung des Geländes erforderlich sind.\n3) In Land- und Forstwirtschaftsgebieten, in Alpgebieten und in unproduktiven Gebieten sind nur wenige Einzelpunkte - Bruchkanten nur längs Strassen, Wegen und bei grösseren Geländestufen - zu erheben.\n5. Informationsebene \"Nomenklatur\""
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "5. Informationsebene \"Nomenklatur\"",
+      "section": "31",
+      "title": "Art. 31 Inhalt",
+      "content": "1) Für die Festlegung der Bezeichnungen und der Abgrenzungen der Gültigkeitsbereiche ist das Liechtensteiner Namenbuch massgebend.\n2) Die Abgrenzungen werden in die Daten der Amtlichen Vermessung übertragen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "5. Informationsebene \"Nomenklatur\"",
+      "section": "32",
+      "title": "Art. 32 Nachführung",
+      "content": "Werden im Liechtensteiner Namenbuch neue Gültigkeitsbereiche oder neue Namen festgelegt, ist die Informationsebene nachzuführen.\n6. Informationsebene \"Liegenschaften\""
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "6. Informationsebene \"Liegenschaften\"",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1) Die Informationsebene \"Liegenschaften\" enthält die Grenzpunkte und den Grenzverlauf der Liegenschaften.\n2) Die selbständigen und dauernden Rechte sowie die Bergwerke sind nur dann in die Informationsebene \"Liegenschaften\" aufzunehmen, wenn sie als Grundstück in das Grundbuch aufgenommen werden.\n7. Informationsebene \"Dienstbarkeiten\""
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "7. Informationsebene \"Dienstbarkeiten\"",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "In die Informationsebene \"Dienstbarkeiten\" kann auf Gesuch des Dienstbarkeitsberechtigten und des belasteten Grundeigentümers der Grenzverlauf von Dienstbarkeiten, die eine flächenmässige Ausdehnung aufweisen und somit geometrisch abgegrenzt werden können, wie Fuss- und Fahrwegrechte und Baubeschränkungen, aufgenommen werden.\n8. Informationsebene \"Rohrleitungen\""
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "8. Informationsebene \"Rohrleitungen\"",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Die Informationsebene \"Rohrleitungen\" enthält Ölleitungen, Gasleitungen und weitere Leitungen, die der Gesetzgebung über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- und Treibstoffe unterstehen, sowie die Signalpunkte zur Kennzeichnung der Lage der Leitungen.\n9. Informationsebene \"Hoheitsgrenzen\""
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "9. Informationsebene \"Hoheitsgrenzen\"",
+      "section": "36",
+      "title": "Art. 36 Landesgrenzen",
+      "content": "1) Für den Verlauf der Landesgrenzen sind die betreffenden Staatsverträge massgebend.\n2) Die Übernahme der Grenzverläufe und deren Aufnahme in die Informationsebene \"Hoheitsgrenzen\" sowie deren Nachführung obliegen dem Amt für Tiefbau und Geoinformation."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "9. Informationsebene \"Hoheitsgrenzen\"",
+      "section": "37",
+      "title": "Art. 37 Gemeindegrenzen",
+      "content": "Für die Darstellung der Gemeindegrenzen ist der von der Regierung genehmigte Grenzverlauf massgebend. Art. 36 Abs. 2 findet Anwendung.\n10. Informationsebene \"Dauernde Bodenverschiebungen\""
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "10. Informationsebene \"Dauernde Bodenverschiebungen\"",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Die von der Regierung nach Art. 41a Abs. 1 des Sachenrechts bezeichneten und nach Art. 41c Abs. 1 des Sachenrechts öffentlich aufgelegten Gebiete mit dauernden Bodenverschiebungen sind in der Informationsebene \"Dauernde Bodenvenverschiebungen\" darzustellen.\n11. Informationsebene \"Gebäudeadressen\""
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "11. Informationsebene \"Gebäudeadressen\"",
+      "section": "39",
+      "title": "Art. 39 Gebäudeadressen",
+      "content": "Die Gebäudeadressen sind gemäss der Schweizer Norm SN 612040 zu erfassen.\nIII. Genauigkeit und Zuverlässigkeit"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "III. Genauigkeit und Zuverlässigkeit",
+      "section": "40",
+      "title": "Art. 40 Einteilung in Toleranzstufen",
+      "content": "Das Territorium des Landes wird für die Amtliche Vermessung in Gebiete mit Toleranzstufen (TS) eingeteilt:\na) TS 2: überbaute Gebiete und Bauzonen;\nb) TS 3: intensiv genutzte Landwirtschafts- und Forstwirtschaftsgebiete;\nc) TS 4: extensiv genutzte Landwirtschafts- und Forstwirtschaftsgebiete sowie Alpgebiete;\nd) TS 5: unproduktive Gebiete."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "III. Genauigkeit und Zuverlässigkeit",
+      "section": "41",
+      "title": "Art. 41 Anwendbare Vorschriften",
+      "content": "Die Vorschriften der schweizerischen Technischen Verordnung über die amtliche Vermessung (TVAV; SR 211.432.21 ) über die Genauigkeit und Zuverlässigkeit sind in ihrer jeweils geltenden Fassung sinngemäss anwendbar.\nIV. Grenzfeststellung und Grenzzeichen\nA. Bereinigung des Grenzverlaufs"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "A. Bereinigung des Grenzverlaufs",
+      "section": "42",
+      "title": "Art. 42 Grundsatz",
+      "content": "Im Bestreben, einen einfachen Grenzverlauf zu erwirken, hat der Ingenieur-Geometer die Grundeigentümer anzuhalten, die für eine Begradigung der Grenzen erforderliche Bereinigung der Eigentumsverhältnisse vorzunehmen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "A. Bereinigung des Grenzverlaufs",
+      "section": "43",
+      "title": "Art. 43 Zusammenlegung von Grundstücken",
+      "content": "1) Angrenzende, demselben Eigentümer gehörende Grundstücke sind, sofern dies sinnvoll erscheint, mit Einverständnis des Eigentümers zusammenzulegen.\n2) Eine Zusammenlegung ist jedoch ausgeschlossen, wenn die Grundstücke unterschiedlich mit Grundpfandrechten belastet sind."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "A. Bereinigung des Grenzverlaufs",
+      "section": "44",
+      "title": "Art. 44 Einladung zur Grenzbegehung",
+      "content": "Die Aufforderung zur Teilnahme an der Grenzfeststellung ist dem Eigentümer wenigstens fünf Tage vor der Grenzbegehung schriftlich zuzustellen.\nB. Grenzzeichen"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "B. Grenzzeichen",
+      "section": "45",
+      "title": "Art. 45 Art der Grenzzeichen",
+      "content": "Als Grenzzeichen sind zulässig:\na) Marksteine aus witterungsbeständigem Naturstein, mit behauenem Kopf, von wenigstens 12/12 cm Querschnitt und 60 cm Länge;\nb) Kunststoffmarken;\nc) Metallbolzen;\nd) Kreuze in Fels oder Mauern eingemeisselt;\ne) Pfähle aus dauerhaftem Holz in Rietböden;\nf) Grenzmarken aus Stahl."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "B. Grenzzeichen",
+      "section": "46",
+      "title": "Art. 46 Anbringen der Grenzzeichen",
+      "content": "1) Die Grenzzeichen sind so anzubringen, dass die Grenzen im Feld dauernd erkennbar oder mit einfachen Mitteln auffindbar bleiben.\n2) Sie sind in der Regel anzubringen, bevor die Daten der Informationsebene \"Liegenschaften\" erstmals erhoben werden.\n3) Einzelne Grenzzeichen können nach der Erhebung der Daten nach Abs. 2 angebracht werden:\na) bei einer Nachführung, wenn die Grenze nicht an Ort und Stelle festgestellt worden ist;\nb) wenn es aus einem wichtigen Grund nicht möglich oder zweckmässig ist, diese Arbeit vorher auszuführen.\n4) Die fehlenden Grenzzeichen nach Abs. 3 müssen angebracht werden, sobald die Umstände es erlauben.\nC. Gemeindegrenzen"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "C. Gemeindegrenzen",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Das Amt für Tiefbau und Geoinformation legt im Einvernehmen mit den Gemeinden die Art der Grenzzeichen fest.\nV. Erneuerung"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "V. Erneuerung",
+      "section": "48",
+      "title": "Art. 48 Grundsatz",
+      "content": "1) Die Erneuerung dient dazu, aus den nach dem Gesetz vom 1. Februar 1945 über die Landesvermessung des Fürstenstums Liechtenstein, LGBl. 1945 Nr. 5, erstellten Vermessungswerken Bestandteile der Amtlichen Vermessung neuer Ordnung zu erstellen.\n2) Es sind alle brauchbaren Bestandteile der Vermessungswerke alter Ordnung beizuziehen und zu verwenden und nach den neuen Vorschriften zu ergänzen und zu aktualisieren."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "V. Erneuerung",
+      "section": "49",
+      "title": "Art. 49 Informationsebene \"Fixpunkte\"",
+      "content": "1) Die Einhaltung der Genauigkeits- und Zuverlässigkeitsanforderungen nach neuer Ordnung muss aufgrund der vorhandenen Unterlagen des anerkannten Vermessungswerks nachgewiesen werden können. Andernfalls sind ergänzende Messungen und Berechnungen durchzuführen. Fehlende Attribute sind zu ergänzen.\n2) Die Dichte der bestehenden Fixpunkte ist den Richtwerten nach Art. 12 anzupassen. Fehlende oder beschädigte Fixpunktzeichen sind wiederherzustellen, soweit sie übernommen werden. Sekundäre Fixpunktzeichen sind anzubringen, soweit sie notwendig sind.\n3) Bei der etappenweisen Erneuerung der Informationsebenen sind diejenigen Fixpunkte zu erneuern, die für die Erneuerung der Daten der Etappe und deren Nachführung notwendig sind."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "V. Erneuerung",
+      "section": "50",
+      "title": "Art. 50 Informationsebene \"Liegenschaften\"",
+      "content": "1) Die Einhaltung der Genauigkeits- und Zuverlässigkeitsanforderungen nach neuer Ordnung kann aufgrund der vorhandenen Unterlagen des anerkannten Vermessungswerkes nachgewiesen werden. Als Unterlagen dienen insbesondere Feldbücher, Feldblätter, Berechnungen, Handrisse und die Pläne für das Grundbuch.\n2) Fehlende oder beschädigte Eigentumsgrenzpunktzeichen müssen nicht wiederhergestellt werden.\n3) Dem Eigentümer ist in geeigneter Form und dem Amt für Justiz schriftlich das alte und das neue Flächenmass mitzuteilen. Flächendifferenzen, die ausserhalb der Toleranzen alter Ordnung liegen, sind zu begründen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "V. Erneuerung",
+      "section": "51",
+      "title": "Art. 51 Informationsebenen \"Bodenbedeckung\" und \"Einzelobjekte\"",
+      "content": "1) Fehlende Objekte sind zu ergänzen, überflüssige zu entfernen.\n2) Zur Ergänzung dienen auch vorhandene aktuelle Unterlagen des anerkannten Vermessungswerks sowie weitere geeignete Unterlagen, beispielsweise Luftbilder oder Ausführungspläne."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "V. Erneuerung",
+      "section": "52",
+      "title": "Art. 52 Informationsebene \"Nomenklatur\"",
+      "content": "1) Wird die Nomenklatur überarbeitet, so ist das Vorgehen mit dem Liechtensteiner Namenbuch zu koordinieren.\n2) Wird die Nomenklatur anlässlich der Erneuerung nicht überarbeitet, so werden die im Zeitpunkt der Erneuerung gültigen, im Liechtensteiner Namenbuch enthaltenen Angaben übernommen.\nVI. Nachführung"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "VI. Nachführung",
+      "section": "53",
+      "title": "Art. 53 Meldepflicht des Amtes für Justiz",
+      "content": "Das Amt für Justiz meldet dem mit der Nachführung beauftragten Ingenieur-Geometer:\na) die im Grundbuch vollzogenen Mutationen;\nb) die im Grundbuch eingetragenen Eigentumsänderungen von Grundstücken."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "VI. Nachführung",
+      "section": "54",
+      "title": "Art. 54 Meldepflicht der Vermessungsfachleute",
+      "content": "Die Vermessungsfachleute sind verpflichtet, dem Amt für Tiefbau und Geoinformation Beschädigungen, Veränderungen und Gefährdungen von Fixpunkten der Kategorien 1 und 2 zu melden."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "VI. Nachführung",
+      "section": "55",
+      "title": "Art. 55 Meldepflicht der Baubehörden",
+      "content": "Die Baubehörden melden dem mit der Nachführung beauftragten Ingenieur-Geometer Bauten, die eine Änderung des Inhalts der Amtlichen Vermessung bewirken. Die Meldung hat zu erfolgen:\na) bei bewilligungspflichtigen Bauten nach Erteilung der Baubewilligung;\nb) bei nicht bewilligungspflichtigen Bauten nach deren Ausführung."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "VI. Nachführung",
+      "section": "56",
+      "title": "Art. 56 Meldepflicht anderer Behörden",
+      "content": "Die jeweils zuständigen Behörden oder Amtsstellen melden dem mit der Nachführung beauftragten Ingenieur-Geometer:\na) Änderungen im Bestand von öffentlichen Gewässern;\nb) Änderungen von Landes- und Gemeindegrenzen;\nc) Änderungen anderer in den Informationsebenen der Amtlichen Vermessung nachzuführender Objekte."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "VI. Nachführung",
+      "section": "57",
+      "title": "Art. 57 Information des Grundeigentümers",
+      "content": "Der mit der Nachführung beauftragte Ingenieur-Geometer teilt dem Grundeigentümer die beabsichtigte Wiederherstellung verloren gegangener oder veränderter Vermessungsfixpunkte oder Grenzzeichen vorgängig mit."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "VI. Nachführung",
+      "section": "58",
+      "title": "Art. 58 Vollzug der Änderungen",
+      "content": "Die gemeldeten Änderungen sind in der Regel innerhalb eines Monats nach Erhalt der Dokumente bzw. nach dem Vollzug der Änderungen in den Daten der Amtlichen Vermessung nachzutragen.\nVII. Öffentliche Auflage und Genehmigung"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "VII. Öffentliche Auflage und Genehmigung",
+      "section": "59",
+      "title": "Art. 59 Grundsatz",
+      "content": "Durch die öffentliche Auflage des Planes für das Grundbuch und der weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus den Daten der Amtlichen Vermessung sollen die Grundeigentümer über das Vermessungswerk informiert werden, damit offensichtliche Fehler bei der Grenzziehung bereinigt werden können."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "VII. Öffentliche Auflage und Genehmigung",
+      "section": "60",
+      "title": "Art. 60 Information der Grundeigentümer",
+      "content": "1) Die Grundeigentümer und die Berechtigten vermessener Dienstbarkeiten sind mit eingeschriebenem Brief über die Auflage mit Angabe der betroffenen Parzellennummern und deren Flächen zu informieren.\n2) Den Grundeigentümern oder Dienstbarkeitsberechtigten sind auf Verlangen Kopien des Planausschnittes über einzelne ihrer Liegenschaften oder vermessenen Dienstbarkeiten zuzustellen."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "VII. Öffentliche Auflage und Genehmigung",
+      "section": "61",
+      "title": "Art. 61 Strittige Grenzen",
+      "content": "Sind zum Zeitpunkt der Genehmigung des Planes für das Grundbuch gerichtlich zu erledigende Streitfälle noch hängig, so sind die strittigen Grenzen als provisorisch zu bezeichnen.\nVIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "VIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente",
+      "section": "62",
+      "title": "Art. 62 Grundsatz",
+      "content": "Der Unterhalt der Amtlichen Vermessung zur Erhaltung ihres Wertes umfasst die organisatorischen und technischen Massnahmen, die dem Zweck der Datenverwaltung, der Aufbewahrung, der Archivierung und der Sicherung der Bestandteile dienen."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "VIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente",
+      "section": "63",
+      "title": "Art. 63 Datenverwaltungsdokument",
+      "content": "Es sind pro Verwaltungseinheit Datenverwaltungsdokumente mit folgendem Mindestinhalt zu führen und dauernd zu aktualisieren:\na) Ausgangslage bei der Anlegung des numerischen Datenbestandes einer oder mehrerer Gemeinden mit der Beurteilung der Qualität, Aktualität und Vollständigkeit der bisherigen Werke sowie mit einer Beschreibung der Dokumentation und Archivierungsart der bestehenden Unterlagen;\nb) Verantwortlichkeit bei der Datenverwaltung;\nc) Zuständigkeit für Zugriffe und Änderungen;\nd) Übersicht über die betriebsinterne Organisation der Datennachführung;\ne) Beschrieb der technischen Dokumentation, die bei der Durchführung der Amtlichen Vermessung erstellt wurde und bei der Nachführung zu erstellen ist, sowie Angaben zu deren Archivierung;\nf) Verhaltensanweisungen bei Datenfehlern und erkannten Widersprüchen im Datenbestand;\ng) Betriebsprotokoll."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "VIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente",
+      "section": "64",
+      "title": "Art. 64 Kontrolle der Änderung am Datenbestand",
+      "content": "1) Nach Änderungen am Datenbestand hat der Verantwortliche die Vollständigkeit, Konsistenz, Plausibilität sowie die Qualität zu kontrollieren und protokollarisch festzuhalten.\n2) Mindestens die Plausibilitätskontrollen nach Abs. 1 müssen automatisiert erfolgen."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "VIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente",
+      "section": "65",
+      "title": "Art. 65 Datensicherheit",
+      "content": "1) Wer Daten der Amtlichen Vermessung verwaltet, ist verpflichtet, angemessene Sicherungsmassnahmen nach anerkannten Grundsätzen und entsprechend dem jeweiligen Stand der Technik zu ergreifen.\n2) Es ist ein Informatiksicherheitskonzept zu führen, dessen Inhalt sich nach der Schweizer Norm 612010 richtet.\n3) Die jährliche Datensicherung hat über die Amtliche Vermessungsschnittstelle (AVS) zu erfolgen."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "VIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente",
+      "section": "66",
+      "title": "Art. 66 Periodische Überprüfung",
+      "content": "1) Alle Bestandteile der Amtlichen Vermessung sind durch das Amt für Tiefbau und Geoinformation einer periodischen Prüfung zu unterziehen.\n2) Die Periode zwischen zwei Prüfungen soll fünf Jahre nicht überschreiten."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "VIII. Unterhalt der Amtlichen Vermessung und Archivierung der Dokumente",
+      "section": "67",
+      "title": "Art. 67 Archivierung",
+      "content": "1) Die Archivierung der technischen Dokumentation und der Datenträger soll sicherstellen, dass sämtliche Änderungen nachvollzogen werden können.\n2) Alle im Zusammenhang mit der Amtlichen Vermessung verwendeten und erstellten Dokumente und Auszüge sind im Landesarchiv zu archivieren.\n3) Bei Ersterhebungen und Erneuerungen werden die Dokumente nach Abschluss des Anerkennungsverfahrens im Landesarchiv eingelagert.\n4) Die Daten der Amtlichen Vermessung sind einmal jährlich dem Amt für Tiefbau und Geoinformation zur Datensicherung und Archivierung zu übergeben.\nIX. Normierte Datenbeschreibung der Amtlichen Vermessung und Amtliche Vermessungsschnittstelle (AVS)"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "IX. Normierte Datenbeschreibung der Amtlichen Vermessung und Amtliche Vermessungsschnittstelle (AVS)",
+      "section": "68",
+      "title": "Art. 68 Definition",
+      "content": "1) Zur Beschreibung des Datenmodells der Amtlichen Vermessung dient die Beschreibungssprache \"Interlis\" gemäss Schweizer Norm 612030.\n2) Die AVS wird definiert durch das in \"Interlis\" beschriebene Datenmodell der Amtlichen Vermessung (Anhang 1) sowie die Beschreibung des entsprechenden Transferformats anhand des Interlis-Compilers."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "IX. Normierte Datenbeschreibung der Amtlichen Vermessung und Amtliche Vermessungsschnittstelle (AVS)",
+      "section": "69",
+      "title": "Art. 69 Datenaustausch",
+      "content": "1) Wer Daten von der Amtlichen Vermessung beziehen will, hat das Recht, sie über die AVS zu erhalten.\n2) Wer Daten für die Amtliche Vermessung liefert, hat die Pflicht, sie über die AVS zu liefern.\n3) Für den Datenaustausch sind die Medien, die Zeichensätze und die Protokolle zu vereinbaren."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "IX. Normierte Datenbeschreibung der Amtlichen Vermessung und Amtliche Vermessungsschnittstelle (AVS)",
+      "section": "70",
+      "title": "Art. 70 AVS-Tauglichkeit",
+      "content": "Die Informatiksysteme, die für den Datenaustausch in der Amtlichen Vermessung eingesetzt werden, müssen Daten von der AVS übernehmen und liefern sowie Daten von der AVS übernehmen und bearbeitet wieder auf die AVS liefern können.\nX. Auszüge für das Grundbuch und technische Dokumentationen\nA. Pläne für die Grundbuchführung\n1. Plan für das Grundbuch"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "1. Plan für das Grundbuch",
+      "section": "71",
+      "title": "Art. 71 Inhalt",
+      "content": "1) Der Plan für das Grundbuch enthält die im Gesetz genannten Informationsebenen sowie den Planrahmen (Angaben über die Beschriftung des Planes für das Grundbuch).\n2) Er enthält überdies:\na) den Gemeindenamen;\nb) die Plannummer;\nc) die Nordrichtung;\nd) den Planmassstab;\ne) den Planperimeter;\nf) das Erstellungsdatum und die Unterschrift des Ingenieur-Geometers.\n3) Der Plan für das Grundbuch wird in der Regel im folgenden Massstab erstellt:\na) im Gebiet TS 2: 1: 500;\nb) im Gebiet TS 3: 1: 500 oder 1: 1 000;\nc) im Gebiet TS 4: 1: 2 000 oder 1: 5 000;\nd) im Gebiet TS 5: 1: 2 000 oder 1: 5 000.\n4) Die Regierung legt das Abbildungsmodell für den Plan für das Grundbuch fest."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "1. Plan für das Grundbuch",
+      "section": "72",
+      "title": "Art. 72 Zugriff des Amtes für Justiz",
+      "content": "Dem Amt für Justiz steht der elektronische Zugriff auf die für die Darstellung des Planes für das Grundbuch erforderlichen Daten der Amtlichen Vermessung zu."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "1. Plan für das Grundbuch",
+      "section": "73",
+      "title": "Art. 73 Grundstücksbeschreibung",
+      "content": "1) Der Plan für das Grundbuch wird ergänzt durch die Grundstücksbeschreibung.\n2) Sie enthält die Beschreibung der Liegenschaften und Dienstbarkeiten und umfasst:\na) den Gemeindenamen;\nb) die Zuordnung zur Nummer des Planes für das Grundbuch;\nc) die Nummer und die Fläche in Quadratmeter der Liegenschaft oder der Dienstbarkeit;\nd) eine geeignete Information über die Lokalisierung der betroffenen Objekte wie Flur-, Orts-, Gelände- oder Strassenname;\ne) die Angabe der auf der Liegenschaft erstellten Gebäude;\nf) Angaben über die Bodenbedeckung.\n2. Mutationsplan"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "2. Mutationsplan",
+      "section": "74",
+      "title": "Art. 74 Begriff und Inhalt",
+      "content": "1) Der Mutationsplan enthält insbesondere:\na) den Gemeindenamen und die Mutationsnummer;\nb) den alten und neuen Zustand der betroffenen Objekte mit grafischer Kennzeichnung projektierter Änderungen;\nc) die alten und neuen Grundstücksnummern;\nd) eine geeignete Information über die Lokalisierung der betroffenen Objekte wie Flur-, Orts-, Gelände- oder Strassenname;\ne) die Nordrichtung und den Planmassstab;\nf) das Erstellungsdatum und die Unterschrift des Ingenieur-Geometers.\n2) Der Mutationsplan wird ergänzt durch die Mutationstabelle. Sie enthält insbesondere:\na) den Gemeindenamen und die Mutationsnummer;\nb) die flächenmässigen Zu- und Abgänge der betroffenen Objekte;\nc) allfällige Rundungsdifferenzen;\nd) das Erstellungsdatum und die Unterschrift des Ingenieur-Geometers."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "2. Mutationsplan",
+      "section": "75",
+      "title": "Art. 75 Grenzänderungen",
+      "content": "1) Der mit der Nachführung beauftragte Ingenieur-Geometer erstellt zuhanden des Amtes für Justiz einen Mutationsplan mit Mutationstabelle und Grundstücksbeschreibung für Grenzänderungen an Liegenschaften, die Errichtung, Änderung oder Löschung von flächenmässig ausgeschiedenen selbständigen und dauernden Rechten und Bergwerken sowie von auf Gesuch der Beteiligten vermessenen übrigen Dienstbarkeiten.\n2) Nach dem grundbuchlichen Vollzug der Mutation wird der Datensatz der Amtlichen Vermessung geändert."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "2. Mutationsplan",
+      "section": "76",
+      "title": "Art. 76 Bestandesänderungen",
+      "content": "Bestandesänderungen ohne Grenzänderungen sind dem Amt für Justiz nur zu melden, wenn sich dadurch Änderungen in der Beschreibung der Liegenschaften oder der Dienstbarkeiten ergeben."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "2. Mutationsplan",
+      "section": "77",
+      "title": "Art. 77 Aufhebung von Mutationen",
+      "content": "1) Werden Mutationen nicht innert eines Jahres seit Ausfertigung der Mutationsurkunde grundbuchlich vollzogen, mahnt der Ingenieur-Geometer den Grundeigentümer oder Dienstbarkeitsberechtigten.\n2) Bleibt die Mahnung erfolglos, so hat der Ingenieur-Geometer die Mutation nach Ablauf von drei Monaten unter Kostenfolge des Säumigen aufzuheben und allfällig angebrachte Grenzzeichen zu entfernen.\nB. Weitere Auszüge"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "B. Weitere Auszüge",
+      "section": "78",
+      "title": "Art. 78 Auszug aus dem Plan für das Grundbuch",
+      "content": "Der Ingenieur-Geometer bescheinigt die Richtigkeit der Auszüge aus dem Plan für das Grundbuch unterschriftlich."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "B. Weitere Auszüge",
+      "section": "79",
+      "title": "Art. 79 Übrige Auszüge",
+      "content": "1) Das Amt für Tiefbau und Geoinformation und die Gemeinden können Auszüge aus den ihnen zugänglichen Daten der Amtlichen Vermessung erstellen und an Dritte abgeben.\n2) Solche Auszüge haben nicht die Wirkung öffentlicher Urkunden, auch wenn sie von der Ausgabestelle unterzeichnet sind.\nC. Technische Dokumentationen"
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "80",
+      "title": "Art. 80 Prüfprotokoll",
+      "content": "Es sind Prüfprotokolle zu führen, die Auskunft geben über die Prüfung und Eichung der in der Amtlichen Vermessung zum Einsatz gelangenden Datenerfassungs- und Datenausgabeinstrumente."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "81",
+      "title": "Art. 81 Originalmessungen",
+      "content": "Originalmessungen sind zu dokumentieren. Die Art der Dokumentation ist freigestellt."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "82",
+      "title": "Art. 82 Arbeitsunterlagen und Kontrolldokumente",
+      "content": "Als Arbeitsunterlagen gelten namentlich diejenigen technischen Dokumente, mit denen der Nachweis der Vollständigkeit, der Plausibilität (Richtigkeit der Daten und ihre widerspruchslose Einordnung im Datenbestand), der Qualität und der Konsistenz der Daten der Amtlichen Vermessung nachgewiesen wird (Einpassprotokolle, Kontrollzeichnungen, Vektorpläne und dergleichen)."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "83",
+      "title": "Art. 83 Flächenvergleich bei der Erneuerung",
+      "content": "Bei der Erneuerung sind die alten und neuen Liegenschaftsflächen einander gegenüberzustellen und deren Differenzen und Toleranzen auszuweisen."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "84",
+      "title": "Art. 84 Planeinteilung",
+      "content": "Für die Einteilung der Pläne für das Grundbuch ist ein kleinmassstäblicher Plan zu erstellen."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "85",
+      "title": "Art. 85 Unternehmerbericht",
+      "content": "1) Im Unternehmerbericht sind die wichtigsten, im Laufe der ausgeführten Vermessungsarbeiten getroffenen Massnahmen, Entscheidungen und Arbeitsresultate darzustellen.\n2) Der Unternehmerbericht enthält insbesondere:\na) die Ausgangslage und das Ziel der Vermessungsarbeiten;\nb) eine Beschreibung der Vermessungsarbeiten, der Methoden und der Resultate;\nc) Angaben zur Datenverwaltung und zur Nachführung;\nd) Wirtschaftlichkeitsüberlegungen über die Vermessungsarbeiten;\ne) eine Gesamtbeurteilung;\nf) das Aktenverzeichnis."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "C. Technische Dokumentationen",
+      "section": "86",
+      "title": "Art. 86 Erstellung und Nachführung",
+      "content": "Anhang 2 bezeichnet für jede Informationsebene die Auszüge für die Grundbuchführung und die technischen Dokumentationen, die zu erstellen und nachzuführen sind.\nXI. Verfahren bei Umlegungen (Art. 6 Abs. 2 VermG)"
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "XI. Verfahren bei Umlegungen (Art. 6 Abs. 2 VermG)",
+      "section": "87",
+      "title": "Art. 87 Grundsätze der vereinfachten Erhebungen",
+      "content": "Bei der Informationsebene \"Fixpunkte\" kann die Punktdichte und bei den Informationsebenen \"Liegenschaften\" und \"Dienstbarkeiten\" die Genauigkeit und Zuverlässigkeit im Rahmen der Art. 88 und 89 reduziert werden."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "XI. Verfahren bei Umlegungen (Art. 6 Abs. 2 VermG)",
+      "section": "88",
+      "title": "Art. 88 Informationsebene \"Fixpunkte\"",
+      "content": "Die Punktdichte des Fixpunktnetzes muss den Bedürfnissen des Umlegungsverfahrens, insbesondere der Bestimmung des Perimeters, der Projektierung und Durchführung der technischen Massnahmen und der wirtschaftlichen Erhebung der übrigen Informationsebenen dienen."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "XI. Verfahren bei Umlegungen (Art. 6 Abs. 2 VermG)",
+      "section": "89",
+      "title": "Art. 89 Informationsebene \"Liegenschaften\" in unvermessenen Gebieten",
+      "content": "1) In unvermessenen Gebieten sind nur diejenigen Grenzen zu vermarken, die von der Landumlegung voraussichtlich nicht betroffen werden.\n2) Der Zuverlässigkeitsnachweis nach Art. 18 ist nicht erforderlich."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "XI. Verfahren bei Umlegungen (Art. 6 Abs. 2 VermG)",
+      "section": "90",
+      "title": "Art. 90 Arbeiten nach der Umlegung",
+      "content": "Nach der Umlegung sind:\na) die Grenzen der Informationsebene \"Liegenschaften\" abzustecken, zu verpflocken und die Grenzzeichen anzubringen; und\nb) die Daten aller Informationsebenen so zu vervollständigen, dass sie die Anforderungen an die Amtliche Vermessung erfüllen.\nXII. Kosten der Amtlichen Vermessung"
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "XII. Kosten der Amtlichen Vermessung",
+      "section": "91",
+      "title": "Art. 91 Vermarkung der Grundstücke im öffentlichen Eigentum",
+      "content": "1) Die Vermarkungskosten der öffentlichen Strassen und Wege, der korrigierten öffentlichen Gewässer sowie der grossen Gemeindewälder sind, je nach den Eigentumsverhältnissen, entweder vom Land oder von der Gemeinde zu tragen.\n2) Für alle anderen Grundstücke im öffentlichen Eigentum sind für die Kostentragung die für die privaten Grundstücke geltenden Vorschriften anwendbar."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "XII. Kosten der Amtlichen Vermessung",
+      "section": "92",
+      "title": "Art. 92 Vermessungskommission",
+      "content": "Die Entschädigung der Mitglieder der Vermessungskommission ist Sache der Gemeinde."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "XII. Kosten der Amtlichen Vermessung",
+      "section": "93",
+      "title": "Art. 93 Abrechnung",
+      "content": "1) Der Ingenieur-Geometer führt für jedes Projekt eine Kostenrechnung.\n2) Nach Abschluss eines Vermarkungsprojektes erstellt der Ingenieur-Geometer zuhanden der Vermessungskommission die Abrechnung und die Kostenverteilung.\n3) Der Ingenieur-Geometer lässt die Kosten der Vermessung vor der Auszahlung durch das Amt für Tiefbau und Geoinformation prüfen."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "XII. Kosten der Amtlichen Vermessung",
+      "section": "94",
+      "title": "Art. 94 Rechnungstellung",
+      "content": "1) Der Ingenieur-Geometer kann die Nachführungskosten mittels Verfügung einheben.\n2) Die Vermessungskommission stellt im Auftrag der Gemeinde für die Vermarkungskosten Rechnung.\nXIII. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "XIII. Schlussbestimmungen",
+      "section": "95",
+      "title": "Art. 95 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Vermarkungs-Verordnung vom 5. Dezember 1946, LGBl. 1946 Nr. 28;\nb) Instruktion vom 22. März 1951 für die Nachführung der Grundbuchvermessung im Fürstentum Liechtenstein, LGBl. 1951 Nr. 5;\nc) Verordnung vom 15. September 1941 betreffend die Bereinigung von Gemeindegrenzen, LGBl. 1941 Nr. 19."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "XIII. Schlussbestimmungen",
+      "section": "96",
+      "title": "Art. 96 Inkrafttreten",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Vermessungsgesetz vom 19. Mai 2005 in Kraft.\nFürstliche Regierung:\ngez. Otmar Hasler\nFürstlicher Regierungschef\nAnhang 1\n(Art. 6 Abs. 1, Art. 68 Abs. 2)\nDatenmodell in \"Interlis\" beschrieben\nAnhang 2\n(Art. 86)\nAuszüge für die Grundbuchführung und\ntechnischen Dokumentationen\nErsterhebung\nErneuerung\nlaufende Nachführung\nperiodische Nachführung\nInformationsebene: Fixpunkte\n- Prüfprotokolle Instrumente\n- Prüfprotokolle Instrumente\n- Messanordnung\n- Punktkarte/\n-plan\n- Messanordnung\n- Messanordnung\n- Nachführungsmessungen\n- Punktprotokolle\n- Vorschlag für Fixpunktzeichen\n- Vorschlag für Fixpunktzeichen\n- Nachführungsberechnungen\n- Unternehmerbericht\n- Originalmessungen\n- Erneuerungsmessungen\n- Ausschnitt Netzplan/ Vektorplan\n- Originalberechnungen\n- Erneuerungsberechnungen\n- Punktkarte/\n-plan\n- Netzplan/ Vektorplan\n- Netzplan/ Vektorplan\n- Punktprotokolle\n- Punktkarte/\n-plan\n- Punktkarte/\n-plan\n- Punktprotokolle\n- Punktprotokolle\n- Unternehmerbericht\n- Unternehmerbericht\nInformationsebene: Bodenbedeckung\n- Prüfprotokolle Instrumente\n- Prüfprotokolle Instrumente\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- Nachführungsmessungen\n- Luftbilder\n- Luftbilder\n- Luftbilder\n- Nachführungsberechnungen\n- Nachführungsmessungen\n- Originalmessungen\n- Erneuerungsmessungen\n- Kontrolldokumente\n- Nachführungsberechnungen\n- Originalberechnungen\n- Erneuerungsberechnungen\n- Kontrolldokumente\n- Kontrolldokumente\n- Kontrolldokumente\n- Unternehmerbericht\n- Einpassprotokolle\n- Einpassprotokolle\n- Unternehmerbericht\n- Unternehmerbericht\nInformationsebene: Einzelobjekte\n- Prüfprotokolle Instrumente\n- Prüfprotokolle Instrumente\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- Nachführungsmessungen\n- Luftbilder\n- Luftbilder\n- Luftbilder\n- Nachführungsberechnungen\n- Nachführungsmessungen\n- Originalmessungen\n- Erneuerungsmessungen\n- Nachführungsberechnungen\n- Originalberechnungen\n- Erneuerungsberechnungen\n- Unternehmerbericht\n- Einpassprotokolle\n- Einpassprotokolle\n- Unternehmerbericht\n- Unternehmerbericht\nInformationsebene: Höhen\n- Prüfprotokolle Instrumente\n- Prüfprotokolle Instrumente\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- Nachführungsmessungen\n- Luftbilder\n- Luftbilder\n- Luftbilder\n- Nachführungsberechnungen\n- Nachführungsmessungen\n- Originalmessungen\n- Erneuerungsmessungen\n- Nachführungsberechnungen\n- Originalberechnungen\n- Erneuerungsberechnungen\n- Unternehmerbericht\n- Unternehmerbericht\n- Unternehmerbericht\nInformationsebene: Nomenklatur\n- Nomenklaturplan\n- Nomenklaturplan\n- Auszug aus Nomenklaturplan mit altem/ neuem Zustand\n- Auszug aus Nomenklaturplan mit altem/ neuem Zustand\n- Kontrolldokumente\n- Kontrolldokumente\n- Kontrolldokumente\n- Kontrolldokumente\n- Unternehmerbericht\n- Unternehmerbericht\n- Unternehmerbericht\nInformationsebene: Liegenschaften\n- Prüfprotokolle Instrumente\n- Prüfprotokolle Instrumente\n- Unternehmerbericht\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- Nachführungsmessungen\n- Luftbilder\n- Luftbilder\n- Nachführungsmessungen\n- Nachführungsberechnungen\n- Originalmessungen\n- Erneuerungsmessungen\n- Nachführungsberechnungen\n- Kontrolldokumente\n- Originalberechnungen\n- Erneuerungsberechnungen\n- Kontrolldokumente\n- Mutationsplan und -tabelle\n- Kontrolldokumente\n- Flächenvergleich\n- Mutationsplan und -tabelle\n- Einpassprotokolle\n- Kontrolldokumente\n- Liegenschaftsbeschrieb\n- Einpassprotokolle\n- Unternehmerbericht\n- Liegenschaftsbeschrieb\nInformationsebene: Rohrleitungen\n- Prüfprotokolle Instrumente\n- Prüfprotokolle Instrumente\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- originale\nArbeitspläne\n- Nachführungsmessungen\n- Nachführungsmessungen\n- Luftbilder\n- Luftbilder\n- Nachführungsberechnungen\n- Nachführungsberechnungen\n- Originalmessungen\n- Erneuerungsmessungen\n- Unternehmerbericht\n- Originalberechnungen\n- Erneuerungsberechnungen\n- Einpassprotokolle\n- Einpassprotokolle\n- Unternehmerbericht\n- Kontrolldokumente\n- Unternehmerbericht\nInformationsebene: Administrative Einteilungen\n- Planeinteilung\n- Planeinteilung\n- Planeinteilung\n- Perimeterplan Rutschgebiete\n- Perimeterplan Rutschgebiete\n- Perimeterplan Rutschgebiete\n- Perimeterplan Rutschgebiete\n- Kontrolldokumente\n- Kontrolldokumente\n- originale\nArbeitspläne Rutschgebiete\n- Unternehmerbericht\n- Unternehmerbericht\n- Mutationsplan und -tabelle von Hoheitsgrenzen\n- Planausschnitt für die V+D/L+T\nalter/neuer Hoheitsgrenzen\n- Kontrolldokumente\n1\nLR 214.31\n2\nArt. 2 abgeändert durch LGBl. 2022 Nr. 56 .\n3\nArt. 14 Abs. 4 abgeändert durch LGBl. 2022 Nr. 56 .\n4\nArt. 15 Abs. 4 abgeändert durch LGBl. 2022 Nr. 56 .\n5\nArt. 20 abgeändert durch LGBl. 2022 Nr. 56 .\n6\nArt. 24 Abs. 4 abgeändert durch LGBl. 2012 Nr. 321 .\n7\nArt. 33 Abs. 2 abgeändert durch LGBl. 2018 Nr. 131 .\n8\nÜberschrift vor Art. 36 abgeändert durch LGBl. 2018 Nr. 131 .\n9\nArt. 36 Abs. 2 abgeändert durch LGBl. 2022 Nr. 56 .\n10\nÜberschrift vor Art. 38 eingefügt durch LGBl. 2018 Nr. 131 .\n11\nArt. 38 abgeändert durch LGBl. 2018 Nr. 131 .\n12\nÜberschrift vor Art. 39 eingefügt durch LGBl. 2018 Nr. 131 .\n13\nArt. 47 abgeändert durch LGBl. 2022 Nr. 56 .\n14\nArt. 50 Abs. 1 abgeändert durch LGBl. 2018 Nr. 131 .\n15\nArt. 50 Abs. 3 abgeändert durch LGBl. 2013 Nr. 12 .\n16\nArt. 53 abgeändert durch LGBl. 2013 Nr. 12 .\n17\nArt. 54 abgeändert durch LGBl. 2022 Nr. 56 .\n18\nArt. 59 abgeändert durch LGBl. 2018 Nr. 131 .\n19\nArt. 61 abgeändert durch LGBl. 2018 Nr. 131 .\n20\nArt. 66 Abs. 1 abgeändert durch LGBl. 2022 Nr. 56 .\n21\nArt. 67 Abs. 4 abgeändert durch LGBl. 2022 Nr. 56 .\n22\nÜberschrift vor Art. 71 abgeändert durch LGBl. 2018 Nr. 131 .\n23\nÜberschrift vor Art. 71 abgeändert durch LGBl. 2018 Nr. 131 .\n24\nArt. 71 Abs. 1 abgeändert durch LGBl. 2018 Nr. 131 .\n25\nArt. 71 Abs. 3 Einleitungssatz abgeändert durch LGBl. 2018 Nr. 131 .\n26\nArt. 71 Abs. 4 abgeändert durch LGBl. 2018 Nr. 131 .\n27\nArt. 72 abgeändert durch LGBl. 2018 Nr. 131 .\n28\nArt. 73 Abs. 1 abgeändert durch LGBl. 2018 Nr. 131 .\n29\nArt. 73 Abs. 2 Bst. b abgeändert durch LGBl. 2018 Nr. 131 .\n30\nArt. 75 Abs. 1 abgeändert durch LGBl. 2013 Nr. 12 .\n31\nArt. 76 abgeändert durch LGBl. 2013 Nr. 12 .\n32\nArt. 78 abgeändert durch LGBl. 2018 Nr. 131 .\n33\nArt. 79 Abs. 1 abgeändert durch LGBl. 2022 Nr. 56 .\n34\nArt. 84 abgeändert durch LGBl. 2018 Nr. 131 .\n35\nArt. 93 Abs. 3 abgeändert durch LGBl. 2022 Nr. 56 .\n36\nDieser Anhang wird im Liechtensteinischen Landesgesetzblatt nicht publiziert. Der vollständige Wortlaut dieses Anhangs kann beim Amt für Tiefbau und Geoinformation eingesehen und bezogen werden.\n37\nAls Dokument nachzuführen.\n38\nAls Dokument nachzuführen."
+    }
+  ],
+  "definitions": []
+}

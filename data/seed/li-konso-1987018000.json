@@ -1,0 +1,372 @@
+{
+  "id": "li-konso-1987018000",
+  "type": "statute",
+  "title": "Sozialhilfeverordnung (SHV) vom 7. April 1987",
+  "title_en": "",
+  "short_name": "LGBl 1987.018",
+  "status": "in_force",
+  "issued_date": "1987-04-07",
+  "in_force_date": "1987-04-07",
+  "url": "https://www.gesetze.li/konso/1987018000",
+  "description": "Sozialhilfeverordnung (SHV) vom 7. April 1987",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung des Sozialhilfegesetzes insbesondere das Nähere über: a) die Arten der Sozialhilfe;\nb) die Formen der Sozialhilfe;\nc) die Auskunfts- und Meldepflichten sowie die Überprüfung und Berichterstattung;\nd) das Ausmass der wirtschaftlichen Sozialhilfe;\ne) die stationäre Betreuung;\nf) die Vorschüsse auf Unterhaltsbeiträge;\ng) die Unterhaltspflicht der Angehörigen und die Kostenrückerstattung;\nh) die privaten Träger der Sozialhilfe;\ni) die von der öffentlichen Hand geführten Alters- und Pflegeheime."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1a",
+      "title": "Art. 1a Personenbezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personenbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen.\nIa. Arten der Sozialhilfe"
+    },
+    {
+      "provision_ref": "art1b",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "1b",
+      "title": "Art. 1b Hilfe zum Lebensunterhalt",
+      "content": "Die Hilfe zum Lebensunterhalt umfasst insbesondere Massnahmen zur Sicherung eines sozialen Existenzminimums. Das soziale Existenzminimum soll in einem angemessenen Verhältnis zum allgemeinen Lebensstandard der Bevölkerung stehen und die individuellen Verhältnisse des Hilfsbedürftigen berücksichtigen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "2",
+      "title": "Art. 2 Beschaffung von Unterkunft",
+      "content": "Die Hilfe zur Beschaffung von Unterkunft umfasst insbesondere: a) Bereitstellung einer Wohnung;\nb) notwendige Ausstattung der Unterkunft;\nc) Unterbringung in einer Wohngemeinschaft;\nd) Unterbringung in einer Institution."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "3",
+      "title": "Art. 3 Vermittlung von Arbeit",
+      "content": "Die Vermittlung von Arbeit umfasst insbesondere: a) Schulung und Umschulung;\nb) Vermittlung oder Sicherung eines Arbeitsplatzes."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "4",
+      "title": "Art. 4 Krankenhilfe und vorbeugende Gesundheitshilfe",
+      "content": "Die Krankenhilfe und die vorbeugende Gesundheitshilfe umfassen insbesondere: a) Beratung und Betreuung;\nb) ärztliche Behandlung;\nc) psychologische Hilfen;\nd) Zahnbehandlung und Zahnersatz;\ne) Krankenpflege;\nf) Unterbringung in einem Genesungs-, Kur- oder Erholungsheim;\ng) Übernahme der Krankenkassenmindestprämien;\nh) Krankenrücktransport."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "5",
+      "title": "Art. 5 Hilfe für Schwangere und Wöchnerinnen",
+      "content": "Die Hilfe für Schwangere und Wöchnerinnen umfasst insbesondere die Beratung und Betreuung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "6",
+      "title": "Art. 6 Hilfe für alte und pflegebedürftige Personen",
+      "content": "Die Hilfe für alte und pflegebedürftige Personen umfasst insbesondere: a) Beratung und Betreuung;\nb) Versorgung und Pflege im häuslichen Bereich;\nc) Unterbringung in Anstalten, Heimen, Wohnungen oder an Pflegeplätzen;\nd) Bereitstellung von Hilfsmitteln zur Selbstversorgung."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "7",
+      "title": "Art. 7 Familienhilfe",
+      "content": "Die Familienhilfe umfasst als Hilfen für vollständige und unvollständige Familien insbesondere Hilfsdienste für die Familie, wie Beistellung einer Familienhelferin oder Haushaltshilfe."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "8",
+      "title": "Art. 8 Psychisch und sozial Gefährdete, Invalide, Suchtgefährdete und Suchtkranke",
+      "content": "Die Hilfe für psychisch und sozial Gefährdete, für Invalide, Alkoholgefährdete, Alkoholkranke und andere Suchtgefährdete und Suchtkranke umfasst insbesondere Beratung, Betreuung und Unterbringung in geeigneten Anstalten, Heimen und Wohngemeinschaften."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "9",
+      "title": "Art. 9 Hilfe für Straffällige",
+      "content": "Die Hilfe für Straffällige umfasst Hilfen während der Untersuchungshaft, des Strafvollzuges und der Resozialisierung, insbesondere: a) Beratung und Betreuung;\nb) Bereitstellung von Mitteln für gefängnisinterne Beschäftigung und Bildung."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Ia. Arten der Sozialhilfe",
+      "section": "10",
+      "title": "Art. 10 Übernahme der Bestattungskosten",
+      "content": "Die Kosten der Bestattung umfassen die Kosten eines einfachen, landesüblichen Begräbnisses einschliesslich der Kosten einer Überführung innerhalb des Landes oder aus grenznahen Gebieten, sofern eine Überführung aus familiären oder öffentlichen Interessen geboten erscheint.\nII. Formen der Sozialhilfe"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "11",
+      "title": "Art. 11 Persönliche Hilfe",
+      "content": "1) Persönliche Hilfe in Form von Beratung darf dem Hilfsbedürftigen nicht aufgezwungen werden. Der Hilfsbedürftige ist in der Wahl der sozialen Dienste frei. Die Beratung ergibt sich aus dem Anliegen des Hilfsbedürftigen.\n2) Die Art der persönlichen Hilfe in Form von Betreuung ergibt sich aus der von der betreuenden Stelle vorgenommenen Einschätzung des körperlichen und geistigen Zustandes des Hilfsbedürftigen und aus dessen Verhalten und Umfeld.\n3) Persönliche Hilfe in Form von Betreuung kann durch Empfehlungen und Weisungen gemäss Art. 10 Abs. 3 des Sozialhilfegesetzes erfolgen.\nWirtschaftliche Hilfe"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "12",
+      "title": "Art. 12 a) Grundsatz",
+      "content": "1) In der Regel sind wiederkehrende Geldleistungen zu gewähren. Einmalige Geldleistungen sind zu gewähren, wenn dadurch die wirtschaftliche Selbständigkeit des Hilfsbedürftigen hergestellt und gesichert werden kann.\n2) Geldleistungen, zu deren Rückerstattung sich der Hilfsbedürftige verpflichtet, dürfen nur gewährt werden: a) bei vorübergehender Not;\nb) in Fällen vorbeugender Sozialhilfe;\nc) falls die sofortige Verwertung des Vermögens des Hilfsbedürftigen eine besondere Härte für ihn darstellen würde.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art12a",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "12a",
+      "title": "Art. 12a b) Anspruch und Zusammensetzung",
+      "content": "1) Anspruch auf Ausrichtung wirtschaftlicher Hilfe hat, wer das soziale Existenzminimum nicht erreicht.\n2) Das soziale Existenzminimum berechnet sich aus: a) dem Grundbedarf für den Lebensunterhalt (Art. 20a);\nb) den Wohnkosten (Art. 20b);\nc) den Prämien der obligatorischen Krankenversicherung (Art. 20c); und\nd) den berufsbedingten Mehrkosten (Art. 20e Abs. 2).\n3) Arbeitslose haben nur Anspruch auf wirtschaftliche Hilfe, wenn sie dem Amt für Soziale Dienste den Nachweis erbringen über: a) die für die Arbeitsvermittlung erforderliche Meldung beim Amt für Volkswirtschaft; und\nb) die Befolgung der ihnen dort auferlegten Weisungen.\n4) Der Anspruch auf wirtschaftliche Hilfe entsteht frühestens mit Beginn jenes Monats, in dem diese schriftlich beantragt wurde.\n5) Personen, deren Einkommen gerichtlich gepfändet wurde, haben auch bei Unterschreitung des sozialen Existenzminimums keinen Anspruch auf wirtschaftliche Hilfe."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "13",
+      "title": "Art. 13 Fürsorgerische Unterbringung",
+      "content": "Eine fürsorgerische Unterbringung soll nur beantragt werden, wenn notwendige betreuerische Massnahmen nicht möglich sind, erfolglos geblieben sind oder verweigert werden."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art14a",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "14a",
+      "title": "Art. 14a",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "15",
+      "title": "Art. 15 Auszahlung der Sozialhilfe",
+      "content": "1) Die Auszahlung der Sozialhilfe erfolgt in der Regel direkt an den Berechtigten durch das Amt für Soziale Dienste. Der Auszahlungsmodus wird im Einzelfall festgelegt. Mit den Gemeinden wird im Rahmen des Lastenausgleiches abgerechnet.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Formen der Sozialhilfe",
+      "section": "16",
+      "title": "Art. 16 Besondere Auszahlungsformen",
+      "content": "1) Zuwendungen der Sozialhilfe können in begründeten Fällen, insbesondere bei Zweifel an der zweckmässigen Verwendung der Sozialhilfe, ausgerichtet werden in Form von: a) periodischen Auszahlungen von Teilbeträgen;\nb) Auszahlungen an Dritte;\nc) Naturalien; oder\nd) anderen Leistungen, die eine zweckmässige Verwendung der Sozialhilfe gewährleisten.\n2) Die Kosten für stationäre Aufenthalte werden in der Regel direkt der betreffenden Einrichtung ausgerichtet.\n3) Die Kosten der medizinischen Grundversorgung können direkt der Krankenkasse vergütet werden.\nIIa. Auskunfts- und Meldepflichten, Überprüfung und Berichterstattung"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "IIa. Auskunfts- und Meldepflichten, Überprüfung und Berichterstattung",
+      "section": "17",
+      "title": "Art. 17 Auskunfts- und Meldepflichten",
+      "content": "1) Die Auskunftspflicht der Antragsteller sowie der mitunterstützten Personen nach Art. 18b des Sozialhilfegesetzes erstreckt sich auf sämtliche persönlichen und wirtschaftlichen Verhältnisse. Änderungen der Verhältnisse sind unaufgefordert und unverzüglich mitzuteilen.\n2) Unterlagen sind auf Verlangen des Amtes für Soziale Dienste im Original vorzulegen, sofern dies zur Klärung der für die Ausrichtung der Sozialhilfe massgeblichen Verhältnisse erforderlich ist."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "IIa. Auskunfts- und Meldepflichten, Überprüfung und Berichterstattung",
+      "section": "18",
+      "title": "Art. 18 Überprüfung; Berichterstattung",
+      "content": "1) Das Amt für Soziale Dienste überprüft periodisch, mindestens einmal jährlich, alle hängigen Unterstützungsfälle. Für jeden Unterstützungsfall wird ein individuelles Konto geführt.\n1a) Zur Überprüfung der Einkommens- und Vermögensverhältnisse der Hilfsbedürftigen fordert das Amt für Soziale Dienste von der jeweils zuständigen Behörde die letzte geprüfte Steuererklärung sowie allfällige Grundbuchauszüge des Antragstellers an.\n2) Das Amt für Soziale Dienste stellt der Regierung periodisch oder auf deren Verlangen die zweckmässigen Informationen über die Entwicklungen im Bereich der Sozialhilfe zur Verfügung.\nIII. Ausmass der wirtschaftlichen Sozialhilfe"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "19",
+      "title": "Art. 19 Grundsätze",
+      "content": "1) Die Hilfe soll nicht in schematischer Weise nach einem festen Tarif bemessen, sondern an die örtlichen und individuellen Verhältnisse angepasst werden. Dabei ist besonders Rücksicht zu nehmen auf die Situation des Hilfsbedürftigen, die Grösse und Gliederung der Familie, die Einkommensverhältnisse und Einkommensmöglichkeiten sowie die voraussichtliche Dauer der Bedürftigkeit.\n2) Alleinerziehende sollen solange nicht verpflichtet werden, einem Verdienst nachzugehen, als sie sich der Kindererziehung widmen und die Kinder ihrer Obhut und Aufsicht bedürfen.\n3) Personen, die eine faktische Lebensgemeinschaft führen, dürfen nicht besser gestellt werden als Eheleute oder eingetragene Partner.\nRichtsätze und Pauschalen für die materielle Grundsicherung"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "20",
+      "title": "Art. 20 a) Grundsatz",
+      "content": "Die materielle Grundsicherung setzt sich zusammen aus: a) dem Grundbedarf für den Lebensunterhalt;\nb) den Wohnkosten;\nc) der medizinischen Grundversorgung; und\nd) den Mindestversicherungsbeiträgen der AHV-IV-FAK."
+    },
+    {
+      "provision_ref": "art20a",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "20a",
+      "title": "Art. 20a b) Grundbedarf für den Lebensunterhalt",
+      "content": "1) Der Grundbedarf für den Lebensunterhalt dient der Deckung folgender Aufwendungen: a) Nahrungsmittel und Getränke;\nb) Bekleidung und Schuhe;\nc) Energieverbrauch (Elektrizität, Gas etc.) ohne Wohnnebenkosten;\nd) laufende Haushaltsführung (Reinigung und Instandhaltung von Kleidern und Wohnung, Kehrrichtgebühren);\ne) Haushaltsgegenstände;\nf) Gesundheitspflege ohne Selbstbehalte (z.B. selbstgekaufte Medikamente);\ng) Verkehrsauslagen (öffentlicher Nahverkehr, Unterhalt Fahrrad/Mofa);\nh) Nachrichtenübermittlung (z.B. Telefon, Post);\ni) Bildung und Unterhaltung (z.B. Radio/TV-Gebühren und -Geräte, Computer, Drucker, Sport, Spielsachen, Zeitungen, Bücher, Schulkosten, Kino, Haustierhaltung);\nk) Körperpflege (z.B. Friseur, Toilettenartikel);\nl) persönliche Ausstattung;\nm) Hausrat- und Haftpflichtversicherung;\nn) Taschengeld.\n2) Zur Deckung des Grundbedarfs für den Lebensunterhalt werden folgende Pauschalbeträge nach Personenzahl in einem gemeinsam geführten Haushalt ausgerichtet:\nHaushaltsgrösse\nPauschale pro Monat (in Franken)\n1 Person\n1 186\n2 Personen\n1 815\n3 Personen\n2 206\n4 Personen\n2 538\n5 Personen\n2 870\njede weitere Person\nzusätzlich 299"
+    },
+    {
+      "provision_ref": "art20b",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "20b",
+      "title": "Art. 20b c) Wohnkosten",
+      "content": "1) Bei der Berechnung der Wohnkosten werden der Wohnungsmietzins oder bei Wohneigentum der Hypothekarzins ohne Amortisation sowie die vertraglich vereinbarten Nebenkosten oder die absolut notwendigen Reparaturkosten berücksichtigt, soweit diese angemessen sind und im ortsüblichen Rahmen liegen.\n2) Bei überhöhten Wohnkosten, welche die zweckmässige Verwendung des Grundbedarfs für den Lebensunterhalt gefährden, kann der Umzug in eine günstigere Wohnung angeordnet werden."
+    },
+    {
+      "provision_ref": "art20c",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "20c",
+      "title": "Art. 20c d) Medizinische Grundversorgung",
+      "content": "Die Prämien der obligatorischen Krankenversicherung (Grundversicherung) sowie die Selbstbehalte werden vergütet."
+    },
+    {
+      "provision_ref": "art20d",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "20d",
+      "title": "Art. 20d e) Sozialversicherungsbeiträge",
+      "content": "Die Mindestversicherungsbeiträge der AHV-IV-FAK werden vergütet."
+    },
+    {
+      "provision_ref": "art20e",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "20e",
+      "title": "Art. 20e Richtsätze und Pauschalen für Zulagen für berufsbedingte Mehrkosten, Erwerbs- und Integrationszulagen",
+      "content": "1) Zur Förderung und Erhaltung der sozialen und wirtschaftlichen Integration können gewährt werden: a) Zulagen für berufsbedingte Mehrkosten;\nb) Erwerbszulagen;\nc) Integrationszulagen.\n2) An die Kosten für den Betrieb eines privaten Motorfahrzeuges wird ein Betrag bis maximal 100 Franken pro Monat angerechnet, sofern der Arbeitsplatz nicht auf zumutbare Weise mit den öffentlichen Verkehrsmitteln erreicht werden kann (Zulage für berufsbedingte Mehrkosten).\n3) Übt eine unterstützte Person eine Vollzeitbeschäftigung aus und erreicht sie das soziale Existenzminimum nicht, kann ein Betrag von 400 Franken pro Monat gewährt werden (Erwerbszulage). Dieser Betrag wird bei Teilzeitbeschäftigten anteilsmässig ausgerichtet.\n4) Nicht vollzeitbeschäftigten Personen, die sich aktiv um ihre soziale oder berufliche Integration bemühen oder gemeinnützige Arbeit erbringen, kann ein Betrag von bis zu 300 Franken pro Monat gewährt werden (Integrationszulage). Das Ausmass der Tätigkeit ist bei der Festlegung der Höhe der Zulage angemessen zu berücksichtigen. Die Höhe der Zulage richtet sich nach den Richtlinien des Amtes für Soziale Dienste.\n5) Aufgehoben\n6) Die Beträge der Erwerbs- und Integrationszulage können kumuliert werden. Sie dürfen den Betrag von 700 Franken pro Haushalt und Monat nicht übersteigen.\n7) Bei der Gewährung von kurzfristigen Nothilfen bis zu drei Monaten sind die Erwerbs- und Integrationszulagen nicht auszurichten.\n8) Für Minderjährige wird keine Erwerbs- und Integrationszulage ausgerichtet."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "22",
+      "title": "Art. 22 Richtsätze und Pauschalen für Sonderfälle",
+      "content": "1) Lebt eine unterstützte Person oder leben mehrere unterstützte Personen in einer familienähnlichen Wohn- und Lebensgemeinschaft, so ist die wirtschaftliche Hilfe wie folgt zu berechnen: a) Der Grundbedarf für den Lebensunterhalt für alle Personen des Haushaltes wird nach Art. 20a Abs. 2 berechnet und auf den Pro-Kopf-Anteil der unterstützten Person(en) umgerechnet; der Pro-Kopf-Anteil wird auf den ganzen Franken auf- oder abgerundet.\nb) Die Wohnkosten werden anteilsmässig für die unterstützten Personen berechnet.\nc) Führt eine unterstützte Person den Haushalt für eine oder mehrere nicht unterstützte Personen, ist ein Einkommen in Höhe von mindestens 200 Franken pro Monat als Entschädigung für die Haushaltsführung einzuberechnen.\nd) Leben eine unterstützte Person und eine nicht unterstützte Person seit mindestens zwei Jahren oder mit einem gemeinsamen Kind in einer familienähnlichen Wohn- und Lebensgemeinschaft, so ist für die nicht unterstützte Person eine erweiterte Berechnung der materiellen Grundsicherung zu erstellen und das ihre Grundsicherung übersteigende Einkommen bei der unterstützten Person als Einkommen anzurechnen. Das verwertbare Vermögen der nicht unterstützen Person ist ab einem Betrag von 50 000 Franken oder - soweit unterhaltsberechtigte Kinder vorhanden sind - 65 000 Franken zu berücksichtigen.\n1a) Lebt eine unterstützte Person oder leben mehrere unterstützte Personen in einer Zweck-Wohngemeinschaft, so ist die wirtschaftliche Hilfe wie folgt zu berechnen: a) Der Grundbedarf für den Lebensunterhalt wird für jede unterstützte Person gesondert festgelegt und um jeweils 10 % reduziert.\nb) Die Wohnkosten werden anteilsmässig für die unterstützten Personen berechnet.\n1b) Erwerbseinkommen oder andere Einkünfte Minderjähriger, die mit unterstützungsbedürftigen Eltern oder anderen Erziehungsberechtigten im gleichen Haushalt leben, sind in der Berechnung des Haushaltseinkommens nur bis zur Höhe des auf diese Personen entfallenden Anteils des Aufwandes anzurechnen. Bei den sich in Ausbildung (z.B. Berufslehre) befindlichen Minderjährigen ist deren Einkommen zu einem Viertelanteil beim Haushaltseinkommen anzurechnen.\n2) Für junge Erwachsene zwischen dem vollendeten 18. und 25. Lebensjahr gilt Folgendes: a) Sie haben keinen Anspruch auf die Finanzierung einer eigenen Wohnung, wenn sie noch nicht in der Lage waren, einen eigenen Haushalt über einen längeren Zeitraum selbstständig zu finanzieren.\nb) Junge Erwachsene, die im Haushalt der Eltern oder in anderen familienähnlichen Gemeinschaften leben, werden nach den Bestimmungen für familienähnliche Wohn- und Lebensgemeinschaften unterstützt. Sie erhalten für ihren Lebensunterhalt den auf sie anteilsmässig anfallenden Grundbedarf. Dieser kann um höchstens 35 % reduziert werden, wenn sie nicht an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnehmen, keiner angemessenen Erwerbstätigkeit nachgehen oder keine eigenen Kinder betreuen.\nc) Junge Erwachsene, die in einer Zweck-Wohngemeinschaft leben, erhalten als Grundbedarf jene Pauschale, die für eine Person in einem Zweipersonenhaushalt berechnet wird. Der Grundbedarf für den Lebensunterhalt wird auf 755 Franken reduziert, wenn der junge Erwachsene nicht an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnimmt, keiner angemessenen Erwerbstätigkeit nachgeht oder keine eigenen Kinder betreut.\nd) Jungen Erwachsenen, die aus zwingenden Gründen einen eigenen Haushalt führen, wird der Grundbedarf für den Lebensunterhalt auf 840 Franken reduziert, wenn der junge Erwachsene nicht an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnimmt, keiner angemessenen Erwerbstätigkeit nachgeht oder keine eigenen Kinder betreut.\n3) Hilfsbedürftige Personen in stationären Einrichtungen, Heimen und therapeutischen Wohngemeinschaften, welche die Voraussetzungen für die Gewährung wirtschaftlicher Hilfe erfüllen, haben zur Deckung ihrer persönlichen Bedürfnisse Anspruch auf eine Pauschale von 255 bis zu maximal 510 Franken pro Monat. Die Höhe der Pauschale ist sowohl dem individuellen Bedarf als auch den internen Regelungen der jeweiligen Institution anzupassen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "23",
+      "title": "Art. 23 Kürzung von Leistungen",
+      "content": "1) Leistungskürzungen nach Art. 17a des Sozialhilfegesetzes dürfen höchstens 35 % des Pauschalbetrages zur Deckung des Grundbedarfs für den Lebensunterhalt betragen.\n2) Sie müssen verhältnismässig sein und dürfen nicht länger als zwölf Monate angeordnet werden. Eine Verlängerung der Massnahme um weitere zwölf Monate ist zulässig, wenn der Grund für deren Anordnung weiterhin gegeben ist.\nEinsatz der eigenen Mittel\nArt. 24 a) Grundsatz\n1) Bei der Bemessung der Sozialhilfe sind voll anzurechnen: a) das Nettoerwerbseinkommen;\nb) Bezüge von AHV, IV, FAK (mit Ausnahme der Alleinerziehendenzulage), Ergänzungsleistungen der AHV, Pensionskassen, Krankenkassen, Arbeitslosenversicherungen, Unfallversicherungen und privaten Versicherungen sowie Unterhaltsbeiträge Dritter; nachträglich eingehende Sozialversicherungsleistungen sind mit der im Voraus ausgerichteten Unterstützung der wirtschaftlichen Sozialhilfe zu verrechnen, wenn die Sozialversicherungsleistungen und die Sozialhilfeunterstützung denselben Zeitraum betreffen;\nb ) freiwillige Zuwendungen Dritter;\nc) allfällige weitere Einkünfte;\nd) das verwertbare Vermögen.\n1a) Bei Personen, die Anspruch auf einen Rentenvorbezug haben, wird die Sozialhilfe nach Massgabe des Rentenbetrags gekürzt, wenn sie mehr als zwei Jahre arbeitslos sind und seit mindestens einem Jahr Sozialhilfe beziehen. Das Amt für Soziale Dienste kann eine entsprechende Rentenberechnung durchführen lassen.\n2) Von einer Kürzung im Sinne von Abs. 1a wird abgesehen, wenn ein Anspruch auf eine Invalidenrente in Abklärung ist oder ein solcher bereits rechtskräftig zuerkannt wurde."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "III. Ausmass der wirtschaftlichen Sozialhilfe",
+      "section": "25",
+      "title": "Art. 25 b) Ausnahmen",
+      "content": "Bei Bemessung des zumutbaren Einsatzes der eigenen Mittel sind ausser Betracht zu lassen: a) einmalige zweckgebundene oder regelmässige freiwillige Zuwendungen Dritter, die für eine in der materiellen Grundsicherung nicht enthaltene Leistungsposition ausgerichtet werden. Dies gilt nicht, wenn sie zur Finanzierung von überhöhten Lebenshaltungskosten oder Luxusausgaben geleistet werden oder die wirtschaftliche Lage des Hilfsbedürftigen so günstig beeinflussen, dass deren Nichtanrechnung ungerechtfertigt wäre;\nb) die zur Erzielung des Einkommens notwendigen Ausgaben;\nc) der den Lebensverhältnissen des Hilfsbedürftigen angemessene Hausrat;\nd) Gegenstände, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder Erwerbstätigkeit notwendig sind;\ne) ein eigenes Haus oder eine Eigentumswohnung, das dem Hilfsbedürftigen, seinem Ehegatten, seinem eingetragenen Partner oder seinen unterhaltsberechtigten Kindern als Unterkunft dient;\nf) Vermögensbestandteile, deren Verwertung für den Hilfsbedürftigen, seinen Ehegatten, seinen eingetragenen Partner oder seine unterhaltsberechtigten Kinder eine besondere Härte darstellen würde;\ng) Gegenstände, die zur Befriedigung geistiger, wissenschaftlicher oder künstlerischer Bedürfnisse dienen und deren Besitz nicht als Luxus anzusehen ist;\nh) kleine Bargeldbeträge oder kleinere Sachwerte.\nIIIa. Stationäre Betreuung"
+    },
+    {
+      "provision_ref": "art25a",
+      "chapter": "IIIa. Stationäre Betreuung",
+      "section": "25a",
+      "title": "Art. 25a Grundsatz",
+      "content": "1) Soweit nachfolgend nichts anderes bestimmt ist, finden auf die Fälle der stationären Betreuung die Grundsätze des Sozialhilfegesetzes und dieser Verordnung, insbesondere die Bestimmungen über das Ausmass der wirtschaftlichen Sozialhilfe, sinngemäss Anwendung.\n2) Die stationäre Betreuung von Hilfsbedürftigen umfasst: a) Betreuungs- und Pflegeleistungen; sowie\nb) Therapien, welche für Hilfsbedürftige in stationären Einrichtungen erbracht werden."
+    },
+    {
+      "provision_ref": "art25b",
+      "chapter": "IIIa. Stationäre Betreuung",
+      "section": "25b",
+      "title": "Art. 25b Durchführung von Abklärungen",
+      "content": "1) Ist eine stationäre Betreuung eines Hilfsbedürftigen notwendig, so führt das Amt für Soziale Dienste Abklärungen im Sinne von Art. 7a Abs. 1 des Sozialhilfegesetzes durch. Die behandelnden Ärzte und sonstige involvierte Stellen haben das Amt für Soziale Dienste bei der Durchführung der erforderlichen Abklärungen zu unterstützen.\n2) Das Amt für Soziale Dienste hat die Wirksamkeit der getroffenen Massnahme regelmässig zu überprüfen."
+    },
+    {
+      "provision_ref": "art25c",
+      "chapter": "IIIa. Stationäre Betreuung",
+      "section": "25c",
+      "title": "Art. 25c Kostenbeitrag",
+      "content": "1) Das Amt für Soziale Dienste gewährt auf Antrag vorbehaltlich der Anrechnung eigener Mittel (Art. 25f) und der Leistungspflicht anderer Kostenträger (Art. 25f ) einen finanziellen Beitrag an die Kosten einer stationären Betreuung eines Hilfsbedürftigen, wenn: a) die stationäre Betreuung des Hilfsbedürftigen notwendig und erforderlich ist;\nb) der Leistungserbringer zur Durchführung der Betreuung geeignet ist; und\nc) die Kosten der stationären Betreuung im Vergleich zu den Kosten der Alters- und Pflegeheime, die von der öffentlichen Hand geführt werden, angemessen sind. Erfolgt die stationäre Betreuung nicht in einem Alters- oder Pflegeheim, legt das Amt für Soziale Dienste die Höhe des jeweiligen finanziellen Beitrages an die Kosten der stationären Betreuung im Einzelfall fest. Die den Kostenbeitrag des Amtes für Soziale Dienste übersteigenden Kosten sind vom Hilfsbedürftigen selbst zu tragen. Der individuelle Betreuungsbedarf ist jeweils zu berücksichtigen.\n2) Der Anspruch auf einen Kostenbeitrag für die stationäre Betreuung entsteht frühestens im Monat der Antragstellung; der Beitrag kann jedoch rückwirkend für höchstens drei Monate gewährt werden.\n3) Es besteht kein Anspruch auf die Gewährung eines Kostenbeitrages an die Kosten einer stationären Betreuung im Ausland, wenn im Inland eine angemessene Betreuung zur Verfügung steht, die in Bezug auf Qualität und Kosten gleichwertig ist.\n4) Kostenbeiträge nach Abs. 1 sind nicht rückerstattungspflichtig."
+    },
+    {
+      "provision_ref": "art25d",
+      "chapter": "IIIa. Stationäre Betreuung",
+      "section": "25d",
+      "title": "Art. 25d Dauer des Aufenthaltes",
+      "content": "1) Das Amt für Soziale Dienste erstellt zu Beginn der Unterbringung eines Hilfsbedürftigen in einer stationären Einrichtung eine Prognose über die Dauer des Aufenthaltes.\n2) Je nach Dauer des Aufenthaltes wird unterschieden zwischen: a) kurzfristigen Aufenthalten bis drei Monate;\nb) mittelfristigen Aufenthalten bis zwölf Monate;\nc) langfristigen Aufenthalten von mehr als zwölf Monaten.\n3) Bei mehreren Aufenthalten innerhalb eines Jahres aufgrund derselben Indikation ist die Gesamtdauer der Aufenthalte massgebend.\nEinsatz der eigenen Mittel\nArt. 25e a) Grundsatz\nDas Amt für Soziale Dienste prüft nach Massgabe von Art. 25f, ob und in welcher Höhe eigene Mittel des Hilfsbedürftigen zur Deckung der Kosten für eine stationäre Betreuung anzurechnen sind."
+    },
+    {
+      "provision_ref": "art25f",
+      "chapter": "IIIa. Stationäre Betreuung",
+      "section": "25f",
+      "title": "Art. 25f b) Umfang der Anrechnung",
+      "content": "1) Bei kurzfristigen Aufenthalten in einer stationären Einrichtung werden in der Regel keine eigenen Mittel des Hilfsbedürftigen angerechnet.\n2) Bei mittelfristigen Aufenthalten in einer stationären Einrichtung werden die eigenen Mittel nach Massgabe von Art. 24 und 25 angerechnet, wobei: a) Aufgehoben\nb) dem Hilfsbedürftigen bei den Kosten für Kost und Logis eigene Mittel in Höhe von höchstens 1 500 Franken pro Monat angerechnet werden; bei den Kosten für therapeutische Massnahmen bleiben die eigenen Mittel ausser Betracht.\n3) Bei langfristigen Aufenthalten in einer stationären Einrichtung werden dem Hilfsbedürftigen eigene Mittel in der Höhe des Tagsatzes angerechnet, welcher in einem von der Liechtensteinischen Alters- und Krankenhilfe geführten Heim zu leisten ist, zuzüglich einer allfälligen Hilflosenentschädigung sowie von Beiträgen der Krankenpflegeversicherung und sonstiger Sozialversicherungsträger.\n4) Sind eigene Mittel anzurechnen, erfolgt die Anrechnung für die gesamte Dauer des Aufenthaltes.\n5) Aus triftigen Gründen, insbesondere bei der Rehabilitation von jungen Erwachsenen, kann von den Grundsätzen nach Abs. 1 bis 4 zu Gunsten des Hilfsbedürftigen abgewichen werden.\n6) Ist der Hilfsbedürftige zur Leistung der eigenen Mittel nach Abs. 3 nicht in der Lage, so kann ihm zu deren Finanzierung wirtschaftliche Hilfe gewährt werden. Leistungen der wirtschaftlichen Hilfe sind nach Massgabe von Art. 17 des Sozialhilfegesetzes rückerstattungspflichtig."
+    },
+    {
+      "provision_ref": "art25g",
+      "chapter": "IIIa. Stationäre Betreuung",
+      "section": "25g",
+      "title": "Art. 25g Koordination",
+      "content": "Das Amt für Soziale Dienste sorgt für die Koordination der Unterstützungsleistungen zwischen den verschiedenen Trägern der Sozial- und Sozialhilfeleistungen.\nIV. Vorschüsse auf Unterhaltsbeiträge"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "IV. Vorschüsse auf Unterhaltsbeiträge",
+      "section": "26",
+      "title": "Art. 26 Inkassohilfe",
+      "content": "1) Das Amt für Soziale Dienste kann zur Durchführung der Inkassohilfe ein Inkassobüro oder eine zur berufsmässigen Parteienvertretung befugte Person beiziehen.\n2) Sofern es nicht aussichtslos erscheint, ist die Eintreibung ausständiger Unterhaltsbeiträge durch Zwangsvollstreckung zu versuchen. Die durch Eintreibungsversuche inklusive gerichtlicher Verfahren entstehenden Vertretungs- und Gerichtskosten sind dem Hilfsbedürftigen vorzustrecken.\n3) Die durch Eintreibungsversuche entstehenden Vertretungs- und Gerichtskosten sind nach Massgabe von Art. 27 Abs. 1 des Sozialhilfegesetzes je zur Hälfte vom Staat und den Gemeinden zu tragen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "IV. Vorschüsse auf Unterhaltsbeiträge",
+      "section": "27",
+      "title": "Art. 27 Höhe der Unterhaltsbeiträge",
+      "content": "1) Für die Beurteilung der wirtschaftlichen Notwendigkeit der zu gewährenden Vorschüsse auf Unterhaltsbeiträge sind die Richtsätze gemäss den Art. 20 ff. anzuwenden.\n2) Die Höhe der Vorschüsse auf Unterhaltsbeiträge ist im Ausmass der gerichtlich festgelegten Unterhaltsbeiträge festzusetzen, wobei jedoch der Betrag der höchsten einfachen Waisen- bzw. Witwenrente der Alters- und Hinterlassenenversicherung nicht überschritten werden darf.\nV. Unterhaltspflicht der Angehörigen und Kostenrückerstattung"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "V. Unterhaltspflicht der Angehörigen und Kostenrückerstattung",
+      "section": "28",
+      "title": "Art. 28 Unterhaltspflicht der Angehörigen",
+      "content": "Das Amt für Soziale Dienste überprüft, ob Angehörige zur Unterstützung des Hilfsbedürftigen verpflichtet sind. Wenn die Verhältnisse dies rechtfertigen, können unterstützungspflichtige Angehörige zur Hilfe aufgefordert und zwischen ihnen und den Hilfsbedürftigen vermittelt werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "V. Unterhaltspflicht der Angehörigen und Kostenrückerstattung",
+      "section": "29",
+      "title": "Art. 29 Kostenrückerstattung",
+      "content": "1) Die Kostenrückerstattung ist dann zumutbar, wenn sich die finanziellen Verhältnisse des Hilfsbedürftigen derart günstig verändert haben, dass er in der Lage ist, Rückzahlungen ohne Beeinträchtigung seines Lebensunterhaltes zu leisten, oder wenn die Voraussetzungen zur Rückerstattung nach Art. 15 des Sozialhilfegesetzes erfüllt sind.\n2) Die Rückerstattungsforderungen sind unverzinslich, ausgenommen bei unrechtmässigem Bezug der Sozialhilfe.\nVI. Private Träger der Sozialhilfe"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VI. Private Träger der Sozialhilfe",
+      "section": "30",
+      "title": "Art. 30 Grundsatz",
+      "content": "1) Aufgehoben\n2) Aufgehoben\n3) Über Förderungsbeiträge an private Träger der Sozialhilfe entscheidet die Regierung. Die Regierung entscheidet auch, welcher private Träger zu fördern ist, wenn mehrere Antragsteller die Förderungsvoraussetzungen erfüllen und die von ihnen vorgesehenen Massnahmen gleichermassen geeignet sind, zur Befriedigung des Bedarfs beizutragen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "VI. Private Träger der Sozialhilfe",
+      "section": "31",
+      "title": "Art. 31 Träger",
+      "content": "Als private Träger der Sozialhilfe kommen sowohl Vereine, Interessengemeinschaften, Arbeitskreise oder juristische Personen anderer Art mit gemeinnützigem Charakter in Frage als auch Privatpersonen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VI. Private Träger der Sozialhilfe",
+      "section": "32",
+      "title": "Art. 32 Förderungsvoraussetzungen",
+      "content": "1) Die Gewährung einer Förderung im Sinne von Art. 24 Abs. 3 des Sozialhilfegesetzes ist an folgende Voraussetzungen gebunden: a) Nachweis des Bedarfs für die vom privaten Träger beabsichtigte oder bereits getätigte Sozialhilfe;\nb) Erbringungen einer angemessenen Eigenleistung, wobei die Finanzkraft und die besonderen Verhältnisse zu berücksichtigen sind;\nc) Gewährleistung der Koordination mit den zuständigen staatlichen Organen der Sozialhilfe;\nd) Gewährleistung der Durchführung der Sozialhilfe nach fachlich einwandfreien Gesichtspunkten und Gewährleistung der systematischen Auswertung der geleisteten Sozialhilfe durch den Träger und die mit der Durchführung beauftragten Personen;\ne) der Hauptzweck des privaten Trägers muss den Zielsetzungen der Sozialhilfe entsprechen;\nf) die Organisation und Führung des privaten Trägers muss betriebswirtschaftlichen Grundsätzen entsprechen.\n2) Aufgehoben"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VI. Private Träger der Sozialhilfe",
+      "section": "33",
+      "title": "Art. 33 Förderungsformen",
+      "content": "1) Zuschüsse können laufend oder einmalig gewährt werden.\n2) Folgende Arten von Unkosten können durch Förderungsbeiträge unterstützt werden: a) Personalkosten, wobei die allgemein übliche Besoldungshöhe für entsprechendes Fachpersonal massgeblich ist;\nb) Kosten für den allgemeinen Betriebsaufwand wie Ausgaben für Büroräumlichkeiten und Büroeinrichtungen, allgemeine Büroauslagen und Ausgaben für Fachmaterial. Der Aufwand soll dabei in einem vernünftigen Verhältnis zur Grösse der Organisation und der erbrachten Leistung stehen;\nc) Fortbildungskosten, Kosten von Veranstaltungen, Werbekosten.\n3) Nicht förderungsberechtigt im Rahmen der Sozialhilfe sind insbesondere Baukosten."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VI. Private Träger der Sozialhilfe",
+      "section": "34",
+      "title": "Art. 34 Förderungsgesuch",
+      "content": "1) Förderungsgesuche sind bis zum 30. Juni des Vorjahres dem Amt für Soziale Dienste zur Begutachtung einzureichen. Bei erstmaligen Gesuchen sind Unterlagen, die über die Organisationsform Auskunft geben, einzureichen. Das Amt für Soziale Dienste kann weitere Unterlagen anfordern.\n2) Gesuchen um laufende Zuschüsse sind beizulegen: a) Jahresbericht des abgelaufenen Jahres;\nb) Bilanz und Erfolgsrechnung des abgelaufenen Jahres;\nc) Budget des laufenden und des kommenden Betriebsjahres.\n3) Gesuche um einmalige Zuschüsse haben Auskunft zu geben über: a) Zielsetzung und Begründung der einmaligen Aktion oder des Projektes;\nb) Dauer der Aktion oder des Projektes;\nc) Auswertungskriterien;\nd) Kostenvoranschlag und Finanzierungsplan.\n4) Das Amt für Soziale Dienste überprüft die Gesuche und leitet diese mit einem Begleitbericht an die Regierung weiter.\nVII. Von der öffentlichen Hand geführte Alters- und Pflegeheime"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VII. Von der öffentlichen Hand geführte Alters- und Pflegeheime",
+      "section": "35",
+      "title": "Art. 35 Übernahme von Betriebsdefiziten",
+      "content": "1) Das Land und die Gemeinden übernehmen das Betriebsdefizit eines von der öffentlichen Hand geführten Alters- und Pflegeheims, wenn die angebotenen Leistungen: a) dem tatsächlichen Bedarf entsprechen; soweit eine Bedarfsplanung des Landes für Leistungen im Bereich von Alters- und Pflegeheimen besteht, ist diese für die Beurteilung des tatsächlichen Bedarfs massgebend;\nb) den Grundsätzen der Wirtschaftlichkeit entsprechen; die Regierung kann das Erreichen bestimmter Wirkungsziele und Vergleichsgrössen vorschreiben, das von der betreffenden Einrichtung nachzuweisen ist;\nc) die massgebenden Qualitätsstandards erfüllen; die Regierung kann Qualitätsstandards festlegen oder die von anderen öffentlichen oder privaten Einrichtungen festgelegten Qualitätsstandards für massgebend erklären.\n2) Als Alters- und Pflegeheime im Sinne von Abs. 1 gelten: a) die von der Liechtensteinischen Alters- und Krankenhilfe geführten Heime;\nb) Heime, die von einer Gemeinde direkt oder indirekt über eine von ihr beherrschte Institution geführt werden.\n3) Die Entscheidung über die Übernahme eines Betriebsdefizits obliegt der Regierung. Auf das Verfahren ist Art. 34 sinngemäss anwendbar.\nVIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art35a",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "35a",
+      "title": "Art. 35a",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "36",
+      "title": "Art. 36 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\nÜbergangs- und Inkrafttretensbestimmungen\n851.01 Verordnung zum Sozialhilfegesetz\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2007 Nr. 365 ausgegeben am 21. Dezember 2007\nVerordnung\nvom 18. Dezember 2007\nüber die Abänderung der Verordnung zum Sozialhilfegesetz\n...\nII.\nÜbergangsbestimmung\nAuf die im Zeitpunkt des Inkrafttretens dieser Verordnung hängigen Verfahren findet das neue Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2016 Nr. 180 ausgegeben am 28. April 2016\nVerordnung\nvom 26. April 2016\nüber die Abänderung der Verordnung zum Sozialhilfegesetz\n...\nII.\nÜbergangsbestimmungen\n1) Auf die im Zeitpunkt des Inkrafttretens dieser Verordnung hängige Gesuche um Ausrichtung von Sozialhilfeleistungen findet das neue Recht Anwendung.\n2) Auf laufende Unterstützungsfälle findet das neue Recht ab dem 1. Januar 2017 Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2020 Nr. 462 ausgegeben am 18. Dezember 2020\nVerordnung\nvom 15. Dezember 2020\nüber die Abänderung der Sozialhilfeverordnung\nAufgrund von Art. 31 des Sozialhilfegesetzes (SHG) vom 15. November 1984, LGBl. 1985 Nr. 17, verordnet die Regierung:\n...\nII.\nÜbergangsbestimmung\nAuf die im Zeitpunkt des Inkrafttretens dieser Verordnung hängigen Verfahren findet das neue Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2022 Nr. 408 ausgegeben am 20. Dezember 2022\nVerordnung\nvom 13. Dezember 2022\nüber die Abänderung der Sozialhilfeverordnung\n...\nII.\nÜbergangsbestimmung\n1) Auf im Zeitpunkt des Inkrafttretens dieser Verordnung hängige Verfahren findet das neue Recht Anwendung.\n2) Diese Verordnung findet auch auf Fälle Anwendung, in denen Anspruchsberechtigten Pauschalbeträge nach Art. 35a für das Jahr 2023 erst nach dem 31. Dezember 2023 ausgerichtet werden.\nIII.\nInkrafttreten und Geltungsdauer\n1) Diese Verordnung tritt am 1. Januar 2023 in Kraft.\n2) Art. 35a gilt bis zum 31. Dezember 2023.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2023 Nr. 432 ausgegeben am 24. November 2023\nVerordnung\nvom 21. November 2023\nüber die Abänderung der Sozialhilfeverordnung\n...\nII.\nÜbergangsbestimmung\nAuf im Zeitpunkt des Inkrafttretens dieser Verordnung hängige Verfahren findet das neue Recht Anwendung.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2025 Nr. 529 ausgegeben am 7. November 2025\nVerordnung\nvom 4. November 2025\nüber die Abänderung der Sozialhilfeverordnung\n...\nII.\nÜbergangsbestimmung\nAuf im Zeitpunkt des Inkrafttretens dieser Verordnung hängige Verfahren findet das neue Recht Anwendung.\n...\n1\nTitel abgeändert durch LGBl. 2018 Nr. 433 .\n2\nIngress abgeändert durch LGBl. 2021 Nr. 270 .\n3\nÜberschrift vor Art. 1 abgeändert durch LGBl. 2025 Nr. 529 .\n4\nArt. 1 abgeändert durch LGBl. 2025 Nr. 529 .\n5\nArt. 1a eingefügt durch LGBl. 2025 Nr. 529 .\n6\nÜberschrift vor Art. 1b eingefügt durch LGBl. 2025 Nr. 529 .\n7\nArt. 1b eingefügt durch LGBl. 2025 Nr. 529 .\n8\nSachüberschrift vor Art. 12 eingefügt durch LGBl. 2007 Nr. 365 .\n9\nArt. 12 Sachüberschrift abgeändert durch LGBl. 2007 Nr. 365 .\n10\nArt. 12 Abs. 3 aufgehoben durch LGBl. 2012 Nr. 224 .\n11\nArt. 12a eingefügt durch LGBl. 2007 Nr. 365 .\n12\nArt. 13 abgeändert durch LGBl. 2021 Nr. 270 .\n13\nArt. 14 aufgehoben durch LGBl. 2018 Nr. 433 .\n14\nArt. 14a aufgehoben durch LGBl. 2018 Nr. 433 .\n15\nArt. 15 Sachüberschrift abgeändert durch LGBl. 2001 Nr. 25 .\n16\nArt. 15 Abs. 1 abgeändert durch LGBl. 2012 Nr. 7 .\n17\nArt. 15 Abs. 2 aufgehoben durch LGBl. 2016 Nr. 180 .\n18\nArt. 16 abgeändert durch LGBl. 2012 Nr. 7 .\n19\nArt. 16 Abs. 3 eingefügt durch LGBl. 2016 Nr. 180 .\n20\nÜberschrift vor Art. 17 eingefügt durch LGBl. 2018 Nr. 433 .\n21\nArt. 17 abgeändert durch LGBl. 2018 Nr. 433 .\n22\nArt. 18 Sachüberschrift abgeändert durch LGBl. 2012 Nr. 7 .\n23\nArt. 18 Abs. 1 abgeändert durch LGBl. 2012 Nr. 224 .\n24\nArt. 18 Abs. 1a eingefügt durch LGBl. 2018 Nr. 433 .\n25\nArt. 18 Abs. 2 abgeändert durch LGBl. 2018 Nr. 433 .\n26\nÜberschrift vor Art. 19 abgeändert durch LGBl. 2012 Nr. 7 .\n27\nArt. 19 Abs. 3 abgeändert durch LGBl. 2012 Nr. 7 .\n28\nSachüberschrift vor Art. 20 eingefügt durch LGBl. 2007 Nr. 365 .\n29\nArt. 20 abgeändert durch LGBl. 2007 Nr. 365 .\n30\nArt. 20a eingefügt durch LGBl. 2007 Nr. 365 .\n31\nArt. 20a Abs. 1 Bst. i abgeändert durch LGBl. 2016 Nr. 180 .\n32\nArt. 20a Abs. 2 abgeändert durch LGBl. 2023 Nr. 432 .\n33\nArt. 20b eingefügt durch LGBl. 2007 Nr. 365 .\n34\nArt. 20c eingefügt durch LGBl. 2007 Nr. 365 .\n35\nArt. 20d eingefügt durch LGBl. 2007 Nr. 365 .\n36\nArt. 20e eingefügt durch LGBl. 2007 Nr. 365 .\n37\nArt. 20e Abs. 3 abgeändert durch LGBl. 2016 Nr. 180 .\n38\nArt. 20e Abs. 5 aufgehoben durch LGBl. 2016 Nr. 180 .\n39\nArt. 20e Abs. 6 abgeändert durch LGBl. 2016 Nr. 180 .\n40\nArt. 21 aufgehoben durch LGBl. 2018 Nr. 433 .\n41\nArt. 22 Sachüberschrift abgeändert durch LGBl. 2007 Nr. 365 .\n42\nArt. 22 Abs. 1 abgeändert durch LGBl. 2016 Nr. 180 .\n43\nArt. 22 Abs. 1 Bst. a abgeändert durch LGBl. 2023 Nr. 432 .\n44\nArt. 22 Abs. 1 Bst. d eingefügt durch LGBl. 2025 Nr. 529 .\n45\nArt. 22 Abs. 1a eingefügt durch LGBl. 2016 Nr. 180 .\n46\nArt. 22 Abs. 1b eingefügt durch LGBl. 2016 Nr. 180 .\n47\nArt. 22 Abs. 2 abgeändert durch LGBl. 2007 Nr. 365 .\n48\nArt. 22 Abs. 2 Bst. b abgeändert durch LGBl. 2016 Nr. 180 .\n49\nArt. 22 Abs. 2 Bst. c eingefügt durch LGBl. 2016 Nr. 180 .\n50\nArt. 22 Abs. 2 Bst. d eingefügt durch LGBl. 2016 Nr. 180 .\n51\nArt. 22 Abs. 3 abgeändert durch LGBl. 2012 Nr. 7 .\n52\nArt. 23 abgeändert durch LGBl. 2018 Nr. 433 .\n53\nSachüberschrift vor Art. 24 eingefügt durch LGBl. 2025 Nr. 529 .\n54\nArt. 24 Sachüberschrift abgeändert durch LGBl. 2025 Nr. 529 .\n55\nArt. 24 Abs. 1 Bst. b abgeändert durch LGBl. 1999 Nr. 85 .\n56\nArt. 24 Abs. 1 Bst. bbis eingefügt durch LGBl. 2025 Nr. 529 .\n57\nArt. 24 Abs. 1 Bst. d eingefügt durch LGBl. 2025 Nr. 529 .\n58\nArt. 24 Abs. 1a abgeändert durch LGBl. 2025 Nr. 529 .\n59\nArt. 24 Abs. 2 abgeändert durch LGBl. 2025 Nr. 529 .\n60\nArt. 25 Sachüberschrift eingefügt durch LGBl. 2025 Nr. 529 .\n61\nArt. 25 Bst. a abgeändert durch LGBl. 2025 Nr. 529 .\n62\nArt. 25 Bst. e abgeändert durch LGBl. 2025 Nr. 529 .\n63\nArt. 25 Bst. f abgeändert durch LGBl. 2025 Nr. 529 .\n64\nÜberschrift vor Art. 25a eingefügt durch LGBl. 2012 Nr. 7 .\n65\nArt. 25a abgeändert durch LGBl. 2025 Nr. 529 .\n66\nArt. 25b abgeändert durch LGBl. 2025 Nr. 529 .\n67\nArt. 25c abgeändert durch LGBl. 2025 Nr. 529 .\n68\nArt. 25d eingefügt durch LGBl. 2012 Nr. 7 .\n69\nArt. 25d Abs. 3 abgeändert durch LGBl. 2025 Nr. 529 .\n70\nSachüberschrift vor Art. 25e eingefügt durch LGBl. 2012 Nr. 7 .\n71\nArt. 25e abgeändert durch LGBl. 2025 Nr. 529 .\n72\nArt. 25f eingefügt durch LGBl. 2012 Nr. 7 .\n73\nArt. 25f Abs. 2 Bst. a aufgehoben durch LGBl. 2025 Nr. 529 .\n74\nArt. 25f Abs. 3 abgeändert durch LGBl. 2025 Nr. 529 .\n75\nArt. 25f Abs. 6 eingefügt durch LGBl. 2025 Nr. 529 .\n76\nArt. 25fbis eingefügt durch LGBl. 2025 Nr. 529 .\n77\nArt. 25g eingefügt durch LGBl. 2012 Nr. 7 .\n78\nArt. 26 Abs. 1 abgeändert durch LGBl. 2007 Nr. 365 .\n79\nArt. 26 Abs. 3 eingefügt durch LGBl. 2007 Nr. 365 .\n80\nArt. 28 abgeändert durch LGBl. 2012 Nr. 224 .\n81\nArt. 29 Abs. 2 abgeändert durch LGBl. 2018 Nr. 433 .\n82\nArt. 30 abgeändert durch LGBl. 1990 Nr. 24 .\n83\nArt. 30 Abs. 1 aufgehoben durch LGBl. 2018 Nr. 433 .\n84\nArt. 30 Abs. 2 aufgehoben durch LGBl. 2018 Nr. 433 .\n85\nArt. 31 abgeändert durch LGBl. 1990 Nr. 24 .\n86\nArt. 32 Sachüberschrift eingefügt durch LGBl. 1990 Nr. 24 .\n87\nArt. 32 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2018 Nr. 433 .\n88\nArt. 32 Abs. 1 eingefügt durch LGBl. 1990 Nr. 24 .\n89\nArt. 32 Abs. 2 aufgehoben durch LGBl. 2018 Nr. 433 .\n90\nArt. 33 eingefügt durch LGBl. 1990 Nr. 24 .\n91\nArt. 34 Sachüberschrift eingefügt durch LGBl. 1990 Nr. 24 .\n92\nArt. 34 Abs. 1 abgeändert durch LGBl. 2001 Nr. 25 .\n93\nArt. 34 Abs. 2 abgeändert durch LGBl. 1990 Nr. 24 .\n94\nArt. 34 Abs. 3 abgeändert durch LGBl. 1990 Nr. 24 .\n95\nArt. 34 Abs. 4 abgeändert durch LGBl. 2001 Nr. 25 .\n96\nÜberschrift vor Art. 35 eingefügt durch LGBl. 2012 Nr. 7 .\n97\nArt. 35 eingefügt durch LGBl. 2012 Nr. 7 .\n98\nÜberschrift vor Art. 35a eingefügt durch LGBl. 2022 Nr. 408 .\n99\nArt. 35a aufgehoben durch LGBl. 2022 Nr. 408 .\n100\nArt. 36 eingefügt durch LGBl. 2012 Nr. 7 .\n101\nInkrafttreten: 1.1.2008.\n102\nInkrafttreten: 1. Juni 2016.\n103\nInkrafttreten: 1. März 2021.\n104\nInkrafttreten: 1. Januar 2024.\n105\nInkrafttreten: 1. Januar 2026."
+    }
+  ],
+  "definitions": []
+}

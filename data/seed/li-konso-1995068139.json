@@ -1,0 +1,22 @@
+{
+  "id": "li-konso-1995068139",
+  "type": "statute",
+  "title": "Protokoll 39 über die ECU",
+  "title_en": "",
+  "short_name": "LGBl 1995.068",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/1995068139",
+  "description": "Protokoll 39 über die ECU",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "über die ECU",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Als \"ECU\" im Sinne dieses Abkommens gilt die von den zuständigen Gemeinschaftsbehörden festgelegte ECU. Die Bezeichnung \"Europäische Rechnungseinheit\" wird in allen Rechtsakten, auf die in den Anhängen zum Abkommen Bezug genommen wird, durch \"ECU\" ersetzt."
+    }
+  ],
+  "definitions": []
+}

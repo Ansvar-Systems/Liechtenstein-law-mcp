@@ -1,0 +1,81 @@
+{
+  "id": "li-konso-2011328000",
+  "type": "statute",
+  "title": "Abkommen zwischen der Regierung des F&uuml;rstentums Liechtenstein und dem Schweizerischen Bundesrat betreffend den Anschluss der Landespolizei des F&uuml;rstentums Liechtenstein an das schweizerische Meldungsvermittlungssystem \"VULPUS-Telematik\"",
+  "title_en": "",
+  "short_name": "LGBl 2011.328",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/2011328000",
+  "description": "Abkommen zwischen der Regierung des Fürstentums Liechtenstein und dem Schweizerischen Bundesrat betreffend den Anschluss der Landespolizei des Fürstentums Liechtenstein an das schweizerische Meldungsvermittlungssystem \"VULPUS-Telematik\"",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Zweck",
+      "content": "Dieses Abkommen regelt unter Wahrung der hoheitlichen Befugnisse der Vertragsparteien die Bedingungen für die Nutzung einer Teilnehmerausrüstung VULPUS (nachfolgend TLNA) durch die liechtensteinische Landespolizei (nachfolgend Landespolizei)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Abgabe einer TLNA an die Landespolizei",
+      "content": "1) Die Schweizerische Eidgenossenschaft stellt der Landespolizei eine TLNA für den Anwendungsbereich dieses Abkommens zur Verfügung. Die Ab- und Rückgabe erfolgt gegen Unterschrift. Die TLNA bleibt dabei im Eigentum der Schweizerischen Eidgenossenschaft.\n2) Die Schweizerische Eidgenossenschaft gewährt der Landespolizei den für den Anwendungsbereich dieses Abkommens notwendigen Zugang zu den VULPUS Benutzergruppen \"POLIZEI\" und \"ALARMIERUNG NATIONAL\".\n3) Die Schweizerische Eidgenossenschaft ist berechtigt, die TLNA jederzeit zurückzufordern, wenn dies aus technischen Gründen erforderlich ist."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Allgemeine Behandlungsgrundsätze",
+      "content": "Die Landespolizei verpflichtet sich, folgende Behandlungsgrundsätze in Bezug auf die TLNA einzuhalten:\na) sie sorgt für einen gesicherten Standort der TLNA; insbesondere ist der Schutz vor Diebstahl und Verlust zu gewährleisten;\nb) sie gewährleistet, dass die TLNA während 365/7 Tagen im Jahr 24 Stunden in Betrieb ist;\nc) sie beschränkt den Zugang zur TLNA auf Personen, welche diesen in Ausübung ihrer amtlichen oder dienstlichen Funktion oder bei der Wahrnehmung von Verpflichtungen gemäss diesem Abkommen benötigen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Anforderungen und Auflagen an das VULPUS-Personal",
+      "content": "1) Wer die TLNA bedient, muss über die notwendige Ausbildung verfügen.\n2) Es dürfen durch das TLNA-/Informatik-Personal der Landespolizei keine Hard- oder Softwaremodifikationen an der TLNA vorgenommen werden. Es ist untersagt, die TLNA-Hardware zu öffnen oder auf innere Komponenten zuzugreifen.\n3) Die Landespolizei muss über ein Notfallkonzept für den Schutz und die Zerstörung der TLNA im Falle von Ausnahmesituationen verfügen, welches in Zusammenarbeit mit der Betriebsleitstelle VULPUS (nachfolgend BLS) erstellt wird."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Zwischenfälle und Meldungen von Verlust und Diebstahl",
+      "content": "Die Landespolizei meldet alle Zwischenfälle, insbesondere über den Verlust und/oder den Diebstahl der TLNA, umgehend der BLS."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6 Wartung und Unterhalt",
+      "content": "1) Die BLS ist für den Unterhalt und die Wartung der TLNA der Landespolizei verantwortlich.\n2) Die Landespolizei gewährt dem autorisierten schweizerischen Wartungs- und Unterhaltspersonal auf Anfrage jederzeit Zugriff auf die TLNA."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7 Kosten",
+      "content": "1) Die TLNA wird der Landespolizei unentgeltlich zur Verfügung gestellt. Die Schweizerische Eidgenossenschaft trägt die Kosten aller nötigen Unterhalts- und Wartungsarbeiten an der TLNA gemäss Art. 6 dieses Abkommens. Sie übernimmt auch die Betriebskosten der Primärverbindung (Mietleitung).\n2) Die Regierung des Fürstentums Liechtenstein trägt die Kosten für die Bereitstellung der lokalen Installationen für die Primärverbindung und die Sekundärverbindung (ISDN-Leitung) sowie für den Betrieb der TLNA und der Sekundärleitung."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8 Sicherheitsmassnahmen",
+      "content": "1) Personen, welche Zugang zur TLNA oder zu den damit übermittelten klassifizierten Informationen benötigen, müssen über eine für die entsprechende Klassifizierung gültige Sicherheitserklärung nach liechtensteinischem Recht verfügen sowie den Nachweis erbringen, dass sie vom System VULPUS und/oder den damit verbundenen klassifizierten Informationen Kenntnis haben müssen.\n2) Mit dem System VULPUS übermittelte Meldungen, welche klassifizierte Informationen enthalten, dürfen nur Personen zugänglich gemacht werden, welche personensicherheitsgeprüft sind und von den Informationen unbedingt Kenntnis haben müssen. Vor der Übermittlung von GEHEIM klassifizierten Informationen stellt der Absender sicher, dass beim Empfänger das entsprechend zugelassene Bedienpersonal die Meldung entgegennimmt.\n3) Ausgedruckte oder auf externe Datenträger übertragene klassifizierte Informationen sind in Sicherheitsbehältnissen aufzubewahren. Die Sicherheitsbehältnisse sind in für Nichtberechtigte nicht zugänglichen, mit Sicherheitsschloss abgeschlossenen Räumen zu lagern."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9 Streitbelegung",
+      "content": "Streitigkeiten über die Anwendung und Auslegung dieses Abkommens werden durch Verhandlungen gütlich beigelegt und nicht zur Schlichtung an Dritte verwiesen."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10 Geltungsdauer und Kündigung",
+      "content": "Dieses Abkommen wird auf unbestimmte Zeit geschlossen. Es kann von den Parteien unter Einhaltung einer Kündigungsfrist von sechs Monaten auf Ende eines Kalenderjahres gekündigt werden."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11 Inkrafttreten",
+      "content": "Dieses Abkommen tritt am Tag nach seiner Unterzeichnung in Kraft.\nZu Urkund dessen haben die Bevollmächtigten dieses Abkommen mit ihrer Unterschrift versehen.\nGeschehen in St. Luziensteig, in doppelter Ausfertigung in deutscher Sprache, am 10. August 2011.\nFür die\nRegierung des Fürstentums\nLiechtenstein:\nFür den\nSchweizerischen Bundesrat:\ngez.\nHugo Quaderer\ngez.\nUeli Maurer"
+    }
+  ],
+  "definitions": []
+}

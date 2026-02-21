@@ -9,7 +9,8 @@
  */
 
 const USER_AGENT = 'Ansvar-Law-MCP/1.0 (legal-data-ingestion; contact: hello@ansvar.ai)';
-const MIN_DELAY_MS = 1500;
+const parsedDelay = Number.parseInt(process.env.GESETZE_MIN_DELAY_MS ?? '1500', 10);
+const MIN_DELAY_MS = Number.isFinite(parsedDelay) && parsedDelay >= 1000 ? parsedDelay : 1500;
 
 let lastRequestAt = 0;
 

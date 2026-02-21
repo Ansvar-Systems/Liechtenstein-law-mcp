@@ -1,0 +1,750 @@
+{
+  "id": "li-konso-1996076000",
+  "type": "statute",
+  "title": "Gemeindegesetz (GemG) vom 20. März 1996",
+  "title_en": "",
+  "short_name": "LGBl 1996.076",
+  "status": "in_force",
+  "issued_date": "1996-03-20",
+  "in_force_date": "1996-03-20",
+  "url": "https://www.gesetze.li/konso/1996076000",
+  "description": "Gemeindegesetz (GemG) vom 20. März 1996",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Geltungsbereich",
+      "content": "1) Dieses Gesetz regelt den Bestand, die Aufgaben und die Organisation der politischen Gemeinden. Sie werden in diesem Gesetz und weiteren Erlassen als \"Gemeinden\" bezeichnet.\n2) Wo im Gesetz die männliche Form einer Personenbezeichnung verwendet wird, ist darunter auch die weibliche Form zu verstehen.\n3) Für Bürgergenossenschaften gelten besondere gesetzliche Bestimmungen. Das vorliegende Gesetz findet auf sie Anwendung, soweit dies ausdrücklich bestimmt ist."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bestand",
+      "content": "Das Fürstentum Liechtenstein umfasst die Gemeinden Vaduz, Balzers, Planken, Schaan, Triesen und Triesenberg in der Landschaft Vaduz (Oberland) und Eschen, Gamprin, Mauren, Ruggell und Schellenberg in der Landschaft Schellenberg (Unterland)."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriff",
+      "content": "Die Gemeinden sind Gebietskörperschaften des öffentlichen Rechts. Sie umfassen das durch ihre Gemeindegrenzen bestimmte Gebiet und üben in den Grenzen ihrer gesetzlichen Zuständigkeit die Hoheit über alle in ihrem Gebiet befindlichen Personen und Sachen aus."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Autonomie",
+      "content": "Die Gemeinden ordnen und verwalten in ihrem eigenen Wirkungskreis ihre Angelegenheiten unter Aufsicht des Staates selbständig. Sie besorgen im übertragenen Wirkungskreis Aufgaben des Staates."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Politische Rechte",
+      "content": "Die politischen Rechte in der Gemeinde umfassen das Stimmrecht, das aktive und passive Wahlrecht sowie das Recht der Initiative und des Referendums."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Art. 6 Änderung von Gemeindegrenzen",
+      "content": "Änderungen von Gemeindegrenzen erfolgen durch Gesetz. Ein solches Gesetz kann nur erlassen werden, wenn die beteiligten Gemeinden in übereinstimmenden Beschlüssen der Gemeindeversammlungen eine solche Massnahme beschliessen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Art. 7 Zweckverbände",
+      "content": "1) Gemeinden können zur gemeinsamen Erfüllung öffentlicher Aufgaben Zweckverbände bilden oder bestehenden beitreten.\n2) Der Zweckverband entsteht durch Vereinbarung der Gemeinden über den Verband und die Genehmigung der Vereinbarung durch die Regierung.\n3) Die Vereinbarung hat die für eine zweckdienliche und sachgerechte Aufgabenerfüllung erforderlichen Angaben zu enthalten. Es sind insbesondere die Kündigung und Auflösung sowie deren Folgen zu regeln."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "8",
+      "title": "Art. 8 Name, Wappen, Farben und Siegel",
+      "content": "1) Die Gemeinden führen ihre überkommenen Namen und die vom Landesfürsten verliehenen Wappen, Farben und Siegel.\n2) Änderungen des Namens erfolgen durch Gesetz, wenn die Gemeindeversammlung eine solche Massnahme beschliesst.\n3) Die Gemeinden sind berechtigt, in einem Reglement nähere Bestimmungen zur Führung und Verwendung der Gemeindewappen und Gemeindeflaggen zu erlassen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "9",
+      "title": "Art. 9 Gemeindeordnung; Reglemente",
+      "content": "1) Die Gemeinden legen die Rechte und Pflichten der Einwohner, die Organisation der Behörden und das Verfahren vor den Behörden, soweit nicht gesetzliche Regelungen bestehen, in der Gemeindeordnung fest.\n2) Im Rahmen der Gemeindeordnung können bestimmte Aufgabenbereiche durch Reglemente geordnet und übertragen werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "10",
+      "title": "Art. 10 Ortspolizeiliche Vorschriften",
+      "content": "Die Gemeinden können, soweit nicht gesetzliche Bestimmungen entgegenstehen, Vorschriften zur Abwehr oder Beseitigung von Missständen erlassen, die das örtliche Gemeinschaftsleben stören. Sie können die Nichtbeachtung oder Übertretung der Vorschriften als strafbar erklären und mit Bussen bis zu 10 000 Franken belegen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "11",
+      "title": "Art. 11 Amtliche Kundmachungen",
+      "content": "1) Die Gemeinden legen in einem Reglement fest, wie Beschlüsse und Anordnungen, die gemäss Gesetz oder mit Rücksicht auf schützenswerte Interessen veröffentlicht werden müssen, amtlich kundzumachen sind.\n2) Die amtliche Kundmachung erfolgt durch Veröffentlichung auf der Webseite der Behörde während einer Dauer von 14 Tagen oder durch schriftliche Mitteilung an jeden Betroffenen. Sie kann zusätzlich erfolgen durch:\na) Aufnahme in ein Mitteilungsblatt der Gemeinde, das in alle Haushaltungen verteilt wird;\nb) Anzeige in amtlichen Publikationsorganen;\nc) Übermittlung in Radio und Fernsehen.\n2a) Allgemein verbindliche Beschlüsse von Gemeindeorganen müssen jedenfalls während ihrer gesamten Geltungsdauer öffentlich zugänglich sein.\n3) Weitere in Gesetzen geforderte Publikationsarten bleiben vorbehalten.\nII. Aufgaben"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Aufgaben",
+      "section": "12",
+      "title": "Art. 12 Eigener Wirkungskreis",
+      "content": "1) Der eigene Wirkungskreis der Gemeinde umfasst alles, was das Interesse der Gemeinde zunächst berührt und in erheblichem Umfang durch sie geordnet und verwaltet werden kann. Darüber hinaus kann die Gemeinde Aufgaben in freier Selbstverwaltung wahrnehmen, insoweit gesetzliche Beschränkungen nicht entgegenstehen.\n2) In den eigenen Wirkungskreis fallen insbesondere:\na) die Wahl der Gemeindeorgane;\nb) die Organisation der Gemeinde;\nc) die Verleihung des Gemeindebürgerrechts;\nd) die Verwaltung des Gemeindevermögens sowie die Errichtung öffentlicher Bauten und Anlagen;\ne) die Erhebung von Umlagen und Festsetzung von Steuerzuschlägen;\nf) die Förderung des sozialen, kulturellen und religiösen Lebens, einschliesslich der Personen-, Familien- und genealogischen Forschung sowie der Führung und Veröffentlichung von Familienchroniken und Biografien;\ng) die Errichtung und Erhaltung von Kindergärten und Primarschulen;\nh) die Aufrechterhaltung von Ruhe, Sicherheit und Ordnung;\ni) die Ortsplanung;\nk) die Wasserversorgung sowie die Abwasser- und Abfallentsorgung."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Aufgaben",
+      "section": "13",
+      "title": "Art. 13 Übertragener Wirkungskreis",
+      "content": "1) Der übertragene Wirkungskreis umfasst Angelegenheiten des Staates, welche die Gemeinden aufgrund der Gesetze besorgen.\n2) Die Gemeinden sind verpflichtet, an der Vollziehung von Gesetzen mitzuwirken. Sie erhalten dazu die erforderlichen Mittel.\n3) Gesetze, welche die Mitwirkung der Gemeinden vorsehen, haben zu bestimmen, ob eine Angelegenheit zum eigenen oder übertragenen Wirkungskreis gehört.\nIII. Das Gemeindebürgerrecht"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "14",
+      "title": "Art. 14 Grundsatz",
+      "content": "Jeder Landesbürger muss Bürger einer Gemeinde sein, mit Ausnahme der Mitglieder des Fürstlichen Hauses. Es ist ausgeschlossen, mehr als einer Gemeinde als Bürger anzugehören oder überhaupt Gemeindebürger zu sein, ohne das Landesbürgerrecht zu besitzen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "15",
+      "title": "Art. 15 Inhalt",
+      "content": "Das Gemeindebürgerrecht verleiht dem Bürger das Heimatrecht der betreffenden Gemeinde. Das Heimatrecht umfasst namentlich das Recht auf Mitwirkung bei der Aufnahme von Bürgern anderer Gemeinden und von ausländischen Staatsbürgern ins Gemeindebürgerrecht und den Anspruch auf Ausstellung eines Heimatscheines.\nErwerb des Gemeindebürgerrechts\nArt. 16\nDas Gemeindebürgerrecht wird erworben:\na) durch Geburt, Annahme an Kindesstatt oder durch Auffinden eines Kindes unbekannter Abstammung (Findelkind);\nb) durch Aufnahme auf Antrag:\naa) des in der Gemeinde wohnhaften Landesbürgers;\nbb) des Kindes eines Gemeindebürgers;\nc) durch Aufnahme im erleichterten Verfahren infolge Eheschliessung, Begründung einer eingetragenen Partnerschaft, längerfristigem Wohnsitz oder Staatenlosigkeit;\nd) durch Aufnahme im ordentlichen Verfahren."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "17",
+      "title": "Art. 17 a) Geburt, Annahme an Kindesstatt und Auffinden eines Kindes unbekannter Abstammung (Findelkind)",
+      "content": "1) Das Gemeindebürgerrecht von Kindern liechtensteinischer Mütter und Väter und der Wahlkinder richtet sich nach dem Gemeindebürgerrecht desjenigen Elternteils, dessen Namen das Kind trägt.\n2) Besitzen nicht beide Elternteile das Landesbürgerrecht, so erwerben die Kinder das Gemeindebürgerrecht des liechtensteinischen Elternteils.\n3) Findelkinder erhalten das Gemeindebürgerrecht jener Gemeinde, in welcher sie aufgefunden werden.\nb) Aufnahme auf Antrag\nArt. 18\naa) In der Gemeinde wohnhafte Landesbürger\n1) Bürger einer anderen Gemeinde werden auf Antrag in das Gemeindebürgerrecht aufgenommen, wenn sie während der letzten fünf Jahre vor der Antragstelllung in dieser Gemeinde Wohnsitz gehabt haben und im Besitz der bürgerlichen Ehren und Rechte sind.\n2) Bei der Aufnahme des Antragstellers erwerben auch seine minderjährigen liechtensteinischen Kinder das Gemeindebürgerrecht, wenn die Kinder mit Zustimmung beider Elternteile in die Aufnahme einbezogen werden oder wenn nur ein Elternteil das Landesbürgerrecht besitzt.\n3) Über den Aufnahmeantrag entscheidet der Gemeinderat."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "19",
+      "title": "Art. 19 bb) Kinder von Gemeindebürgern",
+      "content": "1) Bürger einer anderen Gemeinde werden auf Antrag in das Gemeindebürgerrecht aufgenommen, wenn Vater oder Mutter Gemeindebürger sind.\n2) Der Aufnahmeantrag muss vom Antragsteller innert fünf Jahren nach Erreichen der Volljährigkeit gestellt werden.\n3) Bei der Aufnahme des Antragstellers erwerben auch seine minderjährigen liechtensteinischen Kinder das Gemeindebürgerrecht, wenn die Kinder mit Zustimmung beider Elternteile in die Aufnahme einbezogen werden oder wenn nur ein Elternteil das Landesbürgerrecht besitzt.\n4) Über den Aufnahmeantrag entscheidet der Gemeinderat."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "20",
+      "title": "Art. 20 c) Einbürgerungen durch Aufnahme im erleichterten Verfahren",
+      "content": "Ausländische Staatsbürger, welche durch Aufnahme im erleichterten Verfahren eingebürgert werden, erhalten das Gemeindebürgerrecht gemäss den Bestimmungen des Gesetzes über den Erwerb und Verlust des Landesbürgerrechtes."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "21",
+      "title": "Art. 21 d) Aufnahme im ordentlichen Verfahren",
+      "content": "1) Der Gemeinde steht das Recht zu, einem ausländischen Staatsbürger die Aufnahme als Gemeindebürger für den Fall der Verleihung des liechtensteinischen Landesbürgerrechts zuzusichern und ihn bei Erfüllung dieser Voraussetzung als Gemeindebürger aufzunehmen.\n2) Mit dem Bewerber erwerben auch sein Ehegatte und seine ehelichen minderjährigen Kinder oder sein eingetragener Partner das Gemeindebürgerrecht, sofern sie bei der Aufnahme ins Landesbürgerrecht einbezogen sind.\n3) Über die Aufnahme entscheiden die in der Gemeinde wohnhaften Gemeindebürger. Der Bewerber hat eine Verwaltungsgebühr zu entrichten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "22",
+      "title": "Art. 22 Verlust des Gemeindebürgerrechts",
+      "content": "Das Gemeindebürgerrecht wird verloren durch:\na) Verlust des Landesbürgerrechts;\nb) Erwerb des Gemeindebürgerrechts einer anderen Gemeinde."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "III. Das Gemeindebürgerrecht",
+      "section": "23",
+      "title": "Art. 23 Gemeindeehrenbürgerrecht",
+      "content": "1) Jede Gemeinde hat das Recht, das Gemeindeehrenbürgerrecht zu verleihen; über die Verleihung entscheiden die in der Gemeinde wohnhaften Gemeindebürger. Für die Verleihung an ausländische Staatsbürger gelten zudem die Bestimmungen des Gesetzes über den Erwerb und Verlust des Landesbürgerrechts betreffend das Ehrenbürgerrecht.\n2) Der Ehrenbürger einer Gemeinde hat das Recht, jederzeit in dieser Gemeinde Wohnsitz zu nehmen. Solange er dort Wohnsitz hat, stehen ihm die politischen Rechte in Gemeindeangelegenheiten zu. Das Ehrenbürgerrecht ist höchstpersönlich und birgt keine weiteren Rechte in sich; ein Anspruch auf Heimatschriften besteht nicht. Es ist zulässig, Ehrenbürger mehrerer Gemeinden zu sein.\nIV. Organisation\nA. Gemeindeversammlung\n1. Allgemeines"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "1. Allgemeines",
+      "section": "24",
+      "title": "Art. 24 Zusammensetzung",
+      "content": "Die Gemeindeversammlung wird aus den in der Gemeinde wohnhaften Stimmberechtigten gebildet."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "1. Allgemeines",
+      "section": "25",
+      "title": "Art. 25 Stellung, Aufgaben und Befugnisse",
+      "content": "1) Die Gemeindeversammlung ist das oberste Organ der Gemeinde.\n2) Die Gemeindeversammlung hat folgende Aufgaben und Befugnisse:\na) Erlass der Gemeindeordnung und der Reglemente, die Rechte und Pflichten mit Strafsanktionen begründen;\nb) Wahl des Gemeindevorstehers und der übrigen Mitglieder des Gemeinderates;\nc) Wahl der Geschäftsprüfungskommission;\nd) Wahl jener Kommissionen, die nach Gesetz durch die Gemeindeversammlung zu bestellen sind;\ne) Aufgehoben;\nf) Bewilligung von neuen einmaligen und jährlich wiederkehrenden Ausgaben;\ng) Übernahme von Bürgschaften und Gewährung von Garantien;\nh) Errichtung von Gemeindeanstalten;\ni) Beteiligung an privaten oder gemischtwirtschaftlichen Unternehmen;\nk) Beitritt zu oder Austritt aus Zweckverbänden;\nl) Änderungen im Bestand der Gemeinde oder deren Grenzen;\nm) Errichtung grösserer Gemeindeanlagen und Bauwerke;\nn) Beschlussfassung über Referenden (Art. 41) und Initiativen (Art. 42).\n3) In der Gemeindeordnung wird festgelegt, ob die Beschlussfassung über Reglemente, die Rechte und Pflichten mit Strafsanktionen begründen (Abs. 2 Bst. a), die Errichtung von Gemeindeanstalten (Abs. 2 Bst. h) und die Mitgliedschaft in Zwecksverbänden (Abs. 2 Bst. k) in die Zuständigkeit der Gemeindeversammlung oder des Gemeinderates fällt.\n4) Aufgaben und Befugnisse gemäss Abs. 2 Bst. f (Bewilligung von Ausgaben), Bst. g (Bürgschaften und Garantien), Bst. i (Unternehmensbeteiligungen) und Bst. m (Bauvorhaben) fallen nur dann in die Zuständigkeit der Gemeindeversammlung, wenn die zu bewilligenden einmaligen Ausgaben 35 % der betrieblichen Erträge übersteigen. Die Bewilligung jährlich wiederkehrender Ausgaben fällt in die Zuständigkeit der Gemeindeversammlung, wenn die Ausgaben 20 % der betrieblichen Erträge übersteigen. Massgebend sind jeweils die betrieblichen Erträge der Erfolgsrechnung des Vorjahres abzüglich interner Verrechnungen und Rückerstattungen.\n5) Die Gemeindeversammlung übt die Aufsicht über Gemeindebehörden und sämtliche Zweige der Gemeindeverwaltung einschliesslich der Gemeindeanstalten aus."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "1. Allgemeines",
+      "section": "26",
+      "title": "Art. 26 Beschlussfassung",
+      "content": "In allen Fällen, wo dieses oder ein anderes Gesetz die Einberufung oder Abhaltung einer Gemeindeversammlung oder eine Entscheidung der in der Gemeinde wohnhaften Gemeindebürger vorsieht, kann der Gemeinderat stattdessen eine Urnenabstimmung anordnen.\n2. Versammlung"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "2. Versammlung",
+      "section": "27",
+      "title": "Art. 27 Einberufung, Verhandlungsfähigkeit",
+      "content": "1) Die Gemeindeversammlung wird über Beschluss des Gemeinderates vom Gemeindevorsteher einberufen.\n2) Die Gemeindeversammlung ist verhandlungsfähig, wenn sie ordnungsgemäss einberufen worden ist."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "2. Versammlung",
+      "section": "28",
+      "title": "Art. 28 Aufbieten, Beschlussfassung",
+      "content": "1) Spätestens zwei Wochen vor der Gemeindeversammlung sind die Stimmberechtigten vom Gemeindevorsteher durch Zustellung der Stimmrechtsausweise und der Traktandenliste mit den Anträgen und den allfälligen Erläuterungen aufzubieten. Die Beratungs- und Abstimmungsunterlagen sind öffentlich aufzulegen.\n2) Beschluss kann nur über ordnungsgemäss angekündigte Verhandlungsgegenstände gefasst werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "2. Versammlung",
+      "section": "29",
+      "title": "Art. 29 Vorsitz",
+      "content": "1) Der Gemeindevorsteher hat den Vorsitz und leitet die Verhandlungen. Bei Verhinderung vertritt ihn sein Stellvertreter und bei dessen Verhinderung das an Lebensjahren älteste Mitglied des Gemeinderates.\n2) Der Vorsitzende prüft die Stimmberechtigung und die Zahl der Anwesenden. Er sorgt für die Aufrechterhaltung von Ruhe und Ordnung."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "2. Versammlung",
+      "section": "30",
+      "title": "Art. 30 Öffentlichkeit",
+      "content": "Die Gemeindeversammlung ist öffentlich. Der Vorsitzende kann aus wichtigen Gründen die Teilnahme nichtstimmberechtigter Personen untersagen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Versammlung",
+      "section": "31",
+      "title": "Art. 31 Anträge, Abstimmungen",
+      "content": "1) Jeder Stimmberechtigte kann zu dem in Behandlung stehenden Sachgeschäft das Wort verlangen und Antrag zur Sache oder zur Geschäftsordnung stellen.\n2) Abstimmungen werden offen vorgenommen, wenn nicht mindestens ein Achtel der anwesenden Stimmberechtigten oder fünfzehn der anwesenden Stimmberechtigten eine geheime Abstimmung verlangen. Zur Gültigkeit einer Abstimmung genügt die einfache Mehrheit der gültigen Stimmen, soweit nicht gesetzlich etwas anderes vorgeschrieben ist.\n3) Wahlen sind geheim. Zur Gültigkeit von Wahlen genügt die relative Stimmenmehrheit, soweit nicht gesetzlich etwas anderes vorgeschrieben ist."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Versammlung",
+      "section": "32",
+      "title": "Art. 32 Vorschlagsrecht",
+      "content": "1) Jeder Stimmberechtigte ist befugt, der Versammlung die Überweisung eines neuen Gegenstandes an den Gemeinderat zum Bericht und Antrag vorzuschlagen.\n2) Der vom Gemeinderat zu prüfende Gegenstand ist auf die Traktandenliste der nächsten Versammlung zu setzen. Ist dies nicht möglich, so sind ihr die Gründe darzulegen."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "2. Versammlung",
+      "section": "33",
+      "title": "Art. 33 Anfragerecht",
+      "content": "Jeder Stimmberechtigte kann zur Tätigkeit der Gemeindebehörden und der Gemeindeverwaltung Anfragen stellen. Der Gemeindevorsteher hat dazu Stellung zu nehmen. Daran kann sich eine allgemeine Aussprache anschliessen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "2. Versammlung",
+      "section": "34",
+      "title": "Art. 34 Beschlüsse",
+      "content": "1) Die Gemeindeversammlung ist beschlussfähig, wenn ein Sechstel der Stimmberechtigten anwesend ist. Wird dieses Quorum nicht erreicht, so ist innerhalb von sechs Wochen eine zweite Gemeindeversammlung einzuberufen, welche unabhängig vom Quorum beschlussfähig ist.\n2) Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Bei Stimmengleichheit ist der Antrag angenommen, für den der Vorsitzende stimmt.\n3) Die Beschlüsse werden mit der Annahme durch die Stimmberechtigten rechtsgültig. Bedürfen die Beschlüsse der Genehmigung durch die Regierung, werden sie mit der Kundmachung rechtsgültig.\n3. Urnenabstimmung"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Urnenabstimmung",
+      "section": "35",
+      "title": "Art. 35 Wahlen",
+      "content": "Der Urnenabstimmung unterliegen die Wahlen des Gemeindevorstehers, der übrigen Mitglieder des Gemeinderates und der Geschäftsprüfungskommission."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "3. Urnenabstimmung",
+      "section": "36",
+      "title": "Art. 36 Sachgeschäfte",
+      "content": "Vor Urnenabstimmungen über Sachgeschäfte finden in der Regel, bei Initiativen jedenfalls auf Begehren der Initianten, vorgängig Informationsversammlungen statt. Die Stimmberechtigten müssen spätestens zwei Wochen vor der Abstimmung, bei vorgängigen Informationsversammlungen eine Woche davor, über das Sachgeschäft schriftlich informiert werden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "3. Urnenabstimmung",
+      "section": "37",
+      "title": "Art. 37 Verfahren",
+      "content": "An der Urne entscheiden die Stimmberechtigten nach den gleichen Bestimmungen, wie sie für Landesangelegenheiten gelten, wobei ein rechtsgültiger Beschluss nur zustande kommt, wenn ein Sechstel der Stimmberechtigten an der Abstimmung teilnimmt.\nB. Gemeinderat\n1. Zusammensetzung"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "1. Zusammensetzung",
+      "section": "38",
+      "title": "Art. 38 Mitgliederzahl",
+      "content": "1) Der Gemeinderat besteht aus dem Gemeindevorsteher und in Gemeinden mit\na) bis 1 500 Einwohnern aus sechs oder acht,\nb) bis 3 000 Einwohnern aus acht oder zehn,\nc) über 3 000 Einwohnern aus zehn oder zwölf\nweiteren Mitgliedern. Die Zahl ist in der Gemeindeordnung festzulegen.\n2) Für die Einwohnerzahl ist die letzte publizierte amtliche Einwohnerstatistik massgebend.\n2. Stellung"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "2. Stellung",
+      "section": "39",
+      "title": "Art. 39 Vertretung der Gemeinde",
+      "content": "Der Gemeinderat und der Gemeindevorsteher vertreten die Gemeinde nach Massgabe ihrer Befugnisse."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "2. Stellung",
+      "section": "40",
+      "title": "Art. 40 Aufgaben und Befugnisse",
+      "content": "1) Der Gemeinderat ist Führungs- und Vollzugsorgan der Gemeinde. Ihm stehen alle Befugnisse zu, die nicht einem anderen Organ übertragen sind.\n2) Dem Gemeinderat obliegen insbesondere:\na) Organisation der Verwaltung;\nb) Wahl von Kommissionen, sofern nicht die Gemeindeversammlung zuständig ist;\nc) Vorbereitung aller Geschäfte und die Antragstellung zuhanden der Gemeindeversammlung;\nd) Führung des Gemeindehaushaltes einschliesslich jenes von Gemeindeanstalten;\ne) Finanzplanung;\nf) Festlegung des Voranschlags und des Gemeindesteuerzuschlages sowie von Nachtrags-, Verpflichtungs- und Ergänzungskrediten;\ng) Genehmigung der Gemeinderechnung und Entlastung der Organe;\nh) Erlass von Bauordnung und Zonenplan;\ni) Festlegung von Auslagen und Einhebung von Umlagen;\nk) Vergebung öffentlicher Arbeiten und Lieferungen;\nl) Beschlussfassung über den Abschluss von Verträgen;\nm) Erlass von Reglementen, soweit sie nicht der Gemeindeversammlung vorbehalten sind;\nn) Bestellung des Gemeindepersonals und Festlegung der Besoldung;\no) Erteilung des Gemeindebürgerrechts an inländische Bewerber;\np) weitere ihm durch Gesetz oder von der Gemeindeversammlung übertragene Aufgaben.\n3) In der Gemeindeordnung wird festgelegt, ob die Beschlussfassung über die in Abs. 2 Bst. f (Voranschlag), Bst. g (Rechnung) und Bst. h (Ortsplanung) aufgeführten Aufgaben und Befugnisse in die Zuständigkeit der Gemeindeversammlung oder des Gemeinderates fällt.\n4) Der Gemeinderat führt die in Abs. 2 genannten Aufgaben in dem von der Gemeindeordnung festgelegten finanziellen Rahmen durch."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "2. Stellung",
+      "section": "41",
+      "title": "Art. 41 Referendum",
+      "content": "1) Ein Sechstel der Stimmberechtigten kann durch begründetes schriftliches Begehren die Behandlung von Beschlüssen des Gemeinderates in der Gemeindeversammlung verlangen, wenn sie den in der Gemeindeordnung festgelegten Höchstbetrag überschreiten, der sich von 100 000 Franken bis 300 000 Franken bewegen darf. Zu diesen Beschlüssen gehören:\na) der Ankauf von Grundstücken;\nb) die Errichtung von Gemeindeanlagen und Bauwerken;\nc) die Aufnahme von Darlehen oder die Übernahme von Bürgschaften;\nd) die Bewilligung von neuen einmaligen und jährlich wiederkehrenden Ausgaben;\ne) die Bewilligung von Nachtrags-, Verpflichtungs- und Ergänzungskrediten.\n2) Unabhängig von dem in der Gemeindeordnung festgelegten Höchstbetrag kann gegen folgende Beschlüsse des Gemeinderates ein Referendumsbegehren gestellt werden:\na) die Festlegung des Voranschlags und des Gemeindesteuerzuschlages;\nb) die Genehmigung der Gemeinderechnung und Entlastung der Organe;\nc) den Erlass von Zonenplan und Bauordnung;\nd) die Einleitung einer Baulandumlegung;\ne) die Einhebung von Umlagen;\nf) den Verkauf und Tausch von Grundstücken;\ng) die Bestellung von selbständigen Baurechten für eine Dauer von mehr als zehn Jahren.\n3) Referendumsbegehren sind spätestens 14 Tage nach Kundmachung des Beschlusses beim Gemeindevorsteher anzumelden. Die Frist zur Einreichung der erforderlichen Unterschriften beträgt einen Monat ab Kundmachung des Beschlusses.\n4) Referendumsfähige Beschlüsse des Gemeinderates müssen kundgemacht werden.\n5) Eine Gemeindeversammlung hat binnen vier Monaten nach Einreichung des Referendumsbegehrens stattzufinden. Das Verfahren richtet sich, mit Ausnahme der Beschlussfähigkeit, nach den Bestimmungen, wie sie für die Behandlung der Gegenstände gelten, die in den Zuständigkeitsbereich der Gemeindeversammlung fallen."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "2. Stellung",
+      "section": "42",
+      "title": "Art. 42 Initiative",
+      "content": "1) Ein Sechstel der Stimmberechtigten kann auf die in Art. 41 beschriebene Weise die Behandlung von Angelegenheiten, die dem Referendum unterstehen, in der Gemeindeversammlung verlangen.\n2) Die Initiative ist ausgeschlossen in Angelegenheiten, in denen die Referendumsfrist nach Art. 41 Abs. 3 ungenutzt abgelaufen ist oder bei denen ein Referendum zustande gekommen ist. Bei Bauordnungen und Zonenplänen sowie anderen Gemeinderatsbeschlüssen generell-abstrakter Natur ist die Initiative frühestens nach Ablauf von zwei Jahren seit Beschlussfassung zulässig."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "2. Stellung",
+      "section": "43",
+      "title": "Art. 43 Überprüfung von Initiativen und Referenden",
+      "content": "Der Gemeinderat überprüft unverzüglich, ob die formellen und materiellen Erfordernisse eines Initiativ- oder Referendumsbegehrens erfüllt sind. Er weist ein Begehren binnen einem Monat zurück, wenn es offensichtlich gesetzwidrig ist oder sich auf einen Gegenstand bezieht, welcher in die Zuständigkeit einer anderen Gemeindebehörde (unter Vorbehalt von Art. 42) oder einer Landesbehörde fällt.\n3. Wahl"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "3. Wahl",
+      "section": "44",
+      "title": "Art. 44 Anordnung",
+      "content": "Die Regierung ordnet die Wahl des Gemeinderates an und setzt den Wahltag im Monat März vor Ablauf der Amtsdauer fest."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "3. Wahl",
+      "section": "45",
+      "title": "Art. 45 Amtsdauer und -antritt",
+      "content": "1) Die Amtsdauer des Gemeinderates beträgt vier Jahre.\n2) Die Mitglieder des Gemeinderates treten ihr Amt am 1. Mai des Wahljahres an."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "3. Wahl",
+      "section": "46",
+      "title": "Art. 46 Ersatzwahl",
+      "content": "1) Wenn ein Mitglied während der Amtsdauer durch Tod, Wegzug, Verlust der Wahlfähigkeit, Entlassung wegen Krankheit oder Amtsenthebung, begründeten Rücktritt, der vom Gemeinderat zu genehmigen ist, oder infolge Ausschlusses aus dem Gemeinderat ausscheidet, rückt für den Rest der Amtsdauer innerhalb derselben Wahlliste jener Kandidat nach, der bei der letzten Wahl die unter den Nichtgewählten höchste Stimmenzahl erreicht hat.\n2) Es können nur solche Kandidaten in den Gemeinderat nachrücken, die nicht durch die Ausschlussgründe in Art. 47 von der Wahl in den Gemeinderat ausgeschlossen sind.\n3) Ist auf der betreffenden Wahlliste kein Kandidat mehr vorhanden, ist eine Ersatzwahl anzuordnen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "3. Wahl",
+      "section": "47",
+      "title": "Art. 47 Ausschluss",
+      "content": "1) Von der Wahl in den Gemeinderat sind ausgeschlossen:\na) Personen, die mit einem bereits gewählten Mitglied in gerader Linie oder bis zum dritten Grad der Seitenlinie verwandt sind;\nb) Personen, die mit einem bereits gewählten Mitglied verheiratet sind, in einer eingetragenen Partnerschaft leben, eine faktische Lebensgemeinschaft führen oder bis zum zweiten Grad verschwägert sind;\nc) Mitglieder der Regierung;\nd) Mitglieder des Verwaltungsgerichtshofes und des Staatsgerichtshofes;\ne) Bedienstete der Gemeindeverwaltung.\n2) Werden bei der gleichen Wahl in den Gemeinderat Kandidaten gewählt, die sich ausschliessen, so übernimmt der Kandidat mit der höchsten Stimmenzahl das Amt. Bei gleicher Stimmenzahl entscheidet das Los. Der Vorsitzende der Wahlkommission zieht das Los.\n3) Ein Mitglied des Gemeinderates, das mit dem Gemeindevorsteher verheiratet ist, in einer eingetragenen Partnerschaft lebt, eine faktische Lebensgemeinschaft führt oder gemäss Abs. 1 Bst. a und b verwandt oder verschwägert ist, scheidet aus dem Gemeinderat aus.\n4. Verhandlungen"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "4. Verhandlungen",
+      "section": "48",
+      "title": "Art. 48 Grundsätze",
+      "content": "1) Der Gemeinderat ist beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist.\n2) Für die Gültigkeit eines Beschlusses ist die Mehrheit der Stimmen der anwesenden Mitglieder erforderlich. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.\n3) Über die einzelnen Sitzungen ist ein Beschlussprotokoll zu führen und in der Regel allgemein zugänglich zu machen. Der Gemeinderat entscheidet über die Beschlüsse, die nicht der Öffentlichkeit zugänglich gemacht werden.\n4) Die Sitzungen des Gemeinderates sind in der Regel nicht öffentlich. Der Gemeinderat kann öffentliche Sitzungen beschliessen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "4. Verhandlungen",
+      "section": "49",
+      "title": "Art. 49 Einberufung, Vorsitz",
+      "content": "1) Der Gemeinderat ist nach Bedarf durch den Gemeindevorsteher einzuberufen. Ebenso hat eine Einberufung zu erfolgen, wenn wenigstens ein Drittel der Mitglieder des Gemeinderates eine Einberufung unter Angabe des Traktandums verlangt.\n2) Der Gemeindevorsteher leitet die Sitzungen. Er hat auf Verlangen über den Vollzug eines Gemeinderatsbeschlusses im Gemeinderat Auskunft zu geben."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "4. Verhandlungen",
+      "section": "50",
+      "title": "Art. 50 Ausstand",
+      "content": "Mitglieder des Gemeinderates haben in den Ausstand zu treten:\na) in Sachen, in welchen sie selbst Partei sind, oder wenn sie zu einer der Parteien in dem Verhältnis eines Mitberechtigten, Mitverpflichteten oder Rückgriffspflichtigen stehen;\nb) in Sachen ihrer Verlobten, ihrer Ehegatten, ihrer eingetragenen Partner, ihrer faktischen Lebenspartner oder Personen, welche mit ihnen in gerader Linie oder in der Seitenlinie bis zum dritten Grade verwandt sind oder mit ihnen bis zum zweiten Grade verschwägert sind;\nc) in Sachen ihrer Wahl- oder Pflegeeltern, ihrer Wahl- oder Pflegekinder, ihrer Mündel oder Pflegebefohlenen;\nd) in Sachen, in denen sie als Bevollmächtigte, Verwalter oder Geschäftsführer einer Partei oder in ähnlicher Art bestellt waren oder noch sind.\n5. Übertragung von Befugnissen"
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "5. Übertragung von Befugnissen",
+      "section": "51",
+      "title": "Art. 51 Delegation",
+      "content": "Der Gemeinderat kann Aufgaben von geringerer Bedeutung, die nicht zwingend von ihm selbst oder vom Gemeindevorsteher wahrgenommen werden müssen, mit Zustimmung des Gemeindevorstehers einzelnen Mitgliedern des Gemeinderates, Gemeindebediensteten oder Kommissionen übertragen. Die Aufsicht bleibt indessen beim Gemeinderat.\nC. Gemeindevorsteher"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "C. Gemeindevorsteher",
+      "section": "52",
+      "title": "Art. 52 Aufgaben",
+      "content": "1) Der Gemeindevorsteher leitet die Verwaltung, sorgt für den Vollzug der vom Gemeinderat gefassten Beschlüsse und beaufsichtigt Gemeindeanlagen und Bauwerke.\n2) Er sorgt für den Vollzug von Angelegenheiten des übertragenen Wirkungskreises nach Massgabe der Gesetze unter Aufsicht und Weisung der staatlichen Behörden.\n3) Der Gemeindevorsteher ist berechtigt, Ausgaben für den Gemeindehaushalt im Einzelfall bis zu 10 000 Franken vorzunehmen. In der Gemeindeordnung kann diese Kompetenz bis zu einem Betrag von 30 000 Franken erweitert werden.\n4) Er steht der örtlichen Polizei vor und sorgt für Ruhe, Sicherheit und Ordnung. Er trifft die dazu nötigen Anordnungen und verhängt aufgrund gesetzlicher oder ortspolizeilicher Vorschriften Bussen.\n5) Er erlässt in dringlichen Fällen die erforderlichen Anordnungen und erstattet darüber dem Gemeinderat an der nächsten Sitzung Bericht.\n6) Dem Gemeindevorsteher obliegt der Vollzug der Gemeindebauordnung. Er ist berechtigt, Teilentscheide im Rahmen des Koordinationsverfahrens gemäss Art. 78 des Baugesetzes zu vollziehen. Über Bauansuchen ausserhalb der Bauzone oder solche, welche eine oder mehrere Ausnahmen im Sinne der Bauordnung beanspruchen, entscheidet der Gemeinderat innerhalb der vorgesehenen Frist."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "C. Gemeindevorsteher",
+      "section": "53",
+      "title": "Art. 53 Vertretung",
+      "content": "Der Gemeindevorsteher vertritt die Gemeinde nach aussen in allen Zivilrechts- und Verwaltungsangelegenheiten. Er zeichnet die Geschäfte, die in seinen Aufgabenbereich fallen, und jene, die Angelegenheiten des Gemeinderates sind und für die ein Gemeinderatsbeschluss vorliegt, allein, alle anderen gemeinschaftlich mit einem Mitglied des Gemeinderates."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "C. Gemeindevorsteher",
+      "section": "54",
+      "title": "Art. 54 Innehaltung mit dem Vollzug",
+      "content": "Der Gemeindevorsteher kann mit der Vollziehung eines Beschlusses des Gemeinderates innehalten, wenn er meint, dass der Beschluss ein Gesetz verletze. Er hat dies ohne Verzug der Regierung anzuzeigen, welche, unbeschadet des Beschwerderechts einer Partei, über den Vollzug entscheidet."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "C. Gemeindevorsteher",
+      "section": "55",
+      "title": "Art. 55 Stellvertretung",
+      "content": "Der Gemeindevorsteher wird bei Verhinderung durch seinen Stellvertreter, wenn auch dieser verhindert ist, durch das an Lebensjahren älteste Mitglied des Gemeinderates vertreten.\nD. Geschäftsprüfungskommission"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "D. Geschäftsprüfungskommission",
+      "section": "56",
+      "title": "Art. 56 Wahl",
+      "content": "1) Die Gemeindeversammlung wählt innerhalb von sechs Monaten nach der Gemeinderatswahl eine Geschäftsprüfungskommission. Diese besteht aus drei Mitgliedern. Im Falle der dauernden Verhinderung eines Mitglieds wird eine Ersatzwahl durchgeführt. Die Gemeindeordnung kann Einzelheiten zu dieser Ersatzwahl festlegen.\n2) Die Geschäftsprüfungskommission wird für eine Amtsdauer von vier Jahren gewählt."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "D. Geschäftsprüfungskommission",
+      "section": "57",
+      "title": "Art. 57 Aufgaben",
+      "content": "1) Der Geschäftsprüfungskommission obliegt die laufende Kontrolle der Verwaltung und des Rechnungswesens der Gemeinde. Sie überprüft den Rechnungsabschluss und mindestens zweimal jährlich die finanzielle Gebarung. Sie berichtet überdies dem Gemeinderat über das Ergebnis ihrer Prüfung und stellt Antrag auf Genehmigung der Gemeinderechnung und Entlastung der Organe.\n2) Die Geschäftsprüfungskommission besitzt das Recht der Akteneinsicht und der Besichtigung aller Gemeindewerke. Die Behörden der Gemeinde sowie deren Bedienstete sind der Geschäftsprüfungskommission gegenüber auskunftspflichtig.\n3) Die Geschäftsprüfungskommission kann sich zur Kontrolle des Rechnungswesens der Dienste einer zugelassenen Wirtschaftsprüfungsgesellschaft bedienen.\n4) Die von der Geschäftsprüfungskommission beauftragte Wirtschaftsprüfungsgesellschaft und ihre zur Prüfung eingesetzten Mitarbeiter dürfen in keinem persönlichen Naheverhältnis zu einem Mitglied des Gemeinderates oder einem leitenden Bediensteten der Gemeinde stehen."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "D. Geschäftsprüfungskommission",
+      "section": "58",
+      "title": "Art. 58 Verhandlung",
+      "content": "Die Geschäftsprüfungskommission wählt aus ihrer Mitte den Vorsitzenden. Sie ist beschlussfähig, wenn wenigstens zwei Mitglieder anwesend sind. Für die Gültigkeit eines Beschlusses müssen wenigstens zwei Mitglieder zustimmen."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "D. Geschäftsprüfungskommission",
+      "section": "59",
+      "title": "Art. 59 Ausschluss",
+      "content": "1) Als Mitglied der Geschäftsprüfungskommission kann nicht gewählt werden, wer:\na) dem Gemeinderat angehört oder in der abgelaufenen Amtsperiode dem Gemeinderat angehört hat;\nb) mit dem Gemeindevorsteher, Vizevorsteher, Gemeindekassier oder Verwalter eines Gemeindegutes verheiratet ist, in eingetragener Partnerschaft lebt, eine faktische Lebensgemeinschaft führt oder bis zu dem in Art. 47 genannten Grade verwandt oder verschwägert ist;\nc) Bediensteter der Gemeindeverwaltung ist.\n2) Entsteht im Falle von Abs. 1 Bst. b erst nachträglich ein solcher Ausschliessungsgrund, so hat das betreffende Mitglied der Geschäftsprüfungskommission zurückzutreten.\nE. Andere Kommissionen"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "E. Andere Kommissionen",
+      "section": "60",
+      "title": "Art. 60 Kommissionen",
+      "content": "Der Gemeinderat kann neben den von Gesetzes wegen vorgeschriebenen Kommissionen auch weitere Kommissionen zur Besorgung von Aufgaben bestellen. Diese haben beratenden Charakter. Für die Übertragung von Aufgaben von geringerer Bedeutung gilt Art. 51.\nF. Gemeindebedienstete\n1. Allgemeines"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Allgemeines",
+      "section": "61",
+      "title": "Art. 61 Dienstverhältnisse; Benachteiligungsverbot; Mitwirkungsrechte",
+      "content": "1) Der Gemeinderat bestimmt den Aufgabenbereich der Gemeindebediensteten und regelt ihr Dienstverhältnis.\n2) Gemeindebedienstete dürfen als Reaktion auf eine Beschwerde wegen Verletzung von Rechten, die im Zusammenhang mit dem Dienstverhältnis stehen, oder auf die Einleitung eines Verfahrens zur Durchsetzung dieser Rechte nicht benachteiligt werden. Dies gilt auch dann, wenn Gemeindebedienstete als Zeugen oder als Auskunftspersonen in einem solchen Verfahren auftreten oder eine solche Beschwerde unterstützen. Bei einem Verstoss gegen das Benachteiligungsverbot ist dem betroffenen Gemeindebediensteten eine Entschädigung auszurichten. Die Entschädigung wird nach den Umständen des Einzelfalles festgelegt und beträgt höchstens zwei Monatslöhne.\n3) Den Gemeindebediensteten ist das Mitwirkungsrecht in allgemeinen Fragen der Gestaltung von Dienstverhältnissen zu gewährleisten. Sie können dieses Recht durch einen Verband oder persönlich wahrnehmen.\n4) Soweit die Gemeindebediensteten ihre Mitwirkungsrechte durch einen Verband wahrnehmen, kann der Verband mit Einwilligung der beschwerten Person diese in einem von ihr eingeleiteten Verfahren vertreten oder sich als Dritter am Rechtsstreit nach §§ 17 ff. der Zivilprozessordnung beteiligen."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "1. Allgemeines",
+      "section": "62",
+      "title": "Art. 62 Dienst- und Besoldungsreglement",
+      "content": "Die Gemeinden erlassen ein Dienst- und Besoldungsreglement."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "1. Allgemeines",
+      "section": "63",
+      "title": "Art. 63 Disziplinargewalt",
+      "content": "1) Dem Gemeinderat steht gegenüber den Gemeindebediensteten die Disziplinargewalt zu.\n2) Bei vorsätzlicher oder fahrlässiger Pflichtverletzung kann der Gemeinderat Disziplinarmassnahmen anordnen.\n3) Die Betroffenen sind vorher anzuhören."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "1. Allgemeines",
+      "section": "64",
+      "title": "Art. 64 Disziplinarmassnahmen",
+      "content": "1) Das Dienst- und Besoldungsreglement kann folgende Disziplinarmassnahmen vorsehen:\na) den mündlichen Verweis;\nb) die schriftliche Verwarnung;\nc) die Einstellung in der Gehaltsvorrückung;\nd) die Kürzung der Besoldung;\ne) die Versetzung oder Rückversetzung im Amt mit gleicher oder geringerer Besoldung;\nf) die Rückversetzung in die provisorische Anstellung;\ng) die Suspension unter Kürzung oder Einstellung der Besoldung;\nh) die Entlassung.\n2) Die Massnahmen nach Abs. 1 Bst. b bis h werden mit Verfügung angeordnet; ein mündlicher Verweis kann formlos erfolgen.\n2. Gemeindepolizisten"
+    },
+    {
+      "provision_ref": "art64a",
+      "chapter": "2. Gemeindepolizisten",
+      "section": "64a",
+      "title": "Art. 64a Stellung, Uniform und Ausweis",
+      "content": "1) Zur Unterstützung des Gemeindevorstehers beim Vollzug der ortspolizeilichen Aufgaben kann die Gemeinde einen oder mehrere Gemeindebedienstete als Gemeindepolizisten bestellen.\n2) Die Gemeindepolizisten üben ihren Dienst grundsätzlich uniformiert aus. Sie verwenden den Schriftzug \"Gemeindepolizei\". Die Uniform gilt als Ausweis.\n3) Die Gemeinde stellt den Gemeindepolizisten einen Dienstausweis aus. Der Dienstausweis ist stets mitzuführen. Die Gemeindepolizisten in Uniform weisen sich aus, wenn sie bei einer Amtshandlung darum ersucht werden und es die Umstände zulassen."
+    },
+    {
+      "provision_ref": "art64b",
+      "chapter": "2. Gemeindepolizisten",
+      "section": "64b",
+      "title": "Art. 64b Persönliche Voraussetzungen sowie Aus- und Weiterbildung",
+      "content": "1) Gemeindepolizisten müssen über folgende persönliche Voraussetzungen verfügen:\na) Landesbürgerrecht oder Daueraufenthalts- oder Niederlassungsbewilligung für Liechtenstein;\nb) Mündigkeit;\nc) körperliche und geistige Eignung sowie Unbescholtenheit.\n2) Sie sind verpflichtet, die vorgeschriebene Aus- und Weiterbildung zu absolvieren. Die Gemeinde hat für eine angemessene und regelmässige Aus- und Weiterbildung der Gemeindepolizisten zu sorgen.\n3) Die Regierung regelt das Nähere über die Aus- und Weiterbildung der Gemeindepolizisten mit Verordnung."
+    },
+    {
+      "provision_ref": "art64c",
+      "chapter": "2. Gemeindepolizisten",
+      "section": "64c",
+      "title": "Art. 64c Aufgaben",
+      "content": "1) Den Gemeindepolizisten obliegen:\na) der Vollzug der ortspolizeilichen Vorschriften der Gemeinde auf Anordnung des Gemeindevorstehers;\nb) die Mitwirkung bei der Aufrechterhaltung der öffentlichen Sicherheit und Ordnung, indem sie Massnahmen treffen oder vorbereiten, um unmittelbar drohende Gefährdungen oder eingetretene Störungen abzuwehren (Gefahrenabwehr) und künftige Gefahren zu verhindern (Gefahrenvorsorge); sie haben allfälligen Anweisungen der Landespolizei Folge zu leisten;\nc) die Ausführung des Verwaltungszwangs in Gemeindeverwaltungssachen auf Anordnung des Gemeindevorstehers;\nd) weitere ihnen durch den Gemeinderat oder den Gemeindevorsteher übertragene Aufgaben.\n2) Sie vollziehen ferner im Auftrag des Gemeindevorstehers verwaltungspolizeiliche Aufgaben, die der Gemeinde durch die Gesetzgebung übertragen sind."
+    },
+    {
+      "provision_ref": "art64d",
+      "chapter": "2. Gemeindepolizisten",
+      "section": "64d",
+      "title": "Art. 64d Polizeiliche Grundsätze und polizeiliche Befugnisse",
+      "content": "1) Die Grundsätze polizeilichen Handelns nach Art. 21 bis 23a des Polizeigesetzes gelten sinngemäss für die Gemeindepolizisten.\n2) Vorbehaltlich besonderer Bestimmungen stehen den Gemeindepolizisten zur Erfüllung ihrer Aufgaben folgende Befugnisse zu:\na) Identitätsfeststellung von Personen nach Massgabe von Art. 24 des Polizeigesetzes;\nb) Befragung von Personen nach Massgabe von Art. 24b Abs. 1 des Polizeigesetzes;\nc) Wegweisung und Fernhaltung von Personen nach Art. 24f des Polizeigesetzes;\nd) Durchsuchung von Personen nach Massgabe von Art. 25 Abs. 1 Bst. a, c, e und g sowie Abs. 2 des Polizeigesetzes;\ne) Betreten nicht öffentlich zugänglicher Grundstücke nach Art. 25b Abs. 1 des Polizeigesetzes;\nf) Sicherstellung von Sachen und Vermögenswerten nach Massgabe von Art. 25c des Polizeigesetzes.\n3) Die Gemeindepolizisten können eine Person, bei der der Verdacht besteht, eine gerichtlich strafbare Handlung begangen zu haben, oder nach der wegen einer solchen Handlung gefahndet wird, bis zur Übergabe an die Landespolizei vorläufig anhalten. Die Landespolizei ist unverzüglich zu verständigen.\n4) Die Gemeindepolizisten sind berechtigt, zur Durchsetzung ihrer Befugnisse nach Abs. 2 und 3 Zwang gegen Personen oder Sachen anzuwenden, wenn dies für die Aufgabenerfüllung erforderlich ist und weniger schwerwiegende Massnahmen sich nicht eignen. Sie können dazu auch geeignete Hilfsmittel einsetzen, insbesondere Handfesseln und Pfefferspray.\n5) Der Gemeinderat kann gestützt auf eine Gefahrenanalyse beschliessen, dass die Gemeindepolizisten bei entsprechender Aus- und Weiterbildung zum Zweck der Notwehr und Notwehrhilfe (§ 3 StGB) eine Faustfeuerwaffe tragen."
+    },
+    {
+      "provision_ref": "art64e",
+      "chapter": "2. Gemeindepolizisten",
+      "section": "64e",
+      "title": "Art. 64e Beizug von Gemeindepolizisten anderer Gemeinden und Dritten",
+      "content": "1) Gemeinden können vereinbaren, dass Gemeindepolizisten einer anderen Gemeinde zur Hilfeleistung beigezogen werden können. Die beigezogenen Gemeindepolizisten sind in diesem Fall einem örtlich zuständigen Gemeindepolizisten gleichgestellt. Ihre Handlungen gelten als solche der um Hilfeleistung ersuchenden Gemeinde.\n2) Die Gemeinden können zu ihrer Unterstützung private Sicherheitsfirmen beiziehen und mit nicht hoheitlichen Aufgaben betrauen. Den Mitarbeitern privater Sicherheitsfirmen stehen dabei keine polizeilichen Befugnisse nach Art. 64d zu; sie dürfen jedoch ermahnen, vermitteln und schlichten.\nG. Archiv"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "G. Archiv",
+      "section": "65",
+      "title": "Art. 65 Einrichtung eines Archivs",
+      "content": "1) Jede Gemeinde richtet ein vor Schäden und Einbruch gesichertes Archiv ein.\n2) Alle wichtigen Datenbestände einer Gemeinde, die für die laufende Verwaltung nicht mehr benützt werden, sind zu archivieren.\nV. Wahlen und Abstimmungen\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "66",
+      "title": "Art. 66 Wahl- und Stimmrecht",
+      "content": "1) Das Wahl- und Stimmrecht berechtigt und verpflichtet, an Wahlen und Abstimmungen sowie an Gemeindeversammlungen teilzunehmen.\n2) Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die Ausübung des aktiven und passiven Wahl- und Stimmrechts die gleichen Bestimmungen wie in Landesangelegenheiten.\n3) Das Wahl- und Stimmrecht kann nur in der Gemeinde ausgeübt werden, in der man seinen Wohnsitz hat."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "67",
+      "title": "Art. 67 Wahlen und Abstimmungen",
+      "content": "1) Soweit dieses Gesetz nichts anderes bestimmt, gelten für die Durchführung von Wahlen und Abstimmungen die gleichen Bestimmungen wie in Landesangelegenheiten.\n2) Die Regierung ist ermächtigt, die Durchführung von Wahlen und Abstimmungen mit Verordnung zu regeln.\nB. Wahlen\n1. Wahl des Gemeindevorstehers\nVerfahren vor der Wahl\nArt. 68\na) Frist\nZum Gemeindevorsteher kann nur gewählt werden, wer spätestens sechs Wochen vor dem Wahltag der Wahlkommission in einem schriftlichen Wahlvorschlag namhaft gemacht worden ist."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "1. Wahl des Gemeindevorstehers",
+      "section": "69",
+      "title": "Art. 69 b) Wahlvorschlag",
+      "content": "1) Ein Wahlvorschlag muss zu seiner Gültigkeit die Bezeichnung der Wählergruppe tragen und von wenigstens doppelt so vielen in der Gemeinde stimmberechtigten Personen unterschrieben sein, wie in der betreffenden Gemeinde Gemeinderäte zu wählen sind. Diese dürfen weder einen zweiten Vorschlag unterzeichnen noch im gleichen Wahlvorschlag als Kandidaten aufgeführt werden.\n2) Nach Einreichung eines Wahlvorschlages kann eine Unterschrift nicht mehr zurückgezogen werden.\n3) Der Name eines Kandidaten darf nur in einem einzigen Wahlvorschlag stehen.\n4) Die fristgerecht eingegangenen, gültigen Wahlvorschläge sind von der Wahlkommission spätestens zwei Wochen vor dem Wahltag kundzumachen."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "1. Wahl des Gemeindevorstehers",
+      "section": "70",
+      "title": "Art. 70 c) Annahmeerklärung und Mitteilung der Streichungen",
+      "content": "1) Die Annahmeerklärung des Kandidaten muss dem Wahlvorschlag, in dem er namhaft gemacht worden ist, beiliegen.\n2) Steht der Name desselben Kandidaten in mehr als einem Wahlvorschlag, hat die Wahlkommission nach Ablauf der Eingabefrist dem mehrfach Vorgeschlagenen Abschriften der betreffenden Wahlvorschläge zuzustellen. Dieser hat sofort zu erklären, welchem Vorschlage er zugeteilt sein will. Geht in der ihm gesetzten Frist keine Erklärung ein, ist er durch Losentscheid einem Wahlvorschlag zuzuteilen und von den übrigen Wahlvorschlägen zu streichen. Der Vorsitzende der Wahlkommission zieht das Los.\n3) Die Wahlkommission benachrichtigt die Wählergruppen von der auf ihren Wahlvorschlägen erfolgten Streichung und teilt ihnen mit, dass binnen zwei Tagen von der Mitteilung an ein Ersatzvorschlag gemacht werden kann. Dem Ersatzvorschlag ist die schriftliche Erklärung des Vorgeschlagenen beizulegen, dass er die Kandidatur annimmt.\n4) Fehlt diese Erklärung oder steht der Vorgeschlagene schon auf einem Wahlvorschlag, ist der Ersatzvorschlag zurückzuweisen."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "1. Wahl des Gemeindevorstehers",
+      "section": "71",
+      "title": "Art. 71 Wahlverfahren",
+      "content": "1) Der Gemeindevorsteher wird mit der absoluten Mehrheit der gültigen Stimmen gewählt. Er tritt sein Amt am 1. Mai des Wahljahres an.\n2) Kommt keine gültige Wahl zustande, hat binnen vier Wochen unter den gleichen Kandidaten ein neuer Wahlgang stattzufinden, wobei ein Kandidat seine Kandidatur bzw. eine Wählergruppe mit Zustimmung des Vorgeschlagenen ihren Wahlvorschlag bis spätestens drei Wochen vor dem neuen Wahltag schriftlich vor der Wahlkommission zurückziehen kann. Scheidet infolge Todes während dieser Zeit ein Kandidat aus, so kann von der Wählergruppe, die ihn vorgeschlagen hatte, ein neuer Kandidat in Vorschlag gebracht werden.\n3) Im zweiten Wahlgang genügt die relative Mehrheit der gültigen Stimmen. Bei gleicher Stimmenzahl entscheidet das Los; der Vorsitzende der Wahlkommission zieht das Los.\n2. Wahl des Gemeinderates\na) Verfahren vor der Wahl"
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "72",
+      "title": "Art. 72 Frist zur Einreichung von Wahlvorschlägen",
+      "content": "Kandidaten für den Gemeinderat sind spätestens sechs Wochen vor dem Wahlgang der Wahlkommission in einem schriftlichen Wahlvorschlag namhaft zu machen."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "73",
+      "title": "Art. 73 Gültigkeit von Wahlvorschlägen",
+      "content": "1) Ein Wahlvorschlag muss zu seiner Gültigkeit die Bezeichnung der Wählergruppe tragen und von wenigstens doppelt so vielen, in der Gemeinde stimmberechtigten Personen unterschrieben sein, wie in der betreffenden Gemeinde Gemeinderäte zu wählen sind. Diese dürfen weder einen zweiten Wahlvorschlag unterzeichnen noch im gleichen Wahlvorschlag als Kandidaten aufgeführt werden.\n2) Eine Unterschrift kann nach Einreichung eines Wahlvorschlages nicht mehr zurückgezogen werden.\n3) Der Name eines Kandidaten darf nur in einem einzigen Wahlvorschlag stehen.\nBereinigung von Wahlvorschlägen\nArt. 74\na) Sich ausschliessende Kandidaten\nVerwandte, verheiratete, in eingetragener Partnerschaft oder in faktischer Lebensgemeinschaft lebende oder verschwägerte Kandidaten im Sinne von Art. 47 dürfen nicht auf demselben Wahlvorschlag stehen. Andernfalls hat die Wahlkommission nach Ablauf der Eingabefrist der betreffenden Wählergruppe davon Mitteilung zu machen. Diese hat in der ihr gesetzten Frist zu erklären, welchen Kandidaten sie zum Vorschlag bringen will. Geht keine solche Erklärung ein, ist von den sich ausschliessenden Kandidaten nur einer auf dem Wahlvorschlag zu belassen. Die übrigen sind in der Reihenfolge des Wahlvorschlages von unten nach oben zu streichen."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "75",
+      "title": "Art. 75 b) Mitteilung der Streichungen",
+      "content": "1) Die Wahlkommission benachrichtigt die Wählergruppe von den auf ihrem Wahlvorschlag erfolgten Streichungen und teilt ihr mit, dass binnen zwei Tagen von der Mitteilung an Ersatzvorschläge gemacht werden können. Den Ersatzvorschlägen ist die schriftliche Erklärung der Vorgeschlagenen beizulegen, dass sie die Kandidatur annehmen.\n2) Fehlt diese Erklärung oder steht der Vorgeschlagene schon auf einem Wahlvorschlag, ist der Ersatzvorschlag zurückzuweisen."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "76",
+      "title": "Art. 76 Annahmeerklärung",
+      "content": "1) Die Annahmeerklärung der Kandidaten muss dem Wahlvorschlag beiliegen, in dem sie namhaft gemacht worden sind.\n2) Steht der Name eines Kandidaten in mehr als einem Wahlvorschlag, hat die Wahlkommission nach Ablauf der Eingabefrist dem mehrfach Vorgeschlagenen Abschriften der betreffenden Wahlvorschläge zuzustellen. Der Kandidat hat sofort zu erklären, welchem Vorschlag er zugeteilt sein will. Geht in der ihm gesetzten Frist keine Erklärung ein, ist er durch Losentscheid einem Wahlvorschlag zuzuteilen und von den übrigen Wahlvorschlägen zu streichen. Der Vorsitzende der Wahlkommission zieht das Los.\n3) Wer von einer Wählergruppe als Vorsteherkandidat vorgeschlagen ist, kann von derselben auch als Gemeinderatskandidat vorgeschlagen werden. Die Stimmen, die er als Vorsteherkandidat erreicht, werden bei der Ermittlung des Wahlresultats nicht berücksichtigt."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "77",
+      "title": "Art. 77 Wahllisten",
+      "content": "1) Die so entstandenen Wahlvorschläge heissen Wahllisten. Es darf an denselben nichts mehr geändert werden.\n2) Die Wahlkommission hat sämtliche Wahllisten mit deren Wählergruppenbezeichnungen, jedoch ohne die Namen der Unterzeichner, spätestens zwei Wochen vor dem Wahltag gesamthaft kundzumachen.\nb) Ermittlung des Wahlergebnisses"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "78",
+      "title": "Art. 78 Wahlzahl und Quorum",
+      "content": "1) Die Gesamtzahl der in der Gemeinde für die Wahl des Gemeinderates gültig abgegebenen Kandidaten- und Zusatzstimmen wird durch die um eins vermehrte Zahl der zu wählenden Gemeinderäte geteilt. Das Teilungsergebnis ist in jedem Fall auf die nächstfolgende ganze Zahl zu erhöhen.\n2) Nimmt der Gemeindevorsteher an der Zuteilung der Mandate an die Wählergruppe teil, so wird die Zahl der zu wählenden Gemeinderäte um zwei erhöht. Die Gesamtzahl der gültig abgegebenen Stimmen im Sinne von Abs. 1 wird durch die um zwei vermehrte Zahl der zu wählenden Gemeinderäte geteilt. Das Teilungsergebnis ist in jedem Fall auf die nächstfolgende ganze Zahl zu erhöhen.\n3) Die gemäss Abs. 1 oder Abs. 2 ermittelte Zahl heisst Wahlzahl.\n4) Aufgehoben\n5) Die Ermittlung des Wahlergebnisses darf erst erfolgen, nachdem die Wahl des Gemeindevorstehers feststeht. Die Urnen haben solange verschlossen zu bleiben."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "79",
+      "title": "Art. 79 Zuteilung der Mandate an die Wählergruppen",
+      "content": "1) Jeder Wahlliste wird sooft ein Kandidat zugeteilt, als die Wahlzahl in der Zahl der für diese Wahlliste abgegebenen Kandidaten- und Zusatzstimmen enthalten ist, wobei der gewählte Vorsteher jener Wahlliste angerechnet wird, die die Bezeichnung seiner Wählergruppe trägt (Grundmandatsverteilung).\n2) Ergibt die Verteilung nicht so viele Mitglieder des Gemeinderates als zu wählen sind, so hat unter den Wählergruppen eine Restmandatsverteilung nach folgenden Regeln zu erfolgen:\na) Die Zahl der Kandidaten- und Zusatzstimmen jeder Wahlliste wird durch die um eins vermehrte Anzahl der ihr bereits zugeteilten Mandate geteilt.\nb) Das erste Restmandat wird derjenigen Wahlliste zugeteilt, die den grössten Quotienten aufweist.\nc) Haben mehrere Wahllisten aufgrund des gleichen Quotienten den gleichen Anspruch auf das erste Restmandat, so erhält jene unter diesen Wahllisten das Restmandat, welche bei der Zuteilung nach Abs. 1 den grössten Rest erzielte.\nd) Falls noch immer mehrere Wahllisten den gleichen Anspruch haben, geht das Restmandat an jene dieser Wahllisten, welche die grösste Kandidaten- und Zusatzstimmenzahl aufweist.\ne) Haben immer noch mehrere Wahllisten den gleichen Anspruch, so erhält jene dieser Wahllisten das erste Restmandat, bei welcher der für die Wahl in Betracht kommende Kandidat die grösste Stimmenzahl aufweist.\nf) Falls mehrere solche Kandidaten die gleiche Stimmenzahl aufweisen, entscheidet das Los; der Vorsitzende der Wahlkommission zieht das Los.\n3) Das Vorgehen nach Abs. 2 wird solange wiederholt, bis alle Restmandate zugeteilt sind.\n4) Aufgehoben\n5) Aufgehoben"
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "80",
+      "title": "Art. 80 Gewählte Kandidaten",
+      "content": "1) Von jeder Wahlliste sind so viele als gewählt zu erklären, als ihr gemäss Art. 79 Mandate zugeteilt worden sind, und zwar jene Kandidaten, die am meisten Stimmen erhalten haben.\n2) Bei gleicher Stimmenzahl ist der auf der Wahlliste in der Reihenfolge früher genannte Kandidat als gewählt zu erklären. Vorbehalten bleibt Art. 47 Abs. 2.\n3) Sollten einer oder mehreren Wahllisten mehr Kandidaten zuzuteilen sein, als sie Namen enthalten, so sind vorerst alle ihre Wahlkandidaten gewählt. Die übrigen Mandate werden nach dem in Art. 78 und 79 vorgeschriebenen Verfahren auf die anderen Wahllisten verteilt."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "2. Wahl des Gemeinderates",
+      "section": "81",
+      "title": "Art. 81 Übermittlung des Ergebnisses",
+      "content": "Das Ergebnis der Wahl ist durch Mitglieder der Wahlkommission unverzüglich der Regierung durch Übermittlung aller Wahlakten zur Kenntnis zu bringen.\n3. Wahl des Vizevorstehers"
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "3. Wahl des Vizevorstehers",
+      "section": "82",
+      "title": "Art. 82 Frist",
+      "content": "Der Gemeinderat hat binnen vier Tagen ab Amtsantritt aus der Mitte des Gemeinderates den Vorsteher-Stellvertreter (Vizevorsteher) mit absoluter Mehrheit der gültig abgegebenen Stimmen zu wählen."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "3. Wahl des Vizevorstehers",
+      "section": "83",
+      "title": "Art. 83 Vereidigung",
+      "content": "1) Der Gemeindevorsteher und sein Stellvertreter werden nach gültig erfolgter Wahl durch die Regierung vereidigt.\n2) Die Mitglieder des Gemeinderates werden durch den Gemeindevorsteher vereidigt.\n4. Wahl der Geschäftsprüfungskommission"
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "4. Wahl der Geschäftsprüfungskommission",
+      "section": "84",
+      "title": "Art. 84 Wahl",
+      "content": "Für die Wahl der Geschäftsprüfungskommission gelten sinngemäss die gleichen Bestimmungen wie für die Wahl des Gemeinderates. Vorbehalten bleiben die Ausschlussgründe des Art. 59.\nC. Abstimmungen\n1. Versammlung"
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "1. Versammlung",
+      "section": "85",
+      "title": "Art. 85 Offene Abstimmung",
+      "content": "Abstimmungen finden offen statt durch Handerheben oder Aufstehen von den Sitzen."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "1. Versammlung",
+      "section": "86",
+      "title": "Art. 86 Geheime Abstimmung",
+      "content": "1) Eine Abstimmung wird geheim durchgefüht, wenn mindestens ein Achtel der anwesenden Stimmberechtigten oder fünfzehn anwesende Stimmberechtigte eine geheime Abstimmung verlangen.\n2) Die Durchführung einer geheimen Abstimmung schliesst die Diskussion und Änderung der Vorlage an der Versammlung nicht aus."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "1. Versammlung",
+      "section": "87",
+      "title": "Art. 87 Nichteintreten, Rückweisung und Verschiebung",
+      "content": "1) Die Versammlung stimmt zuerst über allfällige Anträge auf Nichteintreten, Rückweisung oder Verschiebung ab.\n2) Wird Rückweisung oder Verschiebung beschlossen, so geht das Geschäft an den Gemeinderat zurück. Bei Rückweisung hat der Gemeinderat das Geschäft neu zu begutachten, bei Verschiebung nur soweit neue Gesichtspunkte zu prüfen sind.\n3) Die Schlussabstimmung über einen Antrag ist zu verschieben, wenn Änderungen beschlossen werden, die wesentliche neue Abklärungen erfordern."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "1. Versammlung",
+      "section": "88",
+      "title": "Art. 88 Änderungsanträge",
+      "content": "1) Liegen mehrere Änderungsanträge zum gleichen Gegenstand vor, so wird die Abstimmung durch den Vorsitzenden nach einem der folgenden Verfahren vorgenommen:\na) zuerst Abstimmung über den Hauptantrag und danach Abstimmung über Änderungsvorschläge, die der Bereinigung des Hauptantrages dienen, in der Reihenfolge ihres Eingangs;\nb) Gegenüberstellung der Änderungsanträge in der Reihenfolge ihres Eingangs, bis nur noch ein bereinigter Hauptantrag vorliegt.\n2) Der bereinigte Hauptantrag wird der Schlussabstimmung unterstellt.\n3) Ist eine Abstimmungsfrage teilbar, so kann jeder Stimmberechtigte Teilung verlangen.\n2. Urnenabstimmung"
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "2. Urnenabstimmung",
+      "section": "89",
+      "title": "Art. 89 Form",
+      "content": "Urnenabstimmungen werden gemäss Art. 37 durchgeführt.\nVI. Finanzhaushalt"
+    },
+    {
+      "provision_ref": "art90bisart115",
+      "chapter": "VI. Finanzhaushalt",
+      "section": "90bisArt115",
+      "title": "Art. 90bisArt115",
+      "content": "Aufgehoben\nVII. Staatliche Aufsicht"
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "VII. Staatliche Aufsicht",
+      "section": "116",
+      "title": "Art. 116 Grundsatz",
+      "content": "1) Die Gemeinden stehen unter der Aufsicht des Staates.\n2) Im eigenen Wirkungskreis der Gemeinden ist die Staatsaufsicht auf die Überprüfung der Rechtmässigkeit der Beschlüsse und der Tätigkeit der Gemeindeorgane beschränkt.\n3) Ausserhalb des eigenen Wirkungskreises unterliegt auch die Angemessenheit der Beschlüsse und der Tätigkeit der Gemeindeorgane der Staatsaufsicht."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "VII. Staatliche Aufsicht",
+      "section": "117",
+      "title": "Art. 117 Aufsichtsbehörde",
+      "content": "Aufsichtsbehörde ist die Regierung."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "VII. Staatliche Aufsicht",
+      "section": "118",
+      "title": "Art. 118 Massnahmen",
+      "content": "In Ausübung ihrer Aufsichtspflicht ergreift die Regierung die ihr geeignet erscheinenden Massnahmen gemäss Art. 136 des Landesverwaltungspflegegesetzes (LVG).\nVIII. Rechtspflege"
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "VIII. Rechtspflege",
+      "section": "119",
+      "title": "Art. 119 Aufsichtsbeschwerde",
+      "content": "Tatsachen, die im öffentlichen Interesse ein Einschreiten gegen ein Gemeindeorgan von Amts wegen erfordern, können jederzeit der Regierung angezeigt werden."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "VIII. Rechtspflege",
+      "section": "120",
+      "title": "Art. 120 Verwaltungsbeschwerde",
+      "content": "1) Gegen Entscheidungen und Verfügungen des Gemeindevorstehers oder anderer Gemeindeorgane kann in Angelegenheiten des eigenen Wirkungskreises Beschwerde an den Gemeinderat erhoben werden.\n2) Gegen Entscheidungen des Gemeinderates in Angelegenheiten des eigenen Wirkungskreises kann Beschwerde an die Regierung erhoben werden.\n3) Gegen Entscheidungen und Verfügungen von Gemeindeorganen im übertragenen Wirkungskreis kann Beschwerde an die zuständige Oberinstanz oder, wenn eine solche in den besonderen gesetzlichen Vorschriften nicht ausdrücklich genannt ist, an die Regierung erhoben werden.\n4) Gegen Beschlüsse der Gemeindeversammlung ist, unbeschadet des Rechts auf Aufsichtsbeschwerde, kein Rechtsmittel gegeben.\n5) Gegen Entscheidungen der Regierung kann binnen 14 Tagen ab Zustellung Verwaltungsbeschwerde an den Verwaltungsgerichtshof erhoben werden."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "VIII. Rechtspflege",
+      "section": "121",
+      "title": "Art. 121 Beschwerdefrist und Legitimation; weitere Bestimmungen",
+      "content": "Es gelten die Bestimmungen des Landesverwaltungspflegegesetzes (LVG), insbesondere betreffend Beschwerdefrist und Legitimation, Beschwerdeschrift und Beschwerdegründe.\nVIIIa. Datenschutz"
+    },
+    {
+      "provision_ref": "art121a",
+      "chapter": "VIIIa. Datenschutz",
+      "section": "121a",
+      "title": "Art. 121a Verarbeitung personenbezogener Daten",
+      "content": "1) Die zuständigen Gemeindebehörden, insbesondere die Einwohnerkontrollen, dürfen personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten, verarbeiten oder verarbeiten lassen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist.\n2) Die Gemeinden können zur Erfüllung ihrer gesetzlichen Aufgaben Informationssysteme führen.\n3) Die Regierung regelt die Einzelheiten mit Verordnung."
+    },
+    {
+      "provision_ref": "art121b",
+      "chapter": "VIIIa. Datenschutz",
+      "section": "121b",
+      "title": "Art. 121b Verarbeitung und Übermittlung personenbezogener Daten durch die Gemeindepolizei",
+      "content": "1) Die Gemeindepolizei darf personenbezogene Daten, einschliesslich besonderer Kategorien personenbezogener Daten sowie personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, verarbeiten oder verarbeiten lassen, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.\n2) Die Gemeindepolizei darf die Daten nach Abs. 1 Behörden oder Gerichten übermitteln, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Im Übrigen ist die Datenschutzgesetzgebung zu beachten.\n3) Die Gemeindepolizei und die Landespolizei dürfen die Daten nach Abs. 1 untereinander austauschen, soweit dies zur Erfüllung der jeweiligen gesetzlichen Aufgaben erforderlich ist.\nIX. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "IX. Übergangs- und Schlussbestimmungen",
+      "section": "122",
+      "title": "Art. 122 Rückbürgerung von Frauen",
+      "content": "1) Frauen, die ihr früheres Gemeindebürgerrecht durch Eheschliessung verloren haben, werden auf Antrag wieder in ihr früheres Gemeindebürgerrecht aufgenommen.\n2) Der Antrag ist innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes an die Gemeinde zu richten, deren Gemeindebürgerrecht die Antragstellerin bis zur Eheschliessung besass.\n3) Über den Aufnahmeantrag beschliesst der Gemeinderat."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "IX. Übergangs- und Schlussbestimmungen",
+      "section": "123",
+      "title": "Art. 123 Anpassung an neues Recht",
+      "content": "Die Gemeindeordnung und die übrigen von diesem Gesetz vorgeschriebenen Reglemente sind binnen zwei Jahren nach Inkrafttreten dieses Gesetzes zu erlassen. Bestehende Reglemente sind dem neuen Recht anzupassen. Die Regierung kann diese Frist auf begründetes Gesuch hin verlängern."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "IX. Übergangs- und Schlussbestimmungen",
+      "section": "124",
+      "title": "Art. 124 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen, inbesondere über:\na) die Durchführung von Wahlen und Abstimmungen in Gemeindeversammlungen (Art. 67);\nb) aufgehoben;\nc) aufgehoben."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "IX. Übergangs- und Schlussbestimmungen",
+      "section": "125",
+      "title": "Art. 125 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben:\na) Gemeindegesetz vom 2. Dezember 1959, LGBl. 1960 Nr. 2, in der Fassung des Gesetzes vom 10. Dezember 1965, LGBl. 1967 Nr. 10, des Gesetzes vom 11. Oktober 1974, LGBl. 1974 Nr. 66, des Gesetzes vom 13. Mai 1976, LGBl. 1976 Nr. 42, des Gesetzes vom 11. Dezember 1978, LGBl. 1979 Nr. 2, des Gesetzes vom 11. April 1984, LGBl. 1984 Nr. 24, des Gesetzes vom 15. November 1984, LGBl. 1985 Nr. 6, des Gesetzes vom 15. November 1984, LGBl. 1985 Nr. 20, des Gesetzes vom 14. Oktober 1986, LGBl. 1986 Nr. 105, und des Gesetzes vom 16. Dezember 1994, LGBl. 1995 Nr. 15;\nb) Gesetz vom 14. Februar 1952 betreffend die Neufestsetzung der Mindestgehalte der Gemeindevorsteher, LGBl. 1952 Nr. 3;\nc) Gesetz vom 18. Dezember 1941 über Neuorganisation des Gemeindekassierwesens, LGBl. 1941 Nr. 26, in der Fassung des Gesetzes vom 2. Dezember 1959, LGBl. 1960 Nr. 2;\nd) Verordnung vom 26. Juni 1973 über die Zuständigkeit der Gemeindeversammlung bei der Errichtung von Bauwerken, LGBl. 1973 Nr. 34."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "IX. Übergangs- und Schlussbestimmungen",
+      "section": "126",
+      "title": "Art. 126 Wahl der Geschäftsprüfungskommission",
+      "content": "1) Die Wahl der Geschäftsprüfungskommission erfolgt erstmals nach Ablauf der Amtsperiode der Rechnungsrevisoren, welche gemäss Art. 59 des Gemeindegesetzes, LGBl. 1974 Nr. 66, gewählt sind.\n2) Die Amtsperiode der bei Inkrafttreten des Gesetzes bereits gewählten Rechnungsrevisoren endet spätestens nach den nächsten Gemeinderatswahlen im Herbst 1999."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "IX. Übergangs- und Schlussbestimmungen",
+      "section": "127",
+      "title": "Art. 127 Inkrafttreten",
+      "content": "1) Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\n2) Die Bestimmungen betreffend Voranschlag und Gemeinderechnung finden erstmals Anwendung für den Voranschlag des Jahres 1997 und die Gemeinderechnung des Jahres 1996.\ngez. Hans-Adam\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\nÜbergangsbestimmungen\n141.0 Gemeindegesetz (GemG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2012 Nr. 356 ausgegeben am 15. November 2012\nGesetz\nvom 19. September 2012\nüber die Abänderung des Gemeindegesetzes\n...\nII.\nÜbergangsbestimmung\nDie Amtsperiode der beim Inkrafttreten dieses Gesetzes amtierenden Vorsteher und Gemeinderäte endet am 30. April 2015.\nIII.\nInkrafttreten\n&hellip;\n2) Art. 47 Abs. 1 Bst. e tritt am 1. Mai 2015 in Kraft.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2017 Nr. 32 ausgegeben am 1. Februar 2017\nGesetz\nvom 1. Dezember 2016\nüber die Abänderung des Gemeindegesetzes\n...\nII.\nÜbergangsbestimmung\nGemeindepolizisten, die im Zeitpunkt des Inkrafttretens dieses Gesetzes diese Funktion ausüben und noch über keine Ausbildung nach Art. 64b Abs. 2 verfügen, müssen diese binnen eines Jahres nach Inkrafttreten dieses Gesetzes nachholen.\n...\n1\nTitel abgeändert durch LGBl. 2012 Nr. 356 .\n2\nArt. 11 Abs. 2 Einleitungssatz abgeändert durch LGBl. 2008 Nr. 331 .\n3\nArt. 11 Abs. 2a eingefügt durch LGBl. 2012 Nr. 356 .\n4\nArt. 12 Abs. 2 Bst. f abgeändert durch LGBl. 2018 Nr. 361 .\n5\nArt. 16 Bst. a abgeändert durch LGBl. 2008 Nr. 307 .\n6\nArt. 16 Bst. c abgeändert durch LGBl. 2011 Nr. 352 .\n7\nArt. 17 Sachüberschrift abgeändert durch LGBl. 2008 Nr. 307 .\n8\nArt. 17 Abs. 1 abgeändert durch LGBl. 1998 Nr. 73 .\n9\nArt. 17 Abs. 2 abgeändert durch LGBl. 1998 Nr. 73 .\n10\nArt. 17 Abs. 3 eingefügt durch LGBl. 2008 Nr. 307 .\n11\nArt. 20 abgeändert durch LGBl. 2008 Nr. 307 .\n12\nArt. 21 Abs. 2 abgeändert durch LGBl. 2011 Nr. 352 .\n13\nArt. 25 Abs. 2 Bst. e aufgehoben durch LGBl. 2015 Nr. 32 .\n14\nArt. 25 Abs. 3 abgeändert durch LGBl. 2012 Nr. 356 .\n15\nArt. 25 Abs. 4 abgeändert durch LGBl. 2020 Nr. 163 .\n16\nArt. 35 abgeändert durch LGBl. 2015 Nr. 32 .\n17\nArt. 40 Abs. 2 Bst. i abgeändert durch LGBl. 2015 Nr. 164 .\n18\nArt. 40 Abs. 3 berichtigt durch LGBl. 1997 Nr. 67 .\n19\nArt. 41 Abs. 3 berichtigt durch LGBl. 1997 Nr. 67 .\n20\nArt. 42 Abs. 2 eingefügt durch LGBl. 2012 Nr. 356 .\n21\nArt. 44 abgeändert durch LGBl. 2012 Nr. 356 .\n22\nArt. 45 Sachüberschrift abgeändert durch LGBl. 2012 Nr. 356 .\n23\nArt. 45 Abs. 2 eingefügt durch LGBl. 2012 Nr. 356 .\n24\nArt. 47 Abs. 1 Bst. b abgeändert durch LGBl. 2011 Nr. 352 .\n25\nArt. 47 Abs. 1 Bst. d abgeändert durch LGBl. 2004 Nr. 33 .\n26\nArt. 47 Abs. 1 Bst. e abgeändert durch LGBl. 2012 Nr. 356 .\n27\nArt. 47 Abs. 3 abgeändert durch LGBl. 2011 Nr. 352 .\n28\nArt. 50 Bst. b abgeändert durch LGBl. 2011 Nr. 352 .\n29\nArt. 52 Abs. 3 abgeändert durch LGBl. 2012 Nr. 356 .\n30\nArt. 52 Abs. 6 eingefügt durch LGBl. 2009 Nr. 45 .\n31\nArt. 56 Abs. 1 abgeändert durch LGBl. 2012 Nr. 356 .\n32\nArt. 57 Abs. 3 abgeändert durch LGBl. 2020 Nr. 163 .\n33\nArt. 57 Abs. 4 abgeändert durch LGBl. 2020 Nr. 163 .\n34\nArt. 58 abgeändert durch LGBl. 2012 Nr. 356 .\n35\nArt. 59 Abs. 1 Bst. b abgeändert durch LGBl. 2011 Nr. 352 .\n36\nArt. 59 Abs. 1 Bst. c abgeändert durch LGBl. 2020 Nr. 163 .\n37\nÜberschrift vor Art. 61 eingefügt durch LGBl. 2017 Nr. 32 .\n38\nArt. 61 Sachüberschrift abgeändert durch LGBl. 2017 Nr. 423 .\n39\nArt. 61 Abs. 2 eingefügt durch LGBl. 2017 Nr. 423 .\n40\nArt. 61 Abs. 3 eingefügt durch LGBl. 2017 Nr. 423 .\n41\nArt. 61 Abs. 4 eingefügt durch LGBl. 2017 Nr. 423 .\n42\nArt. 64 Abs. 2 eingefügt durch LGBl. 2012 Nr. 356 .\n43\nÜberschrift vor Art. 64a eingefügt durch LGBl. 2017 Nr. 32 .\n44\nArt. 64a eingefügt durch LGBl. 2017 Nr. 32 .\n45\nArt. 64b eingefügt durch LGBl. 2017 Nr. 32 .\n46\nArt. 64c eingefügt durch LGBl. 2017 Nr. 32 .\n47\nArt. 64d eingefügt durch LGBl. 2017 Nr. 32 .\n48\nArt. 64e eingefügt durch LGBl. 2017 Nr. 32 .\n49\nSachüberschrift vor Art. 68 abgeändert durch LGBl. 2012 Nr. 356 .\n50\nArt. 68 abgeändert durch LGBl. 2012 Nr. 356 .\n51\nArt. 69 Abs. 4 abgeändert durch LGBl. 2007 Nr. 10 .\n52\nArt. 71 Abs. 1 abgeändert durch LGBl. 2012 Nr. 356 .\n53\nArt. 71 Abs. 2 abgeändert durch LGBl. 2007 Nr. 10 .\n54\nArt. 71 Abs. 3 abgeändert durch LGBl. 2018 Nr. 269 .\n55\nArt. 72 abgeändert durch LGBl. 2012 Nr. 356 .\n56\nArt. 74 abgeändert durch LGBl. 2011 Nr. 352 .\n57\nArt. 77 Abs. 2 abgeändert durch LGBl. 2007 Nr. 10 .\n58\nArt. 78 Abs. 4 aufgehoben durch LGBl. 2020 Nr. 163 .\n59\nArt. 79 Abs. 2 abgeändert durch LGBl. 2018 Nr. 269 .\n60\nArt. 79 Abs. 3 abgeändert durch LGBl. 2018 Nr. 269 .\n61\nArt. 79 Abs. 4 aufgehoben durch LGBl. 2018 Nr. 269 .\n62\nArt. 79 Abs. 5 aufgehoben durch LGBl. 2018 Nr. 269 .\n63\nArt. 80 Abs. 3 abgeändert durch LGBl. 2010 Nr. 234 .\n64\nArt. 82 abgeändert durch LGBl. 2012 Nr. 356 .\n65\nArt. 84 abgeändert durch LGBl. 2020 Nr. 163 .\n66\nArt. 90 bis Art. 115 aufgehoben durch LGBl. 2015 Nr. 164 .\n67\nÜberschrift vor Art. 121 eingefügt durch LGBl. 2004 Nr. 33 .\n68\nArt. 121 eingefügt durch LGBl. 2009 Nr. 31 .\n69\nArt. 121a eingefügt durch LGBl. 2009 Nr. 31 .\n70\nArt. 121a Sachüberschrift abgeändert durch LGBl. 2018 Nr. 361 .\n71\nArt. 121a Abs. 1 abgeändert durch LGBl. 2018 Nr. 361 .\n72\nArt. 121a Abs. 3 abgeändert durch LGBl. 2018 Nr. 361 .\n73\nArt. 121b abgeändert durch LGBl. 2018 Nr. 361 .\n74\nArt. 124 Bst. b aufgehoben durch LGBl. 2015 Nr. 164 .\n75\nArt. 124 Bst. c aufgehoben durch LGBl. 2015 Nr. 164 .\n76\nInkraftreten: 1. Dezember 2012\n77\nInkraftreten: 1. Juli 2017"
+    }
+  ],
+  "definitions": []
+}

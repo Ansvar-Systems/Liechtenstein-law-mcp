@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-2014105000",
+  "type": "statute",
+  "title": "Verordnung vom 15. April 2014 über die gesetzlichen Verzugszinsen im Geschäftsverkehr (Geschäftsverkehrs-Verzugszinsenverordnung; GVZV)",
+  "title_en": "",
+  "short_name": "GVZV",
+  "status": "in_force",
+  "issued_date": "2014-04-15",
+  "in_force_date": "2014-04-15",
+  "url": "https://www.gesetze.li/konso/2014105000",
+  "description": "Verordnung vom 15. April 2014 über die gesetzlichen Verzugszinsen im Geschäftsverkehr (Geschäftsverkehrs-Verzugszinsenverordnung; GVZV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Bezugszinsatz",
+      "content": "Als Bezugszinssatz für die Festlegung des gesetzlichen Zinssatzes bei Zahlungsverzug im Geschäftsverkehr gilt der Sondersatz der Schweizerischen Nationalbank zur Engpassfinanzierungsfazilität."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Veröffentlichung des anwendbaren gesetzlichen Zinssatzes bei Zahlungsverzug",
+      "content": "Das Amt für Volkswirtschaft veröffentlicht zum ersten Kalendertag eines jeden Halbjahres den für dieses Halbjahr anwendbaren gesetzlichen Zinssatz bei Zahlungsverzug im Geschäftsverkehr im Amtsblatt und zusätzlich auf der Homepage des Amtes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Gesetz vom 13. März 2014 über die Abänderung des Allgemeinen bürgerlichen Gesetzbuches in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

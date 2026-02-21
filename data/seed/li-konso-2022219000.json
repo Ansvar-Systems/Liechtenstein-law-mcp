@@ -1,0 +1,250 @@
+{
+  "id": "li-konso-2022219000",
+  "type": "statute",
+  "title": "Gesetz vom 2. Juni 2022 über das Zentrale Personenregister (ZPRG)",
+  "title_en": "",
+  "short_name": "ZPRG",
+  "status": "in_force",
+  "issued_date": "2022-06-02",
+  "in_force_date": "2022-06-02",
+  "url": "https://www.gesetze.li/konso/2022219000",
+  "description": "Gesetz vom 2. Juni 2022 über das Zentrale Personenregister (ZPRG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "1) Dieses Gesetz regelt die Einrichtung und Führung des elektronischen Zentralen Personenregisters (ZPR).\n2) Es lässt spezialgesetzliche Vorschriften über die Datenverarbeitung und -offenlegung im ZPR unberührt."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Zweck des ZPR",
+      "content": "1) Das ZPR dient der zentralen Verarbeitung von Stammdaten durch die öffentlichen Stellen.\n2) Es erfüllt insbesondere folgende Zwecke:\na) die Unterstützung der öffentlichen Stellen bei der Erfüllung ihrer gesetzlichen Aufgaben;\nb) der Vereinfachung und Vereinheitlichung der Verarbeitung von Stammdaten;\nc) der Bereitstellung von Stammdaten;\nd) der Wiederverwendung von Stammdaten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als:\na) \"Stammdaten\": Daten, die:\n1. einer der Kategorien \"natürliche Personen\", \"Unternehmen\" oder \"Sachstammdaten\" zugeordnet werden; und\n2. von den öffentlichen Stellen mehrfach genutzt werden;\nb) \"Attribute\": die verschiedenen Merkmale, welche die Stammdaten in neutraler Form beschreiben;\nc) \"Daten\": die effektiven Informationen, die zu den einzelnen Attributen erfasst werden;\nd) \"öffentliche Stellen\":\n1. die Organe des Staates, der Gemeinden und von Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts;\n2. nicht-öffentliche Stellen, soweit sie in Erfüllung der ihnen übertragenen öffentlichen Aufgaben tätig sind;\ne) \"nicht-öffentliche Stellen\":\n1. natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die dem Privatrecht unterstehen, soweit sie nicht unter Bst. d Ziff. 2 fallen;\n2. öffentliche Stellen nach Bst. d Ziff. 1, wenn sie privatwirtschaftlich handeln;\n3. Unternehmen nach Bst. f;\nf) \"Unternehmen\": juristische Personen und sonstige rechtsfähige Einheiten sowie jede natürliche Person, die geschäftsmässig handelt;\ng) \"Betroffene\": natürliche Personen und Unternehmen, deren Stammdaten im ZPR verarbeitet werden;\nh) \"persönliche Identifikationsnummer (PEID)\": eine eindeutige oder umkehrbar eindeutige Summe von Zeichen (Nummer) zur Sicherung der Unterscheidbarkeit von Betroffenen, die im ZPR registriert sind;\ni) \"Benutzer\": die für die Datenverarbeitung zuständigen und berechtigten Mitarbeiter einer öffentlichen Stelle.\n2) Im Übrigen gelten die Begriffe der Datenschutzgesetzgebung.\n3) Unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Zentrales Personenregister\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Allgemeines",
+      "section": "4",
+      "title": "Art. 4 Grundsatz",
+      "content": "1) Öffentliche Stellen dürfen für die Erfüllung der ihnen gesetzlich übertragenen Aufgaben im Zentralen Personenregister Daten nach den Bestimmungen dieses Gesetzes verarbeiten.\n2) Öffentliche Stellen, die nach Abs. 1 Daten im Zentralen Personenregister verarbeiten, gelten als gemeinsam Verantwortliche im Sinne des Art. 26 der Verordnung (EU) 2016/679 .\n3) Die Verarbeitung von Daten nach Abs. 1 setzt voraus, dass keine technischen, organisatorischen oder rechtlichen Hindernisse entgegenstehen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Allgemeines",
+      "section": "5",
+      "title": "Art. 5 Richtigkeit von Daten",
+      "content": "1) Daten, die im ZPR geführt werden, müssen sachlich richtig und erforderlichenfalls auf dem neuesten Stand sein.\n2) Öffentliche Stellen können sich bei der Erfüllung ihrer Aufgaben auf die Richtigkeit der im ZPR geführten Daten verlassen.\n3) Zur Sicherstellung der Datenqualität müssen angemessene Massnahmen getroffen werden; die Regierung regelt das Nähere mit Verordnung.\n4) Abweichende spezialgesetzliche Regelungen bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Allgemeines",
+      "section": "6",
+      "title": "Art. 6 Inhalt",
+      "content": "1) Das ZPR enthält:\na) die einzelnen Attribute zu den Stammdaten, die zu Gruppen zusammengefasst werden; und\nb) die zu den einzelnen Attributen erfassten Daten.\n2) Die Regierung regelt das Nähere über den Inhalt des ZPR mit Verordnung, insbesondere:\na) nach welchen Kriterien Attribute in das ZPR aufgenommen werden;\nb) welche konkreten Attribute in das ZPR aufgenommen werden;\nc) zu welchen Gruppen die Attribute zusammengefasst werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Allgemeines",
+      "section": "7",
+      "title": "Art. 7 Zuteilung und Verwendung der PEID",
+      "content": "1) Jedem Betroffenen, der im ZPR erfasst wird, ist eine PEID zuzuteilen.\n2) Unternehmen können weitere PEID zugeteilt werden, sofern dies in rechtlicher, fachlicher oder örtlicher Hinsicht zweckmässig ist.\n3) Die PEID darf im Behördenverkehr zur eindeutigen Identifizierung von Betroffenen verwendet werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Allgemeines",
+      "section": "8",
+      "title": "Art. 8 Erteilung von Berechtigungen",
+      "content": "1) Berechtigungen für die Verarbeitung von Daten im ZPR werden von der ZPR-Kommission nach Massgabe von Art. 11 und 14 erteilt für:\na) das Erfassen, Ändern und Ergänzen von Daten (Schreibberechtigung);\nb) das Abfragen von Daten (Leseberechtigung).\n2) Eine Schreibberechtigung umfasst auch die Leseberechtigung für die entsprechenden Daten.\n3) Eine Leseberechtigung für die Gruppe der Kernattribute bedarf keiner Berechtigung der ZPR-Kommission."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "A. Allgemeines",
+      "section": "9",
+      "title": "Art. 9 Protokollierung",
+      "content": "1) Jede Datenverarbeitung im ZPR ist zu protokollieren. Die Protokolldaten sind ein Jahr aufzubewahren.\n2) Zu protokollieren sind in pseudonymisierter Form insbesondere:\na) der Zeitpunkt der Datenverarbeitung;\nb) die die Daten verarbeitenden Benutzer oder Systeme; und\nc) der Zweck und die Art der Datenverarbeitung.\n3) Protokolldaten dürfen ausschliesslich verarbeitet werden:\na) zur Überprüfung der Rechtmässigkeit der Datenverarbeitung durch die Datenschutzbeauftragten der öffentlichen Stellen und die Datenschutzstelle;\nb) zur Gewährleistung der Integrität und Sicherheit der Daten durch das Amt für Informatik.\n4) Die ZPR-Kommission stellt der Datenschutzstelle und den Datenschutzbeauftragten die Protokolldaten auf Verlangen unverzüglich in einem strukturierten, gängigen und maschinenlesbaren Format zur Verfügung.\nB. Rechte nach der Datenschutzgesetzgebung"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Rechte nach der Datenschutzgesetzgebung",
+      "section": "10",
+      "title": "Art. 10 Grundsatz",
+      "content": "1) Betroffene haben nach Massgabe der Datenschutzgesetzgebung das Recht auf Information, Auskunft, Berichtigung, Einschränkung und Löschung in Bezug auf die über sie im ZPR verarbeiteten Daten. Sie können ihre Rechte unter Nachweis ihrer Identität bei der erfassenden öffentlichen Stelle schriftlich geltend machen.\n2) Nimmt ein Betroffener ein Recht nach Abs. 1 bei einer für die Erfassung unzuständigen Stelle wahr, ist er an die zuständige erfassende öffentliche Stelle zu verweisen.\nC. Erfassung, Änderung und Ergänzung von Daten (Datenerfassung)"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "C. Erfassung, Änderung und Ergänzung von Daten (Datenerfassung)",
+      "section": "11",
+      "title": "Art. 11 Erfassung von Daten",
+      "content": "1) Die Erfassung von Daten im ZPR erfolgt durch Benutzer, die die hierfür notwendige Berechtigung besitzen.\n2) Die Berechtigung zur Erfassung von Daten wird auf Antrag der Leitung einer öffentlichen Stelle von der ZPR-Kommission erteilt.\n3) Die Erfassung von Daten hat unverzüglich zu erfolgen.\n4) Die Erfassung von Daten erfolgt in lateinischen Schriftzeichen. Die ZPR-Kommission erlässt ein Reglement zur Transliteration von Schriftzeichen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "C. Erfassung, Änderung und Ergänzung von Daten (Datenerfassung)",
+      "section": "12",
+      "title": "Art. 12 Änderung und Ergänzung von Daten",
+      "content": "1) Der erfassende Benutzer hat eine unrichtige oder unvollständige Erfassung nach Kenntnisnahme unverzüglich zu berichtigen. Die Berichtigung ist von Amtes wegen vorzunehmen.\n2) Erlangt ein lesender Benutzer Kenntnis von unrichtigen oder unvollständigen Daten, teilt er dies unverzüglich der erfassenden öffentlichen Stelle mit."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Erfassung, Änderung und Ergänzung von Daten (Datenerfassung)",
+      "section": "13",
+      "title": "Art. 13 Meldepflicht bei Änderung der Voraussetzungen",
+      "content": "Änderungen in den Voraussetzungen, unter denen die Berechtigung zur Datenerfassung erteilt wurde, sind von der Leitung der öffentlichen Stelle der ZPR-Kommission unverzüglich schriftlich mitzuteilen.\nD. Datenabfrage"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "D. Datenabfrage",
+      "section": "14",
+      "title": "Art. 14 Grundsatz",
+      "content": "1) Die Abfrage von Daten im ZPR erfolgt durch Benutzer, die die hierfür notwendige Berechtigung besitzen.\n2) Zur Abfrage berechtigt sind Benutzer:\na) der erfassenden öffentlichen Stellen betreffend Daten, für deren Erfassung sie berechtigt sind;\nb) sämtlicher öffentlichen Stellen für die Gruppe, die die Kernattribute umfasst;\nc) öffentlicher Stellen, denen eine Berechtigung zur Abfrage von weiteren Gruppen auf Antrag der Leitung der öffentlichen Stelle von der ZPR-Kommission erteilt wurde.\n3) Abfragen von Daten von natürlichen Personen nach Abs. 2 Bst. b und c sind im ZPR zu begründen. Keine Begründung ist erforderlich, wenn Daten innerhalb von 30 Tagen nach einer begründeten Datenabfrage erneut abgefragt werden.\n4) Treten bei einer Abfrage Zweifel an der Richtigkeit der im ZPR verarbeiteten Daten auf, ist jeder Abfrageberechtigte verpflichtet, die erfassende öffentliche Stelle unverzüglich darüber in Kenntnis zu setzen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "D. Datenabfrage",
+      "section": "15",
+      "title": "Art. 15 Meldepflicht bei Änderung der Voraussetzungen",
+      "content": "Änderungen in den Voraussetzungen, unter denen eine Berechtigung zur Datenabfrage erteilt wurde, sind von der Leitung der öffentlichen Stelle der ZPR-Kommission unverzüglich schriftlich mitzuteilen.\nE. Löschung von Daten"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "E. Löschung von Daten",
+      "section": "16",
+      "title": "Art. 16 Grundsatz",
+      "content": "1) Daten natürlicher Personen, die im ZPR verarbeitet werden, sind nach Ablauf von 120 Jahren zu löschen, gerechnet ab:\na) dem im ZPR eingetragenen Sterbedatum; oder\nb) der letzten Änderung oder Ergänzung der Daten im ZPR.\n2) Die Ablieferung der Daten an das Landesarchiv richtet sich nach dem Archivgesetz.\nF. Entzug von Berechtigungen"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "F. Entzug von Berechtigungen",
+      "section": "17",
+      "title": "Art. 17 Grundsatz",
+      "content": "Die Berechtigung zur Datenerfassung oder zur Datenabfrage wird von der ZPR-Kommission entzogen, wenn:\na) die Voraussetzungen für deren Erteilung nicht mehr vorliegen; oder\nb) schutzwürdige Interessen Betroffener verletzt werden und dieser Mangel nicht unverzüglich behoben werden kann.\nIII. Organisation und Durchführung"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "18",
+      "title": "Art. 18 Amt für Informatik",
+      "content": "Das Amt für Informatik ist für den Betrieb des ZPR verantwortlich. Ihm obliegen insbesondere:\na) die Sicherstellung der technischen Funktionalität des ZPR;\nb) die Wahrnehmung von Aufgaben im Service- und Supportbereich;\nc) die Gewährleistung der Integrität und Sicherheit der Daten und der Protokolldaten im Sinne der Datenschutzgesetzgebung;\nd) die Verwaltung der Berechtigungen;\ne) die Vorbereitung und Koordination der Sitzungen der ZPR-Kommission."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "19",
+      "title": "Art. 19 ZPR-Kommission",
+      "content": "1) Die ZPR-Kommission setzt sich zusammen aus:\na) dem Fachverantwortlichen für die Stammdaten von natürlichen Personen;\nb) dem Fachverantwortlichen für die Stammdaten von Unternehmen;\nc) dem Fachverantwortlichen für die Sachstammdaten;\nd) dem Fachverantwortlichen für die Stammdaten, die auch zu statistischen Zwecken verwendet werden;\ne) dem Qualitätsbeauftragten; und\nf) einem Vertreter des Amtes für Informatik für die Wahrnehmung der Aufgaben nach Art. 18.\n2) Der ZPR-Kommission obliegen insbesondere:\na) die Beurteilung und Autorisierung von Anpassungen und Weiterentwicklungen des ZPR;\nb) die Bewilligung der Konzepte für die Erfassung, Änderung, Ergänzung und Abfrage von Daten sowie der hierfür notwendigen Umsetzungsmassnahmen;\nc) die Erteilung und der Entzug von Berechtigungen zur Datenerfassung oder zur Datenabfrage;\nd) die Finanzplanung und Finanzkontrolle, soweit dies für die Führung des ZPR erforderlich ist;\ne) die Unterbreitung von Vorschlägen zum Inhalt des ZPR nach Art. 6 zu Handen der Regierung;\nf) der Erlass eines Reglements zur Transliteration von Schriftzeichen;\ng) der Abschluss einer Vereinbarung nach Art. 26 der Verordnung (EU) 2016/679.\n3) Die ZPR-Kommission hat bei Beratungen in Zusammenhang mit den Aufgaben nach Abs. 2 Bst. a und b die Fachstelle Datenschutz zu konsultieren. Bei Beratungen in Zusammenhang mit der Aufgabe nach Abs. 2 Bst. c kann sie die Fachstelle Datenschutz beiziehen.\n4) Die ZPR-Kommission gibt sich eine Geschäftsordnung, die von der Regierung zu genehmigen ist. In der Geschäftsordnung ist insbesondere festzulegen, wem die Leitung der ZPR-Kommission obliegt; diese wird aus dem Kreis der Fachverantwortlichen bestimmt."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "20",
+      "title": "Art. 20 Fachverantwortliche und Qualitätsbeauftragter",
+      "content": "1) Für die Kategorien \"Stammdaten natürlicher Personen\", \"Stammdaten von Unternehmen\", \"zu statistischen Zwecken verwendete Stammdaten\" sowie \"Sachstammdaten\" wird je ein Fachverantwortlicher bestellt. Sie übernehmen die Gesamtkoordination für die zugeteilten Stammdaten, insbesondere:\na) die Erstellung und der Unterhalt von Konzepten für die Erfassung, Änderung, Ergänzung und Abfrage von Daten sowie der hierfür notwendigen Umsetzungsmassnahmen zu Handen der ZPR-Kommission;\nb) die Koordination und Unterstützung insbesondere derjenigen Benutzer, die Daten erfassen, ändern oder ergänzen;\nc) die Mitarbeit bei bereichsübergreifenden Fragestellungen.\n2) Der Qualitätsbeauftragte ist für die Sicherstellung der Datenqualität im ZPR zuständig. Ihm obliegen:\na) die laufende Ermittlung und Überwachung der Datenqualität;\nb) die Ausarbeitung von Konzepten und Vorgaben zu Handen der ZPR-Kommission;\nc) die Aufforderung zur Vornahme von Änderungen und Ergänzungen bei den erfassenden öffentlichen Stellen;\nd) die Schulung von Benutzern im Hinblick auf die Anwendung des ZPR oder die Koordination der Schulung durch andere Personen.\n3) Die Fachverantwortlichen und der Qualitätsbeauftragte haben eine Leseberechtigung für sämtliche Daten des ZPR, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.\n4) Die Fachverantwortlichen und der Qualitätsbeauftragte werden von der Regierung bestellt.\nIV. Streitbeilegung"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "IV. Streitbeilegung",
+      "section": "21",
+      "title": "Art. 21 Streitbeilegungsverfahren",
+      "content": "Kann in Streitfällen keine Einigung zwischen öffentlichen Stellen und der ZPR-Kommission über Fragen im Zusammenhang mit diesem Gesetz erzielt werden, legt die ZPR-Kommission den Sachverhalt gemeinsam mit der Stellungnahme der beteiligten öffentlichen Stelle der Regierung zur Entscheidung vor. Gegen die Entscheidung der Regierung ist kein Rechtsmittel zulässig.\nV. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "V. Strafbestimmungen",
+      "section": "22",
+      "title": "Art. 22 Übertretungen",
+      "content": "1) Von der Regierung wird wegen Übertretung mit Busse bis zu 10 000 Franken bestraft, wer:\na) unrechtmässig Daten des ZPR verarbeitet;\nb) die ZPR-Kommission für sich selbst oder für einen Dritten durch Täuschung über Tatsachen zur Erteilung einer Berechtigung zur Datenerfassung oder zur Datenabfrage verleitet hat;\nc) ohne Berechtigung die PEID verwendet.\n2) Bei fahrlässiger Begehung wird die Strafobergrenze auf die Hälfte herabgesetzt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "V. Strafbestimmungen",
+      "section": "23",
+      "title": "Art. 23 Rechtsmittel",
+      "content": "Gegen Entscheidungen und Verfügungen der Regierung nach Art. 22 kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\nVI. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "24",
+      "title": "Art. 24 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "25",
+      "title": "Art. 25 Übergangsbestimmungen",
+      "content": "1) Bewilligungen zur Datenverarbeitung im nach bisherigem Recht geführten ZPR haben für das nach neuem Recht geführte ZPR keine Gültigkeit.\n2) Die Geschäftsordnung nach Art. 19 Abs. 4, das Reglement nach Art. 19 Abs. 2 Bst. f und die Vereinbarung nach Art. 19 Abs. 2 Bst. g sind spätestens sechs Monate nach Inkrafttreten dieses Gesetzes zu erlassen bzw. abzuschliessen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "26",
+      "title": "Art. 26 Aufhebung bisherigen Rechts",
+      "content": "Das Gesetz vom 21. September 2011 über das Zentrale Personenregister (ZPRG), LGBl. 2011 Nr. 574, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "VI. Übergangs- und Schlussbestimmungen",
+      "section": "27",
+      "title": "Art. 27 Inkrafttreten",
+      "content": "Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. November 2022 in Kraft, andernfalls am Tag nach der Kundmachung.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 24/2021 und 49/2022\n2\nVerordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stammdaten",
+      "definition": "Daten, die:",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Attribute",
+      "definition": "die verschiedenen Merkmale, welche die Stammdaten in neutraler Form beschreiben;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Daten",
+      "definition": "die effektiven Informationen, die zu den einzelnen Attributen erfasst werden;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "öffentliche Stellen",
+      "definition": "1. die Organe des Staates, der Gemeinden und von Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "nicht-öffentliche Stellen",
+      "definition": "1. natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die dem Privatrecht unterstehen, soweit sie nicht unter Bst. d Ziff. 2 fallen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Unternehmen",
+      "definition": "juristische Personen und sonstige rechtsfähige Einheiten sowie jede natürliche Person, die geschäftsmässig handelt;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Betroffene",
+      "definition": "natürliche Personen und Unternehmen, deren Stammdaten im ZPR verarbeitet werden;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "persönliche Identifikationsnummer (PEID)",
+      "definition": "eine eindeutige oder umkehrbar eindeutige Summe von Zeichen (Nummer) zur Sicherung der Unterscheidbarkeit von Betroffenen, die im ZPR registriert sind;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Benutzer",
+      "definition": "die für die Datenverarbeitung zuständigen und berechtigten Mitarbeiter einer öffentlichen Stelle.",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "li-konso-2021133000",
+  "type": "statute",
+  "title": "Kulturgüterschutzverordnung (KGSV) vom 13. April 2021",
+  "title_en": "",
+  "short_name": "LGBl 2021.133",
+  "status": "in_force",
+  "issued_date": "2021-04-13",
+  "in_force_date": "2021-04-13",
+  "url": "https://www.gesetze.li/konso/2021133000",
+  "description": "Kulturgüterschutzverordnung (KGSV) vom 13. April 2021",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt zum Schutz von Kulturgütern das Nähere über:\na) die vorbeugenden Schutzmassnahmen, namentlich:\n1. die Kennzeichnung von Kulturgütern;\n2. die Planung von Schutzmassnahmen;\n3. die Beratung bei Kulturgüterschutzanlagen und Bergungsorten sowie den Abschluss von \"Safe-Haven-Vereinbarungen\";\n4. die Qualifikation und Ausbildung von Fachleuten des Kulturgüterschutzes;\n5. den Kulturgüterschutzverbund;\n6. die Erstellung von Sicherstellungsdokumentationen;\nb) die Schutzmassnahmen im Ereignisfall und die Wiederherstellung von beschädigten Kulturgütern."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Kulturgüter\":\n1. unter Schutz gestellte Kulturgüter nach Art. 40 iVm Art. 2 Abs. 1 KGG;\n2. Kulturgüter im Sinne von Art. 2 Abs. 2 KGG;\nb) \"Ereignisfall\": eine durch ein Ereignis verursachte akute, umfangreiche Gefährdung oder Schädigung von Kulturgut;\nc) \"Gefahrenlage\" bzw. \"Gefährdung\": eine Situation, in der ein Kulturgut gegenwärtig in Gefahr ist oder in Zukunft in Gefahr sein könnte; zu berücksichtigen sind dabei insbesondere konkrete Bedrohungen, die zu erwartenden Intensitäten (Ausmass) und die Wahrscheinlichkeit, mit der ein Ereignis eintreten kann;\nd) \"Schadenereignis\": eine Handlung (insbesondere in einem bewaffneten Konflikt), eine Unterlassung, ein aussergewöhnliches Naturereignis oder sonstige unvorhergesehene Ereignisse wie Feuer/Hitze, Rauch/Russ, Wasser/Feuchtigkeit, Schlag/Druck, biologischer Befall, chemische Reaktionen, technische Defekte und andere Ereignisse, durch welche Schaden entsteht;\ne) \"Schädigung\": ein durch ein Schadenereignis entstandener Schaden;\nf) \"Partner\": folgende Einrichtungen und Personen:\n1. der Kulturgüterschutzverbund;\n2. die privatrechtlichen Eigentümer sowie allenfalls die sie vertretenden Kulturgüterschutzverantwortlichen;\n3. das Amt für Bevölkerungsschutz;\n4. das Amt für Hochbau und Raumplanung;\n5. die Gemeinden;\n6. die Blaulichtorganisationen;\n7. externe Fachspezialisten;\ng) \"Kulturgüterschutzverantwortliche\": Personen, die von den Eigentümern der Kulturgüter mit dem Schutz der Kulturgüter beauftragt werden;\nh) \"Eigentümer\": Eigentümer von Kulturgütern;\ni) \"Blaulichtorganisationen\": Einsatzkräfte mit Sicherheitsaufgaben zur Abwehr von Gefahren wie Polizei oder Feuerwehr;\nk) \"vorbeugende Schutzmassnahmen\": alle baulichen, anlagetechnischen und organisatorischen Massnahmen, die im Ereignisfall der Verhinderung oder Milderung von schädigenden Auswirkungen auf Kulturgüter dienen;\nl) \"Schutzmassnahmen im Ereignisfall\": alle praktischen und organisatorischen Massnahmen, die zur Evakuation, Bergung, Stabilisierung und Sicherung der gefährdeten und allenfalls beschädigten Kulturgüter führen;\nm) \"Kulturgüterschutzanlagen\": den Erfordernissen eines bewaffneten Konfliktes angepasste Schutzräume im Inland, die für die Unterbringung der wichtigsten beweglichen Kulturgüter bestimmt wurden und in denen durch Schadenereignisse gefährdete Kulturgüter für die Dauer der Gefährdung sicher aufbewahrt werden können;\nn) \"Bergungsorte\": bauliche oder andere ortsfeste Einrichtungen, in denen bedrohte bewegliche Kulturgüter im Ereignisfall temporär aufgenommen werden können. International werden Bergungsorte in inländischen Kulturgüterschutzanlagen, die für besonders gefährdete Kulturgüter aus Krisenregionen anderer Staaten auf der Grundlage von Staatsverträgen treuhänderisch zur Verfügung gestellt werden können, als \"Safe Haven\" bezeichnet;\no) \"Notlager\": vom Amt für Kultur bestimmte Bauten und Räumlichkeiten im Inland, die zur mittel- bis langfristigen Lagerung von evakuierten Kulturgütern bestimmt und freigehalten sind;\np) \"Notdepotflächen\": von den auf dem Schadenplatz verantwortlichen Personen bestimmte Orte, die für die provisorische, kurzzeitige Notlagerung von evakuierten Kulturgütern geeignet sind;\nq) \"Evakuation\": die vorbeugende, organisierte und kontrollierte Verbringung von beweglichen, unbeschädigten Kulturgütern an einen sicheren Ort bei Gefährdung;\nr) \"Bergung\": die Sicherung von bereits durch ein Schadenereignis beeinträchtigten Kulturgütern einschliesslich dem für die Auffindung, die Identifizierung oder die Objekthistorie beschreibendem Material aus einem Gefahrenbereich mit allfälligen anschliessenden stabilisierenden Sofortmassnahmen.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Eigenverantwortung des Eigentümers",
+      "content": "Der Eigentümer ist primär dafür verantwortlich, ausreichende vorbeugende Schutzmassnahmen und ausreichende Schutzmassnahmen zum Schutz seines Kulturgutes im Ereignisfall zu treffen. Er ist verpflichtet, die erforderlichen Schutzmassnahmen auf eigene Kosten vorzunehmen oder zuzulassen, um den Schutz des Kulturgutes im Ereignisfall sicherzustellen.\nII. Vorbeugende Schutzmassnahmen\nA. Kennzeichnung von Kulturgütern"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Kennzeichnung von Kulturgütern",
+      "section": "4",
+      "title": "Art. 4 Grundsatz",
+      "content": "1) Das Amt für Kultur kennzeichnet Kulturgüter, die im Ereignisfall vordringlich zu schützen sind, mit einem Schutzzeichen (nachfolgend \"Blue Shield\").\n2) Mit dem \"Blue Shield\" werden ausserdem folgende Schutzobjekte gekennzeichnet:\na) dem Kulturgüterschutz dienende Anlagen, Einrichtungen und Einsatzmittel;\nb) Personen, die mit dem Schutz von Kulturgütern in Ereignisfällen betraut sind.\n3) Das \"Blue Shield\" hat den gestalterischen Anforderungen nach dem Anhang zu entsprechen und ist am Kulturgut oder sonstigen Schutzobjekt sichtbar zu machen.\n4) Mit dem \"Blue Shield\" gekennzeichnete Kulturgüter oder sonstige Schutzobjekte sind bei bewaffneten Konflikten exterritorial geschützt und im Ereignisfall vom Land Liechtenstein zu schützen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Kennzeichnung von Kulturgütern",
+      "section": "5",
+      "title": "Art. 5 Verwendung des \"Blue Shield\"",
+      "content": "1) Das Amt für Kultur kennzeichnet Kulturgüter von nationaler Bedeutung und sonstige Schutzobjekte nach Art. 4 Abs. 2 mit dem einfachen \"Blue Shield\" (Anhang Ziff. II).\n2) Kulturgüter, die nach Art. 17 der Haager Konvention unter Sonderschutz stehen und bei der UNESCO im Internationalen Register für Kulturgut unter Sonderschutz eingetragen sind, werden vom Amt für Kultur mit dem dreifachen \"Blue Shield\" (Anhang Ziff. III) gekennzeichnet.\nB. Planung von Schutzmassnahmen"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "6",
+      "title": "Art. 6 Prüfung und Feststellung der Gefahrenlage",
+      "content": "1) Das Amt für Kultur überprüft das Kulturgut im Hinblick auf das Bestehen einer allfälligen Gefahrenlage zur Verhinderung oder Milderung schädigender Auswirkungen durch mögliche und wahrscheinliche zukünftige Ereignisse. Der Eigentümer hat dies zu dulden.\n2) Der Eigentümer hat Veränderungen an der vom Amt für Kultur festgestellten Gefahrenlage unverzüglich nach deren Erkennbarkeit dem Amt für Kultur anzuzeigen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "7",
+      "title": "Art. 7 Mangelhafte Schutzmassnahmen",
+      "content": "Werden mangelhafte Schutzmassnahmen festgestellt, bestimmt das Amt für Kultur die Schutzmassnahmen, die nach Art. 53 KGG vom Eigentümer auf eigene Kosten vorbeugend zu ergreifen oder zuzulassen sind, um im Ereignisfall die schädigenden Auswirkungen eines Ereignisses zu verhindern oder zu mildern. Das Amt für Kultur berät den Eigentümer bei der Planung und Umsetzung dieser Schutzmassnahmen.\nNotfallplan\nArt. 8\na) Grundsatz\n1) Der Eigentümer hat für Kulturgüter einen Notfallplan zu erstellen.\n2) Der Notfallplan dient im Ereignisfall den auf dem Schadenplatz verantwortlichen Personen zur organisierten Ergreifung von Schutzmassnahmen für Kulturgüter.\n3) Der Notfallplan ist objektbezogen nach Massgabe des Leitfadens des Amtes für Kultur über Notfallpläne (Art. 9) zu erstellen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "9",
+      "title": "Art. 9 b) Leitfaden über Notfallpläne",
+      "content": "1) Das Amt für Kultur erarbeitet einen Leitfaden über Notfallpläne. Der Leitfaden erläutert Art und Umfang des zu erstellenden Notfallplans und enthält:\na) die für einen raschen und wirksamen Einsatz der auf dem Schadenplatz verantwortlichen Personen bedeutsamen allgemeinen Angaben einschliesslich Evakuations- und Feuerwehreinsatzplänen; und\nb) Angaben über die im Falle des Eintritts von Schadenereignissen zu ergreifenden Schutzmassnahmen.\n2) Das Amt für Kultur veröffentlicht den Leitfaden nach Abs. 1 auf seiner Internetseite."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "10",
+      "title": "Art. 10 c) Genehmigungspflicht",
+      "content": "1) Der Eigentümer hat den Notfallplan im Anschluss an die Kennzeichnung des Kulturgutes nach Art. 4 und 5 beim Amt für Kultur zur Genehmigung einzureichen; das Amt für Kultur legt für die Einreichung des Notfallplans eine angemessene Frist fest.\n2) Das Amt für Kultur prüft den Notfallplan und fordert den Eigentümer bei Vorliegen von Mängeln auf, diesen zu verbessern und binnen einer angemessenen Frist erneut einzureichen.\n3) Das Amt für Kultur stellt den von ihm genehmigten Notfallplan informations- und stufengerecht allen Partnern zu; die Partner haben den Notfallplan so aufzubewahren, dass dieser jederzeit zur Verfügung steht."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "11",
+      "title": "Art. 11 d) Aufbewahrung und Aktualisierung",
+      "content": "1) Der Eigentümer hat den Notfallplan sicher und so aufzubewahren, dass er im Ereignisfall den auf dem Schadenplatz verantwortlichen Personen jederzeit zur Verfügung steht.\n2) Der Eigentümer hat den Notfallplan aktuell zu halten; Änderungen und Ergänzungen sind unverzüglich vorzunehmen.\n3) Der Eigentümer hat den aktualisierten Notfallplan unaufgefordert spätestens innerhalb von zwei Monaten nach Durchführung der Änderung oder Ergänzung dem Amt für Kultur zur Genehmigung vorzulegen.\n4) Nach Prüfung und allfälliger Verbesserung durch den Eigentümer stellt das Amt für Kultur den aktualisierten Notfallplan den Partnern zu.\n5) Kommt der Eigentümer seinen Pflichten nach Abs. 2 und 3 nicht nach, so fordert ihn das Amt für Kultur auf, den Notfallplan zu aktualisieren und diesen binnen einer angemessenen Frist einzureichen. Nach unbenutzt abgelaufener Frist nimmt das Amt für Kultur die Aktualisierung des Notfallplans auf Kosten des Eigentümers selbst vor."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "12",
+      "title": "Art. 12 e) Kostentragung",
+      "content": "Die Kosten für die Erstellung und Aktualisierung des Notfallplans sind vom Eigentümer zu tragen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "13",
+      "title": "Art. 13 Kulturgüterschutzanlagen und Notlager",
+      "content": "1) Zum Schutz von Kulturgütern werden Kulturgüterschutzanlagen und Notlager errichtet und betrieben, die folgende Anforderungen erfüllen:\na) Sie müssen für die Aufbewahrung der zu schützenden Kulturgüter zweckmässig und geeignet sein.\nb) Sie dürfen ausschliesslich den zu schützenden Kulturgütern zur Verfügung stehen; es darf sich nicht um allgemein nutzbare Lagerräume handeln.\nc) Sie müssen innert kürzester Zeit zur Einbringung von Kulturgütern zur Verfügung stehen.\n2) Kulturgüterschutzanlagen und Notlager können errichtet und betrieben durch:\na) das Land;\nb) Körperschaften, Anstalten oder Stiftungen; oder\nc) Privatpersonen.\n3) Über die Nutzung der landeseigenen Kulturgüterschutzanlagen und Notlager nach Abs. 2 Bst. a entscheidet das Amt für Kultur."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "B. Planung von Schutzmassnahmen",
+      "section": "14",
+      "title": "Art. 14 Bereithaltung von Einsatzmitteln",
+      "content": "1) Der Eigentümer hat die gemäss Notfallplan vor Ort erforderlichen Ersteinsatzmittel bereitzuhalten.\n2) Das Amt für Kultur kann mit Partnern und anderen Personen Leistungsvereinbarungen abschliessen, um sicherzustellen, dass diesen im Ereignisfall die erforderlichen Einsatzmittel wie Fahrzeuge, Ausrüstung, Material und Dienstleistungen zur Verfügung stehen.\nC. Beratung bei Kulturgüterschutzanlagen und Bergungsorten; Abschluss von \"Safe-Haven-Vereinbarungen\""
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Beratung bei Kulturgüterschutzanlagen und Bergungsorten; Abschluss von \"Safe-Haven-Vereinbarungen\"",
+      "section": "15",
+      "title": "Art. 15 Beratung bei Planung, Bau, Einrichtung und Verwaltung",
+      "content": "Das Amt für Kultur berät Kulturgüterschutzverantwortliche unentgeltlich bei der Planung, beim Bau sowie bei der Einrichtung und Verwaltung von Kulturgüterschutzanlagen und Bergungsorten."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "C. Beratung bei Kulturgüterschutzanlagen und Bergungsorten; Abschluss von \"Safe-Haven-Vereinbarungen\"",
+      "section": "16",
+      "title": "Art. 16 Abschluss von \"Safe-Haven-Vereinbarungen\"",
+      "content": "Die Regierung kann Vereinbarungen mit ausländischen Staaten und ausländischen Eigentümern von Kulturgütern abschliessen, die die temporäre Aufnahme von gefährdeten Kulturgütern in inländischen Kulturgüterschutzanlagen (\"Safe Haven\") vorsehen.\nD. Qualifikation und Ausbildung von Fachleuten des Kulturgüterschutzes"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "D. Qualifikation und Ausbildung von Fachleuten des Kulturgüterschutzes",
+      "section": "17",
+      "title": "Art. 17 Qualifikation und Ausbildung",
+      "content": "1) Die Planung und der Vollzug von Massnahmen zum Schutz von Kulturgütern im Ereignisfall darf nur an Personen übertragen werden, die über eine entsprechende Qualifikation auf dem Gebiet des Kulturgüterschutzes verfügen.\n2) Dem Amt für Kultur obliegt die Organisation der Ausbildung der Fachleute nach Abs. 1. Es stellt eine angemessene, periodische Aus- und Weiterbildung sicher und erarbeitet zusammen mit den Partnern ein entsprechendes Ausbildungsangebot.\n3) Die Kurskosten für die Aus- und Weiterbildung sowie allfällige Kosten für die Verpflegung und für Übernachtungen während des Kurses werden vom Land getragen; sonstige Entschädigungen werden nur im Ausnahmefall ersetzt.\nE. Kulturgüterschutzverbund"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "E. Kulturgüterschutzverbund",
+      "section": "18",
+      "title": "Art. 18 Organisation",
+      "content": "1) Die Koordination des Kulturgüterschutzdienstes (Art. 52 KGG) erfolgt im Rahmen eines Kulturgüterschutzverbundes.\n2) Der Kulturgüterschutzverbund setzt sich aus folgenden Mitgliedern zusammen:\na) dem Amt für Kultur, dessen Vertreter den Vorsitz führt;\nb) den inländischen öffentlich-rechtlichen Eigentümern von Kulturgütern;\nc) im Einzelfall in den Verbund aufgenommenen privatrechtlichen Eigentümern von Kulturgütern.\n3) Der Kulturgüterschutzverbund wird zweimal jährlich oder bei Bedarf vom Amt für Kultur einberufen und von dessen Vertreter geleitet. Jedes Mitglied des Kulturgüterschutzverbundes entsendet einen Kulturgüterschutzverantwortlichen als Vertreter in den Kulturgüterschutzverbund.\n4) Entscheidungen des Kulturgüterschutzverbundes werden mit einfacher Mehrheit getroffen. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Über die jeweiligen Sitzungen wird ein Protokoll geführt, das allen Mitgliedern zugeht.\n5) Die Mitglieder des Kulturgüterschutzverbundes bleiben trotz ihrer Mitgliedschaft institutionell und inhaltlich eigenständig.\n6) Die Kontaktinformationen des Kulturgüterschutzverbundes werden auf der Internetseite des Amtes für Kultur veröffentlicht.\n7) Das Nähere über die Organisation des Kulturgüterschutzverbundes regeln die Mitglieder in einem schriftlichen Vertrag."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "E. Kulturgüterschutzverbund",
+      "section": "19",
+      "title": "Art. 19 Zweck",
+      "content": "Der Kulturgüterschutzverbund bezweckt:\na) die bestehenden Ressourcen (Personal und Sachmittel) im Rahmen der jeweiligen Möglichkeiten im Ereignisfall zum Schutz von Kulturgütern zusammenzuführen und die im Ereignisfall zu leistenden Aufgaben in gegenseitiger Unterstützung zu bewältigen;\nb) die wechselseitige Unterstützung in allen Fragen und Aufgaben der Prävention sowie die Pflege der Kontakte untereinander und zu den Partnern. Zu dieser Unterstützung gehören die vorbeugenden Schutzmassnahmen, die Festlegung und Pflege einer Alarmierungsstruktur sowie die Schutzmassnahmen im Ereignisfall."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "E. Kulturgüterschutzverbund",
+      "section": "20",
+      "title": "Art. 20 Aufgaben",
+      "content": "1) Die Mitglieder des Kulturgüterschutzverbundes leisten sich in Ereignisfällen gegenseitig uneigennützige personelle und technische Hilfe, sofern sie über die entsprechenden Kapazitäten verfügen. Die Hilfe umfasst insbesondere:\na) die Unterstützung der auf dem Schadenplatz verantwortlichen Personen bei der Evakuation, Bergung, Sicherung und gegebenenfalls Stabilisierung des betroffenen Kulturgutes; und\nb) die temporäre Bereitstellung von Notdepotflächen oder eigenen Notlagern.\n2) Der Kulturgüterschutzverbund unterhält für Einsätze eine Grundausrüstung (Arbeits- und Schutzbekleidung, Werkzeug und Hilfsmittel), deren Kosten von den Mitgliedern des Kulturgüterschutzverbundes zu gleichen Teilen getragen werden. Im Übrigen werden die Kosten für Einsätze des Kulturgüterschutzverbundes vom einzelnen Mitglied selbst getragen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "E. Kulturgüterschutzverbund",
+      "section": "21",
+      "title": "Art. 21 Allgemeine Pflichten der Mitglieder des Kulturgüterschutzverbundes und der für sie tätigen Personen",
+      "content": "1) Die Mitglieder des Kulturgüterschutzverbundes sowie die für sie im Ereignisfall tätigen Personen haben ihre Aufgaben mit pflichtgemässer Sorgfalt zu erfüllen.\n2) Die im Ereignisfall tätigen Personen sind vom entsprechenden Mitglied des Kulturgüterschutzverbundes für die Zeit des erforderlichen Einsatzes freizustellen. Die geleisteten Einsatzzeiten gelten als Arbeitszeit und sind vom entsprechenden Mitglied des Kulturgüterschutzverbundes angemessen zu vergüten.\n3) Die Mitglieder des Kulturgüterschutzverbundes haben Ereignisfälle unverzüglich dem Kulturgüterschutzverbund zu melden.\n4) Die Mitglieder des Kulturgüterschutzverbundes haben im Rahmen ihrer Zuständigkeit sicherzustellen, dass die für sie auf dem Schadenplatz tätigen Personen über eine ausreichende Haftpflicht-, Rechtsschutz- und Unfallversicherung verfügen.\n5) Die Mitglieder des Kulturgüterschutzverbundes stellen sich gegenseitig von der Haftung für alle Körper- und Sachschäden frei, die bei Einsätzen im Ereignisfall entstehen, es sei denn, die Schäden werden vorsätzlich oder grob fahrlässig verursacht."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "E. Kulturgüterschutzverbund",
+      "section": "22",
+      "title": "Art. 22 Einsatz des Kulturgüterschutzverbundes im Ereignisfall",
+      "content": "1) Der Kulturgüterschutzverbund hat dafür Sorge zu tragen, dass er im Ereignisfall für seine Mitglieder und die übrigen Partner jederzeit erreichbar ist.\n2) Es besteht kein grundsätzliches Anrecht auf den aktiven Einsatz des Kulturgüterschutzverbundes. Das Aufgebotsrecht steht dem Amt für Kultur zu.\n3) Das Amt für Kultur kann einzelne Vertreter von Mitgliedern des Kulturgüterschutzverbundes zu Einsatzleitern bestimmen. Diesen steht im Ereignisfall die Leitung des Kulturgüterschutzverbundes zu.\n4) Für die Durchführung von Einsätzen des Kulturgüterschutzverbundes im Ereignisfall ist die jeweilige Schadenplatzorganisation massgebend. Fehlen im Ereignisfall auf dem Schadenplatz die gemäss Schadenplatzorganisation verantwortlichen Personen, so kann das Amt für Kultur eine verantwortliche Person bestimmen, der die Durchführung aller Massnahmen obliegt, die zum Schutz von Kulturgütern geeignet und erforderlich sind.\n5) Die für den Kulturgüterschutzverbund tätigen Personen und deren Ausrüstung werden auf dem Schadenplatz mit dem einfachen \"Blue Shield\" gekennzeichnet.\n6) Einsätze des Kulturgüterschutzverbundes im Ereignisfall werden im Rahmen der verfügbaren Mittel in der Regel unentgeltlich durchgeführt. Die Kosten für Verbrauchsmaterial, das dem Schutz von Kulturgütern dient, sowie ausserordentliche Aufwendungen können dem Eigentümer in Rechnung gestellt werden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "E. Kulturgüterschutzverbund",
+      "section": "23",
+      "title": "Art. 23 Koordination des Kulturgüterschutzverbundes mit den übrigen Partnern",
+      "content": "1) Das Amt für Kultur koordiniert die Zusammenarbeit des Kulturgüterschutzverbundes mit den übrigen Partnern.\n2) Das Amt für Kultur organisiert geeignete Massnahmen, um im Ereignisfall die Objekts- und Ortskenntnisse der auf dem Schadenplatz tätigen Personen sicherzustellen. Solche Massnahmen können insbesondere umfassen:\na) Durchführung regelmässiger Besichtigungen der Kulturgüter, Kulturgüterschutzanlagen und Notlager;\nb) gemeinsame Analyse der Notfallpläne;\nc) Durchführung von Evakuationsübungen.\n3) Die übrigen Partner haben Ereignisfälle unverzüglich dem Kulturgüterschutzverbund zu melden.\n4) Privatrechtliche Eigentümer, die nicht Mitglieder des Kulturgüterschutzverbundes sind, können den Kulturgüterschutzverbund um Beratung oder Hilfe im Ereignisfall ersuchen; sie gelten damit als Partner. Im Übrigen findet Art. 22 Abs. 2 sinngemäss Anwendung.\n5) Die Partner stellen sich gegenseitig von der Haftung für alle Körper- und Sachschäden frei, die bei Einsätzen im Ereignisfall entstehen, es sei denn, die Schäden werden vorsätzlich oder grob fahrlässig verursacht.\nF. Erstellung von Sicherstellungsdokumentationen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "F. Erstellung von Sicherstellungsdokumentationen",
+      "section": "24",
+      "title": "Art. 24 Sicherstellungsdokumentation",
+      "content": "1) Das Amt für Kultur erstellt im Zusammenwirken mit dem Eigentümer im Rahmen der Planung von Schutzmassnahmen eine Sicherstellungsdokumentation, die bei Schadenereignissen zur Wiederauffindung von verloren gegangenen und zur Wiederherstellung von beschädigten Kulturgütern dient.\n2) Das Amt für Kultur legt für die einzelnen Kulturgüter sowohl Art und Umfang sowie technische Anforderungen und Aufbewahrungsmodalitäten der Sicherstellungsdokumentation fest.\n3) Die mit der Erstellung der Sicherstellungsdokumentation entstehenden Kosten werden vom Land und vom Eigentümer getragen. Die Aufteilung dieser Kosten wird im Einvernehmen zwischen dem Amt für Kultur und dem Eigentümer festgelegt. Kann kein Einvernehmen hergestellt werden, richtet sich die Höhe des finanziellen Beitrages des Landes sinngemäss nach Art. 5 und 6 der Kulturgüter-Beitrags-Verordnung.\n4) Die Sicherstellungsdokumentation wird vom Amt für Kultur aufbewahrt. Der Eigentümer erhält unentgeltlich eine Kopie der Sicherstellungsdokumentation. Weitere Kopien der Sicherstellungsdokumentation kann der Eigentümer beim Amt für Kultur gegen Ersatz von allfälligen Erstellungskosten beziehen.\nIII. Schutzmassnahmen im Ereignisfall und Wiederherstellung von beschädigten Kulturgütern"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "III. Schutzmassnahmen im Ereignisfall und Wiederherstellung von beschädigten Kulturgütern",
+      "section": "25",
+      "title": "Art. 25 Grundsatz",
+      "content": "1) Im Ereignisfall haben die Eigentümer im Zusammenwirken mit dem Amt für Kultur sowie den übrigen Partnern alle geeigneten Massnahmen zu treffen und zuzulassen, die zum Schutz und zur Rettung unter Schutz gestellter Kulturgüter notwendig sind.\n2) Für die Durchführung von Einsätzen auf Schadenplätzen ist die jeweilige Schadenplatzorganisation massgebend.\n3) Das Amt für Kultur kann im Ereignisfall den Kulturgüterschutzverbund nach Massgabe von Art. 22 Abs. 2 zum Einsatz auf dem Schadenplatz einberufen.\n4) Ist der Eigentümer nicht auf dem Schadenplatz anwesend oder ist dieser untätig, können Massnahmen nach Abs. 1 auch vom Amt für Kultur oder den übrigen Partnern getroffen werden.\n5) Stellt ein Ereignisfall eine besondere oder ausserordentliche Lage im Sinne des Bevölkerungsschutzgesetzes dar, so vertritt das Amt für Kultur kulturgüterschutzrechtliche Interessen im Landesführungsstab."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "III. Schutzmassnahmen im Ereignisfall und Wiederherstellung von beschädigten Kulturgütern",
+      "section": "26",
+      "title": "Art. 26 Haftung des Eigentümers",
+      "content": "1) Für den durch das Schadenereignis oder durch den Einsatz des Amtes für Kultur oder der übrigen Partner am Kulturgut entstandenen Schaden haftet ausschliesslich dessen Eigentümer; dies gilt auch für die beim Einsatz entstandenen Kosten und Aufwendungen sowie alle weiteren Folgekosten im Zusammenhang mit dem Kulturgut.\n2) Soweit es sich um unter Schutz gestellte Kulturgüter handelt, kann sich das Land an den Kosten und Aufwendungen nach Abs. 1 beteiligen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "III. Schutzmassnahmen im Ereignisfall und Wiederherstellung von beschädigten Kulturgütern",
+      "section": "27",
+      "title": "Art. 27 Wiederherstellung von beschädigten Kulturgütern",
+      "content": "Die Wiederherstellung von einem bei einem Schadenereignis beschädigten Kulturgut obliegt ausschliesslich dessen Eigentümer.\nIV. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "IV. Schlussbestimmung",
+      "section": "28",
+      "title": "Art. 28 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 2021 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nAnhang\n(Art. 4 Abs. 3)\nGestaltung des Schutzzeichens \"Blue Shield\"\nI. Allgemeines\nDas \"Blue Shield\" besteht aus einem mit der Spitze nach unten zeigenden Schild in Ultramarinblau und Weiss; der Schild wird aus einem ultramarinblauen Quadrat, dessen Ecke die Spitze des Schildes darstellt, und einem oberhalb des Quadrates angeordneten ultramarinblauen Dreieck gebildet, wobei der verbleibende Raum auf beiden Seiten von je einem weissen Dreieck ausgefüllt wird.\nII. \"Blue Shield\" als einfaches Schutzzeichen für Kulturgüter von nationaler Bedeutung\nIII. Dreifaches \"Blue Shield\" (Sonderschutz) für Kulturgüter von internationaler Bedeutung\n1\nArt. 2 Abs. 1 Bst. f Ziff. 4 abgeändert durch LGBl. 2022 Nr. 56 .\n2\nKonvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten, LGBl. 1960 Nr. 17/1"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kulturgüter",
+      "definition": "1. unter Schutz gestellte Kulturgüter nach Art. 40 iVm Art. 2 Abs. 1 KGG;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Ereignisfall",
+      "definition": "eine durch ein Ereignis verursachte akute, umfangreiche Gefährdung oder Schädigung von Kulturgut;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gefährdung",
+      "definition": "eine Situation, in der ein Kulturgut gegenwärtig in Gefahr ist oder in Zukunft in Gefahr sein könnte; zu berücksichtigen sind dabei insbesondere konkrete Bedrohungen, die zu erwartenden Intensitäten (Ausmass) und die Wahrscheinlichkeit, mit der ein Ereignis eintreten kann;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schadenereignis",
+      "definition": "eine Handlung (insbesondere in einem bewaffneten Konflikt), eine Unterlassung, ein aussergewöhnliches Naturereignis oder sonstige unvorhergesehene Ereignisse wie Feuer/Hitze, Rauch/Russ, Wasser/Feuchtigkeit, Schlag/Druck, biologischer Befall, chemische Reaktionen, technische Defekte und andere Ereignisse, durch welche Schaden entsteht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schädigung",
+      "definition": "ein durch ein Schadenereignis entstandener Schaden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Partner",
+      "definition": "folgende Einrichtungen und Personen:",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kulturgüterschutzverantwortliche",
+      "definition": "Personen, die von den Eigentümern der Kulturgüter mit dem Schutz der Kulturgüter beauftragt werden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eigentümer",
+      "definition": "Eigentümer von Kulturgütern;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Blaulichtorganisationen",
+      "definition": "Einsatzkräfte mit Sicherheitsaufgaben zur Abwehr von Gefahren wie Polizei oder Feuerwehr;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "vorbeugende Schutzmassnahmen",
+      "definition": "alle baulichen, anlagetechnischen und organisatorischen Massnahmen, die im Ereignisfall der Verhinderung oder Milderung von schädigenden Auswirkungen auf Kulturgüter dienen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schutzmassnahmen im Ereignisfall",
+      "definition": "alle praktischen und organisatorischen Massnahmen, die zur Evakuation, Bergung, Stabilisierung und Sicherung der gefährdeten und allenfalls beschädigten Kulturgüter führen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kulturgüterschutzanlagen",
+      "definition": "den Erfordernissen eines bewaffneten Konfliktes angepasste Schutzräume im Inland, die für die Unterbringung der wichtigsten beweglichen Kulturgüter bestimmt wurden und in denen durch Schadenereignisse gefährdete Kulturgüter für die Dauer der Gefährdung sicher aufbewahrt werden können;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Bergungsorte",
+      "definition": "bauliche oder andere ortsfeste Einrichtungen, in denen bedrohte bewegliche Kulturgüter im Ereignisfall temporär aufgenommen werden können. International werden Bergungsorte in inländischen Kulturgüterschutzanlagen, die für besonders gefährdete Kulturgüter aus Krisenregionen anderer Staaten auf der Grundlage von Staatsverträgen treuhänderisch zur Verfügung gestellt werden können, als \"Safe Haven\" bezeichnet;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Notlager",
+      "definition": "vom Amt für Kultur bestimmte Bauten und Räumlichkeiten im Inland, die zur mittel- bis langfristigen Lagerung von evakuierten Kulturgütern bestimmt und freigehalten sind;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Notdepotflächen",
+      "definition": "von den auf dem Schadenplatz verantwortlichen Personen bestimmte Orte, die für die provisorische, kurzzeitige Notlagerung von evakuierten Kulturgütern geeignet sind;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Evakuation",
+      "definition": "die vorbeugende, organisierte und kontrollierte Verbringung von beweglichen, unbeschädigten Kulturgütern an einen sicheren Ort bei Gefährdung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Bergung",
+      "definition": "die Sicherung von bereits durch ein Schadenereignis beeinträchtigten Kulturgütern einschliesslich dem für die Auffindung, die Identifizierung oder die Objekthistorie beschreibendem Material aus einem Gefahrenbereich mit allfälligen anschliessenden stabilisierenden Sofortmassnahmen.",
+      "source_provision": "art2"
+    }
+  ]
+}

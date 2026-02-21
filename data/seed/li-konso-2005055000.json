@@ -1,0 +1,162 @@
+{
+  "id": "li-konso-2005055000",
+  "type": "statute",
+  "title": "Verordnung vom 15. März 2005 über die Krankenversicherungskarte (Krankenversicherungskartenverordnung; KVKV)",
+  "title_en": "",
+  "short_name": "KVKV",
+  "status": "in_force",
+  "issued_date": "2005-03-15",
+  "in_force_date": "2005-03-15",
+  "url": "https://www.gesetze.li/konso/2005055000",
+  "description": "Verordnung vom 15. März 2005 über die Krankenversicherungskarte (Krankenversicherungskartenverordnung; KVKV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt insbesondere:\na) die Produktion, die Ausgabe und den Ersatz der Krankenversicherungskarte;\nb) die technischen Merkmale und die grafische Gestaltung der Krankenversicherungskarte;\nc) die Aufnahme von Daten in die Krankenversicherungskarte;\nd) den Datenschutz;\ne) die Ausstellung von provisorischen Ersatzbescheinigungen.\n2) Sie dient insbesondere:\na) der Vereinfachung der administrativen Abläufe zwischen Krankenkassen, Leistungserbringern und Versicherten bei der Erbringung von Dienstleistungen im Bereich der Krankenpflegeversicherung;\nb) der Umsetzung der Beschlüsse S1 und S2 vom 12. Juni 2009 der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit (EWR-Rechtssammlung: Anh. VI - 8.1 und 8.2)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung bedeuten:\na) Krankenversicherungskarte: eine elektronisch lesbare und mit einer Identifikationsnummer versehene Karte, die nach Massgabe der Art. 10 bis 13 Daten über eine im Rahmen der Krankenpflegeversicherung versicherte Person enthält;\nb) Krankenkassen: die nach Art. 1 f. des Gesetzes über die Krankenversicherung (KVG) von der Regierung anerkannten Krankenkassen;\nc) Leistungserbringer: Ärzte, Zahnärzte, Apotheker und andere Personen, die einen Gesundheitsberuf ausüben, Einrichtungen des Gesundheitswesens sowie Krankentransportunternehmungen;\nd) Karteninhaber: die nach Massgabe der Krankenversicherungskarte versicherte Person.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Elektronische Leistungsverrechnung",
+      "content": "Die Krankenkassen können die Krankenversicherungskarte zur elektronischen Leistungsverrechnung benutzen.\nII. Krankenversicherungskarte\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Allgemeines",
+      "section": "4",
+      "title": "Art. 4 Produktion und Abgabe",
+      "content": "Den Krankenkassen obliegt die Produktion und Abgabe der Krankenversicherungskarte an die im Rahmen der obligatorischen Krankenpflegeversicherung versicherten Personen. Die Produktion und Abgabe kann an Dritte übertragen werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Allgemeines",
+      "section": "5",
+      "title": "Art. 5 Gültigkeitsdauer",
+      "content": "Die Gültigkeitsdauer der Krankenversicherungskarte wird von der zuständigen Krankenkasse bestimmt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Allgemeines",
+      "section": "6",
+      "title": "Art. 6 Meldepflicht bei Verlust; Ersatz",
+      "content": "1) Der Karteninhaber hat den Verlust oder Diebstahl der Krankenversicherungskarte unverzüglich nach Kenntnisnahme der zuständigen Krankenkasse bekannt zu geben.\n2) Die Krankenkassen erstellen Richtlinien über den Ersatz der Krankenversicherungskarte bei Diebstahl oder Verlust. Die Kosten für den Ersatz können dem Karteninhaber auferlegt werden.\n3) Die Bestimmungen über die provisorische Ersatzbescheinigung nach Art. 18 bleiben vorbehalten.\nB. Technische Merkmale und Gestaltung"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Technische Merkmale und Gestaltung",
+      "section": "7",
+      "title": "Art. 7 Grundsatz",
+      "content": "1) Die Krankenversicherungskarte besteht auf der Vorderseite aus der Liechtensteinischen Versichertenkarte und auf der Rückseite aus der Europäischen Krankenversicherungskarte.\n2) Auf der Vorderseite der Krankenversicherungskarte kann bei Bedarf ein Mikroprozessor angebracht werden. Wird auf der Vorderseite kein Mikroprozessor angebracht, so ist die Rückseite mit einem Magnetstreifen zu versehen.\n3) Die Krankenversicherungskarte hat das in Anhang 1 des Beschlusses S2 der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit genannte Format aufzuweisen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Technische Merkmale und Gestaltung",
+      "section": "8",
+      "title": "Art. 8 Liechtensteinische Versichertenkarte",
+      "content": "Die Krankenkassen sind bei der grafischen Gestaltung der Liechtensteinischen Versichertenkarte frei. Insbesondere können Angaben über die zuständige Krankenkasse aufgenommen werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Technische Merkmale und Gestaltung",
+      "section": "9",
+      "title": "Art. 9 Europäische Krankenversicherungskarte",
+      "content": "1) Die Europäische Krankenversicherungskarte kann in Form eines Aufklebers abgegeben werden, der auf der Rückseite der Krankenversicherungskarte anzubringen ist.\n2) Die Europäische Krankenversicherungskarte ist in deutscher Sprache zu verfassen.\n3) Im Übrigen richten sich die grafische Darstellung und die technischen Merkmale der Europäischen Krankenversicherungskarte nach Anhang 1 des Beschlusses S2 der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit.\nC. Daten"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "C. Daten",
+      "section": "10",
+      "title": "Art. 10 Grundsatz",
+      "content": "1) Die Krankenversicherungskarte hat die Daten nach Art. 15 in sichtbarer und/oder elektronisch lesbarer Form nach Massgabe der nachfolgenden Bestimmungen zu enthalten.\n2) Der Karteninhaber hat der zuständigen Krankenkasse Änderungen der ihn betreffenden Daten rechtzeitig, spätestens jedoch auf Anfrage oder anlässlich des nächsten Leistungsbezugs, zur Kenntnis zu bringen.\nLiechtensteinische Versichertenkarte"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "C. Daten",
+      "section": "11",
+      "title": "Art. 11 a) sichtbare Daten",
+      "content": "1) Die Liechtensteinische Versichertenkarte hat die Daten nach Art. 15 Abs. 1 Bst. a bis g in sichtbarer Form zu enthalten.\n2) Die Krankenkassen können Daten nach Art. 15 Abs. 1 Bst. h bis l und p in die Liechtensteinische Versichertenkarte aufnehmen.\n3) Daten, die bereits in sichtbarer Form auf der Europäischen Krankenversicherungskarte enthalten sind (Art. 13), brauchen nicht in die Liechtensteinische Versichertenkarte aufgenommen werden."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "C. Daten",
+      "section": "12",
+      "title": "Art. 12 b) elektronisch zugängliche Daten",
+      "content": "1) Über den Magnetstreifen der Krankenversicherungskarte sind die Daten nach Art. 15 Abs. 1 Bst. a bis l elektronisch zugänglich zu machen.\n2) Die Krankenkassen können Daten nach Art. 15 Abs. 1 Bst. p bis r elektronisch zugänglich machen.\n3) Daten nach Art. 15 Abs. 1 Bst. m bis o dürfen nur mit schriftlicher Zustimmung des Karteninhabers und unter Vorbehalt seines schriftlichen Widerrufs elektronisch zugänglich gemacht werden.\n4) Bei der Verwendung eines Mikroprozessors (Art. 7 Abs. 2) finden die Abs. 1 bis 3 sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Daten",
+      "section": "13",
+      "title": "Art. 13 Europäische Krankenversicherungskarte",
+      "content": "Die Europäische Krankenversicherungskarte hat die Daten nach Art. 15 Abs. 1 Bst. a bis g in sichtbarer Form zu enthalten.\nD. Datenschutz"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "D. Datenschutz",
+      "section": "14",
+      "title": "Art. 14 Vorgängige Information der Versicherten",
+      "content": "Die Krankenkassen informieren die im Rahmen der obligatorischen Krankenpflegeversicherung versicherten Personen spätestens bei Abgabe der Krankenversicherungskarte schriftlich über Art, Umfang und Zweck der Datenverarbeitung (Art. 15) sowie über die ihnen zustehenden Rechte nach der Datenschutzgesetzgebung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "D. Datenschutz",
+      "section": "15",
+      "title": "Art. 15 Datenverarbeitung",
+      "content": "1) Die Krankenkassen und Leistungserbringer dürfen vorbehaltlich Abs. 2 folgende Daten verarbeiten:\na) den Namen und Vornamen des Karteninhabers;\nb) das Geburtsdatum des Karteninhabers;\nc) das Geschlecht des Karteninhabers;\nd) die persönliche Kennnummer des Karteninhabers (Identifikationsnummer; IDN);\ne) die Kennnummer der zuständigen Krankenkasse und deren Akronym;\nf) die Kartennummer bei der Liechtensteinischen Versichertenkarte bzw. die fortlaufende Kennnummer bei der Europäischen Krankenversicherungskarte;\ng) die Gültigkeitsdauer der Karte;\nh) die Adresse des Karteninhabers;\ni) Angaben zur Grundversicherung;\nk) Angaben zu Zusatzversicherungen;\nl) Angaben zur Unfallversicherung, sofern diese in der obligatorischen Krankenpflegeversicherung enthalten ist;\nm) Notfalldaten wie insbesondere Blutgruppe, Allergien, Diabetes;\nn) Angaben zum Arzt des Vertrauens bzw. Hausarzt;\no) Angaben über den Zeitpunkt der erbrachten Leistungen und den Leistungserbringer (Behandlungspfad);\np) das Lichtbild des Karteninhabers;\nq) den Kartenstatus;\nr) den Versicherten- bzw. Versicherungsstatus.\n2) Daten nach Abs. 1 Bst. m bis o dürfen ausschliesslich von Ärzten, Zahnärzten und Apotheken verarbeitet werden.\n2a) Das Amt für Gesundheit darf zur Erfassung und Zuweisung von Versicherungspflichtigen die Daten nach Abs. 1 Bst. a bis e, i und r verarbeiten.\n3) Die Krankenkassen können die Datenverarbeitung unter Beachtung der Datenschutzgesetzgebung an Dritte übertragen. Die Auftragserteilung und der Auftragsrahmen sind schriftlich festzuhalten.\n4) Vorbehalten bleiben die Bestimmungen der Datenschutzgesetzgebung."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "D. Datenschutz",
+      "section": "16",
+      "title": "Art. 16 Datenabfrage",
+      "content": "1) Zur Abfrage der Daten nach Art. 12 sind vorbehaltlich Abs. 2 berechtigt:\na) die Leistungserbringer;\nb) die zuständigen Krankenkassen;\nc) der Amtsarzt.\n2) Daten nach Art. 15 Abs. 1 Bst. m bis o dürfen ausschliesslich von Ärzten, Zahnärzten und Apothekern, die in den aktuellen Fall medizinisch und therapeutisch involviert sind, abgefragt werden.\n3) Die Datenabfrage darf nur erfolgen, wenn die Datenverarbeitung in einem konkreten Anlassfall für eine Gesundheitsabklärung oder eine versicherungstechnische Abklärung erforderlich ist.\n4) Die Abfrage der Daten nach Art. 12 Abs. 2 und 3 ist nur mittels Einlesen der Krankenversicherungskarte zu gewähren."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "D. Datenschutz",
+      "section": "17",
+      "title": "Art. 17 Datenrichtigkeit und -sicherheit",
+      "content": "1) Die nach Art. 15 zur Datenverarbeitung berechtigten Personen haben für die Richtigkeit und Sicherheit der von ihnen verarbeiteten Daten zu sorgen.\n2) Die Vollständigkeit und Aktualität der Daten ist, soweit möglich und zumutbar, sicherzustellen. Es besteht kein Anspruch auf Vollständigkeit und Aktualität der Daten.\n3) Die Datensicherheit ist zu jedem Zeitpunkt der Datenverarbeitung und -übertragung zu gewährleisten.\n4) Bei der Datenverarbeitung und -übertragung sind allgemein anerkannte Verfahren anzuwenden. Die Daten sind durch angemessene organisatorische und technische Massnahmen, insbesondere durch eine dem Stand der Technik entsprechende Verschlüsselung, zu schützen.\n5) Stellt eine Krankenkasse oder eine von ihr mit der Datenverarbeitung beauftragte Person (Art. 15 Abs. 3) die Geschäftstätigkeit ein, so hat sie nach der Übermittlung der Daten an eine andere Krankenkasse oder beauftragte Person die Löschung sämtlicher Daten nach Art. 15 vorzunehmen. Die Daten sind bei der Übermittlung gegen unbefugten Zugriff zu schützen.\nIII. Provisorische Ersatzbescheinigung"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III. Provisorische Ersatzbescheinigung",
+      "section": "18",
+      "title": "Art. 18 Grundsatz",
+      "content": "1) Die Krankenkassen können in dringenden Fällen, namentlich bei nicht rechtzeitiger Ausstellung der Krankenversicherungskarte oder bei Diebstahl oder Verlust, auf Antrag einer im Rahmen der obligatorischen Krankenpflegeversicherung versicherten Person eine provisorische Ersatzbescheinigung für die Europäische Krankenversicherungskarte ausstellen.\n2) Die Gültigkeitsdauer der provisorischen Ersatzbescheinigung ist durch die zuständige Krankenkasse den Umständen entsprechend angemessen zu befristen.\n3) Die Form und die Gestaltung der provisorischen Ersatzbescheinigung richten sich nach Anhang 2 des Beschlusses S2 der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit.\nIV. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "IV. Übergangs- und Schlussbestimmungen",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "IV. Übergangs- und Schlussbestimmungen",
+      "section": "20",
+      "title": "Art. 20 Abgabe der Krankenversicherungskarte",
+      "content": "Die Krankenkassen haben die Krankenversicherungskarte spätestens bis zum 1. Januar 2006 an alle im Rahmen der obligatorischen Krankenpflegeversicherung versicherten Personen abzugeben."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "IV. Übergangs- und Schlussbestimmungen",
+      "section": "21",
+      "title": "Art. 21 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 2005 in Kraft.\nFürstliche Regierung:\ngez. Otmar Hasler\nFürstlicher Regierungschef\n1\nLR 832.10\n2\nArt. 1 Abs. 2 Bst. b abgeändert durch LGBl. 2012 Nr. 225 .\n3\nArt. 2 Abs. 1 Bst. c abgeändert durch LGBl. 2008 Nr. 44 .\n4\nArt. 4 abgeändert durch LGBl. 2018 Nr. 421 .\n5\nArt. 7 Abs. 3 abgeändert durch LGBl. 2012 Nr. 225 .\n6\nArt. 9 Abs. 3 abgeändert durch LGBl. 2012 Nr. 225 .\n7\nArt. 14 abgeändert durch LGBl. 2018 Nr. 421 .\n8\nArt. 15 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 421 .\n9\nArt. 15 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2018 Nr. 421 .\n10\nArt. 15 Abs. 2 abgeändert durch LGBl. 2018 Nr. 421 .\n11\nArt. 15 Abs. 2a abgeändert durch LGBl. 2019 Nr. 179 .\n12\nArt. 15 Abs. 3 abgeändert durch LGBl. 2018 Nr. 421 .\n13\nArt. 16 Abs. 1 Bst. c abgeändert durch LGBl. 2008 Nr. 30 .\n14\nArt. 16 Abs. 3 abgeändert durch LGBl. 2018 Nr. 421 .\n15\nArt. 17 Abs. 1 abgeändert durch LGBl. 2018 Nr. 421 .\n16\nArt. 17 Abs. 3 abgeändert durch LGBl. 2018 Nr. 421 .\n17\nArt. 17 Abs. 4 abgeändert durch LGBl. 2018 Nr. 421 .\n18\nArt. 17 Abs. 5 abgeändert durch LGBl. 2018 Nr. 421 .\n19\nArt. 18 Abs. 3 abgeändert durch LGBl. 2012 Nr. 225 .\n20\nArt. 19 aufgehoben durch LGBl. 2012 Nr. 225 ."
+    }
+  ],
+  "definitions": []
+}

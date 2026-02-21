@@ -1,0 +1,51 @@
+{
+  "id": "li-konso-1953003000",
+  "type": "statute",
+  "title": "Gesetz vom 22. Dezember 1952 über die Ausgabe eines 100 Franken Goldstückes",
+  "title_en": "",
+  "short_name": "LGBl 1953.003",
+  "status": "in_force",
+  "issued_date": "1952-12-22",
+  "in_force_date": "1952-12-22",
+  "url": "https://www.gesetze.li/konso/1953003000",
+  "description": "Gesetz vom 22. Dezember 1952 über die Ausgabe eines 100 Franken Goldstückes",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Es werden 4 000 Goldmünzen zu 100 Franken ausgegeben. Die Prägung erfolgt in der Eidgenössischen Münzstätte in Bern."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1) Diese Goldmünzen werden in einem Mischungsverhältnis von 900 Tausendteilen Gold und 100 Tausendteilen Kupfer ausgeprägt. Aus 1 kg Münzgold werden daher 31 Stück zu 100 Franken ausgeprägt.\n2) Das Rohgewicht des 100 Franken Goldstückes beträgt daher 32.25805 g, das Feingewicht 29.032245 g."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1) Die Goldmünzen werden auf der Aversseite das Brustbild des Durchlauchten Fürstenpaares mit der Umschrift \"Franz Josef II. und Gina von Liechtenstein\", sowie die Jahrzahl 1952, und auf der Reversseite das Landeswappen mit der Umschrift \"Fürstentum Liechtenstein\" und der Wertbezeichnung 100 Franken tragen.\n2) Dieses 100 Franken-Goldstück trägt die Randschrift \"Dominus providebit\".\n3) Die Goldmünzen messen 35 mm im Durchmesser."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Der Feingehalt der neuen Goldmünze wird vom Eidgenössischen Zentralamt für Edelmetallkontrolle geprüft. Es wird eine Gewichtstoleranz von 1 &permil; gestattet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1) Goldmünzen, deren Gewicht um mehr als 1/2 % unter die in Art. 4 bezeichnete Fehlergrenze (Toleranzgewicht) gesunken ist, werden von den öffentlichen Kassen nur zum tatsächlichen Goldwert eingelöst.\n2) Das Passiergewicht der 100 Franken Goldmünzen beträgt 32.065 g."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Dieses Gesetz wird als nicht dringlich erklärt und tritt mit dem Tage der Kundmachung in Kraft. Mit seiner Durchführung ist die Fürstliche Regierung beauftragt.\nVaduz, am 22. Dezember 1952\ngez. Franz Josef\ngez. Alexander Frick\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

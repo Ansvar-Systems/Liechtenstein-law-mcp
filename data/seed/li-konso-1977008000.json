@@ -1,0 +1,45 @@
+{
+  "id": "li-konso-1977008000",
+  "type": "statute",
+  "title": "Verordnung vom 11. Januar 1977 zum Gesetz über einen Beitrag für die Unfallverhütung im Strassenverkehr",
+  "title_en": "",
+  "short_name": "LGBl 1977.008",
+  "status": "in_force",
+  "issued_date": "1977-01-11",
+  "in_force_date": "1977-01-11",
+  "url": "https://www.gesetze.li/konso/1977008000",
+  "description": "Verordnung vom 11. Januar 1977 zum Gesetz über einen Beitrag für die Unfallverhütung im Strassenverkehr",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Der Unfallverhütungsbeitrag beträgt 0.75% der Nettoprämie der Motorfahrzeug-Haftpflichtversicherung. Die Haftpflichtversicherungs-Unternehmungen geben den Motorfahrzeughaltern die Höhe des Beitrages mit der Prämienrechnung bekannt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1) Die in Liechtenstein konzessionierten Haftpflichtversicherungs-Unternehmungen überweisen die Beiträge innert 30 Tagen nach Ablauf des Geschäftsvierteljahres für die einzelnen in diesem Zeitraum eingenommenen Prämien unaufgefordert dem \"Fonds zur Unfallverhütung im Strassenverkehr\".\n2) Wird eine Versicherung von mehreren Haftpflichtversicherungs-Unternehmungen gemeinschaftlich übernommen, so entrichtet jede Haftpflichtversicherungs-Unternehmung die Beiträge für den auf sie entfallenden Prämienanteil."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jede Haftpflichtversicherungs-Unternehmung meldet jährlich der Regierung den dem Fonds für das verflossene Geschäftsjahr überwiesenen Betrag und die ihm zugrunde liegende Prämieneinnahme."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Die Unfallverhütungsbeiträge werden erstmals mit den ab 1. Januar 1977 fällig werdenden Prämien erhoben."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Gesetz vom 25. November 1976 über einen Beitrag für die Unfallverhütung im Strassenverkehr in Kraft.\nFürstliche Regierung:\ngez. Dr. Walter Kieber\nFürstlicher Regierungschef\n1\nLR 741.81"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "li-konso-1010027000",
+  "type": "statute",
+  "title": "Hofkanzleidekret vom 10. April 1839 JGS. Nr. 355, zu § 1480 ABGB",
+  "title_en": "",
+  "short_name": "LGBl 1010.027",
+  "status": "in_force",
+  "issued_date": "1839-04-10",
+  "in_force_date": "1839-04-10",
+  "url": "https://www.gesetze.li/konso/1010027000",
+  "description": "Hofkanzleidekret vom 10. April 1839 JGS. Nr. 355, zu § 1480 ABGB",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "JGS. Nr. 355, zu § 1480 ABGB",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Die in dem § 1480 des Allgemeinen bürgerlichen Gesetzbuches festgesetzte dreijährige Verjährung findet auf den Lohn des Dienstgesindes keine Anwendung."
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "JGS. Nr. 355, zu § 1480 ABGB",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "Von dem Tage der Kundmachung der gegenwärtigen Verordnung angefangen, hat jedoch die gesetzliche Vermutung der erfolgten Zahlung zu gelten, wenn nach der Verfallszeit des dem Dienstgesinde schuldigen Lohnes ein Zeitraum von drei Jahren verflossen ist, und der Gläubiger im gehörigen Wege zu beweisen nicht vermag, dass die Zahlung nicht erfolgt sei."
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "JGS. Nr. 355, zu § 1480 ABGB",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "Diese Vorschrift gilt auch für den früher verfallenen Lohn, wenn ein Zeitraum von drei Jahren nach der Kundmachung derselben verflossen ist.\n1\nDieser Erlass wurde im Amtlichen Sammelwerk (ASW), gestützt auf das Gesetz vom 5. Oktober 1967 über die Bereinigung der vor dem 1. Januar 1863 erlassenen Rechtsvorschriften, LGBl. 1967 Nr. 34 , publiziert.\n2\n§ 1480 ABGB abgeändert durch LGBl. 1993 Nr. 54 ."
+    }
+  ],
+  "definitions": []
+}

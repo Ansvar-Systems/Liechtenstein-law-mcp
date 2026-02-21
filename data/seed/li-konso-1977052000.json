@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1977052000",
+  "type": "statute",
+  "title": "Zeitgesetz vom 7. Juli 1977",
+  "title_en": "",
+  "short_name": "LGBl 1977.052",
+  "status": "in_force",
+  "issued_date": "1977-07-07",
+  "in_force_date": "1977-07-07",
+  "url": "https://www.gesetze.li/konso/1977052000",
+  "description": "Zeitgesetz vom 7. Juli 1977",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Verbindliche Zeit",
+      "content": "1) Die in Liechtenstein verbindliche Zeit ist die mitteleuropäische Zeit.\n2) Wird aufgrund von Art. 3 dieses Gesetzes die Sommerzeit eingeführt, ist im betreffenden Zeitraum die Sommerzeit die verbindliche Zeit."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Mitteleuropäische Zeit, Sommerzeit",
+      "content": "1) Die mitteleuropäische Zeit ist bestimmt durch die Weltzeit unter Beifügung einer Stunde.\n2) Die Sommerzeit ist bestimmt durch die Weltzeit unter Beifügung von zwei Stunden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Einführung der Sommerzeit",
+      "content": "1) Die Regierung ist ermächtigt, durch Verordnung die Sommerzeit einzuführen und die Einzelheiten zu regeln.\n2) Die Regierung bestimmt den Tag und die Uhrzeit, zu der die Sommerzeit beginnt und endet."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Franz Josef\ngez. Dr. Walter Kieber\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

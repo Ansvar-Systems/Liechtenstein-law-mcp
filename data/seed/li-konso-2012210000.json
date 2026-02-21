@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-2012210000",
+  "type": "statute",
+  "title": "Verordnung vom 19. Juni 2012 über den Privatunterricht",
+  "title_en": "",
+  "short_name": "LGBl 2012.210",
+  "status": "in_force",
+  "issued_date": "2012-06-19",
+  "in_force_date": "2012-06-19",
+  "url": "https://www.gesetze.li/konso/2012210000",
+  "description": "Verordnung vom 19. Juni 2012 über den Privatunterricht",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Bewilligungspflicht und -voraussetzungen",
+      "content": "1) Die Erteilung von Privatunterricht nach Art. 73 des Schulgesetzes bedarf einer Bewilligung des Schulamtes.\n2) Die Bewilligung kann erteilt werden, wenn:\na) die Lehrperson über eine angemessene formale Berufsqualifikation verfügt; und\nb) sich der Unterricht im Wesentlichen am entsprechenden liechtensteinischen Lehrplan orientiert."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Bewilligungsdauer",
+      "content": "1) Die Bewilligung zur Erteilung von Privatunterricht ist auf ein Schuljahr zu befristen.\n2) Sie darf jeweils um ein Schuljahr verlängert werden, falls der Fortgang des Unterrichts positiv beurteilt wird. Im Zweifelsfall kann das Schulamt den Lernstand der Schülerin oder des Schülers anhand des entsprechenden liechtensteinischen Lehrplans überprüfen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. August 2012 in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\n1\nLR 411.0"
+    }
+  ],
+  "definitions": []
+}

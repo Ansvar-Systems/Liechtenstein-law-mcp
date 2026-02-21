@@ -1,0 +1,43 @@
+{
+  "id": "li-konso-1995068133",
+  "type": "statute",
+  "title": "Protokoll 33 über das Schiedsverfahren",
+  "title_en": "",
+  "short_name": "LGBl 1995.068",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/1995068133",
+  "description": "Protokoll 33 über das Schiedsverfahren",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "über das Schiedsverfahren",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "1) Wird ein Streitfall einem Schiedsverfahren überwiesen, so werden, sofern die Streitparteien nichts anderes beschliessen, drei Schiedsrichter ernannt."
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "über das Schiedsverfahren",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "2) Von beiden Seiten eines Streitfalls wird innerhalb von 30 Tagen je ein Schiedsrichter ernannt."
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "über das Schiedsverfahren",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "3) Die auf diese Weise bestimmten Schiedsrichter einigen sich auf einen Schiedsrichterobmann, der die Staatsangehörigkeit einer Vertragspartei, nicht jedoch dieselbe wie die der beiden ernannten Schiedsrichter besitzt. Können letztere sich nicht innerhalb von zwei Monaten nach ihrer Ernennung auf den Schiedsrichterobmann einigen, so wird dieser von ihnen aus einer vom Gemeinsamen EWR-Ausschuss aufgestellten Liste von sieben Personen ausgewählt. Der Gemeinsame EWR-Ausschuss erstellt und überprüft diese Liste nach Massgabe seiner Geschäftsordnung."
+    },
+    {
+      "provision_ref": "abs4",
+      "chapter": "über das Schiedsverfahren",
+      "section": "4",
+      "title": "Abs. 4",
+      "content": "4) Sofern die Vertragsparteien nichts anderes beschliessen, erlässt das Schiedsgericht seine Verfahrensordnung. Es trifft seine Entscheidungen durch Mehrheitsbeschluss."
+    }
+  ],
+  "definitions": []
+}

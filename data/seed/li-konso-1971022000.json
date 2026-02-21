@@ -1,0 +1,27 @@
+{
+  "id": "li-konso-1971022000",
+  "type": "statute",
+  "title": "Verfassungsgesetz vom 17. Dezember 1970 betreffend die authentische Interpretation des Begriffs \"Landesangeh&ouml;rige\"",
+  "title_en": "",
+  "short_name": "LGBl 1971.022",
+  "status": "in_force",
+  "issued_date": "1970-12-17",
+  "in_force_date": "1970-12-17",
+  "url": "https://www.gesetze.li/konso/1971022000",
+  "description": "Verfassungsgesetz vom 17. Dezember 1970 betreffend die authentische Interpretation des Begriffs \"Landesangehörige\"",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Unter dem von der Verfassung verwendeten Begriff \"Landesangehörige\" sind alle Personen mit liechtensteinischem Landesbürgerrecht ohne Unterschied des Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dieses Verfassungsgesetz wird als nicht dringlich erklärt und tritt am Tage seiner Kundmachung in Kraft.\ngez. Franz Josef\ngez. Dr. Alfred Hilbe\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

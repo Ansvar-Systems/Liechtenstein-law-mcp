@@ -1,0 +1,242 @@
+{
+  "id": "li-konso-2011433000",
+  "type": "statute",
+  "title": "Geoinformationsverordnung (GeoIV) vom 30. August 2011",
+  "title_en": "",
+  "short_name": "LGBl 2011.433",
+  "status": "in_force",
+  "issued_date": "2011-08-30",
+  "in_force_date": "2011-08-30",
+  "url": "https://www.gesetze.li/konso/2011433000",
+  "description": "Geoinformationsverordnung (GeoIV) vom 30. August 2011",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt in Durchführung des GeoIG, insbesondere:\na) die geodätischen Bezugssysteme und Bezugsrahmen;\nb) die Geodatenmodelle;\nc) die Darstellung von Geodaten;\nd) die Nachführung und Historisierung von Geodaten;\ne) die Gewährleistung der Verfügbarkeit von Geodaten;\nf) die Metadaten;\ng) den Zugang zu und die Nutzung von Geodaten;\nh) die Geodienste.\n2) Sie enthält im Anhang den Katalog der einzelnen Geodaten.\n3) Sie dient der Umsetzung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) (EWR-Rechtssammlung: Anh. XX - 1j.01).\n4) Besondere Bestimmungen insbesondere der Vermessungsverordnung und der ÖREB-Katasterverordnung bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Nachführung\": laufende oder periodische Anpassung der Geodaten an Veränderungen von Standort, Ausdehnung und Eigenschaften der erfassten Räume und Objekte;\nb) \"Historisierung\": Festhalten von Art, Umfang und Zeitpunkt einer Änderung von Geodaten;\nc) \"Archivierung\": periodisches Erstellen von Kopien des Datenbestands und deren dauerhafte und sichere Aufbewahrung;\nd) \"Download-Dienst mit direktem Datenzugriff\": Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon zum Zeitpunkt der Nutzung ohne dauerhafte Speicherung der Geodatensätze auf dem System des Nutzers;\ne) \"Download-Dienst ohne direkten Datenzugriff\": Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon auf Bestellung und ohne direkten Zugriff (z.B. eShop-Funktion);\nf) \"gewerbliche Nutzung\": jede Nutzung von Geodaten, die keine Nutzung zum Eigengebrauch ist.\n2) Unter den in dieser Verordnung verwendeten Personen- und Berufsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Datenqualität",
+      "content": "1) Die Regierung bezeichnet unter Mitwirkung der zuständigen Fachstellen die für Geodaten und Metadaten verbindlichen Normen. Sie berücksichtigt dabei den Stand der Technik und die internationalen Normen nach Massgabe der Richtlinie 2007/2/EG.\n2) Andere Qualitätsanforderungen dürfen nur dann an Geodaten und Metadaten gestellt werden, wenn nationale oder EWR-rechtliche Vorschriften dies vorsehen.\nII. Geodätische Bezugssysteme und Bezugsrahmen"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Geodätische Bezugssysteme und Bezugsrahmen",
+      "section": "4",
+      "title": "Art. 4 Amtlicher Lage- und Höhenbezug",
+      "content": "1) Der amtliche Lage- und Höhenbezug von Geodaten richtet sich nach den ebenen, rechtwinkligen Lagebezugssystemen CH1903 und CH1903+ sowie dem Höhensystem LN02 der Schweiz.\n2) Werden für bestimmte Geodaten oder für bestimmte Formen der Erfassung, Nachführung und Verwaltung von Geodaten andere, insbesondere global gelagerte oder kinematische, geodätische Bezugssysteme und Bezugsrahmen definiert oder zugelassen, so muss die Transformation in die Bezugssysteme und Bezugsrahmen nach Abs. 1 gewährleistet sein.\nIII. Geodatenmodelle"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "III. Geodatenmodelle",
+      "section": "5",
+      "title": "Art. 5 Grundsatz",
+      "content": "1) Den Geodaten ist mindestens ein Geodatenmodell zugeordnet.\n2) Die GDI-Kommission legt die formalen Anforderungen an das Geodatenmodell fest."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "III. Geodatenmodelle",
+      "section": "6",
+      "title": "Art. 6 Beschreibungssprache",
+      "content": "Die Beschreibungssprache für Geodatenmodelle hat den einschlägigen Normen der Schweizerischen Normvereinigung zu entsprechen. Die zusätzliche Verwendung einer anderen Norm nach Massgabe der Richtlinie 2007/2/EG ist zulässig."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III. Geodatenmodelle",
+      "section": "7",
+      "title": "Art. 7 Zuständigkeit für die Modellierung",
+      "content": "1) Die Erstellung eines fachbezogenen Geodatenmodells obliegt der zuständigen Fachstelle.\n2) Ein Geodatenmodell wird innerhalb des fachgesetzlichen Rahmens bestimmt durch:\na) die fachlichen Anforderungen;\nb) den Stand der Technik;\nc) internationale Normen.\nIV. Darstellung von Geodaten"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "IV. Darstellung von Geodaten",
+      "section": "8",
+      "title": "Art. 8 Darstellungsmodelle",
+      "content": "1) Die zuständige Fachstelle kann in ihrem Fachbereich ein oder mehrere Darstellungsmodelle vorgeben und beschreiben. Sie legt insbesondere den Detaillierungsgrad, die Signaturen und die Legenden fest.\n2) Ein Darstellungsmodell wird innerhalb des fachgesetzlichen Rahmens bestimmt durch:\na) das Geodatenmodell;\nb) die fachlichen Anforderungen;\nc) den Stand der Technik;\nd) internationale Normen.\nV. Nachführung, Historisierung"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "V. Nachführung, Historisierung",
+      "section": "9",
+      "title": "Art. 9 Nachführung",
+      "content": "1) Enthalten die fachgesetzlichen Vorschriften keine Bestimmungen über Zeitpunkt und Art der Nachführung, so gibt die jeweils zuständige Fachstelle ein Nachführungskonzept vor. Dieses berücksichtigt:\na) die fachlichen Anforderungen;\nb) die Bedürfnisse der Nutzer;\nc) den Stand der Technik;\nd) die Kosten der Nachführung;\ne) internationale Normen.\n2) Das Nachführungskonzept ist von der GDI-Kommission zu genehmigen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "V. Nachführung, Historisierung",
+      "section": "10",
+      "title": "Art. 10 Historisierung",
+      "content": "1) Geodaten, die eigentümer- oder behördenverbindliche Beschlüsse abbilden, werden so historisiert, dass jeder Rechtszustand mit hinreichender Sicherheit und vertretbarem Aufwand innert nützlicher Frist rekonstruiert werden kann.\n2) Die Methode der Historisierung wird dokumentiert.\nVI. Gewährleistung der Verfügbarkeit"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "VI. Gewährleistung der Verfügbarkeit",
+      "section": "11",
+      "title": "Art. 11 Nachhaltigkeit",
+      "content": "1) Die zuständige Fachstelle bewahrt Geodaten so auf, dass sie in Bestand und Qualität nachhaltig erhalten bleiben; die GDI-Kommission kann eine Mindestdauer für die Aufbewahrung festlegen.\n2) Sie sichert die Geodaten nach anerkannten Normen und nach dem Stand der Technik. Insbesondere lagert sie die Geodaten periodisch in geeignete Datenformate aus und bewahrt die ausgelagerten Geodaten sicher auf."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "VI. Gewährleistung der Verfügbarkeit",
+      "section": "12",
+      "title": "Art. 12 Archivierung",
+      "content": "1) Die Archivierung der Geodaten richtet sich nach dem Archivgesetz.\n2) Die zuständige Fachstelle erstellt für die Archivierung ein Archivierungskonzept. Dieses hält insbesondere fest:\na) den Zeitpunkt der Archivierung;\nb) die Modalitäten des Datentransfers zur Archivierungsstelle;\nc) die Dauer der Aufbewahrung;\nd) die Methode und Periodizität der Datensicherung;\ne) die periodische Auslagerung in geeignete Datenformate;\nf) die Nutzungs- und Verwertungsrechte an den Daten;\ng) die Modalitäten der Löschung und Vernichtung von Daten.\n3) Das Archivierungskonzept ist von der GDI-Kommission zu genehmigen.\nVII. Metadaten"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "VII. Metadaten",
+      "section": "13",
+      "title": "Art. 13 Grundsatz",
+      "content": "Die Erstellung und Pflege von Metadaten hat den Anforderungen der Verordnung (EG) Nr. 1205/2008 der Kommission vom 3. Dezember 2008 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Metadaten (EWR-Rechtssammlung: Anh. XX - 1ja.01) zu genügen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "VII. Metadaten",
+      "section": "14",
+      "title": "Art. 14 Nachführung, Archivierung",
+      "content": "Die Metadaten werden zusammen mit den Geodaten, die sie beschreiben, nachgeführt und archiviert.\nVIII. Zugang und Nutzung"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "15",
+      "title": "Art. 15 Datenschutz",
+      "content": "1) Die Nutzer personenbezogener Daten sind für die Einhaltung der Vorschriften nach dem Datenschutzgesetz verantwortlich.\n2) Sie sind verpflichtet, der zuständigen Fachstelle sowie dem Datenschutzbeauftragten jederzeit Auskunft über die zur Einhaltung der Vorschriften nach dem Datenschutzgesetz getroffenen Massnahmen zu erteilen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "16",
+      "title": "Art. 16 Beschränkungen des Zugangs",
+      "content": "1) Über die Beschränkungen des Zugangs der Öffentlichkeit zu Geodatensätzen und Geodatendiensten nach Art. 12 Abs. 1 und 2 GeoIG entscheidet die GDI-Kommission auf Antrag der zuständigen Fachstelle.\n2) Die Art und die Gründe für die Beschränkungen des Zugangs zu Geodatensätzen und Geodatendiensten sind in den Metadaten zu dokumentieren."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "17",
+      "title": "Art. 17 Zugang durch Behörden",
+      "content": "1) Die Beschränkungen des Zugangs nach Art. 16 gelten nicht für den Zugang inländischer Behörden zu Geodatensätzen und Geodatendiensten sowie den Austausch solcher Daten unter inländischen Behörden, sofern diese die Daten im Rahmen ihres gesetzlichen Auftrags benötigen.\n2) Werden Geodatensätze und Geodatendienste mit beschränktem öffentlichem Zugang einer inländischen Behörde zugänglich gemacht, schliesst die Behörde mit der zuständigen Fachstelle einen Vertrag über die Art und den Umfang der erlaubten Nutzung ab.\n3) Der Zugang der Organe und Einrichtungen der Europäischen Union richtet sich nach der Verordnung (EU) Nr. 268/2010 der Kommission vom 29. März 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates in Bezug auf den Zugang der Organe und Einrichtungen der Gemeinschaft zu Geodatensätzen und -diensten der Mitgliedstaaten nach harmonisierten Bedingungen (ABl. L 83 vom 30.3.2010, S. 8) ."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "18",
+      "title": "Art. 18 Zugang über Geodatendienste",
+      "content": "Der Zugang zu den Geodaten der GDI-Liechtenstein erfolgt über folgende Geodatendienste:\na) Suchdienste;\nb) Darstellungsdienste;\nc) Download-Dienste mit direktem Datenzugriff;\nd) Download-Dienste ohne direkten Datenzugriff;\ne) Transformationsdienste;\nf) Dienste zum Abrufen von Geodatendiensten."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "19",
+      "title": "Art. 19 Bezug von GDI-Auszügen",
+      "content": "Auszüge aus der GDI-Liechtenstein in analoger oder digitaler Form können bezogen werden:\na) bei den nach dem Anhang zuständigen Fachstellen oder den von diesen beauftragten Abgabestellen;\nb) beim Amt für Tiefbau und Geoinformation, soweit es sich um Geodaten des Landes handelt; oder\nc) bei den mit der Amtlichen Vermessung betrauten Ingenieur-Geometern, soweit es sich um Daten der Amtlichen Vermessung handelt."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "20",
+      "title": "Art. 20 Veröffentlichung von Geodaten",
+      "content": "1) Die Veröffentlichung von Geodaten der GDI-Liechtenstein in Medien, insbesondere in Büchern, Zeitungen, Zeitschriften oder im Internet, ist bewilligungspflichtig.\n2) Keiner Bewilligung bedürfen Veröffentlichungen von Geodaten bis zu einer Grösse von A5 sowie statische Darstellungen im Internet bis zu einer Grösse von 500 000 Pixel.\n3) Die Erteilung der Bewilligung nach Abs. 1 obliegt:\na) den nach dem Anhang zuständigen Fachstellen;\nb) dem Amt für Tiefbau und Geoinformation, soweit es sich um Daten der Amtlichen Vermessung oder um andere Geodaten handelt, für die eine Fachstelle der Landesverwaltung zuständig ist.\n4) Bei der Veröffentlichung von Geodaten ist in angemessener Form auf die Datenquelle hinzuweisen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "21",
+      "title": "Art. 21 Vertragliche Regelungen mit Dritten",
+      "content": "1) Die nach dem Anhang zuständigen Fachstellen schliessen Verträge über die Nutzung von Geodaten der GDI-Liechtenstein mit Personen und Institutionen ab, die:\na) Geodaten im Rahmen eines Abonnements nutzen;\nb) Geodaten gewerblich nutzen;\nc) gebührenpflichtige Geodatendienste nutzen;\nd) nach Art. 15 Abs. 4 Bst. a und b GeoIG von der Gebührenpflicht befreit sind.\n2) In den Verträgen sind die Gebühren und Lizenzbedingungen sowie im Falle von Geodatendiensten die Dienstqualität zu regeln.\n3) Die Mindestvertragsdauer beträgt zwei Jahre. Bei der Nutzung von Geodaten im Rahmen eines Abonnements oder bei gebührenpflichtigen Geodatendiensten beträgt der vertraglich geregelte Gebietsausschnitt mindestens die Fläche einer ganzen Gemeinde.\n4) Bei Geodaten des Landes wird der Vertrag nach Abs. 1 mit dem Amt für Tiefbau und Geoinformation abgeschlossen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "22",
+      "title": "Art. 22 Datenaustausch zwischen Land, Gemeinden sowie öffentlich-rechtlichen Körperschaften, Anstalten und Stiftungen",
+      "content": "1) Das Land, die Gemeinden sowie die öffentlich-rechtlichen Körperschaften, Anstalten und Stiftungen regeln den Austausch von Geodaten der GDI-Liechtenstein auf der Grundlage von Gegenseitigkeit und Gleichwertigkeit in einem Vertrag.\n2) Sie vereinbaren, insbesondere unter Berücksichtigung der ausgetauschten Informationsebenen, der beanspruchten Infrastruktur und der Gebühren nach dieser Verordnung, eine Pauschalgebühr."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "VIII. Zugang und Nutzung",
+      "section": "23",
+      "title": "Art. 23 Gebühren",
+      "content": "Die Gebühren für die Nutzung der GDI-Liechtenstein richten sich nach der GDI-Gebührenverordnung.\nIX. Geodatendienste"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "IX. Geodatendienste",
+      "section": "24",
+      "title": "Art. 24 Grundsatz",
+      "content": "1) Die im Anhang entsprechend bezeichneten Geodaten werden durch Darstellungsdienste oder Download-Dienste mit direktem Datenzugriff zugänglich und nutzbar gemacht.\n2) Die Anforderungen an Geodatendienste richten sich nach der Verordnung (EG) Nr. 976/2009 der Kommission vom 19. Oktober 2009 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Netzdienste (ABl. L 274 vom 20.10.2009, S. 9) .\n3) Die GDI-Kommission kann für Geodatendienste ergänzende Weisungen über die qualitativen und technischen Anforderungen im Hinblick auf eine optimale Vernetzung erlassen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "IX. Geodatendienste",
+      "section": "25",
+      "title": "Art. 25 Sachbereichsübergreifende Geodatendienste",
+      "content": "Das Amt für Tiefbau und Geoinformation betreibt folgende sachbereichsübergreifende Geodatendienste:\na) vernetzter Suchdienst für die Metadaten aller Geodaten;\nb) vernetzter Suchdienst für Geodatendienste nach Art. 24;\nc) Transformationsdienst zwischen den amtlichen Bezugsrahmen (Art. 4);\nd) Transformationsdienst zwischen den amtlichen Bezugssystemen und -rahmen und anderen geodätischen Bezugssystemen und -rahmen (Art. 4 Abs. 2).\nX. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "26",
+      "title": "Art. 26 Übergangsbestimmungen",
+      "content": "1) Für die Umsetzung der Bestimmungen dieser Verordnung gelten die im Rahmen der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) festgelegten Fristen.\n2) Für die durch die Richtlinie 2007/2/EG nicht geregelten Bereiche gilt eine Frist von fünf Jahren ab dem Inkrafttreten dieser Verordnung.\n3) Verweist diese Verordnung auf technische Normen und Vorgaben, die beim Inkrafttreten dieser Verordnung noch nicht bestehen, so gilt die Übergangsfrist von fünf Jahren ab dem Zeitpunkt, in dem diese erlassen werden."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "27",
+      "title": "Art. 27 Bestehende Verträge",
+      "content": "Die zum Zeitpunkt des Inkrafttretens dieser Verordnung bestehenden Verträge über die Nutzung von Geodaten der GDI-Liechtenstein und die dafür zu entrichtenden Gebühren bleiben bis zum Ende der vereinbarten Vertragsdauer, längstens jedoch bis zum 31. Dezember 2012, in Kraft."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "X. Übergangs- und Schlussbestimmungen",
+      "section": "28",
+      "title": "Art. 28 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\nAnhang\n(Art. 1 Abs. 2, 19 Bst. a, 20 Abs. 3, 21 Abs. 1 und 24 Abs. 1)\nKatalog der Geodaten\nIdentifikator\nBezeichnung\nRechtsgrundlage\nZuständige Fachstelle [Mitwirkung]\nDarstellungsdienst\nDownload-Dienst\nÖREB-Kataster\n(Katasterdaten)\nÖREB-Kataster (amtliches Publikationsorgan)\nÖREB-Kataster\n(Vorpublikation)\n1\nOrthofotos\nATG\nX\n2\nHistorische Karten\nATG\nX\n3\nGeologische Karte\nATG\nX\n4\nFlurnamenkarte\nATG\nX\n5\nPixelkarte 1:10 000\nATG\nX\n6\nPlan für das Grundbuch Amtliche Vermessung (AV)\nVermessungsgesetz (VermG)\nATG\nX\n7\nBasisplan-AV-CH (AV)\nVermG\nATG\nX\nX\n8\nFixpunkte LFP2, HFP2, LFP3, HFP3 (AV)\nVermG\nATG\nX\nX\n9\nBodenbedeckung (AV)\nVermG\nATG\nX\nX\n10\nEinzelobjekte (AV)\nVermG\nATG\nX\nX\n11\nHöhen (AV)\nVermG\nATG\n12\nNomenklatur (AV)\nVermG\nATG\nX\nX\n13\nLiegenschaften (AV)\nVermG\nATG\nX\nX\n14\nGebäudeadressen (AV)\nVermG\nATG\nX\nX\n15\nDauernde Bodenverschiebungen (AV)\nVermG\nATG\nX\nX\n16\nHoheitsgrenzen (AV)\nVermG\nATG\nX\nX\n17\nAdministrative Einteilungen (AV)\nVermG\nATG\nX\n18\nRohrleitungen (AV)\nVermG\nATG\nX\nX\n19\nGewässerschutzbereiche A u\nGewässerschutzgesetz (GSchG) und Gewässerschutzverordnung (GSchV)\nAU\nX\nX\n20\nWasserschutzgebiete\nGSchG und GSchV\nAU\nX\nX\n21\nSchutzzonen\n(Gewässer)\nGSchG und GSchV\nAU\nX\nX\nX\n22\nWaldabstand in Bauzonen\nBaugesetz (BauG)\nAU\nX\n23\nWaldreservate\nWaldgesetz (WaldG)\nAU\nX\nX\n24\nSonderwaldflächen\nWaldG\nAU\nX\nX\n25\nPflanzenschutzgebiete\nNaturschutzgesetz (NSchG)\nAU\nX\n26\nPilzschutzgebiete\nPilzschutzverordnung (PSV)\nAU\nX\n27\nGefahrenkarten\nWaldverordnung (WaldV)\nABS\nX\n28\nThermische Grundwassernutzung\nWasserechtsgesetz\nAU\nX\n29\nUnbewegliche Kulturgüter\nKulturgütergesetz (KGG)\nAKU\nX\n30\nArchäologische Perimeter (im Siedlungsgebiet)\nKGG\nAKU\nX\n31\nFliessgewässer\nGSchG\nAU\nX\n32\nBelastete Standorte\nUmweltschutzgesetz (USG)\nAU\nX\nX\n33\nZulässigkeitsgebiete für Erdsonden\nGSchV\nAU\nX\n34\nZonenplan\nBauG\nGemeinden\nX\nX\nX\n35\nBiodiversitätsförderflächen\nBiodiversitäts-Förderungs-Verordnung (BFV)\nAU\nX\n36\nZivilschutz\nBevölkerungsschutzgesetz (BSchG)\nABS\n37\nMindestabstand gegenüber öffentlichen Gewässern (Gewässerabstand)\nBauG\nGemeinden\nX\n38\nInventar Naturvorrangflächen (Biotope, Naturdenkmäler, Landschaften)\nNSchG\nAU\nX\n39\nGebäude und Wohnungsregister\nStatistikgesetz (StatG)\nAS\nX\nX\n40\nNaturschutzgebiete\nNSchG\nAU\nX\nX\n41\nMagerwiesen (Inventar)\nNSchG\nAU\nX\n42\nLärmempfindlichkeitsstufen\nUSG\nGemeinden\nX\nX\n43\nPlanerische Störfallvorsorge\nUSG\nAU\nX\n44\nWildruhezonen\nUSG\nAU\nX\n45\nLandwirtschaftliche Bodentypen\nLandwirtschafts-Bewirtschaftungs-Förderungs-Verordnung (LBFV)\nAU\nX\n46\nLärmkataster\nUSG\nAU\nX\n47\nStrategische Lärmkarten\nUSG\nAU\nX\n48\nLandschaftsschutzgebiete\nNSchG\nAU\nX\nX\n49\nÜberbauungs- und Gestaltungspläne\nBauG\nGemeinden\nX\nX\n50\nHöhendaten (Landesvermessung)\nVermG\nX\n51\nArealstatistik Fürstentum Liechtenstein\nBauG und StatG\nATG\n52\nFuss- und Wanderwegnetz\nSVG\nAU\nX\n53\nHaltestellen öffentlicher Verkehr\nPersonenbeförderungsgesetz (PBG) und Personenbeförderungsverordnung (PBV)\nATG\nX\n54\nSchutzgebiete Zivilluftfahrt\nAussenlandeverordnung (AuLaV)\nAHR\nX\n55\nSchutzareal (Gewässer)\nGSchG\nAU\nX\nX\nX\n1\nArt. 1 Abs. 4 eingefügt durch LGBl. 2018 Nr. 133 .\n2\nArt. 19 Bst. b abgeändert durch LGBl. 2022 Nr. 56 .\n3\nArt. 20 Abs. 3 Bst. b abgeändert durch LGBl. 2022 Nr. 56 .\n4\nArt. 21 Abs. 4 abgeändert durch LGBl. 2022 Nr. 56 .\n5\nArt. 25 Einleitungssatz abgeändert durch LGBl. 2022 Nr. 56 .\n6\nAnhang abgeändert durch LGBl. 2018 Nr. 133 , LGBl. 2022 Nr. 381 und LGBl. 2024 Nr. 227 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nachführung",
+      "definition": "laufende oder periodische Anpassung der Geodaten an Veränderungen von Standort, Ausdehnung und Eigenschaften der erfassten Räume und Objekte;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Historisierung",
+      "definition": "Festhalten von Art, Umfang und Zeitpunkt einer Änderung von Geodaten;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Archivierung",
+      "definition": "periodisches Erstellen von Kopien des Datenbestands und deren dauerhafte und sichere Aufbewahrung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Download-Dienst mit direktem Datenzugriff",
+      "definition": "Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon zum Zeitpunkt der Nutzung ohne dauerhafte Speicherung der Geodatensätze auf dem System des Nutzers;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Download-Dienst ohne direkten Datenzugriff",
+      "definition": "Geodatendienst zum Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon auf Bestellung und ohne direkten Zugriff (z.B. eShop-Funktion);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "gewerbliche Nutzung",
+      "definition": "jede Nutzung von Geodaten, die keine Nutzung zum Eigengebrauch ist.",
+      "source_provision": "art2"
+    }
+  ]
+}

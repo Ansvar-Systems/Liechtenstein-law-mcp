@@ -1,0 +1,99 @@
+{
+  "id": "li-konso-2022365000",
+  "type": "statute",
+  "title": "Verordnung vom 6. Dezember 2022 über das elektronische Gesundheitsdossier (EGDV)",
+  "title_en": "",
+  "short_name": "EGDV",
+  "status": "in_force",
+  "issued_date": "2022-12-06",
+  "in_force_date": "2022-12-06",
+  "url": "https://www.gesetze.li/konso/2022365000",
+  "description": "Verordnung vom 6. Dezember 2022 über das elektronische Gesundheitsdossier (EGDV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung des Gesetzes das Nähere über das elektronische Gesundheitsdossier, insbesondere:\na) die darin verarbeiteten administrativen Daten;\nb) die Grundsätze der Datenverarbeitung, insbesondere die Ausübung der Versicherten- und Teilnehmerrechte, die Zugriffsberechtigungen sowie die Identifikation und Authentifizierung der Zugriffsberechtigten;\nc) die Datenspeicherung und -abfrage im Behandlungsfall;\nd) die besonderen Massnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Bezeichnungen",
+      "content": "Unter den in dieser Verordnung verwendeten Personen-, Berufs- und Funktionsbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.\nII. Elektronisches Gesundheitsdossier\nA. Administrative Daten"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Administrative Daten",
+      "section": "3",
+      "title": "Art. 3 Datenerfassung und -bereitstellung",
+      "content": "1) Das Amt für Gesundheit erfasst im elektronischen Gesundheitsdossier für jeden Versicherten die folgenden administrativen Daten:\na) Vor- und Nachname;\nb) Adresse;\nc) persönliche Identifikationsnummer (IDN);\nd) Geburtsdatum;\ne) Angaben zur Grundversicherung.\n2) Das Amt für Gesundheit kann Dritte unter Beachtung der Datenschutzgesetzgebung mit der Bereitstellung administrativer Daten nach Abs. 1 beauftragen.\nB. Datenverarbeitung"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "B. Datenverarbeitung",
+      "section": "4",
+      "title": "Art. 4 Ausübung der Versicherten- und Teilnehmerrechte",
+      "content": "1) Die Versicherten bzw. Teilnehmer können elektronisch über das Zugangsportal der eHealth-Plattform oder schriftlich gegenüber dem Amt für Gesundheit Widersprüche und Widerrufe nach Art. 6 des Gesetzes einbringen sowie von ihren Teilnehmerrechten nach Art. 7 Abs. 2 des Gesetzes Gebrauch machen. Sie können zudem schriftlich gegenüber dem Amt für Gesundheit die Eintragung eines bevollmächtigten Stellvertreters im elektronischen Gesundheitsdossier veranlassen.\n2) Die Wahrnehmung der Rechte nach Abs. 1 hat schriftlich unter Verwendung eines vom Amt für Gesundheit zur Verfügung gestellten elektronischen Antragformulars zu erfolgen.\n3) Das Amt für Gesundheit hat im Rahmen der Prüfung des Antrags insbesondere die eindeutige Identität der Antragsteller nach Massgabe von Art. 8 festzustellen.\n4) Das Amt für Gesundheit hat die mit der Ausübung der Rechte nach Abs. 1 verbundenen Handlungen nach positiver Prüfung eines vollständig eingereichten Antrags im elektronischen Gesundheitsdossier einzutragen; die Handlungen werden erst mit ihrer Eintragung wirksam.\n5) Bis zur Vollendung des 14. Lebensjahres erfolgt die Ausübung der Versicherten- und Teilnehmerrechte von Minderjährigen durch den gesetzlichen Vertreter. Die Vertretungsbefugnis ist auf schriftlichen Antrag des gesetzlichen Vertreters im elektronischen Gesundheitsdossier einzutragen. Im Übrigen finden Abs. 2 bis 4 sinngemäss Anwendung.\nZugriffsberechtigung der EGD-Gesundheitsdienstleister\nArt. 5\na) Freischaltung durch den Teilnehmer\n1) Teilnehmer ermöglichen EGD-Gesundheitsdienstleistern zum Zwecke der Datenverarbeitung den Zugriff auf ihre Daten des elektronischen Gesundheitsdossiers mittels Freischaltung:\na) in elektronischer Form über das Zugangsportal der eHealth-Plattform; oder\nb) im Rahmen der Inanspruchnahme einer Behandlungsdienstleistung beim jeweiligen EGD-Gesundheitsdienstleister durch:\n1. Ausweisung über die elektronische Identität nach dem E-Government-Gesetz (eID); oder\n2. eine schriftliche Zustimmungserklärung, die der EGD-Gesundheitsdienstleister in der Patientendokumentation ablegt.\n2) Teilnehmer können elektronisch über das Zugangsportal der eHealth-Plattform einen oder mehrere EGD-Gesundheitsdienstleister des besonderen Vertrauens bestimmen, die unabhängig von der Inanspruchnahme einer Behandlungsdienstleistung Zugriff auf das elektronische Gesundheitsdossier haben.\n3) Bis zur Vollendung des 14. Lebensjahres des Teilnehmers erfolgt die Freischaltung nach Abs. 1 sowie die Bestimmung eines EGD-Gesundheitsdienstleisters nach Abs. 2 durch den gesetzlichen Vertreter."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Datenverarbeitung",
+      "section": "6",
+      "title": "Art. 6 b) Umfang der Zugriffsberechtigung",
+      "content": "1) Aufgrund der durch die eHealth-Plattform standardmässig festgelegten generellen Zugriffsberechtigungen dürfen nachstehende EGD-Gesundheitsdienstleister auf folgende Daten des elektronischen Gesundheitsdossiers zugreifen und diese im Rahmen des Datenzugriffs verarbeiten:\na) EGD-Gesundheitsdienstleister nach Art. 2 Abs. 1 Bst. c Ziff. 1 bis 4 des Gesetzes sowie Chiropraktoren und Zahnärzte auf sämtliche durch das elektronische Gesundheitsdossier verfügbar gemachte Gesundheitsdaten und genetische Daten nach Art. 5 des Gesetzes;\nb) Apotheker auf Medikationsdaten betreffend verschreibungspflichtige sowie nicht verschreibungspflichtige Arzneimittel.\n2) Die Abfrage von Gesundheitsdaten und genetischen Daten nach Art. 5 des Gesetzes ist ab Freischaltung durch den Teilnehmer innerhalb folgender Fristen zulässig:\na) bei EGD-Gesundheitsdienstleistern nach Art. 2 Abs. 1 Bst. c Ziff. 1 bis 4 des Gesetzes sowie bei Chiropraktoren und Zahnärzten innerhalb einer Frist von 28 Tagen;\nb) bei EGD-Gesundheitsdienstleistern des besonderen Vertrauens nach Art. 5 Abs. 2 innerhalb einer Frist von 365 Tagen;\nc) bei Apothekern innerhalb einer Frist von 24 Stunden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Datenverarbeitung",
+      "section": "7",
+      "title": "Art. 7 Zugriffsberechtigung des Amtes für Gesundheit",
+      "content": "1) Das Amt für Gesundheit darf vorbehaltlich Abs. 2 nur insoweit auf Daten des elektronischen Gesundheitsdossiers zugreifen, als dies erforderlich ist, um insbesondere zu gewährleisten:\na) die Durchsetzung der von Versicherten oder Teilnehmern beantragten Widerspruchs- und Widerrufsrechte nach Art. 6 des Gesetzes; oder\nb) die Durchsetzung der von Teilnehmern beantragten Teilnehmerrechte nach Art. 7 des Gesetzes.\n2) Das Amt für Gesundheit darf im Rahmen der Erfüllung seiner Aufgaben nach Abs. 1:\na) in den Fällen nach Abs. 1 Bst. a im elektronischen Gesundheitsdossier verfügbar gemachte Gesundheitsdaten und genetische Daten nach Art. 5 des Gesetzes weder verlangen noch auf diese zugreifen oder diese verarbeiten;\nb) in den Fällen nach Abs. 1 Bst. b auf sämtliche im elektronischen Gesundheitsdossier verfügbar gemachten Gesundheitsdaten und genetischen Daten nach Art. 5 des Gesetzes zugreifen oder diese verarbeiten, wobei der Datenzugriff und die Datenverarbeitung auf das erforderliche Mass zu beschränken sind.\nAuthentifizierung und Identifikation\nArt. 8\na) Teilnehmer und ihre Stellvertreter\n1) Die Authentifizierung der Teilnehmer oder ihrer Stellvertreter im Zugangsportal der eHealth-Plattform oder gegenüber dem Amt für Gesundheit erfolgt auf Grundlage der eID.\n2) Zur Sicherstellung der eindeutigen Identität von Teilnehmern oder ihren Stellvertretern, die über keine eID verfügen, kann das Amt für Gesundheit im Rahmen der Erfüllung seiner Aufgaben nach Art. 7 Abs. 1 folgende Nachweise verlangen:\na) eine Kopie eines amtlichen Lichtbildausweises;\nb) die IDN.\n3) EGD-Gesundheitsdienstleister dürfen zur Sicherstellung der eindeutigen Identität des Teilnehmers im Rahmen der Ausübung von Tätigkeiten nach Art. 10 folgende Daten des Teilnehmers verarbeiten:\na) Vor- und Nachname;\nb) Adresse;\nc) Geburtsdatum;\nd) Geschlecht;\ne) IDN."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Datenverarbeitung",
+      "section": "9",
+      "title": "Art. 9 b) EGD-Gesundheitsdienstleister",
+      "content": "1) Die Authentifizierung der EGD-Gesundheitsdienstleister und der Personen im Sinne von Art. 4 Abs. 2 Bst. c des Gesetzes im Zugangsportal der eHealth-Plattform erfolgt auf Grundlage der eID.\n2) Wird der Zugriff auf die eHealth-Plattform über eine integrierte Schnittstelle gewährt, so sind die von den EGD-Gesundheitsdienstleistern verwendeten Praxis- oder Klinikinformationssysteme mittels eines personifizierten Benutzers zu authentifizieren; dabei ist ein dem Stand der Technik entsprechendes Sicherheitsverfahren anzuwenden. Der EGD-Gesundheitsdienstleister hat bei einem Zugriff mittels eines personifizierten Benutzers sicherzustellen, dass der Benutzer sowohl auf Institutions- als auch auf persönlicher Ebene eindeutig identifiziert und protokolliert werden kann.\n3) Die technischen Anforderungen an eine Schnittstelle nach Abs. 2 richten sich nach Art. 8 und 9 des Gesetzes und werden vom Amt für Gesundheit auf seiner Internetseite veröffentlicht. EGD-Gesundheitsdienstleister haben dem Amt für Gesundheit auf Verlangen einen Nachweis über die Erfüllung dieser Anforderungen zu erbringen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Datenverarbeitung",
+      "section": "10",
+      "title": "Art. 10 Datenspeicherung und -abfrage im Behandlungsfall",
+      "content": "1) Das Amt für Gesundheit veröffentlicht die technischen und organisatorischen Vorgaben für die Datenspeicherung und -übertragung, insbesondere die zu verwendenden Austauschformate, auf seiner Internetseite.\n2) EGD-Gesundheitsdienstleister haben Gesundheitsdaten und genetische Daten nach Art. 5 Abs. 2 des Gesetzes im Behandlungsfall innerhalb von 90 Tagen nach ihrer Erhebung im elektronischen Gesundheitsdossier des Teilnehmers zu speichern.\n3) EGD-Gesundheitsdienstleister sind nach Massgabe von Art. 6 berechtigt, die im elektronischen Gesundheitsdossier des Teilnehmers gespeicherten Daten nach Art. 5 Abs. 2 des Gesetzes abzufragen."
+    },
+    {
+      "provision_ref": "art10a",
+      "chapter": "B. Datenverarbeitung",
+      "section": "10a",
+      "title": "Art. 10a Datenauswertung zur Überprüfung der Speicherpflicht",
+      "content": "Das Amt für Gesundheit kann zum Zweck der Überprüfung der Pflicht zur Datenspeicherung im Behandlungsfall nach Art. 5 Abs. 2 des Gesetzes für jeden EGD-Gesundheitsdienstleister nach Art. 2 Abs. 1 Bst. c des Gesetzes die jeweilige Anzahl an gespeicherten Dokumenten pro Monat auswerten.\nIII. Besondere Massnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "III. Besondere Massnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit",
+      "section": "11",
+      "title": "Art. 11 Mitteilung bei fehlender Zugriffsberechtigung",
+      "content": "Greifen EGD-Gesundheitsdienstleister, die über keine Zugriffsberechtigung verfügen, auf das elektronische Gesundheitsdossier eines Teilnehmers zu, so erhält dieser unverzüglich nach dem Zugriff eine entsprechende Mitteilung in seinem elektronischen Gesundheitsdossier."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III. Besondere Massnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit",
+      "section": "12",
+      "title": "Art. 12 Auditierung von Praxis- und Klinikinformationssystemen",
+      "content": "1) Das Amt für Gesundheit kann jederzeit Dritte beauftragen, eine Auditierung der von den EGD-Gesundheitsdienstleistern verwendeten Praxis- oder Klinikinformationssysteme vorzunehmen, um zu prüfen, ob diese insbesondere die Anforderungen nach Art. 8 und 9 des Gesetzes erfüllen und die internationalen Standards für die Nutzung des elektronischen Gesundheitsdossiers eingehalten werden.\n2) Wird im Rahmen der Auditierung festgestellt, dass das verwendete Praxis- oder Klinikinformationssystem eines EGD-Gesundheitsdienstleisters mangelhaft ist, kann das Amt für Gesundheit Beanstandungen aussprechen und unter Setzung einer angemessenen Frist Massnahmen zur Wiederherstellung des rechtmässigen Zustands anordnen.\nIV. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "IV. Schlussbestimmung",
+      "section": "13",
+      "title": "Art. 13 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2023 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\n1\nArt. 10 Abs. 2 abgeändert durch LGBl. 2024 Nr. 70 .\n2\nArt. 10a eingefügt durch LGBl. 2024 Nr. 70 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "li-konso-1995068113",
+  "type": "statute",
+  "title": "Protokoll 13 über die Nichtanwendung von Antidumping-und Ausgleichsmassnahmen",
+  "title_en": "",
+  "short_name": "LGBl 1995.068",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/1995068113",
+  "description": "Protokoll 13 über die Nichtanwendung von Antidumping- und Ausgleichsmassnahmen",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "über die Nichtanwendung von Antidumping- und Ausgleichsmassnahmen",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Die Anwendung von Art. 26 dieses Abkommens beschränkt sich auf die Bereiche, die unter dieses Abkommen fallen und in denen das geltende Gemeinschaftsrecht vollständig in dieses Abkommen übernommen worden ist."
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "über die Nichtanwendung von Antidumping- und Ausgleichsmassnahmen",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "Sofern die Vertragsparteien keine anderen Lösungen vereinbaren, erfolgt seine Anwendung unbeschadet der Massnahmen, die die Vertragsparteien gegebenenfalls gegenüber Drittländern zur Vermeidung der Umgehung folgender Massnahmen einführen:\n- Antidumpingmassnahmen,\n- Ausgleichszölle,\n- Massnahmen gegen unlautere Handelspraktiken, die Drittländern zugerechnet werden können."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "li-konso-2012170000",
+  "type": "statute",
+  "title": "Verordnung vom 19. Juni 2012 über die Fahrzeuge, Geräte und Materialien der Gemeindefeuerwehren (Gemeindefeuerwehr-Ausrüstungs-Verordnung; GFAV)",
+  "title_en": "",
+  "short_name": "GFAV",
+  "status": "in_force",
+  "issued_date": "2012-06-19",
+  "in_force_date": "2012-06-19",
+  "url": "https://www.gesetze.li/konso/2012170000",
+  "description": "Verordnung vom 19. Juni 2012 über die Fahrzeuge, Geräte und Materialien der Gemeindefeuerwehren (Gemeindefeuerwehr-Ausrüstungs-Verordnung; GFAV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt insbesondere:\na) die technischen Mindestanforderungen an Fahrzeuge, Geräte und Materialien der Gemeindefeuerwehren;\nb) den Fahrzeugbestand der Gemeindefeuerwehren."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Pflichten der Gemeinden",
+      "content": "Die Gemeinden haben sicherzustellen, dass:\na) die Gemeindefeuerwehr so ausgerüstet ist, dass sie die in der Gemeinde zu erwartenden Gefährdungen entsprechend bekämpfen kann;\nb) Feuerwehrfahrzeuge, -geräte und -materialien so abgestellt und gelagert werden, dass sie:\n1. jederzeit sofort einsatzbereit sind;\n2. nicht beschädigt werden.\nII. Mindestanforderungen und Bestand\nA. Feuerwehrfahrzeuge"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Feuerwehrfahrzeuge",
+      "section": "3",
+      "title": "Art. 3 Fahrzeugarten",
+      "content": "Folgende Arten von Feuerwehrfahrzeugen werden unterschieden:\na) \"Tanklöschfahrzeug (TLF)\": ein Ersteinsatzfahrzeug zur Brandbekämpfung und einfachen technischen Hilfeleistung;\nb) \"Rüstfahrzeug (RW)\": ein Fahrzeug zur technischen Hilfeleistung und Unterstützung bei der Bekämpfung von Bränden, Umwelt- oder Elementarereignissen;\nc) \"Material-/Mannschaftstransportfahrzeug (MTF)\": ein Fahrzeug zum gleichzeitigen Transport von Feuerwehrmaterialien und Einsatzkräften, das bedingt auch als Zugfahrzeug einsetzbar ist;\nd) \"Zugfahrzeug (ZF)\": ein geländegängiges Allradfahrzeug (Kleinfahrzeug) für den Transport von Anhängern;\ne) \"Atemschutzfahrzeug (ASF)\": ein Fahrzeug für die Atemschutzmannschaft;\nf) \"Kommandofahrzeug (KDF)\": ein Vorausfahrzeug der Einsatzleitung für den Ersteinsatz oder zur Unterstützung der Führungstätigkeit;\ng) \"Verkehrsrettungsfahrzeug (VRW)\": ein Fahrzeug zur Hilfeleistung bei Verkehrsunfällen;\nh) \"Hubrettungsfahrzeug (HRF)\": ein Fahrzeug, auf dem ein Gerät für die Personenrettung oder Brandbekämpfung in grossen Höhen angebracht ist. Zu diesen Geräten gehören Autodrehleitern (ADL) und Hubrettungsbühnen (HRB);\ni) Aufgehoben\nk) \"Einsatzleitfahrzeug (ELF)\": ein Fahrzeug für die Bereitstellung von Kommunikations-, Führungs- und anderen Hilfsmitteln zur Unterstützung von Einsatzstäben; es kann auch dem Aufenthalt von Führungskräften dienen;\nl) \"Fahrzeug mit Grossventilator (MGV)\": ein Fahrzeug oder Anhänger, auf dem ein besonders leistungsstarker Ventilator zur mobilen Anwendung bei der Be- und Entlüftung von gross dimensionierten Räumen angebracht ist;\nm) \"Sondereinsatzfahrzeug (SF)\": ein Fahrzeug für besondere Gefahren oder spezielle Einsatzzwecke.\nGrösse und Ausrüstung der Feuerwehrfahrzeuge\nArt. 4\na) Grundsatz\nDie Grösse und Ausrüstung der Feuerwehrfahrzeuge nach Art. 3 richtet sich vorbehaltlich Art. 5 bis 7 nach dem jeweiligen Bedarf der Gemeinde."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "A. Feuerwehrfahrzeuge",
+      "section": "5",
+      "title": "Art. 5 b) Feuerwehr-Grossfahrzeuge",
+      "content": "1) Feuerwehrfahrzeuge über 3.5 t (Feuerwehr-Grossfahrzeuge) haben zu verfügen über:\na) eine Motorleistung von mindestens 60 Nm/t;\nb) Allrad- oder hydraulischen Antrieb;\nc) ein geländetaugliches Getriebe;\nd) eine Differentialsperre;\ne) einen Feuerwehrkühler (bei Nebenantrieben);\nf) ein ABS-Bremssystem;\ng) eine Feststellbremse auf beide Achsen (Räder);\nh) eine Federung für Dauerbelastung;\ni) eine Druckluft-Fremdeinspeisung;\nk) eine Stromeinspeisung, insbesondere für Batterie und Akkuladegeräte;\nl) die vorgeschriebene optische und akustische Warnvorrichtung;\nm) ein Restweg-Aufzeichnungsgerät;\nn) eine fest eingebaute Station für den Mobilfunk;\no) eine Anhängerkupplung;\np) Schneeketten;\nq) zwei Radkeile;\nr) eine Umfeldbeleuchtung.\n2) Feuerwehrfahrzeuge unter 3.5 t haben nach Möglichkeit je nach Einsatzzweck die Anforderungen nach Abs. 1 zu erfüllen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "A. Feuerwehrfahrzeuge",
+      "section": "6",
+      "title": "Art. 6 c) Tanklöschfahrzeuge",
+      "content": "Tanklöschfahrzeuge haben zu verfügen über:\na) einen Wassertank mit einem Fassungsvermögen von mindestens 2 000 l;\nb) eine Feuerlöschkreiselpumpe für Normaldruck mit Hochdruckpumpe (Leistung mindestens FPN 10-2000, bzw. FPH 40-250 gemäss Norm SN EN 1028-1);\nc) mindestens eine formfeste Schnellangriffsleitung mit einer Länge von mindestens 50 m auf einer Haspel;\nd) einen Stromerzeuger mit einer Leistung von mindestens 6 Kilovoltamp&egrave;re (kVa) mit Treibstoffkanister;\ne) einen Lichtmast mit einer Gesamthöhe von 6 m und einer Scheinwerferleistung von mindestens 2 000 Watt (W) oder mit LED mit gleicher Lichtleistung;\nf) ein stabiles Fahrzeugdach, das für mindestens zwei Personen gleichzeitig begehbar ist;\ng) Löscharmaturen, insbesondere Strahlrohre, Teilstücke, Reduktionen;\nh) eine Schaumausrüstung, falls eine solche nicht fix verbaut ist;\ni) mindestens einen Handfeuerlöscher;\nk) mindestens 800 m Feuerwehrschläuche (Transport/Angriff);\nl) eine Schiebeleiter;\nm) mindestens vier vollständige Atemschutzausrüstungen (zur Bildung von zwei Trupps mit zwei Atemschutzgeräteträgern);\nn) Rettungsleinen;\no) Absperr- und Signalisationsmaterial (Scherengitter oder Bänder);\np) Beleuchtungsmaterialien (Verlängerungskabel, Handlampen, Scheinwerfer)\nq) Schaummittel (Typ landesweit einheitlich nach Absprache);\nr) Einsatzdokumente und -pläne;\ns) einen Erste-Hilfe-Koffer mit Material gegen Verbrennungen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Feuerwehrfahrzeuge",
+      "section": "7",
+      "title": "Art. 7 d) Rüstfahrzeuge",
+      "content": "Rüstfahrzeuge haben zu verfügen über:\na) einen Generator;\nb) einen Lichtmast;\nc) Elektromaterial, insbesondere Scheinwerfer und Kabelrollen;\nd) einen Stromerzeuger mit einer Leistung von mindestens 6 kVa;\ne) Absperrmaterial (Faltsignale, Blitzlichter, Leitkegel gross);\nf) mindestens einen Handfeuerlöscher;\ng) ein Ölwehr-Notbesteck;\nh) eine Tauchpumpe;\ni) eine Motorsäge;\nk) Pioniermaterial zum Heben und Ziehen;\nl) eine Werkzeugkiste;\nm) Rettungsleinen und Hilfsstricke;\nn) einen Erste-Hilfe-Koffer;\no) Rundschlingen;\np) Eisenpfähle;\nq) Bretter und Balken;\nr) Leitern nach Bedarf der örtlichen Begebenheiten."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Feuerwehrfahrzeuge",
+      "section": "8",
+      "title": "Art. 8 Fahrzeugbestand",
+      "content": "1) Der Fahrzeugbestand einer Gemeindefeuerwehr richtet sich nach der Einwohnerzahl, der Lage und dem Industrialisierungs- bzw. Gefährdungsgrad der jeweiligen Gemeinde.\n2) Gemeindefeuerwehren haben zu verfügen über:\na) bei Gemeinden mit weniger als 2 000 Einwohnern, kurzen Transportwegen und wenig Industrie (Kategorie 1): ein Tanklöschfahrzeug und ein Material-/Mannschaftstransportfahrzeug; ein Zugfahrzeug wird empfohlen;\nb) bei Gemeinden mit weniger als 2 000 Einwohnern, längeren Transportwegen und Industrie (Kategorie 2): ein Tanklöschfahrzeug, ein Material-/Mannschaftstransportfahrzeug und ein Zugfahrzeug; ein Rüstfahrzeug wird empfohlen;\nc) bei Gemeinden mit mehr als 2 000 Einwohnern, längeren Transportwegen und/oder viel Industrie (Kategorie 3): ein Tanklöschfahrzeug, ein Material-/Mannschaftstransportfahrzeug, ein Zugfahrzeug und ein Rüstfahrzeug oder ein kombiniertes Materialtransport-/Rüstfahrzeug;\nd) bei Gemeinden mit mehr als 4 000 Einwohnern (Kategorie 4): ein Tanklöschfahrzeug, ein Material-/Mannschaftstransportfahrzeug, ein Zugfahrzeug und ein Rüstfahrzeug; ein Einsatzleitfahrzeug und ein Atemschutzfahrzeug wird empfohlen.\n3) Die Stützpunktfeuerwehr hat über ein Hubrettungsfahrzeug, ein Verkehrsrettungsfahrzeug und ein Fahrzeug mit einem Grossventilator zu verfügen. Weitere Stützpunktfahrzeuge werden je nach Bedarf vom Land beschafft. Die Bedarfsabklärung hat mit den betroffenen Gemeinden und Feuerwehren zu erfolgen.\nB. Feuerwehrgeräte und -materialien"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Feuerwehrgeräte und -materialien",
+      "section": "9",
+      "title": "Art. 9 Grundsatz",
+      "content": "1) Die Gemeindefeuerwehren haben zu verfügen über:\na) eine Ausrüstung für allgemeine und technische Hilfeleistungen bestehend aus:\n1. Motorsäge;\n2. Trennschleifer;\n3. Hebekissen (Schwerlast);\n4. Seilzug, Drahtseilen, Rundschlingen, Umlenkrolle und Zubehör;\n5. Schanzwerkzeugen, insbesondere Schaufel, Pickel und Besen;\n6. Arbeitswerkzeugen, insbesondere Hammer und Zange;\n7. Be- und Entlüftungsgeräten;\n8. Stromerzeuger;\n9. Beleuchtungsmaterial;\n10. Verkehrsdienst-Material;\n11. Blachen für Notabdeckungen (Anzahl und Grösse nach Bedarf);\nb) eine persönliche Brandschutzausrüstung für alle Angehörigen der Feuerwehr bestehend aus:\n1. Helm;\n2. Brandschutzjacke;\n3. Brandschutzhose;\n4. Handschuhen;\n5. Sicherheits-Fussbekleidung;\n6. Arbeitsbekleidung;\n7. Aufgehoben\n8. Aufgehoben\nc) eine Ausrüstung für den Rettungsdienst bestehend aus:\n1. Rettungsleinen;\n2. Rettungsmaterial, insbesondere Rettungsbrett, Rettungstuch, je nach Bedarf;\n3. Leitern nach Bedarf der örtlichen Begebenheiten;\n4. Erste-Hilfe-Koffer einschliesslich Material zur Behandlung von Verbrennungen;\n5. Beatmungs- und Sauerstoffgeräten, soweit solche Geräte nicht durch den Samariterverein zur Verfügung gestellt werden;\nd) eine vollständige Atemschutzausrüstung mit Zubehör für mindestens acht Personen einschliesslich der entsprechenden auf den Fahrzeugen mitgeführten Geräte;\ne) eine Ausrüstung für die Brandbekämpfung bestehend aus:\n1. Motorspritze (Leistung mindestens FPN 10-1500 gemäss der Norm SN EN 1028-1);\n2. Schlauchmaterial nach Bedarf der Gemeinde;\n3. Löscharmaturen nach Bedarf der Gemeinde;\n4. Handfeuerlöscher;\n5. Eimer- und/oder Kübelspritze, Rucksackspritze;\n6. 300 l Schaummittel (Typ landesweit einheitlich nach Absprache);\n7. Wasserwerfer, soweit ein solcher nicht fest auf einem Fahrzeug installiert ist;\n8. Hydroschild;\nf) eine Ausrüstung für Wasserschäden und Hochwasser bestehend aus:\n1. Tauchpumpen;\n2. Wassersauger;\n3. Schmutzwasserpumpe;\n4. Sandsäcken nach Bedarf;\ng) eine Ausrüstung für die Kommunikation und Alarmierung bestehend aus:\n1. Funkstation (kompatibel mit der Liechtensteinischen Notruf- und Einsatzzentrale \"LNEZ\") im Feuerwehrdepot;\n2. Funkstationen (kompatibel mit der LNEZ) in allen Fahrzeugen;\n3. Hand-Funkgeräten nach Bedarf;\n4. Lautsprecheranlage in einem Fahrzeug;\n5. Megaphon;\n6. drahtlosen Alarmempfängern (kompatibel mit der LNEZ) für mindestens zwei Drittel der aktiven Angehörigen der Feuerwehr;\nh) eine Ausrüstung für die Öl- und Chemiewehr bestehend aus:\n1. Ölwehrmaterial (Gewässer, Strasse);\n2. Schachtabdeckungen, Auffangbehälter etc.;\n3. Kanaldichtkissen;\n4. Ölwehr-Notbesteck;\n5. Bachsperren;\n6. Fasspumpe explosionsgeschützt mit entsprechendem Zubehör;\n7. Mess- und Spürgerät für Gase;\n8. Absperrmaterial;\n9. Ölbindemittel nach Bedarf der Gemeinde;\n10. Strassen-Entöler.\n2) Feuerwehrgeräte und -materialien können für Einsätze entweder in Feuerwehrfahrzeugen mitgeführt oder im Feuerwehrdepot bereit gehalten werden.\n3) Feuerwehrmaterialien, insbesondere die Bekleidung, müssen den einschlägigen EN-Normen entsprechen.\nIII. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Schlussbestimmung",
+      "section": "10",
+      "title": "Art. 10 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2012 in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\n1\nLR 705.1\n2\nArt. 3 Bst. i aufgehoben durch LGBl. 2018 Nr. 220 .\n3\nArt. 5 Abs. 1 Bst. b abgeändert durch LGBl. 2018 Nr. 220 .\n4\nArt. 6 Bst. e abgeändert durch LGBl. 2018 Nr. 220 .\n5\nArt. 6 Bst. f abgeändert durch LGBl. 2018 Nr. 220 .\n6\nArt. 6 Bst. h abgeändert durch LGBl. 2018 Nr. 220 .\n7\nArt. 6 Bst. q abgeändert durch LGBl. 2018 Nr. 220 .\n8\nArt. 7 Bst. g abgeändert durch LGBl. 2018 Nr. 220 .\n9\nArt. 8 Abs. 3 abgeändert durch LGBl. 2018 Nr. 220 .\n10\nArt. 9 Abs. 1 Bst. b Ziff. 7 aufgehoben durch LGBl. 2018 Nr. 220 .\n11\nArt. 9 Abs. 1 Bst. b Ziff. 8 aufgehoben durch LGBl. 2018 Nr. 220 .\n12\nArt. 9 Abs. 1 Bst. c Ziff. 2 abgeändert durch LGBl. 2018 Nr. 220 .\n13\nArt. 9 Abs. 1 Bst. e Ziff. 6 abgeändert durch LGBl. 2018 Nr. 220 .\n14\nArt. 9 Abs. 1 Bst. h Ziff. 4 abgeändert durch LGBl. 2018 Nr. 220 ."
+    }
+  ],
+  "definitions": []
+}

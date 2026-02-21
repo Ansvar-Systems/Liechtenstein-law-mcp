@@ -1,0 +1,134 @@
+{
+  "id": "li-konso-2025148000",
+  "type": "statute",
+  "title": "Verordnung vom 14. Januar 2025 über den Betrieb und die Beaufsichtigung von Handelsplätzen und Börsen (Handelsplatz- und Börseverordnung; HPBV)",
+  "title_en": "",
+  "short_name": "HPBV",
+  "status": "in_force",
+  "issued_date": "2025-01-14",
+  "in_force_date": "2025-01-14",
+  "url": "https://www.gesetze.li/konso/2025148000",
+  "description": "Verordnung vom 14. Januar 2025 über den Betrieb und die Beaufsichtigung von Handelsplätzen und Börsen (Handelsplatz- und Börseverordnung; HPBV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt in Durchführung des Handelsplatz- und Börsegesetzes insbesondere das Nähere über:\na) den algorithmischen Handel und direkten elektronischen Zugang;\nb) den Betrieb von organisierten Handelssystemen (OTF);\nc) die Zulassung von Börseunternehmen;\nd) die Anforderungen an Börseunternehmen;\ne) die Zulassung von Finanzinstrumenten zum Handel und den Widerruf;\nf) die Handels- und Marktaufsicht.\n2) Sie dient der Umsetzung bzw. Durchführung folgender EWR-Rechtsvorschriften:\na) Richtlinie 2014/65/EU über Märkte für Finanzinstrumente ;\nb) Verordnung (EU) Nr. 600/2014 über Märkte für Finanzinstrumente .\n3) Die gültige Fassung der EWR-Rechtsvorschriften, auf die in dieser Verordnung Bezug genommen wird, ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gilt als \"qualifizierter Vertreter\" eine fachkundige Person, die mit der Zulassung von Finanzinstrumenten zum Handel betraut ist und durch das Börseunternehmen entsprechend den Vorgaben in den Allgemeinen Geschäftsbedingungen zu diesem Zweck anerkannt ist.\n2) Unter den in dieser Verordnung verwendeten Personen- und Funktionsbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen.\nII. Algorithmischer Handel und direkter elektronischer Zugang"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Algorithmischer Handel und direkter elektronischer Zugang",
+      "section": "3",
+      "title": "Art. 3 Informationspflichten beim algorithmischen Handel",
+      "content": "1) Die Wertpapierfirma oder Bank hat der Finanzmarktaufsicht (FMA) die Informationen nach Art. 4 Abs. 2 des Handelsplatz- und Börsegesetzes spätestens zwei Wochen vor Aufnahme des algorithmischen Handels schriftlich zu übermitteln.\n2) Die Wertpapierfirma oder Bank darf den algorithmischen Handel aufnehmen, wenn die FMA nicht innerhalb einer Frist von zwei Wochen nach Eingang der Informationen nach Abs. 1 weitere Informationen verlangt oder den Handel untersagt.\n3) Die Wertpapierfirma oder Bank hat der FMA die Aktualität und Richtigkeit der übermittelten Informationen nach Art. 4 Abs. 2 des Handelsplatz- und Börsegesetzes jeweils am Ende eines Kalenderjahres schriftlich zu bestätigen; wesentliche Änderungen der Informationen sind der FMA unverzüglich schriftlich mitzuteilen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Algorithmischer Handel und direkter elektronischer Zugang",
+      "section": "4",
+      "title": "Art. 4 Meldepflichten beim direkten elektronischen Zugang",
+      "content": "1) Die Wertpapierfirma oder Bank hat der FMA die Meldung nach Art. 5 Abs. 2 des Handelsplatz- und Börsegesetzes spätestens zwei Wochen vor der Zurverfügungstellung eines direkten elektronischen Zugangs schriftlich zu erstatten.\n2) Die Wertpapierfirma oder Bank darf den direkten elektronischen Zugang zur Verfügung stellen, wenn die FMA nicht innerhalb einer Frist von zwei Wochen nach Eingang der Meldung nach Abs. 1 weitere Informationen verlangt oder den Direktzugang untersagt.\nIII. Betrieb von OTF"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "III. Betrieb von OTF",
+      "section": "5",
+      "title": "Art. 5 Auskunftspflichten",
+      "content": "Die Erklärungen und Informationen nach Art. 9 Abs. 8 und 9 des Handelsplatz- und Börsegesetzes haben schriftlich durch die Geschäftsleitung des Betreibers eines OTF auf Grundlage eines Gutachtens eines fachkundigen Experten zu erfolgen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "III. Betrieb von OTF",
+      "section": "6",
+      "title": "Art. 6 Überwachung von Betreibern eines OTF",
+      "content": "1) Der Betreiber eines OTF hat der FMA zum Zwecke der Überwachung nach Art. 9 Abs. 10 des Handelsplatz- und Börsegesetzes jährlich nachzuweisen, dass:\na) er während der gesamten Ausführung der Transaktionen über das OTF zu keiner Zeit einem Marktrisiko ausgesetzt war; und\nb) die Transaktionen zu einem Preis abgeschlossen wurden, bei dem er abgesehen von einer vorab offengelegten Provision, Gebühr oder sonstigen Vergütung weder Gewinn noch Verlust machte.\n2) Der Betreiber eines OTF legt der FMA das System und das gute Funktionieren der Vorkehrungen zur Vermeidung von Interessenskonflikten dar; diese Ausführungen sind vom Wirtschaftsprüfer im Prüfungsbericht nach Art. 51 Abs. 3 des Wertpapierfirmengesetzes zu bestätigen.\nIV. Geregelter Markt\nA. Zulassung von Börseunternehmen"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "A. Zulassung von Börseunternehmen",
+      "section": "7",
+      "title": "Art. 7 Nachweis der Zulassungsvoraussetzungen",
+      "content": "1) Im Antrag auf Zulassung eines Börseunternehmens als Wertpapierbörse sind die gesetzlichen Zulassungsvoraussetzungen hinreichend zu dokumentieren.\n2) Der Antrag nach Abs. 1 hat insbesondere zu enthalten:\na) den Handelsregisterauszug unter Einschluss der Statuten;\nb) ein Gutachten eines fachkundigen Experten über die Erfüllung der Anforderungen nach Art. 16 Abs. 1 Bst. b des Handelsplatz- und Börsegesetzes;\nc) eine eidesstattliche Erklärung der Geschäftsleitung über die Erfüllung der Anforderungen nach Art. 16 Abs. 1 Bst. c des Handelsplatz- und Börsegesetzes;\nd) hinsichtlich des Geschäftsplans Angaben über:\n1. die Finanzinstrumente, die zum Handel zugelassen werden sollen;\n2. die Art und geografische Verteilung der Mitglieder bzw. Teilnehmer und Emittenten;\n3. die Gesamtanzahl der Mitarbeiter, einschliesslich deren Stellenprozente; und\n4. die räumliche Ausstattung des Unternehmens;\ne) ein Organigramm mit der Organisationsstruktur des Börseunternehmens sowie einer Dokumentation der wesentlichen internen Prozesse und Verfahren (einschliesslich Unterschriftenregelung);\nf) den Nachweis des gesetzlichen oder des von der FMA vorgeschriebenen höheren Anfangskapitals nach Art. 16 Abs. 1 Bst. f oder Abs. 2 des Handelsplatz- und Börsegesetzes;\ng) die Nachweise über die erforderlichen Fachkenntnisse und die Gewähr für eine einwandfreie Geschäftstätigkeit nach Art. 16 Abs. 1 Bst. g des Handelsplatz- und Börsegesetzes und Art. 9 dieser Verordnung;\nh) einen Auszug aus dem Aktienbuch (Anteilsregister) sowie Qualifikationsnachweise über die Erfüllung der Anforderungen nach Art. 16 Abs. 1 Bst. h des Handelsplatz- und Börsegesetzes und Art. 9 dieser Verordnung;\ni) einen Entwurf der Allgemeinen Geschäftsbedingungen sowie der Reglemente nach Art. 17 des Handelsplatz- und Börsegesetzes und Art. 8 dieser Verordnung einschliesslich eines Gutachtens eines fachkundigen Experten, welches bestätigt, dass die Reglemente den gesetzlichen Anforderungen genügen und geeignet sind, einen ordnungsgemässen Handel zu gewährleisten;\nk) eine Planbilanz und eine Planerfolgsrechnung für die ersten drei Geschäftsjahre;\nl) den Namen des Leiters der internen Revision sowie den Nachweis, dass die interne Revision Art. 24 der Delegierten Verordnung (EU) 2017/565 genügt;\nm) den Namen der anerkannten Wirtschaftsprüfungsgesellschaft sowie die Wahlannahmeerklärung;\nn) den Nachweis über das Vorliegen eines Verfahrens für die Meldung von Verstössen nach Art. 16 Abs. 1 Bst. l des Handelsplatz- und Börsegesetzes."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "A. Zulassung von Börseunternehmen",
+      "section": "8",
+      "title": "Art. 8 Allgemeine Geschäftsbedingungen und Reglemente",
+      "content": "1) Das Handels- und Überwachungsreglement (Art. 17 Abs. 1 Bst. a und b HPBG) legt für die Zwecke der Handels- und Marktaufsicht nach Art. 39 des Handelsplatz- und Börsegesetzes fest:\na) transparente Regeln und Verfahren für einen fairen, effizienten und ordnungsgemässen Handel sowie objektive Kriterien für die wirksame Ausführung von Aufträgen;\nb) die Anforderungen an Börsemitglieder bzw. -teilnehmer, die algorithmischen Handel betreiben oder über einen elektronischen Zugang verfügen;\nc) die Verfahren und Prozesse zur Überwachung des Handels.\n2) Das Beschwerdereglement (Art. 17 Abs. 1 Bst. c HPBG) legt die Zusammensetzung, Wahl und Organisation der Beschwerdestelle fest und regelt das Beschwerdeverfahren gegen Entscheidungen der Zulassungs- und der Überwachungsstelle nach Art. 10 Abs. 1 Bst. a und b. Das Beschwerdereglement kann die Einrichtung eines Schiedsgerichts vorsehen, das anstelle des Zivilgerichts Beschwerden gegen Entscheidungen der Beschwerdestelle nach Art. 10 Abs. 1 Bst. c beurteilt. Eine entsprechende Klausel im Reglement gilt als Schiedsvereinbarung nach § 598 der Zivilprozessordnung. Auf das Verfahren vor dem Schiedsgericht findet die Liechtensteinische Schiedsordnung Anwendung.\n3) Das Zulassungsreglement (Art. 17 Abs. 1 Bst. d HPBG) legt fest:\na) für die Zwecke der Zulassung von Finanzinstrumenten zum Handel nach Art. 29 und 30 des Handelsplatz- und Börsegesetzes:\n1. in transparenter und fairer Weise die Voraussetzungen für die Zulassung sowie die Anforderungen an den Emittenten;\n2. gegebenenfalls die Befugnis, die Zulassung trotz Erfüllung der formalen gesetzlichen und reglementarischen Voraussetzungen zu verweigern, wenn nach Überzeugung der Zulassungsstelle nach Art. 10 Abs. 1 Bst. a überwiegende Interessen des Anlegerschutzes oder des Börseunternehmens gegen eine Zulassung sprechen;\nb) für die Zwecke des Widerrufs der Zulassung nach Art. 31 und 32 des Handelsplatz- und Börsegesetzes die Voraussetzungen und das Verfahren für den Widerruf durch das Börseunternehmen oder durch den Emittenten.\n4) Die FMA prüft im Rahmen der Genehmigung der Allgemeinen Geschäftsbedingungen die Vereinbarkeit mit dem Handelsplatz- und Börsegesetz und stellt sicher, dass:\na) die Grundsätze der Transparenz und der Gleichbehandlung der Anleger gewährleistet sind; und\nb) die Funktionsfähigkeit der Wertpapiermärkte nicht beeinträchtigt wird.\nB. Anforderungen an Börseunternehmen"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Anforderungen an Börseunternehmen",
+      "section": "9",
+      "title": "Art. 9 Leumund und fachliche Eignung sowie Zeichnungsrecht",
+      "content": "1) Zum Nachweis des guten Leumunds und der fachlichen Eignung der Mitglieder der Geschäftsleitung und des Leitungsorgans sowie des guten Leumunds der interessierten Aktionäre mit einer direkt oder indirekt qualifizierten Beteiligung an dem Börseunternehmen sind bei der FMA insbesondere einzureichen:\na) dokumentierte und unterschriebene Lebensläufe;\nb) aktuelle Strafregisterauszüge;\nc) schriftliche Erklärungen über allfällige hängige Straf- und Verwaltungsstrafverfahren, eingeleitete Disziplinarmassnahmen sowie über die Exekutions- und Konkursfreiheit im In- und Ausland.\n2) Änderungen der Angaben nach Abs. 1 Bst. c sind der FMA unverzüglich nach Kenntnis von den Betroffenen schriftlich mitzuteilen.\n3) Bei der Beurteilung der fachlichen Eignung berücksichtigt die FMA die Art und den Umfang des Geschäftsbetriebs der vom Börseunternehmen betriebenen und verwalteten Wertpapierbörse.\n4) Zum Zwecke der Sicherstellung einer ordnungsgemässen Geschäftstätigkeit kann die FMA ein Kollektivzeichnungsrecht der Geschäftsleiter zu zweien anordnen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Anforderungen an Börseunternehmen",
+      "section": "10",
+      "title": "Art. 10 Organisation",
+      "content": "1) Das Börseunternehmen bezeichnet Stellen für:\na) die Zulassung von Finanzinstrumenten zum Handel (Zulassungsstelle);\nb) die Sicherstellung eines geordneten Handels und dessen Überwachung (Überwachungsstelle);\nc) die Beurteilung von Beschwerden gegen Entscheidungen der Zulassungs- oder Überwachungsstelle (Beschwerdestelle).\n2) Die Zulassungs- und die Überwachungsstelle müssen von der Geschäftsführung des Börseunternehmens sowie mehrheitlich von den Teilnehmern und Emittenten personell und organisatorisch unabhängig sein. Sie sind organisatorisch, personell und finanziell ausreichend auszurüsten. In der Zulassungsstelle müssen Börsemitglieder bzw. -teilnehmer, Emittenten sowie Anleger angemessen vertreten sein.\n3) Die Beschwerdestelle ist unabhängig und nur dem Recht verpflichtet. Die Mitglieder der Beschwerdestelle dürfen weder der Zulassungsstelle angehören noch in einem Arbeitsverhältnis oder einem anderen Vertragsverhältnis mit dem Börseunternehmen stehen, das zu Interessenkonflikten führt. Auf die Mitglieder der Beschwerdestelle finden im Übrigen die Bestimmungen des Gerichtsorganisationsgesetzes über den Ausschluss und die Ablehnung sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Anforderungen an Börseunternehmen",
+      "section": "11",
+      "title": "Art. 11 Risikomanagement",
+      "content": "1) Das Börseunternehmen legt zur Erfassung, Begrenzung und Überwachung der Risiken nach Art. 22 Abs. 1 Bst. b des Handelsplatz- und Börsegesetzes in internen Richtlinien die Grundzüge des Risikomanagements fest.\n2) Das Börseunternehmen muss im Hinblick auf Art. 22 Abs. 1 Bst. c des Handelsplatz- und Börsegesetzes über wirksame Systeme, Verfahren und Vorkehrungen verfügen, um insbesondere sicherzustellen, dass seine Handelssysteme:\na) belastbar sind und mit ausreichenden Kapazitäten für Spitzenvolumina an Aufträgen und Mitteilungen ausgestattet sind;\nb) in der Lage sind, unter extremen Stressbedingungen auf den Märkten einen ordnungsgemässen Handel zu gewährleisten;\nc) wirksamen Notfallvorkehrungen unterliegen, um im Fall von Störungen in seinen Handelssystemen die Wiederaufnahme des Geschäftsbetriebs zu gewährleisten;\nd) Aufträge ablehnen, die die im Voraus festgelegten Grenzen für Volumina und Kurse überschreiten oder eindeutig irrtümlich zustande kamen;\ne) in der Lage sind, den Handel vorübergehend einzustellen oder einzuschränken, wenn es kurzfristig zu einer erheblichen Preisbewegung bei einem Finanzinstrument auf diesem Markt oder einem benachbarten Markt kommt;\nf) in der Lage sind, in Ausnahmefällen jedes Geschäft zu stornieren, zu ändern oder zu berichtigen; und\ng) regelmässig geprüft werden, um zu gewährleisten, dass die Anforderungen nach den Bst. a bis f erfüllt sind.\n3) Das Börseunternehmen muss einen Stabilisierungsplan erstellen, in dem es darlegt, mit welchen Massnahmen im Fall einer Krise gewährleistet ist, dass es seine Geschäftstätigkeit fortführen kann. Es muss seinen Stabilisierungsplan regelmässig testen; die Testergebnisse sind zu dokumentieren."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Anforderungen an Börseunternehmen",
+      "section": "12",
+      "title": "Art. 12 Algorithmischer Handel",
+      "content": "1) Das Börseunternehmen legt im Handels- und Überwachungsreglement nach Art. 8 Abs. 1 für alle zum Handel zugelassenen Gattungen von Finanzinstrumenten das angemessene Order-Transaktions-Verhältnis nach Art. 24 Abs. 3 des Handelsplatz- und Börsegesetzes fest.\n2) Das Börseunternehmen muss organisatorisch und technisch in der Lage sein, Folgendes zu erkennen:\na) die durch algorithmischen Handel erzeugten Aufträge;\nb) die verschiedenen für die Auftragserstellung verwendeten Algorithmen;\nc) die Händler der Teilnehmer, die diese Aufträge im Handelssystem ausgelöst haben.\n3) Es verlangt von Börsemitgliedern und -teilnehmern, die algorithmischen Handel betreiben, dies zu melden und die auf diese Weise erzeugten Aufträge zu kennzeichnen, Aufzeichnungen von allen gesendeten Aufträgen einschliesslich Auftragsstornierungen aufzubewahren und insbesondere über wirksame Vorkehrungen und Risikokontrollen zu verfügen, um sicherzustellen, dass ihre Systeme:\na) belastbar sind und mit ausreichenden Kapazitäten für Spitzenvolumina an Aufträgen und Mitteilungen ausgestattet sind;\nb) angemessenen Handelsschwellen und Handelsobergrenzen unterliegen;\nc) keine Störungen auf dem Handelsplatz verursachen oder dazu beitragen;\nd) Verstösse gegen die Verordnung (EU) Nr. 596/2014 wirksam verhindern;\ne) angemessenen Tests von Algorithmen und Kontrollmechanismen unterliegen, einschliesslich Vorkehrungen zur:\n1. Begrenzung des Verhältnisses nicht ausgeführter Handelsaufträge zu Geschäften, die von einem Teilnehmer in das System eingegeben werden können;\n2. Verlangsamung des Auftragsaufkommens, wenn das Risiko besteht, dass die Systemkapazität erreicht wird; und\n3. Begrenzung und Durchsetzung der kleinstmöglichen Mindestpreisänderungsgrösse, die auf dem Handelsplatz zulässig ist.\n4) Um der zusätzlichen Belastung der Systemkapazität Rechnung zu tragen, kann das Börseunternehmen höhere Gebühren vorsehen für:\na) die Erteilung von Aufträgen, die später storniert werden;\nb) Teilnehmer, bei denen der Anteil stornierter Aufträge hoch ist;\nc) Teilnehmer mit:\n1. einer Infrastruktur zur Minimierung von Verzögerungen bei der Auftragsübertragung;\n2. einem System, das über die Einleitung, das Erzeugen, das Weiterleiten oder die Ausführung eines Auftrags entscheidet; und\n3. einer hohen untertägigen Anzahl von Preisangeboten, Aufträgen oder Stornierungen.\nC. Zulassung von Finanzinstrumenten zum Handel und Widerruf"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Zulassung von Finanzinstrumenten zum Handel und Widerruf",
+      "section": "13",
+      "title": "Art. 13 Zulassungsantrag und -verfahren",
+      "content": "1) Die Zulassung von Finanzinstrumenten erfolgt auf Antrag des Emittenten oder, vorbehaltlich des Art. 29 Abs. 1 Bst. d des Handelsplatz- und Börsegesetzes, eines Dritten mit Zustimmung des Emittenten nach Massgabe der in den Allgemeinen Geschäftsbedingungen und im Zulassungsreglement nach Art. 17 Abs. 1 Bst. d des Handelsplatz- und Börsegesetzes iVm Art. 8 Abs. 3 dieser Verordnung festgelegten Anforderungen. Der Antrag ist schriftlich bei der Zulassungsstelle (Art. 10 Abs. 1 Bst. a) einzureichen.\n2) Das Zulassungsreglement kann vorsehen, dass der Antrag durch einen von der Zulassungsstelle qualifizierten Vertreter einzureichen ist. Bei der erstmaligen Zulassung von Finanzinstrumenten muss der qualifizierte Vertreter sein:\na) eine bewilligte Bank bzw. ein EWR-Kreditinstitut;\nb) eine zugelassene Wertpapierfirma nach dem Wertpapierfirmengesetz oder eine nach der Richtlinie 2014/65/EU zugelassene Wertpapierfirma mit Sitz in einem anderen EWR-Mitgliedstaat; oder\nc) ein Unternehmen mit Sitz in einem Drittstaat, das eine Bank oder Wertpapierfirma wäre, wenn es seinen Sitz im Europäischen Wirtschaftsraum (EWR) hätte.\n3) Der Antrag nach Abs. 1 hat zu enthalten:\na) eine Beschreibung des Finanzinstruments;\nb) Nachweise über die Erfüllung der Zulassungsvoraussetzungen nach Art. 29 des Handelsplatz- und Börsegesetzes sowie des Zulassungsreglements nach Art. 17 Abs. 1 Bst. d des Handelsplatz- und Börsegesetzes iVm Art. 8 Abs. 3 dieser Verordnung;\nc) den Entwurf des Prospekts; und\nd) die Angabe des geplanten ersten Handelstages.\n4) Die Zulassungsstelle prüft den Antrag aufgrund der eingereichten Unterlagen. Sie erteilt die Zulassung von Finanzinstrumenten zum Handel, wenn die Voraussetzungen des Handelsplatz- und Börsegesetzes sowie des Zulassungsreglements erfüllt sind; Art. 8 Abs. 3 Bst. a Ziff. 2 bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "C. Zulassung von Finanzinstrumenten zum Handel und Widerruf",
+      "section": "14",
+      "title": "Art. 14 Widerruf der Zulassung von Finanzinstrumenten",
+      "content": "1) Die Zulassung eines Finanzinstruments zum Handel ist nach Art. 31 Abs. 1 des Handelsplatz- und Börsegesetzes insbesondere zu widerrufen, wenn:\na) die Zahlungsfähigkeit des Emittenten ernsthaft in Frage steht oder ein Insolvenz- oder Liquiditationsverfahren eröffnet wurde und nach Auffassung der Zulassungsstelle die Handelbarkeit der Finanzinstrumente nicht mehr gegeben ist;\nb) nach Auffassung der Zulassungsstelle die für einen geordneten Handel erforderliche Liquidität nicht mehr vorliegt;\nc) der Emittent nicht mehr über eine anerkannte Wirtschaftsprüfungsgesellschaft verfügt und eine solche trotz Setzung einer angemessenen Nachfrist durch das Börseunternehmen nicht bestellt wird;\nd) der Emittent seine Mitwirkungspflichten nach dem Handelsplatz- und Börsegesetz oder dieser Verordnung beharrlich missachtet;\ne) der Handel vorläufig ausgesetzt wurde (Suspendierung) und die Gründe dafür nicht innerhalb von drei Monaten beseitigt wurden; oder\nf) die Zulassungsstelle aufgrund anderer Tatsachen zur Überzeugung gelangt, dass ein geordneter Handel mit dem Finanzinstrument nicht mehr gewährleistet ist.\n2) Die Zulassungsstelle leitet ein Verfahren auf Widerruf der Zulassung ein, wenn sie:\na) dazu durch die FMA beauftragt wird; oder\nb) in anderer Weise Kenntnis erlangt, dass ein Widerrufsgrund vorliegen könnte.\n3) Die FMA oder die Zulassungsstelle können anordnen, dass der Handel mit einem Finanzinstrument ab dem Zeitpunkt der Eröffnung des Verfahrens vorläufig auszusetzen ist.\n4) Die Zulassungsstelle gibt dem Emittenten nach Abschluss ihrer Abklärungen unter Setzung einer angemessenen Frist Gelegenheit zur Stellungnahme.\n5) Die Zulassungsstelle begründet ihre Entscheidung, mit der die Zulassung von Finanzinstrumenten widerrufen wird. Sie legt in ihrer Entscheidung den Zeitpunkt der Ankündigung sowie den letzten Handelstag fest. Dabei berücksichtigt sie den Schutz der Anleger, den ordnungsgemässen Handel sowie die Bestimmungen der Handelsplatz- und Börsegesetzgebung.\n6) Die Zulassungsstelle stellt die Entscheidung über den Widerruf der Zulassung dem Emittenten und der FMA zu. Sie veröffentlicht die Entscheidung unverzüglich auf ihrer Internetseite."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "C. Zulassung von Finanzinstrumenten zum Handel und Widerruf",
+      "section": "15",
+      "title": "Art. 15 Auskunfts- und Veröffentlichungspflichten von Emittenten",
+      "content": "1) Der Emittent hat der Zulassungsstelle alle Auskünfte zu erteilen und Unterlagen vorzulegen, die für die Erfüllung der Aufgaben der Zulassungsstelle erforderlich sind.\n2) Auskünfte nach Abs. 1 sind vollständig und wahrheitsgemäss zu erteilen.\n3) Die Zulassungsstelle kann verlangen, dass Informationsdokumente, auf welche im Prospekt Bezug genommen wird (z.B. Expertisen, Trust Deeds oder wichtige Verträge), zur Einsicht für Anleger in Liechtenstein aufgelegt werden.\n4) Kommt der Emittent einer Aufforderung zur Veröffentlichung von Informationen nach Art. 34 Abs. 2 des Handelsplatz- und Börsegesetzes nicht innerhalb einer angemessenen Frist nach, so nimmt das Börseunternehmen diese Veröffentlichung auf Kosten des Emittenten vor.\nD. Handels- und Marktaufsicht"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "D. Handels- und Marktaufsicht",
+      "section": "16",
+      "title": "Art. 16 Zusammenarbeit zwischen Börseunternehmen und FMA",
+      "content": "1) Die FMA ist berechtigt, für Untersuchungen, für die sie nach der Handelsplatz- und Börse-, Wertpapierfirmen-, Wertpapierdienstleistungs- sowie Marktmissbrauchsgesetzgebung zuständig ist, das Handelsüberwachungssystem nach Art. 39 Abs. 2 des Handelsplatz- und Börsegesetzes in Anspruch zu nehmen oder das Börseunternehmen mit der Durchführung derartiger Untersuchungen zu beauftragen.\n2) Die FMA kann vom Börseunternehmen die Meldung von Daten über die gehandelten Finanzinstrumente verlangen, insbesondere Umsätze und Preise; sie legt Gliederung, Format und Art der Übermittlung im Einzelfall fest.\n3) Unbeschadet des Abs. 2 hat das Börseunternehmen der FMA alle zur Wahrnehmung ihrer Aufgaben erforderlichen Informationen zu erteilen und die FMA bei der Durchführung ihrer Untersuchungen zu unterstützen.\n4) Besteht der Verdacht, dass sowohl in den Zuständigkeitsbereich des Börseunternehmens fallende Vorschriften, insbesondere die Handelsregeln nach dem Handels-und Überwachungsreglement nach Art. 8 Abs. 1, als auch in die Zuständigkeit der FMA fallende Vorschriften verletzt wurden, so arbeiten beide Stellen zusammen und erteilen einander die erforderlichen Auskünfte.\n5) Die FMA ist in den Fällen nach Abs. 4 berechtigt, dem Börseunternehmen die Unterlassung von Untersuchungen oder sonstigen Massnahmen aufzutragen, wenn dadurch ansonsten die Ermittlung eines Sachverhalts nach der Marktmissbrauchsgesetzgebung erschwert oder vereitelt würde.\nV. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "V. Schlussbestimmung",
+      "section": "17",
+      "title": "Art. 17 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Februar 2025 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\n1\nRichtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349)\n2\nVerordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84)\n3\nDie Liechtensteinische Schiedsordnung ist abrufbar unter www.lihk.li\n4\nVerordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1)"
+    }
+  ],
+  "definitions": []
+}

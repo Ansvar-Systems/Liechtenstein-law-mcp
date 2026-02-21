@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-1991025000",
+  "type": "statute",
+  "title": "Verordnung vom 12. März 1991 über die Ausrichtung einer Teuerungszulage auf die Renten der Alters-, Hinterlassenen- und Invalidenversicherung für das Jahr 1991",
+  "title_en": "",
+  "short_name": "LGBl 1991.025",
+  "status": "in_force",
+  "issued_date": "1991-03-12",
+  "in_force_date": "1991-03-12",
+  "url": "https://www.gesetze.li/konso/1991025000",
+  "description": "Verordnung vom 12. März 1991 über die Ausrichtung einer Teuerungszulage auf die Renten der Alters-, Hinterlassenen- und Invalidenversicherung für das Jahr 1991",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Höhe der Teuerungszulage",
+      "content": "1) Zum Ausgleich der bis 31. Dezember 1990 eingetretenen Teuerung (Stand des Landesindexes der Konsumentenpreise: 124.7 Punkte) wird auf die Renten der Alters-, Hinterlassenen- und Invalidenversicherung für das Jahr 1991 eine Teuerungszulage von 6.25 % ausgerichtet.\n2) Die Teuerungszulage beträgt /8 der im April 1991 und /8 der im August 1991 ausbezahlten Renten."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Auszahlung der Teuerungszulage",
+      "content": "Die Teuerungszulage wird gesondert ausbezahlt. Die Anstalt hat der Post die Zahlungsaufträge für die Ausrichtung der Teuerungszulage so rechtzeitig zu erteilen, dass die Auszahlung im Laufe des ersten Monatsdrittels erfolgen kann."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 1991 in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nLR 831.10"
+    }
+  ],
+  "definitions": []
+}

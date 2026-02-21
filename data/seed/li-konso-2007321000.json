@@ -1,0 +1,27 @@
+{
+  "id": "li-konso-2007321000",
+  "type": "statute",
+  "title": "Protokoll über die Auslegung des Art. 69 des Europäischen Patentübereinkommens",
+  "title_en": "",
+  "short_name": "LGBl 2007.321",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/2007321000",
+  "description": "Protokoll über die Auslegung des Art. 69 des Europäischen Patentübereinkommens",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Allgemeine Grundsätze",
+      "content": "Art. 69 ist nicht in der Weise auszulegen, dass unter dem Schutzbereich des europäischen Patents der Schutzbereich zu verstehen ist, der sich aus dem genauen Wortlaut der Patentansprüche ergibt, und dass die Beschreibung sowie die Zeichnungen nur zur Behebung etwaiger Unklarheiten in den Patentansprüchen anzuwenden sind. Ebenso wenig ist Art. 69 dahingehend auszulegen, dass die Patentansprüche lediglich als Richtlinie dienen und der Schutzbereich sich auch auf das erstreckt, was sich dem Fachmann nach Prüfung der Beschreibung und der Zeichnungen als Schutzbegehren des Patentinhabers darstellt. Die Auslegung soll vielmehr zwischen diesen extremen Auffassungen liegen und einen angemessenen Schutz für den Patentinhaber mit ausreichender Rechtssicherheit für Dritte verbinden."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Äquivalente",
+      "content": "Bei der Bestimmung des Schutzbereichs des europäischen Patents ist solchen Elementen gebührend Rechnung zu tragen, die Äquivalente der in den Patentansprüchen genannten Elemente sind.\nGeltungsbereich der des Protokolls\n1\nSiehe Geltungsbereich des Europäischen Patentübereinkommens."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "li-konso-2020465000",
+  "type": "statute",
+  "title": "Verordnung vom 15. Dezember 2020 über das EWR-Register (EWR-RegV)",
+  "title_en": "",
+  "short_name": "EWR-RegV",
+  "status": "in_force",
+  "issued_date": "2020-12-15",
+  "in_force_date": "2020-12-15",
+  "url": "https://www.gesetze.li/konso/2020465000",
+  "description": "Verordnung vom 15. Dezember 2020 über das EWR-Register (EWR-RegV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Durchführung von Art. 5 des Gesetzes das Nähere über die Herausgabe, den Inhalt und die Führung des EWR-Registers."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Herausgabe",
+      "content": "1) Das EWR-Register wird von der Stabsstelle EWR in elektronischer Form herausgegeben.\n2) Es wird auf der Internetseite der Stabsstelle EWR veröffentlicht ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inhalt",
+      "content": "1) Das EWR-Register enthält die Titel der für Liechtenstein anwendbaren EU-Rechtsvorschriften sowie deren Fundstelle im Amtsblatt der Europäischen Union nach Massgabe der im Liechtensteinischen Landesgesetzblatt kundgemachten Beschlüsse des Gemeinsamen EWR-Ausschusses.\n2) Die für Liechtenstein anwendbaren EU-Rechtsvorschriften werden im EWR-Register mit dem Amtsblatt der Europäischen Union und dem Liechtensteinischen Landesgesetzblatt, in welchem der jeweilige Beschluss des Gemeinsamen EWR-Ausschusses kundgemacht wurde, verlinkt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Nachführungen",
+      "content": "1) Das EWR-Register wird laufend nachgeführt.\n2) Die Nachführungen erfolgen sowohl zeitlich als auch systematisch nach Massgabe der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 31. Mai 1995 über die EWR-Rechtssammlung, LGBl. 1995 Nr. 146, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Februar 2021 in Kraft.\nFürstliche Regierung:\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nhttps:// www.llv.li/inhalt/1353/amtsstellen/ewr-register"
+    }
+  ],
+  "definitions": []
+}

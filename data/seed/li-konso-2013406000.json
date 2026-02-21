@@ -1,0 +1,209 @@
+{
+  "id": "li-konso-2013406000",
+  "type": "statute",
+  "title": "Vereinbarung zwischen dem Fürstentum Liechtenstein und dem Europäischen Polizeiamt über Geheimhaltung und Informationssicherheit",
+  "title_en": "",
+  "short_name": "LGBl 2013.406",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.gesetze.li/konso/2013406000",
+  "description": "Vereinbarung zwischen dem Fürstentum Liechtenstein und dem Europäischen Polizeiamt über Geheimhaltung und Informationssicherheit",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Zweck",
+      "content": "Zweck dieses Abkommens ist die Regulierung des Schutzes von Informationen, die zwischen den Parteien ausgetauscht werden, indem die Grundsätze nach Art. 19 des Abkommens umgesetzt werden."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen",
+      "content": "Im Sinne dieser Vereinbarung bezeichnet:\na) \"Informationen\" in jeglicher Form kommuniziertes Wissen, das personenbezogene und/oder nicht personenbezogene Daten umfassen kann;\nb) \"Verschlusssache\" alle Informationen, die gegen unerlaubte Weitergabe geschützt werden müssen und entsprechend gekennzeichnet worden sind;\nc) \"Geheimhaltungsgrad\" die Sicherheitskennzeichnung eines Dokuments, welche die auf die Informationen anzuwendenden Sicherheitsmassnahmen bezeichnet;\nd) \"Informationssystem\" alle infrastrukturellen, organisatorischen, personellen und technischen Komponenten für die Erhebung, Verarbeitung, Speicherung, Übermittlung, Darstellung, Verbreitung, Zurverfügungstellung und Löschung von Informationen nach dieser Vereinbarung;\ne) \"Risikobewertung\" einen strukturierten Prozess für die Prüfung der informationssicherheitsrelevanten Bedrohungen, Sicherheitslücken und Auswirkungen auf das Geschäft infolge des Verlustes der Geheimhaltung, der Integrität und/oder der Verfügbarkeit von Informationen oder eines Informationssystems, um festzustellen, ob zusätzliche Sicherheitskontrollen erforderlich sind;\nf) \"Akkreditierung\" den Prozess, der durchgeführt wird, um zu versichern, dass alle angemessenen Sicherheitsmassnahmen umgesetzt worden sind und dass ein ausreichender Schutzgrad der Verschlusssachen und des Informationssystems nach Massgabe dieser Vereinbarung erreicht worden ist. Der Akkreditierungsprozess bestimmt den maximalen Geheimhaltungsgrad der Informationen, die in einem Informationssystem gehandhabt werden, sowie die entsprechenden Geschäftsbedingungen;\ng) \"sicherheitsrelevanter Vorfall\" eine einzige oder eine Reihe von unerwünschten oder unerwarteten Informationssicherheits-Ereignissen, bei denen eine signifikante Wahrscheinlichkeit besteht, dass der Geschäftsbetrieb kompromittiert und die Informationssicherheit gefährdet wird;\nh) \"Prüfung\" einen strukturierten Prozess der Untersuchung, Überprüfung, Evaluierung und Berichterstattung betreffend die Verwendung der Informationen oder des Informationssystems durch eine oder mehrere sachkundige Personen, die von den zu prüfenden Situationen, Systemen, Prozessen, Funktionen usw. unabhängig sind.\nKapitel 1\nGeheimhaltung"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Geheimhaltung",
+      "section": "3",
+      "title": "Art. 3 Grundsätze",
+      "content": "Jede Partei:\n1. schützt und gewährleistet Informationen nach dem Abkommen und dieser Vereinbarung, die nicht als Verschlusssache eingestuft sind, mit Ausnahme der ausdrücklich als öffentlich zugänglich gekennzeichneten oder als solche eindeutig erkennbaren Informationen, durch verschiedene Massnahmen; hierzu gehören die Schweige- und Geheimhaltungspflicht, die Beschränkung des Zugangs auf das befugte Personal sowie allgemeine technische und verfahrensrechtliche Massnahmen;\n2. schützt und gewährleistet Informationen nach dem Abkommen und der Vereinbarung, die als Verschlusssache eingestuft sind, gemäss den folgenden Bestimmungen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Geheimhaltung",
+      "section": "4",
+      "title": "Art. 4 Sicherheitsorganisation",
+      "content": "Jede Partei stellt sicher, dass sie eine Sicherheitsorganisation, einen Sicherheitsrahmen und Sicherheitsmassnahmen zur Verfügung hat. Die Parteien stellen sicher, dass:\n1. die Sicherheitsorganisation die Rollen umfasst, die mit Verantwortung für die Sicherheit auf verschiedenen Hierarchiestufen betraut werden;\n2. die Inhaber der Informationen identifiziert sind;\n3. eine bezeichnete Stelle verantwortlich für die Steuerung von Informationsrisiken identifiziert wird;\n4. eine bezeichnete Stelle verantwortlich für die Akkreditierung von Informationssystemen, die Verschlusssachen nach dieser Vereinbarung handhaben, identifiziert wird;\n5. eine bezeichnete Stelle verantwortlich für die Sicherheit elektronischer Informationen identifiziert wird;\n6. eine bezeichnete Stelle verantwortlich für die Handhabung von kryptographischem Material, falls vorhanden, identifiziert wird."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Geheimhaltung",
+      "section": "5",
+      "title": "Art. 5 Ausbildung und Sensibilisierung",
+      "content": "Jede Partei stellt sicher, dass alle Mitarbeiter, welche Informationen nach dieser Vereinbarung verarbeiten, mit dem Sicherheitsrahmen im Allgemeinen vertraut sind und auf die Verfahren sensibilisiert sind, um sicherheitsrelevante Probleme melden zu können. Die Parteien stellen ferner sicher, dass Mitarbeiter, welche die sichere Konfiguration von Informationssystemen verwalten und aufrechterhalten, sowie solche mit Zugang zu Informationen angemessen ausgebildet werden und auf die Verfahren zur Meldung von Vorfällen sensibilisiert sind."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Geheimhaltung",
+      "section": "6",
+      "title": "Art. 6 Sicherheitsüberprüfungen und Ermächtigungen",
+      "content": "Jede Partei stellt sicher, dass:\n1. alle Personen, die in Ausübung ihrer amtlichen Tätigkeit Zugang zu Verschlusssachen haben müssen, die im Rahmen dieses Abkommens bereitgestellt oder ausgetauscht werden, oder deren Tätigkeit oder Aufgaben Zugang zu solchen Verschlusssachen bieten kann, in angemessener Weise einer Sicherheitsüberprüfung unterzogen werden, bevor ihnen Zugang zu solchen Informationen gewährt wird.\n2. die Verfahren der Sicherheitsüberprüfung der Feststellung dienen, ob einer Person in Anbetracht ihrer Loyalität, Vertrauenswürdigkeit und Verlässlichkeit Zugang zu Verschlusssachen gewährt werden kann.\n3. die weitere Berechtigung einer Person für den Zugang zu Verschlusssachen regelmässig geprüft wird."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Geheimhaltung",
+      "section": "7",
+      "title": "Art. 7 Wahl des Geheimhaltungsgrads",
+      "content": "1) Jede Partei ist verantwortlich für die Wahl des geeigneten Geheimhaltungsgrads für Informationen, die der anderen Partei geliefert werden.\n2) Gelangt eine Partei anhand der ihr bereits vorliegenden Informationen zu dem Schluss, dass ein gewählter Geheimhaltungsgrad zu ändern ist, unterrichtet sie die andere Partei und bemüht sich, Einvernehmen über einen geeigneten Geheimhaltungsgrad zu erzielen. Ohne die schriftliche Einwilligung der anderen Partei darf keine Partei Geheimhaltungsgrade festlegen oder ändern, die sich auf von der anderen Partei gelieferte Informationen beziehen.\n3) Jede Partei kann jederzeit eine Änderung des Geheimhaltungsgrads, der sich auf von ihr gelieferte Informationen bezieht, beantragen, einschliesslich einer allfälligen Aufhebung des Grads. Die andere Partei ändert den Geheimhaltungsgrad gemäss dem Antrag. Jede Partei beantragt die Einstufung in einen niedrigeren Geheimhaltungsgrad oder die Aufhebung der Geheimhaltung, sobald es die Umstände gestatten.\n4) Jede Partei kann den Zeitraum, für den ein gewählter Geheimhaltungsgrad, der sich auf die von ihr gelieferten Informationen bezieht, gelten soll angeben, sowie etwaige Änderungen des Geheimhaltungsgrads für den nachfolgenden Zeitraum.\n5) Sind Informationen, bei denen der Geheimhaltungsgrad geändert wird, nach Massgabe dieses Artikels an Drittparteien geliefert worden, werden alle Empfänger über die Änderung des Geheimhaltungsgrads informiert."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Geheimhaltung",
+      "section": "8",
+      "title": "Art. 8 Äquivalenztabelle",
+      "content": "Die Parteien legen fest, dass die folgenden Geheimhaltungsgrade unter den nationalen Gesetzesbestimmungen Liechtensteins und die innerhalb von Europol verwendeten Geheimhaltungsgrade äquivalent sind, und sie gewähren äquivalenten Schutz für die mit diesen Geheimhaltungsgraden gekennzeichneten Informationen:\nFür Liechtenstein\nFür Europol\nEINGESCHRÄNKT\nRESTREINT UE / EU RESTRICTED\nVERTRAULICH\nCONFIDENTIEL UE / EU CONFIDENTIAL\nGEHEIM\nSECRET UE / EU SECRET"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Geheimhaltung",
+      "section": "9",
+      "title": "Art. 9 Registrierung",
+      "content": "Jede Partei trägt alle Informationen, die als CONFIDENTIEL UE / EU CONFIDENTIAL oder höher eingestuft werden oder die in Liechtenstein diesem Geheimhaltungsgrad entsprechen, in ihr Register ein. Die registrierten Informationen beinhalten zumindest das Minimum, welches für die eindeutige Identifizierung der entsprechenden Informationen erforderlich ist, so zum Beispiel deren Referenznummer, Gegenstand, Datum und Geheimhaltungsgrad."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Geheimhaltung",
+      "section": "10",
+      "title": "Art. 10 Kennzeichnung",
+      "content": "Jede Partei stellt sicher, dass die Verschlusssachen nach dieser Vereinbarung immer eindeutig mit den in Art. 8 festgelegten Bezeichnungen gekennzeichnet werden, um eine Erkennung des Geheimhaltungsgrads zu ermöglichen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Geheimhaltung",
+      "section": "11",
+      "title": "Art. 11 Speicherung",
+      "content": "Alle Verschlusssachen nach dieser Vereinbarung werden auf eine sichere Weise gespeichert, die dem jeweiligen Rechtsrahmen der Partei entspricht."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Geheimhaltung",
+      "section": "12",
+      "title": "Art. 12 Vervielfältigung und Übersetzung",
+      "content": "1) Jede Partei stellt sicher, dass Vervielfältigungen von Verschlusssachen auf eine Zahl beschränkt werden, die zur Erfüllung der wesentlichen Anforderungen unbedingt notwendig ist. Die auf die Originalinformationen anwendbaren Sicherheitsmassnahmen sind auch auf die Vervielfältigungen anwendbar.\n2) Jede Partei stellt sicher, dass alle einzelnen Vervielfältigungen von Informationen, die als CONFIDENTIEL UE / EU CONFIDENTIAL oder höher eingestuft werden oder die in Liechtenstein diesem Geheimhaltungsgrad entsprechen, mit einer eindeutigen Nummer gekennzeichnet werden, welche die Identifizierung jeder einzelnen Vervielfältigung der Informationen ermöglicht.\n3) Für die Zwecke dieser Vereinbarung gelten alle Übersetzungen von Verschlusssachen als Vervielfältigungen der Originalinformationen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Geheimhaltung",
+      "section": "13",
+      "title": "Art. 13 Versendung",
+      "content": "1) Verschlusssachen werden auf eine sichere Weise versandt, die dem jeweiligen Rechtsrahmen der übermittelnden Partei entspricht.\n2) Informationen, die als CONFIDENTIEL UE / EU CONFIDENTIAL oder höher eingestuft werden oder die in Liechtenstein diesem Geheimhaltungsgrad entsprechen, werden zwischen den verantwortlichen Registern der Parteien ausgetauscht.\n3) Die Versendung von Informationen, die als CONFIDENTIEL UE / EU CONFIDENTIAL eingestuft werden, wird von den verantwortlichen Registern dokumentiert.\n4) Der Empfang von Verschlusssachen wird bestätigt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Geheimhaltung",
+      "section": "14",
+      "title": "Art. 14 Vernichtung",
+      "content": "1) Jede Partei stellt sicher, dass nicht mehr benötigte Verschlusssachen auf eine Weise vernichtet werden, die den anwendbaren Standards entspricht, so dass eine Wiederherstellung, ganz oder teilweise, verunmöglicht wird.\n2) Abfallprodukte, die aus der Erstellung von Verschlusssachen hervorgehen und selbst als Verschlusssachen einzustufen sind, müssen mit der gleichen Sorgfalt und auf die gleiche Weise vernichtet werden wie die Verschlusssachen selbst.\n3) Im Falle von Informationen, die als CONFIDENTIEL UE / EU CONFIDENTIAL oder höher eingestuft werden oder die in Liechtenstein diesem Geheimhaltungsgrad entsprechen, wird die Vernichtung durch das Register nach Massgabe des jeweiligen Rechtsrahmens der Partei registriert."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Geheimhaltung",
+      "section": "15",
+      "title": "Art. 15 Evaluationen",
+      "content": "Jede Partei erlaubt der anderen Partei, nach Erhalt einer schriftlichen Erlaubnis ihr Hoheitsgebiet oder ihre Räumlichkeiten zu besuchen, um ihre Verfahren und Anlagen für den Schutz von Verschlusssachen, die von der anderen Partei übermittelt werden, zu evaluieren. Die Vorkehrungen für den Besuch werden bilateral vereinbart. Jede Partei unterstützt die andere Partei bei der Beurteilung, ob die von der anderen Partei zur Verfügung gestellten Verschlusssachen ausreichend geschützt sind."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Geheimhaltung",
+      "section": "16",
+      "title": "Art. 16 Kompromittierung von Verschlusssachen",
+      "content": "1) Die Sicherheitsbehörde jeder Partei meldet der Sicherheitsbehörde der anderen Partei sofort jede mögliche Kompromittierung von Verschlusssachen.\n2) Im Falle einer unberechtigten Offenlegung arbeiten beide Parteien in angemessener Weise bei der Ermittlung zusammen und informieren einander über die Resultate.\nKapitel 2\nInformationssicherheit"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Informationssicherheit",
+      "section": "17",
+      "title": "Art. 17 Informationssicherheitspolitik",
+      "content": "Als Teil ihrer übergreifenden Sicherheitspolitik hat jede Partei eine Informationssicherheitspolitik zur Verfügung, die festlegt, wie sie und ihre Lieferungspartner die Mindestanforderungen gemäss dieser Vereinbarung erfüllen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Informationssicherheit",
+      "section": "18",
+      "title": "Art. 18 Steuerung von Informationsrisiken",
+      "content": "Jede Partei führt regelmässig Informationsrisikobeurteilungen durch sowie - wenn sich eine Risikokomponente (Bedrohung, Sicherheitslücke, Auswirkungen usw.) wesentlich verändert - Beurteilungen der betriebenen Informationssysteme. Die Entscheide, die im Rahmen der Evaluierung und der Risikosteuerung gefällt werden, werden in der relevanten Risikosteuerungs-Dokumentation registriert."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Informationssicherheit",
+      "section": "19",
+      "title": "Art. 19 Akkreditierung",
+      "content": "Jede Partei stellt sicher, dass Informationssysteme, die Verschlusssachen nach dieser Vereinbarung verarbeiten, akkreditiert werden. Der Akkreditierungsstatus wird regelmässig geprüft, um zu beurteilen, ob es wesentliche Änderungen gegeben hat, die den ursprünglichen Akkreditierungsentscheid ändern könnten."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Informationssicherheit",
+      "section": "20",
+      "title": "Art. 20 Prüfung",
+      "content": "Jede Partei führt Sicherheitsprüfungen von Informationssystemen durch, die Verschlusssachen nach dieser Vereinbarung verarbeiten."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Informationssicherheit",
+      "section": "21",
+      "title": "Art. 21 Identity and Access Management",
+      "content": "Jede Partei hat geeignete Identifizierungs- und Authentifizierungskontrollen für Informationssysteme zur Verfügung, die Verschlusssachen nach dieser Vereinbarung verarbeiten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Informationssicherheit",
+      "section": "22",
+      "title": "Art. 22 Kryptographie",
+      "content": "Jede Partei verwendet kryptographische Kontrollen für den sicheren Austausch von Verschlusssachen nach dieser Vereinbarung. Kryptographische Geräte werden nach Massgabe des Rechtsrahmens der übermittelnden Partei bewilligt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Informationssicherheit",
+      "section": "23",
+      "title": "Art. 23 Abhören und elektromagnetische Gegenmassnahmen",
+      "content": "Informationssysteme, welche Informationen handhaben, die als CONFIDENTIEL UE / EU CONFIDENTIAL oder höher eingestuft werden oder die in Liechtenstein diesem Geheimhaltungsgrad entsprechen, werden auf der Grundlage einer Risikobeurteilung so geschützt, dass die Informationen nicht durch Abhören und/oder durch elektromagnetische Ausstrahlungen kompromittiert werden können."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Informationssicherheit",
+      "section": "24",
+      "title": "Art. 24 Meldung von Vorfällen",
+      "content": "Jede Partei hat klare Regeln und Verfahren zur Verfügung, um sicherheitsrelevante Vorfälle und Sicherheitsverletzungen zu melden, bewältigen und beheben."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Informationssicherheit",
+      "section": "25",
+      "title": "Art. 25 Wechseldatenträger",
+      "content": "Jede Partei hat Regeln und Verfahren zur Verfügung betreffend die angemessene Verwendung und den angemessenen Schutz von Wechseldatenträgern, welche zur Speicherung von Verschlusssachen nach dieser Vereinbarung verwendet werden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Informationssicherheit",
+      "section": "26",
+      "title": "Art. 26 Sichere Entsorgung",
+      "content": "Jede Partei stellt sicher, dass alle Medien und Datenträger, welche für die Speicherung oder die Verarbeitung von Verschlusssachen verwendet werden, nach Massgabe des jeweiligen Rechtsrahmens der Partei sicher entsorgt oder gelöscht werden.\nKapitel 3\nSchlussbestimmungen"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Schlussbestimmungen",
+      "section": "27",
+      "title": "Art. 27 Inkrafttreten",
+      "content": "Diese Vereinbarung tritt am ersten Tag des Monats nach erfolgter Unterzeichnung durch die letzte Partei in Kraft, auf jeden Fall aber nicht bevor das Abkommen in Kraft getreten ist.\nDer Austausch von Informationen, die als Verschlusssache eingestuft sind, erfolgt erst nach dem Inkrafttreten dieser Vereinbarung."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Schlussbestimmungen",
+      "section": "28",
+      "title": "Art. 28 Änderungen und Beendigung",
+      "content": "1) Diese Vereinbarung kann jederzeit im gegenseitigen Einvernehmen der Parteien schriftlich geändert werden.\n2) Diese Vereinbarung kann von jeder Partei mit einer Kündigungsfrist von drei Monaten beendet werden. In diesem Falle bleiben die Rechtswirkungen dieser Vereinbarung in Kraft.\n3) Diese Vereinbarung tritt automatisch an dem Tag ausser Kraft, an dem das Abkommen beendet wird.\nGeschehen zu Luxemburg am 7. Juni 2013 in doppelter Ausfertigung in deutscher und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.\nFür das\nFürstentum Liechtenstein:\nFür Europol:\ngez. Dr. Thomas Zwiefelhofer\ngez. Rob Wainwright\n1\nBericht und Antrag der Regierung Nr. 65/2013"
+    }
+  ],
+  "definitions": []
+}

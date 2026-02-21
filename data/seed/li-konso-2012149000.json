@@ -1,0 +1,292 @@
+{
+  "id": "li-konso-2012149000",
+  "type": "statute",
+  "title": "Eisenbahninfrastruktur-Bauverordnung (EBI-BauV) vom 22. Mai 2012",
+  "title_en": "",
+  "short_name": "LGBl 2012.149",
+  "status": "in_force",
+  "issued_date": "2012-05-22",
+  "in_force_date": "2012-05-22",
+  "url": "https://www.gesetze.li/konso/2012149000",
+  "description": "Eisenbahninfrastruktur-Bauverordnung (EBI-BauV) vom 22. Mai 2012",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Geltungsbereich",
+      "content": "1) Diese Verordnung regelt in Ausführung des Eisenbahngesetzes:\na) die baurechtlichen Anforderungen an die Eisenbahninfrastruktur;\nb) das eisenbahnrechtliche Baubewilligungs- und Anzeigeverfahren.\n2) Die Bestimmungen für Neubauten gelten auch für wesentliche Umbauten.\n3) Die Bestimmungen für Neubauten sind bei der Instandsetzung so weit zu berücksichtigen, als die hierdurch bedingten Änderungen keine unverhältnismässig hohen Kosten verursachen.\n4) Die Bestimmungen dieser Verordnung gelten, soweit nicht verbindliche Technische Spezifikationen für Interoperabilität (TSI) nach Art. 10 Abs. 2 EBG etwas anderes bestimmen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Bahnhöfe\": Betriebsanlagen mit mindestens einer Weiche, wo Zugfahrten beginnen, enden, ausweichen oder wenden dürfen. Als Grenze zwischen den Bahnhöfen und der freien Strecke gelten im Allgemeinen die Einfahrsignale oder Trapeztafeln, sonst die Einfahrweichen;\nb) \"Blockabschnitte\": Gleisabschnitte, in die eine Zugfahrt nur einfahren darf, wenn sie frei von Schienenfahrzeugen sind;\nc) \"Blockstellen\": Betriebsanlagen, die einen Blockabschnitt begrenzen;\nd) \"Abzweigstellen\": Blockstellen der freien Strecke, wo Zugfahrten von einer Strecke auf eine andere Strecke übergehen können;\ne) \"Überleitstellen\": Blockstellen der freien Strecke, wo Zugfahrten auf ein anderes Gleis derselben Strecke übergehen können;\nf) \"Anschlussstellen\": Betriebsanlagen der freien Strecke, wo Fahrten ein angeschlossenes Gleis als Verschubfahrt befahren können, ohne dass der Blockabschnitt für eine andere Zugfahrt freigegeben wird;\ng) \"Haltestellen\": Betriebsanlagen ohne Weichen, wo Zugfahrten planmässig halten, beginnen oder enden dürfen;\nh) \"Hauptgleise\": sicherungstechnisch für Zugfahrten ausgerüstete Gleise, wie die Hauptgleise der freien Strecke und ihre Fortsetzung in den Bahnhöfen;\ni) \"Sicherheit und Ordnung\": die Sicherheit und Ordnung des Betriebs der Eisenbahn, des Betriebs von Schienenfahrzeugen auf der Eisenbahn und des Verkehrs auf Eisenbahnen.\n2) Unter den in dieser Verordnung verwendeten Personen-, Berufs- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Anforderungen an die Eisenbahninfrastruktur"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "3",
+      "title": "Art. 3 Allgemeine Anforderungen",
+      "content": "1) Die Eisenbahninfrastruktur muss so beschaffen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügt. Diese Anforderungen gelten als erfüllt, wenn die Anlagen den Bestimmungen dieser Verordnung und darüber hinaus den anerkannten Regeln der Technik entsprechen.\n2) Von den anerkannten Regeln der Technik darf abgewichen werden, wenn die Sicherheit und Ordnung auf andere Weise gewährleistet werden kann."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "4",
+      "title": "Art. 4 Ausnahmen",
+      "content": "Die Eisenbahnbehörde kann im Einzelfall andere als in dieser Verordnung vorgesehene Vorkehrungen zulassen, wenn vom Eisenbahnunternehmen nachgewiesen wird, dass die Sicherheit und Ordnung auf andere Weise gewährleistet werden kann."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "5",
+      "title": "Art. 5 Spurweite",
+      "content": "1) Die Spurweite ist der kleinste Abstand der Innenflächen der Schienenköpfe im Bereich von 0 bis 14 mm unter Schienenoberkante (SOK).\n2) Das Grundmass der Spurweite beträgt 1 435 mm und darf nicht grösser sein als 1 465 mm."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "6",
+      "title": "Art. 6 Entwurfselemente im Grundriss (Gleisbogen)",
+      "content": "1) Die Linienführung muss bei Neubauten möglichst gestreckt sein. Die Anzahl der Trassierungselemente ist dabei möglichst gering zu halten. Im Grundriss sind die Trassierungselemente Gerade, Kreisbogen und Übergangsbogen anzuwenden.\n2) Der Bogenradius in durchgehenden Hauptgleisen darf bei Neubauten nicht weniger als 300 m betragen.\n3) Die Richtung durchgehender Hauptgleise darf sich in der Regel nur stetig ändern. Wo erforderlich, sind Übergangsbogen anzulegen.\n4) Jede Änderung der Überhöhung ist durch eine Überhöhungsrampe zu vermitteln, deren Neigung nicht grösser sein darf als 1 : 400."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "7",
+      "title": "Art. 7 Längsneigung",
+      "content": "1) Die Längsneigung muss bei Neubauten möglichst gering gewählt werden. Die Anzahl der Neigungswechsel ist dabei möglichst gering zu halten.\n2) Die Längsneigung von Gleisen darf bei Neubauten 12.5 &permil; nicht überschreiten.\n3) Die Längsneigung von Gleisabschnitten, die für das Abstellen von Schienenfahrzeugen vorgesehen sind, darf bei Neubauten 2.5 &permil; nicht überschreiten.\n4) Neigungswechsel in Hauptgleisen sind auszurunden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "8",
+      "title": "Art. 8 Belastbarkeit des Oberbaus und der Bauwerke",
+      "content": "Oberbau und Bauwerke müssen Schienenfahrzeuge mit der jeweils zugelassenen Radsatzlast und der jeweils zugelassenen Meterlast bei der zugelassenen Geschwindigkeit aufnehmen können, mindestens aber Schienenfahrzeuge mit einer Radsatzlast von 20 t und einer Meterlast von 6.4 t/m."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "9",
+      "title": "Art. 9 Regellichtraum",
+      "content": "Der Regellichtraum ist der zu jedem Gleis gehörende, freizuhaltende Raum. Der Regellichtraum setzt sich aus dem für die ungehinderte Fahrt der Schienenfahrzeuge erforderlichen Raum und zusätzlichen Räumen für bauliche und betriebliche Zwecke zusammen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "10",
+      "title": "Art. 10 Gleisabstand",
+      "content": "1) Der Gleisabstand ist der Abstand von Mitte zu Mitte benachbarter Gleise.\n2) Auf der freien Strecke muss bei Neubauten der Gleisabstand in Entsprechung zu dem anzuwendenden Regellichtraum nach den anerkannten Regeln der Technik bemessen werden; er muss bei Neubauten auf der freien Strecke mindestens 3.80 m betragen. Bestehende Gleisabstände von 3.80 m und weniger dürfen nicht verringert werden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "11",
+      "title": "Art. 11 Schienengleiche Eisenbahnübergänge",
+      "content": "1) Auf Strecken mit einer zugelassenen Geschwindigkeit von mehr als 160 km/h sind schienengleiche Eisenbahnübergänge sowie Übergänge, die nur dem innerdienstlichen Verkehr dienen und schienengleiche Bahnsteigzugänge unzulässig.\n2) Übergänge, die nur dem innerdienstlichen Verkehr dienen und schienengleiche Bahnsteigzugänge gelten nicht als schienengleiche Eisenbahnübergänge."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "12",
+      "title": "Art. 12 Schienengleiche Kreuzungen von Schienenbahnen",
+      "content": "Neue schienengleiche Kreuzungen von Schienenbahnen dürfen ausserhalb der Bahnhöfe oder der Hauptsignale von Abzweigstellen nicht angelegt werden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "13",
+      "title": "Art. 13 Bahnsteige und Rampen",
+      "content": "1) Bei Neubauten von Bahnsteigen müssen in der Regel die Bahnsteigkanten auf eine Höhe von 0.55 m über Schienenoberkante gelegt werden. In Gleisbogen ist auf die Überhöhung Rücksicht zu nehmen.\n2) Feste Gegenstände auf Bahnsteigen (Säulen und dergleichen) müssen bis zu einer Höhe von 3.05 m über der Schienenoberkante mindestens 3.00 m von der Gleisachse entfernt sein. Bei bestehenden Anlagen mit geringem Verkehr darf das Mass von 3.00 m bis auf 2.70 m unterschritten werden.\n3) Auf Bahnsteigen mit befestigter Oberfläche sind, sofern dies von der Breite her möglich ist, die bei der Vorbeifahrt von Schienenfahrzeugen freizuhaltenden Flächen zu kennzeichnen.\n4) Auf Bahnsteigen an Gleisen, die mit einer Geschwindigkeit von mehr als 160 km/h befahren werden, sind die bei der Vorbeifahrt von Schienenfahrzeugen freizuhaltenden Flächen rot einzufärben.\n5) Für den Schutz von Bahnbenützern, die schienengleiche Bahnsteigzugänge überschreiten müssen, ist zu sorgen.\n6) Seitenrampen, an denen Güterwagen mit nach aussen aufschlagenden Türen be- und entladen werden sollen, dürfen nicht höher als 1.10 m über Schienenoberkante sein. Die Höhe darf 1.00 m nicht überschreiten, wenn dort nach aussen aufschlagende Einsteigtüren von Reisezugwagen geöffnet werden müssen. Andere Seitenrampen zum Be- oder Entladen von Wagen dürfen - ausgenommen an Hauptgleisen - bis 1.20 m über Schienenoberkante hoch sein."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "14",
+      "title": "Art. 14 Signale und Weichen",
+      "content": "1) Den Signalen am Fahrweg sind entsprechende Anzeigen im Führerstand gleichwertig; sie dürfen die Signale am Fahrweg ersetzen.\n2) Die Einfahrten in Bahnhöfe sind durch Hauptsignale (Einfahrsignale) zu sichern.\n3) Die Ausfahrten aus Bahnhöfen sind durch Hauptsignale (Ausfahrsignale) zu sichern.\n4) Die Grundstellung für Hauptsignale ist die Stellung \"Halt\", eine andere Stellung ist zulässig bei:\na) Hauptsignalen in Gleisabschnitten mit selbsttätiger Streckenblockung; oder\nb) Hauptsignalen in Betriebsanlagen, die für längere Dauer oder in regelmässig wiederkehrenden Zeitabschnitten an der Regelung der Zugfolge nicht beteiligt sind.\n5) Blockstellen, Abzweigstellen und Überleitstellen sind durch Hauptsignale zu sichern.\n6) Schienengleiche Kreuzungen von Bahnen sind durch Hauptsignale in gegenseitiger Abhängigkeit zu sichern.\n7) Auf der freien Strecke liegende Weichen und damit zusammenhängende Gleiskreuzungen sind durch Signale zu sichern. Weichen von Anschlussstellen dürfen auch durch Signale benachbarter Zugfolgestellen gesichert werden, wenn zwischen Anschlussweichen, Flankenschutzeinrichtungen und Signalen Abhängigkeit besteht.\n8) Weichen müssen von den für die Zugfahrt gültigen Signalen derart abhängig sein, dass die Signale nur dann in Freistellung gebracht werden können, wenn die Weichen in der für den Fahrweg richtigen Stellung technisch festgehalten sind (Signalabhängigkeit). Die technische Festhaltung ferngestellter Weichen muss aufrecht bleiben, bis sie freigegeben werden.\n9) Ist die Signalabhängigkeit von Weichen, die von Zügen gegen die Spitze befahren werden nicht gegeben, so sind sie technisch zu sichern oder zu bewachen.\n10) Für Zugfahrten sind Flankenschutzvorkehrungen zu treffen. Der Flankenschutz für Gleise, die mit mehr als 160 km/h befahren werden, muss in Bahnhöfen und auf Anschlussstellen durch Schutzweichen oder Sperrschuhe, gewährleistet sein.\n11) Mit den Einfahrsignalen und den Hauptsignalen auf der freien Strecke sind Vorsignale zu verbinden. Der am Vorsignal angezeigte Begriff muss mit dem Begriff am zugehörigen Hauptsignal korrespondieren. Ist dies nicht möglich, ist der Begriff anzuzeigen, der die grösstmögliche Sicherheit gewährleistet.\n12) Der Abstand zwischen dem Hauptsignal und dem zugehörigen Vorsignal muss mindestens so gross sein, wie die Bremsweglänge.\n13) Für nicht an ein elektronisches oder elektrisches Stellwerk angeschlossene Weichen ist eine Grundstellung zu bestimmen, wenn Fahrten über diese Weichen Fahrten auf den Hauptgleisen gefährden können.\n14) Weichen sind mit Weichensignalen auszurüsten. Davon ausgenommen sind Weichen in Verschubstrassen, wenn diese Weichen nicht zur Nahbedienung freigegeben werden können.\n15) Zwischen zusammenlaufenden Gleisen muss eine Grenzmarke vorhanden sein, bis zu der ein Gleis ohne Gefährdung von Schienenfahrzeugen im Nachbargleis besetzt sein darf."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "15",
+      "title": "Art. 15 Technische Sicherung der Zugfolge und Zugbeeinflussung",
+      "content": "1) Folge- und Gegenzugfahrten in demselben Blockabschnitt sind durch technische Sicherung auszuschliessen.\n2) Strecken, auf denen bis zu 160 km/h zugelassen sind, müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig zum Halten gebracht werden kann.\n3) Strecken, auf denen mehr als 160 km/h zugelassen sind, müssen mit Zugbeeinflussung ausgerüstet sein, durch die ein Zug selbsttätig zum Halten gebracht und ausserdem geführt werden kann.\n4) Im Fall einer Störung darf auf Strecken, die mit Zugbeeinflussung ausgerüstet sind, mit einer Höchstgeschwindigkeit von maximal 80 km/h gefahren werden."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "16",
+      "title": "Art. 16 Fernmeldeanlagen",
+      "content": "1) Zugfolgestellen und Zuglaufmeldestellen sind durch Fernmeldeanlagen zu verbinden. Schrankenposten und Streckenfernsprecher sind in die Verbindung einzuschalten.\n2) Fernmündliche Zugmeldungen sowie Zuglaufmeldungen sind durch Sprachspeicher aufzuzeichnen.\n3) Strecken sind mit Zugfunkeinrichtungen auszurüsten.\n4) Bahnsteige an Gleisen, die mit mehr als 160 km/h befahren werden, sind mit Lautsprecheranlage und mit automatischer Warnansage sowie optischer Anzeigeeinrichtung auszurüsten."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II. Anforderungen an die Eisenbahninfrastruktur",
+      "section": "17",
+      "title": "Art. 17 Wiederkehrende Prüfungen von Betriebsanlagen und Überwachung von gefährdeten Stellen",
+      "content": "1) Die Betriebsanlagen sind planmässig auf ihre ordnungsgemässe Beschaffenheit wiederkehrend zu prüfen. Art, Umfang und Häufigkeit der wiederkehrenden Prüfung haben sich nach Zustand und Belastung der Betriebsanlagen sowie nach der zugelassenen Geschwindigkeit zu richten. Über die wiederkehrenden Prüfungen der Betriebsanlagen sind Aufzeichnungen zu führen.\n2) Gefährdete Stellen sind so zu überwachen, dass Betriebsgefährdungen rechtzeitig erkannt und Gegenmassnahmen getroffen werden können.\nIII. Baubewilligungs- und Anzeigeverfahren\nA. Bauentwurf"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "A. Bauentwurf",
+      "section": "18",
+      "title": "Art. 18 Allgemeine Anforderungen",
+      "content": "1) Alle Unterlagen eines Bauentwurfs müssen nach den Regeln des technischen Zeichnens ausgeführt, sachkundig verfasst und aufeinander abgestimmt sein.\n2) Dem Bauentwurf müssen die für die Beurteilung des Bauvorhabens massgebenden Umstände zu entnehmen sein. Sofern nach den anerkannten Regeln der Technik Detailfestlegungen erst im Zuge einer nachfolgenden Planungsstufe oder während der Bauherstellung erfolgen, ist darzustellen, an Hand welcher Kriterien die Detailfestlegungen erfolgen und welche Vorkehrungen zur Einhaltung dieser Kriterien getroffen werden.\n3) Sind einzelne der nach dieser Verordnung vorgeschriebenen Angaben für ein Bauvorhaben nicht relevant oder ist deren Vorlage im Hinblick auf den Kenntnisstand und die Prüfmethoden dem Bauwerber billigerweise nicht zumutbar, so kann davon abgesehen werden. Im zweiten Fall ist dies in den Unterlagen anzuführen und zu begründen.\n4) Wenn aus den durch diese Verordnung vorgeschriebenen Unterlagen allein das Bauvorhaben nicht beurteilt werden kann, sind weitere Nachweise (z.B. Pläne, Berechnungen, Prüfbescheinigungen, Modelle oder Schaubilder) zu erbringen.\n5) Von den in dieser Verordnung festgelegten Darstellungsmassstäben kann abgewichen werden, wenn dadurch die Nachvollziehbarkeit nicht beeinträchtigt wird. Von einem in dieser Verordnung festgelegten Darstellungsmassstab ist abzuweichen, wenn dieser im Einzelfall die Beurteilung nicht oder nur schwer zulässt.\n6) Die Kilometrierung hat auf drei Dezimalen genau zu erfolgen.\n7) Soweit mit einem bewilligungspflichtigen Bauvorhaben auch Baumassnahmen an Anlagen, die nicht zur Eisenbahninfrastruktur gehören, im Zusammenhang stehen, sind in den Bauentwurfsunterlagen, welche einem Antrag auf Erteilung einer eisenbahnrechtlichen Baubewilligung beigelegt werden, diesbezüglich nur die zur Beurteilung der bewilligungspflichtigen Massnahmen erforderlichen Angaben aufzunehmen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "A. Bauentwurf",
+      "section": "19",
+      "title": "Art. 19 Formvorschriften",
+      "content": "1) Auf Unterlagen ist festzuhalten:\na) Name des Eisenbahnunternehmens und Name der für die Freigabe der Unterlage verantwortlichen Person;\nb) Name des mit der Planung beauftragten Unternehmens, wenn dieses vom Eisenbahnunternehmen verschieden ist und Name der für den Inhalt der Unterlage verantwortlichen Person;\nc) Bezeichnung des Bauvorhabens;\nd) Inhalt der Unterlage, bei Plänen einschliesslich des Massstabs;\ne) Ordnungs- und Versionsnummer;\nf) Fertigstellungsdatum;\ng) allfällige Planersatzvermerke.\n2) Vor der Freigabe von geänderten Unterlagen und deren Aufnahme in den Bauentwurf ist die Versionsnummer anzupassen.\n3) Durch die Bezeichnung des Bauvorhabens ist das Bauvorhaben hinsichtlich der durchgeführten Massnahmen und der Lage nach zu beschreiben. Hierbei ist die Eisenbahnstrecke oder Eisenbahnanlage durch Angabe der Anfangs- und Endpunkte der Strecke, kilometrische oder sonst eindeutig definierte geografische Lage sowie die Kurzbezeichnung der Baumassnahme anzugeben.\n4) Unterlagen sind vom Eisenbahnunternehmen bis zur Ausserbetriebnahme der Anlagen der Eisenbahninfrastruktur aufzubewahren. Unterlagen können vom Eisenbahnunternehmen in elektronischer Form archiviert werden, sofern sichergestellt ist, dass:\na) alle Änderungen gegenüber freigegebenen Unterlagenversionen dokumentiert werden und überholte Versionen erhalten bleiben;\nb) ein Ausdruck in Papierform jederzeit möglich ist."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "A. Bauentwurf",
+      "section": "20",
+      "title": "Art. 20 Unterlagen",
+      "content": "1) Der Bauentwurf besteht aus den folgenden Unterlagen:\na) Inhaltsverzeichnis;\nb) Bericht;\nc) Übersichtsdarstellung;\nd) Lageplan;\ne) für alle zur Ausführung kommenden Anlagen der Eisenbahninfrastruktur die nach den anerkannten Regeln der Technik erforderlichen Angaben und Unterlagen (z.B. Längenschnitte, Querprofile, Grundrisse, schematische Darstellungen);\nf) grundsätzliche Angaben zu den vom Eisenbahnunternehmen wieder herzustellenden Verkehrswegen und Wasserläufen sowie den zu errichtenden Einfriedungen und Schutzbauten.\n2) Sofern zur Verwirklichung des Bauvorhabens Grundstücke und Rechte Dritter in Anspruch genommen werden müssen, sind überdies das Verzeichnis betroffener Dritter und die Landerwerbsunterlagen vorzulegen.\n3) Die Unterlagen nach Abs. 1 Bst. a bis c sind auch in elektronisch lesbarer Form vorzulegen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "A. Bauentwurf",
+      "section": "21",
+      "title": "Art. 21 Inhaltsverzeichnis",
+      "content": "1) Im Inhaltsverzeichnis ist für jeden Bestandteil des Bauentwurfs die Ordnungs- und Versionsnummer, das Fertigstellungsdatum, der Inhalt und der Darstellungsmassstab anzugeben.\n2) Auf der ersten Seite des Inhaltsverzeichnisses sind überdies ein Raum im Ausmass von mindestens 160 x 40 mm für die Anbringung von behördlichen Vermerken sowie Platz für die Anbringung von Namen und Unterschrift des bauausführenden Unternehmens freizulassen.\n3) Werden während des laufenden Verfahrens Unterlagen des Bauentwurfes ausgetauscht oder ergänzt, so ist auch das Inhaltsverzeichnis auszutauschen oder die Änderung in diesem unter Angabe der verantwortlichen Person des Eisenbahnunternehmens schriftlich zu bezeichnen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "A. Bauentwurf",
+      "section": "22",
+      "title": "Art. 22 Bericht",
+      "content": "1) Der Bericht hat das Bauvorhaben zu beschreiben und zumindest alle jene zur Beurteilung des Bauvorhabens erforderlichen Angaben zu enthalten, die aus den Plänen nicht ersichtlich sind.\n2) Soweit infolge der Grösse des Bauvorhabens dem Bauentwurf mehrere Teilberichte beigeschlossen werden, die sich auf einzelne Baumassnahmen oder bestimmte Aspekte des Bauvorhabens beziehen, ist im zusammenfassenden Bericht jeweils auf die Teilberichte zu verweisen.\n3) Der Bericht hat insbesondere zu enthalten:\na) eine allgemein verständliche kurze Darstellung der geplanten Baumassnahmen einschliesslich deren Zielsetzung und der erheblichen Auswirkungen auf die Umgebung;\nb) Beschreibung der zugrunde liegenden Entwurfsparameter und Projektgrundlagen einschliesslich:\n1. Sicherheitsanforderungen;\n2. Festlegung der Eisenbahnsicherungsanlagen einschliesslich Gleisfreimeldeeinrichtungen und Zugbeeinflussungssysteme;\n3. Begründung für Abweichungen von den anerkannten Regeln der Technik;\nc) die Grösse der in Anspruch genommenen Fläche, wobei zusätzlich erforderliche Baustelleneinrichtungsflächen gesondert auszuweisen sind;\nd) Beschreibung der durch das Bauvorhaben betroffenen Umgebung und Art der Auswirkungen einschliesslich:\n1. Verzeichnis der vom Bauvorhaben betroffenen Wasserläufe, Verkehrsanlagen und schutzwürdigen Gebiete;\n2. Massnahmen zum Schutz der Umgebung während der Bau- und Betriebsphase;\n3. Massnahmen zur Wiederherstellung der durch den Bau gestörten Umgebung;\n4. Beweissicherungsprogramm während der Bau- und Betriebsphase;\ne) Baubeschreibung, Beschreibung der Baudurchführung und der Betriebsphase:\n1. Darstellung der Bestandssituation;\n2. Änderungen gegenüber dem Bestand;\n3. Anforderungen an die einzusetzenden Bauprodukte, Bauteile, Bauteilgruppen und Anlagen;\n4. der vorgesehene Beginn und die erforderliche Dauer der Bauführung sowie die voraussichtliche Zahl der Beschäftigen;\n5. Angaben über die Beleuchtung, Beheizung und Lüftung der Räume und sonstigen Bauwerksteile;\n6. Bauprovisorien und Bauphasen, die der Aufrechterhaltung des Betriebes der Eisenbahn, des Betriebes von Schienenfahrzeugen auf der Eisenbahn oder des Verkehrs auf der Eisenbahn dienen;\n7. Angaben zur barrierefreien Ausgestaltung;\n8. Festlegung der für den Betrieb massgebenden Rahmenbedingungen;\n9. Beschreibung der Auswirkungen des Bauvorhabens auf den Betrieb (Betriebsprogramm) einschliesslich der Zahl der einzusetzenden Arbeitnehmer sowie der Arbeitsvorgänge und Arbeitsverfahren;\n10. Angaben über die zum Einsatz kommenden technischen Einrichtungen, Arbeitsmittel und Arbeitsstoffe sowie die Art und Menge allfälliger Lagerungen;\n11. Beschreibung der Massnahmen zur Vermeidung und Beherrschung von aussergewöhnlichen Ereignissen (z.B. Sicherheits- und Rettungskonzept, Notfahrprogramm);\n12. die Art der Verbindung mit den öffentlichen Verkehrsflächen, der Wasserversorgung sowie der Abwasser- und Abfallbeseitigung;\n13. Phasen bei der Inbetriebnahme.\n4) Sofern durch das Bauvorhaben vom Land oder Gemeinden wahrzunehmende Interessen oder subjektiv öffentliche Rechte Dritter berührt werden, sind zusätzlich anzugeben:\na) Darstellung der Vorteile der Verwirklichung des Bauvorhabens für die Öffentlichkeit;\nb) Rahmenbedingungen zur Trassenfindung."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "A. Bauentwurf",
+      "section": "23",
+      "title": "Art. 23 Pläne",
+      "content": "1) Die in Plänen verwendeten Farben sind in einer Legende zu erläutern.\n2) In jedem Lageplan ist die Nordrichtung zu kennzeichnen.\n3) Gleise, Weichen, Kreuzungen und die wesentlichen Signale, zumindest Haupt-, Schutz- und Vorsignale, sind eindeutig zu bezeichnen und zu kilometrieren. Bahnstrecken sind durch Angabe der benachbarten Bahnhöfe in der Richtung zu orientieren.\n4) Darstellungen von nicht zum eigentlichen Bauvorhaben gehörenden Anlagen und Gegenständen (z.B. Bäume, Fahrzeuge usw.) müssen so gehalten sein, dass durch diese die Aussagekraft der Pläne nicht beeinträchtigt wird. In den Plänen dürfen nur Bepflanzungen dargestellt werden, die geplant sind, sowie solche, die bereits bestehen und erhalten werden sollen.\n5) Ansichten haben zu enthalten:\na) eine eindeutige Sichtangabe;\nb) die äusseren Ansichten des Bauvorhabens, bei Erweiterungs- und Umbauten einschliesslich der Ansichten des Altbestandes;\nc) die Darstellung des Vorhabens, den Verlauf des angrenzenden Geländes vor und nach der Bauführung - bei beabsichtigten Veränderungen auch den Verlauf des angrenzenden projektierten Geländes - und die angrenzenden baulichen Anlagen.\n6) In Lageplänen und Grundrissen ist darzustellen:\na) rot: neu zu errichtende Bauten und Anlagen sowie Bauteile;\nb) grau: bestehende und beizubehaltende Bauten und Anlagen sowie Bauteile;\nc) gelb: abzutragende Bauten und Anlagen sowie Bauteile;\nd) braun: Bahngrundgrenzen;\ne) rotgelb schraffiert: abzutragende und an derselben Stelle neu zu errichtende Bauten und Anlagen sowie Bauteile."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "A. Bauentwurf",
+      "section": "24",
+      "title": "Art. 24 Übersichtsdarstellung",
+      "content": "1) In einer Übersichtskarte sind auf einer Grösse von 210 mm x 297 mm, bei Grossbauvorhaben auf einer Grösse von 420 mm x 297 mm, die wesentlichen Grundzüge des Bauvorhabens in seiner Gesamtheit in einer einfachen, allgemein verständlichen und leicht nachvollziehbaren Form darzustellen.\n2) In einem Übersichtsplan sind im Massstab von 1 : 5 000 bis 1 : 2 000 die Lage der wesentlichen Bauten einschliesslich Verkehrsanlagen und Wasserläufe in übersichtlicher Form darzustellen.\n3) Wenn der Lageplan das Ausmass von 594 mm x 841 mm nicht überschreitet, kann die Vorlage von Übersichtskarte und Übersichtsplan entfallen. Wenn die Übersichtskarte auch den Anforderungen des Abs. 2 entspricht, genügt die Vorlage der Übersichtskarte."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "A. Bauentwurf",
+      "section": "25",
+      "title": "Art. 25 Lageplan",
+      "content": "1) Lagepläne sind im Massstab 1 : 500 oder 1 : 1 000, Schienenteilungspläne im Massstab 1 : 200 auszuführen. Insbesondere sind einzuzeichnen und zu beschriften:\na) hinsichtlich der Liegenschaften, die durch den Bau selbst in Anspruch genommen werden, die in den Bauverbotsbereich zu liegen kommen, sowie die wegen ihrer Lage im Gefährdungsbereich Veränderungen oder Beschränkungen unterworfen werden müssen:\n1. die Grundstücksgrenzen;\n2. die Bahngrundgrenzen;\n3. bestehende und veränderte Bahnhofsgrenzen;\n4. die bestehenden und veränderten Bauverbots- und Gefährdungsbereiche, sohin jene Bereiche, die wegen ihrer Lage in diesen Bereichen aufgrund des Vorhabens Veränderungen oder Beschränkungen unterworfen werden müssen;\n5. die Nummern der Grundstücke samt Angaben der Einlagezahl und Gemeinde; bei Strassen ist neben der Grundstücksnummer auch deren Bezeichnung anzuführen; und\n6. vorhandene Bauten einschliesslich Verkehrsanlagen, Wasserläufe, Kanäle, Rohrleitungen, Starkstrom- und Fernmeldeanlagen (Freileitungen, Luft- und Erdkabel);\nb) die Hauptmasse, kilometrische Lage der Anlagen der Eisenbahninfrastruktur, sonstige mit dem Vorhaben in Verbindung stehende Anlagen und Versorgungseinrichtungen sowie deren Abstände zu den Bestandsobjekten und der Bahngrundgrenze;\nc) öffentliche, nichtöffentliche und bahninterne Wegeverbindungen, Zugänge und Bedienungs- und Schutzräume sowie Fluchtwege jeweils mit ihrer Breite und Bezeichnung, sowie die Anbindung hierzu;\nd) Abgrenzungen definierter Bereiche (z.B. zu anderen Eisenbahnen, Bahnhofsbereich, Stromversorgungsabschnitte);\ne) die Anordnung und die Abmessungen von Grünanlagen.\n2) Soweit die Lage von Anlagen der Eisenbahninfrastruktur und sonstige Anlagen, die mit der Baumassnahme in Verbindung stehen, nach den anerkannten Regeln der Technik erst zu einem späteren Zeitpunkt festgelegt wird, sind jene Bereiche zu kennzeichnen, in denen die Anlagen situiert werden können.\n3) Werden die notwendigen Inhalte eines Lageplanes auf mehrere Pläne verteilt, so sind die Angaben so auf die Pläne aufzuteilen, dass die zur Beurteilung für ein technisches Fachgebiet erforderlichen Angaben jeweils aus nur einem Teilplan entnommen werden können."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "A. Bauentwurf",
+      "section": "26",
+      "title": "Art. 26 Längenschnitte",
+      "content": "1) Längenschnitte sind in den Längen- und Höhenmassstäben 1 : 2 000/200 oder 1 : 1 000/100 aufzustellen. Sie haben die Kilometrierung, das Krümmungs- und Überhöhungsband und das Neigungsband zu enthalten.\n2) Im Krümmungsband sind die Gleis- und Übergangsbögen unter Angabe ihres Halbmessers und der Kilometerangabe ihrer Trassierungshauptpunkte sowie die Spurerweiterungen, im Überhöhungsband die Überhöhungen, Rampenlängen und Rampenneigungen anzugeben. Die Geländelinie und alle im Gleis liegenden Weichen und Gleiskreuzungen sowie sämtliche Kreuzungen mit Verkehrsanlagen, Wasserläufen, Kanälen, Rohrleitungen und Freileitungen unter Angabe ihrer Hauptabmessungen und Höhenlagen sind einzutragen.\n3) In das Neigungsband sind alle Gleisneigungen und Neigungswechsel mit den dazugehörigen Angaben (Ausrundungshalbmesser, Tangentenlänge, Ordinate im Schnittpunkt der Ausrundungstangenten) einzutragen. Durch kurze Halbmesserpfeile im Anfangs- und Endpunkt des Ausrundungsbogens (samt der Kilometerangabe dieser Punkte) ist festzulegen, ob der Mittelpunkt des Ausrundungsbogens über oder unter Schienenoberkante zu liegen kommt."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "A. Bauentwurf",
+      "section": "27",
+      "title": "Art. 27 Querprofile der Bahntrasse",
+      "content": "1) Querprofile sind zu kotieren. Das Lichtraumprofil samt Abstände von in der Nähe befindlichen Bauten ist einzuzeichnen. Liegen Engstellen im Bereich eines Gleisbogens, so ist dessen Halbmesser anzugeben. Vergrösserung durch Bogenzuschläge und Zuschläge aus Überhöhungen sind kotiert darzustellen. Querprofile sind im Massstab 1 : 100 oder 1 : 200 auszuführen.\n2) Aus einem charakteristischen Querprofil müssen die Abmessungen des Bettungsquerschnittes einschliesslich der Randwege, Bedienungsräume und der Vorkehrungen für die Entwässerung des Schotterbettes sowie das in Betracht kommende Lichtraumprofil ersichtlich sein.\n3) Es sind die für die Beurteilung des Bauvorhabens massgebenden Querprofile aufzustellen (z.B. bei Lichtraumeinschränkungen, bei schienengleichen Eisenbahnübergängen, bei Gleisen in befestigten Flächen, bei Toröffnungen von Einfriedungen und Werkshalleneinfahrten). Die Nummerierung der Querprofile hat fortlaufend im Sinne der Kilometrierung zu erfolgen. Die Kilometerangabe ist beizusetzen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "A. Bauentwurf",
+      "section": "28",
+      "title": "Art. 28 Grundriss",
+      "content": "1) Aus Grundrissen hat ersichtlich zu sein:\na) die Grösse und Lage der Räume und sonstigen Bauwerksteile sowie deren Nutzflächen;\nb) der Nutzungszweck der Räume und sonstigen Bauwerksteile und deren Belichtung;\nc) die Ausgänge, Verkehrs- und Fluchtwege;\nd) die Situierung der zur Aufstellung kommenden technischen Einrichtungen.\n2) Grundrisse sind im Massstab 1 : 100 oder 1 : 200 auszuführen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "A. Bauentwurf",
+      "section": "29",
+      "title": "Art. 29 Verzeichnis betroffener Dritter",
+      "content": "1) Im Verzeichnis betroffener Dritter sind die Behörden des Landes und der Gemeinden, deren wahrzunehmende Interessen durch das Bauvorhaben berührt werden, sowie die bekannten Parteien einschliesslich der Abgabestellen anzugeben.\n2) Es ist überdies anzugeben, wie viele Personen durch die Errichtung, den Betrieb oder den Bestand der Baumassnahme gefährdet oder belästigt oder deren dingliche Rechte im In- und Ausland gefährdet werden könnten. Sofern die Angabe nur auf Basis einer Schätzung abgegeben werden kann, ist diese zu begründen."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "A. Bauentwurf",
+      "section": "30",
+      "title": "Art. 30 Landerwerbsunterlagen",
+      "content": "1) Die nach Gemeinden getrennt zu verfassenden Landerwerbsunterlagen bestehen aus den Landerwerbsplänen und den Verzeichnissen der in Anspruch genommenen Grundstücke und Rechte.\n2) Landerwerbspläne sind im Massstab der amtlichen Vermessung auszuführen.\nB. Anzeigepflichtige Bauvorhaben"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "B. Anzeigepflichtige Bauvorhaben",
+      "section": "31",
+      "title": "Art. 31 Erweiterungs-, Erneuerungs- und Umbauten geringen Umfangs",
+      "content": "1) Bei Erweiterungs-, Erneuerungs- und Umbauten handelt es sich dann nicht um Bauten geringen Umfangs im Sinne von Art. 9 Abs. 2 Bst. a EBG, wenn mit dem Gesamtvorhaben:\na) eine Strecke oder ein Teil einer Strecke neu errichtet oder ein Teil einer Strecke von mindestens 3 km erneuert oder umgebaut wird;\nb) die Neuerrichtung, Erweiterung oder Erneuerung einer der nachstehenden Anlagen verbunden ist:\n1. Brücken mit einer Brückentragwerksfläche von mehr als 400 m&sup2;;\n2. Wannen- oder Tunnelbauwerke mit mehr als 250 m Länge;\n3. Stützmauern, Wälle, Dämme oder Einschnitte mit einer Höhe von mehr als zehn Metern;\n4. Umfüllanlagen mit einem Tankvolumen von mehr als 80 m&sup3;;\n5. Gebäude mit mehr als 150 m&sup2; bebauter Fläche oder mehr als zwei Vollgeschossen;\n6. Dächer und Einfriedungen mit einer Fläche von mehr als 2 000 m&sup2;;\nc) Anlagen und Anlagenteile zur Bahnenergieerzeugung in Kraft-, Umformer- oder Umrichterwerken (z.B. Generatoren, Umformer, Transformatoren) oder Übertragungsleitungen (z.B. Freileitungen, Stromschienen, Kabel, Tragkonstruktionen) neu errichtet oder deren Leistung (Regelarbeitsvermögen) um mehr als 25 % erhöht wird;\nd) Starkstromanlagen (bezogen auf einen Versorgungsabschnitt bzw. ein Unterwerk) neu errichtet oder deren Leistung um mehr als 25 % erhöht wird. Nicht umfangreiche Arbeiten bedingen Leistungserhöhungen bei Oberleitungsabschnitten unter 5 km, Kuppelstellen und Schaltposten;\ne) in Summe aller Bauphasen das elektronische oder elektrische Stellwerk der Eisenbahnsicherungsanlage um mehr als 30 % der elektrisch eingebundenen Weichen erweitert wird;\nf) zentrale Funktionen (z.B. im LZB-Rechner, im ETCS Radio Block Center) der kontinuierlichen Zugbeeinflussung betroffen sind;\ng) eine zusätzliche Einbindung eines elektronischen oder elektrischen Stellwerkes in eine Fernsteuerzentrale erfolgt;\nh) Veränderungen an sicherungstechnischen Einrichtungen für Eisenbahnkreuzungen vorgenommen werden."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "B. Anzeigepflichtige Bauvorhaben",
+      "section": "32",
+      "title": "Art. 32 Aufzeichnungspflichten",
+      "content": "Das Eisenbahnunternehmen hat über die Durchführung bewilligungsfreier Vorhaben nach Art. 9 Abs. 2 EBG Aufzeichnungen zu führen, aus denen auch das Vorliegen der Voraussetzungen für eine bewilligungsfreie Bauführung hervorgeht. Die Aufzeichnungen sind den für den Bau und die Instandhaltung wesentlichen Unterlagen beizugeben.\nIV. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "IV. Schlussbestimmung",
+      "section": "33",
+      "title": "Art. 33 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juni 2012 in Kraft.\nFürstliche Regierung:\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\n1\nLR 742.0"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bahnhöfe",
+      "definition": "Betriebsanlagen mit mindestens einer Weiche, wo Zugfahrten beginnen, enden, ausweichen oder wenden dürfen. Als Grenze zwischen den Bahnhöfen und der freien Strecke gelten im Allgemeinen die Einfahrsignale oder Trapeztafeln, sonst die Einfahrweichen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Blockabschnitte",
+      "definition": "Gleisabschnitte, in die eine Zugfahrt nur einfahren darf, wenn sie frei von Schienenfahrzeugen sind;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Blockstellen",
+      "definition": "Betriebsanlagen, die einen Blockabschnitt begrenzen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Abzweigstellen",
+      "definition": "Blockstellen der freien Strecke, wo Zugfahrten von einer Strecke auf eine andere Strecke übergehen können;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Überleitstellen",
+      "definition": "Blockstellen der freien Strecke, wo Zugfahrten auf ein anderes Gleis derselben Strecke übergehen können;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Anschlussstellen",
+      "definition": "Betriebsanlagen der freien Strecke, wo Fahrten ein angeschlossenes Gleis als Verschubfahrt befahren können, ohne dass der Blockabschnitt für eine andere Zugfahrt freigegeben wird;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Haltestellen",
+      "definition": "Betriebsanlagen ohne Weichen, wo Zugfahrten planmässig halten, beginnen oder enden dürfen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Hauptgleise",
+      "definition": "sicherungstechnisch für Zugfahrten ausgerüstete Gleise, wie die Hauptgleise der freien Strecke und ihre Fortsetzung in den Bahnhöfen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sicherheit und Ordnung",
+      "definition": "die Sicherheit und Ordnung des Betriebs der Eisenbahn, des Betriebs von Schienenfahrzeugen auf der Eisenbahn und des Verkehrs auf Eisenbahnen.",
+      "source_provision": "art2"
+    }
+  ]
+}

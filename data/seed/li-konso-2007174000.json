@@ -1,0 +1,27 @@
+{
+  "id": "li-konso-2007174000",
+  "type": "statute",
+  "title": "Verordnung vom 17. Juli 2007 betreffend die Delegation von Geschäften nach dem Gesetz über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen",
+  "title_en": "",
+  "short_name": "LGBl 2007.174",
+  "status": "in_force",
+  "issued_date": "2007-07-17",
+  "in_force_date": "2007-07-17",
+  "url": "https://www.gesetze.li/konso/2007174000",
+  "description": "Verordnung vom 17. Juli 2007 betreffend die Delegation von Geschäften nach dem Gesetz über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Delegation",
+      "content": "Die in Art. 8 bis 11 und 15 des Gesetzes der Regierung zugewiesenen Geschäfte werden unter Vorbehalt des Rechtszuges an die Kollegialregierung an das Amt für Volkswirtschaft zur selbständigen Erledigung übertragen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Otmar Hasler\nFürstlicher Regierungschef\n1\nLR 215.215.0"
+    }
+  ],
+  "definitions": []
+}

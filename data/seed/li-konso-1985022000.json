@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1985022000",
+  "type": "statute",
+  "title": "Verordnung vom 12. März 1985 über die Einführung der Sommerzeit",
+  "title_en": "",
+  "short_name": "LGBl 1985.022",
+  "status": "in_force",
+  "issued_date": "1985-03-12",
+  "in_force_date": "1985-03-12",
+  "url": "https://www.gesetze.li/konso/1985022000",
+  "description": "Verordnung vom 12. März 1985 über die Einführung der Sommerzeit",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Gültigkeit",
+      "content": "Im Fürstentum Liechtenstein wird die Sommerzeit für den gleichen Zeitraum festgelegt wie in den Europäischen Gemeinschaften."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Beginn und Ende",
+      "content": "1) Die Sommerzeit beginnt am letzten Sonntag des Monats März, morgens um zwei Uhr mitteleuropäischer Zeit (MEZ). Zu diesem Zeitpunkt wird die Stundenzählung jeweils um eine Stunde von zwei Uhr auf drei Uhr vorgestellt.\n2) Die Sommerzeit endet am letzten Sonntag des Monats Oktober morgens um drei Uhr Sommerzeit. Zu diesem Zeitpunkt wird die Stundenzählung um eine Stunde von drei Uhr auf zwei Uhr zurückgestellt."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Umstellungsstunde",
+      "content": "Von der beim Übergang von Sommerzeit auf mitteleuropäische Zeit doppelt erscheinenden Stunde von zwei Uhr bis drei Uhr morgens wird die erste Stunde mit 2 A (2 A 01 Minute usw.), die zweite Stunde mit 2 B bezeichnet."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Inkrafttreten",
+      "content": "Diese Verordnung tritt sofort in Kraft.\nFürstliche Regierung:\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nLR 941.21\n2\nArt. 2 Sachüberschrift abgeändert durch LGBl. 1987 Nr. 12 .\n3\nArt. 2 Abs. 1 abgeändert durch LGBl. 1987 Nr. 12 .\n4\nArt. 2 Abs. 2 abgeändert durch LGBl. 1998 Nr. 48 ."
+    }
+  ],
+  "definitions": []
+}

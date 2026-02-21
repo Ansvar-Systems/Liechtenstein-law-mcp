@@ -1,0 +1,36 @@
+{
+  "id": "li-konso-2004171000",
+  "type": "statute",
+  "title": "Fürstliche Verordnung vom 15. August 2004 betreffend die Einrichtung einer Stellvertretung",
+  "title_en": "",
+  "short_name": "LGBl 2004.171",
+  "status": "in_force",
+  "issued_date": "2004-08-15",
+  "in_force_date": "2004-08-15",
+  "url": "https://www.gesetze.li/konso/2004171000",
+  "description": "Fürstliche Verordnung vom 15. August 2004 betreffend die Einrichtung einer Stellvertretung",
+  "provisions": [
+    {
+      "provision_ref": "abs1",
+      "chapter": "betreffend die Einrichtung einer Stellvertretung",
+      "section": "1",
+      "title": "Abs. 1",
+      "content": "Im Sinne von Art. 13bis der Verfassung vom 5. Oktober 1921, LGBl. 1921 Nr. 15, in der Fassung des Verfassungsgesetzes vom 16. März 2003, LGBl. 2003 Nr. 186, betraue Ich mit Wirkung ab heutigem Tage Meinen zukünftigen Nachfolger Seine Durchlaucht Erbprinz Alois zur Vorbereitung für die Thronfolge als Meinen Stellvertreter mit der Ausübung aller Mir zustehenden Hoheitsrechte."
+    },
+    {
+      "provision_ref": "abs2",
+      "chapter": "betreffend die Einrichtung einer Stellvertretung",
+      "section": "2",
+      "title": "Abs. 2",
+      "content": "Über wichtige Landesangelegenheiten wird Mir Mein Stellvertreter Bericht erstatten."
+    },
+    {
+      "provision_ref": "abs3",
+      "chapter": "betreffend die Einrichtung einer Stellvertretung",
+      "section": "3",
+      "title": "Abs. 3",
+      "content": "Mein Stellvertreter wird wie folgt unterzeichnen:\n\"In Stellvertretung des Landesfürsten:\nAlois, Erbprinz\"\ngez. Hans-Adam\ngez. Otmar Hasler\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

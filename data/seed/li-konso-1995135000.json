@@ -1,0 +1,50 @@
+{
+  "id": "li-konso-1995135000",
+  "type": "statute",
+  "title": "Verordnung vom 2. Mai 1995 über den Verkehr mit Salz im Europäischen Wirtschaftsraum",
+  "title_en": "",
+  "short_name": "LGBl 1995.135",
+  "status": "in_force",
+  "issued_date": "1995-05-02",
+  "in_force_date": "1995-05-02",
+  "url": "https://www.gesetze.li/konso/1995135000",
+  "description": "Verordnung vom 2. Mai 1995 über den Verkehr mit Salz im Europäischen Wirtschaftsraum",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Steuer",
+      "content": "Die Salzsteuer richtet sich nach dem im Anhang festgelegten Steuermass."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Einhebung der Salzsteuer",
+      "content": "Das Amt für Volkswirtschaft erlässt aufgrund der Importmeldung zur Einhebung der Salzsteuer eine Steuerverfügung."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Art. 3 Gebühr",
+      "content": "Das Amt für Volkswirtschaft erhebt für die Steuerverfügung nach Art. 2 eine Gebühr in Höhe von 100 Franken."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Art. 4 Verbot",
+      "content": "1) Salz, das ohne Mitwirkung der Schweizer Salinen AG in den Vertragsstaaten des Europäischen Wirtschaftsraumes bezogen worden ist, darf nicht in die Schweiz verbracht werden.\n2) Wer Salz gemäss Abs. 1 entgeltlich oder unentgeltlich überlässt, hat den Abnehmer auf das Verbot einer Verbringung in die Schweiz hinzuweisen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Art. 5 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tage der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Dr. Mario Frick\nFürstlicher Regierungschef\nAnhang\n(Art. 1)\nSteuermass\n1) Die Salzsteuer wird erhoben:\na) bei Festsalz ab 30 % NaCl;\nb) bei Solen ab 18 % NaCl.\n2) Die Salzsteuer beträgt für:\na) Speisesalz: 5 Fr./t;\nb) Landwirtschaftssalz: 5 Fr./t;\nc) Regeneriersalz: 5 Fr./t;\nd) Industriesalz und Spezialsalz, abgepackt: 5 Fr./t;\ne) Salze für die chemische, elektrolytische und technische Industrie (nicht für die Lebensmittel- und Futtermittelindustrie):\n1. Industriesalz, lose: 1 Fr./t;\n2. Spezialsalz für die Industrie, lose: 1 Fr./t;\nf) alle Auftausalze: 1 Fr./t;\ng) alle Solen: 1 Fr./t.\n1\nLR 691\n2\nLR 631.010\n3\nLR 631.101\n4\nArt. 2 abgeändert durch LGBl. 2024 Nr. 425 .\n5\nArt. 3 abgeändert durch LGBl. 2024 Nr. 425 .\n6\nArt. 4 Abs. 1 abgeändert durch LGBl. 2021 Nr. 73 .\n7\nAnhang abgeändert durch LGBl. 2021 Nr. 73 ."
+    }
+  ],
+  "definitions": []
+}

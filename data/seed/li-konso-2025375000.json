@@ -1,0 +1,589 @@
+{
+  "id": "li-konso-2025375000",
+  "type": "statute",
+  "title": "Gesetz vom 13. Juni 2025 über das Verwaltungsstrafrecht und das Verwaltungsstrafverfahren (Verwaltungsstrafgesetz; VStG)",
+  "title_en": "",
+  "short_name": "VStG",
+  "status": "in_force",
+  "issued_date": "2025-06-13",
+  "in_force_date": "2025-06-13",
+  "url": "https://www.gesetze.li/konso/2025375000",
+  "description": "Gesetz vom 13. Juni 2025 über das Verwaltungsstrafrecht und das Verwaltungsstrafverfahren (Verwaltungsstrafgesetz; VStG)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Geltungsbereich und Begriffe",
+      "section": "1",
+      "title": "Art. 1 Geltungsbereich",
+      "content": "1) Dieses Gesetz findet Anwendung auf Verfahren in Verwaltungsstrafsachen (Verwaltungsstrafverfahren), die durch Entscheidungen oder Verfügungen von Behörden in erster Instanz oder auf Beschwerde zu erledigen sind.\n2) Es lässt spezialgesetzliche Verfahrensvorschriften unberührt.\n3) Soweit in diesem Gesetz nichts anderes bestimmt ist, finden die Bestimmungen des Gesetzes über die allgemeine Landesverwaltungspflege ergänzend Anwendung."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Geltungsbereich und Begriffe",
+      "section": "2",
+      "title": "Art. 2 Personenbezeichnungen",
+      "content": "Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Geltungsbereich und Begriffe",
+      "section": "3",
+      "title": "Art. 3 Parteien",
+      "content": "Als Parteien im Sinne dieses Gesetzes gelten: a) die beschuldigte Person (Art. 26); und\nb) weitere natürliche und juristische Personen, deren Rechte oder Pflichten die Entscheidung oder Verfügung berühren soll; diese haben im Verfahren die Rechte der beschuldigten Person, soweit sich aus der Natur der Sache nicht etwas anderes ergibt."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Geltungsbereich und Begriffe",
+      "section": "4",
+      "title": "Art. 4 Behörden",
+      "content": "Als Behörden im Sinne dieses Gesetzes gelten, soweit sie als Strafverfolgungsbehörden in Verwaltungsstrafverfahren tätig werden: a) die Regierung sowie die ihr nachgeordneten Amtsstellen und besonderen Kommissionen;\nb) die gemäss Gemeindegesetz zuständigen Organe;\nc) die selbstständigen öffentlich-rechtlichen Körperschaften, Anstalten und Stiftungen.\nII. Allgemeine Bestimmungen des Verwaltungsstrafrechts"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "5",
+      "title": "Art. 5 Zuständigkeiten",
+      "content": "1) Soweit gesetzlich nicht etwas anderes bestimmt ist, kommt den Behörden im Rahmen ihrer erstinstanzlichen Tätigkeit die Untersuchung und Bestrafung aller in ihren Wirkungsbereich fallenden Verwaltungsübertretungen zu.\n2) Wenn eine Verwaltungsstrafsache mit einer gerichtlichen zusammentrifft oder wenn Zweifel entsteht, ob eine Strafsache in dem hier geregelten oder gerichtlichen Verfahren zu erledigen sei, so fällt die Beurteilung der Zuständigkeit dem Landgericht zu.\n3) Das Verwaltungsstrafverfahren gegen alle mitschuldigen Personen ist wo möglich gleichzeitig durchzuführen. Die Behörde kann jedoch aus Zweckmässigkeitsgründen, insbesondere zur Beschleunigung des Verfahrens, von der gemeinsamen Durchführung absehen und das Verfahren gegen einzelne mitbeschuldigte Personen abgesondert zum Abschluss bringen. Das Verfahren kann, soweit es sich um Entscheidungen über die Rechte oder Pflichten von Parteien im Sinne von Art. 3 Bst. b handelt, dann selbständig durchgeführt werden, wenn dies aufgrund gesetzlicher Bestimmung vorgesehen ist; dies gilt nicht für Fälle solidarischer Mithaftung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "6",
+      "title": "Art. 6 Keine Strafe ohne Verfahren nach diesem Gesetz",
+      "content": "Wegen einer Verwaltungsübertretung darf eine Strafe nur aufgrund eines nach diesem Gesetz durchgeführten Verfahrens verhängt werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "7",
+      "title": "Art. 7 Allgemeine Voraussetzungen der Strafbarkeit",
+      "content": "1) Als Verwaltungsübertretung kann eine Tat (Handlung oder Unterlassung) nur bestraft werden, wenn sie zur Zeit ihrer Begehung mit Strafe bedroht war.\n2) Die Strafe richtet sich nach dem zur Zeit der Tat geltenden Recht, es sei denn, dass das zur Zeit der Entscheidung geltende Recht in seiner Gesamtauswirkung für den Täter günstiger wäre.\n3) Bei Verbandspersonen sind die satzungsgemäss zur Vertretung nach aussen berufenen Organe verwaltungsstrafrechtlich verantwortlich. Die Verantwortlichkeit des einzelnen vertretungsbefugten Organes besteht ohne Rücksicht auf die Art des Zeichnungsrechtes (Einzel- oder Kollektivzeichnungsrecht) und die Zahl der vertretungsbefugten Organe. Für die über ihre Organe verhängten Bussen und Verfahrenskosten haften die Verbandspersonen zur ungeteilten Hand mit der bestraften Person."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "8",
+      "title": "Art. 8 Territorialitätsprinzip",
+      "content": "1) Nur die im Inland begangenen Verwaltungsübertretungen sind strafbar.\n2) Eine Übertretung ist im Inland begangen, wenn der Täter im Inland gehandelt hat oder hätte handeln sollen oder wenn der zum Tatbestand gehörende Erfolg im Inland eingetreten ist.\n3) Niemand darf wegen einer Verwaltungsübertretung an einen anderen Staat ausgeliefert werden und eine von einer ausländischen Behörde wegen einer Verwaltungsübertretung verhängte Strafe darf im Inland nicht vollstreckt werden, es sei denn, dass in Staatsverträgen ausdrücklich anderes bestimmt ist.\nZurechnungsfähigkeit\nArt. 9 a) Grundsatz\n1) Nicht strafbar ist, wer zur Zeit der Tat wegen Bewusstseinsstörung, wegen krankhafter Störung der Geistestätigkeit oder wegen Geistesschwäche unfähig war, das Unerlaubte der Tat einzusehen oder dieser Einsicht gemäss zu handeln.\n2) War die Fähigkeit zur Zeit der Tat aus einem dieser Gründe in hohem Grad vermindert, so ist das als mildernder Umstand bei der Bemessung der Strafe zu berücksichtigen. Das gilt aber nicht für Bewusstseinsstörungen, die auf dem selbst verschuldeten Genuss von Alkohol oder dem selbst verschuldeten Gebrauch eines anderen berauschenden Mittels beruhen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "10",
+      "title": "Art. 10 b) Strafunmündige und jugendliche Personen",
+      "content": "1) Nicht strafbar ist, wer zur Zeit der Tat das 14. Lebensjahr noch nicht zurückgelegt hat.\n2) War der Täter zur Zeit der Tat zwar 14, aber noch nicht 18 Jahre alt (jugendliche Person), so wird sie ihm nicht zugerechnet, wenn er aus besonderen Gründen noch nicht reif genug war, das Unerlaubte der Tat einzusehen oder dieser Einsicht gemäss zu handeln.\n3) Ist der Täter eine jugendliche Person, werden das Höchstmass und das Mindestmass von Bussen in Bezug auf den jeweils anzuwendenden Strafsatz auf die Hälfte herabgesetzt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "11",
+      "title": "Art. 11 Schuld",
+      "content": "1) Wenn eine Verwaltungsvorschrift über das Verschulden nichts anderes bestimmt, genügt zur Strafbarkeit fahrlässiges Verhalten. §§ 5 und 6 des Strafgesetzbuches finden sinngemäss Anwendung.\n2) Unkenntnis der Verwaltungsvorschrift, der der Täter zuwidergehandelt hat, entschuldigt nur dann, wenn sie erwiesenermassen unverschuldet ist und der Täter das Unerlaubte seines Verhaltens ohne Kenntnis der Verwaltungsvorschrift nicht einsehen konnte."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "12",
+      "title": "Art. 12 Entschuldigender Notstand",
+      "content": "Eine Tat ist nicht strafbar, wenn sie durch Notstand entschuldigt (§ 10 Abs. 1 StGB) oder, obgleich sie dem Tatbestand einer Verwaltungsübertretung entspricht, vom Gesetz geboten oder erlaubt ist."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "13",
+      "title": "Art. 13 Behandlung aller Beteiligten als Täter",
+      "content": "Wer vorsätzlich veranlasst, dass ein anderer eine Verwaltungsübertretung begeht, oder wer vorsätzlich einem anderen die Begehung einer Verwaltungsübertretung erleichtert, unterliegt der auf diese Übertretung gesetzten Strafe, und zwar auch dann, wenn der unmittelbare Täter selbst nicht strafbar ist."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "14",
+      "title": "Art. 14 Versuch",
+      "content": "1) Sofern eine Verwaltungsvorschrift den Versuch einer Verwaltungsübertretung ausdrücklich für strafbar erklärt, unterliegt der Strafe, wer vorsätzlich eine zur wirklichen Ausübung führende Handlung unternimmt.\n2) Wegen Versuches wird nicht bestraft, wer aus freien Stücken die Ausführung aufgibt oder verhindert oder den Erfolg abwendet."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "15",
+      "title": "Art. 15 Strafen",
+      "content": "1) Strafart und Strafsatz richten sich nach den Verwaltungsvorschriften.\n2) Verwaltungsübertretungen werden, wenn hierfür keine besondere Strafe festgesetzt ist, mit Busse bis zu 1 000 Franken bestraft.\n3) Bei Fahrlässigkeit wird, wenn hierfür keine besondere Strafe festgesetzt ist, die Obergrenze des vorgesehenen Strafsatzes auf die Hälfte herabgesetzt."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "16",
+      "title": "Art. 16 Verhängung und Vollstreckung von Bussen",
+      "content": "1) Bei Verwaltungsübertretungen ist mindestens eine Busse von 15 Franken zu verhängen.\n2) Bussen dürfen nur insoweit eingetrieben werden, als dadurch weder der notwendige Unterhalt der bestraften Person und derjenigen, zu deren Unterhalt sie das Gesetz verpflichtet, noch die Erfüllung der Pflicht, den Schaden gutzumachen, gefährdet wird.\n3) Mit dem Tod der bestraften Person erlischt die Vollstreckbarkeit der Busse."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "17",
+      "title": "Art. 17 Verwendung von Bussen",
+      "content": "Bussen fliessen dem Land zu.\nVerantwortlichkeit von juristischen Personen\nArt. 18 a) Grundsatz\n1) Für Verfahren wegen der Verantwortlichkeit einer juristischen Person gilt dieses Gesetz sinngemäss, soweit es nicht ausschliesslich auf natürliche Personen anwendbar ist und sich aus den folgenden Bestimmungen nichts anderes ergibt.\n2) Juristische Personen sind: a) im Handelsregister eingetragene juristische Personen sowie juristische Personen, die weder ihren Sitz noch einen Betriebsort oder Niederlassungsort im Inland haben, sofern diese nach inländischem Recht im Handelsregister einzutragen wären;\nb) nicht im Handelsregister eingetragene Stiftungen und Vereine sowie Stiftungen und Vereine, die weder ihren Sitz noch einen Betriebsort oder Niederlassungsort im Inland haben; und\nc) öffentlich-rechtliche Körperschaften und Anstalten.\n3) Die juristische Person, gegen die das Verfahren eingeleitet wurde, hat in diesem Verfahren die Rechte der beschuldigten Person (Art. 26).\n4) Die Leitungspersonen der juristischen Person sowie jene Mitarbeiter, die im Verdacht stehen, die Verwaltungsübertretung begangen zu haben, sind als beschuldigte Personen zu laden und zu vernehmen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "19",
+      "title": "Art. 19 b) Rechtsnachfolge",
+      "content": "1) Werden die Rechte und Verbindlichkeiten der juristischen Person im Wege der Gesamtrechtsnachfolge auf eine andere juristische Person übertragen, so treffen die in diesem Gesetz vorgesehenen Rechtsfolgen den Rechtsnachfolger. Über den Rechtsvorgänger verhängte Rechtsfolgen wirken auch für den Rechtsnachfolger. Wurde der juristischen Person wirksam zugestellt, so gilt auch die Bekanntgabe an den Rechtsnachfolger als erfolgt.\n2) Der Gesamtrechtsnachfolge ist die Einzelrechtsnachfolge gleichzuhalten, wenn im Wesentlichen dieselben Eigentumsverhältnisse an der juristischen Person bestehen und der Betrieb oder die Tätigkeit im Wesentlichen fortgeführt wird.\n3) Besteht mehr als ein Rechtsnachfolger, so kann eine über den Rechtsvorgänger verhängte Busse gegen jeden Rechtsnachfolger vollstreckt werden. Andere Rechtsfolgen können einzelnen Rechtsnachfolgern zugeordnet werden, soweit dies deren Tätigkeitsbereich entspricht."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "20",
+      "title": "Art. 20 c) Ausschluss eines Rückgriffs",
+      "content": "Für Sanktionen und Rechtsfolgen, die die juristische Person aufgrund dieses Gesetzes treffen, ist ein Rückgriff auf Entscheidungsträger oder Mitarbeiter ausgeschlossen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "21",
+      "title": "Art. 21 Strafbemessung",
+      "content": "1) Grundlage für die Bemessung der Strafe sind die Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und die Intensität seiner Beeinträchtigung durch die Tat.\n2) Im ordentlichen Verfahren (Art. 40 ff.) sind überdies die nach dem Zweck der Strafdrohung in Betracht kommenden Erschwerungs- und Milderungsgründe, soweit sie nicht schon die Strafdrohung bestimmen, gegeneinander abzuwägen. Auf das Ausmass des Verschuldens ist besonders Bedacht zu nehmen. Unter Berücksichtigung der Eigenart des Verwaltungsstrafrechtes sind die §§ 32 bis 35 des Strafgesetzbuches sinngemäss anzuwenden. Die Einkommens- und Vermögensverhältnisse und allfällige Sorgepflichten der beschuldigten Person sind bei der Bemessung von Bussen zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "22",
+      "title": "Art. 22 Ausserordentliche Milderung der Strafe",
+      "content": "Überwiegen die Milderungsgründe die Erschwerungsgründe beträchtlich, so kann die Mindeststrafe bis zur Hälfte unterschritten werden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "II. Allgemeine Bestimmungen des Verwaltungsstrafrechts",
+      "section": "23",
+      "title": "Art. 23 Zusammentreffen von strafbaren Handlungen; Strafe und Strafbemessung bei nachträglicher Verurteilung",
+      "content": "1) Hat jemand durch eine Tat oder durch mehrere selbstständige Taten mehrere Verwaltungsübertretungen derselben oder verschiedener Art begangen und wird über diese Verwaltungsübertretungen gleichzeitig erkannt, so ist, wenn die zusammentreffenden Gesetze Bussen als Strafen vorsehen, auf eine einzige Strafe zu erkennen. Diese Strafe ist nach dem Gesetz zu bestimmen, das die höchste Strafe androht. Von der ausserordentlichen Milderung der Strafe (Art. 22) abgesehen, darf jedoch keine geringere Strafe als die höchste der in den zusammentreffenden Gesetzen vorgesehenen Mindeststrafen verhängt werden.\n2) Dasselbe gilt bei einem Zusammentreffen von Verwaltungsübertretungen oder strafbaren Handlungen, die von mehr als einer Verwaltungsbehörde oder dem Landgericht zu ahnden sind. Die beschuldigte Person ist von der verfolgenden Verwaltungsbehörde auf die Bestimmung von Abs. 1 hinzuweisen und aufzufordern, die für die Anwendung dieser Bestimmungen massgeblichen Verurteilungen durch andere Verwaltungsbehörden bekannt zu geben.\n3) Wird jemand, der bereits vom Gericht oder einer Verwaltungsbehörde bestraft worden ist, wegen einer anderen Tat bestraft, über die nach der Zeit ihrer Begehung schon in dem früheren Verfahren hätte entschieden werden können, so ist eine Zusatzstrafe zu verhängen, und zwar auch dann, wenn eine gemeinsame Bestrafung mangels Zuständigkeit nicht möglich war. Im Übrigen finden auf die Strafe und Strafbemessung bei nachträglicher Verurteilung die §§ 31 und 40 des Strafgesetzbuches sinngemäss Anwendung.\nIII. Verwaltungsstrafverfahren\nA. Allgemeine Bestimmungen"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "24",
+      "title": "Art. 24 Offizialprinzip und Anzeigepflicht",
+      "content": "1) Verwaltungsübertretungen sind von Amts wegen zu verfolgen.\n2) Die der Entlastung der beschuldigten Person dienlichen Umstände sind in gleicher Weise zu berücksichtigen wie die belastenden.\n3) Wird einer Behörde der Verdacht einer von Amts wegen zu verfolgenden verwaltungsstrafrechtlichen Handlung bekannt, so ist sie zur Anzeige an die zuständige Behörde verpflichtet."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "25",
+      "title": "Art. 25 Verjährung",
+      "content": "1) Die Verfolgung einer Person ist unzulässig, wenn gegen sie binnen einer Frist von einem Jahr keine Verfolgungshandlung (Art. 26 Abs. 2) vorgenommen worden ist; spezialgesetzlich vorgesehene längere Fristen bleiben vorbehalten. Diese Frist ist von dem Zeitpunkt zu berechnen, an dem die strafbare Tätigkeit abgeschlossen worden ist oder das strafbare Verhalten aufgehört hat; ist der zum Tatbestand gehörende Erfolg erst später eingetreten, so läuft die Frist erst von diesem Zeitpunkt.\n2) Eine Strafe darf nicht mehr vollstreckt werden, wenn seit ihrer rechtskräftigen Verhängung drei Jahre vergangen sind. In die Verjährungsfrist werden nicht eingerechnet: a) die Zeit eines Verfahrens vor dem Staatsgerichtshof oder dem EFTA-Gerichtshof;\nb) Zeiten, in denen die Strafvollstreckung unzulässig, ausgesetzt, aufgeschoben oder unterbrochen war;\nc) Zeiten, in denen sich die bestrafte Person im Ausland aufgehalten hat."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "26",
+      "title": "Art. 26 Beschuldigte Person",
+      "content": "1) Eine Person ist beschuldigte Person vom Zeitpunkt der ersten von der Behörde gegen sie gerichteten Verfolgungshandlung bis zum Abschluss des Verwaltungsstrafverfahrens.\n2) Verfolgungshandlung ist jede von einer Behörde gegen eine bestimmte Person als Beschuldigte gerichtete Amtshandlung (Ladung, Vorführungsbefehl, Vernehmung, Ersuchen um Vernehmung, Beratung, Strafverfügung und dergleichen), und zwar auch dann, wenn die Behörde für diese Amtshandlung nicht zuständig war, die Amtshandlung ihr Ziel nicht erreicht oder die beschuldigte Person davon keine Kenntnis erlangt hat."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "27",
+      "title": "Art. 27 Verteidiger",
+      "content": "Beschuldigte Personen haben in jeder Lage des Verfahrens das Recht, mit einem Verteidiger Kontakt aufzunehmen, ihn zu bevollmächtigen und sich mit ihm zu besprechen, ohne dabei überwacht zu werden. Zum Verteidiger kann jede eigenberechtigte Person, insbesondere ein in die Rechtsanwaltsliste eingetragener Rechtsanwalt, bestellt werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "28",
+      "title": "Art. 28 Vernehmung",
+      "content": "1) Jede beschuldigte Person ist bei Beginn ihrer ersten Vernehmung über den Vornamen und Familiennamen, Tag und Ort der Geburt, die Staatsangehörigkeit, den Personenstand, die Beschäftigung und den Wohnort sowie über die Einkommens- und Vermögensverhältnisse und allfällige Sorgepflichten zu befragen. Sind die Angaben darüber schon in den Akten enthalten, so sind sie der beschuldigten Person zur Anerkennung oder Richtigstellung vorzuhalten.\n2) Die beschuldigte Person ist, erforderlichenfalls unter Beiziehung eines Dolmetschers, in einer für sie verständlichen Sprache zu informieren über: a) die gegen sie erhobenen Anschuldigungen und das Recht, sich zur Sache zu äussern oder nicht auszusagen;\nb) das Recht auf Beiziehung eines Verteidigers;\nc) die Möglichkeit eines Verzichts auf das Recht auf Beiziehung eines Verteidigers, die möglichen Folgen eines solchen Verzichts und die Möglichkeit, den Verzicht jederzeit während des Verwaltungsstrafverfahrens zu widerrufen.\n3) Eine Verzichtserklärung nach Abs. 2 Bst. c muss freiwillig und unmissverständlich abgegeben werden. Die Erteilung der Information sowie ein allfälliger Verzicht auf das Recht auf Beiziehung eines Verteidigers sind schriftlich festzuhalten.\n4) Die beschuldigte Person darf zur Beantwortung der an sie gestellten Fragen nicht gezwungen werden. Sie darf nicht durch Zwangsmittel, Drohungen, Versprechungen oder Vorspiegelungen zu Äusserungen genötigt oder bewogen werden. Die Stellung von Fragen, in welchen eine nicht zugestandene Tatsache als bereits zugestanden angenommen wird, ist nicht zulässig. Fragen, wodurch Umstände vorgehalten werden, die erst durch die Antwort festgestellt werden sollen, dürfen erst dann gestellt werden, wenn die befragte Person nicht in anderer Weise zu einer Erklärung über dieselben geführt werden konnte; die Fragen sind in solchen Fällen wörtlich in das Protokoll aufzunehmen. Die beschuldigte Person darf nicht durch Zwangsstrafen zur Herausgabe von Tatgegenständen und Beweismitteln verhalten werden.\n5) Das Protokoll ist von der beschuldigten Person und von der vernehmungsleitenden Person zu unterzeichnen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "29",
+      "title": "Art. 29 Beratung",
+      "content": "1) Stellt die Behörde eine Übertretung fest und sind die Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und die Intensität seiner Beeinträchtigung durch die Tat und das Verschulden der beschuldigten Person gering, so hat die Behörde die beschuldigte Person mit dem Ziel einer möglichst wirksamen Beendigung des strafbaren Verhaltens oder der strafbaren Tätigkeiten zu beraten und sie schriftlich unter Angabe der festgestellten Sachverhalte aufzufordern, innerhalb einer angemessenen Frist den den Verwaltungsvorschriften und behördlichen Verfügungen entsprechenden Zustand herzustellen.\n2) Wird der schriftlichen Aufforderung innerhalb der von der Behörde festgelegten oder erstreckten Frist entsprochen, dann ist die weitere Verfolgung einer Person wegen jener Übertretungen, betreffend welche der den Rechtsvorschriften und behördlichen Verfügungen entsprechende Zustand hergestellt worden ist, unzulässig.\n3) Die Intensität der Beeinträchtigung des verwaltungsstrafrechtlich geschützten Rechtsgutes ist jedenfalls nicht gering, wenn die Übertretung nachteilige Auswirkungen auf Personen, Sachgüter oder die öffentliche Ordnung, insbesondere die Stabilität des Finanzmarktes, bewirkt hat oder das Auftreten solcher Auswirkungen bei auch nur kurzem Andauern des strafbaren Verhaltens oder der strafbaren Tätigkeiten zu erwarten ist.\n4) Die Intensität der Beeinträchtigung des verwaltungsstrafrechtlich geschützten Rechtsgutes gilt jedenfalls als gering, wenn geringfügige Abweichungen von technischen Massen festgestellt wurden und keine der im Abs. 3 genannten Umstände vorliegen.\n5) Abs. 1 und 2 sind jedenfalls nicht anzuwenden auf: a) Übertretungen von Verwaltungsvorschriften, die zur Strafbarkeit vorsätzliches Verhalten erfordern;\nb) Übertretungen, die innerhalb der letzten drei Jahre vor Feststellung der Übertretung bereits Gegenstand einer Beratung und schriftlichen Aufforderung durch die Behörde waren oder zu denen einschlägige, noch nicht getilgte Verwaltungsstrafen bei der Behörde aufscheinen;\nc) Übertretungen, die Anlass zu in den Verwaltungsvorschriften vorgesehenen einstweiligen Zwangs- und Sicherungsmassnahmen geben;\nd) Übertretungen, für welche die Verwaltungsvorschriften die Massnahme der Entziehung von Berechtigungen vorsehen."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "30",
+      "title": "Art. 30 Vorläufiges Absehen von der Einleitung oder Fortführung des Verwaltungsstrafverfahrens",
+      "content": "1) Die Behörde kann von der Einleitung oder Fortführung des Verwaltungsstrafverfahrens vorläufig absehen, solange die Strafverfolgung: a) voraussichtlich nicht möglich ist; oder\nb) voraussichtlich einen Aufwand verursachen würde, der gemessen an der Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und der Intensität seiner Beeinträchtigung durch die Tat unverhältnismässig wäre, sofern nicht besondere öffentliche Interessen die Einleitung oder Fortführung des Verwaltungsstrafverfahrens gebieten.\n2) Bei einer wesentlichen Änderung der für die Beurteilung nach Abs. 1 massgeblichen Umstände ist das Verwaltungsstrafverfahren einzuleiten oder fortzuführen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "A. Allgemeine Bestimmungen",
+      "section": "31",
+      "title": "Art. 31 Akteneinsicht",
+      "content": "1) Die Parteien können bei der Behörde in die ihre Sache betreffenden Akten Einsicht nehmen und sich von Akten oder Aktenteilen an Ort und Stelle Abschriften selbst anfertigen oder auf ihre Kosten Kopien oder Ausdrucke erstellen lassen. Soweit die Behörde die die Sache betreffenden Akten elektronisch führt, kann der Partei auf Verlangen die Akteneinsicht in jeder technisch möglichen Form gewährt werden.\n2) Allen an einem Verfahren beteiligten Parteien muss auf Verlangen die Akteneinsicht in gleichem Umfang gewährt werden.\n3) Von der Akteneinsicht sind Aktenbestandteile ausgenommen, insoweit deren Einsichtnahme eine Schädigung berechtigter Interessen einer Partei oder dritter Personen oder eine Gefährdung der Aufgaben der Behörde herbeiführen oder den Zweck des Verfahrens beeinträchtigen würde.\n4) Für Kopien, Ablichtungen und Ausdrucke ist eine Gebühr zu erheben. Die Regierung legt die Höhe der Gebühr mit Verordnung fest.\n5) Anträge auf Akteneinsicht werden gegenüber der Partei eines anhängigen Verfahrens durch verfahrensleitende Entscheidung erledigt.\nB. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "32",
+      "title": "Art. 32 Identitätsfeststellung",
+      "content": "Die Landespolizei ist zur Feststellung der Identität einer Person ermächtigt, wenn diese auf frischer Tat betreten oder unmittelbar danach entweder glaubwürdig der Tatbegehung beschuldigt oder mit Gegenständen betreten wird, die auf ihre Beteiligung an der Tat hinweisen. § 91a der Strafprozessordnung ist sinngemäss anzuwenden.\nFestnahme\nArt. 33 a) Grundsatz\nDie Landespolizei darf ausser den gesetzlich besonders geregelten Fällen Personen, die auf frischer Tat betreten werden, zum Zweck ihrer Vorführung vor die Behörde festnehmen, wenn: a) die betretene Person der Landespolizei unbekannt ist, sich nicht ausweist und ihre Identität auch sonst nicht sofort feststellbar ist;\nb) begründeter Verdacht besteht, dass sie sich der Strafverfolgung zu entziehen suchen werde; oder\nc) die betretene Person trotz Abmahnung in der Fortsetzung der strafbaren Handlung verharrt oder sie zu wiederholen sucht."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "34",
+      "title": "Art. 34 b) Rechte der festgenommenen Person",
+      "content": "1) Jede festgenommene Person ist unverzüglich der zuständigen Behörde zu übergeben oder aber, wenn der Grund der Festnahme schon vorher wegfällt, freizulassen. Die Behörde hat die angehaltene Person unverzüglich zu vernehmen. Hat sie von ihrem Recht auf Beiziehung eines Verteidigers Gebrauch gemacht, so ist die Vernehmung bis zum Eintreffen des Verteidigers aufzuschieben, es sei denn, dass damit eine erhebliche Gefährdung der Ermittlungen oder eine Beeinträchtigung von Beweismitteln verbunden wäre; eine solche Beschränkung des Rechts auf Beiziehung eines Verteidigers ist schriftlich festzuhalten. Die Anhaltung darf keinesfalls länger als 24 Stunden dauern.\n2) Bei der Festnahme und Anhaltung ist unter Achtung der Menschenwürde und mit möglichster Schonung der Person vorzugehen.\n3) Der festgenommenen Person ist ohne unnötigen Aufschub zu gestatten, einen Angehörigen (Art. 47 Abs. 2) oder eine sonstige Person ihres Vertrauens und einen Verteidiger zu verständigen; über dieses Recht ist die festgenommene Person zu belehren. Einer festgenommenen Person, die nicht über eine liechtensteinische Staatsbürgerschaft verfügt, ist ferner zu gestatten, die konsularische Vertretung ihres Heimatstaates unverzüglich von der Festnahme zu verständigen und mit dieser Kontakt aufzunehmen. Bestehen gegen eine Verständigung durch die festgenommene Person selbst Bedenken, so hat die Behörde die Verständigung vorzunehmen.\n4) Die angehaltene Person darf von Angehörigen (Art. 47 Abs. 2), von ihren Verteidigern sowie von den diplomatischen oder konsularischen Vertretern ihres Heimatstaates besucht werden. Auf den Brief- und Besuchsverkehr finden die Art. 76 bis 88 des Strafvollzugsgesetzes sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "35",
+      "title": "Art. 35 c) Rechtsbelehrung",
+      "content": "Die beschuldigte Person ist sogleich oder unmittelbar nach ihrer Festnahme schriftlich in einer für sie verständlichen Sprache über die Gründe ihrer Festnahme und die gegen sie erhobenen Anschuldigungen, über ihr Recht auf Akteneinsicht, über sonstige wesentliche Rechte im Verfahren und darüber zu informieren, dass sie berechtigt ist, Zugang zu dringender medizinischer Versorgung zu erhalten. Ist die schriftliche Belehrung in einer Sprache, die die beschuldigte Person versteht, nicht verfügbar, so ist sie mündlich unter Beiziehung eines Dolmetschers zu belehren und die schriftliche Übersetzung ist ihr nachzureichen. Der Umstand der Belehrung ist schriftlich festzuhalten."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "36",
+      "title": "Art. 36 Beschlagnahme",
+      "content": "1) Alle Gegenstände, welche der Einziehung, dem Verfall oder einer ähnlichen Massnahme unterliegen oder als Beweismittel dienen, mit Ausnahme von Briefen und Sendungen bei einem Zustelldienst, sind zu beschlagnahmen.\n2) Die Anordnung der Beschlagnahme erfolgt durch die zuständige Behörde. Bei Gefahr im Verzug kann die Landespolizei aus eigener Macht solche Gegenstände vorläufig sicherstellen. Sie hat darüber der betroffenen Person sofort eine Bescheinigung auszustellen und der Behörde Anzeige zu erstatten.\n3) Die Behörde kann an Stelle der Beschlagnahme, sofern diese nicht zu Beweiszwecken erfolgt, den Erlag eines Geldbetrages anordnen, der dem Wert der der Beschlagnahme unterliegenden Sache entspricht.\n4) Die Beschlagnahme ist aufzuheben, sobald die Voraussetzungen weggefallen sind.\n5) Unterliegen die beschlagnahmten Gegenstände raschem Verderben oder lassen sie sich nur mit unverhältnismässigen Kosten aufbewahren und ist ihre Aufbewahrung nicht zur Sicherung des Beweises erforderlich, so können sie öffentlich versteigert oder zu dem von der Behörde zu ermittelnden Preis veräussert werden. Der Erlös tritt an die Stelle der veräusserten Gegenstände. Die Veräusserung wegen unverhältnismässiger Aufbewahrungskosten unterbleibt, wenn rechtzeitig ein zur Deckung dieser Kosten ausreichender Betrag erlegt wird.\n6) Das Rechtsmittel gegen eine Entscheidung nach Abs. 1 hat keine aufschiebende Wirkung."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "37",
+      "title": "Art. 37 Sicherheitsleistung",
+      "content": "1) Die Behörde kann der beschuldigten Person mit Entscheidung auftragen, einen angemessenen Betrag als Sicherheit zu erlegen oder durch Pfandbestellung oder taugliche Bürgen, die sich als Zahler verpflichten, sicherzustellen, wenn: a) begründeter Verdacht besteht, dass sich die beschuldigte Person der Verwaltungsstrafverfolgung oder -vollstreckung entziehen werde; oder\nb) andernfalls: 1. die Verwaltungsstrafverfolgung oder -vollstreckung voraussichtlich nicht möglich wäre; oder\n2. die Verwaltungsstrafverfolgung oder -vollstreckung voraussichtlich einen Aufwand verursachen würde, der gemessen an der Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und der Intensität seiner Beeinträchtigung durch die Tat unverhältnismässig wäre.\n2) Die Sicherheit darf das Höchstmass der angedrohten Busse nicht übersteigen. Für den Fall, dass die aufgetragene Sicherheitsleistung nicht unverzüglich erfolgt, kann die Behörde als Sicherheit verwertbare Sachen beschlagnahmen, die dem Anschein nach der beschuldigten Person gehören; ihr Wert soll die Höhe des zulässigen Betrages der Sicherheit nicht übersteigen.\n3) Rechtsmittel gegen Entscheidungen nach Abs. 1 und 2 haben keine aufschiebende Wirkung.\n4) Die Sicherheit wird frei, wenn das Verfahren eingestellt wird oder die gegen die beschuldigte Person verhängte Strafe vollzogen ist. Die als Sicherheit beschlagnahmte Sache wird auch frei, wenn von der beschuldigten Person die aufgetragene Sicherheit in Geld erlegt oder sonst sichergestellt wird oder ein Dritter Rechte an der Sache glaubhaft macht.\n5) Die Sicherheit ist für verfallen zu erklären, sobald feststeht, dass die Verwaltungsstrafverfolgung oder -vollstreckung nicht möglich ist.\n6) Aus der verfallenen Sicherheit sind zunächst die allenfalls verhängte Busse und sodann die Kosten des Verwaltungsstrafverfahrens sowie die Verwahrungs- und Verwertungskosten zu decken. Nach Abzug dieser Posten verbleibende Restbeträge sind der beschuldigten Person auszufolgen. Im Übrigen gelten für die Verwendung der verfallenen Sicherheit dieselben Vorschriften wie für Bussen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "38",
+      "title": "Art. 38 Einhebung einer vorläufigen Sicherheit",
+      "content": "1) Die Landespolizei kann, unbeschadet besonderer Ermächtigungen in anderen Verwaltungsvorschriften, von Personen, die auf frischer Tat betreten werden, eine vorläufige Sicherheit einheben, wenn: a) die betretene Person der Landespolizei unbekannt ist, sich nicht ausweist und ihre Identität auch sonst nicht sofort feststellbar ist;\nb) begründeter Verdacht besteht, dass die betretene Person sich der Verwaltungsstrafverfolgung zu entziehen suchen werde; oder\nc) andernfalls: 1. die Verwaltungsstrafverfolgung oder -vollstreckung erheblich erschwert sein könnte; oder\n2. die Verwaltungsstrafverfolgung oder -vollstreckung einen Aufwand verursachen könnte, der gemessen an der Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und der Intensität seiner Beeinträchtigung durch die Tat unverhältnismässig wäre.\n2) Die vorläufige Sicherheit darf das Höchstmass der angedrohten Busse nicht übersteigen.\n3) Leistet die betretene Person im Fall des Abs. 1 Bst. c die vorläufige Sicherheit nicht, so kann die Landespolizei verwertbare Sachen, die dem Anschein nach der betretenen Person gehören und deren Wert das Höchstmass der angedrohten Busse nicht übersteigt, vorläufig sicherstellen.\n4) Über die vorläufige Sicherheit ist sofort eine Bescheinigung auszustellen. Die vorläufige Sicherheit ist der zuständigen Behörde mit der Anzeige unverzüglich vorzulegen.\n5) Die vorläufige Sicherheit wird frei, wenn das Verfahren eingestellt wird oder die gegen die beschuldigte Person verhängte Strafe vollzogen ist."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "B. Sicherung des Verwaltungsstrafverfahrens und des Verwaltungsstrafvollzuges",
+      "section": "39",
+      "title": "Art. 39 Zwangsgewalt",
+      "content": "Die Landespolizei ist ermächtigt, verhältnismässigen und angemessenen Zwang nach Art. 27 ff. des Polizeigesetzes anzuwenden, um die ihr nach diesem Gesetz eingeräumten Befugnisse durchzusetzen.\nC. Ordentliches Verfahren"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "40",
+      "title": "Art. 40 Rechtliches Gehör",
+      "content": "1) Sieht die Behörde nicht schon aufgrund der Anzeige oder der gepflogenen Erhebungen von der Verfolgung ab (Art. 51), so hat sie der beschuldigten Person Gelegenheit zu geben, sich zu rechtfertigen.\n2) Die Behörde kann die beschuldigte Person: a) auffordern, sich bis zu einem bestimmten Zeitpunkt schriftlich zu rechtfertigen oder zu einem bestimmten Zeitpunkt zur Vernehmung zu erscheinen; oder\nb) zur Vernehmung laden und diesfalls sodann eine mündliche Verhandlung durchführen.\n3) Die beschuldigte Person ist in jedem Fall auf ihr Recht hinzuweisen, zur Vernehmung einen Verteidiger ihrer Wahl beizuziehen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "41",
+      "title": "Art. 41 Aufforderung",
+      "content": "1) Die Aufforderung nach Art. 40 Abs. 2 Bst. a hat zu enthalten: a) die deutliche Bezeichnung der der beschuldigten Person zur Last gelegten Tat sowie die in Betracht kommende Verwaltungsvorschrift;\nb) die Aufforderung, sich entweder binnen der gesetzten Frist schriftlich oder zu dem zur Vernehmung bestimmten Zeitpunkt mündlich zu rechtfertigen und die der Verteidigung dienlichen Tatsachen und Beweismittel der Behörde bekanntzugeben, widrigenfalls die Behörde das Verwaltungsstrafverfahren ohne eine Anhörung durchführen werde.\n2) Die Aufforderung nach Abs. 1 ist zu eigenen Handen zuzustellen."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "42",
+      "title": "Art. 42 Ladung",
+      "content": "1) Als Ladung nach Art. 40 Abs. 2 Bst. b gilt die Aufforderung zum persönlichen Erscheinen vor einer Behörde.\n2) Die Ladung hat zu enthalten: a) die deutliche Bezeichnung der der beschuldigten Person zur Last gelegten Tat sowie die in Betracht kommende Verwaltungsvorschrift;\nb) die Aufforderung, die der Verteidigung dienlichen Tatsachen vorzubringen und die der Verteidigung dienlichen Beweismittel mitzubringen oder der Behörde so rechtzeitig bekannt zu geben, dass sie zur Vernehmung noch herbeigeschafft werden können.\n3) Die Ladung kann auch die Androhung enthalten, dass das Verwaltungsstrafverfahren, wenn die beschuldigte Person der Ladung ungerechtfertigt keine Folge leistet, ohne ihre Anhörung durchgeführt werden kann. Diese Rechtsfolge kann nur eintreten, wenn sie in der Ladung angedroht und wenn die Ladung der beschuldigten Person zu eigenen Handen zugestellt worden ist.\n4) Die Parteien sind so rechtzeitig zu laden, dass ihnen von der Zustellung der Ladung an mindestens 14 Tage zur Vorbereitung zur Verfügung stehen.\n5) Wer nicht durch Krankheit, Behinderung oder sonstige begründete Hindernisse vom Erscheinen abgehalten ist, hat die Verpflichtung, der Ladung Folge zu leisten und kann zur Erfüllung dieser Pflicht vorgeführt werden. Die Vorführung ist nur zulässig, wenn sie in der Ladung angedroht wurde."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "43",
+      "title": "Art. 43 Folgen der Ladung",
+      "content": "1) Wird die beschuldigte Person zur Vernehmung vor die erkennende Behörde geladen oder ihr vorgeführt, so ist das Verwaltungsstrafverfahren in mündlicher Verhandlung durchzuführen.\n2) Die beschuldigte Person kann zur mündlichen Verhandlung eine an der Sache nicht beteiligte Person ihres Vertrauens beiziehen.\n3) Hat die beschuldigte Person bei ihrer Vernehmung einen Verteidiger beigezogen, so darf sich dieser an der Vernehmung beteiligen, indem er nach deren Abschluss oder nach thematisch zusammenhängenden Abschnitten ergänzende Fragen an die beschuldigte Person richtet oder Erklärungen abgibt. Während der Vernehmung darf sich die beschuldigte Person nicht mit dem Verteidiger über die Beantwortung einzelner Fragen beraten."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "44",
+      "title": "Art. 44 Mündliche Verhandlung",
+      "content": "1) Wenn eine mündliche Verhandlung durchgeführt wird, dann ist diese unter Zuziehung der Parteien und ihrer Vertreter sowie der erforderlichen Zeugen und Sachverständigen vorzunehmen und, sofern sie mit einem Augenschein verbunden sind, wo möglich an Ort und Stelle, sonst am Sitz der Behörde oder an dem Ort abzuhalten, der nach der Sachlage am zweckmässigsten erscheint. Bei der Auswahl des Verhandlungsortes ist, sofern die mündliche Verhandlung nicht mit einem Augenschein verbunden ist, darauf zu achten, dass dieser für körperbehinderte Personen gefahrlos und tunlichst ohne fremde Hilfe zugänglich ist.\n2) Die verhandlungsleitende Person hat folgende Pflichten und Befugnisse: a) Sie hat sich von der Identität der Erschienenen zu überzeugen und ihre Stellung als Parteien oder sonst Beteiligte und die etwaige Vertretungsbefugnis zu prüfen.\nb) Sie eröffnet die Verhandlung und legt ihren Gegenstand dar. Sie kann die Verhandlung in Abschnitte gliedern und einen Zeitplan erstellen. Sie bestimmt die Reihenfolge, in der die Beteiligten zu hören, die Beweise aufzunehmen und die Ergebnisse früher aufgenommener Beweise oder Erhebungen vorzutragen und zu erörtern sind. Sie entscheidet über die Beweisanträge und hat offenbar unerhebliche Anträge zurückzuweisen. Ihr steht auch die Befugnis zu, die Verhandlung nach Bedarf zu unterbrechen oder zu vertagen und den Zeitpunkt für die Fortsetzung der Verhandlung mündlich zu bestimmen.\nc) Sie hat die Verhandlung unter steter Bedachtnahme auf ihren Zweck zügig so zu führen, dass den Parteien das Recht auf Gehör gewahrt, anderen Beteiligten aber Gelegenheit geboten wird, bei der Feststellung des Sachverhalts mitzuwirken. An der Sache nicht beteiligte Personen dürfen in der Verhandlung nicht das Wort ergreifen.\nd) Sie muss jeder Partei insbesondere Gelegenheit bieten, alle zur Sache gehörenden Gesichtspunkte vorzubringen und unter Beweis zu stellen, Fragen an die anwesenden Zeugen und Sachverständigen zu stellen, sich über die von anderen Beteiligten, den Zeugen und Sachverständigen vorgebrachten oder die als offenkundig behandelten Tatsachen sowie über die von anderen gestellten Anträge und über das Ergebnis amtlicher Erhebungen zu äussern."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "45",
+      "title": "Art. 45 Allgemeine Grundsätze der Beweisaufnahme",
+      "content": "Soweit in diesem Gesetz nicht etwas anderes bestimmt ist, finden auf die Beweisaufnahme folgende Bestimmungen der Strafprozessordnung sinngemäss Anwendung: a) §§ 145 bis 156 der Strafprozessordnung (Vernehmung der beschuldigten Person);\nb) § 23a der Strafprozessordnung (Beizug eines Dolmetschers für die Vernehmung der beschuldigten Person);\nc) §§ 105 bis 124 der Strafprozessordnung (Vernehmung von Zeugen);\nd) §§ 69 bis 79 der Strafprozessordnung (Augenschein und Sachverständige)."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "46",
+      "title": "Art. 46 Urkunden",
+      "content": "1) Die Beweiskraft von öffentlichen Urkunden und Privaturkunden ist von der Behörde nach § 88 der Strafprozessordnung zu beurteilen.\n2) Auf die Übersetzung einer Urkunde findet § 63 der Strafprozessordnung sinngemäss Anwendung."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "47",
+      "title": "Art. 47 Zeugen",
+      "content": "1) Die Angehörigen der beschuldigten Person, die mit ihrer Obsorge betrauten Personen, ihr Sachwalter und ihr Vorsorgebevollmächtigter nach Wirksamwerden der Vorsorgevollmacht sind von der Aussagepflicht befreit.\n2) Angehörige im Sinne des Abs. 1 sind: a) der Ehegatte;\nb) die Verwandten in gerader Linie und die Verwandten zweiten, dritten und vierten Grades in der Seitenlinie;\nc) die Verschwägerten in gerader Linie und die Verschwägerten zweiten Grades in der Seitenlinie;\nd) die Wahleltern und Wahlkinder sowie die Pflegeeltern und Pflegekinder;\ne) Personen, die miteinander in einer faktischen Lebensgemeinschaft leben, sowie Kinder und Enkel einer dieser Personen im Verhältnis zur anderen Person; sowie\nf) Personen, die in eingetragener Partnerschaft leben.\n3) Abs. 2 Bst. c gilt für in eingetragener Partnerschaft lebende Personen sinngemäss.\n4) Die durch eine Ehe, faktische Lebensgemeinschaft oder eingetragene Partnerschaft begründete Eigenschaft einer Person als Angehörige bleibt aufrecht, auch wenn die Ehe, die Lebensgemeinschaft oder die eingetragene Partnerschaft nicht mehr besteht."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "48",
+      "title": "Art. 48 Protokoll",
+      "content": "1) Das Protokoll über den Gang der mündlichen Verhandlung hat zu enthalten: a) die Behörde;\nb) den Vornamen und Familiennamen, Tag und Ort der Geburt, die Staatsangehörigkeit, den Personenstand, die Beschäftigung und den Wohnort der beschuldigten Person;\nc) den Namen eines allfälligen Verteidigers der beschuldigten Person;\nd) die deutliche Bezeichnung der der beschuldigten Person zur Last gelegten Tat;\ne) die wesentlichen Aussagen der Zeugen und Sachverständigen und die sonstigen Beweisergebnisse;\nf) die Rechtfertigung oder das Geständnis der beschuldigten Person.\n2) Alle Angaben im Protokoll sind mit möglichster Kürze abzufassen. Sind die in Abs. 1 Bst. b bis e bezeichneten Angaben bereits schriftlich in den Akten niedergelegt, so genügt im Protokoll ein kurzer Hinweis auf die bezüglichen Aktenstücke.\n3) Von der Aufnahme des in Abs. 1 bezeichneten Protokolls kann abgesehen werden, wenn die beschuldigte Person: a) einer nach Art. 42 Abs. 3 erfolgten Ladung oder einer nach Art. 41 Bst. b ergangenen Aufforderung zur Rechtfertigung ungerechtfertigt keine Folge geleistet hat und das Verfahren ohne ihre Anhörung durchgeführt wird, soweit keine anderen Einvernahmen in dieser Verhandlung stattfinden. In diesem Fall ist ein Aktenvermerk über die Tatsache der erfolgten Ladung oder Aufforderung zur Rechtfertigung aufzunehmen;\nb) vor der erkennenden oder ersuchten Behörde ein volles Geständnis ablegt und weitere Beweise nicht aufgenommen werden. In diesem Fall sind das Geständnis und der Verhandlungstag schriftlich festzuhalten oder, soweit die Voraussetzungen erfüllt sind, nach den Bestimmungen über die Unterwerfung (Art. 56 und 57) vorzugehen.\n4) Das Protokoll ist von der verhandlungsleitenden Person zu unterzeichnen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "49",
+      "title": "Art. 49 Spruch der Entscheidung",
+      "content": "Der Spruch der Entscheidung hat, wenn er nicht auf Einstellung lautet, zu enthalten: a) die als erwiesen angenommene Tat;\nb) die Verwaltungsvorschrift, die durch die Tat verletzt worden ist;\nc) die verhängte Strafe und die angewendete Gesetzesbestimmung;\nd) den etwaigen Ausspruch über eine Einziehung, einen Verfall oder eine ähnliche Massnahme;\ne) im Fall einer Strafentscheidung die Entscheidung über die Kosten."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "50",
+      "title": "Art. 50 Belehrung über das Recht auf Beigabe eines Verfahrenshilfeverteidigers",
+      "content": "Jede Entscheidung hat eine Belehrung über das Recht der beschuldigten Person, im Rechtsmittelverfahren einen Verfahrenshilfeverteidiger zu erhalten (Art. 70), zu enthalten."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "51",
+      "title": "Art. 51 Einstellung",
+      "content": "1) Die Behörde hat von der Einleitung oder Fortführung eines Verwaltungsstrafverfahrens abzusehen und die Einstellung zu verfügen, wenn: a) die der beschuldigten Person zur Last gelegte Tat nicht erwiesen werden kann oder keine Verwaltungsübertretung darstellt;\nb) die beschuldigte Person die ihr zur Last gelegte Verwaltungsübertretung nicht begangen hat oder Umstände vorliegen, die die Strafbarkeit aufheben oder ausschliessen;\nc) Umstände vorliegen, die die Verwaltungsstrafverfolgung ausschliessen;\nd) die Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und die Intensität seiner Beeinträchtigung durch die Tat und das Verschulden der beschuldigten Person gering sind;\ne) die Verwaltungsstrafverfolgung nicht möglich ist;\nf) die Verwaltungsstrafverfolgung einen Aufwand verursachen würde, der gemessen an der Bedeutung des verwaltungsstrafrechtlich geschützten Rechtsgutes und der Intensität seiner Beeinträchtigung durch die Tat unverhältnismässig wäre.\n2) Anstatt die Einstellung zu verfügen, kann die Behörde der beschuldigten Person im Fall des Abs. 1 Bst. d unter Hinweis auf die Rechtswidrigkeit ihres Verhaltens eine Verwarnung erteilen, wenn dies geboten erscheint, um sie von der Begehung strafbarer Handlungen gleicher Art abzuhalten.\n3) Wird die Einstellung verfügt, so genügt ein Aktenvermerk mit den Einstellungsgründen, es sei denn, dass einer Partei gegen die Einstellung ein Rechtsmittel zusteht oder die Erlassung einer Entscheidung aus anderen Gründen notwendig ist. Die Einstellung ist, soweit sie nicht mit Entscheidung erfolgt, der beschuldigten Person mitzuteilen, wenn sie nach dem Inhalt der Akten von dem gegen sie gerichteten Verdacht wusste."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "C. Ordentliches Verfahren",
+      "section": "52",
+      "title": "Art. 52 Schriftliche Ausfertigung der Entscheidung",
+      "content": "1) Den Parteien, denen gegen die Entscheidung ein Rechtsmittel zusteht, ist von Amts wegen eine Ausfertigung der Entscheidung zuzustellen, wenn ihnen die Entscheidung nicht mündlich verkündet worden ist. Sonst ist eine schriftliche Ausfertigung nur auf Verlangen einer Partei zuzustellen.\n2) Die schriftliche Ausfertigung der Entscheidung hat zu enthalten: a) die Aufschrift \"Strafentscheidung\";\nb) die Behörde, die die Entscheidung erlässt;\nc) den Vornamen und Familiennamen sowie den Wohnort der beschuldigten Person;\nd) den Spruch (Art. 49);\ne) die Begründung;\nf) die Rechtsmittelbelehrung;\ng) die Belehrung über das Recht auf Beigabe eines Verfahrenshilfeverteidigers (Art. 50);\nh) das Datum der Entscheidung.\nD. Abgekürztes Verfahren"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "D. Abgekürztes Verfahren",
+      "section": "53",
+      "title": "Art. 53 Strafverfügung",
+      "content": "1) Wenn von einer anderen Behörde oder einem Gericht aufgrund eigener dienstlicher Wahrnehmung eine Verwaltungsübertretung angezeigt wird oder die durchgeführten Untersuchungen zur Beurteilung aller für die Entscheidung massgebenden Umstände ausreichen, so kann die Behörde ohne vorausgehendes ordentliches Verwaltungsstrafverfahren die Strafe durch Strafverfügung festsetzen. In der Strafverfügung kann auch ein etwaiger Ausspruch über eine Einziehung, einen Verfall oder eine ähnliche Massnahme erfolgen.\n2) Ist in der Strafverfügung nur eine Busse von höchstens 5 000 Franken verhängt worden, ist statt des Einspruches nur das Rechtsmittel der Beschwerde zulässig."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "D. Abgekürztes Verfahren",
+      "section": "54",
+      "title": "Art. 54 Inhalt der Strafverfügung",
+      "content": "In der Strafverfügung müssen angegeben sein: a) die Aufschrift \"Strafverfügung\";\nb) die Behörde, die die Strafverfügung erlässt;\nc) der Vorname und Familienname sowie der Wohnort der beschuldigten Person;\nd) die Tat, die als erwiesen angenommen ist, ferner die Zeit und der Ort ihrer Begehung;\ne) die Verwaltungsvorschrift, die durch die Tat verletzt worden ist;\nf) die verhängte Strafe und die angewendete Gesetzesbestimmung;\ng) den etwaigen Ausspruch über eine Einziehung, einen Verfall oder eine ähnliche Massnahme;\nh) der Ausspruch über die von der beschuldigten Person zu ersetzenden Kosten;\ni) die Belehrung über den Einspruch (Art. 55) oder die Beschwerde (Art. 53 Abs. 2)."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "D. Abgekürztes Verfahren",
+      "section": "55",
+      "title": "Art. 55 Einspruch",
+      "content": "1) Die beschuldigte Person kann gegen die Strafverfügung binnen 14 Tagen nach deren Zustellung schriftlich Einspruch erheben und dabei die ihrer Verteidigung dienlichen Beweismittel vorbringen. Er ist bei der Behörde einzubringen, die die Strafverfügung erlassen hat.\n2) Wird der Einspruch rechtzeitig eingebracht und nicht binnen 14 Tagen zurückgezogen, gilt das ordentliche Verfahren als eingeleitet. Wenn im Einspruch ausdrücklich nur das Ausmass der verhängten Strafe oder die Entscheidung über die Kosten angefochten wird, dann hat die Behörde, die die Strafverfügung erlassen hat, darüber zu entscheiden. In allen anderen Fällen tritt durch den Einspruch, soweit er nicht binnen 14 Tagen zurückgezogen wird, die gesamte Strafverfügung ausser Kraft.\n3) Wird der Einspruch nicht oder nicht rechtzeitig erhoben oder zurückgezogen, ist die Strafverfügung zu vollstrecken.\nUnterwerfung\nArt. 56 a) Zulässigkeit, Zweck und Wirkung\n1) Die Unterwerfung kann stattfinden, wenn: a) eine volljährige beschuldigte Person oder ihre Vertretung vor der zuständigen Behörde eine Verwaltungsübertretung einschliesslich ihres Tatbestandes vor oder während des Erlasses einer Strafverfügung oder vor oder während des ordentlichen Verwaltungsstrafverfahrens bis zum Erlass der erstinstanzlichen Strafentscheidung vorbehaltlos und glaubwürdig eingesteht und die Tat-, Schuld- und Straffrage für die zuständige Behörde hinreichend geklärt erscheinen;\nb) die Verwaltungsübertretung nur mit Busse bedroht ist; und\nc) sich die beschuldigte Person im Unterwerfungsprotokoll unter Verzicht auf eine zu erlassende Strafentscheidung oder Strafverfügung und deren Anfechtung unterwirft. Der Unterwerfungsantrag kann in einer Verwaltungsstrafsache von der gleichen beschuldigten Person nur einmal gestellt werden.\n2) Liegen die Voraussetzungen nach Abs. 1 vor, sind die Busse, der allfällige Abgabenbetrag sowie die Kosten und Gebühren des Verfahrens im Protokoll mit der Bemerkung genau festzuhalten, dass die Geldbeträge sofort abzuleisten sind, oder es ist unter Vorbehalt sichernder Massnahmen (Art. 36 und 37) eine angemessene Frist zu bestimmen, binnen welcher sie abzuleisten sind.\n3) Wenn die beschuldigte Person sich unterwirft, so kann ihr auf Antrag oder von Amts wegen die Busse von der Behörde bis auf einen Viertel der gesetzlichen Strafe herabgesetzt werden.\n4) Die mit Unterwerfungsprotokoll rechtskräftig festgesetzten und anerkannten Geldbeträge können nach den Bestimmungen über die Strafvollstreckung vollstreckt werden. Eine solche Strafe darf in einem späteren Verfahren keine Berücksichtigung finden.\n5) Auf das Wiederaufnahmeverfahren sind die Art. 66 und 67 sinngemäss anwendbar, wobei dieses sowohl auf Antrag als auch von Amts wegen eingeleitet werden kann. Führt das Ergebnis eines Wiederaufnahmeverfahrens zur Entlastung der beschuldigten Person, sind allfällige bereits bezahlte Geldbeträge zurückzuerstatten."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "D. Abgekürztes Verfahren",
+      "section": "57",
+      "title": "Art. 57 b) Unterwerfungsprotokoll",
+      "content": "1) Im Unterwerfungsprotokoll müssen angegeben sein: a) die Behörde, die das Unterwerfungsprotokoll aufnimmt;\nb) der Vorname und Familienname sowie der Wohnort der beschuldigten Person;\nc) Tag und Ort der Verhandlung;\nd) die Tat, die als erwiesen angenommen ist, ferner die Zeit und der Ort ihrer Begehung;\ne) die Verwaltungsvorschrift, die durch die Tat verletzt worden ist;\nf) die verhängte Strafe und die angewendete Gesetzesbestimmung;\ng) eine ausdrückliche Unterwerfungserklärung der beschuldigten Person, in welcher sie die Verletzung der Verwaltungsvorschrift eingesteht, die über sie verhängte Strafe und die sich daraus ergebenden Folgen anerkennt und gleichzeitig auf den Erlass einer Strafverfügung oder einer Strafentscheidung sowie auf deren Anfechtung verzichtet;\nh) allenfalls der Ausspruch über die von der beschuldigten Person zu ersetzenden Kosten;\ni) die Unterschrift der verhandlungsleitenden Person und der beschuldigten Person.\n2) Ist das Unterwerfungsprotokoll in Abwesenheit der beschuldigten Person aufgenommen worden, so ist ihr dieses mit folgendem ergänzenden Hinweis zuzustellen: a) Die beschuldigte Person kann sich mittels Unterschrift und Zurücksendung des Unterwerfungsprotokolls an die Behörde binnen einer Frist von 8 Tagen nach dessen Zustellung unterwerfen.\nb) Unterlässt die beschuldigte Person die Unterwerfung im Sinne von Bst. a, gilt das Unterwerfungsprotokoll als Strafverfügung und es kann dagegen binnen 14 Tagen nach dessen Zustellung Einspruch nach Art. 55 erhoben werden.\nIV. Rechtsschutz\nA. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "A. Rechtsmittel",
+      "section": "58",
+      "title": "Art. 58 Allgemeine Beschwerdegrundsätze",
+      "content": "1) Den Parteien steht das Recht der Beschwerde zu. Die erste Beschwerdeinstanz hat der erstinstanzlich entscheidenden Behörde die Gelegenheit zur Stellungnahme zu gewähren.\n2) Gegen verfahrensleitende Entscheidungen ist eine abgesonderte Beschwerde nicht zulässig. Sie können erst in der Beschwerde gegen die die Sache erledigende Entscheidung angefochten werden.\n3) Beschwerden im Verwaltungsstrafverfahren können auch mündlich eingebracht werden und bedürfen in diesem Fall keines begründeten Antrags. Die Behörde hat jedoch die Gründe der Partei für die Erhebung der Beschwerde im Protokoll festzuhalten.\n4) In einer Beschwerdeentscheidung darf keine höhere Strafe verhängt werden als in der erstinstanzlichen Entscheidung."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "A. Rechtsmittel",
+      "section": "59",
+      "title": "Art. 59 Beschwerdeinstanzen und Instanzenzug",
+      "content": "1) Gegen Entscheidungen einer Behörde, ausgenommen der Regierung, kann binnen 14 Tagen ab Zustellung Beschwerde an eine gemäss Art. 78 Abs. 3 der Landesverfassung eingesetzte Beschwerdekommission erhoben werden.\n2) Gegen Entscheidungen der Regierung oder einer Beschwerdekommission kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "A. Rechtsmittel",
+      "section": "60",
+      "title": "Art. 60 Hemmung von Rechtsmittelfristen",
+      "content": "Zwischen dem 24. Dezember und dem 6. Januar ist der Fristenlauf für Rechtsmittel gehemmt. Der noch übrige Teil der Frist beginnt mit dem 7. Januar weiterzulaufen. Fällt der Anfang einer Frist in die Zeit zwischen dem 24. Dezember und dem 6. Januar, so beginnt der Lauf der Frist mit dem 7. Januar.\nB. Beschwerdeverfahren"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "B. Beschwerdeverfahren",
+      "section": "61",
+      "title": "Art. 61 Verhandlung",
+      "content": "1) Die Beschwerdeinstanz hat eine mündliche Verhandlung durchzuführen, wenn: a) sie es zur erschöpfenden Erörterung und gründlichen Beurteilung der Sache als notwendig erachtet; oder\nb) die beschuldigte Person es verlangt.\n2) Keine mündliche Verhandlung findet statt, wenn: a) der Antrag oder die Beschwerde einer Partei zurückzuweisen ist; oder\nb) bereits aufgrund der Aktenlage feststeht, dass die mit Beschwerde angefochtene Entscheidung aufzuheben ist.\n3) Verfahrensleitende Entscheidungen können ohne vorgehende mündliche Verhandlung getroffen werden.\n4) Auf die Öffentlichkeit der mündlichen Verhandlung vor den Beschwerdeinstanzen finden die §§ 181 bis 181d der Strafprozessordnung sinngemäss Anwendung.\n5) Die Parteien sind so rechtzeitig zur Verhandlung zu laden, dass ihnen von der Zustellung der Ladung an mindestens 14 Tage zur Vorbereitung zur Verfügung stehen.\n6) Die gemeinsame Durchführung der Verhandlung in verschiedenen Verfahren ist zulässig, wenn dies aufgrund des sachlichen Zusammenhangs der den Verfahren zugrunde liegenden Verwaltungsübertretungen zweckmässig ist."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "B. Beschwerdeverfahren",
+      "section": "62",
+      "title": "Art. 62 Ablauf der Verhandlung",
+      "content": "1) Die Verhandlung beginnt mit dem Aufruf der Sache. Zeugen haben daraufhin das Verhandlungszimmer zu verlassen.\n2) Wenn eine Partei trotz ordnungsgemässer Ladung nicht erschienen ist, dann hindert dies weder die Durchführung der Verhandlung noch die Fällung der Entscheidung.\n3) Zu Beginn der Verhandlung ist der Gegenstand der Verhandlung zu bezeichnen und der bisherige Gang des Verfahrens zusammenzufassen. Sodann ist den Parteien Gelegenheit zu geben, sich zu äussern."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "B. Beschwerdeverfahren",
+      "section": "63",
+      "title": "Art. 63 Beweisaufnahme",
+      "content": "1) Die Beschwerdeinstanz hat die zur Entscheidung der Sache erforderlichen Beweise aufzunehmen.\n2) Ausser dem Vorsitzenden und den weiteren Mitgliedern der Beschwerdeinstanz sind die Parteien und ihre Vertreter, insbesondere die beschuldigte Person, berechtigt, an jede Person, die vernommen wird, Fragen zu stellen. Der Vorsitzende erteilt ihnen hierzu das Wort. Er kann Fragen, die nicht der Aufklärung des Sachverhaltes dienen, zurückweisen.\n3) Protokolle über die Vernehmung der beschuldigten Person oder von Zeugen sowie die Gutachten der Sachverständigen dürfen nur verlesen werden, wenn: a) die vernommenen Personen in der Zwischenzeit gestorben sind, ihr Aufenthalt unbekannt ist oder ihr persönliches Erscheinen wegen ihres Alters, wegen Krankheit oder Gebrechlichkeit oder wegen entfernten Aufenthaltes oder aus anderen erheblichen Gründen nicht verlangt werden kann;\nb) die in der mündlichen Verhandlung vernommenen Personen in wesentlichen Punkten von ihren früheren Aussagen abweichen;\nc) Zeugen, ohne dazu berechtigt zu sein, oder beschuldigte Personen die Aussage verweigern; oder\nd) alle anwesenden Parteien zustimmen.\n4) Sonstige Beweismittel, wie Augenscheinsaufnahmen, Fotos oder Urkunden, müssen der beschuldigten Person vorgehalten werden. Es ist ihr Gelegenheit zu geben, sich dazu zu äussern."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "B. Beschwerdeverfahren",
+      "section": "64",
+      "title": "Art. 64 Ende der Verhandlung",
+      "content": "1) Das Verfahren ist möglichst in einer Verhandlung abzuschliessen. Wenn sich die Einvernahme der von der Verhandlung ausgebliebenen beschuldigten Person oder die Aufnahme weiterer Beweise als notwendig erweist, dann ist die Verhandlung zu vertagen.\n2) Wenn die Sache reif zur Entscheidung ist, dann ist die Beweisaufnahme zu schliessen.\n3) Nach Schluss der Beweisaufnahme ist den Parteien Gelegenheit zu ihren Schlussausführungen zu geben. Der beschuldigten Person steht das Recht zu, sich als Letzte zu äussern. Das Protokoll ist vom Vorsitzenden zu unterzeichnen.\n4) Hierauf ist die Verhandlung zu schliessen."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "B. Beschwerdeverfahren",
+      "section": "65",
+      "title": "Art. 65 Schriftliche Ausfertigung der Entscheidung",
+      "content": "Die Entscheidung ergeht schriftlich und hat zu enthalten: a) die Bezeichnung der Beschwerdeinstanz, die die Entscheidung erlässt;\nb) den Vornamen und Familiennamen sowie den Wohnort der beschuldigten Person;\nc) den Spruch (Art. 49);\nd) die Begründung;\ne) die Rechtsmittelbelehrung;\nf) das Datum der Entscheidung.\nC. Sonstige Abänderung von Entscheidungen"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "C. Sonstige Abänderung von Entscheidungen",
+      "section": "66",
+      "title": "Art. 66 Wiederaufnahme von Amts wegen",
+      "content": "1) Von Amts wegen können der Beschwerde nicht oder nicht mehr unterliegende Strafentscheidungen und Strafverfügungen, durch die das Gesetz zum Nachteil der bestraften Person offenkundig verletzt worden ist, von der erstinstanzlichen Behörde durch Wiederaufnahme aufgehoben oder abgeändert werden.\n2) Die Folgen der Bestrafung sind wiedergutzumachen."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "C. Sonstige Abänderung von Entscheidungen",
+      "section": "67",
+      "title": "Art. 67 Wiederaufnahme auf Antrag der Partei",
+      "content": "1) Soweit nachfolgend nichts anderes bestimmt ist, finden auf die Wiederaufnahme auf Antrag einer Partei die §§ 272 und 278 der Strafprozessordnung sinngemäss Anwendung.\n2) Über die Zulässigkeit eines Antrags nach Abs. 1 entscheidet die erstinstanzliche Behörde.\n3) Gegen die Verweigerung der Wiederaufnahme kann Beschwerde geführt werden.\n4) Die Wiederaufnahme ist gegen rechtskräftige Strafentscheidungen und Strafverfügungen zulässig.\n5) Die Folgen der Bestrafung sind wiedergutzumachen."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "C. Sonstige Abänderung von Entscheidungen",
+      "section": "68",
+      "title": "Art. 68 Wiederaufnahme des Verfahrens zum Nachteil der beschuldigten Person",
+      "content": "Die Wiederaufnahme eines durch Einstellung abgeschlossenen Verwaltungsstrafverfahrens ist zum Nachteil der beschuldigten Person nur innerhalb der in Art. 25 Abs. 1 bezeichneten Frist und aus den in § 271 Abs. 1 der Strafprozessordnung angeführten Gründen zulässig."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "C. Sonstige Abänderung von Entscheidungen",
+      "section": "69",
+      "title": "Art. 69 Wiedereinsetzung gegen den Ablauf von Fristen",
+      "content": "1) Auf die Wiedereinsetzung gegen den Ablauf von Fristen findet § 282 der Strafprozessordnung sinngemäss Anwendung.\n2) Über die Zulässigkeit der Wiedereinsetzung entscheidet die zuständige Beschwerdeinstanz.\nD. Verfahrenshilfe"
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "D. Verfahrenshilfe",
+      "section": "70",
+      "title": "Art. 70 Beigabe eines Verfahrenshilfeverteidigers",
+      "content": "1) Ist die beschuldigte Person ausserstande, ohne Beeinträchtigung des für sie und ihre Familie, für deren Unterhalt sie zu sorgen hat, zu einer einfachen Lebensführung notwendigen Unterhaltes die gesamten Kosten des Beschwerdeverfahrens vor den Beschwerdeinstanzen zu tragen, so hat die erste Beschwerdeinstanz auf Antrag der beschuldigten Person zu beschliessen, dass ihr ein Verteidiger beigegeben wird, dessen Kosten die beschuldigte Person nicht oder nur zum Teil zu tragen hat, wenn und soweit dies im Interesse der Rechtspflege, vor allem im Interesse einer zweckentsprechenden Verteidigung, erforderlich ist (Verfahrenshilfeverteidiger); dem Antrag ist nach Möglichkeit das Vermögensbekenntnis gemäss § 66 Abs. 1 bis 3 der Zivilprozessordnung anzuschliessen. Die Beigebung eines Verteidigers ist in diesem Sinne jedenfalls erforderlich: a) zur Ausführung der Beschwerde sowie zur öffentlichen Verhandlung über die Beschwerde;\nb) wenn die beschuldigte Person blind, gehörlos, stumm, auf andere Weise behindert oder der Sprache nicht hinreichend kundig und deshalb nicht in der Lage ist, sich selbst zu verteidigen;\nc) bei schwieriger Sach- oder Rechtslage.\n2) Wird vor der ersten Beschwerdeinstanz ein Verfahrenshilfeverteidiger beigegeben, so gilt dessen Bestellung auch vor der zweiten Beschwerdeinstanz, wenn die erste Beschwerdeinstanz nicht im Einzelnen etwas anderes anordnet.\n3) Im Übrigen finden die §§ 26a bis 26g der Strafprozessordnung sinngemäss Anwendung.\n4) Für juristische Personen gelten die Abs. 1 bis 3 sowie § 63 Abs. 2 der Zivilprozessordnung sinngemäss.\nV. Strafvollstreckung"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "V. Strafvollstreckung",
+      "section": "71",
+      "title": "Art. 71 Zuständige Behörde",
+      "content": "Alle Anordnungen und Entscheidungen im Zusammenhang mit der Vollstreckung von Bussen oder sonstigen in Geld bemessenen Unrechtsfolgen obliegen der erstinstanzlichen Behörde."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "V. Strafvollstreckung",
+      "section": "72",
+      "title": "Art. 72 Vollstreckung von Bussen",
+      "content": "Rechtskräftig verhängte Bussen oder sonstige in Geld bemessene Unrechtsfolgen sind binnen 14 Tagen nach Eintritt der Rechtskraft zu bezahlen. Erfolgt binnen dieser Frist keine Zahlung, ist die Forderung nach den Bestimmungen der Exekutionsordnung zu vollstrecken.\nVI. Straftilgung, besondere Verfahrensvorschriften und Verfahrenskosten\nA. Straftilgung"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "A. Straftilgung",
+      "section": "73",
+      "title": "Art. 73 Grundsatz",
+      "content": "1) Eine wegen einer Verwaltungsübertretung verhängte Strafe zieht, sofern gesetzlich nichts anderes bestimmt ist, keinerlei Straffolgen nach sich und gilt mit Ablauf von fünf Jahren nach Eintritt der Rechtskraft als getilgt.\n2) Getilgte Verwaltungsstrafen dürfen in amtlichen Auskünften für Zwecke eines Strafverfahrens nicht erwähnt und bei der Strafbemessung im Verwaltungsstrafverfahren nicht berücksichtigt werden.\nB. Sonderbestimmungen für jugendliche Personen"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "B. Sonderbestimmungen für jugendliche Personen",
+      "section": "74",
+      "title": "Art. 74 Beizug des Amtes für Soziale Dienste und von Jugendfürsorgeinstitutionen",
+      "content": "Die Behörden sollen sich im Verwaltungsstrafverfahren gegen jugendliche Personen nach Möglichkeit der Mithilfe des Amtes für Soziale Dienste sowie von Personen und Körperschaften bedienen, die in der Jugendfürsorge tätig sind und sich den Behörden zur Verfügung stellen. Die Mithilfe kann insbesondere in der Erhebung der persönlichen Verhältnisse der jugendlichen Person, in der Fürsorge für ihre Person und in dem Beistand bestehen, dessen sie im Verfahren bedarf."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "B. Sonderbestimmungen für jugendliche Personen",
+      "section": "75",
+      "title": "Art. 75 Benachrichtigung des gesetzlichen Vertreters",
+      "content": "1) Die Behörde hat, wenn sie es im Interesse einer jugendlichen beschuldigten Person für notwendig oder zweckmässig hält, ihren bekannten gesetzlichen Vertreter von der Einleitung des Verwaltungsstrafverfahrens und von Strafentscheidungen und Strafverfügungen zu benachrichtigen.\n2) Der Befragung durch die Landespolizei oder der Vernehmung durch die Behörde einer wegen des Verdachtes einer Verwaltungsübertretung festgenommenen jugendlichen Person ist auf ihr Verlangen ein gesetzlicher Vertreter, ein Erziehungsberechtigter oder ein Vertreter des Amtes für Soziale Dienste beizuziehen, sofern damit keine unangemessene Verlängerung der Anhaltung verbunden ist.\n3) Eine jugendliche beschuldigte Person kann zu mündlichen Verhandlungen zwei an der Sache nicht beteiligte Personen ihres Vertrauens beiziehen.\n4) Jugendliche beschuldigte Personen sind über ihr Recht gemäss Abs. 2 nach der Festnahme, über ihr Recht gemäss Abs. 3 in der Ladung zu belehren."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "B. Sonderbestimmungen für jugendliche Personen",
+      "section": "76",
+      "title": "Art. 76 Rechte des gesetzlichen Vertreters",
+      "content": "Der gesetzliche Vertreter einer jugendlichen beschuldigten Person hat das Recht, auch gegen den Willen der beschuldigten Person zu deren Gunsten Beweisanträge zu stellen und innerhalb der der beschuldigten Person offenstehenden Frist Rechtsmittel einzulegen, Anträge auf Wiedereinsetzung gegen den Ablauf von Fristen oder auf Wiederaufnahme des Verfahrens zu stellen."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "B. Sonderbestimmungen für jugendliche Personen",
+      "section": "77",
+      "title": "Art. 77 Bestellung eines amtlichen Verteidigers",
+      "content": "1) Einer jugendlichen beschuldigten Person kann von Amts wegen ein Verteidiger bestellt werden, wenn: a) ihr gesetzlicher Vertreter an der strafbaren Handlung beteiligt ist; oder\nb) es wegen der geringeren geistigen Entwicklung der beschuldigten Person notwendig oder zweckmässig ist und die Verteidigung durch den gesetzlichen Vertreter aus irgendeinem Grund nicht Platz greifen kann.\n2) Als Verteidiger kann eine geeignete Person bestellt werden."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "B. Sonderbestimmungen für jugendliche Personen",
+      "section": "78",
+      "title": "Art. 78 Informationspflicht der Behörde",
+      "content": "Erlangt die Behörde von Umständen Kenntnis, die eine pflegschaftsbehördliche Massnahme erfordern, so hat sie dem Pflegschaftsrichter davon Mitteilung zu machen.\nC. Verfahrenskosten"
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "C. Verfahrenskosten",
+      "section": "79",
+      "title": "Art. 79 Kosten des Verwaltungsstrafverfahrens",
+      "content": "1) In jeder Strafentscheidung und in jeder Entscheidung, mit der eine Strafentscheidung bestätigt wird, ist auszusprechen, dass die bestrafte Person die Kosten des Verwaltungsstrafverfahrens zu erstatten hat.\n2) Die Regierung legt mit Verordnung fest, welche Gebühren für das Verwaltungsstrafverfahren anfallen.\n3) Sind im Zuge des Verwaltungsstrafverfahrens Barauslagen erwachsen, so ist der bestraften Person der Ersatz dieser Auslagen aufzuerlegen, sofern sie nicht durch Verschulden einer anderen Person verursacht sind; der zu ersetzende Betrag ist, wenn tunlich, in der Strafentscheidung oder in der Strafverfügung, sonst durch besondere Entscheidung ziffernmässig festzusetzen. Dies gilt nicht für Gebühren, die dem Dolmetscher und Übersetzer zustehen, welcher der beschuldigten Person beigestellt wurde.\n4) Die Gebühren der Sachverständigen, des Dolmetschers und der Zeugen sind, sofern die Ansätze nicht durch besondere Vorschriften geregelt sind, von der Behörde zu bestimmen.\n5) Die Gebühren und Barauslagen können für uneinbringlich erklärt werden, wenn mit Grund angenommen werden darf, dass die Eintreibung erfolglos wäre.\n6) Auf die Vollstreckung sind die Art. 16 Abs. 2 und 3 und Art. 72 sinngemäss anzuwenden.\n7) Wird einem Antrag der bestraften Person auf Wiederaufnahme des Verwaltungsstrafverfahrens oder Wiedereinsetzung gegen den Ablauf von Fristen nicht stattgegeben, so gelten hinsichtlich der Verpflichtung zur Tragung der Verfahrenskosten sinngemäss die vorhergehenden Bestimmungen."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "C. Verfahrenskosten",
+      "section": "80",
+      "title": "Art. 80 Kosten des Beschwerdeverfahrens",
+      "content": "Die Kosten des Beschwerdeverfahrens sind der beschwerdeführenden Person nicht aufzuerlegen, wenn der Beschwerde gänzlich oder weitaus überwiegend Folge gegeben worden ist."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "C. Verfahrenskosten",
+      "section": "81",
+      "title": "Art. 81 Kosten bei Einstellung des Verfahrens oder Aufhebung der Strafe",
+      "content": "Wird ein Verwaltungsstrafverfahren gänzlich oder weitaus überwiegend eingestellt oder eine verhängte Strafe infolge Beschwerde oder Wiederaufnahme des Verfahrens gänzlich oder weitaus überwiegend aufgehoben, so sind: a) die Kosten des Verfahrens vom Land zu tragen, falls sie aber schon gezahlt sind, zurückzuerstatten; und\nb) die Kosten der Verteidigung der beschuldigten Person nach Massgabe der sinngemäss anwendbaren §§ 306 und 307 der Strafprozessordnung zu ersetzen.\nVII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "82",
+      "title": "Art. 82 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "83",
+      "title": "Art. 83 Änderung von Bezeichnungen",
+      "content": "1) Die Bezeichnung \"Gesetz über die allgemeine Landesverwaltungspflege\", \"Gesetz über die allgemeine Landesverwaltungspflege (LVG)\" oder \"LVG\" ist durch die Bezeichnung \"Verwaltungsstrafgesetz\", in der jeweils grammatikalisch richtigen Form, zu ersetzen in: a) Art. 51a Abs. 1 des Gesetzes vom 23. Mai 1996 zum Schutz von Natur und Landschaft (Naturschutzgesetz; NSchG), LGBl. 1996 Nr. 117;\nb) Art. 92 Abs. 1 des Umweltschutzgesetzes (USG) vom 29. Mai 2008, LGBl. 2008 Nr. 199;\nc) Art. 61a Abs. 1 des Gewässerschutzgesetzes (GSchG) vom 15. Mai 2003, LGBl. 2003 Nr. 159;\nd) Art. 64a Abs. 1 und Art. 67 Abs. 3 des Gesetzes vom 25. November 2010 über den Umgang mit genetisch veränderten, pathogenen oder gebietsfremden Organismen (Organismengesetz; OrgG), LGBl. 2011 Nr. 4;\ne) Art. 93 Abs. 6 des Mediengesetzes (MedienG) vom 19. Oktober 2005, LGBl. 2005 Nr. 250;\nf) Art. 97 des Gesetzes vom 22. Oktober 2009 über die Mehrwertsteuer (Mehrwertsteuergesetz; MWSTG), LGBl. 2009 Nr. 330;\ng) Art. 98 Abs. 2 des Strassenverkehrsgesetzes (SVG) vom 30. Juni 1978, LGBl. 1978 Nr. 18;\nh) Art. 72 Abs. 6 des Gesetzes vom 17. März 2006 über die elektronische Kommunikation (Kommunikationsgesetz; KomG), LGBl. 2006 Nr. 91;\ni) Art. 70 Abs. 4 des Gesetzes vom 9. Juni 2016 über den Schutz, die Erhaltung und die Pflege von Kulturgütern (Kulturgütergesetz; KGG), LGBl. 2016 Nr. 270;\nk) Art. 40 Abs. 6 des Gesetzes vom 2. März 2023 über Postdienste und Paketzustelldienste (Postdienste- und Paketzustelldienstegesetz; PPG), LGBl. 2023 Nr. 151;\nl) Art. 26 Abs. 6 des Gesetzes vom 5. Oktober 2023 über die Genehmigung von Weltraumaktivitäten und die Registrierung von Weltraumgegenständen (Weltraumgesetz; WRG), LGBl. 2023 Nr. 443;\nm) Art. 32 Abs. 4 des Emissionshandelsgesetzes (EHG) vom 19. September 2012, LGBl. 2012 Nr. 346;\nn) Art. 92 Abs. 4 des Geldspielgesetzes (GSG) vom 30. Juni 2010, LGBl. 2010 Nr. 235;\no) Art. 71 Abs. 4 des Investmentunternehmensgesetzes (IUG) vom 2. Dezember 2015, LGBl. 2016 Nr. 45;\np) Art. 143c Abs. 4 des Gesetzes vom 28. Juni 2011 über bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (UCITSG), LGBl. 2011 Nr. 295;\nq) Art. 177 Abs. 4 des Gesetzes vom 19. Dezember 2012 über die Verwalter alternativer Investmentfonds (AIFMG), LGBl. 2013 Nr. 49;\nr) Art. 10 Abs. 4 des Gesetzes vom 10. November 2017 zur Durchführung der Verordnung (EU) Nr. 909/2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der Europäischen Union und über Zentralverwahrer (EWR-Zentralverwahrer-Durchführungsgesetz; EWR-ZVDG), LGBl. 2017 Nr. 426;\ns) Art. 10 Abs. 4 des Gesetzes vom 6. November 2020 zur Durchführung der Verordnung (EU) 2017/2402 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung (EWR-Verbriefungs-Durchführungsgesetz; EWR-VDG), LGBl. 2020 Nr. 504;\nt) Art. 11 Abs. 2 des Gesetzes vom 5. März 2020 zur Durchführung der Verordnung (EU) Nr. 596/2014 über Marktmissbrauch (EWR-Marktmissbrauchsverordnung-Durchführungsgesetz; EWR-MDG), LGBl. 2020 Nr. 155;\nu) Art. 10 Abs. 4 des Gesetzes vom 6. September 2019 zur Durchführung der Verordnung (EU) 2016/1011 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden (EWR-Referenzwert-Durchführungsgesetz; EWR-RWDG), LGBl. 2019 Nr. 255;\nv) Art. 9 Abs. 4 des Gesetzes vom 7. November 2019 zur Durchführung der Verordnung (EU) 2015/2365 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung (EWR-Wertpapierfinanzierungsgeschäfte-Durchführungsgesetz; EWR-WPFGDG), LGBl. 2019 Nr. 362;\nw) Art. 12 Abs. 4 des Gesetzes vom 11. März 2022 zur Durchführung der Verordnung (EU) 2019/2088 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor und der Verordnung (EU) 2020/852 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen (EWR-Finanzdienstleistungs-Nachhaltigkeits-Durchführungsgesetz; EWR-FNDG), LGBl. 2022 Nr. 120.\n2) Die Bezeichnung \"Verwaltungsstrafbot\" ist durch die Bezeichnung \"Strafverfügung\" in der jeweils grammatikalisch richtigen Form, zu ersetzen in: a) Art. 4 Abs. 1 Bst. v des Beschwerdekommissionsgesetzes vom 25. Oktober 2000, LGBl. 2000 Nr. 248;\nb) Art. 51a Abs. 2 des Gesetzes vom 23. Mai 1996 zum Schutz von Natur und Landschaft (Naturschutzgesetz; NSchG), LGBl. 1996 Nr. 117;\nc) Art. 9 Abs. 2 des Einführungs-Gesetzes vom 13. Mai 1924 zum Zollvertrag mit der Schweiz vom 29. März 1923, LGBl. 1924 Nr. 11;\nd) Art. 92 Abs. 2 des Umweltschutzgesetzes (USG) vom 29. Mai 2008, LGBl. 2008 Nr. 199;\ne) Art. 61a Abs. 2 des Gewässerschutzgesetzes (GSchG) vom 15. Mai 2003, LGBl. 2003 Nr. 159;\nf) Art. 64a Abs. 2 des Gesetzes vom 25. November 2010 über den Umgang mit genetisch veränderten, pathogenen oder gebietsfremden Organismen (Organismengesetz; OrgG), LGBl. 2011 Nr. 4;\ng) Art. 99 Abs. 4 des Gesetzes vom 14. Dezember 1952 über die Alters- und Hinterlassenenversicherung (AHVG), LGBl. 1952 Nr. 29;\nh) Art. 50a Abs. 2 des Waldgesetzes (WaldG) vom 25. März 1991, LGBl. 1991 Nr. 42;\ni) Art. 8 Abs. 3, Art. 9 Abs. 1 Bst. b, Art. 138 Abs. 3 und 4 des Gesetzes vom 21. April 1922 über die allgemeine Landesverwaltungspflege, LGBl. 1922 Nr. 24;\nk) Art. 149 Abs. 1 und Art. 151 Abs. 2 des Gesetzes vom 23. September 2010 über die Landes- und Gemeindesteuern (Steuergesetz; SteG), LGBl. 2010 Nr. 340;\nl) Art. 101 und 102 Abs. 2 des Gesetzes vom 22. Oktober 2009 über die Mehrwertsteuer (Mehrwertsteuergesetz; MWSTG), LGBl. 2009 Nr. 330;\nm) Art. 31 Abs. 1 und Art. 32 Abs. 3 des Gesetzes vom 5. November 2015 über den internationalen automatischen Informationsaustausch in Steuersachen (AIA-Gesetz), LGBl. 2015 Nr. 355;\nn) Art. 22 Abs. 1 und Art. 23 Abs. 3 des Gesetzes vom 4. November 2016 über den internationalen automatischen Austausch länderbezogener Berichte multinationaler Konzerne (CbC-Gesetz), LGBl. 2016 Nr. 502;\no) Art. 19 Abs. 1 und Art. 20 Abs. 3 des Gesetzes vom 4. Dezember 2014 über die Umsetzung des FATCA-Abkommens zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika (FATCA-Gesetz), LGBl. 2015 Nr. 7;\np) Art. 42 Abs. 1 und Art. 43 Abs. 3 des Gesetzes vom 8. November 2013 zum Abkommen zwischen Liechtenstein und Österreich über die Zusammenarbeit im Bereich der Steuern (AStA-Gesetz), LGBl. 2013 Nr. 434;\nq) Art. 24 Abs. 1 und Art. 26 Abs. 2 des Gesetzes vom 10. November 2023 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Gesetz), LGBl. 2023 Nr. 484;\nr) Art. 15 des Gesetzes vom 19. Mai 2005 zum Zinsbesteuerungsabkommen mit der Europäischen Gemeinschaft vom 7. Dezember 2004 (Zinsbesteuerungsgesetz, ZBStG), LGBl. 2005 Nr. 112;\ns) Art. 8 Abs. 1b des Gesetzes vom 15. März 2000 über die Entsendung von Arbeitnehmern im Rahmen der grenzüberschreitenden Erbringung von Dienstleistungen (Entsendegesetz; EntsG), LGBl. 2000 Nr. 88;\nt) Art. 98 Abs. 3 und 3a des Strassenverkehrsgesetzes (SVG) vom 30. Juni 1978, LGBl. 1978 Nr. 18.\n3) Die Bezeichnung \"Art. 147 bis 149 des Gesetzes über die allgemeine Landesverwaltungspflege\" ist durch die Bezeichnung \"Art. 53 ff. des Verwaltungsstrafgesetzes\", die Bezeichnung \"Art. 152 bis 159 des Gesetzes über die allgemeine Landesverwaltungspflege\" durch die Bezeichnung \"Art. 40 ff. des Verwaltungsstrafgesetzes\" zu ersetzen in: a) Art. 149 und 150 Abs. 1 des Gesetzes vom 23. September 2010 über die Landes- und Gemeindesteuern (Steuergesetz; SteG), LGBl. 2010 Nr. 340;\nb) Art. 31 des Gesetzes vom 5. November 2015 über den internationalen automatischen Informationsaustausch in Steuersachen (AIA-Gesetz), LGBl. 2015 Nr. 355;\nc) Art. 22 des Gesetzes vom 4. November 2016 über den internationalen automatischen Austausch länderbezogener Berichte multinationaler Konzerne (CbC-Gesetz), LGBl. 2016 Nr. 502;\nd) Art. 19 des Gesetzes vom 4. Dezember 2014 über die Umsetzung des FATCA-Abkommens zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika (FATCA-Gesetz), LGBl. 2015 Nr. 7;\ne) Art. 42 des Gesetzes vom 8. November 2013 zum Abkommen zwischen Liechtenstein und Österreich über die Zusammenarbeit im Bereich der Steuern (AStA-Gesetz), LGBl. 2013 Nr. 434;\nf) Art. 24 des Gesetzes vom 10. November 2023 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Gesetz), LGBl. 2023 Nr. 484;\ng) Art. 15 Abs. 2 des Gesetzes vom 19. Mai 2005 zum Zinsbesteuerungsabkommen mit der Europäischen Gemeinschaft vom 7. Dezember 2004 (Zinsbesteuerungsgesetz, ZBStG), LGBl. 2005 Nr. 112.\n4) Die Bezeichnung \"(Art. 149 LVG)\" ist durch die Bezeichnung \"(Art. 55 VStG)\", die Bezeichnung \"(Art. 147 LVG)\" durch die Bezeichnung \"(Art. 53 VStG)\" zu ersetzen in: a) Art. 151 Abs. 2 des Gesetzes vom 23. September 2010 über die Landes- und Gemeindesteuern (Steuergesetz; SteG), LGBl. 2010 Nr. 340;\nb) Art. 32 Abs. 3 des Gesetzes vom 5. November 2015 über den internationalen automatischen Informationsaustausch in Steuersachen (AIA-Gesetz), LGBl. 2015 Nr. 355;\nc) Art. 23 Abs. 3 des Gesetzes vom 4. November 2016 über den internationalen automatischen Austausch länderbezogener Berichte multinationaler Konzerne (CbC-Gesetz), LGBl. 2016 Nr. 502;\nd) Art. 20 Abs. 3 des Gesetzes vom 4. Dezember 2014 über die Umsetzung des FATCA-Abkommens zwischen dem Fürstentum Liechtenstein und den Vereinigten Staaten von Amerika (FATCA-Gesetz), LGBl. 2015 Nr. 7;\ne) Art. 26 Abs. 2 des Gesetzes vom 10. November 2023 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Gesetz), LGBl. 2023 Nr. 484;\nf) Art. 43 Abs. 3 des Gesetzes vom 8. November 2013 zum Abkommen zwischen Liechtenstein und Österreich über die Zusammenarbeit im Bereich der Steuern (AStA-Gesetz), LGBl. 2013 Nr. 434;\ng) Art. 102 Abs. 2 des Gesetzes vom 22. Oktober 2009 über die Mehrwertsteuer (Mehrwertsteuergesetz; MWSTG), LGBl. 2009 Nr. 330;\nh) Art. 15 Abs. 3 des Gesetzes vom 19. Mai 2005 zum Zinsbesteuerungsabkommen mit der Europäischen Gemeinschaft vom 7. Dezember 2004 (Zinsbesteuerungsgesetz, ZBStG), LGBl. 2005 Nr. 112;\ni) Art. 8 Abs. 1b des Gesetzes vom 15. März 2000 über die Entsendung von Arbeitnehmern im Rahmen der grenzüberschreitenden Erbringung von Dienstleistungen (Entsendegesetz; EntsG), LGBl. 2000 Nr. 88;\nk) Art. 98 Abs. 3 des Strassenverkehrsgesetzes (SVG) vom 30. Juni 1987, LGBl. 1978 Nr. 18."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "84",
+      "title": "Art. 84 Aufhebung bisherigen Rechts",
+      "content": "Art. 139 bis 165 und 167 des Gesetzes vom 21. April 1922 über die allgemeine Landesverwaltungspflege, LGBl. 1922 Nr. 24, in der geltenden Fassung, werden aufgehoben."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "85",
+      "title": "Art. 85 Übergangsbestimmung",
+      "content": "Auf im Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Verfahren findet das bisherige Recht Anwendung."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "VII. Übergangs- und Schlussbestimmungen",
+      "section": "86",
+      "title": "Art. 86 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am 1. Januar 2026 in Kraft.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Brigitte Haas\nFürstliche Regierungschefin\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 148/2024 und 18/2025"
+    }
+  ],
+  "definitions": []
+}

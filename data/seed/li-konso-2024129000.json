@@ -1,0 +1,63 @@
+{
+  "id": "li-konso-2024129000",
+  "type": "statute",
+  "title": "Verordnung vom 26. März 2024 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Verordnung)",
+  "title_en": "",
+  "short_name": "GloBE-Verordnung",
+  "status": "in_force",
+  "issued_date": "2024-03-26",
+  "in_force_date": "2024-03-26",
+  "url": "https://www.gesetze.li/konso/2024129000",
+  "description": "Verordnung vom 26. März 2024 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Verordnung)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Gegenstand",
+      "content": "Diese Verordnung regelt in Ausführung des GloBE-Gesetzes das Nähere über: a) den GloBE-Kommentar und die Administrativen Leitlinien zur Auslegung der GloBE-Mustervorschriften;\nb) die vereinfachte Ermittlung der Ergänzungssteuern;\nc) die Anerkennung ausländischer Ergänzungssteuern;\nd) die Steuererklärung für die Erhebung der liechtensteinischen Ergänzungssteuer und der IIR-Ergänzungssteuer;\ne) die GloBE-Erklärung."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 GloBE-Kommentar und Administrative Leitlinien zu den GloBE-Mustervorschriften",
+      "content": "Die GloBE-Mustervorschriften, die nach Art. 2 Abs. 1 des GloBE-Gesetzes Anwendung finden, sind auszulegen nach Massgabe: a) des GloBE-Kommentars (\"Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two)\" ); und\nb) der Administrativen Leitlinien zu den GloBE-Mustervorschriften (\"Tax Challenges Arising from the Digitalisation of the Economy - Administrative Guidance on the Global Anti-Base Erosion Model Rules (Pillar Two)\" )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Vereinfachte Ermittlung der Ergänzungssteuern",
+      "content": "1) Die Ermittlung der Ergänzungssteuern kann vereinfacht erfolgen (Art. 28 GloBE-Gesetz) nach Massgabe der folgenden in den Safe-Harbour- und Straferleichterungsregelungen (\"Safe Harbours and Penalty Relief: Global Anti-Base Erosion Rules (Pillar Two)\" ) enthaltenen Regelungen: a) \"Transitional CbCR Safe Harbour\"-Regelungen; und\nb) \"Permanent Safe Harbour\"-Regelungen.\n2) Die \"Transitional CbCR Safe Harbour\"-Regelungen nach Abs. 1 Bst. a finden ausschliesslich für Steuerjahre Anwendung, die am oder vor dem 31. Dezember 2026 beginnen; sie finden keine Anwendung für Steuerjahre, die nach dem 30. Juni 2028 enden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4 Anerkennung ausländischer Ergänzungssteuern",
+      "content": "Bei der Berechnung der IIR-Ergänzungssteuer nach Art. 8 des GloBE-Gesetzes werden ausländische Ergänzungssteuern als gleichwertig berücksichtigt, soweit sie vom zuständigen Gremium der OECD als gleichwertig anerkannt worden sind."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5 Steuererklärung für die Erhebung der liechtensteinischen Ergänzungssteuer und der IIR-Ergänzungssteuer",
+      "content": "1) Die Steuererklärung für die Erhebung der liechtensteinischen Ergänzungssteuer und der IIR-Ergänzungssteuer (Art. 13 Abs. 1 Bst. a und b GloBE-Gesetz) ist nach den Vorgaben der Steuerverwaltung einzureichen. Die Beilagen zur Steuererklärung und die weiteren einzureichenden Unterlagen müssen in deutscher oder englischer Sprache vorgelegt werden.\n2) Die Steuererklärung ist innert 15 Monaten nach Ablauf des Geschäftsjahres bei der Steuerverwaltung einzureichen; die erste Steuererklärung nach Eintritt der Unternehmensgruppe in den Anwendungsbereich der GloBE-Mustervorschriften muss innert 18 Monaten nach Ablauf des ersten Geschäftsjahres eingereicht werden. Die Steuerverwaltung kann auf begründetes schriftliches Gesuch die Einreichungsfrist verlängern.\n3) Inländische Geschäftseinheiten und freigestellte inländische Einheiten einer multinationalen Unternehmensgruppe oder einer grossen inländischen Gruppe haben der Steuerverwaltung nach Eintritt der Gruppe in den Anwendungsbereich der GloBE-Mustervorschriften innert zwölf Monaten nach Ablauf des Geschäftsjahres unaufgefordert eine entsprechende Mitteilung zu erstatten."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6 GloBE-Erklärung (\"GloBE Information Return\")",
+      "content": "1) Die GloBE-Erklärung (Art. 13 Abs. 1 Bst. c GloBE-Gesetz) hat die Informationen nach den GloBE-Mustervorschriften zu enthalten und ist nach Massgabe des GIR XML Schema der OECD, in der jeweils aktuellen Fassung, und unter Berücksichtigung der Vorgaben der Steuerverwaltung zu erstellen.\n2) Die GloBE-Erklärung ist innert 15 Monaten nach Ablauf des Geschäftsjahres bei der Steuerverwaltung einzureichen; die erste GloBE-Erklärung muss nach Eintritt der Unternehmensgruppe in den Anwendungsbereich der GloBE-Mustervorschriften innert 18 Monaten nach Ablauf des ersten Geschäftsjahres eingereicht werden."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "Art. 6a Partnerstaaten und Verteilungsansatz",
+      "content": "1) Die Partnerstaaten im Sinne des GloBE-Gesetzes sind im Anhang aufgeführt.\n2) Die Empfängerländer (\"Receiving Countries\") für die jeweiligen Abschnitte der GloBE-Erklärung sind entsprechend dem Verteilungsansatz nach dem anwendbaren Abkommen anzugeben."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7 Inkrafttreten",
+      "content": "Diese Verordnung tritt am Tag nach der Kundmachung in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\nAnhang\n(Art. 6a)\nListe der Partnerstaaten\nNr.\nPartnerstaat\nAnwendbarkeit für Berichts-wirtschaftsjahre ab\nLänderkürzel (\"Receiving- Country\")\nAnwendbares Abkommen\nVerteilungsansatz\n1.\nAustralien\n1. Januar 2024\nAU\nMAK/GIR MCAA\nUmsetzend\n2.\nBarbados\n1. Januar 2024\nBB\nMAK/GIR MCAA\nnur QDMTT\n3.\nBelgien\n1. Januar 2024\nBE\nMAK/GIR MCAA\nUmsetzend\n4.\nBulgarien\n1. Januar 2024\nBG\nMAK/GIR MCAA\nUmsetzend\n5.\nDänemark\n1. Januar 2024\nDK\nMAK/GIR MCAA\nUmsetzend\n6.\nDeutschland\n1. Januar 2024\nDE\nMAK/GIR MCAA\nUmsetzend\n7.\nFinnland\n1. Januar 2024\nFI\nMAK/GIR MCAA\nUmsetzend\n8.\nFrankreich\n1. Januar 2024\nFR\nMAK/GIR MCAA\nUmsetzend\n9.\nGibraltar\n1. Januar 2024\nGI\nMAK/GIR MCAA\nnur QDMTT\n10.\nGriechenland\n1. Januar 2024\nGR\nMAK/GIR MCAA\nUmsetzend\n11.\nIrland\n1. Januar 2024\nIE\nMAK/GIR MCAA\nUmsetzend\n12.\nItalien\n1. Januar 2024\nIT\nMAK/GIR MCAA\nUmsetzend\n13.\nJapan\n1. Januar 2024\nJP\nMAK/GIR MCAA\nUmsetzend\n14.\nKanada\n1. Januar 2024\nCA\nMAK/GIR MCAA\nUmsetzend\n15.\nKroatien\n1. Januar 2024\nHR\nMAK/GIR MCAA\nUmsetzend\n16.\nLuxemburg\n1. Januar 2024\nLU\nMAK/GIR MCAA\nUmsetzend\n17.\nNiederlande\n1. Januar 2024\nNL\nMAK/GIR MCAA\nUmsetzend\n18.\nNordmazedonien\n1. Januar 2024\nMK\nMAK/GIR MCAA\nUmsetzend\n19.\nNorwegen\n1. Januar 2024\nNO\nMAK/GIR MCAA\nUmsetzend\n20.\nÖsterreich\n1. Januar 2024\nAT\nMAK/GIR MCAA\nUmsetzend\n21.\nPolen\n1. Januar 2024\nPL\nMAK/GIR MCAA\nUmsetzend\n22.\nPortugal\n1. Januar 2024\nPT\nMAK/GIR MCAA\nUmsetzend\n23.\nRepublik\nKorea (Süd)\n1. Januar 2024\nKR\nMAK/GIR MCAA\nUmsetzend\n24.\nRumänien\n1. Januar 2024\nRO\nMAK/GIR MCAA\nUmsetzend\n25.\nSchweden\n1. Januar 2024\nSE\nMAK/GIR MCAA\nUmsetzend\n26.\nSchweiz\n1. Januar 2024\nCH\nMAK/GIR MCAA\nnur QDMTT\n27.\nSlowakei\n1. Januar 2024\nSK\nMAK/GIR MCAA\nnur QDMTT\n28.\nSlowenien\n1. Januar 2024\nSI\nMAK/GIR MCAA\nUmsetzend\n29.\nSpanien\n1. Januar 2024\nES\nMAK/GIR MCAA\nUmsetzend\n30.\nSüdafrika\n1. Januar 2024\nZA\nMAK/GIR MCAA\nUmsetzend\n31.\nTschechien\n1. Januar 2024\nCZ\nMAK/GIR MCAA\nUmsetzend\n32.\nTürkei\n1. Januar 2024\nTR\nMAK/GIR MCAA\nUmsetzend\n33.\nUngarn\n1. Januar 2024\nHU\nMAK/GIR MCAA\nUmsetzend\n34.\nVereinigtes\nKönigreich\n1. Januar 2024\nGB\nMAK/GIR MCAA\nUmsetzend\n35.\nVietnam\n1. Januar 2024\nVN\nMAK/GIR MCAA\nUmsetzend\nÜbergangs- und Inkrafttretensbestimmungen\n640.21 Verordnung über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Verordnung)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2024 Nr. 456 ausgegeben am 13. Dezember 2024\nVerordnung\nvom 10. Dezember 2024\nüber die Abänderung der GloBE-Verordnung\n...\nII.\nInkrafttreten\nDiese Verordnung tritt am Tag nach der Kundmachung in Kraft und findet erstmals auf Geschäftsjahre Anwendung, die am oder nach dem 1. Januar 2024 beginnen.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2025 Nr. 269 ausgegeben am 17. April 2025\nVerordnung\nvom 15. April 2025\nüber die Abänderung der GloBE-Verordnung\n...\nII.\nInkrafttreten\nDiese Verordnung tritt am Tag nach der Kundmachung in Kraft und findet erstmals auf Geschäftsjahre Anwendung, die am oder nach dem 1. Januar 2024 beginnen.\n...\n1\nArt. 1 Bst. e abgeändert durch LGBl. 2025 Nr. 598 .\n2\nDer GloBE-Kommentar ist auf der Internetseite der Steuerverwaltung unter www.stv.llv.li veröffentlicht.\n3\nDie Administrativen Leitlinien zu den GloBE-Mustervorschriften sind auf der Internetseite der Steuerverwaltung unter www.stv.llv.li veröffentlicht.\n4\nDie Safe-Harbour- und Straferleichterungsregelungen sind auf der Internetseite der Steuerverwaltung unter www.stv.llv.li veröffentlicht.\n5\nArt. 5 Abs. 2 abgeändert durch LGBl. 2025 Nr. 269 .\n6\nArt. 5 Abs. 3 abgeändert durch LGBl. 2025 Nr. 269 .\n7\nArt. 6 abgeändert durch LGBl. 2025 Nr. 598 .\n8\nArt. 6a eingefügt durch LGBl. 2025 Nr. 598 .\n9\nAnhang eingefügt durch LGBl. 2025 Nr. 598 .\n10\nMAK (Übereinkommen über die gegenseitige Amtshilfe in Steuersachen, LGBl. 2016 Nr. 397 ); GIR MCAA (Multilaterale Vereinbarung zwischen den zuständigen Behörden über den Austausch von GloBE-Informationen, LGBl. 2025 Nr. 578 ).\n11\nInkrafttreten: 14. Dezember 2024.\n12\nInkrafttreten: 18. April 2025."
+    }
+  ],
+  "definitions": []
+}

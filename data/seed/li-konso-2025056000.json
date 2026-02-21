@@ -1,0 +1,308 @@
+{
+  "id": "li-konso-2025056000",
+  "type": "statute",
+  "title": "Verordnung vom 14. Januar 2025 über Liechtensteinische Kommunikationsparameter im Bereich der elektronischen Kommunikation (Kommunikationsparameterverordnung; KomPV)",
+  "title_en": "",
+  "short_name": "KomPV",
+  "status": "in_force",
+  "issued_date": "2025-01-14",
+  "in_force_date": "2025-01-14",
+  "url": "https://www.gesetze.li/konso/2025056000",
+  "description": "Verordnung vom 14. Januar 2025 über Liechtensteinische Kommunikationsparameter im Bereich der elektronischen Kommunikation (Kommunikationsparameterverordnung; KomPV)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Diese Verordnung regelt die Verwaltung und Nutzung von Kommunikationsparametern nach Art. 48 des Gesetzes.\n2) Sie dient der Umsetzung folgender EWR-Rechtsvorschriften:\na) Richtlinie (EU) 2018/1972 über den europäischen Kodex für die elektronische Kommunikation ;\nb) Richtlinie 2002/77/EG über den Wettbewerb auf den Märkten für elektronische Kommunikationsnetze und -dienste .\n3) Die gültige Fassung der in Abs. 2 genannten EWR-Rechtsvorschriften ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieser Verordnung gelten als:\na) \"Nutzungsberechtigter\": ein gemeldeter Anbieter, dem das Recht zur Nutzung bestimmter Kommunikationsparameter eingeräumt wurde;\nb) \"IIN (Issuer Identifier Number)\": eine Identifikationsnummer für Aussteller von internationalen Telekommunikationskarten gemäss der ITU-T-Empfehlung E.118 und der ISO-Norm 7812-2;\nc) \"IMSI (International Mobile Subscriber Identity)\": eine internationale Kennung für mobile Teilnehmer zur Adressierung von Teilnehmern gemäss der ITU-T-Empfehlung E.212; die IMSI hat internationale Gültigkeit sowie Bedeutung und umfasst 15 Stellen (MCC + MNC + MSIN);\nd) \"ISPC (International Signalling Point Code)\": ein Code für die Adressierung von Signalisierungspunkten im internationalen Signalisierungsnetz Nr. 7 (SS7) nach der ITU-T-Empfehlung Q.708. Der NI für das internationale Zeichengabenetz ist gemäss ITU-T-Empfehlung Q.704 mit \"00\" gekennzeichnet und dient der Kennzeichnung von Vermittlungsstellen im internationalen Signalisierungsnetz;\ne) \"MCC (Mobile Country Code)\": eine Länderkennung gemäss der ITU-T-Empfehlung E.212, die zusammen mit dem MNC zur Identifizierung eines öffentlichen mobilen Kommunikationsnetzes dient; Liechtenstein wurde von der ITU-T der MCC 295 zugeteilt;\nf) \"MNC (Mobile Network Code)\": ein Identifikationscode für ein öffentliches mobiles Kommunikationsnetz nach der ITU-T-Empfehlung E.212; der MNC ist Bestandteil der IMSI;\ng) \"MNO (Mobile Network Operator)\": ein Anbieter, der ein Kommunikationsnetz mit eigenem Kern- und Zugangsnetz (Funknetz) betreibt und der öffentliche Mobilfunkdienste national oder landesweit anbietet;\nh) \"MSIN (Mobile Subscriber Identification Number)\": eine Identifikationsnummer bestehend aus 10 Stellen, um ein Mobiltelefon zu identifizieren; die MSIN ist Bestandteil der IMSI;\ni) \"MVNO (Mobile Virtual Network Operator)\": ein Anbieter, der Mobilfunkdienste (Sprache, Daten) unter eigenem Namen ohne eigenes Funknetz anbietet; Voraussetzung ist eine Kooperationsvereinbarung mit einem MNO;\nk) \"NI (Network Indicator)\": eine Netzkennzeichnungsnummer zur Unterscheidung der verschiedenen Signalisierungsnetze;\nl) \"NSPC (National Signalling Point Code)\": ein Code für die Adressierung von Signalisierungspunkten im nationalen Signalisierungsnetz Nr. 7 (SS7) nach der ITU-T-Empfehlung Q.705; der NI für das nationale Zeichengabenetz ist nach der ITU-T-Empfehlung Q.704 mit \"11\" und für das betreibereigene Signalisierungsnetz mit \"10\" gekennzeichnet;\nm) \"GSM (Global System for Mobile communication)\": ein digitaler Mobilfunk-Standard der zweiten Generation (2G);\nn) \"UMTS (Universal Mobile Telecommunications System)\": eine europäische Variante der Mobilfunksysteme der dritten Generation 3G (IMT2000);\no) \"LTE (Long Term Evolution)\": ein Mobilfunkstandard der vierten Generation (4G);\np) \"5G\": New Radio (NR); ein Mobilfunksystem der fünften Generation.\n2) Im Übrigen finden die Begriffsbestimmungen der anwendbaren EWR-Rechtsvorschriften, insbesondere der Richtlinien (EU) 2018/1972 und 2002/77/EG, ergänzend Anwendung.\n3) Unter den in dieser Verordnung verwendeten Personenbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen.\nII. Verwaltung und Nutzung von Kommunikationsparametern\nA. Allgemeines"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Allgemeines",
+      "section": "3",
+      "title": "Art. 3 Grundsatz",
+      "content": "1) Die Regulierungsbehörde sorgt für einen offenen und wirksamen Zugang zu Kommunikationsparametern unter Berücksichtigung der Förderung des Wettbewerbs, insbesondere durch:\na) objektive, transparente, wettbewerbsfördernde, nichtdiskriminierende und angemessene Zuteilungsverfahren;\nb) eine Zuteilung von Kommunikationsparametern, die für die vorgesehene Nutzung geeignet sind;\nc) die Schaffung und Erhaltung günstiger Wettbewerbsverhältnisse.\n2) Sie hat eine angemessene Planungs- und Rechtssicherheit durch Vorhersehbarkeit und Einheitlichkeit bei der Erteilung, Verlängerung, Änderung und Beschränkung sowie dem Widerruf von Nutzungsrechten an Kommunikationsparametern zu gewährleisten."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "A. Allgemeines",
+      "section": "4",
+      "title": "Art. 4 Nutzung",
+      "content": "1) Die Nutzung von Kommunikationsparametern ist nur nach Zuteilung eines Nutzungsrechts durch die Regulierungsbehörde zulässig.\n2) Die Nutzung aller nicht in dieser Verordnung oder den Plänen und Richtlinien der Regulierungsbehörde geregelten Kommunikationsparametern ist verboten.\nB. Zuteilung von Nutzungsrechten an Kommunikationsparameter"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "5",
+      "title": "Art. 5 Grundsatz",
+      "content": "1) Die Regulierungsbehörde teilt gemeldeten Anbietern Nutzungsrechte an Kommunikationsparametern auf Antrag mit Verfügung zu.\n2) Ein Anspruch auf die Zuteilung von Nutzungsrechten an bestimmten Kommunikationsparametern besteht nicht.\n3) Die Regulierungsbehörde schränkt die Zahl der gewährten Nutzungsrechte an Kommunikationsparametern nur so weit ein, wie dies für eine effiziente Nutzung der Kommunikationsparameter notwendig ist.\n4) Die Regulierungsbehörde kann Richtlinien über die Zuteilung von Nutzungsrechten an Kommunikationsparametern erlassen und in der Zuteilung weitere Nutzungsbedingungen vorsehen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "6",
+      "title": "Art. 6 Anträge",
+      "content": "1) Anträge auf Zuteilung von Nutzungsrechten an Kommunikationsparametern sind in deutscher Sprache sowie unter Verwendung der in elektronischer Form veröffentlichten Antragsformulare bei der Regulierungsbehörde einzubringen. Sie haben insbesondere folgende Angaben und Beilagen zu enthalten:\na) die Identität des Antragstellers;\nb) einen Bevollmächtigten oder zumindest eine Kontaktperson des Antragstellers sowie eine Zustelladresse im Inland;\nc) die Art des elektronischen Kommunikationsdienstes, für den die Kommunikationsparameter genutzt werden sollen;\nd) eine Beschreibung des technischen Zwecks, für den die Kommunikationsparameter genutzt werden sollen;\ne) eine graphische Darstellung mit den zu adressierenden Netzkomponenten, deren Netzumgebung und Angaben über den geographischen Standort der Netzkomponenten.\n2) Antragsteller mit Wohnsitz oder Sitz im Ausland müssen einen Zustellungsbevollmächtigten in Liechtenstein bezeichnen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "7",
+      "title": "Art. 7 Voraussetzungen",
+      "content": "1) Die Zuteilung von Nutzungsrechten an Kommunikationsparametern setzt voraus, dass:\na) der Antragsteller ein gemeldeter Anbieter nach Art. 19 des Gesetzes ist;\nb) die Kommunikationsparameter, deren Zuteilung beantragt wird, für die entsprechende Nutzung vorgesehen und verfügbar sind;\nc) der Antragsteller einen entsprechenden Bedarf für die beantragten Nutzungsrechte an Kommunikationsparameter nachweist;\nd) der Antragsteller über die erforderlichen Mittel, insbesondere technischer und wirtschaftlicher Natur, für die Nutzung der zugeteilten Kommunikationsparameter sowie für die Einhaltung der für sie geltenden Nutzungsbedingungen verfügt.\n2) Sind die Voraussetzungen nach Abs. 1 erfüllt, erfolgt die Zuteilung der Nutzungsrechte binnen sechs Wochen nach Erhalt des vollständigen Antrags."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "8",
+      "title": "Art. 8 Verweigerung",
+      "content": "Die Regulierungsbehörde kann die Zuteilung von Nutzungsrechten an Kommunikationsparametern verweigern, wenn:\na) Grund zur Annahme besteht, dass der Antragsteller die Kommunikationsparameter zu einem rechtswidrigen Zweck oder in rechtswidriger Weise missbrauchen wird;\nb) wichtige Gründe, insbesondere technische, oder die Einhaltung internationaler Vorschriften es erfordern;\nc) der Antragsteller zahlungsunfähig ist oder mit der Bezahlung von Gebühren für die Nutzung von Kommunikationsparametern in Verzug ist;\nd) der begründete Verdacht besteht, dass der Antragsteller nicht in der Lage ist, die an die Zuteilung geknüpften Bedingungen zu erfüllen;\ne) der begründete Verdacht besteht, dass der Antragsteller nicht in der Lage ist, die technischen oder wirtschaftlichen Voraussetzungen zu erfüllen;\nf) der Antragsteller in der Vergangenheit seine Pflichten gröblich oder wiederholt verletzt hat; oder\ng) die beabsichtigte Nutzung nicht mit der öffentlichen Ordnung und Sicherheit oder den Zwecken des Gesetzes vereinbar ist."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "9",
+      "title": "Art. 9 Nutzungsdauer",
+      "content": "1) Kommunikationsparameter werden in der Regel unbefristet zugeteilt. Die Zuteilung endet durch Verzicht oder Widerruf, bei befristeten oder auflösend bedingten Zuteilungen auch durch Zeitablauf oder Eintritt der Bedingung.\n2) Gewährt die Regulierungsbehörde Nutzungsrechte für Kommunikationsparameter für einen begrenzten Zeitraum, muss die Laufzeit im Hinblick auf das angestrebte Ziel unter gebührender Berücksichtigung eines angemessenen Zeitraums für die Amortisation der Investition für den jeweiligen Dienst angemessen sein."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "10",
+      "title": "Art. 10 Nutzungszweck",
+      "content": "1) Der Nutzungsberechtigte darf die zugeteilten Kommunikationsparameter nur für die bei der Zuteilung festgelegten Zwecke verwenden.\n2) Die Regulierungsbehörde kann für einzelne Kategorien von Kommunikationsparametern Beschränkungen hinsichtlich der Nutzung vorsehen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "11",
+      "title": "Art. 11 Registrierung",
+      "content": "Zugeteilte Kommunikationsparameter sind in das entsprechende Register aufzunehmen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "12",
+      "title": "Art. 12 Änderungen von Nutzungsrechten",
+      "content": "1) In begründeten Fällen können Rechte, Bedingungen und Verfahren im Zusammenhang mit Nutzungsrechten an Kommunikationsparameter auf Antrag oder von Amtes wegen nachträglich geändert werden. Allfällige besondere, für Nutzungsrechte für Kommunikationsparameter geltende Bedingungen sind zu berücksichtigen.\n2) Begründete Fälle nach Abs. 1 sind insbesondere:\na) Massnahmen der Regulierungsbehörde, um Umständen gerecht zu werden, die im Zeitpunkt der Zuteilung nicht bekannt oder nicht vorhanden waren;\nb) die Einhaltung internationaler Vorschriften;\nc) Anforderungen der gegenwärtigen oder zukünftigen Nutzung der zugeteilten Kommunikationsparameter;\nd) wesentliche Änderungen der rechtlichen oder tatsächlichen Verhältnisse.\n3) Änderungen von Zuteilungen erfolgen unter Wahrung einer angemessenen Frist. Sie begründen keinerlei Ansprüche der Nutzungsberechtigten.\n4) Änderungen von Nutzungsrechten an Kommunikationsparameter werden unter Angabe von Gründen veröffentlicht."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "13",
+      "title": "Art. 13 Widerruf",
+      "content": "1) Die Regulierungsbehörde kann jede Zuteilung von Kommunikationsparametern ganz oder teilweise widerrufen, wenn:\na) sie aufgrund falscher, unvollständiger oder irreführender Angaben erlangt wurde;\nb) der Nutzungsberechtigte seinen Verpflichtungen nicht nachkommt;\nc) eine Änderung der Vorschriften, internationalen Empfehlungen, Normen oder Harmonisierungen dies erfordert;\nd) der Nutzungsberechtigte nicht oder nicht mehr in der Lage ist, zugeteilte Kommunikationsparameter nach Massgabe der Nutzungsbedingungen zu nutzen oder diese während mehr als sechs Monaten nicht genutzt hat;\ne) die vorgesehene Nutzung nicht mehr mit der öffentlichen Ordnung und Sicherheit oder den Zwecken des Gesetzes vereinbar ist; oder\nf) das Staatsvertragsrecht dies erfordert.\n2) Als vorläufige Massnahme kann die Regulierungsbehörde anordnen, dass die betreffenden Kommunikationsparameter einstweilig ausser Betrieb gesetzt werden."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "B. Zuteilung von Nutzungsrechten an Kommunikationsparameter",
+      "section": "14",
+      "title": "Art. 14 Wirkung des Widerrufs",
+      "content": "1) Der Widerruf von Kommunikationsparametern ist vorbehaltlich abweichender Bestimmungen sofort wirksam.\n2) Die Regulierungsbehörde kann eine spätere Wirksamkeit des Widerrufs verfügen, wenn Endnutzer davon betroffen sind oder wichtige technische oder wirtschaftliche Gründe dies erfordern.\nC. Besondere Kommunikationsparameter\n1. ISPC (International Signalling Point Code)"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "1. ISPC (International Signalling Point Code)",
+      "section": "15",
+      "title": "Art. 15 Format",
+      "content": "Ein ISPC ist durch einen 14-Bit-Binärcode gekennzeichnet. Er setzt sich aus den folgenden drei Feldern zusammen, wobei die Aufzählung von links nach rechts gilt:\na) Ein 3-Bit-Feld kennzeichnet eine globale geografische Zone.\nb) Ein 8-Bit-Feld kennzeichnet eine geografische Zone oder ein Netz in einer bestimmten Weltzone.\nc) Ein 3-Bit-Feld kennzeichnet einen Signalisierungspunkt in einer geografischen Zone oder in einem bestimmten Netz."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. ISPC (International Signalling Point Code)",
+      "section": "16",
+      "title": "Art. 16 Zuteilung",
+      "content": "1) Die Regulierungsbehörde teilt Anbietern auf Antrag einen ISPC mit Verfügung zu.\n2) Der Antrag hat neben den Angaben nach Art. 6 insbesondere zu enthalten:\na) eine Bezeichnung und Beschreibung des Kommunikationsnetzes;\nb) den geografischen Standort des Signalisierungspunktes;\nc) die Marke und den Typ der vorgesehenen Vermittlungseinrichtung;\nd) ein Realisierungskonzept für internationale Anbindungen;\ne) die Benennung der zum Zeitpunkt der Beantragung bekannten Zusammenschaltungspartner.\n3) Ein ISPC darf nur auf Anlagen zum Einsatz kommen, welche physisch in Liechtenstein stehen und betrieben werden.\n4) In begründeten Fällen können einem Antragsteller auch mehrere ISPC zugeteilt werden, wenn er den Bedarf entsprechend nachweist."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. ISPC (International Signalling Point Code)",
+      "section": "17",
+      "title": "Art. 17 Nutzung",
+      "content": "Ein zugeteilter ISPC darf ausschliesslich für die Adressierung des in der Zuteilung angegebenen Signalisierungspunktes genutzt werden.\n2. NSPC (National Signalling Point Code)"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. NSPC (National Signalling Point Code)",
+      "section": "18",
+      "title": "Art. 18 Format",
+      "content": "Ein NSPC besteht aus einem 14-Bit-Binärcode."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. NSPC (National Signalling Point Code)",
+      "section": "19",
+      "title": "Art. 19 Zuteilung",
+      "content": "1) Die Regulierungsbehörde teilt Anbietern auf Antrag einen NSPC mit Verfügung zu.\n2) Der Antrag hat neben den Angaben nach Art. 6 insbesondere zu enthalten:\na) eine Bezeichnung und Beschreibung des Kommunikationsnetzes;\nb) den geografischen Standort der vorgesehenen Vermittlungseinrichtung.\n3. MNC (Mobile Network Code)"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. MNC (Mobile Network Code)",
+      "section": "20",
+      "title": "Art. 20 Format",
+      "content": "Ein MNC besteht aus zwei Ziffern (dezimal), welche die Werte 0 bis 9 annehmen können."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "3. MNC (Mobile Network Code)",
+      "section": "21",
+      "title": "Art. 21 Zuteilung",
+      "content": "1) Die Regulierungsbehörde teilt Anbietern auf Antrag einen oder mehrere MNC zur gemeinsamen Nutzung mit dem MCC 295 mit Verfügung zu, sofern der Antragsteller:\na) ein MNO ist und über individuelle Nutzungsrechte an liechtensteinischen Funkfrequenzen für den Betrieb eines landesweiten öffentlichen Mobilfunknetzes auf Basis der Mobilfunkstandards GSM, UMTS, LTE, 5G oder einer vergleichbaren zukünftigen Funktechnologie verfügt; oder\nb) ein MVNO ist, welcher die Kontrolle über wesentliche Netzfunktionen hat und mit einem Anbieter nach Bst. a eine Vereinbarung über die Nutzung von dessen Mobilfunknetz abgeschlossen und dies nachgewiesen hat.\n2) Der Antrag hat neben den Angaben nach Art. 6 insbesondere zu enthalten:\na) eine Bezeichnung und eine Projektbeschreibung des öffentlichen Mobilfunknetzes;\nb) eine graphische Darstellung des Netzes mit den wesentlichen Netzkomponenten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "3. MNC (Mobile Network Code)",
+      "section": "22",
+      "title": "Art. 22 Nutzung",
+      "content": "Ein zugeteilter MNC darf ausschliesslich für die Adressierung des in der Zuteilung angegebenen Mobilfunknetzes genutzt werden.\n4. IIN (Issuer Identifier Number)"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. IIN (Issuer Identifier Number)",
+      "section": "23",
+      "title": "Art. 23 Format",
+      "content": "Die IIN ist Teil der Identifikationsnummer einer Ausgabestelle von internationalen Telekommunikationskarten für elektronische Kommunikationsdienste."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. IIN (Issuer Identifier Number)",
+      "section": "24",
+      "title": "Art. 24 Zuteilung",
+      "content": "1) Die Regulierungsbehörde teilt Anbietern auf Antrag eine IIN mit Verfügung zu.\n2) Bei der Behandlung eines Antrags auf Zuteilung einer IIN handelt die Regulierungsbehörde als autorisierte Vermittlungsstelle gegenüber dem ITU-Telekommunikationsstandartisierungssektor (ITU-T)."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. IIN (Issuer Identifier Number)",
+      "section": "25",
+      "title": "Art. 25 Nutzung",
+      "content": "Eine zugeteilte IIN darf ausschliesslich für die in der Zuteilung angegebenen elektronischen Kommunikationsdienste genutzt werden.\nIII. Organisation und Durchführung"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "26",
+      "title": "Art. 26 Zuständigkeit",
+      "content": "1) Der Vollzug dieser Verordnung obliegt dem Amt für Kommunikation als Regulierungsbehörde.\n2) Der Regulierungsbehörde kommen insbesondere folgende Aufgaben zu:\na) die Verwaltung der Kommunikationsparameter;\nb) die Aufsicht über die Nutzung von Kommunikationsparametern."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "27",
+      "title": "Art. 27 Verfahren",
+      "content": "Sofern in dieser Verordnung nichts anderes bestimmt ist, richten sich die Verfahren nach dem Gesetz über die allgemeine Landesverwaltungspflege."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "III. Organisation und Durchführung",
+      "section": "28",
+      "title": "Art. 28 Zusammenarbeit und Koordination",
+      "content": "1) Die Regulierungsbehörde unterstützt die Vereinheitlichung der Zuweisung von Kommunikationsparametern im Europäischen Wirtschaftsraum (EWR), soweit dies für die Entwicklung europaweiter Dienste erforderlich ist.\n2) Soweit es zur Sicherstellung der umfassenden globalen Interoperabilität der Dienste angebracht ist, koordiniert die Regulierungsbehörde ihre Standpunkte in internationalen Organisationen und Gremien, in denen Beschlüsse über Aspekte der Vergabe von Kommunikationsparametern in elektronischen Kommunikationsnetzen und -diensten gefasst werden, mit anderen Staaten.\nIV. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "IV. Übergangs- und Schlussbestimmungen",
+      "section": "29",
+      "title": "Art. 29 Hängige Verfahren",
+      "content": "Auf zum Zeitpunkt des Inkrafttretens dieser Verordnung hängige Verfahren findet das neue Recht Anwendung."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "IV. Übergangs- und Schlussbestimmungen",
+      "section": "30",
+      "title": "Art. 30 Bestehende Nutzungsrechte",
+      "content": "1) Die im Zeitpunkt des Inkrafttretens dieser Verordnung bestehenden Nutzungsrechte an Identifikationsmitteln (Kommunikationsparameter) bleiben aufrecht.\n2) Die Regulierungsbehörde hat bestehende Nutzungsrechte an Identifikationsmitteln (Kommunikationsparameter) erforderlichenfalls an die Bestimmungen dieser Verordnung anzupassen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "IV. Übergangs- und Schlussbestimmungen",
+      "section": "31",
+      "title": "Art. 31 Inkrafttreten",
+      "content": "Diese Verordnung tritt gleichzeitig mit dem Beschluss des Gemeinsamen EWR-Ausschusses Nr. 275/2021 vom 24. September 2021 zur Änderung von Anhang XI (Elektronische Kommunikation, audiovisuelle Dienste und Informationsgesellschaft) des EWR-Abkommens in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef\n1\nRichtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom 17.12.2018, S. 36)\n2\nRichtlinie 2002/77/EG der Kommission vom 16. September 2002 über den Wettbewerb auf den Märkten für elektronische Kommunikationsnetze und -dienste (ABl. L 249 vom 17.9.2002, S. 21)\n3\nVgl. itu.int/en/ITU-T/inr/forms/Pages/iin.aspx\n4\nVgl. itu.int/ITU-T/worksem/ip-telecoms/e164/e212.pdf\n5\nVgl. itu.int/rec/T-REC-Q.708/en und itu.int/rec/T-REC-Q.704\n6\nVgl. itu.int/rec/T-REC-E.212/en\n7\nVgl. itu.int/ITU-T/worksem/ip-telecoms/e164/e212.pdf\n8\nVgl. itu.int/rec/T-REC-Q.705/en und itu.int/rec/T-REC-Q.704/\n9\nInkrafttreten: 1. Februar 2025 ( LGBl. 2025 Nr. 45 )."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nutzungsberechtigter",
+      "definition": "ein gemeldeter Anbieter, dem das Recht zur Nutzung bestimmter Kommunikationsparameter eingeräumt wurde;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "IIN (Issuer Identifier Number)",
+      "definition": "eine Identifikationsnummer für Aussteller von internationalen Telekommunikationskarten gemäss der ITU-T-Empfehlung E.118 und der ISO-Norm 7812-2;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "IMSI (International Mobile Subscriber Identity)",
+      "definition": "eine internationale Kennung für mobile Teilnehmer zur Adressierung von Teilnehmern gemäss der ITU-T-Empfehlung E.212; die IMSI hat internationale Gültigkeit sowie Bedeutung und umfasst 15 Stellen (MCC + MNC + MSIN);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "ISPC (International Signalling Point Code)",
+      "definition": "ein Code für die Adressierung von Signalisierungspunkten im internationalen Signalisierungsnetz Nr. 7 (SS7) nach der ITU-T-Empfehlung Q.708. Der NI für das internationale Zeichengabenetz ist gemäss ITU-T-Empfehlung Q.704 mit \"00\" gekennzeichnet und dient der Kennzeichnung von Vermittlungsstellen im internationalen Signalisierungsnetz;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "MCC (Mobile Country Code)",
+      "definition": "eine Länderkennung gemäss der ITU-T-Empfehlung E.212, die zusammen mit dem MNC zur Identifizierung eines öffentlichen mobilen Kommunikationsnetzes dient; Liechtenstein wurde von der ITU-T der MCC 295 zugeteilt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "MNC (Mobile Network Code)",
+      "definition": "ein Identifikationscode für ein öffentliches mobiles Kommunikationsnetz nach der ITU-T-Empfehlung E.212; der MNC ist Bestandteil der IMSI;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "MNO (Mobile Network Operator)",
+      "definition": "ein Anbieter, der ein Kommunikationsnetz mit eigenem Kern- und Zugangsnetz (Funknetz) betreibt und der öffentliche Mobilfunkdienste national oder landesweit anbietet;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "MSIN (Mobile Subscriber Identification Number)",
+      "definition": "eine Identifikationsnummer bestehend aus 10 Stellen, um ein Mobiltelefon zu identifizieren; die MSIN ist Bestandteil der IMSI;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "MVNO (Mobile Virtual Network Operator)",
+      "definition": "ein Anbieter, der Mobilfunkdienste (Sprache, Daten) unter eigenem Namen ohne eigenes Funknetz anbietet; Voraussetzung ist eine Kooperationsvereinbarung mit einem MNO;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "NI (Network Indicator)",
+      "definition": "eine Netzkennzeichnungsnummer zur Unterscheidung der verschiedenen Signalisierungsnetze;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "NSPC (National Signalling Point Code)",
+      "definition": "ein Code für die Adressierung von Signalisierungspunkten im nationalen Signalisierungsnetz Nr. 7 (SS7) nach der ITU-T-Empfehlung Q.705; der NI für das nationale Zeichengabenetz ist nach der ITU-T-Empfehlung Q.704 mit \"11\" und für das betreibereigene Signalisierungsnetz mit \"10\" gekennzeichnet;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "GSM (Global System for Mobile communication)",
+      "definition": "ein digitaler Mobilfunk-Standard der zweiten Generation (2G);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "UMTS (Universal Mobile Telecommunications System)",
+      "definition": "eine europäische Variante der Mobilfunksysteme der dritten Generation 3G (IMT2000);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "LTE (Long Term Evolution)",
+      "definition": "ein Mobilfunkstandard der vierten Generation (4G);",
+      "source_provision": "art2"
+    },
+    {
+      "term": "5G",
+      "definition": "New Radio (NR); ein Mobilfunksystem der fünften Generation.",
+      "source_provision": "art2"
+    }
+  ]
+}

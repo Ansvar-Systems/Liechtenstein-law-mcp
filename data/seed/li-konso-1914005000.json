@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1914005000",
+  "type": "statute",
+  "title": "Verordnung vom 25. Mai 1914 betreffend die Einführung eines Strafregisterblattes für das Verfahren in einfachen Übertretungsfällen beim Fürstlich Liechtensteinischen Landgericht Vaduz",
+  "title_en": "",
+  "short_name": "LGBl 1914.005",
+  "status": "in_force",
+  "issued_date": "1914-05-25",
+  "in_force_date": "1914-05-25",
+  "url": "https://www.gesetze.li/konso/1914005000",
+  "description": "Verordnung vom 25. Mai 1914 betreffend die Einführung eines Strafregisterblattes für das Verfahren in einfachen Übertretungsfällen beim Fürstlich Liechtensteinischen Landgericht Vaduz",
+  "provisions": [
+    {
+      "provision_ref": "par1",
+      "section": "1",
+      "title": "§ 1",
+      "content": "In einfachen Übertretungsfällen ist das Verhandlungsprotokoll in Form eines Strafregisterblattes nach dem beigeschlossenen Formulare zu führen."
+    },
+    {
+      "provision_ref": "par2",
+      "section": "2",
+      "title": "§ 2",
+      "content": "Ein Strafregisterblatt darf nur für einen Straffall verwendet werden. Es bildet einen Bestandteil des betreffenden Strafaktes und ist mit demselben zu registrieren."
+    },
+    {
+      "provision_ref": "par3",
+      "section": "3",
+      "title": "§ 3",
+      "content": "1) Was im Strafregisterblatt anzuführen ist, zeigen die Überschriften der einzelnen Rubriken.\n2) Zu denselben wird bemerkt: In Rubrik II ist die unter Anklage gestellte Tat kurz zu bezeichnen.\n3) Rubrik III hat die wesentlichen Momente aus der Verantwortung der angeklagten Person zu enthalten. Gesteht dieselbe die ihr zur Last gelegte Handlung ein, ist nur das Wort \"Geständnis\" einzutragen.\n4) Rubrik IV soll den Gang des Verfahrens ersichtlich machen und die Ergebnisse des Beweisverfahrens in möglichst gedrängter Darstellung enthalten.\n5) Die zur Verlesung gebrachten Aktenstücke sind kurz zu bezeichnen und aus den Aussagen der Zeugen und Sachverständigen nur die entscheidenden Punkte anzuführen.\n6) Bei den Zeugen und Sachverständigen sind Vor- und Zuname, Alter, Stand, Gewerbe und Aufenthaltsort anzugeben. Der Umstand, ob ein Zeuge oder Sachverständiger beeidet wurde, ist ebenfalls anzuführen.\n7) In Rubrik V sind die Schlussanträge der Parteien und deren allfällige Zwischenanträge, welchen nicht stattgegeben wurde, zu protokollieren.\n8) Rubrik VI ist nach den Bestimmungen des § 307 alinea 3 der Strafprozessordnung vom 31. Dezember 1913 LGBl. 1914 Nr. 3 auszufüllen und darin auch die Rechtsmittelbelehrung anzumerken."
+    },
+    {
+      "provision_ref": "par4",
+      "section": "4",
+      "title": "§ 4",
+      "content": "1) Das Strafregisterblatt ist vom Richter und Protokollführer zu fertigen.\n2) Eine Unterfertigung von den Parteien, Zeugen und Sachverständigen findet nicht statt.\n3) Die für die Parteien bestimmte Abschrift des Strafregisterblattes wird nur vom Richter unterschrieben.\nVaduz, den 25. Mai 1914\nFürstliche Regierung:\nLeopold Freiherr von Imhof m. p.\nFürstlicher Landesverweser\nStrafregisterblatt\ndes Fürstlich Liechtensteinischen Landgerichtes in Vaduz\n(§ 307 StPO)\n1\nLGBl. 1914 Nr. 3 aufgehoben durch LGBl. 1988 Nr. 62 , LR 312.0."
+    }
+  ],
+  "definitions": []
+}

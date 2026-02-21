@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-1978004000",
+  "type": "statute",
+  "title": "Gesetz vom 19. Dezember 1977 über die Änderung der Gemeindegrenze Vaduz/Schaan",
+  "title_en": "",
+  "short_name": "LGBl 1978.004",
+  "status": "in_force",
+  "issued_date": "1977-12-19",
+  "in_force_date": "1977-12-19",
+  "url": "https://www.gesetze.li/konso/1978004000",
+  "description": "Gesetz vom 19. Dezember 1977 über die Änderung der Gemeindegrenze Vaduz/Schaan",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Die von den Bürgerversammlungen der Gemeinden Vaduz und Schaan beschlossene Änderung der gemeinsamen Gemeindegrenze gemäss dem Situationsplan im Massstab 1 : 2 000 und der dazugehörigen wegleitenden Grenzbeschreibung, die im Landesarchiv, in den beiden Gemeindearchiven und beim Amt für Justiz hinterlegt sind, wird im Sinne von Art. 4 der Verfassung vom 5. Oktober 1921 und Art. 1 Abs. 2 des Gemeindegesetzes vom 2. Dezember 1959 genehmigt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Die Kosten der Vermarkung und ihres Unterhaltes haben die Gemeinden Vaduz und Schaan halbscheidig zu tragen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dieses Gesetz tritt am Tage seiner Kundmachung in Kraft.\ngez. Franz Josef\ngez. Dr. Walter Kieber\nFürstlicher Regierungschef\n1\nArt. 1 abgeändert durch LGBl. 2013 Nr. 6 ."
+    }
+  ],
+  "definitions": []
+}

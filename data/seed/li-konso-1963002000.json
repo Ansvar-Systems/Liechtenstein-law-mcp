@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-1963002000",
+  "type": "statute",
+  "title": "Gesetz vom 4. Dezember 1962 zum Schutze des Namens des Fürstenhauses",
+  "title_en": "",
+  "short_name": "LGBl 1963.002",
+  "status": "in_force",
+  "issued_date": "1962-12-04",
+  "in_force_date": "1962-12-04",
+  "url": "https://www.gesetze.li/konso/1963002000",
+  "description": "Gesetz vom 4. Dezember 1962 zum Schutze des Namens des Fürstenhauses",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wer den Namen des Fürstenhauses missbraucht oder sich anmasst,\nwer die Zugehörigkeit zum Fürstenhaus vortäuscht oder sonst vorgibt,\nwer, ohne Mitglied des Fürstenhauses zu sein, Handlungen setzt, die den Anschein einer Zugehörigkeit zum Fürstenhaus erwecken,\nwer einen Auftrag des Landesfürsten oder der Fürstlichen Regierung vortäuscht,\nwird, sofern nicht der Tatbestand eines Verbrechens erfüllt ist, vom Landgericht wegen Vergehens mit einer Freiheitsstrafe bis zu einem Jahr oder einer Geldstrafe bis zu 360 Tagessätzen bestraft."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Hat ein Ausländer im Auslande ein Vergehen im Sinne von Art. 1 begangen, so ist er wie ein Inländer nach diesem Gesetze zu behandeln."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dieses Gesetz wird als nicht dringlich erklärt und tritt am Tage seiner Kundmachung in Kraft.\ngez. Franz Josef\ngez. Dr. Gerard Batliner\nFürstlicher Regierungschef\n1\nArt. 1 abgeändert durch LGBl. 1988 Nr. 38 ."
+    }
+  ],
+  "definitions": []
+}

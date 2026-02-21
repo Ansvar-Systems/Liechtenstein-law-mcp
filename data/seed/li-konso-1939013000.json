@@ -1,0 +1,27 @@
+{
+  "id": "li-konso-1939013000",
+  "type": "statute",
+  "title": "Verfassungsgesetz vom 2. September 1939 betreffend Bevollmächtigung der Regierung zur Anordnung kriegswirtschaftlicher Massnahmen",
+  "title_en": "",
+  "short_name": "LGBl 1939.013",
+  "status": "in_force",
+  "issued_date": "1939-09-02",
+  "in_force_date": "1939-09-02",
+  "url": "https://www.gesetze.li/konso/1939013000",
+  "description": "Verfassungsgesetz vom 2. September 1939 betreffend Bevollmächtigung der Regierung zur Anordnung kriegswirtschaftlicher Massnahmen",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Angesichts des Ernstes der internationalen Lage bevollmächtigt der Landtag die fürstliche Regierung zur Vornahme und Verfügung aller ihr geeignet erscheinenden Massnahmen zur Ordnung der liechtensteinischen Wirtschaft und Sicherung der Deckung der Lebensbedürfnisse des liechtensteinischen Volkes. Insbesondere wird die Regierung ermächtigt, schweizerische Gesetze und Verordnungen, die kriegswirtschaftliche Massnahmen beinhalten, für Liechtenstein anwendbar zu erklären."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dieses Gesetz wird als dringlich erklärt und tritt mit dem Tage der Kundmachung in Kraft.\nVaduz, am 2. September 1939\ngez. Franz Josef\nFürstliche Regierung:\ngez. Dr. Hoop"
+    }
+  ],
+  "definitions": []
+}

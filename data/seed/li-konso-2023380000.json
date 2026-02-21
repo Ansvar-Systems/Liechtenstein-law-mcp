@@ -1,0 +1,33 @@
+{
+  "id": "li-konso-2023380000",
+  "type": "statute",
+  "title": "Finanzausgleichsverordnung (FinAV) vom 3. Oktober 2023",
+  "title_en": "",
+  "short_name": "LGBl 2023.380",
+  "status": "in_force",
+  "issued_date": "2023-10-03",
+  "in_force_date": "2023-10-03",
+  "url": "https://www.gesetze.li/konso/2023380000",
+  "description": "Finanzausgleichsverordnung (FinAV) vom 3. Oktober 2023",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1 Akontozahlungen",
+      "content": "1) Unbeschadet Art. 13 Abs. 1 des Gesetzes leistet oder erhebt die Regierung an die bzw. von den Gemeinden jeweils per Ende Juni und September eines Jahres Akontozahlungen in Höhe von 45 % der Finanzausgleichszahlungen nach Abs. 2.\n2) Die Höhe der Akontozahlungen richtet sich nach den effektiven Finanzausgleichszahlungen des Vorjahres der jeweiligen Gemeinde."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2 Übergangsbestimmung",
+      "content": "Die Höhe der Akontozahlungen für das Rechnungsjahr 2024 richtet sich nach den Finanzausgleichszahlungen, die sich im Vorjahr bei Anwendung des neuen Finanzausgleichsgesetzes ergeben hätten."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2024 in Kraft.\nFürstliche Regierung:\ngez. Dr. Daniel Risch\nFürstlicher Regierungschef"
+    }
+  ],
+  "definitions": []
+}

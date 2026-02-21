@@ -1,0 +1,342 @@
+{
+  "id": "li-konso-2013358000",
+  "type": "statute",
+  "title": "Gesetz vom 6. September 2013 über die Reduktion der CO",
+  "title_en": "",
+  "short_name": "CO2-Gesetz",
+  "status": "in_force",
+  "issued_date": "2013-09-06",
+  "in_force_date": "2013-09-06",
+  "url": "https://www.gesetze.li/konso/2013358000",
+  "description": "Gesetz vom 6. September 2013 über die Reduktion der CO2-Emissionen (CO2-Gesetz)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Art. 1 Zweck",
+      "content": "Dieses Gesetz bezweckt: a) die Durchführung des Vertrages und der Vereinbarung zum Vertrag vom 29. Januar 2010 zwischen dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft betreffend die Umweltabgaben im Fürstentum Liechtenstein, in der jeweils geltenden Fassung;\nb) die Verminderung von Treibhausgasemissionen, insbesondere von CO2-Emissionen;\nc) die Verminderung anderer schädlicher Einwirkungen auf die Umwelt;\nd) die Schaffung von Anreizen zur sparsamen und rationellen Energienutzung sowie zum verstärkten Einsatz erneuerbarer Energien."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als: a) \"fossile Brennstoffe\": fossile Energieträger, die zur Gewinnung von Wärme, zur Erzeugung von Licht, in thermischen Anlagen zur Stromproduktion oder für den Betrieb von Wärme-Kraft-Kopplungsanlagen (WKK-Anlagen) verwendet werden;\nb) \"fossile Treibstoffe\": fossile Energieträger, die in Verbrennungsmotoren zur Krafterzeugung eingesetzt werden;\nc) \"nationale Bescheinigungen\": in Liechtenstein handelbare Bescheinigungen über in Liechtenstein nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistung;\nd) \"internationale Bescheinigungen\": Bescheinigungen über im Ausland nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistungen nach dem Klimaübereinkommen vom 12. Dezember 2015;\ne) \"Senkenleistung\": die anrechenbare Entnahme von CO 2 aus der Atmosphäre und dessen dauerhafte Bindung in Kohlenstoffspeichern.\n2) Die Regierung bezeichnet die Treibhausgase mit Verordnung.\n3) Unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen sind alle Personen unabhängig ihres Geschlechts zu verstehen, sofern sich die Personenbezeichnungen nicht ausdrücklich auf ein bestimmtes Geschlecht beziehen."
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2a",
+      "title": "Art. 2a Einmalige Anrechnung",
+      "content": "Erzielte Emissionsverminderungen und Erhöhungen der Senkenleistung dürfen nur einmal an die Erfüllung von Pflichten nach diesem Gesetz angerechnet werden."
+    },
+    {
+      "provision_ref": "art2b",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2b",
+      "title": "Art. 2b Internationale Bescheinigungen",
+      "content": "1) Die Regierung legt mit Verordnung die Anforderungen fest, die im Ausland erzielte Emissionsverminderungen und Erhöhungen der Senkenleistung erfüllen müssen, damit die dafür ausgestellten internationalen Bescheinigungen in Liechtenstein berücksichtigt werden.\n2) Die Anforderungen müssen insbesondere folgenden Kriterien entsprechen: a) Emissionsverminderungen und Erhöhungen der Senkenleistung dürfen nur angerechnet werden, wenn sie ohne die Unterstützung durch das Land nicht zustande gekommen wären.\nb) Emissionsverminderungen und Erhöhungen der Senkenleistung in wenig entwickelten Ländern müssen zur nachhaltigen Entwicklung vor Ort beitragen und dürfen weder negative soziale noch negative ökologische Folgen bewirken.\n3) Die Regierung kann mit Verordnung vorsehen, dass: a) internationale Bescheinigungen für erzielte Erhöhungen der Senkenleistung nicht berücksichtigt werden, wenn die dauerhafte Bindung von CO 2 in Kohlenstoffspeichern nicht gewährleistet werden kann;\nb) in Übereinstimmung mit dem Klimaübereinkommen vom 12. Dezember 2015 bei der Ausstellung von internationalen Bescheinigungen ein Anteil der erzielten Emissionsverminderungen oder Erhöhungen der Senkenleistung nicht berücksichtigt wird."
+    },
+    {
+      "provision_ref": "art2c",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2c",
+      "title": "Art. 2c Nationale Bescheinigungen",
+      "content": "Die Regierung legt mit Verordnung die Anforderungen fest, die in Liechtenstein erzielte Emissionsverminderungen und Erhöhungen der Senkenleistung erfüllen müssen, damit für diese nationale Bescheinigungen ausgestellt werden."
+    },
+    {
+      "provision_ref": "art2d",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2d",
+      "title": "Art. 2d Koordination der Anpassungsmassnahmen",
+      "content": "1) Das Amt für Umwelt koordiniert die Massnahmen zur Vermeidung und Bewältigung von Schäden an Personen oder an Sachen von erheblichem Wert, die sich als Folge der erhöhten Treibhausgaskonzentration in der Atmosphäre ergeben können.\n2) Es sorgt für die Erarbeitung und Beschaffung von Grundlagen, die für das Ergreifen dieser Massnahmen notwendig sind.\nII. CO 2 -Abgabe\n1. Abgabenerhebung"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abgabenerhebung",
+      "section": "3",
+      "title": "Art. 3 CO 2 -Abgabe auf fossilen Brennstoffen",
+      "content": "1) Auf die Herstellung, Gewinnung und Einfuhr von fossilen Brennstoffen wird eine CO 2 -Abgabe erhoben.\n2) Der Abgabesatz beträgt je Tonne CO 2 36 Franken. Die Regierung kann den Abgabesatz unter Berücksichtigung der massgebenden Gesetzgebung in der Schweiz mit Verordnung bis auf höchstens 120 Franken erhöhen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abgabenerhebung",
+      "section": "4",
+      "title": "Art. 4 Abgabepflicht",
+      "content": "Abgabepflichtig sind: a) für die Abgabe auf Kohle: die bei der Einfuhr nach dem schweizerischen Zollgesetz anmeldepflichtigen Personen sowie die Hersteller und Erzeuger im Inland;\nb) für die Abgabe auf den übrigen fossilen Energieträgern: die nach dem schweizerischen Mineralölsteuergesetz (MinöStG) steuerpflichtigen Personen.\n2. Rückerstattung der CO 2 -Abgabe an Unternehmen mit Verpflichtung zur Verminderung der Treibhausgasemissionen"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Rückerstattung der CO 2 -Abgabe an Unternehmen mit Verpflichtung zur Verminderung der Treibhausgasemissionen",
+      "section": "5",
+      "title": "Art. 5 Verminderungsverpflichtung",
+      "content": "1) Unternehmen, die eine Anlage betreiben, wird die CO 2 -Abgabe auf Gesuch hin zurückerstattet, wenn sie sich gegenüber dem Bundesamt für Umwelt (BAFU) verpflichten, die Treibhausgasemissionen bis zum Jahr 2040 in einem bestimmten Umfang zu vermindern (Verminderungsverpflichtung).\n2) Eine Verminderungsverpflichtung kann eingegangen werden, wenn die folgenden Voraussetzungen erfüllt sind: a) Die Verminderungsverpflichtung umfasst alle Anlagen an einem Standort.\nb) Die Anlagen werden für wirtschaftliche oder öffentlich-rechtliche Tätigkeiten verwendet.\nc) Das Unternehmen hat eine Zielvereinbarung nach Art. 41 oder 46 des schweizerischen Energiegesetzes (EnG) abgeschlossen, in der die Treibhausgasemissionen und Massnahmen zur Verminderung dieser Emissionen festgehalten sind.\n3) Die Verminderungsverpflichtung dauert bis Ende 2040 und enthält Zielwerte für die Zeitspannen 2025 bis 2030 und 2031 bis 2040.\n4) Unternehmen, die ihren Sitz in Liechtenstein haben, können sich für die Verminderungsverpflichtung zu Gemeinschaften zusammenschliessen. Für eine Gemeinschaft gelten dieselben Rechte und Pflichten wie für ein einzelnes Unternehmen.\n5) Die Regierung kann mit Verordnung vorsehen, dass der Einsatz von leitungsgebundenem Erdgas an die Erfüllung der Verminderungsverpflichtung angerechnet wird, wenn: a) für die verbrauchte Menge an Erdgas erneuerbares Gas im Ausland produziert, eingekauft und ins europäische Netz eingespeist wurde;\nb) keine Doppelzählungen in Bezug auf das erneuerbare Gas gemacht werden;\nc) die Anrechnung zur Verminderung der Treibhausgasemissionen ausschliesslich in Liechtenstein erfolgt; und\nd) das erneuerbare Gas die Anforderungen nach Art. 35d des schweizerischen Umweltschutzgesetzes erfüllt."
+    },
+    {
+      "provision_ref": "art5a",
+      "chapter": "2. Rückerstattung der CO 2 -Abgabe an Unternehmen mit Verpflichtung zur Verminderung der Treibhausgasemissionen",
+      "section": "5a",
+      "title": "Art. 5a Berichterstattung und Dekarbonisierungsplan",
+      "content": "Unternehmen mit einer Verminderungsverpflichtung müssen den zuständigen schweizerischen Behörden: a) jährlich Bericht erstatten über die Einhaltung der Zielvereinbarung;\nb) innerhalb von drei Jahren ab Beginn der Verminderungsverpflichtung einen Plan einreichen, in dem sie aufzeigen, mit welchen Massnahmen sie bis spätestens Ende 2040 die Treibhausgasemissionen aus der energetischen Nutzung fossiler Brennstoffe massgeblich reduzieren (Dekarbonisierungsplan), und diesen alle drei Jahre aktualisieren."
+    },
+    {
+      "provision_ref": "art5b",
+      "chapter": "2. Rückerstattung der CO 2 -Abgabe an Unternehmen mit Verpflichtung zur Verminderung der Treibhausgasemissionen",
+      "section": "5b",
+      "title": "Art. 5b Vorzeitige Beendigung der Verminderungsverpflichtung",
+      "content": "1) Unternehmen mit einer Verminderungsverpflichtung können die vorzeitige Beendigung ihrer Verminderungsverpflichtung auf folgende Zeitpunkte hin beantragen: a) per 31. Dezember 2030; oder\nb) auf Ende des Kalenderjahres, in dem sie für ihre Tätigkeiten im Regelbetrieb keine fossilen Brennstoffe mehr energetisch nutzen.\n2) Die Verminderungsverpflichtung wird zudem vorzeitig beendet, wenn das Unternehmen keinen Dekarbonisierungsplan einreicht oder keine Zielvereinbarung mehr besteht.\n3) Unternehmen, die ihre Verminderungsverpflichtung vorzeitig beenden, können keine neue Verminderungsverpflichtung mehr eingehen."
+    },
+    {
+      "provision_ref": "art5c",
+      "chapter": "2. Rückerstattung der CO 2 -Abgabe an Unternehmen mit Verpflichtung zur Verminderung der Treibhausgasemissionen",
+      "section": "5c",
+      "title": "Art. 5c Ausführungsbestimmungen",
+      "content": "Die Regierung regelt unter Berücksichtigung der massgebenden Gesetzgebung in der Schweiz mit Verordnung: a) die Anforderungen an die Verminderungsverpflichtungen und die Dekarbonisierungspläne;\nb) in welchen Fällen eine Tätigkeit als wirtschaftliche Tätigkeit gilt;\nc) welche öffentlich-rechtlichen Tätigkeiten zum Eingehen einer Verminderungsverpflichtung berechtigen;\nd) die Art und den Umfang der Zielwerte;\ne) in welchen Fällen Unternehmen mit geringeren Treibhausgasemissionen den Umfang der Verminderungsverpflichtung mit einem vereinfachten Modell festlegen können;\nf) in welchen Fällen die Verminderungsverpflichtung in welchem Umfang durch die Abgabe von nationalen oder internationalen Bescheinigungen erfüllt werden kann."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Rückerstattung der CO 2 -Abgabe an Unternehmen mit Verpflichtung zur Verminderung der Treibhausgasemissionen",
+      "section": "6",
+      "title": "Art. 6 Sanktionen",
+      "content": "Unternehmen mit einer Verminderungsverpflichtung, die ihre Zielwerte nicht einhalten, müssen dem Land im Folgejahr pro zu viel ausgestossene Tonne CO 2 eq: a) einen Betrag von 125 Franken entrichten; und\nb) eine nationale oder internationale Bescheinigung abgeben.\n3. Rückerstattung der CO 2 -Abgabe an WKK-Anlagen betreibende Unternehmen, die weder am Emissionshandel teilnehmen noch eine Verminderungsverpflichtung eingegangen sind"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Rückerstattung der CO 2 -Abgabe an WKK-Anlagen betreibende Unternehmen, die weder am Emissionshandel teilnehmen noch eine Verminderungsverpflichtung eingegangen sind",
+      "section": "7",
+      "title": "Art. 7 WKK-Anlagen betreibende Unternehmen",
+      "content": "1) WKK-Anlagen betreibende Unternehmen, die weder in den Anwendungsbereich des Emissionshandelsgesetzes fallen noch eine Verminderungsverpflichtung eingegangen sind, wird die CO 2 -Abgabe auf Gesuch hin ganz oder teilweise zurückerstattet, wenn die Anlage: a) hauptsächlich auf die Erzeugung von Wärme ausgelegt ist;\nb) eine Feuerungswärmeleistung innerhalb einer bestimmten Bandbreite aufweist; und\nc) die energetischen, ökologischen und anderen Mindestanforderungen erfüllt.\n2) Unternehmen, denen die CO 2 -Abgabe zurückerstattet wird, müssen den zuständigen schweizerischen Behörden regelmässig Bericht erstatten über: a) die Menge der für die Erzeugung von Elektrizität verwendeten fossilen Brennstoffe; und\nb) die Kosten für die Massnahmen zur Steigerung der Energieeffizienz.\n3) Die Regierung kann mit Verordnung weitere Angaben vorsehen, soweit diese für die Beurteilung der Rückerstattung erforderlich sind.\n4) Die Regierung legt die Mindestanforderungen an die WKK-Anlagen und die Bandbreite für die Feuerungswärmeleistung mit Verordnung fest."
+    },
+    {
+      "provision_ref": "art7a",
+      "chapter": "3. Rückerstattung der CO 2 -Abgabe an WKK-Anlagen betreibende Unternehmen, die weder am Emissionshandel teilnehmen noch eine Verminderungsverpflichtung eingegangen sind",
+      "section": "7a",
+      "title": "Art. 7a Umfang der Rückerstattung",
+      "content": "1) Zurückerstattet werden 60 % der CO 2 -Abgabe auf den fossilen Brennstoffen, für die das Unternehmen nachweist, dass sie für die Erzeugung von Elektrizität eingesetzt wurden.\n2) Die restlichen 40 % werden zurückerstattet, wenn das Unternehmen nachweist, dass es im Umfang eines gleichwertigen Betrags Massnahmen zur Steigerung der Energieeffizienz der eigenen oder anderer Anlagen, die aus der Anlage Elektrizität oder Wärme beziehen (Effizienzmassnahmen), ergriffen hat.\n3) Die Regierung regelt die Einzelheiten mit Verordnung, insbesondere: a) welche Effizienzmassnahmen zur Rückerstattung berechtigen;\nb) bis wann die Effizienzmassnahmen ergriffen werden müssen;\nc) die Berichterstattung.\n4. Rückerstattung der CO 2 -Abgabe bei nicht energetischer Nutzung und bei Teilnahme am Emissionshandel"
+    },
+    {
+      "provision_ref": "art7b",
+      "chapter": "4. Rückerstattung der CO 2 -Abgabe bei nicht energetischer Nutzung und bei Teilnahme am Emissionshandel",
+      "section": "7b",
+      "title": "Art. 7b Grundsatz",
+      "content": "1) Auf Gesuch hin wird die CO 2 -Abgabe zurückerstattet: a) an Personen, die nachweisen, dass sie fossile Brennstoffe nicht energetisch genutzt haben;\nb) an Unternehmen, die in den Anwendungsbereich des Emissionshandelsgesetzes fallen.\n2) Die Regierung kann die Rückerstattung der CO 2 -Abgabe mit Verordnung ausschliessen, wenn sie gemessen an ihrem Betrag einen unverhältnismässigen Aufwand erfordern würde.\n5. Verfahren"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "5. Verfahren",
+      "section": "8",
+      "title": "Art. 8 Verfahren",
+      "content": "1) Für die Erhebung und die Rückerstattung der CO 2 -Abgabe gelten die Verfahrensbestimmungen der schweizerischen Mineralölsteuergesetzgebung. Vorbehalten bleibt Abs. 2.\n2) Bei der Ein- und Ausfuhr von Kohle gelten die Verfahrensbestimmungen der schweizerischen Zollgesetzgebung.\nIII. Pflicht zur Kompensation von CO 2 -Emissionen bei fossilen Treibstoffen"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "III. Pflicht zur Kompensation von CO 2 -Emissionen bei fossilen Treibstoffen",
+      "section": "9",
+      "title": "Art. 9 Kompensationspflicht",
+      "content": "1) Steuerpflichtige Personen nach Art. 9 des schweizerischen Mineralölsteuergesetzes, die fossile Treibstoffe in den steuerrechtlich freien Verkehr überführen, müssen einen Teil der CO 2 -Emissionen, die bei der energetischen Nutzung der Treibstoffe entstehen, kompensieren.\n2) Ausgenommen sind fossile Treibstoffe, die von der Mineralölsteuer befreit sind oder einem begünstigten Steuersatz unterliegen.\n3) Die Regierung kann mit Verordnung die Überführung von geringen Mengen fossiler Treibstoffe in den steuerrechtlich freien Verkehr von der Kompensationspflicht ausnehmen. Sie orientiert sich dabei an der massgebenden Gesetzgebung in der Schweiz.\n4) Die steuerpflichtigen Personen können sich zur Erfüllung der Kompensationspflicht zu Gemeinschaften zusammenschliessen. Für eine Gemeinschaft gelten dieselben Rechte und Pflichten wie für eine einzelne steuerpflichtige Person.\n5) Die Regierung kann mit den kompensationspflichtigen Personen vereinbaren, auf die Durchführung von Kompensationsmassnahmen zu verzichten, wenn sie dem Land einen Betrag entrichten, der den Kosten je kompensierter Tonne CO 2 des jeweiligen Jahres in der Schweiz entspricht."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III. Pflicht zur Kompensation von CO 2 -Emissionen bei fossilen Treibstoffen",
+      "section": "10",
+      "title": "Art. 10 Anteil der zu kompensierenden Emissionen und maximaler Kompensationsaufschlag",
+      "content": "1) Der Anteil der zu kompensierenden CO 2 -Emissionen beträgt mindestens 5 % und höchsten 90 %.\n2) Die Regierung legt den Prozentsatz nach Abs. 1 unter Berücksichtigung der massgebenden Gesetzgebung in der Schweiz mit Verordnung fest und bestimmt den Anteil der im Inland durchzuführenden Kompensationsmassnahmen.\n3) Der Kompensationsaufschlag auf fossile Treibstoffe darf im Durchschnitt der Jahre 2021 bis 2030 höchstens 5 Rappen pro Liter betragen."
+    },
+    {
+      "provision_ref": "art10a",
+      "chapter": "III. Pflicht zur Kompensation von CO 2 -Emissionen bei fossilen Treibstoffen",
+      "section": "10a",
+      "title": "Art. 10a Berichterstattung",
+      "content": "Die steuerpflichtigen Personen müssen den zuständigen schweizerischen Behörden jährlich Bericht über die Erfüllung der Kompensationspflicht erstatten, insbesondere über: a) die durch die Kompensation der CO 2 -Emissionen entstandenen Kosten; und\nb) die Höhe des Kompensationsaufschlags."
+    },
+    {
+      "provision_ref": "art10b",
+      "chapter": "III. Pflicht zur Kompensation von CO 2 -Emissionen bei fossilen Treibstoffen",
+      "section": "10b",
+      "title": "Art. 10b Sanktionen",
+      "content": "Wer die Kompensationspflicht nach Art. 9 Abs. 1 nicht erfüllt, muss dem Land im Folgejahr pro nicht kompensierte Tonne CO 2 : a) einen Betrag von 160 Franken entrichten; und\nb) eine nationale oder internationale Bescheinigung abgeben.\nIV. Verminderung der CO 2 -Emissionen von Fahrzeugen"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "11",
+      "title": "Art. 11 Zielwerte",
+      "content": "1) Die durchschnittlichen CO 2 -Emissionen von Personenwagen, Lieferwagen und leichten Sattelschleppern dürfen die nachstehenden Werte nicht übersteigen: a) für Personenwagen, die in den Jahren 2025 bis 2029 erstmals in Verkehr gesetzt werden: 93,6 g CO 2 /km;\nb) für Lieferwagen und leichte Sattelschlepper, die in den Jahren 2025 bis 2029 erstmals in Verkehr gesetzt werden: 153,9 g CO 2 /km;\nc) für Personenwagen, die ab 2030 erstmals in Verkehr gesetzt werden: 49,5 g CO 2 /km;\nd) für Lieferwagen und leichte Sattelschlepper, die ab 2030 erstmals in Verkehr gesetzt werden: 90,6 g CO 2 /km.\n2) Die durchschnittlichen CO 2 -Emissionen von schweren Fahrzeugen dürfen - bezogen auf den massgebenden Ausgangswert der Europäischen Union für den Zeitraum vom 1. Juli 2019 bis zum 30. Juni 2020 - die folgenden Prozentsätze nicht übersteigen: a) für schwere Fahrzeuge, die in den Jahren 2025 bis 2029 erstmals in Verkehr gesetzt werden: 85 %;\nb) für schwere Fahrzeuge, die ab 2030 erstmals in Verkehr gesetzt werden: 70 %.\n3) Die Regierung kann mit Verordnung Zwischenziele vorsehen.\n4) Die Regierung regelt mit Verordnung, für welche Personenwagen, Lieferwagen und leichten Sattelschlepper sowie schweren Fahrzeuge (Fahrzeuge) die Zielwerte gelten, und legt die anwendbare Methode zur Ermittlung der CO 2 -Emissionen fest. Sie berücksichtigt dabei die Regelungen der Europäischen Union.\n5) Die Regierung beobachtet die Entwicklung der CO 2 -Emissionen im realen Fahrbetrieb. Nimmt die Abweichung zwischen den mit der anwendbaren Methode ermittelten CO 2 -Emissionen und jenen im realen Fahrbetrieb zu, so kann sie geeignete Massnahmen ergreifen."
+    },
+    {
+      "provision_ref": "art11a",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "11a",
+      "title": "Art. 11a",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "12",
+      "title": "Art. 12 Individuelle Zielvorgabe",
+      "content": "1) Importeure und Hersteller von Fahrzeugen müssen die durchschnittlichen CO 2 -Emissionen ihrer Fahrzeuge, die im jeweiligen Jahr erstmals in Verkehr gesetzt werden (Neuwagenflotte), gemäss einer individuellen Zielvorgabe begrenzen.\n2) Die Berechnungsmethode, nach der die individuelle Zielvorgabe berechnet wird, richtet sich nach der massgebenden Gesetzgebung in der Schweiz.\n3) Es bilden je eine eigene Neuwagenflotte: a) die Personenwagen;\nb) die Lieferwagen und die leichten Sattelschlepper;\nc) die schweren Fahrzeuge.\n4) Umfasst die Neuwagenflotte eines Importeurs oder Herstellers jährlich höchstens 49 Personenwagen, fünf Lieferwagen oder leichte Sattelschlepper oder ein schweres Fahrzeug, so wird die individuelle Zielvorgabe für jedes Fahrzeug separat berechnet.\n5) Importeure und Hersteller können sich zur Erfüllung der individuellen Zielvorgabe zu Emissionsgemeinschaften zusammenschliessen. Für eine Emissionsgemeinschaft gelten dieselben Rechte und Pflichten wie für einen einzelnen Importeur oder Hersteller.\n6) Importeure und Hersteller, die sich nicht zu einer Emissionsgemeinschaft zusammengeschlossen haben, können untereinander Fahrzeuge nicht abtreten."
+    },
+    {
+      "provision_ref": "art12a",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "12a",
+      "title": "Art. 12a CO 2 -vermindernde Faktoren bei Neuwagenflotten durch den Einsatz von erneuerbaren synthetischen Treibstoffen",
+      "content": "1) Importeure und Hersteller von Fahrzeugen können beantragen, dass die CO 2 -Verminderung, die durch die Verwendung erneuerbarer synthetischer Treibstoffe erzielt wird, bei der Berechnung der CO 2 -Emissionen ihrer Neuwagenflotte berücksichtigt wird. Sie müssen hierfür Nachweise vorlegen, aus denen hervorgeht, welche Menge solcher Treibstoffe ihnen welcher Inverkehrbringer vertraglich zurechnet.\n2) Die erneuerbaren synthetischen Treibstoffe müssen die Anforderungen nach Art. 35d des schweizerischen Umweltschutzgesetzes erfüllen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "13",
+      "title": "Art. 13 Berechnung der individuellen Zielvorgabe und der durchschnittlichen CO 2 -Emissionen",
+      "content": "1) Das schweizerische Bundesamt für Energie (BFE) berechnet am Ende des jeweiligen Jahres für jeden Importeur oder Hersteller: a) die individuelle Zielvorgabe;\nb) die durchschnittlichen CO 2 -Emissionen der betreffenden Neuwagenflotte.\n2) Die Regierung legt mit Verordnung fest, welche Angaben die Importeure oder Hersteller machen müssen. Sie legt insbesondere die Anforderungen an die einzureichenden Unterlagen zur Bestimmung der Fahrzeugdaten fest, die zur Berechnung der individuellen Zielvorgabe und der durchschnittlichen CO 2 -Emissionen verwendet werden.\n3) Die Regierung kann mit Verordnung vorsehen, dass für die Berechnung der durchschnittlichen CO 2 -Emissionen nach Abs. 1 Bst. b ein pauschaler Emissionswert angewendet wird, wenn die Angaben nicht innerhalb einer bestimmten Frist eingereicht werden. Sie bestimmt die Frist für die Einreichung der Angaben und legt den pauschalen Emissionswert fest.\n4) Die Regierung kann bei einer Veränderung der Zielwerte unter Berücksichtigung der massgebenden Gesetzgebung in der Schweiz Bestimmungen erlassen, die das Erreichen der individuellen Zielvorgabe während einer begrenzten Zeit erleichtern."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "14",
+      "title": "Art. 14 Sanktion bei Überschreiten der individuellen Zielvorgabe",
+      "content": "1) Überschreiten die durchschnittlichen CO 2 -Emissionen der Neuwagenflotte eines Importeurs oder Herstellers die individuelle Zielvorgabe, so muss der Hersteller oder Importeur pro im jeweiligen Kalenderjahr erstmals in Verkehr gesetztes Fahrzeug folgenden Betrag entrichten: a) bei einer Neuwagenflotte von Personenwagen oder von Lieferwagen und leichten Sattelschleppern: für jedes Gramm CO 2 /km, das über der individuellen Zielvorgabe liegt, zwischen 95 und 152 Franken;\nb) bei einer Neuwagenflotte von schweren Fahrzeugen: für jedes Gramm CO 2 pro Tonnenkilometer, das über der individuellen Zielvorgabe liegt: 1. in den Jahren 2025 bis 2029: zwischen 4250 und 6800 Franken;\n2. ab dem Jahr 2030: zwischen 6800 und 10 880 Franken.\n2) Die Beträge nach Abs. 1 Bst. c werden für jedes Jahr von der Regierung mit Verordnung in Übereinstimmung mit der massgebenden Gesetzgebung in der Schweiz neu festgelegt.\n3) Für Importeure und Hersteller nach Art. 12 Abs. 4 gelten die Beträge nach den Abs. 1 und 2 für jedes einzelne Fahrzeug, dessen CO 2 -Emissionen die individuelle Zielvorgabe überschreiten. Führen einzelne gestützt auf Art. 13 Abs. 4 erlassene Bestimmungen dazu, dass Importeure und Hersteller nach Art. 12 Abs. 4 wegen der für sie geltenden besonderen Regeln zur Festlegung der Zielvorgabe gegenüber den übrigen Herstellern oder Importeuren benachteiligt wären, so kann die Sanktion für die Betroffenen gemindert werden.\n4) Die Mitglieder von Emissionsgemeinschaften haften solidarisch.\n5) Im Übrigen gelten die Art. 10 und 11 MinöStG sinngemäss.\n6) Die Regierung kann mit Verordnung vorsehen, dass in den Verkaufsunterlagen für Fahrzeuge der Betrag anzugeben ist, der nach Massgabe der Abs. 1 bis 3 zu entrichten wäre, wenn die Sanktion aufgrund der CO 2 -Emissionen des einzelnen Fahrzeugs festgesetzt würde."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "IV. Verminderung der CO 2 -Emissionen von Fahrzeugen",
+      "section": "15",
+      "title": "Art. 15 Verfahren",
+      "content": "Die Regierung regelt das Verfahren für den Vollzug der Sanktion mit Verordnung.\nV. Verwendung der Erträge"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "V. Verwendung der Erträge",
+      "section": "16",
+      "title": "Art. 16 Verwendung des Ertrages aus der CO 2 -Abgabe auf fossilen Brennstoffen",
+      "content": "1) Der Ertrag aus der CO 2 -Abgabe auf fossilen Brennstoffen fällt vorbehaltlich Abs. 2 dem Land zu.\n2) Zwei Drittel der von der Wirtschaft entrichteten Beträge wird den Arbeitgebern über die Liechtensteinische Alters- und Hinterlassenenversicherung (AHV) ausgerichtet; massgebend ist die Lohnsumme auf die der Arbeitgeber nach Art. 4 Abs. 3 des Arbeitslosenversicherungsgesetzes Beiträge an die Arbeitslosenversicherung entrichtet. Die AHV wird angemessen entschädigt.\n3) Unternehmen, die eine Verminderungsverpflichtung eingegangen sind, erhalten keinen Anteil aus dem Ertrag der CO 2 -Abgabe.\n4) Die Regierung regelt Art und Verfahren der Rückverteilung mit Verordnung."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "V. Verwendung der Erträge",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "V. Verwendung der Erträge",
+      "section": "18",
+      "title": "Art. 18 Berechnung des Ertrags aus der CO 2 -Abgabe",
+      "content": "Der Ertrag aus der CO 2 -Abgabe berechnet sich aus den Einnahmen abzüglich der Vollzugskosten.\nVI. Vollzugsorganisation und Kontrollen"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "VI. Vollzugsorganisation und Kontrollen",
+      "section": "19",
+      "title": "Art. 19 Vollzug",
+      "content": "1) Die in der Schweiz für den Vollzug der CO 2 -Gesetzgebung zuständigen Bundesbehörden vollziehen dieses Gesetz auf der Grundlage der Vereinbarung zum Vertrag vom 29. Januar 2010 zwischen dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft betreffend die Umweltabgaben im Fürstentum Liechtenstein; hiervon ausgenommen sind: a) die Bestimmungen über die Verteilung und Verwendung des Abgabenertrages; und\nb) die Bestimmungen zur Kompensation bei fossilen Treibstoffen.\n2) Das Amt für Umwelt unterstützt die Bundesbehörden beim Vollzug dieses Gesetzes. Es kann bei der Erfüllung seiner Aufgaben die Dienste Dritter in Anspruch nehmen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VI. Vollzugsorganisation und Kontrollen",
+      "section": "20",
+      "title": "Art. 20 Kontrollen",
+      "content": "1) Die Vollzugsbehörden können jederzeit unangemeldet Kontrollen durchführen, insbesondere bei Abgabenpflichtigen sowie bei Personen und/oder Unternehmen, die ein Rückerstattungsgesuch stellen.\n2) Den Vollzugsbehörden sind auf Verlangen alle Auskünfte zu erteilen und alle Bücher, Geschäftspapiere, elektronische Daten und Urkunden vorzulegen, die für den Vollzug dieses Gesetzes und der dazu erlassenen Verordnungen von Bedeutung sind.\n3) Jedermann ist verpflichtet, nötigenfalls Abklärungen durchzuführen oder zu dulden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "VI. Vollzugsorganisation und Kontrollen",
+      "section": "21",
+      "title": "Art. 21 Geheimhaltung",
+      "content": "Alle mit dem Vollzug dieses Gesetzes und der dazu erlassenen Verordnungen beauftragten Personen und Experten unterstehen dem Amtsgeheimnis.\nVII. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "22",
+      "title": "Art. 22 Hinterziehung der CO 2 -Abgabe",
+      "content": "1) Wer vorsätzlich sich oder einer anderen Person einen unrechtmässigen Abgabevorteil verschafft, namentlich die Abgabe hinterzieht, oder eine Abgabebefreiung, -vergütung oder -rückerstattung unrechtmässig erwirkt, wird mit Busse bis zum Dreifachen des unrechtmässigen Vorteils bestraft.\n2) Versuch und Gehilfenschaft sind strafbar.\n3) Wer durch fahrlässiges Verhalten sich oder einer anderen Person einen unrechtmässigen Abgabenvorteil erwirkt, wird mit Busse bis zum Betrag des unrechtmässigen Vorteils bestraft."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "23",
+      "title": "Art. 23 Gefährdung der CO 2 -Abgabe",
+      "content": "1) Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht ist, wird mit Busse bestraft, wer vorsätzlich oder fahrlässig: a) sich gesetzeswidrig nicht als abgabepflichtige Person meldet;\nb) Geschäftsbücher, Belege, Geschäftspapiere und sonstige Aufzeichnungen nicht ordnungsgemäss führt, ausfertigt, aufbewahrt oder vorlegt oder seiner Auskunftspflicht nicht nachkommt;\nc) in einem Antrag auf Abgabebefreiung, -vergütung oder -rückerstattung oder als auskunftspflichtige Person unwahre Angaben macht, erhebliche Tatsachen verschweigt oder über solche Tatsachen unwahre Belege vorlegt;\nd) für die Abgabeerhebung massgebende Daten und Gegenstände nicht oder unrichtig deklariert;\ne) in Rechnungen oder anderen Dokumenten eine nicht oder nicht in dieser Höhe bezahlte CO 2 -Abgabe ausweist; oder\nf) die ordnungsgemässe Durchführung einer Kontrolle erschwert, behindert oder verunmöglicht.\n2) In schweren Fällen oder bei Rückfall kann eine Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Betrag der gefährdeten Abgabe ausgesprochen werden."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "24",
+      "title": "Art. 24 Falschangaben über Fahrzeuge",
+      "content": "1) Wer für die Berechnung nach Art. 13 vorsätzlich falsche Angaben macht, wird mit Busse bis zu 30 000 Franken bestraft.\n2) Handelt der Täter fahrlässig, so ist die Strafe Busse."
+    },
+    {
+      "provision_ref": "art24a",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "24a",
+      "title": "Art. 24a Übrige Widerhandlungen",
+      "content": "1) Mit Busse bis 30 000 Franken wird bestraft, wer vorsätzlich: a) falsche oder unvollständige Angaben im Hinblick auf die Ausstellung von Bescheinigungen macht;\nb) im Bericht nach Art. 10a falsche oder unvollständige Angaben macht oder der Berichterstattungspflicht gar nicht nachkommt.\n2) Handelt der Täter fahrlässig, so ist die Strafe Busse."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "VII. Strafbestimmungen",
+      "section": "25",
+      "title": "Art. 25 Verhältnis zum Verwaltungsstrafrecht",
+      "content": "1) Widerhandlungen werden nach dem schweizerischen Bundesgesetz über das Verwaltungsstrafrecht verfolgt und beurteilt.\n2) Verfolgende und urteilende Behörde ist: a) für Widerhandlungen nach den Art. 22 und 23: das Bundesamt für Zoll und Grenzsicherheit (BAZG);\nb) für Widerhandlungen nach Art. 24: das BFE;\nc) für Widerhandlungen nach Art. 24a: das BAFU.\n3) Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach Art. 22 oder 23 und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse oder einer Zollwiderhandlung, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt und angemessen erhöht.\nVIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "26",
+      "title": "Art. 26 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "27",
+      "title": "Art. 27 Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben: a) Gesetz vom 16. Dezember 2009 über die Reduktion der CO 2 -Emissionen (CO 2 -Gesetz), LGBl. 2010 Nr. 19;\nb) Gesetz vom 24. Mai 2012 über die Abänderung des CO 2 -Gesetzes, LGBl. 2012 Nr. 194;\nc) Gesetz vom 19. September 2012 über die Abänderung des CO 2 -Gesetzes, LGBl. 2012 Nr. 347."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "28",
+      "title": "Art. 28 Übergangsbestimmung für die Rückerstattung der CO 2 -Abgabe",
+      "content": "1) Auf fossile Energieträger, die nach dem 1. Januar 2013 und vor Inkrafttretens dieses Gesetzes in den zoll- und steuerrechtlich freien Verkehr überführt worden sind, wird die CO 2 -Abgabe gemäss dem Notenaustausch zwischen Liechtenstein und der Schweiz im Hinblick auf die Änderung der Vereinbarung vom 29. Januar 2010 zum Vertrag zwischen dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft betreffend die Umweltabgaben im Fürstentum Liechtenstein infolge der in der Schweiz ab 1. Januar 2013 geltenden CO 2 -Gesetzgebung und den Bestimmungen dieses Gesetzes zurückerstattet.\n2) Auf fossilen Energieträgern, die vor dem 1. Januar 2013 in den steuerrechtlich freien Verkehr überführt worden sind, wird die CO 2 -Abgabe nach bisherigem Recht zurückerstattet."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "29",
+      "title": "Art. 29 Inkrafttreten",
+      "content": "Dieses Gesetz tritt gleichzeitig mit der Vereinbarung vom 11. Juli 2013 zur Änderung der Vereinbarung vom 29. Januar 2010 zum Vertrag zwischen dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft betreffend die Umweltabgaben im Fürstentum Liechtenstein in Kraft.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nBericht und Antrag der Regierung Nr. 38/2013\n2\nArt. 2 abgeändert durch LGBl. 2024 Nr. 482 .\n3\nArt. 2a abgeändert durch LGBl. 2024 Nr. 482 .\n4\nArt. 2b abgeändert durch LGBl. 2024 Nr. 482 .\n5\nArt. 2c eingefügt durch LGBl. 2024 Nr. 482 .\n6\nArt. 2d eingefügt durch LGBl. 2024 Nr. 482 .\n7\nÜberschrift vor Art. 3 eingefügt durch LGBl. 2024 Nr. 482 .\n8\nArt. 3 Sachüberschrift abgeändert durch LGBl. 2024 Nr. 482 .\n9\nArt. 3 Abs. 1 abgeändert durch LGBl. 2024 Nr. 482 .\n10\nÜberschrift vor Art. 5 eingefügt durch LGBl. 2024 Nr. 482 .\n11\nArt. 5 abgeändert durch LGBl. 2024 Nr. 482 .\n12\nArt. 5a abgeändert durch LGBl. 2024 Nr. 482 .\n13\nArt. 5b eingefügt durch LGBl. 2024 Nr. 482 .\n14\nArt. 5c eingefügt durch LGBl. 2024 Nr. 482 .\n15\nArt. 6 abgeändert durch LGBl. 2024 Nr. 482 .\n16\nÜberschrift vor Art. 7 eingefügt durch LGBl. 2024 Nr. 482 .\n17\nArt. 7 abgeändert durch LGBl. 2024 Nr. 482 .\n18\nArt. 7a abgeändert durch LGBl. 2024 Nr. 482 .\n19\nÜberschrift vor Art. 7b eingefügt durch LGBl. 2024 Nr. 482 .\n20\nArt. 7b abgeändert durch LGBl. 2024 Nr. 482 .\n21\nÜberschrift vor Art. 8 eingefügt durch LGBl. 2024 Nr. 482 .\n22\nÜberschrift vor Art. 9 abgeändert durch LGBl. 2024 Nr. 482 .\n23\nArt. 9 abgeändert durch LGBl. 2024 Nr. 482 .\n24\nArt. 10 abgeändert durch LGBl. 2024 Nr. 482 .\n25\nArt. 10a eingefügt durch LGBl. 2024 Nr. 482 .\n26\nArt. 10b eingefügt durch LGBl. 2024 Nr. 482 .\n27\nÜberschrift vor Art. 11 abgeändert durch LGBl. 2024 Nr. 482 .\n28\nArt. 11 abgeändert durch LGBl. 2024 Nr. 482 .\n29\nArt. 11a aufgehoben durch LGBl. 2024 Nr. 482 .\n30\nArt. 12 abgeändert durch LGBl. 2024 Nr. 482 .\n31\nArt. 12a eingefügt durch LGBl. 2024 Nr. 482 .\n32\nArt. 13 abgeändert durch LGBl. 2018 Nr. 79 .\n33\nArt. 13 Abs. 2 abgeändert durch LGBl. 2024 Nr. 482 .\n34\nArt. 13 Abs. 3 abgeändert durch LGBl. 2024 Nr. 482 .\n35\nArt. 13 Abs. 4 abgeändert durch LGBl. 2024 Nr. 482 .\n36\nArt. 14 abgeändert durch LGBl. 2018 Nr. 79 .\n37\nArt. 14 Abs. 1 abgeändert durch LGBl. 2024 Nr. 482 .\n38\nArt. 14 Abs. 3 abgeändert durch LGBl. 2024 Nr. 482 .\n39\nArt. 16 Sachüberschrift abgeändert durch LGBl. 2024 Nr. 482 .\n40\nArt. 16 Abs. 1 abgeändert durch LGBl. 2024 Nr. 482 .\n41\nArt. 16 Abs. 2 abgeändert durch LGBl. 2024 Nr. 482 .\n42\nArt. 16 Abs. 3 abgeändert durch LGBl. 2024 Nr. 482 .\n43\nArt. 17 aufgehoben durch LGBl. 2022 Nr. 106 .\n44\nArt. 18 abgeändert durch LGBl. 2024 Nr. 482 .\n45\nArt. 19 Abs. 1 Bst. b abgeändert durch LGBl. 2024 Nr. 482 .\n46\nArt. 24 Sachüberschrift abgeändert durch LGBl. 2018 Nr. 79 .\n47\nArt. 24a eingefügt durch LGBl. 2024 Nr. 482 .\n48\nArt. 25 Abs. 2 abgeändert durch LGBl. 2024 Nr. 482 .\n49\nArt. 25 Abs. 3 abgeändert durch LGBl. 2024 Nr. 482 ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "fossile Brennstoffe",
+      "definition": "fossile Energieträger, die zur Gewinnung von Wärme, zur Erzeugung von Licht, in thermischen Anlagen zur Stromproduktion oder für den Betrieb von Wärme-Kraft-Kopplungsanlagen (WKK-Anlagen) verwendet werden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "fossile Treibstoffe",
+      "definition": "fossile Energieträger, die in Verbrennungsmotoren zur Krafterzeugung eingesetzt werden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "nationale Bescheinigungen",
+      "definition": "in Liechtenstein handelbare Bescheinigungen über in Liechtenstein nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "internationale Bescheinigungen",
+      "definition": "Bescheinigungen über im Ausland nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistungen nach dem Klimaübereinkommen vom 12. Dezember 2015;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Senkenleistung",
+      "definition": "die anrechenbare Entnahme von CO 2 aus der Atmosphäre und dessen dauerhafte Bindung in Kohlenstoffspeichern.",
+      "source_provision": "art2"
+    }
+  ]
+}

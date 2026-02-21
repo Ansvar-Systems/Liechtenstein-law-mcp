@@ -1,0 +1,39 @@
+{
+  "id": "li-konso-1982026000",
+  "type": "statute",
+  "title": "Gesetz vom 17. Dezember 1981 über die Befreiung des Landesfürsten und des Erbprinzen von der Abgabenpflicht",
+  "title_en": "",
+  "short_name": "LGBl 1982.026",
+  "status": "in_force",
+  "issued_date": "1981-12-17",
+  "in_force_date": "1981-12-17",
+  "url": "https://www.gesetze.li/konso/1982026000",
+  "description": "Gesetz vom 17. Dezember 1981 über die Befreiung des Landesfürsten und des Erbprinzen von der Abgabenpflicht",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Der Landesfürst ist von allen öffentlichen Abgaben befreit. Die Abgabenbefreiung erstreckt sich ebenso auf den Erbprinzen. Keine öffentlichen Abgaben entrichten ausserdem die fürstliche Domäne und die Stiftungen, welche gemäss statutarischer Zweckbestimmung dem Landesfürsten zur Erfüllung seiner Obliegenheiten dienen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Bei Quellensteuern werden die überwälzten und an den Fiskus entrichteten Beträge über entsprechenden Ausweis durch die Steuerverwaltung an die gemäss Art. 1 abgabenbefreiten Berechtigten erstattet."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Alle mit diesem Gesetz in Widerspruch stehenden gesetzlichen Bestimmungen sind hiermit aufgehoben."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Franz Josef\ngez. Hans Brunhart\nFürstlicher Regierungschef\n1\nArt. 3 abgeändert durch LGBl. 2010 Nr. 347 ."
+    }
+  ],
+  "definitions": []
+}
