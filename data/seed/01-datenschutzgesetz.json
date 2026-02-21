@@ -1,0 +1,132 @@
+{
+  "id": "li-datenschutzgesetz",
+  "type": "statute",
+  "title": "Datenschutzgesetz (DSG)",
+  "title_en": "Data Protection Act",
+  "short_name": "DSG",
+  "status": "in_force",
+  "issued_date": "2018-10-25",
+  "in_force_date": "2018-11-01",
+  "url": "https://www.gesetze.li/konso/2018094000",
+  "description": "Das liechtensteinische Datenschutzgesetz (DSG) transponiert die Datenschutz-Grundverordnung (DSGVO, Verordnung (EU) 2016/679) in liechtensteinisches Recht und implementiert dieses durch den EWR-Vertrag. Das DSG benennt die Datenschutzstelle als unabhängige nationale Aufsichtsbehörde und enthält nationale Spezifikationen sowie zulässige Ausnahmen. Liechtenstein ist als EWR-Mitglied kein EU-Mitgliedstaat, ist jedoch an die DSGVO durch einen EWR-Gemeinsamen-Ausschussbeschluss gebunden.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Zweck und Geltungsbereich",
+      "content": "This Law implements Regulation (EU) 2016/679 (General Data Protection Regulation, GDPR) in Liechtenstein pursuant to the EEA Agreement and EEA Joint Committee Decision No 154/2018. The Law establishes the Datenschutzstelle (Data Protection Authority) as the national supervisory authority responsible for monitoring and enforcing the application of the GDPR and this Law in Liechtenstein. This Law applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system. The Law contains national specifications, derogations, and supplementary rules permitted under the GDPR."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Begriffsbestimmungen (Definitions)",
+      "content": "For the purposes of this Law, the definitions established in Article 4 GDPR apply. Additionally, 'the Authority' means the Datenschutzstelle; 'national law' means the law of Liechtenstein including the provisions of this Law; 'controller' means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; 'processor' means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller. All terms used in this Law that are defined in the GDPR shall have the meaning assigned to them therein unless otherwise specified."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. Datenschutzstelle (Data Protection Authority)",
+      "content": "The Datenschutzstelle is established as Liechtenstein's independent supervisory authority for data protection, responsible for monitoring and enforcing the application of the GDPR and this Law. The head of the Datenschutzstelle is appointed by the Government for a term of four years and shall carry out their functions in full independence, without seeking or accepting instructions from any person or body. The Datenschutzstelle shall have the investigative, corrective, authorisation, and advisory powers assigned to supervisory authorities under Article 58 GDPR, and shall cooperate with the supervisory authorities of other EEA states and participate in the European Data Protection Board through an observer with agreed participation rights."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. Nationales Regelungsspielraum (National Specifications)",
+      "content": "In accordance with Article 88 GDPR, Liechtenstein specifies that employers may process employees' personal data for the purposes of recruitment, employment administration, payroll, and compliance with applicable labour law, subject to appropriate safeguards for employees' fundamental interests. Processing of personal data for journalistic, academic, artistic, or literary purposes shall be exempt from specified GDPR provisions to the extent necessary to reconcile the right to personal data protection with the freedom of expression. The age of consent for information society services is set at 16 years. Public authorities shall designate Data Protection Officers as required by Article 37 GDPR."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. Verarbeitung besonderer Datenkategorien (Special Categories)",
+      "content": "The processing of special categories of personal data as defined in Article 9 GDPR is subject to the restrictions and conditions established therein and in this Law. Processing of health data by healthcare professionals and healthcare institutions is permitted to the extent necessary for the provision of healthcare services, subject to applicable professional secrecy obligations. Research institutions, universities, and other bodies conducting scientific or historical research may process special categories of data for legitimate research purposes subject to appropriate safeguards including pseudonymisation and data minimisation. The Datenschutzstelle may issue guidelines on the conditions applicable to the processing of special categories of data in specific sectors."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Verarbeitung zu Strafverfolgungszwecken (Law Enforcement Processing)",
+      "content": "Processing of personal data by competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, is governed by Part 3 of this Law, which implements Directive (EU) 2016/680 (Law Enforcement Directive) in Liechtenstein. Competent authorities designated under this Law shall implement appropriate technical and organisational measures to ensure data minimisation and shall maintain records of processing activities as specified in Article 24 of Directive 2016/680."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. Datenschutzbeauftragter (Data Protection Officer)",
+      "content": "Controllers and processors who are required to designate a Data Protection Officer under Article 37 GDPR shall do so in accordance with the requirements of Articles 37, 38, and 39 GDPR. All Liechtenstein public authorities shall designate a Data Protection Officer. Controllers and processors may designate a single Data Protection Officer where they form part of the same organisational group. The contact details of the Data Protection Officer shall be published and communicated to the Datenschutzstelle. The Data Protection Officer shall have the tasks specified in Article 39 GDPR and shall be provided with the resources necessary to carry out those tasks and maintain their expert knowledge."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Aufsichtsbefugnisse (Supervisory Powers)",
+      "content": "The Datenschutzstelle shall exercise all investigative, corrective, authorisation, and advisory powers assigned to supervisory authorities under Article 58 GDPR. The Authority shall receive and investigate complaints from data subjects and from bodies, organisations, and associations, and shall take appropriate action in response. The Datenschutzstelle shall carry out audits and investigations of controllers and processors, shall review certifications, and shall cooperate with other EEA supervisory authorities in cross-border cases. Where the Datenschutzstelle identifies infringements of the GDPR or this Law, it shall take corrective action including the imposition of administrative fines up to the amounts specified in Article 83 GDPR."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Verwaltungssanktionen (Administrative Sanctions)",
+      "content": "The Datenschutzstelle may impose administrative fines in accordance with Article 83 GDPR in cases of infringement of applicable requirements. Administrative fines shall be effective, proportionate, and dissuasive, having regard to the circumstances of each case including the nature, gravity, and duration of the infringement, whether the infringement was intentional or negligent, the categories of personal data affected, the measures taken by the controller or processor to mitigate the damage, and any previous infringements. Before imposing an administrative fine, the Datenschutzstelle shall give the controller or processor concerned the opportunity to make representations."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Rechtsbehelfe (Legal Remedies)",
+      "content": "Data subjects shall have the right to lodge a complaint with the Datenschutzstelle in accordance with Article 77 GDPR. Without prejudice to the complaint procedure, data subjects shall have the right to an effective judicial remedy against decisions of the Datenschutzstelle that concern them and against controllers or processors. Data subjects may bring legal proceedings before the competent courts of Liechtenstein where they consider that their rights under the GDPR have been infringed. Data subjects may mandate a not-for-profit body to exercise rights on their behalf. Controllers and processors shall be liable to pay compensation for damage caused by processing that infringes the GDPR in accordance with Article 82 GDPR."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. Internationale Datentransfers (International Data Transfers)",
+      "content": "Transfers of personal data to third countries or international organisations shall be subject to the requirements of Chapter V GDPR, as applied in Liechtenstein through the EEA Agreement. Adequacy decisions of the European Commission apply in Liechtenstein through the EEA Agreement, subject to the relevant EEA Joint Committee decisions. Where no adequacy decision is in force, transfers shall be subject to appropriate safeguards as specified in Article 46 GDPR, including standard contractual clauses, binding corporate rules, and certification mechanisms. The Datenschutzstelle may authorise transfers under Article 46(3) GDPR and shall cooperate with other EEA supervisory authorities in the assessment of transfer mechanisms."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Rechenschaftspflicht (Accountability)",
+      "content": "Controllers shall implement appropriate technical and organisational measures to ensure and demonstrate that processing is performed in accordance with the GDPR and this Law. Controllers shall maintain a record of processing activities as required by Article 30 GDPR, shall carry out data protection impact assessments for high-risk processing operations in accordance with Article 35 GDPR, and shall engage in prior consultation with the Datenschutzstelle where required by Article 36 GDPR. Controllers shall implement privacy by design and by default in accordance with Article 25 GDPR. Public authorities shall be subject to enhanced accountability requirements in relation to processing activities conducted in the exercise of public functions."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Datenschutz-Folgenabschätzung (Data Protection Impact Assessment)",
+      "content": "Controllers shall carry out a data protection impact assessment prior to processing that is likely to result in a high risk to the rights and freedoms of natural persons, in accordance with Article 35 GDPR. The Datenschutzstelle shall establish and publish a list of types of processing operations that require a data protection impact assessment in accordance with Article 35(4) GDPR, and a list of types of processing operations for which no impact assessment is required in accordance with Article 35(5) GDPR. Where an impact assessment indicates a high residual risk after mitigation measures, the controller shall consult the Datenschutzstelle before commencing the processing."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14. Öffentlichkeitsarbeit und Jahresbericht (Public Communication)",
+      "content": "The Datenschutzstelle shall publish an annual report on its activities, covering the number and types of complaints received, the outcomes of investigations and enforcement actions, the administrative fines imposed, the data protection impact assessments reviewed, and the Authority's cooperation activities with other EEA supervisory authorities and with the EDPB. The annual report shall be submitted to the Liechtenstein Parliament (Landtag) and published on the Datenschutzstelle's website. The Datenschutzstelle shall also publish guidance documents, opinions, and recommendations to assist controllers and processors in complying with their obligations."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. Zusammenarbeit mit EWR-Behörden (EEA Cooperation)",
+      "content": "The Datenschutzstelle shall cooperate with the supervisory authorities of other EEA states and shall participate in the European Data Protection Board (EDPB) through a representative with agreed participation rights. In cross-border cases involving controllers or processors established in multiple EEA states, the Datenschutzstelle shall cooperate with the lead supervisory authority through the one-stop-shop mechanism, subject to adaptations arising from Liechtenstein's EEA status. The Datenschutzstelle shall contribute to the consistency mechanism established under Chapter VII GDPR and shall be bound by decisions of the EDPB to the extent applicable under the EEA Agreement."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Strafbestimmungen (Criminal Provisions)",
+      "content": "Wilful and systematic processing of personal data that violates the core principles of the GDPR and this Law may be subject to criminal sanctions under applicable criminal law, in addition to the administrative sanctions available to the Datenschutzstelle. Criminal proceedings shall be conducted by the competent prosecutorial authorities and shall be separate from administrative enforcement proceedings by the Datenschutzstelle. Where the Datenschutzstelle identifies conduct that may constitute a criminal offence, it shall inform the competent prosecutorial authority. Criminal sanctions shall be proportionate to the gravity of the infringement and shall be consistent with the overall framework of sanctions established under the GDPR."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Datenschutzstelle",
+      "definition": "Liechtenstein's independent national Data Protection Authority responsible for monitoring and enforcing the application of the GDPR and the Datenschutzgesetz.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "personal data",
+      "definition": "Any information relating to an identified or identifiable natural person ('data subject'), as defined in Article 4(1) GDPR.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "controller",
+      "definition": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "processor",
+      "definition": "A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.",
+      "source_provision": "art2"
+    }
+  ]
+}

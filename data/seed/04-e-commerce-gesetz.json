@@ -1,0 +1,132 @@
+{
+  "id": "li-e-commerce-gesetz",
+  "type": "statute",
+  "title": "E-Commerce-Gesetz (ECG)",
+  "title_en": "E-Commerce Act",
+  "short_name": "ECG",
+  "status": "amended",
+  "issued_date": "2003-04-17",
+  "in_force_date": "2003-05-01",
+  "url": "https://www.gesetze.li/konso/2003092000",
+  "description": "Das E-Commerce-Gesetz (ECG) transponiert die E-Commerce-Richtlinie 2000/31/EG in liechtensteinisches Recht und regelt den Rechtsrahmen für Dienste der Informationsgesellschaft, einschliesslich Informationspflichten, kommerzielle Kommunikation, Haftungsbefreiungen für Intermediäre sowie den elektronischen Vertragsschluss. Es stellt sicher, dass Anbieter von Informationsgesellschaftsdiensten aus Liechtenstein Dienste in anderen EWR-Staaten frei erbringen können und umgekehrt, vorbehaltlich des Herkunftslandprinzips. Das ECG ist auf die Anforderungen der Verordnung (EU) 2022/2065 (Digital Services Act) abzustimmen.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Geltungsbereich und Zweck",
+      "content": "This Law transposes Directive 2000/31/EC (E-Commerce Directive) into Liechtenstein law pursuant to the EEA Agreement and establishes the legal framework for information society services provided by service providers established in Liechtenstein. The Law ensures that service providers established in Liechtenstein can provide information society services throughout the EEA subject to the law of Liechtenstein, in accordance with the country of origin principle, and establishes the requirements applicable to commercial communications, electronic contracts, and the liability of intermediary service providers. The Law is being updated to reflect the application of Regulation (EU) 2022/2065 (Digital Services Act) in the EEA."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Begriffsbestimmungen",
+      "content": "In this Law, 'information society service' means any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; 'service provider' means any natural or legal person providing an information society service; 'established service provider' means a service provider effectively pursuing an economic activity using a fixed establishment for an indefinite period and actually established in Liechtenstein; 'recipient of the service' means any natural or legal person who, for professional ends or otherwise, uses an information society service; 'commercial communication' means any form of communication designed to promote, directly or indirectly, the goods, services, or image of a company, organisation, or person pursuing a commercial, industrial, or craft activity."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. Herkunftslandprinzip (Country of Origin Principle)",
+      "content": "Service providers established in Liechtenstein shall comply with the requirements applicable in Liechtenstein within the coordinated field and shall be entitled to provide information society services throughout the EEA without being required to comply with the law of other EEA states in the coordinated field. Restrictions on the provision of services from Liechtenstein by other EEA states must be justified by an objective of public interest, necessary, and proportionate. As an EEA state, Liechtenstein applies this principle within the EEA legal framework and cooperates with other EEA states in the coordination of enforcement against non-compliant service providers."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. Allgemeine Informationspflichten (General Information Requirements)",
+      "content": "Service providers shall ensure that service recipients and competent authorities can easily, directly, and permanently access at least the following information: the name and geographic address of the service provider; electronic mail address and other contact details; where the service provider is registered in a trade register, the relevant registration details; where activities are subject to an authorisation scheme, the particulars of the relevant supervisory authority; and where the service provider exercises a regulated profession, the relevant professional body, professional title, and applicable professional rules. This information shall be displayed in a clear, comprehensible, and unambiguous manner."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. Kommerzielle Kommunikation (Commercial Communications)",
+      "content": "Commercial communications that form part of or constitute an information society service shall clearly identify as commercial communications the service provider on whose behalf the communication is made and any promotional offers or competitions included therein. Unsolicited commercial communications shall be identifiable as such upon receipt. Service providers shall also ensure compliance with applicable data protection law and privacy requirements when sending commercial communications, particularly the requirement for prior consent to unsolicited commercial electronic messages. The competent authority shall have the power to take action against service providers sending unsolicited commercial communications in breach of applicable requirements."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Elektronische Vertragsschlüsse (Electronic Contracts)",
+      "content": "Service providers shall ensure that contracts may be concluded electronically and that recipients have access to information covering the technical steps required to conclude the contract, whether the contract will be stored and whether it will be accessible, technical means for correcting input errors, and the languages offered for contract conclusion. Service providers shall acknowledge receipt of orders electronically without undue delay. The conclusion of contracts by electronic means shall not be restricted by formal requirements that cannot be satisfied electronically, unless such requirements relate to types of contracts specifically excluded from this obligation. Electronic contracts shall have full legal validity and enforceability in Liechtenstein."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. Haftung als reiner Durchleiter (Mere Conduit Liability Exemption)",
+      "content": "A service provider transmitting information in a communication network or providing access to a communication network shall not be liable for the information transmitted where the service provider did not initiate the transmission, did not select the receiver of the transmission, and did not select or modify the information contained in the transmission. Automatic, intermediate, and transient storage of the transmitted information for the sole purpose of carrying out the transmission, and for no longer than is reasonably necessary for the transmission, shall not affect this exemption. This provision applies without prejudice to the power of courts or administrative authorities to require the service provider to terminate or prevent an infringement."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Haftung als Caching-Anbieter",
+      "content": "A service provider that stores information automatically, intermediately, and temporarily for the sole purpose of making more efficient the onward transmission of the information to other recipients shall not be liable for the stored information where the provider does not modify the information, complies with access conditions, complies with updating rules, does not interfere with technology for obtaining usage data, and acts expeditiously to remove or disable access upon actual knowledge that the information at the original source has been removed or access to it has been disabled or that a court or authority has ordered such removal or disablement."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Haftung als Hosting-Anbieter",
+      "content": "A service provider that stores information provided by a recipient shall not be liable for the stored information where the provider has no actual knowledge of illegal activity or information and, as regards damages claims, is not aware of facts or circumstances from which illegal activity or information is apparent, or where the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or disable access to the information. This exemption does not apply where the recipient is acting under the authority or the control of the provider. Courts and administrative authorities may require service providers to terminate or prevent infringements."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Keine allgemeine Überwachungspflicht (No General Monitoring Obligation)",
+      "content": "Service providers shall not be subject to a general obligation to monitor information which they transmit or store, nor shall they be required to actively seek facts or circumstances indicating illegal activity. Competent authorities may impose obligations on service providers to inform them of alleged illegal activities undertaken or information provided by recipients of their service, or to communicate to the relevant authorities, at their request, information enabling the identification of recipients of their service with whom storage agreements exist. Such obligations shall be proportionate and shall respect applicable fundamental rights."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. Aufsichtsbehörde",
+      "content": "The Amt für Kommunikation (AK) is designated as the competent authority responsible for the implementation and enforcement of this Law, including the supervision of service providers established in Liechtenstein and the receipt of notifications from service providers established in other EEA states wishing to provide services in Liechtenstein. The AK shall cooperate with the competent authorities of other EEA states in matters relating to the cross-border provision of information society services and shall participate in applicable European coordination networks. The AK shall serve as Liechtenstein's Digital Services Coordinator under Regulation (EU) 2022/2065 (DSA) as incorporated into the EEA Agreement."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Aussergerichtliche Streitbeilegung",
+      "content": "The competent authority shall ensure the availability of adequate and effective out-of-court schemes for the resolution of disputes between service providers and recipients arising from the provision of information society services. Service providers shall inform recipients of applicable out-of-court dispute resolution bodies and of the conditions under which these bodies are accessible. Out-of-court dispute resolution shall complement, and not replace, the right of parties to pursue their claims through the courts of Liechtenstein. The competent authority shall monitor the functioning of out-of-court dispute resolution mechanisms and shall report on their effectiveness."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Verhältnis zum Digital Services Act",
+      "content": "This Law applies without prejudice to Regulation (EU) 2022/2065 (Digital Services Act, DSA), which will apply directly in Liechtenstein once incorporated into the EEA Agreement through EEA Joint Committee Decision. Upon the application of the DSA in the EEA, the liability exemptions and other provisions of the DSA applicable to providers of intermediary services will take precedence over equivalent provisions of this Law to the extent of any inconsistency. The AK, as Liechtenstein's Digital Services Coordinator, shall implement the supervisory and enforcement framework established by the DSA and shall cooperate with the European Commission and Digital Services Coordinators of other EEA states."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "art14",
+      "title": "Art. 14. Verhältnis zu anderen Rechtsvorschriften",
+      "content": "This Law applies without prejudice to applicable data protection law, consumer protection law, intellectual property law, and other sectoral legislation applicable to information society services in Liechtenstein. Where other law provides specific requirements applicable to particular categories of information society services or service providers, those requirements shall apply in addition to or instead of the general requirements established by this Law. The country of origin principle applicable under this Law is subject to exceptions for areas excluded from its scope, including taxation, data protection, cartel law, and activities involving the exercise of public authority."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. Sanktionen",
+      "content": "The competent authority shall have the power to take enforcement action against service providers established in Liechtenstein that fail to comply with applicable requirements of this Law, including the power to issue orders requiring compliance, to impose fines, and to publish information about non-compliant providers. Enforcement action shall be proportionate to the nature and gravity of the breach and shall take account of the scale of the service provider's operations. In cross-border cases involving service providers established in other EEA states, the AK shall coordinate with the competent authority of the Member State of establishment in accordance with applicable cooperation procedures."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Verhaltenskodizes",
+      "content": "The competent authority shall encourage the development of codes of conduct for information society service providers at EEA and national levels by trade associations, professional bodies, and consumer organisations. Codes of conduct shall be designed to contribute to the proper application of this Law and applicable EEA law. Service providers are encouraged to submit their codes of conduct to the competent authority for consultation and to the European Commission for dissemination throughout the EEA. The competent authority shall facilitate consultation between industry bodies, consumer organisations, and other stakeholders in the development of codes of conduct for specific sectors of the information society."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "information society service",
+      "definition": "Any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "established service provider",
+      "definition": "A service provider effectively pursuing an economic activity using a fixed establishment for an indefinite period and actually established in Liechtenstein.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "commercial communication",
+      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services, or image of a company, organisation, or person pursuing a commercial, industrial, or craft activity.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "coordinated field",
+      "definition": "Requirements laid down in EEA states' legal systems applicable to information society service providers or information society services, whether of a general nature or specifically designed for them.",
+      "source_provision": "art3"
+    }
+  ]
+}

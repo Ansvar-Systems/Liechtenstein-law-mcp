@@ -1,0 +1,127 @@
+{
+  "id": "li-stgb-it-provisions",
+  "type": "statute",
+  "title": "Strafgesetzbuch (StGB) — Informationstechnologie-bezogene Bestimmungen",
+  "title_en": "Criminal Code (StGB) — Information Technology Regulatory Provisions",
+  "short_name": "StGB-IT",
+  "status": "amended",
+  "issued_date": "1988-06-24",
+  "in_force_date": "1989-01-01",
+  "url": "https://www.gesetze.li/konso/1987100000",
+  "description": "Das liechtensteinische Strafgesetzbuch (StGB) enthält Bestimmungen, die Informationssysteme, Computerdaten und digitale Infrastruktur regulieren, in Übereinstimmung mit dem Budapester Übereinkommen über Cyberkriminalität und der EU-Richtlinie 2013/40/EU über Angriffe auf Informationssysteme. Diese Bestimmungen bilden den strafrechtlichen Rahmen für die Regulierung des Zugangs zu Informationssystemen, der Datenintegrität und verwandter Angelegenheiten und ergänzen die verwaltungsrechtlichen Cybersicherheitsvorschriften.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "§ 1. Regulatory Framework Overview",
+      "content": "The provisions of the Criminal Code relating to information technology establish the regulatory basis for addressing matters concerning information systems, computer data, and related infrastructure in Liechtenstein. These provisions are designed in accordance with the Council of Europe Convention on Cybercrime (Budapest Convention), which Liechtenstein has ratified, and with Directive 2013/40/EU on attacks against information systems as incorporated into the EEA Agreement. The IT-related provisions of the Criminal Code apply in conjunction with the administrative cybersecurity framework established under the Cyber-Sicherheitsgesetz and complement the regulatory protections for information systems."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "§ 2. Definitionen (Definitions for IT Purposes)",
+      "content": "For the purposes of the IT-related provisions of this Code, 'information system' means a device or group of inter-connected or related devices, one or more of which automatically processes data pursuant to a programme, as well as data stored, processed, retrieved, or transmitted by such devices; 'computer data' means any representation of facts, information, or concepts in a form suitable for processing in an information system, including a programme suitable to cause an information system to perform a function; 'without right' means access or conduct that is not authorised by the owner or operator of the information system and is not otherwise permitted by law; 'service provider' means any entity providing to users the ability to communicate by means of an information system or processing or storing computer data on behalf of such users."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "§ 3. Rechtsrahmen für unbefugten Zugang (Regulatory Framework for Unauthorised Access)",
+      "content": "The regulatory framework for addressing unauthorised access to information systems in Liechtenstein is established by the Criminal Code in accordance with obligations arising from the Budapest Convention and applicable EEA law. The framework applies to access to an information system or to a part thereof without right, including access obtained by infringing security measures. The regulatory scope is designed to protect the security and integrity of information systems while preserving the right of security researchers, penetration testers, and authorised administrators to conduct lawful activities involving information systems. Conduct within the scope of an authorisation granted by the system owner does not constitute unauthorised access under the framework."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "§ 4. Rahmen für System- und Datenintegrität",
+      "content": "The regulatory framework for the protection of information system and data integrity establishes the legal basis for addressing conduct that seriously hinders or interrupts the functioning of an information system by inputting, transmitting, damaging, deleting, deteriorating, altering, or suppressing computer data without right. This framework applies to the intentional disruption of information systems and data in a manner that causes material harm to the rights, interests, or property of individuals, organisations, or public authorities. Conduct constituting legitimate network management, authorised system administration, security testing, or maintenance operations does not fall within the scope of the regulatory framework for system and data interference."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "§ 5. Elektronischer Betrug (Electronic Fraud Regulatory Framework)",
+      "content": "The regulatory framework for electronic fraud establishes the legal basis for addressing computer-related fraud, including the manipulation of computer data or information systems for the purpose of causing financial harm or obtaining an unlawful financial advantage. The framework covers the inputting, altering, deleting, or suppressing of computer data, and any interference with the functioning of an information system, with the intent of procuring without right an economic benefit for oneself or another person. The framework is designed to address the specific characteristics of fraud committed through electronic means, distinguishing it from traditional fraud offences while ensuring equivalent protection of financial interests."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "§ 6. Elektronische Beweismittel (Electronic Evidence)",
+      "content": "Electronic evidence, including computer data, system logs, metadata, electronic communications records, and digital forensic evidence, is admissible in legal proceedings in Liechtenstein subject to compliance with applicable rules on authentication, integrity verification, and chain of custody. Courts shall assess the authenticity and reliability of electronic evidence in the light of the technical means used to create, transmit, and store it, applying standards consistent with generally accepted digital forensic practices and applicable international standards. Electronic evidence obtained through lawful investigative means in other jurisdictions may be admitted in Liechtenstein proceedings in accordance with applicable mutual legal assistance arrangements."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "§ 7. Kompetenzen der Strafverfolgungsbehörden",
+      "content": "Liechtenstein's law enforcement authorities, including the National Police (Landespolizei), shall have the investigative capabilities necessary to address matters falling within the IT-related provisions of this Code. Investigative measures involving information systems shall be subject to applicable legal authorisation requirements and proportionality controls. The National Police shall cooperate with CERT.li and the Amt für Kommunikation in matters concerning the investigation of significant cybersecurity incidents that may also constitute offences under this Code. International law enforcement cooperation on IT-related matters shall be conducted through applicable mutual legal assistance frameworks, including Interpol and Europol channels."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "§ 8. Sicherstellung elektronischer Daten (Preservation of Electronic Data)",
+      "content": "Competent authorities conducting investigations into matters falling within the IT-related provisions of this Code shall have the power to order the preservation of specified computer data, including traffic data, for a limited period to prevent loss of that data while investigation is ongoing. Orders for data preservation shall be limited to what is necessary and proportionate for the specific investigation and shall be subject to applicable legal authorisation requirements. Service providers shall comply with lawful preservation orders promptly and shall notify the competent authority of any circumstances that may affect the preserved data. Preserved data shall not be accessed or used beyond the scope of the specific investigation for which preservation was ordered."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "§ 9. Internationale Zusammenarbeit",
+      "content": "Liechtenstein cooperates with other states in matters relating to IT-related offences through applicable mutual legal assistance treaty arrangements, including the framework established by the Budapest Convention on Cybercrime, to which Liechtenstein is a party. Requests for mutual legal assistance in relation to IT-related matters shall be processed through the Office of the Public Prosecutor, in accordance with applicable procedural requirements. Liechtenstein participates in Europol's European Cybercrime Centre and cooperates with EFTA and EEA partners in addressing cross-border cybercrime. Information exchanged through international cooperation channels shall be subject to applicable confidentiality requirements."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "§ 10. Regulatorische Abgrenzung (Regulatory Delineation)",
+      "content": "The IT-related provisions of this Code establish regulatory bases that are distinct from and complementary to the administrative cybersecurity framework established under the Cyber-Sicherheitsgesetz. Administrative cybersecurity obligations applicable to operators of essential services and digital service providers are governed by the Cyber-Sicherheitsgesetz and do not constitute IT-related offences under this Code. Actions taken in good faith by cybersecurity researchers, penetration testers, and security professionals for the purpose of identifying and disclosing vulnerabilities shall be assessed in the light of applicable authorisation, proportionality, and responsible disclosure principles in determining whether they fall within the regulatory scope of the IT-related provisions."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "§ 11. Schutz kritischer Infrastruktur",
+      "content": "The IT-related provisions of this Code apply with particular relevance to the protection of information systems forming part of critical infrastructure, including systems used in the energy, transport, water, health, and digital infrastructure sectors. Conduct directed at critical information infrastructure that results in significant disruption to essential services or poses a risk to public safety shall be assessed in the light of its severity and impact. The competent prosecutorial authorities shall prioritise the investigation and prosecution of matters involving attacks on critical information infrastructure and shall coordinate with the AK, CERT.li, and sector-specific authorities in the assessment and response to such matters."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "§ 12. Anpassung an EWR-Rechtsrahmen",
+      "content": "The IT-related provisions of this Code shall be interpreted and applied in a manner consistent with Liechtenstein's obligations under the EEA Agreement and applicable EEA law, including Directive 2013/40/EU on attacks against information systems and applicable EEA Joint Committee decisions. Where EEA law requires specific regulatory outcomes in relation to information systems, the competent authorities shall ensure that the applicable provisions of this Code are applied in a manner that achieves those outcomes. The Ministry of Justice shall monitor developments in EEA law relating to IT-related matters and shall propose amendments to this Code where necessary to maintain conformity with applicable EEA obligations."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "§ 13. Schutz personenbezogener Daten",
+      "content": "The unlawful processing of personal data, including the unlawful access to systems containing personal data, the unlawful disclosure of personal data, and the systematic violation of data protection principles, may engage both the IT-related provisions of this Code and the administrative enforcement powers of the Datenschutzstelle under the Datenschutzgesetz. The competent prosecutorial authorities and the Datenschutzstelle shall coordinate in matters where both criminal and administrative regulatory responses are potentially applicable. Data protection requirements shall be considered in the conduct of investigations involving access to or processing of personal data for investigation purposes."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "§ 14. Gerichtsbarkeit (Jurisdiction)",
+      "content": "Liechtenstein shall have jurisdiction over IT-related matters under this Code where the relevant conduct was carried out within the territory of Liechtenstein, where the relevant conduct was carried out by a Liechtenstein national, or where information systems located within Liechtenstein were the target of the relevant conduct. In cases involving cross-border elements, jurisdiction shall be determined taking into account applicable principles of international law and any relevant arrangements with EEA or other partner states. Liechtenstein courts shall cooperate with courts and judicial authorities of other states in addressing cross-border aspects of IT-related matters through applicable channels."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "§ 15. Datensicherheit und Sorgfaltspflichten",
+      "content": "Operators of information systems in Liechtenstein shall comply with applicable regulatory obligations regarding the security of those systems under the Cyber-Sicherheitsgesetz and other relevant law. The failure to implement appropriate security measures for information systems containing sensitive personal data, critical infrastructure systems, or systems processing data on behalf of others may be relevant to the assessment of regulatory liability under applicable administrative frameworks. The AK shall maintain and publish guidance on the security standards expected of operators of different categories of information system, and shall cooperate with the relevant enforcement authorities in ensuring consistent application of applicable regulatory standards."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "§ 16. Cybersicherheitsforschung",
+      "content": "Legitimate cybersecurity research, vulnerability research, and security testing activities conducted in good faith and in accordance with applicable ethical standards shall not be construed as falling within the regulatory scope of the IT-related provisions of this Code, provided they are conducted within the scope of an appropriate authorisation or in accordance with responsible disclosure practices. The AK shall cooperate with the cybersecurity research community in Liechtenstein and internationally to promote responsible vulnerability disclosure and to develop a clear and predictable regulatory environment for legitimate security research activities. Researchers identifying vulnerabilities in Liechtenstein systems are encouraged to report these to CERT.li through the established coordinated disclosure process."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "information system",
+      "definition": "A device or group of inter-connected or related devices, one or more of which automatically processes data pursuant to a programme, as well as data stored, processed, retrieved, or transmitted by such devices.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "computer data",
+      "definition": "Any representation of facts, information, or concepts in a form suitable for processing in an information system, including a programme suitable to cause an information system to perform a function.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "without right",
+      "definition": "Access or conduct that is not authorised by the owner or operator of the information system and is not otherwise permitted by law.",
+      "source_provision": "art2"
+    }
+  ]
+}

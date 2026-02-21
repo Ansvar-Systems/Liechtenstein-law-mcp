@@ -1,0 +1,132 @@
+{
+  "id": "li-tvtg-blockchain",
+  "type": "statute",
+  "title": "Token- und VT-Dienstleister-Gesetz (TVTG)",
+  "title_en": "Token and Trustworthy Technology Service Providers Act (Blockchain Act)",
+  "short_name": "TVTG",
+  "status": "in_force",
+  "issued_date": "2019-12-03",
+  "in_force_date": "2020-01-01",
+  "url": "https://www.gesetze.li/konso/2019340000",
+  "description": "Das Token- und VT-Dienstleister-Gesetz (TVTG), bekannt als Blockchain-Gesetz, war eine der weltweit ersten umfassenden Gesetzgebungen für Token-Ökonomien und vertrauenswürdige Technologie-Dienstleister. Es legt einen rechtlichen Rahmen für die Übertragung von Rechten durch Token auf Basis von Blockchain-Technologie fest, regelt VT-Dienstleister und schafft Rechtssicherheit für die Token-Wirtschaft. Das Gesetz wird auf Vereinbarkeit mit der Verordnung (EU) 2023/1114 (MiCA) und dem EWR-Rahmen abgestimmt.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Gegenstand und Grundprinzip",
+      "content": "This Law establishes the legal framework for the transfer of rights through tokens on blockchain-based and distributed ledger technology systems in Liechtenstein, and regulates providers of services relating to trustworthy technologies (VT Service Providers). The fundamental principle of the Law is the 'container model', under which a token is conceptualised as a digital container that can hold any right that is transferable under Liechtenstein law. The Law aims to provide legal certainty for token economies, to enable the tokenisation of a wide range of assets and rights, and to establish a regulatory framework for VT service providers that protects users while enabling innovation in the token economy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Begriffsbestimmungen (Definitions)",
+      "content": "For the purposes of this Law: 'token' means information on a trustworthy technology system which can represent any right of a token holder; 'trustworthy technology system' (VT system) means a system which stores data tamper-resistant and in a forgery-proof manner and represents transactions on this basis in a trustworthy form; 'VT Service Provider' means a natural or legal person who provides services relating to trustworthy technology systems on a professional basis; 'token issuer' means a natural or legal person who issues tokens on a trustworthy technology system; 'token holder' means the natural or legal person who holds tokens issued by a token issuer and is entitled to the rights represented by those tokens."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. Das Container-Modell (The Container Model)",
+      "content": "A token may represent any right that is transferable under Liechtenstein law, including rights in rem, rights in personam, and other transferable rights. The right represented by a token is transferred when the token is transferred in accordance with the applicable rules of the trustworthy technology system. Where a right is represented by a token, the token holder shall be entitled to exercise the right against the relevant counterparty or issuer unless the terms of the token specify otherwise. The transfer of a right through a token transfer shall comply with any applicable formal or substantive requirements governing the transfer of the underlying right under applicable law."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. VT-Dienstleister (VT Service Providers)",
+      "content": "Persons providing VT Services in Liechtenstein on a professional basis shall register with or obtain a licence from the Financial Market Authority (FMA) depending on the category of services provided. Categories of VT Service Providers regulated under this Law include: token issuers; token exchange services; placing of tokens; accepting and transmitting orders relating to tokens; managing tokens; operating a VT trading venue; providing custody services for tokens; providing VT exchange services; conducting tokenisation of rights; and operating a proof of ownership system. Each category of VT Service Provider is subject to specific requirements established by the FMA in accordance with this Law."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. FMA als zuständige Behörde",
+      "content": "The Liechtenstein Financial Market Authority (FMA) is designated as the competent authority responsible for the supervision of VT Service Providers under this Law. The FMA shall register VT Service Providers meeting applicable requirements, shall supervise their ongoing compliance with applicable obligations, and shall enforce applicable requirements through administrative sanctions where necessary. The FMA shall coordinate its supervisory activities with MDIA and other relevant authorities in EEA states to ensure consistent treatment of VT Service Providers operating in multiple jurisdictions. As MiCA is incorporated into the EEA Agreement, the FMA shall align its supervisory approach with the Union-wide framework."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Anforderungen für die Registrierung",
+      "content": "Persons wishing to operate as VT Service Providers in Liechtenstein shall submit a registration application to the FMA covering: the identity and qualifications of management and directors; the business plan and description of services to be offered; information on the trustworthy technology systems to be used; arrangements for the safeguarding of client assets; compliance framework and AML/CFT arrangements; and financial resources. The FMA shall review applications and shall grant registration where applicable requirements are satisfied. Registered VT Service Providers shall notify the FMA of material changes to registered information and shall comply with ongoing obligations under this Law."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. Verhaltensanforderungen (Conduct Requirements)",
+      "content": "VT Service Providers shall conduct their business honestly, fairly, and transparently, acting in the best interests of their clients. Providers shall disclose to clients all material information relevant to the services offered, including fees, risks associated with tokens and trustworthy technologies, and any conflicts of interest. Client assets, including tokens held on behalf of clients, shall be segregated from the provider's own assets and held through secure custody arrangements. VT Service Providers shall implement effective complaint handling procedures and shall participate in applicable alternative dispute resolution mechanisms. Conduct requirements shall be aligned with applicable EEA standards, including those emerging from the MiCA framework."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Geldwäschebekämpfung (AML/CFT)",
+      "content": "VT Service Providers are subject to Liechtenstein's anti-money laundering and counter-terrorism financing legislation as obligated parties and shall implement all applicable customer due diligence, transaction monitoring, and suspicious activity reporting requirements. Due diligence for token-related transactions shall take into account the specific characteristics of distributed ledger technology, including the pseudonymous nature of blockchain transactions and the technical means available for tracing the movement of tokens. The FMA shall cooperate with the Financial Intelligence Unit (FIU) in supervising VT Service Providers' compliance with AML/CFT obligations and in addressing proceeds of unlawful activities in the token economy."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Token-Prospekt (Token Prospectus)",
+      "content": "Issuers of tokens offered to the public in Liechtenstein shall publish a token prospectus containing clear, fair, and not misleading information about the issuer, the rights represented by the token, the technical characteristics of the trustworthy technology system used, the intended use of the proceeds of the token offering, and the risks associated with the investment. Token prospectus requirements shall be aligned with applicable securities prospectus requirements where the underlying token constitutes a financial instrument, and with applicable EEA law including MiCA white paper requirements for crypto-assets. The FMA shall review token prospectuses and may require modifications where they do not comply with applicable requirements."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Abstimmung mit MiCA",
+      "content": "As Regulation (EU) 2023/1114 (Markets in Crypto-Assets, MiCA) is incorporated into the EEA Agreement and becomes applicable in Liechtenstein, the TVTG framework will be progressively aligned with MiCA requirements. VT Service Providers that are classified as crypto-asset service providers under MiCA shall obtain the appropriate MiCA authorisation from the FMA, transitioning from the TVTG registration framework. The FMA shall facilitate the transition of Liechtenstein-registered VT Service Providers to the MiCA framework and shall publish guidance on the steps required for authorisation. The TVTG may continue to apply to token activities not covered by MiCA, providing a complementary national framework."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. Technologie-Neutralität",
+      "content": "This Law is designed to be technology-neutral, applying to all trustworthy technology systems that meet the definition in Article 2 regardless of the specific technical implementation, including public and private blockchains, permissioned and permissionless distributed ledgers, and other distributed or decentralised data management architectures. The FMA may issue technical guidance on the types of trustworthy technology systems considered to meet applicable requirements, and may update such guidance to reflect technological developments. Service providers using novel trustworthy technology architectures may engage with the FMA in advance of registration to obtain clarity on applicable requirements."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Internationale Anerkennung",
+      "content": "Liechtenstein shall seek international recognition of the TVTG framework and of registrations and licences granted under it, to facilitate the cross-border operation of VT Service Providers registered in Liechtenstein. The FMA shall cooperate with regulatory authorities in other EEA states and in third countries in matters relating to the supervision of VT Service Providers and the regulation of token economies. As MiCA establishes a Union-wide framework for crypto-asset service providers, Liechtenstein's MiCA authorisation of VT Service Providers will enable passport rights throughout the EEA, facilitating cross-border provision of regulated token economy services."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Eigentumsnachweis (Proof of Ownership)",
+      "content": "A VT Service Provider operating a proof of ownership system shall maintain a reliable and tamper-resistant record of token holdings and token transfers, enabling token holders to demonstrate their entitlement to rights represented by tokens at any point in time. Proof of ownership systems shall comply with applicable security, resilience, and data integrity requirements established by the FMA. Where a legal dispute arises concerning token ownership, records maintained by a registered proof of ownership system shall be admissible as evidence of token holdings and transfers, subject to applicable rules on the weight and reliability of electronic evidence."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14. Aufsicht und Sanktionen",
+      "content": "The FMA shall supervise VT Service Providers on an ongoing basis, including through annual compliance reports, on-site examinations, and thematic reviews. The FMA may require VT Service Providers to provide information necessary for supervisory purposes, to undergo audits, and to engage external experts where technical assessment requires specialist expertise. Where breaches of applicable requirements are identified, the FMA may issue compliance orders, impose fines, suspend or withdraw registrations, and take other proportionate enforcement action. Enforcement decisions may be appealed through applicable administrative appeal procedures and ultimately before the competent courts."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. Innovation und Rechtssicherheit",
+      "content": "A key objective of this Law is to promote innovation in the token economy by providing a clear and predictable regulatory framework that enables responsible development of trustworthy technology applications. The FMA shall operate a regulatory dialogue process enabling token issuers, VT Service Providers, and technology developers to engage with the FMA in advance of registration or deployment to obtain guidance on applicable requirements. The FMA shall publish regular reports on regulatory developments relevant to the token economy and shall engage with the broader Liechtenstein financial and technology community to maintain awareness of emerging regulatory issues and opportunities."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Konsumentenschutz",
+      "content": "The FMA shall maintain consumer protection as a central objective in its supervision of the token economy and shall ensure that the regulatory framework provides adequate safeguards for persons participating in token offerings and using VT services. Token issuers shall provide clear risk warnings to potential purchasers and shall not make misleading representations about the characteristics or potential returns of tokens. The FMA shall coordinate with the Liechtenstein consumer protection authority on consumer protection issues in the token economy and shall publish guidance for consumers on the risks of token investments and the regulatory protections available. Consumers with complaints against VT Service Providers shall have access to accessible dispute resolution mechanisms."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "token",
+      "definition": "Information on a trustworthy technology system which can represent any right of a token holder.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "trustworthy technology system (VT system)",
+      "definition": "A system which stores data tamper-resistant and in a forgery-proof manner and represents transactions on this basis in a trustworthy form.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "VT Service Provider",
+      "definition": "A natural or legal person who provides services relating to trustworthy technology systems on a professional basis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "token issuer",
+      "definition": "A natural or legal person who issues tokens on a trustworthy technology system.",
+      "source_provision": "art2"
+    }
+  ]
+}

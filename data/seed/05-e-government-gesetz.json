@@ -1,0 +1,127 @@
+{
+  "id": "li-e-government-gesetz",
+  "type": "statute",
+  "title": "E-Government-Gesetz (EGovG)",
+  "title_en": "E-Government Act",
+  "short_name": "EGovG",
+  "status": "in_force",
+  "issued_date": "2021-01-14",
+  "in_force_date": "2021-03-01",
+  "url": "https://www.gesetze.li/konso/2021007000",
+  "description": "Das E-Government-Gesetz (EGovG) schafft den rechtlichen Rahmen für die elektronische Kommunikation zwischen Bürgern, Unternehmen und öffentlichen Stellen in Liechtenstein sowie für die Bereitstellung öffentlicher Dienstleistungen auf elektronischem Weg. Es legt die Grundsätze der digitalen Verwaltung fest und sorgt für die Angleichung an entsprechende EWR-Massnahmen, einschliesslich der Verordnung (EU) 2018/1724 (Single Digital Gateway) und der eIDAS-Verordnung. Als Kleinstaat mit hochentwickelter Verwaltung bietet Liechtenstein ideal digitale Verwaltungsdienstleistungen für Bürger und Unternehmen an.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Gegenstand und Geltungsbereich",
+      "content": "This Law establishes the legal framework for electronic government in Liechtenstein, governing the electronic provision of public services, the electronic exchange of information and documents between public authorities, and the management of government information systems. The Law aims to improve the accessibility, quality, and efficiency of public administration by enabling the delivery of public services through digital channels, to reduce administrative burdens on citizens and businesses, and to align with applicable EEA obligations regarding cross-border digital public services. The Law applies to all public authorities of the Principality of Liechtenstein."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Grundsätze der elektronischen Verwaltung",
+      "content": "Public authorities in Liechtenstein shall apply the following principles in the design and delivery of electronic public services: the digital-by-default principle, under which electronic channels are the preferred means of providing and accessing public services, while ensuring alternatives are available for those who cannot use digital services; the once-only principle, under which citizens and businesses are required to submit information to public authorities only once; the inclusiveness principle, ensuring that electronic services are accessible to all persons including those with disabilities; the openness and transparency principle, ensuring that information about public services and the decisions of public authorities is readily accessible; and the privacy-by-design principle."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. Koordinierungsstelle für E-Government",
+      "content": "The Office for Digital Affairs (Amt für Digitales) or, where not yet established, the relevant ministerial department, is designated as the central coordination body responsible for e-government strategy and policy in Liechtenstein. The coordination body shall develop and maintain the national e-government strategy, establish technical standards for government information systems, coordinate the development and operation of shared digital infrastructure, and monitor the uptake and quality of electronic public services. Given Liechtenstein's small administrative structure, a high degree of coordination between agencies is essential to avoid duplication and to ensure consistent user experiences."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. Elektronische Identifikation und Authentifizierung",
+      "content": "Public authorities shall accept electronic identification means at the assurance level appropriate to the online service concerned, in accordance with the requirements of Regulation (EU) No 910/2014 (eIDAS) as incorporated into the EEA Agreement. The national electronic identification system for Liechtenstein shall be designed to be interoperable with electronic identification systems of other EEA states. Qualified electronic signatures and seals shall be accepted by public authorities for the submission of documents and applications, in accordance with the eIDAS framework. The Amt für Kommunikation shall maintain the national trusted list and shall supervise qualified trust service providers established in Liechtenstein."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. Elektronische Dokumente",
+      "content": "Electronic documents shall have equivalent legal standing to paper documents for interactions between citizens or businesses and public authorities, where the integrity and authenticity of the electronic document can be verified. Public authorities shall accept applications, forms, and supporting documents submitted electronically where equivalent paper documents would be accepted. The management of electronic records by public authorities shall comply with applicable legislation on public records management and shall ensure the long-term preservation and accessibility of records required to be retained under applicable retention schedules. Public authorities shall establish procedures for the authentication and validation of electronic documents received."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Einmaligkeit der Datenmeldung (Once-Only Principle)",
+      "content": "Public authorities shall implement the once-only principle to the extent technically and organisationally feasible, under which citizens and businesses are required to provide data to public authorities only once, with authorities sharing data between themselves as necessary for the processing of administrative applications and transactions. Implementation of the once-only principle shall comply with applicable data protection law, including the requirement for a lawful basis for data sharing and, where applicable, for the consent of the data subject. The coordination body shall establish the technical infrastructure required to support inter-agency data exchange and shall publish guidelines on the implementation of the once-only principle."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. Interoperabilität (Interoperability)",
+      "content": "Government information systems shall be designed and operated in accordance with interoperability standards specified by the coordination body, consistent with the European Interoperability Framework and applicable EEA requirements. Public authorities procuring or developing new information systems shall ensure compliance with applicable interoperability standards and shall consult with the coordination body in the planning and design phase of significant new systems. The coordination body shall maintain a catalogue of shared components and reference data available to public authorities for use in electronic services and shall promote the reuse of existing solutions in preference to the development of new systems."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Barrierefreiheit (Accessibility)",
+      "content": "Electronic public services and government websites shall be designed and implemented in accordance with applicable accessibility standards, ensuring that persons with disabilities can access and use them on an equal basis with others, consistent with Directive (EU) 2016/2102 on the accessibility of websites and mobile applications of public sector bodies as incorporated into the EEA Agreement. The coordination body shall establish technical standards for accessibility applicable to government digital services and shall monitor compliance. Public authorities shall publish accessibility statements for their websites and applications and shall provide accessible alternatives for citizens unable to use standard digital channels."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Informationssicherheit (Information Security)",
+      "content": "Public authorities shall implement information security measures for their information systems in accordance with standards established by the coordination body in cooperation with the Amt für Kommunikation. Information security shall be based on a risk management approach, addressing confidentiality, integrity, and availability of government information and systems. The Amt für Kommunikation, through CERT.li, shall coordinate the government's response to significant cybersecurity incidents affecting public authority systems and shall provide guidance on minimum information security standards applicable to government systems. Public authorities shall conduct regular assessments of their information security posture."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Grenzüberschreitende Dienste (Cross-Border Services)",
+      "content": "Liechtenstein shall participate in EEA initiatives for cross-border digital public services, including the Single Digital Gateway established under Regulation (EU) 2018/1724 and the mutual recognition of electronic identification and trust services under eIDAS. The coordination body shall ensure that Liechtenstein meets applicable obligations relating to the cross-border provision of electronic public services, including the online availability of specified administrative procedures and the acceptance of electronic identification and documents from other EEA states. Cross-border service interoperability shall be a key design principle for new electronic public services."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. Offene Daten (Open Data)",
+      "content": "Public authorities shall make data held in their information systems available for reuse by citizens, businesses, and other public authorities to the extent permitted by applicable law, in accordance with Directive (EU) 2019/1024 on open data and the re-use of public sector information as incorporated into the EEA Agreement. The coordination body shall maintain a national open data portal providing access to government datasets made available for reuse and shall establish policies for the publication of government data in open, machine-readable formats. Open data publication shall be consistent with applicable data protection, security, and confidentiality requirements."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Verwaltungsdigitalisierung (Administrative Digitisation)",
+      "content": "Public authorities shall progressively digitise their administrative processes and services in accordance with the national e-government strategy, prioritising services with high volume, high citizen impact, and potential for significant efficiency gains through digitisation. The coordination body shall support public authorities in identifying and implementing digitisation opportunities and shall develop shared platforms and tools to reduce the cost and complexity of digitisation. Progress in digitisation shall be monitored and reported on an annual basis, with the aim of achieving full digital availability of all citizen-facing public services by the target date established in the national e-government strategy."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Digitale Kompetenzen (Digital Skills)",
+      "content": "The coordination body shall cooperate with the Ministry of Education and relevant educational institutions to ensure that public sector employees have the digital skills necessary for the effective design, delivery, and use of electronic public services. Training programmes shall be developed for public sector employees at all levels, addressing foundational digital literacy, user-centred service design, data management, and cybersecurity awareness. Citizens who are unable to access or use electronic public services independently shall be provided with appropriate assistance through public access points, telephone services, or in-person support, consistent with the inclusiveness principle."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14. Liechtenstein-spezifische Anpassungen",
+      "content": "The e-government framework shall be adapted to reflect the specific characteristics of Liechtenstein as a small state with a compact public administration, a high level of economic integration with Switzerland, and extensive participation in the EEA. Adaptations shall ensure proportionality between the resources invested in e-government infrastructure and the scale of public administration, maximise the reuse of solutions developed in coordination with EEA partner states and international organisations, and leverage Liechtenstein's relationships with Switzerland, Austria, and other neighbouring states to access shared digital infrastructure and services where beneficial."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. Berichterstattung und Monitoring",
+      "content": "The coordination body shall establish a monitoring framework for e-government in Liechtenstein, including indicators measuring the availability, uptake, and quality of electronic public services, and shall publish regular reports on progress. Public authorities shall provide information to the coordination body on their digital services as required for monitoring purposes. Liechtenstein shall cooperate with the European Commission and EEA partners in the collection and reporting of e-government benchmark data and shall participate in relevant EEA monitoring frameworks. Annual reports on e-government progress shall be published and submitted to the Government."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Nutzerbeteiligung und Rückmeldungen",
+      "content": "Public authorities shall engage citizens, businesses, and relevant stakeholders in the design and continuous improvement of electronic public services, through user research, testing, consultation, and feedback mechanisms. The coordination body shall establish standards for user-centred service design and shall provide methodologies and tools to support public authorities in conducting user research and testing. Public authorities shall publish service standards for their electronic services, including commitments on availability, performance, and accessibility, and shall publicly report on their performance against these standards."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "digital-by-default",
+      "definition": "The principle that public services are made available electronically as the preferred channel of access, while ensuring that those unable to use digital services can still access equivalent services through other means.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "once-only principle",
+      "definition": "The principle under which citizens and businesses are required to submit information to public authorities only once, with authorities sharing information between themselves as necessary.",
+      "source_provision": "art6"
+    },
+    {
+      "term": "interoperability",
+      "definition": "The ability of disparate and diverse systems, organisations, and individuals to interact towards mutually beneficial and agreed common goals, covering technical, semantic, and organisational dimensions.",
+      "source_provision": "art7"
+    }
+  ]
+}

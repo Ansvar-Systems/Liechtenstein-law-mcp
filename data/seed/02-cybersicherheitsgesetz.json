@@ -1,0 +1,132 @@
+{
+  "id": "li-cybersicherheitsgesetz",
+  "type": "statute",
+  "title": "Cyber-Sicherheitsgesetz (CSG)",
+  "title_en": "Cybersecurity Act",
+  "short_name": "CSG",
+  "status": "in_force",
+  "issued_date": "2020-01-01",
+  "in_force_date": "2020-01-01",
+  "url": "https://www.gesetze.li/konso/2020098000",
+  "description": "Das liechtensteinische Cyber-Sicherheitsgesetz (CSG) transponiert die Richtlinie (EU) 2016/1148 (NIS-Richtlinie) in liechtensteinisches Recht und schafft den nationalen Rahmen für die Cybersicherheit im Fürstentum Liechtenstein. Es benennt das Amt für Kommunikation (AK) als nationale Cybersicherheitsbehörde, richtet das CERT.li als nationales Computer-Notfallreaktionsteam ein und legt Sicherheits- und Meldepflichten für Betreiber wesentlicher Dienste und digitale Dienstanbieter fest. Das Gesetz wird an die NIS2-Richtlinie (Richtlinie (EU) 2022/2555) angepasst.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Zweck und Anwendungsbereich",
+      "content": "This Law transposes Directive (EU) 2016/1148 (NIS Directive) into Liechtenstein law pursuant to the EEA Agreement and EEA Joint Committee Decision No 103/2019, and is being updated to incorporate the requirements of Directive (EU) 2022/2555 (NIS2). The Law aims to achieve a high common level of security of network and information systems in Liechtenstein and to ensure that cybersecurity risks are managed effectively by operators of essential services and digital service providers. The Law applies to operators of essential services established in Liechtenstein and to digital service providers offering services to users within Liechtenstein's territory."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Nationale Cybersicherheitsbehörde",
+      "content": "The Amt für Kommunikation (AK) is designated as Liechtenstein's national competent authority for the cybersecurity of network and information systems, responsible for implementing this Law and coordinating national cybersecurity activities. The AK shall carry out national risk assessments, identify operators of essential services, supervise compliance with applicable security requirements, receive incident notifications, and cooperate with the national cybersecurity authorities of other EEA states. Given Liechtenstein's small administrative capacity, the AK coordinates closely with partner authorities in Switzerland and Austria on cybersecurity matters of mutual interest."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. CERT.li",
+      "content": "CERT.li is established as Liechtenstein's national Computer Security Incident Response Team (CSIRT), operating within the Amt für Kommunikation and responsible for receiving, analysing, and coordinating responses to cybersecurity incidents affecting information systems in Liechtenstein. CERT.li shall have the capabilities specified for national CSIRTs under the NIS Directive and NIS2, including monitoring at a national level, providing early warning and alerts, coordinating incident response, and participating in the CSIRTs Network. CERT.li shall establish and publish secure communication channels and shall maintain the capability to respond to significant incidents on a 24/7 basis."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. Wesentliche Dienste (Essential Services)",
+      "content": "The AK shall identify operators of essential services in Liechtenstein in the following sectors: energy, including electricity transmission and distribution and oil and gas infrastructure; transport, including road transport and any relevant maritime or air infrastructure; banking and financial market infrastructure; health; water supply; and digital infrastructure. Given Liechtenstein's small size, the number of operators in each sector may be limited, and the AK shall apply the identification criteria proportionately. Operators of essential services shall be formally notified of their designation and shall be informed of the security and incident notification requirements applicable to them."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. Sicherheitsanforderungen (Security Requirements)",
+      "content": "Operators of essential services shall implement appropriate and proportionate technical and organisational measures to manage the risks to the security of the network and information systems used in the provision of their essential services. Security measures shall address risk analysis and information systems security policies, incident handling, business continuity management, supply chain security, security in network and information systems acquisition and maintenance, assessment of the effectiveness of security measures, and cybersecurity training. The AK shall issue guidance on minimum security requirements, taking into account the specific characteristics of different sectors and the scale of operations in the Liechtenstein context."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Meldepflichten bei Sicherheitsvorfällen (Incident Notification)",
+      "content": "Operators of essential services shall notify the AK and CERT.li without undue delay of any incident having a significant impact on the continuity of the essential services they provide. Digital service providers shall notify the AK without undue delay of any incident having a substantial impact on the provision of a service offered within the EEA. The AK shall establish procedures specifying the timeframes, content, and format of notifications. Where an incident may affect other EEA states, the AK shall inform the relevant national authorities through established cooperation channels. CERT.li shall provide operational guidance to operators on incident response procedures."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. Nationale Cybersicherheitsstrategie",
+      "content": "Liechtenstein shall maintain a national cybersecurity strategy establishing the strategic objectives and policy measures for achieving and maintaining a high level of cybersecurity across society. The national cybersecurity strategy shall address the identification and analysis of cybersecurity risks, the objectives and priorities for cybersecurity, a framework for the roles and responsibilities of public authorities and relevant stakeholders, measures relating to cybersecurity education, awareness, and training, the cybersecurity research agenda, and international cooperation objectives. The strategy shall be reviewed at appropriate intervals and shall be notified to the EEA institutions."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Internationale Zusammenarbeit",
+      "content": "The AK shall cooperate with the competent cybersecurity authorities of other EEA states through established cooperation mechanisms, including the NIS Cooperation Group and the CSIRTs Network. Given Liechtenstein's geographic position, bordered by Switzerland and Austria, the AK shall maintain particularly close cooperation with the cybersecurity authorities of those countries on matters of mutual interest. CERT.li shall participate in the CSIRTs Network and shall cooperate bilaterally with CSIRTs of EEA states and, where applicable, third countries. International cooperation agreements shall be subject to applicable confidentiality requirements."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Digitale Dienstanbieter (Digital Service Providers)",
+      "content": "Digital service providers — comprising online marketplaces, online search engines, and cloud computing services — offering services within the scope of this Law shall implement security measures and notify the AK of significant incidents in accordance with applicable requirements. Given Liechtenstein's EEA membership and the light-touch regulatory approach applicable to digital service providers under the NIS Directive and NIS2, the AK shall apply ex-post supervision to digital service providers, taking action when evidence of non-compliance is obtained. Digital service providers established outside the EEA shall designate a representative within the EEA."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Informationsaustausch",
+      "content": "The AK shall promote information sharing on cybersecurity risks, threats, and incidents between relevant public authorities and between public authorities and operators of essential services and digital service providers, while respecting the confidentiality of commercially sensitive and operationally sensitive information. CERT.li shall serve as a trusted hub for the exchange of threat intelligence among relevant stakeholders in Liechtenstein's cybersecurity ecosystem. Operators of essential services are encouraged to participate in sector-specific information sharing arrangements and to report cybersecurity threats and near-miss incidents to CERT.li on a voluntary basis."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. Lieferkettensicherheit (Supply Chain Security)",
+      "content": "Operators of essential services shall take into account the security of their supply chains, including the security practices of their key suppliers and service providers, in implementing their security risk management measures. The AK shall issue guidance on supply chain security applicable to operators of essential services in Liechtenstein, taking into account relevant guidance from ENISA and the NIS Cooperation Group. Operators shall assess the risks posed by their dependence on specific suppliers or technologies and shall implement contractual and technical measures to address identified supply chain risks. Information on supply chain vulnerabilities relevant to Liechtenstein shall be shared with relevant EEA authorities through established cooperation channels."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Aufsicht und Durchsetzung (Supervision and Enforcement)",
+      "content": "The AK shall supervise compliance by operators of essential services with the requirements of this Law, including through the review of security documentation, security audits, and on-site inspections. The AK may require operators of essential services to provide information necessary to assess the security of their network and information systems, to undergo security audits, and to implement specified corrective measures where deficiencies are identified. Administrative sanctions applicable to operators that fail to comply with applicable requirements shall be proportionate, effective, and dissuasive and shall take into account the scale and nature of the operator's activities in the Liechtenstein context."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Öffentlichkeitsbewusstsein (Public Awareness)",
+      "content": "The AK shall promote cybersecurity awareness among citizens, businesses, and public authorities in Liechtenstein, coordinating with relevant European cybersecurity awareness initiatives including the European Cybersecurity Month. CERT.li shall publish regular threat intelligence reports and cybersecurity advisories accessible to operators and the general public. Educational institutions shall be encouraged to integrate cybersecurity into their curricula at appropriate levels, and the AK shall cooperate with the school system to promote digital literacy and cybersecurity awareness. Training for cybersecurity professionals in Liechtenstein shall be facilitated through cooperation with EEA training programmes and resources."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14. Kritische Informationsinfrastruktur",
+      "content": "The AK, in cooperation with relevant sectoral authorities and with the Office of the Prime Minister, shall identify and assess critical information infrastructure in Liechtenstein and shall develop measures for the protection of such infrastructure. Critical information infrastructure protection shall be coordinated with the broader critical infrastructure protection framework applicable in Liechtenstein and with applicable EEA law on the resilience of critical entities. The specific characteristics of Liechtenstein's critical information infrastructure, including its dependence on cross-border digital connectivity and shared infrastructure with neighbouring states, shall be taken into account in risk assessments and protective measures."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. NIS2-Anpassung",
+      "content": "This Law is being updated to incorporate the requirements of Directive (EU) 2022/2555 (NIS2 Directive), which has been incorporated into the EEA Agreement through EEA Joint Committee Decision. The NIS2 update will expand the scope of the Law to cover additional sectors and sub-sectors, introduce enhanced governance requirements for operators including senior management accountability, strengthen supply chain security requirements, introduce more detailed incident notification requirements, and establish stricter enforcement provisions. The AK shall consult with relevant stakeholders in Liechtenstein on the implementation of NIS2 requirements and shall publish updated guidance following the entry into force of amended national implementing measures."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Koordination mit nationalen Behörden",
+      "content": "The AK shall coordinate its cybersecurity activities with the National Police, the EFTA Surveillance Authority, and other relevant national and international bodies to ensure an effective and coordinated national response to cybersecurity risks and incidents. Inter-agency coordination arrangements shall address information sharing on threat assessments, coordination of responses to significant incidents, joint exercises and training, and communication with the public in the event of major cybersecurity events. The Government shall maintain oversight of national cybersecurity governance and shall ensure adequate resources are available to the AK and CERT.li for the performance of their functions under this Law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "network and information system",
+      "definition": "An electronic communications network, any device or group of interconnected or related devices automatically processing digital data, or digital data stored, processed, retrieved, or transmitted by such elements.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "operator of essential services",
+      "definition": "A public or private entity providing a service essential for the maintenance of critical societal or economic activities, which depends on network and information systems, and for which a significant incident would have substantial disruptive effects.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "CERT.li",
+      "definition": "Liechtenstein's national Computer Security Incident Response Team, operating within the Amt für Kommunikation and serving as the national CSIRT for the purposes of this Law.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "incident",
+      "definition": "Any event having an actual adverse effect on the security of network and information systems.",
+      "source_provision": "art6"
+    }
+  ]
+}

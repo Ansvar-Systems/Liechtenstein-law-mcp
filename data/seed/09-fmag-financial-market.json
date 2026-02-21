@@ -1,0 +1,127 @@
+{
+  "id": "li-fmag-financial-market",
+  "type": "statute",
+  "title": "Finanzmarktaufsichtsgesetz (FMAG)",
+  "title_en": "Financial Market Authority Act",
+  "short_name": "FMAG",
+  "status": "amended",
+  "issued_date": "2004-06-18",
+  "in_force_date": "2005-01-01",
+  "url": "https://www.gesetze.li/konso/2004279000",
+  "description": "Das Finanzmarktaufsichtsgesetz (FMAG) richtet die Finanzmarktaufsicht Liechtenstein (FMA) als unabhängige staatliche Aufsichtsbehörde für den liechtensteinischen Finanzmarkt ein. Die FMA beaufsichtigt Banken, Versicherungsunternehmen, Wertpapierfirmen, Fondsverwaltungsgesellschaften, Zahlungsinstitute und VT-Dienstleister. Das FMAG regelt Organisation, Befugnisse und Zusammenarbeit der FMA und gewährleistet, dass der liechtensteinische Finanzmarkt mit dem EWR-Regulierungsrahmen und internationalen Standards übereinstimmt.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Zweck",
+      "content": "This Law establishes the Liechtenstein Financial Market Authority (FMA) as the integrated supervisory authority for Liechtenstein's financial market and designates its supervisory mandate, powers, and governance framework. The FMA is responsible for the prudential and conduct supervision of all regulated financial market participants in Liechtenstein, including banks, insurance undertakings, investment firms, collective investment schemes, payment institutions, electronic money institutions, and VT service providers. The Law aims to ensure the stability, integrity, and transparency of Liechtenstein's financial market, to protect investors and policyholders, and to maintain Liechtenstein's status as a reputable and well-regulated financial centre."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Rechtliche Stellung und Unabhängigkeit",
+      "content": "The FMA is a public law institution with its own legal personality, established under public law and operating independently of the Government and other state bodies in the exercise of its supervisory functions. The FMA shall not be subject to instructions from the Government or any other body in carrying out its supervisory tasks, except as specifically provided by this Law. The FMA is governed by a Board of Directors appointed by the Government and managed by an Executive Board. The FMA shall be accountable to the Liechtenstein Parliament (Landtag) through annual reporting obligations and shall be subject to parliamentary oversight."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. Aufsichtsbereich (Scope of Supervision)",
+      "content": "The FMA exercises integrated financial market supervision in Liechtenstein, covering: the banking sector, including banks and savings institutions; the insurance sector, including life and non-life insurers and reinsurers; the securities and investment sector, including investment firms, collective investment schemes, and their managers; the payment services sector, including payment institutions and electronic money institutions; the VT services sector under the TVTG; and other regulated financial market participants as specified by applicable law. The FMA shall apply an integrated supervisory approach addressing prudential, conduct, and financial crime risks across all regulated sectors."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. Zulassungsbefugnisse (Licensing Powers)",
+      "content": "The FMA shall grant, suspend, or withdraw licences, registrations, and approvals for regulated financial market participants in accordance with the requirements of applicable sectoral legislation. The FMA shall assess the fitness and propriety of management and qualifying shareholders of regulated entities, the adequacy of their financial resources, the soundness of their governance and risk management arrangements, and their compliance frameworks. Licensing requirements shall be consistent with applicable EEA law as incorporated into the EEA Agreement and shall take account of the specific characteristics of Liechtenstein's financial market and regulatory environment."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. Aufsichtsbefugnisse (Supervisory Powers)",
+      "content": "The FMA shall have extensive supervisory powers enabling it to monitor and enforce compliance by regulated entities with applicable requirements. Supervisory powers include the power to require regulated entities to provide information and documents, to conduct on-site inspections, to appoint special auditors or investigators, to attend and participate in management board meetings, to issue supervisory instructions and binding decisions, to take emergency measures, and to appoint commissioners or administrators in appropriate cases. The FMA shall apply a risk-based supervisory approach, concentrating supervisory resources on entities and risks presenting the greatest potential harm to the financial system and its users."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Sanktionsbefugnisse (Enforcement Powers)",
+      "content": "The FMA shall have the power to impose administrative sanctions on regulated entities and their management that breach applicable regulatory requirements. Administrative sanctions include public reprimands, withdrawal of licences or registrations, temporary or permanent prohibition from holding management functions, disgorgement of profits from the breach, and administrative fines. Sanctions shall be proportionate to the nature, gravity, and duration of the breach and shall take into account all relevant circumstances. The FMA shall publish decisions imposing sanctions, subject to applicable confidentiality requirements, in order to promote deterrence and market transparency."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. EWR-Zusammenarbeit (EEA Cooperation)",
+      "content": "The FMA shall cooperate closely with financial market supervisory authorities of other EEA states in the exercise of its supervisory functions, in accordance with applicable EEA law. Cooperation shall include the exchange of supervisory information, participation in supervisory colleges for cross-border financial groups, coordination of enforcement action against entities operating in multiple EEA jurisdictions, and participation in the work of European supervisory authorities including the EBA, ESMA, and EIOPA. Given Liechtenstein's EEA membership and close economic ties with Switzerland and Austria, the FMA shall maintain particularly close cooperation with the relevant supervisory authorities of those countries."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Internationale Zusammenarbeit",
+      "content": "The FMA shall cooperate with financial market supervisory authorities of third countries in matters of mutual supervisory interest, subject to applicable confidentiality requirements and the existence of equivalent data protection standards in the third country concerned. International cooperation may include the exchange of supervisory information, the conduct of joint supervisory activities, and the negotiation of bilateral supervisory cooperation agreements. Liechtenstein's membership of the Financial Stability Board (FSB) observer community and its participation in relevant IOSCO, IAIS, and FATF activities shall inform the FMA's approach to international regulatory standards."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Finanzkriminalitätsprävention",
+      "content": "The FMA is the supervisory authority responsible for monitoring and enforcing compliance by regulated financial market participants with Liechtenstein's AML/CFT legislation. In this capacity, the FMA shall coordinate with the Financial Intelligence Unit (FIU) and with the National Police in matters relating to money laundering and terrorist financing in the financial sector. The FMA shall participate in the relevant FATF evaluation processes and shall implement recommendations applicable to Liechtenstein's AML/CFT regime. Regulated entities shall comply with customer due diligence, transaction monitoring, and suspicious activity reporting obligations as specified in applicable legislation."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Finanzstabilität",
+      "content": "The FMA shall contribute to the preservation of financial stability in Liechtenstein through its supervisory activities and through participation in national and EEA-level financial stability monitoring frameworks. The FMA shall participate in the European Systemic Risk Board (ESRB) through the appropriate EEA channels and shall cooperate with the EFTA Surveillance Authority in matters relating to macro-prudential oversight. The FMA shall conduct regular assessments of systemic risks in Liechtenstein's financial system and shall report on financial stability developments to the Government and to the Landtag."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. FinTech und Innovation",
+      "content": "The FMA shall maintain a forward-looking approach to financial innovation and shall actively engage with FinTech companies and innovative financial service providers to understand emerging business models and technologies and to clarify applicable regulatory requirements. The FMA shall operate an innovation hub providing a point of contact for FinTech companies seeking regulatory clarity and shall, where appropriate, engage with innovators through a regulatory sandbox programme in coordination with the Government's digital innovation policy. Liechtenstein's position as an early adopter of token economy regulation through the TVTG framework reflects its commitment to enabling responsible innovation in the financial sector."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Konsumentenschutz (Consumer Protection)",
+      "content": "The FMA shall maintain consumer protection as a core objective of its supervisory activities and shall ensure that the regulatory framework applicable to financial market participants provides adequate safeguards for retail customers and policyholders. Supervisory activities shall include conduct-of-business supervision ensuring that regulated entities treat customers fairly, provide clear and non-misleading information, and handle complaints effectively. The FMA shall cooperate with the consumer protection authority in matters relating to the intersection of financial market regulation and consumer protection law and shall publish guidance for consumers on their rights in relation to regulated financial products and services."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Jahresbericht und Transparenz",
+      "content": "The FMA shall publish an annual report covering its supervisory and enforcement activities across all regulated sectors, the state of Liechtenstein's financial market, significant developments in applicable regulation, and the FMA's cooperation activities with EEA and international bodies. The annual report shall be submitted to the Government and to the Landtag and shall be published on the FMA's website. The FMA shall also publish supervisory statistics, regulatory guidance documents, and enforcement decisions subject to applicable confidentiality requirements. The FMA shall maintain an accessible website providing information on regulated entities, applicable requirements, and consumer resources."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14. Finanzierung der FMA",
+      "content": "The FMA shall be financed primarily through supervisory fees and charges levied on regulated entities, supplemented where necessary by state contributions. Supervisory fees shall be set at levels sufficient to cover the FMA's operating costs and shall be proportionate to the nature and scale of the regulated entity's activities. The fee structure shall be published and shall be reviewed regularly to ensure it remains appropriate in the light of changes in the regulatory perimeter and the FMA's cost base. The FMA's budget shall be subject to audit by the Liechtenstein Court of Audit and shall be submitted to the Landtag for approval."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. Krisenmanagement (Crisis Management)",
+      "content": "The FMA shall develop and maintain crisis management frameworks enabling it to respond effectively to failures of regulated entities or to systemic financial stress. Crisis management frameworks shall address the early identification of deteriorating situations, the escalation of supervisory intervention, coordination with the Government and other relevant authorities, and communication with markets and the public. The FMA shall cooperate with the resolution authorities of other EEA states in the resolution of cross-border financial institutions and shall implement applicable EEA resolution frameworks as incorporated into the EEA Agreement."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Digitale Transformierung der FMA",
+      "content": "The FMA shall leverage digital technologies to improve the efficiency and effectiveness of its supervisory processes, including through the use of supervisory technology (SupTech) for data collection, analysis, and monitoring. Regulated entities shall use the FMA's digital platforms for regulatory reporting and notifications where available and shall comply with applicable data standards and formats. The FMA shall cooperate with EEA supervisory authorities and with the European supervisory authorities in developing consistent approaches to SupTech and RegTech and shall publish information on applicable digital reporting requirements and available guidance for regulated entities."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "FMA",
+      "definition": "The Liechtenstein Financial Market Authority (Finanzmarktaufsicht Liechtenstein), established as the integrated supervisory authority for Liechtenstein's financial market.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "regulated entity",
+      "definition": "Any natural or legal person holding a licence, registration, or approval from the FMA to carry out regulated financial market activities.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "integrated supervision",
+      "definition": "An approach to financial market supervision under which a single authority is responsible for the prudential and conduct supervision of all regulated financial market participants across banking, insurance, securities, and other financial sectors.",
+      "source_provision": "art3"
+    }
+  ]
+}

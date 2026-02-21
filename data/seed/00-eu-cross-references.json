@@ -1,0 +1,104 @@
+{
+  "id": "eu-cross-references",
+  "type": "statute",
+  "title": "EEA Cross-Reference Index for Liechtenstein Law",
+  "title_en": "EEA Cross-Reference Index for Liechtenstein Law",
+  "short_name": "EU-XREF",
+  "status": "in_force",
+  "issued_date": "2024-01-01",
+  "in_force_date": "2024-01-01",
+  "url": "https://eur-lex.europa.eu",
+  "description": "This index documents the cross-references between Liechtenstein national law and European Economic Area (EEA) legislation in the areas of data protection, cybersecurity, electronic communications, and digital regulation. Liechtenstein is a member of the EEA but not the EU, meaning EU directives and regulations are incorporated into national law via the EEA Agreement and the decisions of the EEA Joint Committee, often with adaptations specific to Liechtenstein's small-state context.",
+  "provisions": [
+    {
+      "provision_ref": "xref1",
+      "section": "1",
+      "title": "GDPR Implementation via EEA",
+      "content": "Regulation (EU) 2016/679 (GDPR) was incorporated into the EEA Agreement through EEA Joint Committee Decision No 154/2018 and subsequently transposed into Liechtenstein law through the Datenschutzgesetz (DSG) of 2018. The DSG designates the Data Protection Authority (Datenschutzstelle) as the national supervisory authority and implements the national specifications and derogations permitted under the GDPR. Liechtenstein participates in the European Data Protection Board (EDPB) through a representative who participates without voting rights in accordance with EEA arrangements."
+    },
+    {
+      "provision_ref": "xref2",
+      "section": "2",
+      "title": "NIS Directive and Cybersecurity Framework",
+      "content": "Directive (EU) 2016/1148 (NIS Directive) was incorporated into the EEA Agreement through EEA Joint Committee Decision No 103/2019 and transposed into Liechtenstein law through the Cyber-Sicherheitsgesetz and related legislation. Liechtenstein participates in the NIS Cooperation Group and the CSIRTs Network through the EEA EFTA framework. Directive (EU) 2022/2555 (NIS2) is being incorporated into the EEA Agreement through the standard EEA Joint Committee procedure and will require updating Liechtenstein's national implementing measures."
+    },
+    {
+      "provision_ref": "xref3",
+      "section": "3",
+      "title": "Electronic Communications Framework",
+      "content": "The EU electronic communications regulatory framework, including Directive (EU) 2018/1972 (European Electronic Communications Code, EECC), has been incorporated into the EEA Agreement and transposed into Liechtenstein law through the Kommunikationsgesetz (KomG). The Amt für Kommunikation (AK) is designated as Liechtenstein's national regulatory authority for electronic communications and participates in BEREC through EEA arrangements. Given Liechtenstein's small size, its telecommunications market has specific characteristics addressed through proportionate application of the regulatory framework."
+    },
+    {
+      "provision_ref": "xref4",
+      "section": "4",
+      "title": "eIDAS Implementation",
+      "content": "Regulation (EU) No 910/2014 (eIDAS) was incorporated into the EEA Agreement through EEA Joint Committee Decision No 221/2018 and implemented in Liechtenstein through the Signaturgesetz (SigG) and related legislation. The Amt für Kommunikation serves as the supervisory body for trust service providers established in Liechtenstein and maintains the national trusted list. Liechtenstein's electronic identification scheme has been designed to be interoperable with national schemes in other EEA states."
+    },
+    {
+      "provision_ref": "xref5",
+      "section": "5",
+      "title": "E-Commerce Directive Implementation",
+      "content": "Directive 2000/31/EC (E-Commerce Directive) was incorporated into the EEA Agreement and transposed into Liechtenstein law through the E-Commerce-Gesetz (ECG). The Regulation (EU) 2022/2065 (Digital Services Act) is being incorporated into the EEA Agreement through the standard EEA Joint Committee procedure. Given Liechtenstein's EEA membership, the country of origin principle applies to information society service providers established in Liechtenstein providing services in other EEA states."
+    },
+    {
+      "provision_ref": "xref6",
+      "section": "6",
+      "title": "Blockchain Act and Financial Regulation",
+      "content": "Liechtenstein's Token- und VT-Dienstleister-Gesetz (TVTG), known as the Blockchain Act, established an early national framework for token economies and virtual asset service providers. Regulation (EU) 2023/1114 (MiCA) is being incorporated into the EEA Agreement and will require alignment of the TVTG with Union-wide requirements. Liechtenstein's Financial Market Authority (FMA) supervises VASPs and related financial market participants. The EEA Agreement incorporates the relevant EU financial services acquis with adaptations for Liechtenstein's market characteristics."
+    },
+    {
+      "provision_ref": "xref7",
+      "section": "7",
+      "title": "Consumer Protection Framework",
+      "content": "EU consumer protection directives, including the Consumer Rights Directive (Directive 2011/83/EU), the Unfair Commercial Practices Directive (Directive 2005/29/EC), and related measures, have been incorporated into the EEA Agreement and transposed into Liechtenstein law. Consumer protection law applies in conjunction with the E-Commerce Act and the Electronic Communications Act to protect consumers accessing services through electronic means. The Liechtenstein consumer protection authority cooperates with consumer authorities of EEA states in addressing cross-border consumer issues."
+    },
+    {
+      "provision_ref": "xref8",
+      "section": "8",
+      "title": "Cybersecurity Certification and ENISA",
+      "content": "The EU Cybersecurity Act (Regulation (EU) 2019/881) was incorporated into the EEA Agreement through EEA Joint Committee Decision and applies in Liechtenstein, establishing the basis for participation in European cybersecurity certification schemes. Liechtenstein participates in the European cybersecurity certification framework and, through the EEA EFTA framework, contributes to the work of ENISA. The national cybersecurity authority cooperates with ENISA and with the national cybersecurity authorities of EEA states in matters of common interest."
+    },
+    {
+      "provision_ref": "xref9",
+      "section": "9",
+      "title": "Open Data and Public Sector Information",
+      "content": "Directive (EU) 2019/1024 on open data and the re-use of public sector information has been incorporated into the EEA Agreement and transposed into Liechtenstein law, establishing the framework for making public sector information available for reuse. Given Liechtenstein's small public administration, the open data framework operates at an appropriate scale, with the Amt für Statistik maintaining the primary open data portal. Liechtenstein coordinates with EEA partners in the development of compatible open data standards and practices."
+    },
+    {
+      "provision_ref": "xref10",
+      "section": "10",
+      "title": "Trade Secrets Protection",
+      "content": "Directive (EU) 2016/943 on the protection of trade secrets has been incorporated into the EEA Agreement and transposed into Liechtenstein law through provisions of the Gesetz gegen den unlauteren Wettbewerb (UWG) and related instruments. The trade secrets framework is consistent with the requirements of the Directive and provides civil remedies for holders of trade secrets against unlawful acquisition, use, or disclosure. Liechtenstein courts apply the trade secrets framework in proceedings arising from cross-border commercial disputes where Liechtenstein law is applicable."
+    },
+    {
+      "provision_ref": "xref11",
+      "section": "11",
+      "title": "EEA Agreement Special Arrangements",
+      "content": "As an EEA state that is not an EU Member State, Liechtenstein benefits from and is subject to specific arrangements under the EEA Agreement that affect the application of EU law. Key adaptations include: the two-pillar structure of EEA governance; the EFTA Surveillance Authority's (ESA) role in monitoring Liechtenstein's compliance with EEA obligations; the EFTA Court's jurisdiction over Liechtenstein; adaptations specified in the EEA Agreement's Annexes and Protocols for small states; and the Schengen Agreement's relationship to Liechtenstein's legal system."
+    },
+    {
+      "provision_ref": "xref12",
+      "section": "12",
+      "title": "Financial Services Regulation",
+      "content": "Liechtenstein's Financial Market Authority (FMA) supervises banks, insurance companies, investment firms, and other financial market participants in accordance with EEA-incorporated EU financial services legislation. The TVTG and related legislation have been developed to complement and align with EEA financial services requirements. As MiCA and DORA are incorporated into the EEA Agreement, Liechtenstein's financial regulation framework will be updated to ensure consistency with Union-wide requirements while maintaining adaptations appropriate to the Liechtenstein market."
+    },
+    {
+      "provision_ref": "xref13",
+      "section": "13",
+      "title": "Artificial Intelligence Regulation",
+      "content": "Regulation (EU) 2024/1689 (AI Act) is expected to be incorporated into the EEA Agreement through the standard EEA Joint Committee procedure. Liechtenstein will be required to implement the AI Act requirements, including designating national competent authorities, establishing market surveillance mechanisms, and ensuring that operators of high-risk AI systems comply with applicable requirements. Liechtenstein's regulatory approach to AI will be developed in coordination with the EEA EFTA states and in alignment with the Union framework."
+    },
+    {
+      "provision_ref": "xref14",
+      "section": "14",
+      "title": "Data Governance and Data Act",
+      "content": "The Data Governance Act (Regulation (EU) 2022/868) and the Data Act (Regulation (EU) 2023/2854) are being incorporated into the EEA Agreement through the standard EEA Joint Committee procedure. These regulations will establish frameworks for data intermediation services, data altruism, and the obligations of manufacturers and service providers to make data accessible. Liechtenstein will implement applicable requirements through national measures and will designate the competent authorities required under each instrument."
+    },
+    {
+      "provision_ref": "xref15",
+      "section": "15",
+      "title": "Critical Infrastructure Resilience",
+      "content": "Directive (EU) 2022/2557 on the resilience of critical entities (CER Directive) is being incorporated into the EEA Agreement and will require Liechtenstein to update its national framework for critical infrastructure protection. Given Liechtenstein's geographic characteristics — a landlocked microstate with a small but highly developed economy — the application of the CER Directive will be adapted proportionately. Critical infrastructure sectors in Liechtenstein include energy, transport, digital infrastructure, banking, and water supply, which are assessed in the context of cross-border dependencies with neighbouring EEA and non-EEA states."
+    }
+  ]
+}

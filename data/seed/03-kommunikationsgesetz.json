@@ -1,0 +1,127 @@
+{
+  "id": "li-kommunikationsgesetz",
+  "type": "statute",
+  "title": "Kommunikationsgesetz (KomG)",
+  "title_en": "Electronic Communications Act",
+  "short_name": "KomG",
+  "status": "amended",
+  "issued_date": "2006-06-17",
+  "in_force_date": "2006-07-01",
+  "url": "https://www.gesetze.li/konso/2006124000",
+  "description": "Das Kommunikationsgesetz (KomG) ist das primäre Regulierungsgesetz für den elektronischen Kommunikationssektor in Liechtenstein. Es transponiert den EU-Regulierungsrahmen für elektronische Kommunikation gemäss EWR-Abkommen und benennt das Amt für Kommunikation (AK) als nationale Regulierungsbehörde. Das Gesetz regelt Marktanalysen, den allgemeinen Rahmen für die Genehmigung, Zugang und Zusammenschaltung, Konsumentenschutz und Frequenzmanagement. Liechtenstein hat aufgrund seiner Kleinheit und seines Integrationsgrads mit der Schweiz besondere Merkmale im Kommunikationsmarkt.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1. Zweck",
+      "content": "This Law establishes the regulatory framework for electronic communications networks and services in Liechtenstein, transposing the EU electronic communications regulatory framework pursuant to the EEA Agreement, including Directive (EU) 2018/1972 (European Electronic Communications Code, EECC) as incorporated into the EEA Agreement. The Law aims to promote competition in the provision of electronic communications networks and services, contribute to the development of the internal market, and promote the interests of citizens and businesses in Liechtenstein. The Law designates the Amt für Kommunikation as the national regulatory authority and establishes the regulatory framework for market access, interconnection, spectrum management, and consumer protection."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2. Amt für Kommunikation (National Regulatory Authority)",
+      "content": "The Amt für Kommunikation (AK) is designated as the national regulatory authority for electronic communications in Liechtenstein. The AK shall exercise its regulatory functions independently and impartially, without seeking or accepting instructions from any external body. The AK shall cooperate with the regulatory authorities of other EEA states, with the Body of European Regulators for Electronic Communications (BEREC), and with the EFTA Surveillance Authority in matters relating to electronic communications regulation. Given Liechtenstein's relationship with Switzerland, the AK shall also maintain close cooperation with the Swiss Federal Communications Commission (BAKOM) on matters of mutual interest."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3. Allgemeine Genehmigung (General Authorisation)",
+      "content": "Any natural or legal person may provide electronic communications networks or services in Liechtenstein subject to a general authorisation that takes effect upon notification to the AK. No specific authorisation or permit is required prior to the commencement of provision of electronic communications networks or services, except for the use of radio frequencies or numbering resources, which require individual rights of use granted by the AK. The general authorisation framework shall be proportionate and non-discriminatory, and the conditions applicable under the general authorisation shall be published and made easily accessible. Providers shall comply with applicable conditions throughout the period of their operation."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4. Marktanalyse und beträchtliche Marktmacht",
+      "content": "The AK shall define relevant markets for the purposes of electronic communications regulation, taking into account Commission recommendations and principles of competition law, and shall carry out periodic analyses of those markets. Where a market is found to not be effectively competitive, the AK shall identify providers with significant market power and shall impose proportionate regulatory obligations. Obligations may address transparency, non-discrimination, accounting separation, access and interconnection, and price control. Before imposing obligations, the AK shall consult with the affected provider and with the EFTA Surveillance Authority. Given Liechtenstein's small market, the AK may apply simplified market analysis procedures proportionate to the scale of the market."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5. Zugang und Zusammenschaltung (Access and Interconnection)",
+      "content": "The AK may impose obligations on providers of public electronic communications networks to negotiate and grant access and interconnection to other providers on fair and reasonable terms, where this is necessary for the functioning of the market and the provision of services. Obligations may include requirements to provide specific types of access, to apply equivalent conditions to all providers seeking access, and to adhere to cost-oriented pricing where the AK determines this is necessary. The cross-border character of Liechtenstein's communications market, given its integration within the Swiss and EEA frameworks, shall be taken into account in access and interconnection determinations."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6. Universaldienst (Universal Service)",
+      "content": "The AK shall ensure that all residents and businesses in Liechtenstein have access to a minimum set of electronic communications services of specified quality at affordable prices, regardless of their geographic location within the Principality. Given Liechtenstein's small geographic area and high population density, full geographic coverage of basic electronic communications services is generally ensured by market-driven deployment. The AK shall designate a universal service provider where market provision is insufficient and shall establish mechanisms for financing any net costs of universal service obligations that constitute an unfair burden on the designated provider."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7. Konsumentenschutz (Consumer Protection)",
+      "content": "Providers of publicly available electronic communications services shall ensure that subscribers have access to clear, comprehensive, and comparable information on the services offered, applicable prices, and terms and conditions. Contracts shall set out the key terms and conditions in an easily accessible format, and providers shall not modify contractual conditions without giving subscribers adequate prior notice. Subscribers shall have the right to terminate contracts without penalty upon notification of proposed changes to contractual conditions that are not exclusively to their benefit. The AK shall establish and maintain accessible complaint handling and dispute resolution procedures for subscribers of electronic communications services."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8. Frequenzmanagement (Spectrum Management)",
+      "content": "The AK shall manage the radio frequency spectrum allocated to electronic communications services in Liechtenstein in accordance with the national frequency allocation plan and applicable EEA law, promoting efficient use of spectrum resources. Rights of use for radio frequencies shall be granted through open, transparent, and non-discriminatory procedures. The AK shall coordinate spectrum management with Switzerland in relation to shared frequency bands and shall participate in bilateral and multilateral coordination arrangements to address cross-border interference. The AK shall implement EU spectrum harmonisation decisions as incorporated into the EEA Agreement and shall ensure that frequency usage is consistent with applicable technical standards."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9. Nummerierung (Numbering)",
+      "content": "The AK shall establish and maintain a national numbering plan for Liechtenstein, allocating number ranges to providers of electronic communications services and managing the use of numbering resources. The AK shall participate in international coordination of numbering resources through the International Telecommunication Union and applicable EEA frameworks. Providers shall enable number portability for subscribers wishing to retain their number when changing provider. Porting shall be completed without undue delay and within the timeframe specified by the AK. Providers shall not use porting processes as a means of deterring subscribers from changing provider."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10. Sicherheit von Netzen und Diensten",
+      "content": "Providers of public electronic communications networks and publicly available electronic communications services shall take appropriate technical and organisational measures to appropriately manage the security risks to those networks and services. Security measures shall address physical and environmental security, network integrity, element security, and operational security. Significant security breaches or losses of network integrity that have a significant impact on the operation of the network or on the provision of services shall be notified to the AK and, where relevant, to CERT.li. The AK shall publish an annual summary of notifications received and may conduct audits of providers' security measures."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11. Notfallkommunikation (Emergency Communications)",
+      "content": "Providers of publicly available telephone services shall provide free access to emergency communications services through the single European emergency number 112 from all terminal equipment, including mobile equipment. The AK shall ensure that caller location information is made available to emergency services in connection with calls to 112, to the extent technically feasible. Persons with disabilities shall have access to emergency services on an equivalent basis to other users, through appropriate technical means. The AK shall cooperate with the relevant authorities responsible for emergency services management in Liechtenstein."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12. Streitbeilegung (Dispute Resolution)",
+      "content": "The AK shall maintain procedures for the resolution of disputes between providers of electronic communications networks and services arising in connection with obligations under this Law. Any party to a dispute may refer the matter to the AK, which shall promote resolution through facilitated negotiation and shall issue a binding decision where parties cannot reach agreement. Decisions of the AK shall be published, subject to requirements of commercial confidentiality, and may be appealed to the competent courts within thirty days of notification. The AK shall also provide accessible alternative dispute resolution mechanisms for disputes between providers and end-users."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13. Infrastrukturplanung",
+      "content": "The AK, in cooperation with the relevant planning authorities, shall facilitate the deployment of electronic communications infrastructure in Liechtenstein, including the sharing of infrastructure and the installation of cables and related facilities on public and private land. Providers shall have the right to install electronic communications infrastructure subject to applicable planning, environmental, and aesthetic requirements. Given Liechtenstein's geographic characteristics as a small, mountainous state, specific provisions may apply to the deployment of infrastructure in protected areas and areas of particular environmental or cultural significance."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14. Zusammenarbeit mit der Schweiz",
+      "content": "Given Liechtenstein's close political, economic, and geographic integration with Switzerland, the AK shall maintain close cooperation with the Swiss Federal Office of Communications (BAKOM) and the Swiss Federal Communications Commission (ComCom) on matters of mutual interest in the electronic communications sector. Cooperation shall address spectrum coordination, numbering, cross-border service provision, consumer protection, and the development of consistent regulatory approaches. Liechtenstein's obligations under the EEA Agreement take precedence in matters covered by EEA law, and the AK shall ensure that arrangements with Swiss authorities are consistent with applicable EEA requirements."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15. Breitbandentwicklung (Broadband Development)",
+      "content": "The AK shall promote the deployment of broadband electronic communications networks, including very high capacity networks, throughout Liechtenstein, in line with European connectivity targets. In cooperation with the relevant government departments, the AK shall assess the state of broadband deployment and shall implement appropriate measures where market-driven deployment is insufficient to meet connectivity objectives. Liechtenstein's high per-capita income and small geographic area contribute to a generally favourable environment for broadband deployment, though targeted support may be needed in specific areas. The AK shall publish regular reports on broadband coverage and quality."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16. Durchsetzungsbefugnisse (Enforcement Powers)",
+      "content": "The AK shall have the power to investigate potential breaches of this Law and applicable regulations, to require providers to supply information, to carry out inspections, and to take evidence. Where a breach of applicable obligations is identified, the AK shall notify the provider and give them the opportunity to make representations before taking enforcement action. The AK may issue binding decisions requiring corrective action, impose financial penalties, suspend or withdraw rights of use, and take other proportionate enforcement measures. Financial penalties shall be proportionate to the nature, gravity, and duration of the breach and shall be effective and dissuasive."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Amt für Kommunikation (AK)",
+      "definition": "Liechtenstein's national regulatory authority for electronic communications, designated under this Law.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "electronic communications network",
+      "definition": "Transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, radio, optical or other electromagnetic means.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "significant market power",
+      "definition": "A position equivalent to dominance held by a provider in a relevant electronic communications market, assessed in accordance with competition law principles.",
+      "source_provision": "art4"
+    }
+  ]
+}
