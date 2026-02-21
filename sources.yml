@@ -3,23 +3,17 @@ mcp_name: "Liechtenstein Law MCP"
 jurisdiction: "LI"
 
 sources:
-  - name: "Landesverwaltung Liechtenstein"
-    authority: "Landesverwaltung Liechtenstein"
-    official_portal: "https://www.gesetze.li"
+  - name: "Lilex - Gesetzesdatenbank des Fürstentums Liechtenstein"
+    authority: "Rechtsdienst der Regierung (RDR), Liechtensteinische Landesverwaltung"
+    official_portal: "https://www.gesetze.li/konso"
     retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
-    last_ingested: "2026-02-21"
+    update_frequency: "unknown"
     license_or_terms:
-      type: "Government Open Data"
-      url: "https://www.gesetze.li"
-      summary: "Official legislative texts are public domain"
+      type: "government_terms"
+      url: "https://www.gesetze.li/konso/suche"
+      summary: "Die konsolidierten Texte dienen der Information; rechtlich verbindlich sind die kundgemachten Fassungen im Landesgesetzblatt."
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Konsolidiertes Landesrecht inklusive historischer Fassungen nach LGBl-Nummer."
+      limitations: "Portal nutzt dynamische HTML-Seiten mit eingebettetem Text-iframe; Search-Endpunkte sind teilweise cookie-abhängig."
     languages:
       - "de"
-
-data_freshness:
-  automated_checks: true
-  check_frequency: "weekly"
-  last_verified: "2026-02-21"

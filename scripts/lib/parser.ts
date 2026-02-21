@@ -1,37 +1,10 @@
-/**
- * HTML parser for Liechtenstein legislation from the Sejm ELI API (api.sejm.gov.pl).
- *
- * Parses the structured HTML served by the ELI text endpoint into seed JSON.
- * The HTML structure uses:
- *
- * - <div class="unit unit_chpt" id="chpt_N"> for chapters (Rozdział)
- * - <div class="unit unit_arti" id="chpt_N-arti_M"> for articles (Art.)
- * - <h3> inside articles for article number (Art. N.)
- * - <div class="unit unit_pass"> for numbered paragraphs (ustępy)
- * - <div class="unit unit_pint"> for numbered points (punkty)
- * - <div data-template="xText" class="pro-text"> for text content
- *
- * Liechtenstein legislation references: Dz.U. YYYY poz. NNNN
- * API endpoint: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-
-export interface ActIndexEntry {
+export interface TargetLaw {
   id: string;
-  title: string;
-  titleEn: string;
+  seedFile: string;
   shortName: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issuedDate: string;
-  inForceDate: string;
-  /** ISAP display address, e.g. "Dz.U. 2018 poz. 1000" */
-  dziennikRef: string;
-  /** Year of publication in Dziennik Ustaw */
-  year: number;
-  /** Position number (poz.) in Dziennik Ustaw */
-  poz: number;
-  /** Human-readable URL on ISAP */
-  url: string;
-  description?: string;
+  titleEn: string;
+  lawUrl: string;
+  description: string;
 }
 
 export interface ParsedProvision {
@@ -58,391 +31,384 @@ export interface ParsedAct {
   issued_date: string;
   in_force_date: string;
   url: string;
-  description?: string;
+  description: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
 }
 
-/**
- * Strip HTML tags and decode common entities, normalising whitespace.
- */
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&shy;/g, '')
+interface Heading {
+  index: number;
+  text: string;
+}
+
+const ENTITY_MAP: Record<string, string> = {
+  amp: '&',
+  lt: '<',
+  gt: '>',
+  quot: '"',
+  apos: "'",
+  nbsp: ' ',
+  shy: '',
+  sect: '§',
+  ndash: '-',
+  mdash: '-',
+  auml: 'ä',
+  ouml: 'ö',
+  uuml: 'ü',
+  Auml: 'Ä',
+  Ouml: 'Ö',
+  Uuml: 'Ü',
+  szlig: 'ß',
+  eacute: 'é',
+  agrave: 'à',
+  rsquo: "'",
+  lsquo: "'",
+  ldquo: '"',
+  rdquo: '"',
+};
+
+const GERMAN_MONTHS: Record<string, string> = {
+  januar: '01',
+  februar: '02',
+  maerz: '03',
+  märz: '03',
+  april: '04',
+  mai: '05',
+  juni: '06',
+  juli: '07',
+  august: '08',
+  september: '09',
+  oktober: '10',
+  november: '11',
+  dezember: '12',
+};
+
+function decodeHtmlEntities(input: string): string {
+  return input.replace(/&(#x?[0-9a-fA-F]+|[a-zA-Z]+);/g, (_, entity: string) => {
+    if (entity.startsWith('#x') || entity.startsWith('#X')) {
+      const cp = Number.parseInt(entity.slice(2), 16);
+      return Number.isFinite(cp) ? String.fromCodePoint(cp) : _;
+    }
+    if (entity.startsWith('#')) {
+      const cp = Number.parseInt(entity.slice(1), 10);
+      return Number.isFinite(cp) ? String.fromCodePoint(cp) : _;
+    }
+    return ENTITY_MAP[entity] ?? _;
+  });
+}
+
+function stripTags(input: string): string {
+  return input
+    .replace(/<a[^>]*href="#fn\d+"[^>]*>[\s\S]*?<\/a>/gi, ' ')
+    .replace(/<sup[^>]*>[\s\S]*?<\/sup\s*>/gi, ' ')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/(?:div|p|tr|table|li|ul|ol|h[1-6])>/gi, '\n')
+    .replace(/<[^>]+>/g, ' ');
+}
+
+function normalizeText(input: string): string {
+  return decodeHtmlEntities(stripTags(input))
+    .replace(/\u00a0/g, ' ')
+    .split('\n')
+    .map(line => line.replace(/[ \t]+/g, ' ').trim())
+    .filter(Boolean)
+    .join('\n')
+    .trim();
+}
+
+function cleanInlineText(input: string): string {
+  return decodeHtmlEntities(stripTags(input))
     .replace(/\u00a0/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
 
-/**
- * Find the chapter heading (Rozdział) for a given article position.
- * Searches backwards from the article position for the nearest chapter div.
- */
-function findChapterHeading(html: string, articlePos: number): string | undefined {
-  const beforeArticle = html.substring(Math.max(0, articlePos - 10000), articlePos);
-
-  // Look for the last chapter heading: Rozdział N ... Title
-  // Pattern in ISAP HTML: <div class="unit unit_chpt"...> <h3> Rozdział N ... Title </h3>
-  const chapterMatches = [
-    ...beforeArticle.matchAll(/Rozdzia[łl]\s*&nbsp;\s*(\d+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (chapterMatches.length > 0) {
-    const last = chapterMatches[chapterMatches.length - 1];
-    const chapterNum = last[1].trim();
-    // Try to find the title in subsequent <P> or <SPAN> tags
-    const afterChapter = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterChapter.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Rozdział ${chapterNum} - ${title}`
-      : `Rozdział ${chapterNum}`;
-  }
-
-  // Also check for Dział (Division) used in larger codes
-  const dzialMatches = [
-    ...beforeArticle.matchAll(/Dzia[łl]\s*&nbsp;\s*([IVXLCDM]+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (dzialMatches.length > 0) {
-    const last = dzialMatches[dzialMatches.length - 1];
-    const dzialNum = last[1].trim();
-    const afterDzial = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterDzial.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Dział ${dzialNum} - ${title}`
-      : `Dział ${dzialNum}`;
-  }
-
-  return undefined;
+function cleanSection(raw: string): string {
+  return raw
+    .trim()
+    .replace(/^0+([1-9])/, '$1')
+    .replace(/[^0-9A-Za-z]+/g, '');
 }
 
-/**
- * Parse HTML from the Sejm ELI API (api.sejm.gov.pl/eli/acts/DU/YYYY/POZ/text.html)
- * to extract provisions from a Liechtenstein statute.
- *
- * The HTML uses div-based structure:
- *   <div class="unit unit_arti" id="chpt_N-arti_M" data-id="arti_M">
- *     <h3><B>Art. M.</B></h3>
- *     <div class="unit-inner">
- *       <div class="unit unit_pass">
- *         <h3>1.</h3>
- *         <div class="unit-inner">
- *           <div data-template="xText">...content...</div>
- *         </div>
- *       </div>
- *     </div>
- *   </div>
- */
-export function parseLiechtensteinHtml(html: string, act: ActIndexEntry): ParsedAct {
-  const provisions: ParsedProvision[] = [];
-  const definitions: ParsedDefinition[] = [];
+function parseGermanDate(raw: string | undefined): string {
+  if (!raw) return '';
+  const cleaned = decodeHtmlEntities(raw).replace(/\s+/g, ' ').trim();
+  const match = cleaned.match(/(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)\s+(\d{4})/);
+  if (!match) return '';
 
-  // Match all article divs: <div class="unit unit_arti ..." id="...-arti_N" data-id="arti_N">
-  const articleRegex = /<div[^>]*class="unit unit_arti[^"]*"[^>]*id="([^"]*-)?arti_(\d+[a-z_]*)"[^>]*data-id="arti_(\d+[a-z_]*)"[^>]*>/gi;
-  const articleStarts: { fullId: string; artNum: string; pos: number }[] = [];
+  const day = match[1].padStart(2, '0');
+  const monthKey = match[2].toLowerCase();
+  const month = GERMAN_MONTHS[monthKey] ?? GERMAN_MONTHS[monthKey.replace('ä', 'ae')];
+  if (!month) return '';
+
+  return `${match[3]}-${month}-${day}`;
+}
+
+function extractFrameTitle(frameHtml: string): string {
+  const meta = frameHtml.match(/<meta\s+name="description"\s+content="([^"]+)"\s*\/?>/i);
+  if (!meta) return '';
+  return cleanInlineText(meta[1]);
+}
+
+function extractHeadings(frameHtml: string): Heading[] {
+  const headings: Heading[] = [];
+  const headingRegex = /<div class="(tit1m|tit1|tit2|tit3)"[^>]*>([\s\S]*?)<\/div>/gi;
 
   let match: RegExpExecArray | null;
-  while ((match = articleRegex.exec(html)) !== null) {
-    // Skip nested articles inside amendment provisions (chpt_12-arti_111-arti_22_2 etc.)
-    const fullId = match[0];
-    const idAttr = fullId.match(/id="([^"]+)"/)?.[1] ?? '';
-    // Count how many "arti_" segments appear in the ID
-    const artiSegments = (idAttr.match(/arti_/g) ?? []).length;
-    if (artiSegments > 1) continue;
-
-    articleStarts.push({
-      fullId: idAttr,
-      artNum: match[3],
-      pos: match.index,
-    });
+  while ((match = headingRegex.exec(frameHtml)) !== null) {
+    const text = cleanInlineText(match[2]);
+    if (!text || /Inhaltsverzeichnis/i.test(text)) {
+      continue;
+    }
+    headings.push({ index: match.index, text });
   }
 
-  for (let i = 0; i < articleStarts.length; i++) {
-    const article = articleStarts[i];
-    const startPos = article.pos;
+  return headings;
+}
 
-    // Extract content up to next article or end
-    const endPos = i + 1 < articleStarts.length
-      ? articleStarts[i + 1].pos
-      : html.length;
-    const articleHtml = html.substring(startPos, endPos);
+function extractArticleTitle(block: string, headingPrefix: string): string {
+  const titleMatch = block.match(/<div class="sacht">([\s\S]*?)<\/div>/i);
+  if (!titleMatch) {
+    return headingPrefix;
+  }
 
-    // Extract article number from <h3><B>Art. N.</B></h3> or <h3><B>Art. N<sup>...</B></h3>
-    const artHeadingMatch = articleHtml.match(
-      /<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*(\d+[a-z]*)\b/i
-    );
+  const titleText = cleanInlineText(titleMatch[1]);
+  if (!titleText) {
+    return headingPrefix;
+  }
 
-    const artNum = artHeadingMatch
-      ? artHeadingMatch[1].trim()
-      : article.artNum.replace(/_/g, '');
+  return `${headingPrefix} ${titleText}`;
+}
 
-    // Normalize: remove underscores from article numbers like "22_2"
-    const normalizedNum = artNum.replace(/_/g, '');
-    const provisionRef = `art${normalizedNum}`;
+function extractArticleContent(block: string): string {
+  const firstContentIdx = block.search(/<div class="(?:abs|bst1|ziff)"[^>]*>/i);
+  const base = firstContentIdx >= 0
+    ? block.slice(firstContentIdx)
+    : block
+      .replace(/<a name="(?:art|par):[^"]+"><\/a>\s*(?:Art\.|&sect;)\s*[0-9A-Za-z]+/i, '')
+      .replace(/<div class="sacht">[\s\S]*?<\/div>/i, '');
 
-    // Find chapter heading
-    const chapter = findChapterHeading(html, startPos);
+  return normalizeText(base);
+}
 
-    // Extract text content, stripping HTML
-    // Remove the article heading to avoid duplication
-    const contentHtml = articleHtml
-      .replace(/<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*\d+[a-z]*\.?\s*<\/B>\s*<\/h3>/i, '');
-    let content = stripHtml(contentHtml);
+function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
+  const definitions: ParsedDefinition[] = [];
+  const seen = new Set<string>();
 
-    // Skip very short articles (likely just structural markers)
-    if (content.length < 5) continue;
-
-    // Cap content at 12K characters
-    if (content.length > 12000) {
-      content = content.substring(0, 12000);
+  for (const provision of provisions) {
+    const scanSource = `${provision.title}\n${provision.content}`;
+    if (!/(Begriffsbestimmungen|Begriffe|Im Sinne dieses Gesetzes|bedeutet|gelten als)/i.test(scanSource)) {
+      continue;
     }
 
-    // Build a title from the first sentence or paragraph if meaningful
-    const title = `Art. ${normalizedNum}`;
+    const regexes = [
+      /"([^"\n]{2,120})"\s*:\s*([^\n]{8,600})/g,
+      /„([^“\n]{2,120})“\s*:\s*([^\n]{8,600})/g,
+    ];
+
+    for (const regex of regexes) {
+      let match: RegExpExecArray | null;
+      while ((match = regex.exec(scanSource)) !== null) {
+        const term = match[1].replace(/\s+/g, ' ').trim();
+        const definition = match[2].replace(/\s+/g, ' ').trim();
+
+        if (term.length < 2 || definition.length < 8) {
+          continue;
+        }
+
+        const dedupeKey = `${term.toLowerCase()}::${provision.provision_ref}`;
+        if (seen.has(dedupeKey)) {
+          continue;
+        }
+
+        seen.add(dedupeKey);
+        definitions.push({
+          term,
+          definition,
+          source_provision: provision.provision_ref,
+        });
+
+        if (definitions.length >= 200) {
+          return definitions;
+        }
+      }
+    }
+  }
+
+  return definitions;
+}
+
+function extractProvisions(frameHtml: string): ParsedProvision[] {
+  const provisions: ParsedProvision[] = [];
+  const seenRefs = new Set<string>();
+  const headings = extractHeadings(frameHtml);
+
+  const articleStartRegex = /<div class="art">/gi;
+  const starts: number[] = [];
+  let startMatch: RegExpExecArray | null;
+
+  while ((startMatch = articleStartRegex.exec(frameHtml)) !== null) {
+    starts.push(startMatch.index);
+  }
+
+  for (let i = 0; i < starts.length; i++) {
+    const start = starts[i];
+    const end = i + 1 < starts.length ? starts[i + 1] : frameHtml.length;
+    const block = frameHtml.slice(start, end);
+
+    const anchor = block.match(/<a name="(art|par):([^"]+)"><\/a>/i);
+    if (!anchor) {
+      continue;
+    }
+
+    const anchorType = anchor[1].toLowerCase();
+    let section = cleanSection(anchor[2]);
+    if (!section) {
+      const fallback = decodeHtmlEntities(block).match(/(?:Art\.|§)\s*([0-9A-Za-z]+)/);
+      section = fallback ? cleanSection(fallback[1]) : '';
+    }
+
+    if (!section) {
+      continue;
+    }
+
+    const provisionRef = `${anchorType}${section.toLowerCase()}`;
+    if (seenRefs.has(provisionRef)) {
+      continue;
+    }
+
+    const headingPrefix = anchorType === 'par' ? `§ ${section}` : `Art. ${section}`;
+    const title = extractArticleTitle(block, headingPrefix);
+    const content = extractArticleContent(block);
+
+    if (!content) {
+      continue;
+    }
+
+    let chapter: string | undefined;
+    for (let h = headings.length - 1; h >= 0; h--) {
+      if (headings[h].index < start) {
+        chapter = headings[h].text;
+        break;
+      }
+    }
 
     provisions.push({
       provision_ref: provisionRef,
       chapter,
-      section: normalizedNum,
+      section,
       title,
       content,
     });
 
-    // Extract definitions from definition articles
-    // Liechtenstein acts use "ilekroć mowa" (whenever mentioned), "rozumie się przez to"
-    // (this is understood as), or "oznacza" (means)
-    if (
-      content.includes('ilekro') ||
-      content.includes('rozumie si') ||
-      content.includes('oznacza') ||
-      content.includes('nale') && content.includes('rozumie')
-    ) {
-      extractDefinitions(content, provisionRef, definitions);
-    }
+    seenRefs.add(provisionRef);
   }
 
+  return provisions;
+}
+
+export function parseLiechtensteinFrameHtml(frameHtml: string, law: TargetLaw): ParsedAct {
+  const title = extractFrameTitle(frameHtml) || law.shortName;
+  const dateMatch = frameHtml.match(/<div class="vom">\s*vom\s+([^<]+)<\/div>/i);
+  const issuedDate = parseGermanDate(dateMatch?.[1]);
+  const provisions = extractProvisions(frameHtml);
+  const definitions = extractDefinitions(provisions);
+
   return {
-    id: act.id,
+    id: law.id,
     type: 'statute',
-    title: act.title,
-    title_en: act.titleEn,
-    short_name: act.shortName,
-    status: act.status,
-    issued_date: act.issuedDate,
-    in_force_date: act.inForceDate,
-    url: act.url,
-    description: act.description,
+    title,
+    title_en: law.titleEn,
+    short_name: law.shortName,
+    status: 'in_force',
+    issued_date: issuedDate,
+    in_force_date: issuedDate,
+    url: law.lawUrl,
+    description: law.description,
     provisions,
     definitions,
   };
 }
 
-/**
- * Extract definitions from Liechtenstein legal text.
- *
- * Liechtenstein definitions typically use patterns like:
- *   - "«term» – oznacza ..." ("term" – means ...)
- *   - "N) term – ..." (numbered list of definitions)
- *   - "ilekroć ... mowa o «term» – rozumie się przez to ..."
- */
-function extractDefinitions(
-  text: string,
-  sourceProvision: string,
-  definitions: ParsedDefinition[],
-): void {
-  // Pattern: numbered definitions like "1) term - definition;"
-  const numberedDefRegex = /\d+\)\s+([^–\-]+?)\s+[–\-]\s+(.*?)(?=;\s*\d+\)|$)/g;
-  let defMatch: RegExpExecArray | null;
-
-  while ((defMatch = numberedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/;$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-
-  // Pattern: «quoted term» – definition
-  const quotedDefRegex = /[„«\u201e]([^"»\u201d]+)["\u201d»]\s*[–\-]\s*(.*?)(?=[;.]\s*[„«\u201e]|[;.]\s*$)/g;
-  while ((defMatch = quotedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/[;.]$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-}
-
-/**
- * Pre-configured list of key Liechtenstein Acts to ingest.
- *
- * Source: api.sejm.gov.pl (Sejm ELI API)
- * URL pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * These are the most important Liechtenstein statutes for cybersecurity, data protection,
- * and compliance use cases. References use the Dziennik Ustaw (Journal of Laws)
- * format: Dz.U. YYYY poz. NNNN.
- */
-export const KEY_LIECHTENSTEIN_ACTS: ActIndexEntry[] = [
+export const TARGET_LAWS: TargetLaw[] = [
   {
-    id: 'dpa-2018',
-    title: 'Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych',
-    titleEn: 'Personal Data Protection Act 2018',
-    shortName: 'UODO 2018',
-    status: 'in_force',
-    issuedDate: '2018-05-10',
-    inForceDate: '2018-05-25',
-    dziennikRef: 'Dz.U. 2018 poz. 1000',
-    year: 2018,
-    poz: 1000,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000',
-    description: 'GDPR implementing provisions (RODO); establishes UODO (Urząd Ochrony Danych Osobowych) as the supervisory authority; covers certification, codes of conduct, and administrative penalties',
+    id: 'li-datenschutzgesetz',
+    seedFile: '01-datenschutzgesetz.json',
+    shortName: 'DSG',
+    titleEn: 'Data Protection Act (DSG)',
+    lawUrl: 'https://www.gesetze.li/konso/2018.272',
+    description: 'General data protection framework for public and private processing of personal data in Liechtenstein.',
   },
   {
-    id: 'ksc-2018',
-    title: 'Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa',
-    titleEn: 'National Cybersecurity System Act 2018 (KSC)',
-    shortName: 'KSC',
-    status: 'in_force',
-    issuedDate: '2018-07-05',
-    inForceDate: '2018-08-28',
-    dziennikRef: 'Dz.U. 2018 poz. 1560',
-    year: 2018,
-    poz: 1560,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560',
-    description: 'NIS Directive implementation; establishes national cybersecurity system with CSIRT teams (CSIRT NASK, CSIRT GOV, CSIRT MON); covers essential services operators and digital service providers',
+    id: 'li-cybersicherheitsgesetz',
+    seedFile: '02-cybersicherheitsgesetz.json',
+    shortName: 'CSG',
+    titleEn: 'Cybersecurity Act (CSG)',
+    lawUrl: 'https://www.gesetze.li/konso/2025.111',
+    description: 'Cybersecurity framework for risk management, incident reporting, and supervision of critical and important entities.',
   },
   {
-    id: 'ksh-2000',
-    title: 'Ustawa z dnia 15 września 2000 r. - Kodeks spółek handlowych',
-    titleEn: 'Commercial Companies Code (KSH)',
-    shortName: 'KSH',
-    status: 'in_force',
-    issuedDate: '2000-09-15',
-    inForceDate: '2001-01-01',
-    dziennikRef: 'Dz.U. 2000 nr 94 poz. 1037',
-    year: 2000,
-    poz: 1037,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000940037',
-    description: 'Comprehensive commercial companies law governing partnerships (spółka jawna, komandytowa, etc.) and capital companies (sp. z o.o. and S.A.); corporate governance requirements',
+    id: 'li-kommunikationsgesetz',
+    seedFile: '03-kommunikationsgesetz.json',
+    shortName: 'KomG',
+    titleEn: 'Electronic Communications Act (KomG)',
+    lawUrl: 'https://www.gesetze.li/konso/2023.216',
+    description: 'Core statute for electronic communications networks, services, market regulation, and user protection.',
   },
   {
-    id: 'kodeks-karny-1997',
-    title: 'Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny',
-    titleEn: 'Criminal Code (Kodeks karny)',
-    shortName: 'KK',
-    status: 'in_force',
-    issuedDate: '1997-06-06',
-    inForceDate: '1998-09-01',
-    dziennikRef: 'Dz.U. 1997 nr 88 poz. 553',
-    year: 1997,
-    poz: 553,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553',
-    description: 'Criminal Code; cybercrime provisions in Art. 267 (unauthorized access), Art. 268 (data destruction), Art. 268a (computer sabotage), Art. 269 (sabotage of critical systems), Art. 269a (DoS), Art. 269b (hacking tools)',
+    id: 'li-e-commerce-gesetz',
+    seedFile: '04-e-commerce-gesetz.json',
+    shortName: 'ECG',
+    titleEn: 'Electronic Commerce Act (ECG)',
+    lawUrl: 'https://www.gesetze.li/konso/2003.133',
+    description: 'Regulates legal aspects of information society services and electronic commerce, including provider duties and liability.',
   },
   {
-    id: 'e-services-2002',
-    title: 'Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną',
-    titleEn: 'Act on Provision of Electronic Services',
-    shortName: 'E-Services Act',
-    status: 'in_force',
-    issuedDate: '2002-07-18',
-    inForceDate: '2002-10-10',
-    dziennikRef: 'Dz.U. 2002 nr 144 poz. 1204',
-    year: 2002,
-    poz: 1204,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204',
-    description: 'E-Commerce Directive implementation; regulates electronic services, ISP liability, spam prohibition, electronic contracts',
+    id: 'li-e-government-gesetz',
+    seedFile: '05-e-government-gesetz.json',
+    shortName: 'E-GovG',
+    titleEn: 'E-Government Act (E-GovG)',
+    lawUrl: 'https://www.gesetze.li/konso/2011.575',
+    description: 'Legal basis for electronic transactions with public authorities, including identity, trust services, and digital procedures.',
   },
   {
-    id: 'telecom-2004',
-    title: 'Ustawa z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne',
-    titleEn: 'Telecommunications Law',
-    shortName: 'PT',
-    status: 'in_force',
-    issuedDate: '2004-07-16',
-    inForceDate: '2004-09-03',
-    dziennikRef: 'Dz.U. 2004 nr 171 poz. 1800',
-    year: 2004,
-    poz: 1800,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041711800',
-    description: 'Telecommunications regulation; data retention, communications security, network integrity obligations, UKE (Office of Electronic Communications) authority',
+    id: 'li-signaturgesetz',
+    seedFile: '06-signaturgesetz.json',
+    shortName: 'SigVG',
+    titleEn: 'Electronic Signatures and Trust Services Act (SigVG)',
+    lawUrl: 'https://www.gesetze.li/konso/2019.114',
+    description: 'Implements the legal framework for electronic signatures, seals, and trust services for electronic transactions.',
   },
   {
-    id: 'constitution-1997',
-    title: 'Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.',
-    titleEn: 'Constitution of the Republic of Poland',
-    shortName: 'Konstytucja RP',
-    status: 'in_force',
-    issuedDate: '1997-04-02',
-    inForceDate: '1997-10-17',
-    dziennikRef: 'Dz.U. 1997 nr 78 poz. 483',
-    year: 1997,
-    poz: 483,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483',
-    description: 'Supreme law; Art. 47 (privacy), Art. 49 (communication secrecy), Art. 51 (personal data protection), Art. 54 (freedom of expression)',
+    id: 'li-stgb-it-provisions',
+    seedFile: '07-stgb-it-provisions.json',
+    shortName: 'StGB',
+    titleEn: 'Criminal Code (StGB)',
+    lawUrl: 'https://www.gesetze.li/konso/1988.037',
+    description: 'Criminal Code containing offences and sanctions, including provisions relevant to information systems and cyber-enabled crime.',
   },
   {
-    id: 'kodeks-cywilny-1964',
-    title: 'Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny',
-    titleEn: 'Civil Code (Kodeks cywilny)',
-    shortName: 'KC',
-    status: 'in_force',
-    issuedDate: '1964-04-23',
-    inForceDate: '1965-01-01',
-    dziennikRef: 'Dz.U. 1964 nr 16 poz. 93',
-    year: 1964,
-    poz: 93,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093',
-    description: 'Core private law; personality rights protection (Art. 23-24), contract law, liability for damages, electronic declarations of intent',
+    id: 'li-tvtg-blockchain',
+    seedFile: '08-tvtg-blockchain.json',
+    shortName: 'TVTG',
+    titleEn: 'Token and TT Service Provider Act (TVTG)',
+    lawUrl: 'https://www.gesetze.li/konso/2019.301',
+    description: 'Establishes the legal framework for tokens and trusted technology service providers, including supervision and obligations.',
   },
   {
-    id: 'banking-law-1997',
-    title: 'Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe',
-    titleEn: 'Banking Law',
-    shortName: 'PB',
-    status: 'in_force',
-    issuedDate: '1997-08-29',
-    inForceDate: '1998-01-01',
-    dziennikRef: 'Dz.U. 1997 nr 140 poz. 939',
-    year: 1997,
-    poz: 939,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400939',
-    description: 'Banking regulation; banking secrecy obligations, outsourcing of banking activities, IT security requirements for banks, cloud computing provisions',
+    id: 'li-fmag-financial-market',
+    seedFile: '09-fmag-financial-market.json',
+    shortName: 'FMAG',
+    titleEn: 'Financial Market Supervision Act (FMAG)',
+    lawUrl: 'https://www.gesetze.li/konso/2004.175',
+    description: 'Defines the organization, powers, and procedures of Liechtenstein’s Financial Market Authority.',
   },
   {
-    id: 'kpa-1960',
-    title: 'Ustawa z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego',
-    titleEn: 'Code of Administrative Procedure (KPA)',
-    shortName: 'KPA',
-    status: 'in_force',
-    issuedDate: '1960-06-14',
-    inForceDate: '1961-01-01',
-    dziennikRef: 'Dz.U. 1960 nr 30 poz. 168',
-    year: 1960,
-    poz: 168,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168',
-    description: 'Administrative procedure code; governs proceedings before UODO (data protection authority), UKE, and other regulators; electronic administration provisions',
+    id: 'li-uwg-trade-secrets',
+    seedFile: '10-uwg-trade-secrets.json',
+    shortName: 'UWG',
+    titleEn: 'Unfair Competition Act (UWG)',
+    lawUrl: 'https://www.gesetze.li/konso/1992.121',
+    description: 'Governs unfair competition practices, including specific provisions on protection of trade secrets.',
   },
 ];

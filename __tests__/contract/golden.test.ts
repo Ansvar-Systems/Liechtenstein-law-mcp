@@ -53,7 +53,7 @@ describe('Article retrieval', () => {
 describe('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'Datenschutzgesetz'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'personenbezogene'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });
@@ -66,10 +66,10 @@ describe('EU cross-references', () => {
   });
 
   it('should link documents to EU instruments', () => {
-    const rows = db.prepare(
-      "SELECT eu_document_id FROM eu_references WHERE document_id = 'eu-cross-references'"
-    ).all() as { eu_document_id: string }[];
-    expect(rows.length).toBeGreaterThan(0);
+    const row = db.prepare(
+      'SELECT COUNT(DISTINCT document_id) as cnt FROM eu_references'
+    ).get() as { cnt: number };
+    expect(row.cnt).toBeGreaterThan(0);
   });
 });
 

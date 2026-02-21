@@ -1,127 +1,313 @@
 {
   "id": "li-e-government-gesetz",
   "type": "statute",
-  "title": "E-Government-Gesetz (EGovG)",
-  "title_en": "E-Government Act",
-  "short_name": "EGovG",
+  "title": "Gesetz vom 21. September 2011 über den elektronischen Geschäftsverkehr mit Behörden (E-Government-Gesetz; E-GovG)",
+  "title_en": "E-Government Act (E-GovG)",
+  "short_name": "E-GovG",
   "status": "in_force",
-  "issued_date": "2021-01-14",
-  "in_force_date": "2021-03-01",
-  "url": "https://www.gesetze.li/konso/2021007000",
-  "description": "Das E-Government-Gesetz (EGovG) schafft den rechtlichen Rahmen für die elektronische Kommunikation zwischen Bürgern, Unternehmen und öffentlichen Stellen in Liechtenstein sowie für die Bereitstellung öffentlicher Dienstleistungen auf elektronischem Weg. Es legt die Grundsätze der digitalen Verwaltung fest und sorgt für die Angleichung an entsprechende EWR-Massnahmen, einschliesslich der Verordnung (EU) 2018/1724 (Single Digital Gateway) und der eIDAS-Verordnung. Als Kleinstaat mit hochentwickelter Verwaltung bietet Liechtenstein ideal digitale Verwaltungsdienstleistungen für Bürger und Unternehmen an.",
+  "issued_date": "2011-09-21",
+  "in_force_date": "2011-09-21",
+  "url": "https://www.gesetze.li/konso/2011.575",
+  "description": "Legal basis for electronic transactions with public authorities, including identity, trust services, and digital procedures.",
   "provisions": [
     {
       "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "1",
-      "title": "Art. 1. Gegenstand und Geltungsbereich",
-      "content": "This Law establishes the legal framework for electronic government in Liechtenstein, governing the electronic provision of public services, the electronic exchange of information and documents between public authorities, and the management of government information systems. The Law aims to improve the accessibility, quality, and efficiency of public administration by enabling the delivery of public services through digital channels, to reduce administrative burdens on citizens and businesses, and to align with applicable EEA obligations regarding cross-border digital public services. The Law applies to all public authorities of the Principality of Liechtenstein."
+      "title": "Art. 1 Gegenstand und Geltungsbereich",
+      "content": "1) Dieses Gesetz regelt den elektronischen Geschäftsverkehr zwischen Behörden sowie zwischen Behörden und Personen.\n2) Auf den elektronischen Geschäftsverkehr zwischen Personen findet dieses Gesetz nur insoweit Anwendung, als dies im Gesetz ausdrücklich bestimmt wird."
     },
     {
       "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "2",
-      "title": "Art. 2. Grundsätze der elektronischen Verwaltung",
-      "content": "Public authorities in Liechtenstein shall apply the following principles in the design and delivery of electronic public services: the digital-by-default principle, under which electronic channels are the preferred means of providing and accessing public services, while ensuring alternatives are available for those who cannot use digital services; the once-only principle, under which citizens and businesses are required to submit information to public authorities only once; the inclusiveness principle, ensuring that electronic services are accessible to all persons including those with disabilities; the openness and transparency principle, ensuring that information about public services and the decisions of public authorities is readily accessible; and the privacy-by-design principle."
+      "title": "Art. 2 Zweck",
+      "content": "1) Dieses Gesetz dient insbesondere der Förderung rechtserheblicher elektronischer Kommunikation sowie der Sicherstellung einer effizienten und wirtschaftlichen Verwaltungstätigkeit durch den Einsatz elektronischer Kommunikationsmittel.\n2) Es dient zudem der Durchführung der Verordnung (EU) Nr. 910/2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt (eIDAS-VO) .\n3) Die gültige Fassung der in Abs. 2 genannten EWR-Rechtsvorschrift ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
     },
     {
       "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "3",
-      "title": "Art. 3. Koordinierungsstelle für E-Government",
-      "content": "The Office for Digital Affairs (Amt für Digitales) or, where not yet established, the relevant ministerial department, is designated as the central coordination body responsible for e-government strategy and policy in Liechtenstein. The coordination body shall develop and maintain the national e-government strategy, establish technical standards for government information systems, coordinate the development and operation of shared digital infrastructure, and monitor the uptake and quality of electronic public services. Given Liechtenstein's small administrative structure, a high degree of coordination between agencies is essential to avoid duplication and to ensure consistent user experiences."
+      "title": "Art. 3 Begriffe und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als: a) \"Identität\": die Beschreibung einer Person (Bst. f) durch Merkmale, die ihre Unterscheidbarkeit von anderen ermöglicht;\nb) \"Identifikation\": die elektronische Identifizierung von Personen nach Art. 3 Ziff. 1 eIDAS-VO;\nc) \"Authentizität\": die Echtheit einer Willenserklärung oder Handlung;\nd) \"Authentizitätsprüfung\": der Vorgang nach Art. 3 Ziff. 5 eIDAS-VO, der zum Nachweis oder zur Feststellung der Authentizität einer Willenserklärung oder Handlung erforderlich ist;\ne) \"Behörden\": Organe des Staates, der Gemeinden und von Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts sowie auch Private, soweit sie in Erfüllung der ihnen übertragenen öffentlichen Aufgaben tätig sind;\nf) \"Person\": jede natürliche Person, juristische Person oder sonstige rechtsfähige Einheit, der bei ihrer Teilnahme am Rechts- oder Wirtschaftsverkehr eine eigene Identität zukommt;\ng) \"Unternehmen\": juristische Personen und sonstige rechtsfähige Einheiten sowie jede natürliche Person, die geschäftsmässig handelt;\nh) Aufgehoben\ni) \"elektronische Identität (eID)\": ein elektronisches Identifizierungsmittel nach Art. 3 Ziff. 2 eIDAS-VO;\nk) \"Amtssignatur\": eine fortgeschrittene elektronische Signatur oder ein fortgeschrittenes elektronisches Siegel zur ausschliesslichen Nutzung durch Behörden.\n1a) Im Übrigen finden die Begriffsbestimmungen der eIDAS-VO ergänzend Anwendung.\n2) Unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Elektronische Kommunikation"
     },
     {
       "provision_ref": "art4",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "4",
-      "title": "Art. 4. Elektronische Identifikation und Authentifizierung",
-      "content": "Public authorities shall accept electronic identification means at the assurance level appropriate to the online service concerned, in accordance with the requirements of Regulation (EU) No 910/2014 (eIDAS) as incorporated into the EEA Agreement. The national electronic identification system for Liechtenstein shall be designed to be interoperable with electronic identification systems of other EEA states. Qualified electronic signatures and seals shall be accepted by public authorities for the submission of documents and applications, in accordance with the eIDAS framework. The Amt für Kommunikation shall maintain the national trusted list and shall supervise qualified trust service providers established in Liechtenstein."
+      "title": "Art. 4 Form der elektronischen Kommunikation",
+      "content": "1) Im Rahmen des elektronischen Geschäftsverkehrs kann jede Form der elektronischen Kommunikation genutzt werden.\n2) Sieht eine Behörde eine besondere elektronische Übermittlungsform vor, so hat sie dies auf ihrer Internetseite bekannt zu machen."
     },
     {
       "provision_ref": "art5",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "5",
-      "title": "Art. 5. Elektronische Dokumente",
-      "content": "Electronic documents shall have equivalent legal standing to paper documents for interactions between citizens or businesses and public authorities, where the integrity and authenticity of the electronic document can be verified. Public authorities shall accept applications, forms, and supporting documents submitted electronically where equivalent paper documents would be accepted. The management of electronic records by public authorities shall comply with applicable legislation on public records management and shall ensure the long-term preservation and accessibility of records required to be retained under applicable retention schedules. Public authorities shall establish procedures for the authentication and validation of electronic documents received."
+      "title": "Art. 5 Pflicht zur elektronischen Kommunikation",
+      "content": "1) Im Geschäftsverkehr zwischen Behörden und zwischen Behörden und Unternehmen erfolgt die Kommunikation elektronisch.\n2) Behörden sind verpflichtet, mit natürlichen Personen elektronisch zu kommunizieren, sofern diese der elektronischen Kommunikation zugestimmt haben. Die Bestimmungen des Zustellgesetzes bleiben vorbehalten.\n3) Die Regierung regelt die Ausnahmen von der Pflicht zur elektronischen Kommunikation mit Verordnung."
     },
     {
       "provision_ref": "art6",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "6",
-      "title": "Art. 6. Einmaligkeit der Datenmeldung (Once-Only Principle)",
-      "content": "Public authorities shall implement the once-only principle to the extent technically and organisationally feasible, under which citizens and businesses are required to provide data to public authorities only once, with authorities sharing data between themselves as necessary for the processing of administrative applications and transactions. Implementation of the once-only principle shall comply with applicable data protection law, including the requirement for a lawful basis for data sharing and, where applicable, for the consent of the data subject. The coordination body shall establish the technical infrastructure required to support inter-agency data exchange and shall publish guidelines on the implementation of the once-only principle."
+      "title": "Art. 6 Pflicht zur Bereitstellung eines nicht elektronischen Kommunikationskanals",
+      "content": "Behörden haben natürlichen Personen, soweit sie nicht Unternehmen sind, zumindest einen nicht elektronischen Kommunikationskanal zur Verfügung zu stellen."
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "6a",
+      "title": "Art. 6a Elektronische Kommunikation zwischen Behörden und Unternehmen",
+      "content": "1) Die elektronische Kommunikation zwischen Behörden und Unternehmen, die keine natürlichen Personen sind, erfolgt durch die vertretungsbefugten natürlichen Personen des Unternehmens. Die Vertretungsbefugnisse richten sich nach Art. 20.\n2) Für die elektronische Kommunikation zwischen Behörden und Unternehmen können teilautomatisierte oder vollautomatisierte Datenaustauschsysteme eingerichtet werden.\n3) Die Regierung regelt das Nähere über die elektronische Kommunikation zwischen Behörden und Unternehmen mit Verordnung."
+    },
+    {
+      "provision_ref": "art6b",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "6b",
+      "title": "Art. 6b Wiederverwendung und Übermittlung von Daten",
+      "content": "1) Behörden haben im elektronischen Geschäftsverkehr Daten, die bereits von ihnen oder einer anderen Behörde erhoben wurden, wiederzuverwenden, wenn die betroffene Person in die Wiederverwendung eingewilligt hat. Zu diesem Zweck haben Behörden einander die erforderlichen Daten zu übermitteln.\n2) Die Regierung kann das Nähere über die Wiederverwendung und Übermittlung von Daten mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art6c",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "6c",
+      "title": "Art. 6c Online-Serviceportale",
+      "content": "1) Behörden haben an der Einrichtung sowie der technischen und inhaltlichen Pflege von gemeinsamen Serviceportalen für die Bereitstellung von Informationen und die Unterstützung bei der Kommunikation im elektronischen Geschäftsverkehr mitzuwirken. Die Portale werden von der Liechtensteinischen Landesverwaltung eingerichtet und betrieben.\n1a) Um die Erreichbarkeit für Kunden und die Feststellung der amtsinternen Zuständigkeiten zu erleichtern, können die dienstlichen Kontaktdaten der Staatsangestellten (Vor- und Nachname, E-Mail-Adresse, Telefonnummer) auf den Serviceportalen der Liechtensteinischen Landesverwaltung veröffentlicht werden.\n2) Die Regierung regelt das Nähere, insbesondere über die Organisation, die Vorgaben für Schnittstellen und Datenformate sowie die Aufbereitung und Übermittlung von Informationen, mit Verordnung."
+    },
+    {
+      "provision_ref": "art6d",
+      "chapter": "II. Elektronische Kommunikation",
+      "section": "6d",
+      "title": "Art. 6d Elektronisches Beurkundungs- und Beglaubigungssystem",
+      "content": "1) Die Liechtensteinische Landesverwaltung betreibt ein Beurkundungs- und Beglaubigungssystem zur Durchführung elektronischer öffentlicher Beurkundungen und Beglaubigungen.\n2) Das Amt für Informatik hat geeignete Massnahmen zu ergreifen, um sicherzustellen, dass die Grundsätze der Datensicherheit nach der Datenschutzgesetzgebung eingehalten werden.\n3) Die Regierung regelt das Nähere mit Verordnung."
     },
     {
       "provision_ref": "art7",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "7",
-      "title": "Art. 7. Interoperabilität (Interoperability)",
-      "content": "Government information systems shall be designed and operated in accordance with interoperability standards specified by the coordination body, consistent with the European Interoperability Framework and applicable EEA requirements. Public authorities procuring or developing new information systems shall ensure compliance with applicable interoperability standards and shall consult with the coordination body in the planning and design phase of significant new systems. The coordination body shall maintain a catalogue of shared components and reference data available to public authorities for use in electronic services and shall promote the reuse of existing solutions in preference to the development of new systems."
+      "title": "Art. 7 Rechtswirkungen elektronisch gestellter Vorbringen",
+      "content": "Elektronisch gestellte Vorbringen, die ausserhalb der Amtsstunden binnen offener Frist in einer Form eingebracht werden, die die Feststellung des Zeitpunkts des Einlangens ermöglicht, gelten als rechtzeitig eingebracht. Behördliche Entscheidungsfristen beginnen jedoch erst mit dem Wiederbeginn der Amtsstunden zu laufen."
     },
     {
       "provision_ref": "art8",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "8",
-      "title": "Art. 8. Barrierefreiheit (Accessibility)",
-      "content": "Electronic public services and government websites shall be designed and implemented in accordance with applicable accessibility standards, ensuring that persons with disabilities can access and use them on an equal basis with others, consistent with Directive (EU) 2016/2102 on the accessibility of websites and mobile applications of public sector bodies as incorporated into the EEA Agreement. The coordination body shall establish technical standards for accessibility applicable to government digital services and shall monitor compliance. Public authorities shall publish accessibility statements for their websites and applications and shall provide accessible alternatives for citizens unable to use standard digital channels."
+      "title": "Art. 8 Elektronisch beglaubigte Kopien",
+      "content": "1) Personen können Behörden an Stelle von Originaldokumenten oder beglaubigten Kopien nach Abs. 2 erstellte elektronisch beglaubigte Kopien vorlegen.\n2) Personen können bei Behörden elektronische Kopien von Originaldokumenten oder einer beglaubigten Kopie anfertigen lassen; die Übereinstimmung der elektronischen Kopie mit dem Original oder der beglaubigten Kopie ist durch eine Amtssignatur zu bestätigen und hat den Hinweis \"elektronisch beglaubigte Kopie gemäss Art. 8 E-GovG\" zu enthalten. Enthält eine elektronisch beglaubigte Kopie keine vollständige Wiedergabe, so sind in der Kopie die Auslassungen kenntlich zu machen.\n3) Die Beweiskraft der elektronisch beglaubigten Kopie richtet sich nach den Vorschriften, die für das der Behörde vorgelegte Originaldokument oder die vorgelegte beglaubigte Kopie gelten. Die Bestimmungen der ZPO gelten sinngemäss.\n4) Die Regierung regelt das Nähere, insbesondere die Zuständigkeiten und die Gebühren, mit Verordnung."
     },
     {
       "provision_ref": "art9",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "9",
-      "title": "Art. 9. Informationssicherheit (Information Security)",
-      "content": "Public authorities shall implement information security measures for their information systems in accordance with standards established by the coordination body in cooperation with the Amt für Kommunikation. Information security shall be based on a risk management approach, addressing confidentiality, integrity, and availability of government information and systems. The Amt für Kommunikation, through CERT.li, shall coordinate the government's response to significant cybersecurity incidents affecting public authority systems and shall provide guidance on minimum information security standards applicable to government systems. Public authorities shall conduct regular assessments of their information security posture."
+      "title": "Art. 9 Behördliche Kundmachungen",
+      "content": "Behördliche Kundmachungen können elektronisch erfolgen. Vorbehalten bleiben spezialgesetzliche Vorschriften, insbesondere der Kundmachungsgesetzgebung."
     },
     {
       "provision_ref": "art10",
+      "chapter": "II. Elektronische Kommunikation",
       "section": "10",
-      "title": "Art. 10. Grenzüberschreitende Dienste (Cross-Border Services)",
-      "content": "Liechtenstein shall participate in EEA initiatives for cross-border digital public services, including the Single Digital Gateway established under Regulation (EU) 2018/1724 and the mutual recognition of electronic identification and trust services under eIDAS. The coordination body shall ensure that Liechtenstein meets applicable obligations relating to the cross-border provision of electronic public services, including the online availability of specified administrative procedures and the acceptance of electronic identification and documents from other EEA states. Cross-border service interoperability shall be a key design principle for new electronic public services."
+      "title": "Art. 10 Haftungsausschluss",
+      "content": "Behörden haften nicht für Schäden materieller oder ideeller Art, die durch die Nutzung der dargebotenen elektronischen Informationen oder Dienstleistungen verursacht worden sind, sofern kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden seitens der Behörde vorliegt.\nIIa. Elektronische Identifikation"
     },
     {
       "provision_ref": "art11",
+      "chapter": "IIa. Elektronische Identifikation",
       "section": "11",
-      "title": "Art. 11. Offene Daten (Open Data)",
-      "content": "Public authorities shall make data held in their information systems available for reuse by citizens, businesses, and other public authorities to the extent permitted by applicable law, in accordance with Directive (EU) 2019/1024 on open data and the re-use of public sector information as incorporated into the EEA Agreement. The coordination body shall maintain a national open data portal providing access to government datasets made available for reuse and shall establish policies for the publication of government data in open, machine-readable formats. Open data publication shall be consistent with applicable data protection, security, and confidentiality requirements."
+      "title": "Art. 11 Grundsatz",
+      "content": "Die elektronische Identität (eID) ist im elektronischen Geschäftsverkehr zwischen Behörden und Personen in Fällen zu verwenden, in denen eine eindeutige Identifizierung erforderlich ist."
     },
     {
       "provision_ref": "art12",
+      "chapter": "IIa. Elektronische Identifikation",
       "section": "12",
-      "title": "Art. 12. Verwaltungsdigitalisierung (Administrative Digitisation)",
-      "content": "Public authorities shall progressively digitise their administrative processes and services in accordance with the national e-government strategy, prioritising services with high volume, high citizen impact, and potential for significant efficiency gains through digitisation. The coordination body shall support public authorities in identifying and implementing digitisation opportunities and shall develop shared platforms and tools to reduce the cost and complexity of digitisation. Progress in digitisation shall be monitored and reported on an annual basis, with the aim of achieving full digital availability of all citizen-facing public services by the target date established in the national e-government strategy."
+      "title": "Art. 12 Zweck",
+      "content": "1) Die eID dient der eindeutigen elektronischen Identifikation einer natürlichen Person und der Authentizitätsprüfung der Willenserklärung oder Handlung der Person. Sie ersetzt im behördlichen Verfahren ihre Unterschrift.\n2) Sie dient der eindeutigen elektronischen Identifikation von Unternehmen, wenn diese durch eine nach Art. 20 vertretungsbefugte natürliche Person erfolgt.\n3) Aufgehoben"
+    },
+    {
+      "provision_ref": "art12a",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "12a",
+      "title": "Art. 12a Verwendung der eID in Datenanwendungen von privaten Dateninhabern",
+      "content": "1) Die Verwendung der eID zur eindeutigen elektronischen Identifikation von natürlichen Personen in Datenanwendungen von privaten Dateninhabern ist nur zulässig, wenn: a) die Verwendung der eID durch den privaten Dateninhaber vom Amt für Informatik bewilligt wurde; und\nb) der Inhaber der eID in diese Nutzung eingewilligt hat.\n2) Bei der Erteilung der Bewilligung nach Abs. 1 Bst. a berücksichtigt das Amt für Informatik, ob der betroffene Dateninhaber Gewähr für einen sicheren Umgang mit der eID bietet. Die Bewilligung kann mit Bedingungen und Auflagen verbunden werden.\n3) Das Amt für Informatik entscheidet formlos über die Erteilung der Bewilligung nach Abs. 1 Bst. a; der betroffene Dateninhaber kann jedoch binnen 14 Tagen ab Zustellung der formlosen Entscheidung den Erlass einer beschwerdefähigen Verfügung verlangen.\n4) Die Regierung regelt das Nähere über die Verwendung der eID in Datenanwendungen von privaten Dateninhabern mit Verordnung, insbesondere über: a) die Voraussetzungen nach Abs. 2;\nb) allfällige Bewilligungs- und Nutzungsgebühren."
     },
     {
       "provision_ref": "art13",
+      "chapter": "IIa. Elektronische Identifikation",
       "section": "13",
-      "title": "Art. 13. Digitale Kompetenzen (Digital Skills)",
-      "content": "The coordination body shall cooperate with the Ministry of Education and relevant educational institutions to ensure that public sector employees have the digital skills necessary for the effective design, delivery, and use of electronic public services. Training programmes shall be developed for public sector employees at all levels, addressing foundational digital literacy, user-centred service design, data management, and cybersecurity awareness. Citizens who are unable to access or use electronic public services independently shall be provided with appropriate assistance through public access points, telephone services, or in-person support, consistent with the inclusiveness principle."
+      "title": "Art. 13 Anspruch auf Ausstellung",
+      "content": "1) Jede natürliche Person hat Anspruch auf Ausstellung einer eID. Minderjährigen oder Personen, denen ein Sachwalter nach § 269 ABGB bestellt wurde, darf eine eID nur ausgestellt werden, wenn der gesetzliche Vertreter dem Antrag zustimmt.\n2) Die Regierung regelt das Nähere, insbesondere die Gebühren für die Ausstellung der eID, mit Verordnung."
     },
     {
       "provision_ref": "art14",
+      "chapter": "IIa. Elektronische Identifikation",
       "section": "14",
-      "title": "Art. 14. Liechtenstein-spezifische Anpassungen",
-      "content": "The e-government framework shall be adapted to reflect the specific characteristics of Liechtenstein as a small state with a compact public administration, a high level of economic integration with Switzerland, and extensive participation in the EEA. Adaptations shall ensure proportionality between the resources invested in e-government infrastructure and the scale of public administration, maximise the reuse of solutions developed in coordination with EEA partner states and international organisations, and leverage Liechtenstein's relationships with Switzerland, Austria, and other neighbouring states to access shared digital infrastructure and services where beneficial."
+      "title": "Art. 14 Ausstellungsverfahren",
+      "content": "1) Anträge auf Ausstellung einer eID sind beim Ausländer- und Passamt zu stellen.\n2) Das Ausländer- und Passamt hat im Zuge der Ausstellung einer eID die Identität des Antragstellers festzustellen und zu überprüfen.\n3) Die Regierung regelt das Nähere, insbesondere zur Überprüfung der Identität des Antragstellers, mit Verordnung."
     },
     {
       "provision_ref": "art15",
+      "chapter": "IIa. Elektronische Identifikation",
       "section": "15",
-      "title": "Art. 15. Berichterstattung und Monitoring",
-      "content": "The coordination body shall establish a monitoring framework for e-government in Liechtenstein, including indicators measuring the availability, uptake, and quality of electronic public services, and shall publish regular reports on progress. Public authorities shall provide information to the coordination body on their digital services as required for monitoring purposes. Liechtenstein shall cooperate with the European Commission and EEA partners in the collection and reporting of e-government benchmark data and shall participate in relevant EEA monitoring frameworks. Annual reports on e-government progress shall be published and submitted to the Government."
+      "title": "Art. 15 Anerkennung von elektronischen Identifizierungsmitteln anderer Staaten",
+      "content": "1) Elektronische Identifizierungsmittel eines anderen EWR-Mitgliedstaats können nach Massgabe von Art. 6 und 9 der eIDAS-VO im elektronischen Geschäftsverkehr mit Behörden zu den Zwecken nach Art. 12 verwendet werden.\n2) Elektronische Identifizierungsmittel der Schweiz oder eines anderen Drittstaats können im elektronischen Geschäftsverkehr mit Behörden zu den Zwecken nach Art. 12 anerkannt werden, sofern sie das Sicherheitsniveau \"substantiell\" oder \"hoch\" im Sinne der Art. 6 Abs. 1 i.V.m. Art. 8 Abs. 2 Bst. b und c eIDAS-VO aufweisen.\n3) Die Regierung regelt das Nähere, insbesondere über die Anerkennung elektronischer Identifizierungsmittel der Schweiz und anderer Drittstaaten, mit Verordnung."
     },
     {
       "provision_ref": "art16",
+      "chapter": "IIa. Elektronische Identifikation",
       "section": "16",
-      "title": "Art. 16. Nutzerbeteiligung und Rückmeldungen",
-      "content": "Public authorities shall engage citizens, businesses, and relevant stakeholders in the design and continuous improvement of electronic public services, through user research, testing, consultation, and feedback mechanisms. The coordination body shall establish standards for user-centred service design and shall provide methodologies and tools to support public authorities in conducting user research and testing. Public authorities shall publish service standards for their electronic services, including commitments on availability, performance, and accessibility, and shall publicly report on their performance against these standards."
+      "title": "Art. 16",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "17",
+      "title": "Art. 17 Verlängerung",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "18",
+      "title": "Art. 18 Sperrung und Erlöschen",
+      "content": "1) Die eID wird gesperrt, wenn: a) der Inhaber der eID verstorben ist;\nb) die eID über einen Zeitraum von drei Jahren nicht genutzt worden ist;\nc) der Inhaber der eID dies ausdrücklich verlangt;\nd) Zweifel an der Identität des Inhabers der eID bestehen;\ne) die Voraussetzungen zur Führung der eID nicht mehr vorliegen; oder\nf) eine unzulässige Verwendung der eID nach Art. 28 Abs. 1 Bst. a festgestellt wurde.\n1a) Die Sperrung der eID nach Abs. 1 erfolgt durch das Ausländer- und Passamt. Ausserhalb der Amtsstunden kann in den Fällen nach Abs. 1 Bst. c, d und f die Landespolizei die Sperrung vornehmen.\n2) Die eID erlischt, wenn sie über einen Zeitraum von zwei Jahren gesperrt war.\n3) Die eID kann in den Fällen nach Abs. 1 Bst. b bis d wieder aktiviert werden. Auf die Wiederaktivierung findet das Verfahren nach Art. 14 Anwendung.\n4) Die Regierung regelt das Nähere, insbesondere über die Information des Inhabers der eID über die Sperrung sowie die Wiederaktivierung der eID nach einer Sperrung, mit Verordnung."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "19",
+      "title": "Art. 19 eID-System",
+      "content": "1) Das eID-System dient der technischen Umsetzung insbesondere folgender Zwecke: a) des elektronischen Identifizierungssystems nach Art. 3 Ziff. 4 eIDAS-VO;\nb) der Vertretung im elektronischen Geschäftsverkehr;\nc) der Freigabe von Daten.\n2) Das eID-System wird von der Landesverwaltung geführt. Der Betrieb des eID-Systems obliegt dem Amt für Informatik.\n3) Das Amt für Informatik hat geeignete Massnahmen zu ergreifen, um sicherzustellen, dass die Grundsätze der Datensicherheit nach der Datenschutzgesetzgebung eingehalten werden.\n4) Die Zugriffe im eID-System werden protokolliert; die Protokolldaten sind drei Jahre aufzubewahren sowie lesbar und verfügbar zu halten.\n5) Die Regierung regelt das Nähere über die Führung und den Betrieb des eID-Systems mit Verordnung."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "20",
+      "title": "Art. 20 Vertretung im elektronischen Geschäftsverkehr",
+      "content": "1) Personen können sich durch natürliche Personen, die Inhaber einer eID sind, im elektronischen Geschäftsverkehr vertreten lassen.\n2) Die nach Abs. 1 erteilten Vertretungen können jederzeit durch die vertretene Person widerrufen werden.\n3) Die Registrierung, die Übertragung und der Widerruf von Vertretungsbefugnissen kann von natürlichen Personen im eID-System vorgenommen werden. Die Verantwortung für die Richtigkeit der Registrierung liegt bei der Person.\n4) Die Regierung regelt das Nähere über die Vertretung mit Verordnung."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "21",
+      "title": "Art. 21 Haftung",
+      "content": "1) Umfang und Ausmass des nach Art. 11 der eIDAS-VO zu ersetzenden Schadens sowie allfällige Rückgriffsrechte gegenüber anderen Personen richten sich nach den auf den Schadensfall sonst anwendbaren Bestimmungen.\n2) Ersatzansprüche gegenüber anderen Personen oder aus einem anderen Rechtsgrund bleiben unberührt."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "IIa. Elektronische Identifikation",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Aufgehoben\nIII. Elektronische Dokumente und Aktenführung"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "III. Elektronische Dokumente und Aktenführung",
+      "section": "24",
+      "title": "Art. 24 Grundsatz",
+      "content": "1) Die Behörde hat Dokumente, insbesondere Erledigungen und Ausfertigungen, elektronisch zu erstellen und zu erfassen.\n2) Elektronisch erstellte Dokumente gelten als Original. Ausfertigungen in Form von elektronischen Dokumenten müssen mit einer Amtssignatur versehen sein.\n3) Elektronisch erfasste Inhalte gelten als Original, wenn sichergestellt ist, dass diese nachträglich nicht unerkannt verändert werden können.\n4) Die Behörden können zur elektronischen Erstellung und Erfassung von Dokumenten elektronische Aktenverwaltungssysteme nutzen."
+    },
+    {
+      "provision_ref": "art24a",
+      "chapter": "III. Elektronische Dokumente und Aktenführung",
+      "section": "24a",
+      "title": "Art. 24a Amtssignatur",
+      "content": "1) Die Amtssignatur dient der erleichterten Erkennbarkeit der Herkunft eines Dokuments einer Behörde.\n2) Die Nutzung der Amtssignatur ist mithilfe eines Signaturvermerks im Dokument darzustellen; der Signaturvermerk enthält insbesondere die Bezeichnung der Behörde und den Hinweis, dass das Dokument mit einer Amtssignatur signiert ist.\n3) Ein auf Papier ausgedrucktes elektronisches Dokument einer Behörde hat die Vermutung der Echtheit für sich, wenn das Dokument mit einer Amtssignatur signiert wurde und über einen Signaturvermerk nach Abs. 2 verfügt.\n4) Die Regierung kann das Nähere mit Verordnung regeln."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "III. Elektronische Dokumente und Aktenführung",
+      "section": "25",
+      "title": "Art. 25 Vorlage elektronischer Dokumente",
+      "content": "1) Soweit von einer Behörde Dokumente an eine andere Behörde vorgelegt werden müssen und diese Dokumente elektronisch erstellt oder erfasst wurden, bezieht sich die Vorlagepflicht auf dieses elektronische Original. Dies gilt insbesondere für Dokumente aus einem durchgehend elektronisch geführten Aktenverwaltungssystem. Die Vorlage muss in einem Standardformat erfolgen.\n2) Als Standardformate gelten jene elektronischen Formate, die während der voraussichtlichen Aufbewahrungsdauer die Lesbarkeit eines Dokuments auch für Dritte jeweils bestmöglich nach dem Stand der Technik gewährleisten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "III. Elektronische Dokumente und Aktenführung",
+      "section": "26",
+      "title": "Art. 26 Archivierung elektronischer Dokumente",
+      "content": "Elektronische Dokumente sind auf elektronischen Informationsträgern oder über definierte Schnittstellen in einer Form zur Übernahme anzubieten, die zum Zeitpunkt des Anbietens den allgemein anerkannten Regeln der Technik entspricht.\nIV. Rechtsmittel"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "IV. Rechtsmittel",
+      "section": "27",
+      "title": "Art. 27 Beschwerde",
+      "content": "1) Gegen Entscheidungen und Verfügungen des Ausländer- und Passamtes, der Landespolizei oder des Amtes für Informatik kann binnen 14 Tagen ab Zustellung Beschwerde an die Regierung erhoben werden.\n2) Gegen Entscheidungen und Verfügungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\n3) Beschwerden gegen die Sperrung der eID nach Art. 28 Abs. 2 kommt keine aufschiebende Wirkung zu.\nV. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "V. Strafbestimmungen",
+      "section": "28",
+      "title": "Art. 28 Unzulässige Verwendung der eID und der Amtssignatur",
+      "content": "1) Sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist, wird von der Regierung wegen Übertretung mit Busse bis zu 10 000 Franken bestraft, wer: a) eine eID unzulässig verwendet;\nb) eine Amtssignatur entgegen Art. 24a verwendet oder ihre Verwendung vortäuscht.\n2) In den Fällen des Abs. 1 Bst. a wird zusätzlich zur Verhängung einer Busse die eID nach Art. 18 Abs. 1 Bst. f gesperrt, wobei die Daten vom Betreiber zur Beweissicherung archiviert werden.\n3) Bei fahrlässiger Begehung wird die Strafobergrenze auf die Hälfte herabgesetzt.\n4) Werden Widerhandlungen im Geschäftsbetrieb einer juristischen Person, einer Kollektiv- oder Kommanditgesellschaft oder einer Einzelfirma begangen, finden die Strafbestimmungen auf die Personen Anwendung, die für sie gehandelt haben oder hätten handeln sollen, jedoch unter solidarischer Mithaftung der juristischen Person, der Gesellschaft oder der Einzelfirma für die Bussen und Kosten.\nVI. Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "29",
+      "title": "Art. 29 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen, insbesondere über: a) die Ausnahmen von der Pflicht zur elektronischen Kommunikation (Art. 5 Abs. 3);\nb) die elektronische Kommunikation zwischen Behörden und Unternehmen (Art. 6a Abs. 3);\nc) die Wiederverwendung und Übermittlung von Daten (Art. 6b Abs. 2);\nd) die Online-Serviceportale (Art. 6c Abs. 2);\ne) die elektronisch beglaubigten Kopien (Art. 8 Abs. 4);\ne ) die Verwendung der eID in Datenanwendungen von privaten Dateninhabern (Art. 12a Abs. 4);\nf) die Ausstellung der eID (Art. 13 Abs. 2);\ng) das Ausstellungsverfahren (Art. 14 Abs. 3);\nh) die Anerkennung von elektronischen Identifizierungsmitteln anderer Staaten (Art. 15 Abs. 3);\ni) die Sperrung und das Erlöschen der eID (Art. 18 Abs. 4);\nk) die Führung und den Betrieb des eID-Systems (Art. 19 Abs. 5);\nl) die elektronische Vertretung (Art. 20 Abs. 4);\nm) die Amtssignatur (Art. 24a Abs. 4)."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VI. Schlussbestimmungen",
+      "section": "30",
+      "title": "Art. 30 Inkrafttreten",
+      "content": "Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist am 1. Januar 2012 in Kraft, andernfalls am Tage der Kundmachung.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Dr. Klaus Tschütscher\nFürstlicher Regierungschef\nÜbergangs- und Inkrafttretensbestimmungen\n172.018.1 E-Government-Gesetz (E-GovG)\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2019 Nr. 115 ausgegeben am 29. April 2019\nGesetz\nvom 27. Februar 2019\nüber die Abänderung des\nE-Government-Gesetzes\n...\nII.\nInkrafttreten\nDieses Gesetz tritt gleichzeitig mit dem Signatur- und Vertrauensdienstegesetz vom 27. Februar 2019 in Kraft.\n...\nLiechtensteinisches Landesgesetzblatt\nJahrgang 2020 Nr. 359 ausgegeben am 1. Dezember 2020\nGesetz\nvom 30. September 2020\nüber die Abänderung des\nE-Government-Gesetzes\n...\nII.\nÜbergangsbestimmungen\n1) Die Behörden sind verpflichtet, bis spätestens 1. Januar 2023 die technischen und organisatorischen Voraussetzungen für eine elektronische Kommunikation nach Art. 5 zu schaffen.\n2) Die Pflicht zur Datenwiederverwendung und -übermittlung nach Art. 6b besteht nur, wenn die entsprechenden technischen Schnittstellen vorhanden sind. Diese sind bis spätestens 31. Dezember 2026 zu schaffen. Die Regierung veröffentlicht die Verfahren, für die entsprechende technische Schnittstellen vorliegen, im Amtsblatt.\n...\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 66/2011 und 75/2011\n2\nVerordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) .\n3\nArt. 2 Abs. 2 eingefügt durch LGBl. 2020 Nr. 359 .\n4\nArt. 2 Abs. 3 eingefügt durch LGBl. 2020 Nr. 359 .\n5\nArt. 3 Abs. 1 Bst. a abgeändert durch LGBl. 2020 Nr. 359 .\n6\nArt. 3 Abs. 1 Bst. b abgeändert durch LGBl. 2020 Nr. 359 .\n7\nArt. 3 Abs. 1 Bst. d abgeändert durch LGBl. 2020 Nr. 359 .\n8\nArt. 3 Abs. 1 Bst. g abgeändert durch LGBl. 2020 Nr. 359 .\n9\nArt. 3 Abs. 1 Bst. h aufgehoben durch LGBl. 2020 Nr. 359 .\n10\nArt. 3 Abs. 1 Bst. i abgeändert durch LGBl. 2020 Nr. 359 .\n11\nArt. 3 Abs. 1 Bst. k abgeändert durch LGBl. 2020 Nr. 359 .\n12\nArt. 3 Abs. 1a eingefügt durch LGBl. 2020 Nr. 359 .\n13\nArt. 4 abgeändert durch LGBl. 2020 Nr. 359 .\n14\nArt. 5 abgeändert durch LGBl. 2020 Nr. 359 .\n15\nArt. 6 abgeändert durch LGBl. 2020 Nr. 359 .\n16\nArt. 6a eingefügt durch LGBl. 2020 Nr. 359 .\n17\nArt. 6b eingefügt durch LGBl. 2020 Nr. 359 .\n18\nArt. 6c eingefügt durch LGBl. 2020 Nr. 359 .\n19\nArt. 6c Abs. 1a eingefügt durch LGBl. 2023 Nr. 404 .\n20\nArt. 6d eingefügt durch LGBl. 2024 Nr. 20 .\n21\nÜberschrift vor Art. 11 abgeändert durch LGBl. 2020 Nr. 359 .\n22\nArt. 11 abgeändert durch LGBl. 2020 Nr. 359 .\n23\nArt. 12 abgeändert durch LGBl. 2020 Nr. 359 .\n24\nArt. 12 Abs. 3 aufgehoben durch LGBl. 2023 Nr. 404 .\n25\nArt. 12a eingefügt durch LGBl. 2023 Nr. 404 .\n26\nArt. 13 abgeändert durch LGBl. 2020 Nr. 359 .\n27\nArt. 14 abgeändert durch LGBl. 2020 Nr. 359 .\n28\nArt. 15 abgeändert durch LGBl. 2020 Nr. 359 .\n29\nArt. 16 aufgehoben durch LGBl. 2020 Nr. 359 .\n30\nArt. 17 aufgehoben durch LGBl. 2020 Nr. 359 .\n31\nArt. 18 abgeändert durch LGBl. 2020 Nr. 359 .\n32\nArt. 18 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2023 Nr. 404 .\n33\nArt. 18 Abs. 1a eingefügt durch LGBl. 2023 Nr. 404 .\n34\nArt. 19 abgeändert durch LGBl. 2020 Nr. 359 .\n35\nArt. 20 abgeändert durch LGBl. 2020 Nr. 359 .\n36\nArt. 21 abgeändert durch LGBl. 2020 Nr. 359 .\n37\nArt. 22 aufgehoben durch LGBl. 2020 Nr. 359 .\n38\nArt. 23 aufgehoben durch LGBl. 2020 Nr. 359 .\n39\nArt. 24 Abs. 1 abgeändert durch LGBl. 2020 Nr. 359 .\n40\nArt. 24 Abs. 4 abgeändert durch LGBl. 2020 Nr. 359 .\n41\nArt. 24a abgeändert durch LGBl. 2020 Nr. 359 .\n42\nArt. 25 Abs. 1 abgeändert durch LGBl. 2020 Nr. 359 .\n43\nArt. 27 Abs. 1 abgeändert durch LGBl. 2023 Nr. 404 .\n44\nArt. 27 Abs. 3 eingefügt durch LGBl. 2020 Nr. 359 .\n45\nArt. 28 Sachüberschrift abgeändert durch LGBl. 2020 Nr. 359 .\n46\nArt. 28 Abs. 1 Bst. a abgeändert durch LGBl. 2020 Nr. 359 .\n47\nArt. 28 Abs. 1 Bst. b abgeändert durch LGBl. 2019 Nr. 115 .\n48\nArt. 28 Abs. 2 abgeändert durch LGBl. 2020 Nr. 359 .\n49\nArt. 29 abgeändert durch LGBl. 2020 Nr. 359 .\n50\nArt. 29 Bst. ebis eingefügt durch LGBl. 2023 Nr. 404 .\n51\nInkrafttreten: 1. Juli 2019 ( LGBl. 2019 Nr. 114 )."
     }
   ],
   "definitions": [
     {
-      "term": "digital-by-default",
-      "definition": "The principle that public services are made available electronically as the preferred channel of access, while ensuring that those unable to use digital services can still access equivalent services through other means.",
-      "source_provision": "art2"
+      "term": "Identität",
+      "definition": "die Beschreibung einer Person (Bst. f) durch Merkmale, die ihre Unterscheidbarkeit von anderen ermöglicht;",
+      "source_provision": "art3"
     },
     {
-      "term": "once-only principle",
-      "definition": "The principle under which citizens and businesses are required to submit information to public authorities only once, with authorities sharing information between themselves as necessary.",
-      "source_provision": "art6"
+      "term": "Identifikation",
+      "definition": "die elektronische Identifizierung von Personen nach Art. 3 Ziff. 1 eIDAS-VO;",
+      "source_provision": "art3"
     },
     {
-      "term": "interoperability",
-      "definition": "The ability of disparate and diverse systems, organisations, and individuals to interact towards mutually beneficial and agreed common goals, covering technical, semantic, and organisational dimensions.",
-      "source_provision": "art7"
+      "term": "Authentizität",
+      "definition": "die Echtheit einer Willenserklärung oder Handlung;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Authentizitätsprüfung",
+      "definition": "der Vorgang nach Art. 3 Ziff. 5 eIDAS-VO, der zum Nachweis oder zur Feststellung der Authentizität einer Willenserklärung oder Handlung erforderlich ist;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Behörden",
+      "definition": "Organe des Staates, der Gemeinden und von Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts sowie auch Private, soweit sie in Erfüllung der ihnen übertragenen öffentlichen Aufgaben tätig sind;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Person",
+      "definition": "jede natürliche Person, juristische Person oder sonstige rechtsfähige Einheit, der bei ihrer Teilnahme am Rechts- oder Wirtschaftsverkehr eine eigene Identität zukommt;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Unternehmen",
+      "definition": "juristische Personen und sonstige rechtsfähige Einheiten sowie jede natürliche Person, die geschäftsmässig handelt;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "elektronische Identität (eID)",
+      "definition": "ein elektronisches Identifizierungsmittel nach Art. 3 Ziff. 2 eIDAS-VO;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Amtssignatur",
+      "definition": "eine fortgeschrittene elektronische Signatur oder ein fortgeschrittenes elektronisches Siegel zur ausschliesslichen Nutzung durch Behörden.",
+      "source_provision": "art3"
     }
   ]
 }

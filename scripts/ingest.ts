@@ -1,30 +1,18 @@
 #!/usr/bin/env tsx
 /**
- * Liechtenstein Law MCP -- Ingestion Pipeline
- *
- * Fetches Liechtenstein legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Liechtenstein Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Liechtenstein legislation is public domain under Art. 4 of the Copyright Act
+ * Liechtenstein Law MCP -- Real ingestion from https://www.gesetze.li/konso
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseLiechtensteinHtml, KEY_LIECHTENSTEIN_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchLegislation } from './lib/fetcher.js';
+import {
+  TARGET_LAWS,
+  parseLiechtensteinFrameHtml,
+  type ParsedAct,
+  type TargetLaw,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,19 +20,39 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+interface IngestArgs {
+  limit: number | null;
+  skipFetch: boolean;
+}
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+interface IngestResult {
+  id: string;
+  title: string;
+  url: string;
+  seedFile: string;
+  provisions: number;
+  definitions: number;
+  status: 'ok' | 'cached' | 'failed';
+  error?: string;
+}
+
+function parseArgs(): IngestArgs {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
   for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
+    const arg = args[i];
+    if (arg === '--limit' && args[i + 1]) {
+      const parsed = Number.parseInt(args[i + 1], 10);
+      if (Number.isFinite(parsed) && parsed > 0) {
+        limit = parsed;
+      }
       i++;
-    } else if (args[i] === '--skip-fetch') {
+      continue;
+    }
+
+    if (arg === '--skip-fetch') {
       skipFetch = true;
     }
   }
@@ -52,135 +60,161 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
+function decodeHtmlEntities(input: string): string {
+  return input
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
 }
 
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Liechtenstein Acts from api.sejm.gov.pl...\n`);
+function toAbsoluteGesetzeUrl(pathOrUrl: string): string {
+  if (pathOrUrl.startsWith('http://') || pathOrUrl.startsWith('https://')) {
+    return pathOrUrl;
+  }
+  return `https://www.gesetze.li${pathOrUrl.startsWith('/') ? '' : '/'}${pathOrUrl}`;
+}
 
+function extractIframeUrl(outerHtml: string): string {
+  const iframeMatch = outerHtml.match(/<iframe[^>]*src="([^"]+)"/i);
+  if (!iframeMatch) {
+    throw new Error('No iframe src found in law page');
+  }
+
+  return toAbsoluteGesetzeUrl(decodeHtmlEntities(iframeMatch[1]));
+}
+
+function ensureDirectories(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+function cleanSeedDirectory(): void {
+  const expected = new Set(TARGET_LAWS.map(law => law.seedFile));
+  for (const file of fs.readdirSync(SEED_DIR)) {
+    if (!file.endsWith('.json')) continue;
+    if (expected.has(file)) continue;
+    fs.unlinkSync(path.join(SEED_DIR, file));
+  }
+}
 
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
+function writeSeedFile(seedFile: string, act: ParsedAct): void {
+  const outputPath = path.join(SEED_DIR, seedFile);
+  fs.writeFileSync(outputPath, `${JSON.stringify(act, null, 2)}\n`, 'utf-8');
+}
 
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
-    }
+async function fetchLawSourceFiles(law: TargetLaw, skipFetch: boolean): Promise<{ outerHtml: string; frameHtml: string }> {
+  const outerPath = path.join(SOURCE_DIR, `${law.id}.outer.html`);
+  const framePath = path.join(SOURCE_DIR, `${law.id}.frame.html`);
 
-    try {
-      let html: string;
-
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
-
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseLiechtensteinHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
-    }
-
-    processed++;
+  let outerHtml: string;
+  if (skipFetch && fs.existsSync(outerPath)) {
+    outerHtml = fs.readFileSync(outerPath, 'utf-8');
+  } else {
+    outerHtml = await fetchLegislation(law.lawUrl);
+    fs.writeFileSync(outerPath, outerHtml, 'utf-8');
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Liechtenstein Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+  const iframeUrl = extractIframeUrl(outerHtml);
+
+  let frameHtml: string;
+  if (skipFetch && fs.existsSync(framePath)) {
+    frameHtml = fs.readFileSync(framePath, 'utf-8');
+  } else {
+    frameHtml = await fetchLegislation(iframeUrl);
+    fs.writeFileSync(framePath, frameHtml, 'utf-8');
   }
-  console.log('');
+
+  return { outerHtml, frameHtml };
+}
+
+async function ingestLaw(law: TargetLaw, skipFetch: boolean): Promise<IngestResult> {
+  const { frameHtml } = await fetchLawSourceFiles(law, skipFetch);
+  const parsed = parseLiechtensteinFrameHtml(frameHtml, law);
+
+  if (parsed.provisions.length === 0) {
+    throw new Error(`No provisions parsed for ${law.id}`);
+  }
+
+  writeSeedFile(law.seedFile, parsed);
+
+  return {
+    id: law.id,
+    title: parsed.title,
+    url: law.lawUrl,
+    seedFile: law.seedFile,
+    provisions: parsed.provisions.length,
+    definitions: parsed.definitions.length,
+    status: skipFetch ? 'cached' : 'ok',
+  };
 }
 
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
+  const laws = limit ? TARGET_LAWS.slice(0, limit) : TARGET_LAWS;
 
-  console.log('Liechtenstein Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Liechtenstein Copyright Act)`);
+  ensureDirectories();
+  cleanSeedDirectory();
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  console.log('Liechtenstein Law MCP -- Real data ingestion');
+  console.log('Source: https://www.gesetze.li/konso (official portal)');
+  console.log(`Laws selected: ${laws.length}`);
+  if (limit) console.log(`--limit ${limit}`);
+  if (skipFetch) console.log('--skip-fetch');
+  console.log('');
 
-  const acts = limit ? KEY_LIECHTENSTEIN_ACTS.slice(0, limit) : KEY_LIECHTENSTEIN_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  const results: IngestResult[] = [];
+
+  for (const law of laws) {
+    process.stdout.write(`Fetching and parsing ${law.id} ... `);
+    try {
+      const result = await ingestLaw(law, skipFetch);
+      results.push(result);
+      console.log(`OK (${result.provisions} provisions, ${result.definitions} definitions)`);
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      results.push({
+        id: law.id,
+        title: law.shortName,
+        url: law.lawUrl,
+        seedFile: law.seedFile,
+        provisions: 0,
+        definitions: 0,
+        status: 'failed',
+        error: message,
+      });
+      console.log(`FAILED (${message})`);
+    }
+  }
+
+  const okCount = results.filter(r => r.status === 'ok' || r.status === 'cached').length;
+  const failed = results.filter(r => r.status === 'failed');
+  const totalProvisions = results.reduce((sum, r) => sum + r.provisions, 0);
+  const totalDefinitions = results.reduce((sum, r) => sum + r.definitions, 0);
+
+  console.log('\nIngestion summary');
+  console.log('-----------------');
+  console.log(`Succeeded: ${okCount}/${results.length}`);
+  console.log(`Total provisions: ${totalProvisions}`);
+  console.log(`Total definitions: ${totalDefinitions}`);
+  console.log('');
+
+  for (const result of results) {
+    const status = result.status.toUpperCase();
+    console.log(`${status.padEnd(7)} ${result.id.padEnd(28)} ${String(result.provisions).padStart(4)} provisions  ${result.seedFile}`);
+  }
+
+  if (failed.length > 0) {
+    console.log('\nFailed laws:');
+    for (const item of failed) {
+      console.log(`- ${item.id}: ${item.error}`);
+    }
+    process.exitCode = 1;
+  }
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal ingestion error:', error);
   process.exit(1);
 });

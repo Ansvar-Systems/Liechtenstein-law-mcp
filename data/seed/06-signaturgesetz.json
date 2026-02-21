@@ -1,132 +1,176 @@
 {
   "id": "li-signaturgesetz",
   "type": "statute",
-  "title": "Signaturgesetz (SigG)",
-  "title_en": "Electronic Signatures and Trust Services Act",
-  "short_name": "SigG",
-  "status": "amended",
-  "issued_date": "2003-11-18",
-  "in_force_date": "2004-01-01",
-  "url": "https://www.gesetze.li/konso/2003274000",
-  "description": "Das Signaturgesetz (SigG) bildet das nationale Implementierungsgesetz für die eIDAS-Verordnung (Verordnung (EU) Nr. 910/2014) in Liechtenstein gemäss EWR-Abkommen. Es benennt das Amt für Kommunikation als Aufsichtsbehörde für qualifizierte Vertrauensdiensteanbieter, regelt die Anerkennung elektronischer Signaturen und Siegel für Rechtszwecke und stellt die Konformitätsbewertungsanforderungen für qualifizierte Vertrauensdiensteanbieter fest. Das SigG gewährleistet die Interoperabilität von Vertrauensdiensten im gesamten EWR.",
+  "title": "Gesetz vom 27. Februar 2019 über elektronische Signaturen und Vertrauensdienste für elektronische Transaktionen (Signatur- und Vertrauensdienstegesetz; SigVG)",
+  "title_en": "Electronic Signatures and Trust Services Act (SigVG)",
+  "short_name": "SigVG",
+  "status": "in_force",
+  "issued_date": "2019-02-27",
+  "in_force_date": "2019-02-27",
+  "url": "https://www.gesetze.li/konso/2019.114",
+  "description": "Implements the legal framework for electronic signatures, seals, and trust services for electronic transactions.",
   "provisions": [
     {
       "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "1",
-      "title": "Art. 1. Zweck und Verhältnis zur eIDAS-Verordnung",
-      "content": "This Law implements Regulation (EU) No 910/2014 (eIDAS) in Liechtenstein pursuant to the EEA Agreement and EEA Joint Committee Decision No 221/2018, establishing the national framework for electronic identification and trust services. The Law designates the Amt für Kommunikation as the supervisory body for qualified trust service providers established in Liechtenstein, establishes national procedures for the supervision of trust service providers and the management of the trusted list, and provides procedural requirements for the acceptance of trust services by Liechtenstein public authorities. Where eIDAS applies directly, this Law provides national supplementary measures only."
+      "title": "Art. 1 Zweck",
+      "content": "1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (nachfolgend eIDAS-VO) (EWR-Rechtssammlung: Anh. XI - 5i.01), mit Ausnahme ihres Kapitels II.\n2) Die jeweils geltende Fassung der in Abs. 1 genannten EWR-Rechtsvorschrift sowie der damit zusammenhängenden Durchführungsrechtsakte ergibt sich aus der Kundmachung der Beschlüsse des Gemeinsamen EWR-Ausschusses im Liechtensteinischen Landesgesetzblatt nach Art. 3 Bst. k des Kundmachungsgesetzes."
     },
     {
       "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "2",
-      "title": "Art. 2. Aufsichtsbehörde (Supervisory Body)",
-      "content": "The Amt für Kommunikation (AK) is designated as the supervisory body responsible for supervising qualified trust service providers established in Liechtenstein, in accordance with the requirements of Regulation (EU) No 910/2014. The AK shall establish and maintain the national trusted list of qualified trust service providers and the qualified trust services they provide, in the format specified by the European Commission. The AK shall cooperate with supervisory bodies of other EEA states and with the European Commission in matters relating to the supervision of trust services, and shall participate in applicable cross-border supervisory cooperation arrangements."
+      "title": "Art. 2 Begriffsbestimmungen und Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes gelten als:\na) \"VDA\": ein Vertrauensdiensteanbieter nach Art. 3 Ziff. 19 eIDAS-VO;\nb) \"Signator\": ein Unterzeichner nach Art. 3 Ziff. 9 eIDAS-VO;\nc) \"Bestätigungsstelle\": eine nach Art. 30 Abs. 2 eIDAS-VO vom EWR-Mitgliedstaat der EU-Kommission zu benennende Stelle für die Zertifizierung der Konformität qualifizierter elektronischer Signatur- und Siegelerstellungseinheiten mit den Anforderungen des Anhangs II der eIDAS-VO;\nd) \"Kompromittierung\": die Beeinträchtigung von Sicherheitsmassnahmen oder Sicherheitstechnik, sodass das vom Vertrauendiensteanbieter zugrunde gelegte Sicherheitsniveau nicht eingehalten ist.\n2) Im Übrigen finden die Begriffsbestimmungen des Art. 3 eIDAS-VO ergänzend Anwendung.\n3) Unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Elektronische Signaturen und elektronische Siegel"
     },
     {
       "provision_ref": "art3",
+      "chapter": "II. Elektronische Signaturen und elektronische Siegel",
       "section": "3",
-      "title": "Art. 3. Qualifizierte Vertrauensdiensteanbieter",
-      "content": "Trust service providers wishing to obtain qualified status shall submit a conformity assessment report issued by an accredited conformity assessment body together with an application to the AK. The AK shall assess the application and, where applicable requirements are satisfied, shall grant qualified status and include the provider on the trusted list within the period specified by eIDAS. Qualified trust service providers shall maintain their qualified status through ongoing compliance with applicable requirements and shall undergo conformity assessment at least every twenty-four months. The AK may suspend or withdraw qualified status where a provider no longer satisfies applicable requirements."
+      "title": "Art. 3 Rechtswirkungen",
+      "content": "1) Eine qualifizierte elektronische Signatur erfüllt das rechtliche Erfordernis der Schriftlichkeit im Sinne des § 886 ABGB, sofern durch Gesetz oder Parteienvereinbarung nichts anderes bestimmt ist.\n2) Letztwillige Verfügungen können in elektronischer Form nicht wirksam errichtet werden. Folgende Willenserklärungen können nur dann in elektronischer Form wirksam abgefasst werden, wenn das Dokument über die Erklärung die Bestätigung eines Gerichts oder eines Rechtsanwalts enthält, dass er den Signator über die Rechtsfolgen seiner Signatur aufgeklärt hat:\na) Willenserklärungen des Familien- und Erbrechts, die an die Schriftform oder ein strengeres Formerfordernis gebunden sind;\nb) eine Bürgschaftserklärung (§ 1346 Abs. 2 ABGB), die von Personen ausserhalb ihrer gewerblichen, geschäftlichen oder beruflichen Tätigkeit abgegeben wird.\n3) Die Bestimmung des § 294 ZPO über die Vermutung der Echtheit des Inhalts einer unterschriebenen Privaturkunde ist auf elektronische Dokumente, die mit einer qualifizierten elektronischen Signatur versehen sind, anzuwenden.\n4) Bei Rechtsgeschäften zwischen Unternehmern und Konsumenten sind Vertragsbestimmungen, nach denen eine qualifizierte elektronische Signatur nicht das rechtliche Erfordernis der Schriftlichkeit erfüllt, für Anzeigen oder Erklärungen, die vom Konsumenten dem Unternehmer oder einem Dritten abgegeben werden, nicht verbindlich, es sei denn, der Unternehmer beweist, dass die Vertragsbestimmungen im Einzelnen ausgehandelt worden sind oder mit dem Konsumenten eine andere vergleichbar einfach verwendbare Art der elektronischen Authentifizierung vereinbart wurde."
     },
     {
       "provision_ref": "art4",
+      "chapter": "II. Elektronische Signaturen und elektronische Siegel",
       "section": "4",
-      "title": "Art. 4. Konformitätsbewertungsstellen (Conformity Assessment Bodies)",
-      "content": "Conformity assessments of trust service providers shall be carried out by conformity assessment bodies accredited in accordance with Regulation (EC) No 765/2008. The AK shall maintain a list of recognised conformity assessment bodies accredited to carry out trust service provider assessments and shall verify the continuing competence and impartiality of listed bodies. Where no conformity assessment body is accredited in Liechtenstein, providers may use bodies accredited in other EEA states for conformity assessment purposes, subject to mutual recognition arrangements. Conformity assessment reports shall be prepared in accordance with standards specified by the European Commission."
+      "title": "Art. 4 Pflichten von Signatoren und Siegelerstellern",
+      "content": "1) Signatoren und Siegelersteller oder von ihnen dazu beauftragte qualifizierte VDA haben bei qualifizierten Signaturen ihre elektronischen Signaturerstellungsdaten oder bei qualifizierten Siegeln ihre elektronischen Siegelerstellungsdaten sorgfältig zu verwahren, soweit zumutbar Zugriffe von Dritten auf ihre elektronischen Signaturerstellungsdaten oder elektronischen Siegelerstellungsdaten zu verhindern und deren Weitergabe an Dritte zu unterlassen. Die Weitergabe von elektronischen Siegelerstellungsdaten an autorisierte Personen ist zulässig.\n2) Signatoren oder Siegelersteller haben den Widerruf des qualifizierten Zertifikats zu verlangen, wenn die elektronischen Signaturerstellungsdaten oder die elektronischen Siegelerstellungsdaten abhandenkommen, wenn Anhaltspunkte für deren Kompromittierung bestehen oder wenn sich die im qualifizierten Zertifikat bescheinigten Umstände geändert haben."
     },
     {
       "provision_ref": "art5",
+      "chapter": "II. Elektronische Signaturen und elektronische Siegel",
       "section": "5",
-      "title": "Art. 5. Rechtswirkung elektronischer Signaturen (Legal Effect)",
-      "content": "Electronic signatures shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that they are in electronic form or do not meet the requirements for qualified electronic signatures. A qualified electronic signature shall have the equivalent legal effect of a handwritten signature for all purposes under Liechtenstein law, unless otherwise specified by law. Public authorities in Liechtenstein shall accept qualified electronic signatures created with a qualified certificate issued by a qualified trust service provider included in a trusted list of an EEA state. The AK shall publish guidance for public authorities on the verification and acceptance of electronic signatures."
+      "title": "Art. 5 Aussetzung",
+      "content": "1) Sofern ein qualifizierter VDA ein qualifiziertes Zertifikat für eine elektronische Signatur oder ein elektronisches Siegel nicht widerruft, hat er dieses vorläufig auszusetzen, wenn:\na) der Signator, der Siegelersteller oder ein sonstiger dazu Berechtigter dies verlangt;\nb) die Aufsichtsstelle (Art. 11) die Aussetzung des Zertifikats anordnet;\nc) der qualifizierte VDA Kenntnis vom Ableben des Signators, der Beendigung des Bestehens des Siegelerstellers oder sonst von der Änderung im Zertifikat bescheinigter Umstände erlangt;\nd) das Zertifikat aufgrund unrichtiger Angaben erwirkt wurde; oder\ne) die Gefahr einer missbräuchlichen Verwendung des Zertifikats besteht.\n2) Ein qualifizierter VDA hat bei Vorliegen der in Abs. 1 genannten Umstände die Aussetzung zeitnah und in jedem Fall innerhalb von 24 Stunden nach Erhalt des Ersuchens vorzunehmen.\n3) Ist ein qualifiziertes Zertifikat für elektronische Signaturen oder elektronische Siegel vorläufig ausgesetzt worden, so verliert dieses Zertifikat, solange der Status der Aussetzung nach Abs. 4 veröffentlicht ist, seine Gültigkeit. Dieser Zeitraum darf zwei Wochen nicht überschreiten.\n4) Ein qualifizierter VDA hat die Dauer der Aussetzung in seiner Zertifikatsdatenbank nach Art. 24 Abs. 2 Bst. k eIDAS-VO zu registrieren und den Status der Aussetzung während der Dauer der Aussetzung elektronisch jederzeit allgemein zugänglich zu veröffentlichen."
     },
     {
       "provision_ref": "art6",
+      "chapter": "II. Elektronische Signaturen und elektronische Siegel",
       "section": "6",
-      "title": "Art. 6. Elektronische Siegel (Electronic Seals)",
-      "content": "Electronic seals shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that they are in electronic form or do not meet the requirements for qualified electronic seals. A qualified electronic seal shall enjoy the presumption of integrity of the data and of correctness of the origin of the data to which the qualified electronic seal is linked. Legal persons, including public authorities, may use electronic seals to authenticate documents and data. Public authorities in Liechtenstein shall accept qualified electronic seals created by qualified trust service providers included in a trusted list of an EEA state for the purposes of official documents and administrative procedures."
+      "title": "Art. 6 Bestätigungsstelle",
+      "content": "1) Die Konformität qualifizierter elektronischer Signatur- und Siegelerstellungseinheiten mit den Anforderungen des Anhangs II der eIDAS-VO wird durch eine Bestätigungsstelle oder eine in einem anderen EWR-Mitgliedstaat nach Art. 30 Abs. 1 eIDAS-VO benannte Stelle zertifiziert. Sofern eine Zertifizierung nach Art. 30 Abs. 3 Bst. b eIDAS-VO vorgenommen wird, ist die Gleichwertigkeit des Sicherheitsniveaus von der Bestätigungsstelle oder benannten Stelle nach dem Stand der Technik zu beurteilen.\n2) Eine Einrichtung ist zur Wahrnehmung der einer Bestätigungsstelle zugewiesenen Aufgaben geeignet, wenn sie:\na) die erforderliche Zuverlässigkeit aufweist;\nb) zuverlässiges Personal mit den für diese Aufgaben erforderlichen Fachkenntnissen, Erfahrungen und Qualifikationen, insbesondere mit Kenntnissen über elektronische Signaturen, angemessene Sicherheitsverfahren, Kryptographie, Kommunikations- und Chipkartentechnologien sowie die technische Begutachtung solcher Komponenten, beschäftigt;\nc) über ausreichende technische Einrichtungen und Mittel sowie eine ausreichende wirtschaftliche Leistungsfähigkeit verfügt;\nd) die erforderliche Unabhängigkeit, Unparteilichkeit und Unbefangenheit sicherstellt; und\ne) die von der Europäischen Kommission nach Art. 30 Abs. 4 eIDAS-VO erlassenen besonderen Kriterien erfüllt.\n3) Die Regierung stellt auf Antrag mit Verfügung fest, dass eine Einrichtung als Bestätigungsstelle geeignet ist. Die Eignung kann nur festgestellt werden, wenn die Einrichtung nach ihren Statuten oder Satzungen oder nach ihrem Gesellschaftsvertrag, nach ihrer Organisation und nach ihrem Sicherheits- und Finanzierungskonzept die in Abs. 2 genannten Anforderungen erfüllt.\n4) Eine Bestätigungsstelle kann zur Erfüllung der ihr nach Abs. 1 zugewiesenen Aufgaben von anderen Einrichtungen Prüfberichte zu technischen Komponenten und Verfahren einholen oder vom VDA vorgelegte Prüfberichte bei der Evaluierung berücksichtigen. Die Prüfungen und Bescheinigungen sind zu dokumentieren. Im Fall der Einstellung der Tätigkeit der Bestätigungsstelle ist die Dokumentation an die Aufsichtsstelle zu übergeben.\n5) Die organisatorische Aufsicht über die Bestätigungsstelle obliegt der Aufsichtsstelle (Art. 13).\n6) Die Aufsichtsstelle hat die Notifizierung nach Art. 31 Abs. 1 eIDAS-VO durchzuführen.\n7) Die Regierung regelt das Nähere über das Verfahren sowie die Kriterien hinsichtlich der Eignung einer Bestätigungsstelle mit Verordnung.\nIII. Vertrauensdiensteanbieter"
     },
     {
       "provision_ref": "art7",
+      "chapter": "III. Vertrauensdiensteanbieter",
       "section": "7",
-      "title": "Art. 7. Elektronische Zeitstempel (Time Stamps)",
-      "content": "Electronic time stamps shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that they are in electronic form or do not meet the requirements for a qualified electronic time stamp. A qualified electronic time stamp shall enjoy the presumption of the accuracy of the date and time it indicates and the integrity of the data to which the date and time are bound. Qualified electronic time stamps shall be accepted by Liechtenstein courts and public authorities for the purposes of establishing the date and time of electronic records in administrative and legal proceedings."
+      "title": "Art. 7 Ausstellung qualifizierter Zertifikate für einen Vertrauensdienst",
+      "content": "1) Die Mitteilung über die Absicht, qualifizierte Vertrauensdienste zu erbringen, hat in elektronischer Form an die Aufsichtsstelle zu erfolgen. Soweit spezielle Inhalte der Anzeige nicht ein anderes Format erfordern, ist ein Format, das dem aktuellen Stand der Technik entspricht, zu verwenden. Die Mitteilung hat zumindest mit der (fortgeschrittenen) elektronischen Signatur des VDA versehen zu sein.\n2) Ein qualifizierter VDA oder eine in seinem Auftrag tätige Stelle hat die Identität von persönlich anwesenden natürlichen Personen oder Vertretern einer juristischen Person, denen ein qualifiziertes Zertifikat ausgestellt werden soll, anhand eines amtlichen Lichtbildausweises oder durch einen anderen in seiner Zuverlässigkeit gleichwertigen, dokumentierten oder zu dokumentierenden Nachweis festzustellen (Art. 24 Abs. 1 Bst. a eIDAS-VO). Vertreter von juristischen Personen haben darüber hinaus einen Nachweis über das Bestehen der Vertretungsbefugnis vorzulegen.\n3) Erfolgt die Ausstellung nicht in persönlicher Anwesenheit, können auch sonstige Identifizierungsmethoden, die eine gleichwertige Sicherheit hinsichtlich der Verlässlichkeit bei der persönlichen Anwesenheit bieten, angewendet werden (Art. 24 Abs. 1 Bst. d eIDAS-VO). Dabei ist insbesondere auf eine erfolgte Identifizierung anhand eines Nachweises im Sinne von Abs. 2, die von einer vertrauenswürdigen Stelle durchgeführt wurde, zurückzugreifen.\n4) Die Regierung kann das Nähere über die Mitteilung, die Identifizierungsmethoden und die einzuhaltenden Verfahren mit Verordnung regeln."
     },
     {
       "provision_ref": "art8",
+      "chapter": "III. Vertrauensdiensteanbieter",
       "section": "8",
-      "title": "Art. 8. Elektronische Zustellung (Electronic Registered Delivery)",
-      "content": "Data sent and received using a qualified electronic registered delivery service shall enjoy the presumption of the integrity of the data, the sending of that data by the identified sender, its receipt by the identified addressee, and the accuracy of the date and time of sending and receipt. Qualified electronic registered delivery services shall be accepted by public authorities in Liechtenstein for the delivery of official communications and notifications where electronic delivery is permitted under applicable law. Service providers providing qualified electronic registered delivery services shall comply with the security and reliability requirements established under eIDAS and applicable implementing acts."
+      "title": "Art. 8 Beendigungsplan und Vertrauensinfrastruktur",
+      "content": "1) Ein qualifizierter VDA hat der Aufsichtsstelle zumindest drei Wochen im Vorhinein die geplante Einstellung seiner Tätigkeit anzuzeigen.\n2) Sofern der qualifizierte VDA qualifizierte Zertifikate ausstellt, hat er die im Zeitpunkt der Einstellung seiner Tätigkeit gültigen qualifizierten Zertifikate zu widerrufen oder dafür Sorge zu tragen, dass zumindest seine Zertifikatsdatenbank von einem anderen qualifizierten VDA übernommen wird. Auch im Fall des Widerrufs der qualifizierten Zertifikate hat der qualifizierte VDA sicherzustellen, dass die Zertifikatsdatenbank weitergeführt wird; kommt er dieser Verpflichtung nicht nach, so hat die Aufsichtsstelle als Teil ihrer Vertrauensinfrastruktur (Art. 11 Abs. 4 Bst. c) für die Weiterführung der Zertifikatsdatenbank auf Kosten des qualifizierten VDA Sorge zu tragen.\n3) Die Regierung entscheidet über Antrag der Aufsichtsstelle unter Einbezug des qualifizierten VDA, ob an der Weiterführung der Zertifikatsdatenbank ein öffentliches Interesse besteht. Liegt ein solches vor, kann die Regierung die Aufsichtsstelle beauftragen, für deren Weiterführung Sorge zu tragen. Der qualifizierte VDA hat zu diesem Zweck der Aufsichtsstelle alle notwendigen Mittel und Informationen zu übergeben.\n4) Die Signatoren und Siegelersteller sind von der Einstellung der Tätigkeit sowie vom Widerruf, der Übernahme oder der Weiterführung unverzüglich zu verständigen."
     },
     {
       "provision_ref": "art9",
+      "chapter": "III. Vertrauensdiensteanbieter",
       "section": "9",
-      "title": "Art. 9. Website-Authentifizierung",
-      "content": "Qualified certificates for website authentication issued by qualified trust service providers shall certify the identity of the website operator and shall enable users to verify the authenticity of the website. Public sector websites in Liechtenstein shall, where technically and operationally feasible, use qualified certificates for website authentication obtained from qualified trust service providers included in a trusted list. The AK shall issue guidance on the use of qualified certificates for website authentication by public authorities and shall monitor developments in applicable technical standards for website authentication."
+      "title": "Art. 9 Datenschutz, Zugangsrechte und Aufbewahrungsdauer",
+      "content": "1) Ein VDA sowie die in seinem Auftrag tätigen Registrierungsstellen dürfen nur jene personenbezogenen Daten und jene Daten von juristischen Personen verarbeiten, die zur Durchführung der erbrachten Dienste erforderlich sind. Unbeschadet anderer Rechtsgrundlagen dürfen VDA solche Daten auch bei Dritten erheben und verarbeiten, soweit dies für die Erbringung, einschliesslich Prüfung und Sicherstellung der rechtlichen Gültigkeit, des jeweiligen Vertrauensdienstes erforderlich oder für die Überprüfung der Identität eines Zertifikatswerbers dienlich ist.\n2) Auf Ersuchen von Gerichten oder anderen zuständigen Behörden hat ein qualifizierter VDA nach Massgabe der hierfür geltenden Bestimmungen Zugang zur Dokumentation nach Art. 24 Abs. 2 Bst. h eIDAS-VO und seiner Zertifikatsdatenbank zu gewähren.\n3) Bei Verwendung eines Pseudonyms in einem Zertifikat hat der VDA die personenbezogenen Daten über die Identität des Signators auf Ersuchen zu übermitteln und die Übermittlung zu dokumentieren:\na) an die zuständigen Behörden, sofern dies zum Schutz der öffentlichen Ordnung, insbesondere zur Aufklärung oder Verfolgung von strafbaren Handlungen, oder zum Schutz der öffentlichen Sicherheit einschliesslich der Wahrung nationaler Sicherheits- und Verteidigungsinteressen erforderlich ist oder von einem Gericht angeordnet wird; die ersuchende Stelle hat den Signator über die Aufdeckung des Pseudonyms zu unterrichten, sobald dadurch die Wahrnehmung der gesetzlichen Aufgaben nicht mehr beeinträchtigt wird, oder wenn das Interesse des Signators an der Unterrichtung überwiegt; oder\nb) an einen Dritten, sofern dieser an der Feststellung der Identität ein überwiegendes berechtigtes Interesse glaubhaft macht; in diesem Fall hat der VDA den Signator über die Aufdeckung des Pseudonyms unverzüglich zu unterrichten.\n4) Die Dokumentation ist vom qualifizierten VDA 30 Jahre, gerechnet ab dem im qualifizierten Zertifikat eingetragenen Ende der Gültigkeit oder, mangels eines solchen, 30 Jahre ab dem Zeitpunkt des Anfallens von einschlägigen Informationen über die von dem qualifizierten VDA im Rahmen seiner Tätigkeit ausgegebenen und empfangenen Daten, aufzubewahren.\n5) Die Bestimmungen der Datenschutzgesetzgebung bleiben vorbehalten."
     },
     {
       "provision_ref": "art10",
+      "chapter": "III. Vertrauensdiensteanbieter",
       "section": "10",
-      "title": "Art. 10. Sicherheitsanforderungen",
-      "content": "Trust service providers shall take appropriate technical and organisational measures to manage the risks posed to the security of the trust services they provide. Security measures shall ensure a level of security appropriate to the degree of risk and shall address key management, certificate issuance procedures, physical security, access control, and incident detection and response. Trust service providers shall notify the AK without undue delay and within the timeframe specified by eIDAS of any breach of security or loss of integrity that has a significant impact on a trust service provided or on personal data. The AK shall assess the notification and shall take appropriate action, coordinating with other relevant authorities as necessary."
+      "title": "Art. 10 Haftung",
+      "content": "1) Die Haftung eines VDA nach Art. 13 Abs. 1 eIDAS-VO kann im Vorhinein weder ausgeschlossen noch beschränkt werden; vorbehalten bleibt Art. 13 Abs. 2 eIDAS-VO.\n2) Umfang und Ausmass des nach Art. 13 eIDAS-VO zu ersetzenden Schadens sowie allfällige Rückgriffsrechte gegenüber anderen Personen richten sich nach den auf den Schadensfall sonst anwendbaren Bestimmungen.\n3) Ersatzansprüche gegenüber anderen Personen oder aus einem anderen Rechtsgrund bleiben unberührt.\nIV. Aufsicht"
     },
     {
       "provision_ref": "art11",
+      "chapter": "IV. Aufsicht",
       "section": "11",
-      "title": "Art. 11. Haftung (Liability)",
-      "content": "Trust service providers shall be liable for damages caused intentionally or negligently to any natural or legal person due to a failure to comply with the obligations of this Law or of eIDAS. A qualified trust service provider shall be presumed to have acted intentionally or negligently unless it proves that the damage occurred without intent or negligence. Trust service providers may limit their liability in relation to the use of services beyond specified limits as specified in the terms and conditions of the service, provided that such limitations are clear, accessible, and non-discriminatory. Liability shall not be excluded for wilful misconduct or gross negligence."
+      "title": "Art. 11 Aufsichtsstelle",
+      "content": "1) Aufsichtsstelle nach Art. 17 eIDAS-VO ist das Amt für Kommunikation.\n2) Die Aufsichtsstelle hat den VDA für ihre Tätigkeit eine mit Verordnung festgelegte kostendeckende Gebühr vorzuschreiben. Kosten und Auslagen, die der Aufsichtsstelle von Dritten, deren sie sich zur Beratung oder zur Durchführung der Aufsicht bedient, in Rechnung gestellt werden, hebt sie bei dem betreffenden VDA ein.\n3) Die Aufsichtsstelle kann sich zur Beratung geeigneter Personen oder Einrichtungen wie etwa einer Bestätigungsstelle (Art. 6) bedienen.\n4) Die Aufsichtsstelle kann sich zudem zur Durchführung der Aufsicht oder der folgenden Aufgaben geeigneter Einrichtungen bedienen und diese Aufgaben auch an solche Einrichtungen übertragen:\na) Erstellung, Führung und Veröffentlichung der Vertrauensliste nach Art. 22 eIDAS-VO. Nichtqualifizierte VDA und die von ihnen erbrachten Vertrauensdienste sind auf Antrag in die Vertrauensliste aufzunehmen;\nb) zur Verfügung stellen eines kostenfreien technischen Services im öffentlichen Interesse, mit dem qualifizierte elektronische Signaturen oder qualifizierte elektronische Siegel validiert werden können;\nc) Einrichtung und Betrieb einer Vertrauensinfrastruktur nach Art. 8.\n5) Die Aufsichtsstelle ist in ihrer Entscheidungs- und Verfügungsgewalt an keine Weisungen gebunden. Sofern gesetzlich nichts anderes bestimmt ist, finden auf das Verfahren die Bestimmungen des Gesetzes über die allgemeine Landesverwaltungspflege Anwendung."
     },
     {
       "provision_ref": "art12",
+      "chapter": "IV. Aufsicht",
       "section": "12",
-      "title": "Art. 12. Anerkennung von Drittstaaten-Diensten",
-      "content": "Trust services provided by trust service providers established in third countries shall be recognised in Liechtenstein as equivalent to EEA qualified trust services where they originate from a third country with which Liechtenstein or the EEA has concluded a recognition agreement, and where the trust services concerned comply with the requirements of such an agreement. The AK shall maintain information on applicable recognition agreements and shall publish guidance on the recognition of third-country trust services for use by public authorities and private sector entities. Liechtenstein shall participate in applicable EEA cooperation mechanisms for the assessment of third-country trust services."
+      "title": "Art. 12 Durchführung der Aufsicht",
+      "content": "1) Die VDA haben den im Auftrag der Aufsichtsstelle handelnden Personen das Betreten der Geschäfts- und Betriebsräume während den Geschäftszeiten zu gestatten, die in Betracht kommenden Bücher und sonstigen Aufzeichnungen oder Unterlagen einschliesslich der einschlägigen Informationen nach Art. 24 Abs. 2 Bst. h eIDAS-VO vorzulegen oder zur Einsicht bereitzuhalten, Auskünfte zu erteilen und jede sonst erforderliche Unterstützung zu gewähren. Bestehende gesetzliche Verschwiegenheits- und Aussageverweigerungsrechte bleiben unberührt.\n2) Die Landespolizei hat der Aufsichtsstelle und den in ihrem Auftrag handelnden Personen über deren Ersuchen zur Durchführung der Aufsicht im Rahmen ihres gesetzmässigen Wirkungsbereichs Hilfe zu leisten.\n3) Die Durchführung der Aufsicht nach Abs. 1 und 2 ist unter möglichster Schonung der Betroffenen und ohne unnötiges Aufsehen so durchzuführen, dass dadurch die Sicherheit der Vertrauensdienste nicht verletzt wird.\nV. Anerkennung ausländischer Zertifikate und elektronischer Signaturen"
     },
     {
       "provision_ref": "art13",
+      "chapter": "V. Anerkennung ausländischer Zertifikate und elektronischer Signaturen",
       "section": "13",
-      "title": "Art. 13. Sanktionen",
-      "content": "Administrative sanctions applicable to trust service providers that fail to comply with this Law or eIDAS shall be proportionate and dissuasive. The AK may impose sanctions including public warnings, requirements for corrective action, suspension or withdrawal of qualified status, and administrative fines. Before imposing an administrative sanction, the AK shall give the trust service provider concerned an adequate opportunity to make representations. Decisions imposing sanctions may be appealed through the available administrative and judicial appeal procedures. The AK shall report annually on enforcement actions taken against trust service providers."
+      "title": "Art. 13 Anerkennung",
+      "content": "Qualifizierte Vertrauensdienste, die auf einem in einem anderen EWR-Mitgliedstaat oder in der Schweiz ausgestellten qualifizierten Zertifikat beruhen, werden in Liechtenstein als qualifizierte Vertrauensdienste im Sinn der eIDAS-VO anerkannt.\nVI. Rechtsmittel"
     },
     {
       "provision_ref": "art14",
+      "chapter": "VI. Rechtsmittel",
       "section": "14",
-      "title": "Art. 14. Nationales Identifikationssystem",
-      "content": "Liechtenstein shall maintain a national electronic identification system enabling citizens and businesses to authenticate electronically with public authorities and private sector service providers. The national electronic identification system shall meet the assurance levels specified under eIDAS and shall be designed to be interoperable with electronic identification systems of other EEA states. The AK shall coordinate the technical development and operation of the national electronic identification system and shall notify it to the European Commission for recognition under eIDAS where applicable requirements are satisfied. Citizens shall be informed of the options available for electronic identification and the assurance levels applicable to different online services."
+      "title": "Art. 14 Beschwerde",
+      "content": "1) Gegen Entscheidungen oder Verfügungen der Aufsichtsstelle kann binnen 14 Tagen ab Zustellung Beschwerde bei der Beschwerdekommission für Verwaltungsangelegenheiten erhoben werden.\n2) Gegen Entscheidungen oder Verfügungen der Regierung oder der Beschwerdekommission für Verwaltungsangelegenheiten kann binnen 14 Tagen ab Zustellung Beschwerde beim Verwaltungsgerichtshof erhoben werden.\n3) Die Überprüfungsbefugnis der Beschwerdekommission für Verwaltungsangelegenheiten sowie des Verwaltungsgerichtshofes beschränkt sich auf Rechts- und Sachfragen. Die Ausübung des Ermessens wird ausschliesslich rechtlich überprüft.\n4) Ist in diesem Gesetz nichts anderes bestimmt, finden auf das Verfahren die Bestimmungen des Gesetzes über die allgemeine Landesverwaltungspflege Anwendung.\nVII. Strafbestimmungen"
     },
     {
       "provision_ref": "art15",
+      "chapter": "VII. Strafbestimmungen",
       "section": "15",
-      "title": "Art. 15. Interoperabilität",
-      "content": "The AK shall promote the interoperability of trust services and electronic identification systems between Liechtenstein and other EEA states, participating in relevant cross-border interoperability testing and working groups. Technical specifications and standards for interoperability shall be developed in accordance with applicable Commission implementing acts and EEA decisions. The AK shall cooperate with the supervisory bodies of other EEA states in addressing interoperability issues and shall report annually on the state of interoperability of Liechtenstein's trust services and electronic identification systems with those of other EEA states."
+      "title": "Art. 15 Übertretungen",
+      "content": "1) Von der Aufsichtsstelle wird wegen Übertretung mit Busse bis zu 10 000 Franken bestraft, wer fremde Signatur- oder Siegelerstellungsdaten ohne Wissen und Willen des Signators oder des Siegelerstellers missbräuchlich verwendet.\n2) Von der Aufsichtsstelle wird wegen Übertretung mit Busse bis zu 15 000 Franken bestraft, wer als VDA:\na) seine Pflichten nach Art. 24 Abs. 3 eIDAS-VO oder Art. 5 dieses Gesetzes verletzt;\nb) entgegen Art. 24 Abs. 2 Bst. d eIDAS-VO Personen, die einen qualifizierten Vertrauensdienst nutzen wollen, nicht unterrichtet; oder\nc) entgegen Art. 12 Abs. 1 nicht Einsicht in die dort genannten Bücher, sonstige Aufzeichnungen oder Unterlagen gewährt oder nicht die notwendigen Auskünfte erteilt.\n3) Von der Aufsichtsstelle wird wegen Übertretung mit Busse bis zu 25 000 Franken bestraft, wer als VDA:\na) vorgibt qualifizierte Vertrauensdienste zu erbringen, ohne dazu berechtigt zu sein (Art. 3 Ziff. 20 eIDAS-VO);\nb) entgegen Art. 19 Abs. 1 eIDAS-VO keine geeigneten technischen und organisatorischen Massnahmen zur Beherrschung der Sicherheitsrisiken im Zusammenhang mit den von ihm erbrachten Vertrauensdiensten ergreift;\nc) entgegen Art. 24 Abs. 2 Bst. h eIDAS-VO iVm Art. 8 und 9 dieses Gesetzes seine Dokumentationspflicht verletzt; oder\nd) gegen die Vorgaben des Art. 24 Abs. 1 eIDAS-VO iVm Art. 7 dieses Gesetzes, Art. 24 Abs. 2 Bst. a, b, c, e, f, g, i und k oder Abs. 4 eIDAS-VO verstösst.\n4) Von der Aufsichtsstelle wird wegen Übertretung mit Busse bis zu 15 000 Franken oder, sofern es sich um einen qualifizierten VDA handelt, mit Busse bis zu 45 000 Franken bestraft, wenn der VDA entgegen Art. 19 Abs. 2 eIDAS-VO nicht unverzüglich der Aufsichtsstelle alle Sicherheitsverletzungen oder Integritätsverluste, die sich erheblich auf den erbrachten Vertrauensdienst oder die darin vorhandenen personenbezogenen Daten auswirken, meldet.\n5) Bei fahrlässiger Begehung wird die Strafobergrenze auf die Hälfte herabgesetzt.\n6) Eine Verwaltungsübertretung nach Abs. 1 bis 4 liegt nicht vor, wenn die Tat den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist.\n7) Die zur Begehung einer Verwaltungsübertretung verwendeten oder bestimmten Gegenstände können eingezogen werden."
     },
     {
       "provision_ref": "art16",
+      "chapter": "VII. Strafbestimmungen",
       "section": "16",
-      "title": "Art. 16. Beziehung zu anderen Vorschriften",
-      "content": "This Law applies without prejudice to applicable contract law, consumer protection law, data protection law, and other law governing the conduct of trust service providers and the use of trust services in Liechtenstein. The acceptance of electronic signatures and other trust services under this Law shall not affect the validity or enforceability of any other applicable legal requirement applicable to a particular type of transaction. The AK shall publish guidance on the application of this Law in the context of applicable sector-specific requirements and shall coordinate with relevant sectoral regulators to ensure a consistent approach."
+      "title": "Art. 16 Verantwortlichkeit",
+      "content": "Werden Widerhandlungen im Geschäftsbetrieb einer juristischen Person, einer Kollektiv- oder Kommanditgesellschaft oder einer Einzelfirma begangen, so finden die Strafbestimmungen auf die Personen Anwendung, die für sie gehandelt haben oder hätten handeln sollen, jedoch unter solidarischer Mithaftung der juristischen Person, der Gesellschaft oder der Einzelfirma für die Bussen und Kosten.\nVIII. Übergangs- und Schlussbestimmungen"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "17",
+      "title": "Art. 17 Durchführungsverordnungen",
+      "content": "Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen, insbesondere über:\na) die Festsetzung von Gebühren für die Leistungen der Aufsichtsstelle und der von ihr benannten Einrichtungen, sowie die Vorschreibung dieser Gebühren;\nb) die besonderen Anforderungen an qualifizierte VDAs und seines Personals;\nc) nähere Anforderungen an die einzureichende Mitteilung von VDA, qualifizierte Zertifikate und den Antrag auf deren Ausstellung;\nd) nähere Anforderungen an die Zertifikatsdatenbank und deren Weiterführung durch die Aufsichtsstelle; und\ne) die Einzelheiten des Verfahrens sowie der Kriterien hinsichtlich der Eignung einer Einrichtung als Bestätigungsstelle."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "18",
+      "title": "Art. 18 Übergangsbestimmungen",
+      "content": "1) Qualifizierte Zertifikate, die nach dem bisherigen Recht für natürliche Personen ausgestellt worden sind, gelten als qualifizierte Zertifikate im Sinne von Art. 51 Abs. 2 eIDAS-VO.\n2) Nichtqualifizierte Zertifikate im Sinne des bisherigen Rechts gelten bis zu ihrem Ablauf als nichtqualifizierte Zertifikate:\na) für elektronische Signaturen nach Art. 3 Ziff. 14 eIDAS-VO, sofern es sich bei dem Zertifikatsinhaber um eine natürliche Person handelt; oder\nb) für elektronische Siegel nach Art. 3 Ziff. 29 eIDAS-VO, sofern es sich beim Zertifikatsinhaber um eine juristische Person handelt."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "19",
+      "title": "Art. 19 Aufhebung bisherigen Rechts",
+      "content": "Das Gesetz vom 18. September 2003 über elektronische Signaturen (Signaturgesetz; SigG), LGBl. 2003 Nr. 215, in der geltenden Fassung, wird aufgehoben."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VIII. Übergangs- und Schlussbestimmungen",
+      "section": "20",
+      "title": "Art. 20 Inkrafttreten",
+      "content": "Dieses Gesetz tritt gleichzeitig mit dem Beschluss des Gemeinsamen EWR-Ausschusses betreffend die Übernahme der Verordnung (EU) Nr. 910/2014 in Kraft , frühestens jedoch am 1. Juli 2019.\nIn Stellvertretung des Landesfürsten:\ngez. Alois\nErbprinz\ngez. Adrian Hasler\nFürstlicher Regierungschef\n1\nBericht und Antrag sowie Stellungnahme der Regierung Nr. 106/2018 und 9/2019\n2\nInkrafttreten: 1. Juni 2019 ( LGBl. 2019 Nr. 148 )."
     }
   ],
   "definitions": [
     {
-      "term": "trust service",
-      "definition": "An electronic service normally provided for remuneration consisting of the creation, verification, and validation of electronic signatures, electronic seals, electronic time stamps, electronic registered delivery services, website authentication, or related certificates.",
-      "source_provision": "art1"
+      "term": "VDA",
+      "definition": "ein Vertrauensdiensteanbieter nach Art. 3 Ziff. 19 eIDAS-VO;",
+      "source_provision": "art2"
     },
     {
-      "term": "trust service provider",
-      "definition": "A natural or legal person who provides one or more trust services either as a qualified or as a non-qualified trust service provider.",
-      "source_provision": "art3"
+      "term": "Signator",
+      "definition": "ein Unterzeichner nach Art. 3 Ziff. 9 eIDAS-VO;",
+      "source_provision": "art2"
     },
     {
-      "term": "qualified trust service",
-      "definition": "A trust service that meets the applicable requirements established in eIDAS and is provided by a qualified trust service provider included on a trusted list.",
-      "source_provision": "art3"
+      "term": "Bestätigungsstelle",
+      "definition": "eine nach Art. 30 Abs. 2 eIDAS-VO vom EWR-Mitgliedstaat der EU-Kommission zu benennende Stelle für die Zertifizierung der Konformität qualifizierter elektronischer Signatur- und Siegelerstellungseinheiten mit den Anforderungen des Anhangs II der eIDAS-VO;",
+      "source_provision": "art2"
     },
     {
-      "term": "conformity assessment body",
-      "definition": "A body accredited under Regulation (EC) No 765/2008 to carry out conformity assessments of trust service providers against the requirements of eIDAS.",
-      "source_provision": "art4"
+      "term": "Kompromittierung",
+      "definition": "die Beeinträchtigung von Sicherheitsmassnahmen oder Sicherheitstechnik, sodass das vom Vertrauendiensteanbieter zugrunde gelegte Sicherheitsniveau nicht eingehalten ist.",
+      "source_provision": "art2"
     }
   ]
 }

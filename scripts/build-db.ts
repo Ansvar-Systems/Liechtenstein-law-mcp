@@ -253,39 +253,68 @@ function extractEuReferences(text: string): ExtractedEUReference[] {
   const refs: ExtractedEUReference[] = [];
   const seen = new Set<string>();
 
-  const patterns: RegExp[] = [
-    /\b(Regulation|Directive)\s*\((EU|EC|EEC|Euratom)\)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\b/gi,
-    /\b(Regulation|Directive)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\/(EU|EC|EEC|Euratom)\b/gi,
-    /\b(Regulation|Directive)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\b/gi,
+  const patterns: Array<{
+    regex: RegExp;
+    typeIndex: number;
+    yearIndex: number;
+    numberIndex: number;
+    communityIndex?: number;
+  }> = [
+    {
+      regex: /\b(Regulation|Directive|Verordnung|Richtlinie)\s*\((EU|EC|EG|EEC|EWG|Euratom)\)\s*(?:No\.?|Nr\.?)?\s*(\d{2,4})\/(\d{1,4})\b/gi,
+      typeIndex: 1,
+      communityIndex: 2,
+      yearIndex: 3,
+      numberIndex: 4,
+    },
+    {
+      regex: /\b(Regulation|Directive|Verordnung|Richtlinie)\s*(?:No\.?|Nr\.?)?\s*(\d{2,4})\/(\d{1,4})\/(EU|EC|EG|EEC|EWG|Euratom)\b/gi,
+      typeIndex: 1,
+      yearIndex: 2,
+      numberIndex: 3,
+      communityIndex: 4,
+    },
+    {
+      regex: /\b(Regulation|Directive|Verordnung|Richtlinie)\s*(?:No\.?|Nr\.?)?\s*(\d{2,4})\/(\d{1,4})\b/gi,
+      typeIndex: 1,
+      yearIndex: 2,
+      numberIndex: 3,
+    },
   ];
 
   for (const pattern of patterns) {
     let match: RegExpExecArray | null;
-    while ((match = pattern.exec(text)) !== null) {
-      const type = match[1].toLowerCase() as EUDocumentType;
-      let rawYear: string, rawNumber: string, communityRaw: string | undefined;
+    while ((match = pattern.regex.exec(text)) !== null) {
+      const typeKeyword = match[pattern.typeIndex].toLowerCase();
+      const type: EUDocumentType = typeKeyword === 'directive' || typeKeyword === 'richtlinie'
+        ? 'directive'
+        : 'regulation';
 
-      if (pattern === patterns[0]) {
-        communityRaw = match[2]; rawYear = match[3]; rawNumber = match[4];
-      } else if (pattern === patterns[1]) {
-        rawYear = match[2]; rawNumber = match[3]; communityRaw = match[4];
-      } else {
-        rawYear = match[2]; rawNumber = match[3]; communityRaw = undefined;
-      }
+      const rawYear = match[pattern.yearIndex];
+      const rawNumber = match[pattern.numberIndex];
+      const communityRaw = pattern.communityIndex ? match[pattern.communityIndex] : undefined;
 
       const parsedYear = Number.parseInt(rawYear, 10);
       const year = rawYear.length === 2 ? (parsedYear >= 50 ? 1900 + parsedYear : 2000 + parsedYear) : parsedYear;
       const number = Number.parseInt(rawNumber, 10);
       if (year <= 0 || Number.isNaN(number) || number <= 0) continue;
 
-      const community = (communityRaw?.toUpperCase() ?? 'EU') as EUCommunity;
+      const normalizedCommunity = (communityRaw ?? 'EU').toUpperCase();
+      const community: EUCommunity =
+        normalizedCommunity === 'EG' ? 'EC' :
+        normalizedCommunity === 'EWG' ? 'EEC' :
+        normalizedCommunity === 'EURATOM' ? 'Euratom' :
+        normalizedCommunity as EUCommunity;
+
       const euDocumentId = `${type}:${year}/${number}`;
 
       const start = Math.max(0, match.index - 120);
       const end = Math.min(text.length, match.index + match[0].length + 120);
       const referenceContext = text.slice(start, end).replace(/\s+/g, ' ').trim();
-      const euArticle = referenceContext.match(/\bArticle\s+(\d+[A-Za-z]?(?:\(\d+\))?)/i)?.[1] ?? null;
-      const referenceType: EUReferenceType = /\b(implement|align|transpos|equivalent)\b/i.test(referenceContext) ? 'implements' : 'references';
+      const euArticle = referenceContext.match(/\b(?:Article|Art\.?)\s+(\d+[A-Za-z]?(?:\(\d+\))?)/i)?.[1] ?? null;
+      const referenceType: EUReferenceType = /\b(implement|align|transpos|equivalent|umsetz|durchf(?:u|ü)hr)\b/i.test(referenceContext)
+        ? 'implements'
+        : 'references';
 
       const dedupeKey = `${euDocumentId}:${euArticle ?? ''}`;
       if (seen.has(dedupeKey)) continue;

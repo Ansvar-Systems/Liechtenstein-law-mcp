@@ -1,131 +1,258 @@
 {
   "id": "li-e-commerce-gesetz",
   "type": "statute",
-  "title": "E-Commerce-Gesetz (ECG)",
-  "title_en": "E-Commerce Act",
+  "title": "Gesetz vom 16. April 2003 über den elektronischen Geschäftsverkehr (E-Commerce-Gesetz; ECG)",
+  "title_en": "Electronic Commerce Act (ECG)",
   "short_name": "ECG",
-  "status": "amended",
-  "issued_date": "2003-04-17",
-  "in_force_date": "2003-05-01",
-  "url": "https://www.gesetze.li/konso/2003092000",
-  "description": "Das E-Commerce-Gesetz (ECG) transponiert die E-Commerce-Richtlinie 2000/31/EG in liechtensteinisches Recht und regelt den Rechtsrahmen für Dienste der Informationsgesellschaft, einschliesslich Informationspflichten, kommerzielle Kommunikation, Haftungsbefreiungen für Intermediäre sowie den elektronischen Vertragsschluss. Es stellt sicher, dass Anbieter von Informationsgesellschaftsdiensten aus Liechtenstein Dienste in anderen EWR-Staaten frei erbringen können und umgekehrt, vorbehaltlich des Herkunftslandprinzips. Das ECG ist auf die Anforderungen der Verordnung (EU) 2022/2065 (Digital Services Act) abzustimmen.",
+  "status": "in_force",
+  "issued_date": "2003-04-16",
+  "in_force_date": "2003-04-16",
+  "url": "https://www.gesetze.li/konso/2003.133",
+  "description": "Regulates legal aspects of information society services and electronic commerce, including provider duties and liability.",
   "provisions": [
     {
       "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "1",
-      "title": "Art. 1. Geltungsbereich und Zweck",
-      "content": "This Law transposes Directive 2000/31/EC (E-Commerce Directive) into Liechtenstein law pursuant to the EEA Agreement and establishes the legal framework for information society services provided by service providers established in Liechtenstein. The Law ensures that service providers established in Liechtenstein can provide information society services throughout the EEA subject to the law of Liechtenstein, in accordance with the country of origin principle, and establishes the requirements applicable to commercial communications, electronic contracts, and the liability of intermediary service providers. The Law is being updated to reflect the application of Regulation (EU) 2022/2065 (Digital Services Act) in the EEA."
+      "title": "Art. 1 Gegenstand und Zweck",
+      "content": "1) Dieses Gesetz regelt den rechtlichen Rahmen für bestimmte Aspekte des elektronischen Geschäfts- und Rechtsverkehrs. Es regelt insbesondere:\na) die Zulassung von Diensten der Informationsgesellschaft;\nb) die Informationspflichten von Diensteanbietern;\nc) den Abschluss von Verträgen;\nd) die Verantwortlichkeit von Diensteanbietern;\ne) das Herkunftslandprinzip; und\nf) die Zusammenarbeit mit anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum (EWRA) im elektronischen Geschäftsverkehr.\n2) Dieses Gesetz dient der Umsetzung der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt (EWR-Rechtssammlung: Anh. XI - 5h.01)."
     },
     {
       "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "2",
-      "title": "Art. 2. Begriffsbestimmungen",
-      "content": "In this Law, 'information society service' means any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; 'service provider' means any natural or legal person providing an information society service; 'established service provider' means a service provider effectively pursuing an economic activity using a fixed establishment for an indefinite period and actually established in Liechtenstein; 'recipient of the service' means any natural or legal person who, for professional ends or otherwise, uses an information society service; 'commercial communication' means any form of communication designed to promote, directly or indirectly, the goods, services, or image of a company, organisation, or person pursuing a commercial, industrial, or craft activity."
+      "title": "Art. 2 Geltungsbereich; Anwendbarkeit",
+      "content": "1) Dieses Gesetz lässt Belange des Steuerwesens und des Datenschutzes unberührt.\n2) Die Bestimmungen über das Herkunftslandprinzip (Art. 20 bis 23) und die Zusammenarbeit mit anderen Vertragsstaaten des EWRA (Art. 25) sind nur auf den Verkehr von Diensten der Informationsgesellschaft innerhalb des Europäischen Wirtschaftsraums (EWR) anzuwenden."
     },
     {
       "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
       "section": "3",
-      "title": "Art. 3. Herkunftslandprinzip (Country of Origin Principle)",
-      "content": "Service providers established in Liechtenstein shall comply with the requirements applicable in Liechtenstein within the coordinated field and shall be entitled to provide information society services throughout the EEA without being required to comply with the law of other EEA states in the coordinated field. Restrictions on the provision of services from Liechtenstein by other EEA states must be justified by an objective of public interest, necessary, and proportionate. As an EEA state, Liechtenstein applies this principle within the EEA legal framework and cooperates with other EEA states in the coordination of enforcement against non-compliant service providers."
+      "title": "Art. 3 Begriffsbestimmungen; Bezeichnungen",
+      "content": "1) Im Sinne dieses Gesetzes bedeutet:\na) \"Dienst der Informationsgesellschaft\": jeder in der Regel gegen Entgelt elektronisch im Fernabsatz auf individuellen Abruf des Empfängers bereitgestellte Dienst, insbesondere der Online-Vertrieb von Waren und Dienstleistungen, Online-Informationsangebote, die Online-Werbung, elektronische Suchmaschinen und Datenabfragemöglichkeiten sowie Dienste, die Informationen über ein elektronisches Netz übermitteln, die den Zugang zu einem solchen vermitteln oder die Information eines Nutzers speichern;\nb) \"Diensteanbieter\": eine natürliche oder juristische Person oder sonstige rechtsfähige Einrichtung, die einen Dienst der Informationsgesellschaft bereitstellt;\nc) \"niedergelassener Diensteanbieter\": ein Diensteanbieter, der eine Wirtschaftstätigkeit mittels einer festen Einrichtung auf unbestimmte Zeit tatsächlich ausübt; das Vorhandensein und die Nutzung technischer Mittel und Technologien, die zur Bereitstellung des Dienstes erforderlich sind, begründen für sich allein noch keine Niederlassung des Diensteanbieters;\nd) \"Nutzer\": eine natürliche oder juristische Person oder sonstige rechtsfähige Einrichtung, die zu beruflichen oder sonstigen Zwecken einen Dienst der Informationsgesellschaft in Anspruch nimmt, insbesondere um Informationen zu erlangen oder Informationen zugänglich zu machen;\ne) \"Verbraucher\": eine natürliche Person, die zu Zwecken handelt, die nicht zu ihren gewerblichen, geschäftlichen oder beruflichen Tätigkeiten gehören;\nf) \"kommerzielle Kommunikation\": Werbung und andere Formen der Kommunikation, die der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren und Dienstleistungen oder des Erscheinungsbildes eines Unternehmens, einer Organisation oder einer natürlichen Person dienen, ausgenommen:\n1. Angaben, die einen direkten Zugang zur Tätigkeit des Unternehmens, der Organisation oder natürlichen Person ermöglichen, wie insbesondere ein Domain-Name oder eine elektronische Postadresse; sowie\n2. unabhängig und insbesondere ohne finanzielle Gegenleistung gemachte Angaben über Waren, Dienstleistungen oder das Erscheinungsbild eines Unternehmens, einer Organisation oder natürlichen Person;\ng) \"Vertragsstaat\": ein Vertragsstaat des EWRA;\nh) \"koordinierter Bereich\": die allgemein oder besonders für Dienste der Informationsgesellschaft und für Diensteanbieter geltenden Rechtsvorschriften über die Aufnahme und die Ausübung einer solchen Tätigkeit, insbesondere Rechtsvorschriften über die Qualifikation und das Verhalten der Diensteanbieter, über die Genehmigung oder Anmeldung sowie die Qualität und den Inhalt der Dienste der Informationsgesellschaft - einschliesslich der für die Werbung und für Verträge geltenden Bestimmungen - und über die rechtliche Verantwortlichkeit der Diensteanbieter.\n2) Unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen sind Angehörige des männlichen und weiblichen Geschlechts zu verstehen.\nII. Zulassung von Diensten der Informationsgesellschaft"
     },
     {
       "provision_ref": "art4",
+      "chapter": "II. Zulassung von Diensten der Informationsgesellschaft",
       "section": "4",
-      "title": "Art. 4. Allgemeine Informationspflichten (General Information Requirements)",
-      "content": "Service providers shall ensure that service recipients and competent authorities can easily, directly, and permanently access at least the following information: the name and geographic address of the service provider; electronic mail address and other contact details; where the service provider is registered in a trade register, the relevant registration details; where activities are subject to an authorisation scheme, the particulars of the relevant supervisory authority; and where the service provider exercises a regulated profession, the relevant professional body, professional title, and applicable professional rules. This information shall be displayed in a clear, comprehensible, and unambiguous manner."
+      "title": "Art. 4 Zulassungsfreiheit",
+      "content": "1) Die Aufnahme und die Ausübung der Tätigkeit eines Diensteanbieters bedürfen keiner gesonderten behördlichen Zulassung, Bewilligung, Genehmigung oder Konzession oder sonstigen Anforderung gleicher Wirkung.\n2) Rechtsvorschriften, die die Zulässigkeit der Aufnahme oder Ausübung einer geschäftlichen, gewerblichen oder beruflichen Tätigkeit regeln und nicht besonders und ausschliesslich für Dienste der Informationsgesellschaft oder deren Anbieter gelten, bleiben unberührt.\nIII. Informationspflichten"
     },
     {
       "provision_ref": "art5",
+      "chapter": "III. Informationspflichten",
       "section": "5",
-      "title": "Art. 5. Kommerzielle Kommunikation (Commercial Communications)",
-      "content": "Commercial communications that form part of or constitute an information society service shall clearly identify as commercial communications the service provider on whose behalf the communication is made and any promotional offers or competitions included therein. Unsolicited commercial communications shall be identifiable as such upon receipt. Service providers shall also ensure compliance with applicable data protection law and privacy requirements when sending commercial communications, particularly the requirement for prior consent to unsolicited commercial electronic messages. The competent authority shall have the power to take action against service providers sending unsolicited commercial communications in breach of applicable requirements."
+      "title": "Art. 5 Allgemeine Informationen",
+      "content": "1) Ein Diensteanbieter hat den Nutzern ständig zumindest folgende Informationen leicht und unmittelbar zugänglich zur Verfügung zu stellen:\na) seinen Namen oder seine Firma;\nb) die geografische Anschrift, unter der er niedergelassen ist;\nc) Angaben, auf Grund deren die Nutzer mit ihm rasch und unmittelbar in Verbindung treten können, einschliesslich seiner elektronischen Postadresse;\nd) sofern vorhanden, die Handelsregisternummer;\ne) soweit die Tätigkeit einer behördlichen Aufsicht unterliegt, die für ihn zuständige Aufsichtsbehörde;\nf) bei einem Diensteanbieter, der gewerbe- oder berufsrechtlichen Vorschriften unterliegt, die Kammer, den Berufsverband oder eine ähnliche Einrichtung, der er angehört, die Berufsbezeichnung und den Vertragsstaat, in dem diese verliehen worden ist, sowie einen Hinweis auf die anwendbaren gewerbe- oder berufsrechtlichen Vorschriften und den Zugang zu diesen;\ng) sofern vorhanden, die Mehrwertsteuer-Nummer.\n2) Sofern in Diensten der Informationsgesellschaft Preise angeführt werden, sind diese so auszuzeichnen, dass sie ein durchschnittlich aufmerksamer Betrachter leicht lesen und zuordnen kann. Es muss eindeutig erkennbar sein, ob die Preise einschliesslich der Mehrwertsteuer sowie aller sonstigen Abgaben und Zuschläge ausgezeichnet sind (Bruttopreise) oder nicht. Darüber hinaus ist auch anzugeben, ob Versandkosten enthalten sind.\n3) Sonstige Informationspflichten bleiben unberührt."
     },
     {
       "provision_ref": "art6",
+      "chapter": "III. Informationspflichten",
       "section": "6",
-      "title": "Art. 6. Elektronische Vertragsschlüsse (Electronic Contracts)",
-      "content": "Service providers shall ensure that contracts may be concluded electronically and that recipients have access to information covering the technical steps required to conclude the contract, whether the contract will be stored and whether it will be accessible, technical means for correcting input errors, and the languages offered for contract conclusion. Service providers shall acknowledge receipt of orders electronically without undue delay. The conclusion of contracts by electronic means shall not be restricted by formal requirements that cannot be satisfied electronically, unless such requirements relate to types of contracts specifically excluded from this obligation. Electronic contracts shall have full legal validity and enforceability in Liechtenstein."
+      "title": "Art. 6 Informationen über kommerzielle Kommunikation",
+      "content": "1) Ein Diensteanbieter hat dafür zu sorgen, dass eine kommerzielle Kommunikation, die Bestandteil eines Dienstes der Informationsgesellschaft ist oder einen solchen Dienst darstellt, klar und eindeutig:\na) als solche erkennbar ist;\nb) die natürliche oder juristische Person, die die kommerzielle Kommunikation in Auftrag gegeben hat, erkennen lässt;\nc) Angebote zur Absatzförderung wie etwa Preisreduktionen, Zugaben und Geschenke als solche erkennen lässt und einen einfachen Zugang zu den Bedingungen für ihre Inanspruchnahme enthält; sowie\nd) Preisausschreiben und Gewinnspiele als solche erkennen lässt und einen einfachen Zugang zu den Teilnahmebedingungen enthält.\n2) Sonstige Informationspflichten für kommerzielle Kommunikation sowie Rechtsvorschriften über die Zulässigkeit von Angeboten zur Absatzförderung und von Preisausschreiben und Gewinnspielen bleiben unberührt."
     },
     {
       "provision_ref": "art7",
+      "chapter": "III. Informationspflichten",
       "section": "7",
-      "title": "Art. 7. Haftung als reiner Durchleiter (Mere Conduit Liability Exemption)",
-      "content": "A service provider transmitting information in a communication network or providing access to a communication network shall not be liable for the information transmitted where the service provider did not initiate the transmission, did not select the receiver of the transmission, and did not select or modify the information contained in the transmission. Automatic, intermediate, and transient storage of the transmitted information for the sole purpose of carrying out the transmission, and for no longer than is reasonably necessary for the transmission, shall not affect this exemption. This provision applies without prejudice to the power of courts or administrative authorities to require the service provider to terminate or prevent an infringement."
+      "title": "Art. 7 Nicht angeforderte kommerzielle Kommunikation",
+      "content": "1) Ein Diensteanbieter, der kommerzielle Kommunikation zulässigerweise ohne vorherige Zustimmung des Empfängers mittels elektronischer Post versendet, hat dafür zu sorgen, dass die kommerzielle Kommunikation bei ihrem Eingang beim Nutzer klar und eindeutig als solche erkennbar ist.\n2) Die Regierung kann Register führen oder führen lassen, in welche sich diejenigen Personen und Unternehmen kostenlos auf elektronischem Wege eintragen können, die für sich die Zusendung nicht angeforderter Kommunikation im Wege der elektronischen Post ausgeschlossen haben. Sie kann eine ausschliessliche Online-Eintragung und Führung vorsehen. Die in Abs. 1 genannten Diensteanbieter haben solche Register zu beachten und regelmässig zu konsultieren.\n3) Rechtsvorschriften über die Zulässigkeit und Unzulässigkeit der Übermittlung kommerzieller Kommunikation im Wege der elektronischen Post, insbesondere die Kommunikationsgesetzgebung, bleiben unberührt.\n4) Die zivil- und strafrechtliche Verantwortlichkeit eines Diensteanbieters für Schaden, der einem Nutzer aus der Übermittlung kommerzieller Kommunikation im Wege der elektronischen Post entsteht, bleibt unberührt."
     },
     {
       "provision_ref": "art8",
+      "chapter": "III. Informationspflichten",
       "section": "8",
-      "title": "Art. 8. Haftung als Caching-Anbieter",
-      "content": "A service provider that stores information automatically, intermediately, and temporarily for the sole purpose of making more efficient the onward transmission of the information to other recipients shall not be liable for the stored information where the provider does not modify the information, complies with access conditions, complies with updating rules, does not interfere with technology for obtaining usage data, and acts expeditiously to remove or disable access upon actual knowledge that the information at the original source has been removed or access to it has been disabled or that a court or authority has ordered such removal or disablement."
+      "title": "Art. 8 Kommerzielle Kommunikation für Angehörige geregelter Berufe",
+      "content": "1) Für Diensteanbieter, die berufsrechtlichen Vorschriften unterliegen, ist eine kommerzielle Kommunikation, die Bestandteil eines von ihnen bereitgestellten Dienstes der Informationsgesellschaft ist oder einen solchen darstellt, zulässig.\n2) Berufsrechtliche Vorschriften, die kommerzielle Kommunikation für die Angehörigen dieser Berufe, insbesondere zur Wahrung der Unabhängigkeit, Würde und Ehre des Berufs, zur Sicherung des Berufsgeheimnisses und zur Einhaltung eines lauteren Verhaltens gegenüber Kunden und anderen Berufsangehörigen einschränken, bleiben unberührt.\nIV. Abschluss von Verträgen"
     },
     {
       "provision_ref": "art9",
+      "chapter": "IV. Abschluss von Verträgen",
       "section": "9",
-      "title": "Art. 9. Haftung als Hosting-Anbieter",
-      "content": "A service provider that stores information provided by a recipient shall not be liable for the stored information where the provider has no actual knowledge of illegal activity or information and, as regards damages claims, is not aware of facts or circumstances from which illegal activity or information is apparent, or where the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or disable access to the information. This exemption does not apply where the recipient is acting under the authority or the control of the provider. Courts and administrative authorities may require service providers to terminate or prevent infringements."
+      "title": "Art. 9 Informationen bei Vertragsabschluss",
+      "content": "1) Ein Diensteanbieter hat einen Nutzer vor Abgabe seiner Vertragserklärung (Vertragsangebot oder -annahme) klar, verständlich und eindeutig zu informieren über:\na) die einzelnen technischen Schritte, die zu seiner Vertragserklärung und zum Vertragsabschluss führen;\nb) den Umstand, ob der Vertragstext nach Vertragsabschluss vom Diensteanbieter gespeichert wird sowie gegebenenfalls den Zugang zu einem solchen Vertragstext;\nc) die technischen Mittel zur Erkennung und Berichtigung von Eingabefehlern vor Abgabe der Vertragserklärung; sowie\nd) die Sprachen, in denen der Vertrag abgeschlossen werden kann.\n2) Ein Diensteanbieter hat die freiwilligen Verhaltenskodizes, denen er sich unterwirft, und den elektronischen Zugang zu diesen Kodizes anzugeben.\n3) Die Informationspflichten nach Abs. 1 und 2 können nicht zum Nachteil von Verbrauchern abbedungen werden. Sie gelten nicht für Verträge, die ausschliesslich im Weg der elektronischen Post oder eines damit vergleichbaren individuellen Kommunikationsmittels abgeschlossen werden.\n4) Sonstige Informationspflichten des Diensteanbieters bleiben unberührt."
     },
     {
       "provision_ref": "art10",
+      "chapter": "IV. Abschluss von Verträgen",
       "section": "10",
-      "title": "Art. 10. Keine allgemeine Überwachungspflicht (No General Monitoring Obligation)",
-      "content": "Service providers shall not be subject to a general obligation to monitor information which they transmit or store, nor shall they be required to actively seek facts or circumstances indicating illegal activity. Competent authorities may impose obligations on service providers to inform them of alleged illegal activities undertaken or information provided by recipients of their service, or to communicate to the relevant authorities, at their request, information enabling the identification of recipients of their service with whom storage agreements exist. Such obligations shall be proportionate and shall respect applicable fundamental rights."
+      "title": "Art. 10 Abgabe einer Vertragserklärung",
+      "content": "1) Ein Diensteanbieter hat dem Nutzer angemessene, wirksame und zugängliche technische Mittel zur Verfügung zu stellen, mit denen dieser Eingabefehler vor der Abgabe seiner Vertragserklärung erkennen und berichtigen kann.\n2) Ein Diensteanbieter hat dem Nutzer den Zugang einer elektronischen Vertragserklärung unverzüglich elektronisch zu bestätigen.\n3) Die Verpflichtungen des Diensteanbieters nach Abs. 1 und 2 können nicht zum Nachteil von Verbrauchern abbedungen werden. Sie gelten nicht für Verträge, die ausschliesslich im Weg der elektronischen Post oder eines damit vergleichbaren individuellen Kommunikationsmittels abgeschlossen werden."
     },
     {
       "provision_ref": "art11",
+      "chapter": "IV. Abschluss von Verträgen",
       "section": "11",
-      "title": "Art. 11. Aufsichtsbehörde",
-      "content": "The Amt für Kommunikation (AK) is designated as the competent authority responsible for the implementation and enforcement of this Law, including the supervision of service providers established in Liechtenstein and the receipt of notifications from service providers established in other EEA states wishing to provide services in Liechtenstein. The AK shall cooperate with the competent authorities of other EEA states in matters relating to the cross-border provision of information society services and shall participate in applicable European coordination networks. The AK shall serve as Liechtenstein's Digital Services Coordinator under Regulation (EU) 2022/2065 (DSA) as incorporated into the EEA Agreement."
+      "title": "Art. 11 Vertragsbestimmungen und Geschäftsbedingungen",
+      "content": "Ein Diensteanbieter hat die Vertragsbestimmungen und allgemeinen Geschäftsbedingungen dem Nutzer so zur Verfügung zu stellen, dass er sie speichern und weitergeben kann. Diese Verpflichtung kann nicht zum Nachteil des Nutzers abbedungen werden."
     },
     {
       "provision_ref": "art12",
+      "chapter": "IV. Abschluss von Verträgen",
       "section": "12",
-      "title": "Art. 12. Aussergerichtliche Streitbeilegung",
-      "content": "The competent authority shall ensure the availability of adequate and effective out-of-court schemes for the resolution of disputes between service providers and recipients arising from the provision of information society services. Service providers shall inform recipients of applicable out-of-court dispute resolution bodies and of the conditions under which these bodies are accessible. Out-of-court dispute resolution shall complement, and not replace, the right of parties to pursue their claims through the courts of Liechtenstein. The competent authority shall monitor the functioning of out-of-court dispute resolution mechanisms and shall report on their effectiveness."
+      "title": "Art. 12 Zugang elektronischer Erklärungen",
+      "content": "Elektronische Vertragserklärungen, andere rechtlich erhebliche elektronische Erklärungen und elektronische Empfangsbestätigungen gelten als zugegangen, wenn sie die Partei, für die sie bestimmt sind, unter gewöhnlichen Umständen abrufen kann. Diese Regelung kann nicht zum Nachteil von Verbrauchern abbedungen werden.\nV. Verantwortlichkeit von Diensteanbietern und Nutzern"
     },
     {
       "provision_ref": "art13",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
       "section": "13",
-      "title": "Art. 13. Verhältnis zum Digital Services Act",
-      "content": "This Law applies without prejudice to Regulation (EU) 2022/2065 (Digital Services Act, DSA), which will apply directly in Liechtenstein once incorporated into the EEA Agreement through EEA Joint Committee Decision. Upon the application of the DSA in the EEA, the liability exemptions and other provisions of the DSA applicable to providers of intermediary services will take precedence over equivalent provisions of this Law to the extent of any inconsistency. The AK, as Liechtenstein's Digital Services Coordinator, shall implement the supervisory and enforcement framework established by the DSA and shall cooperate with the European Commission and Digital Services Coordinators of other EEA states."
+      "title": "Art. 13 Ausschluss der Verantwortlichkeit bei Durchleitung",
+      "content": "1) Ein Diensteanbieter, der von einem Nutzer eingegebene Informationen in einem Kommunikationsnetz übermittelt oder den Zugang zu einem Kommunikationsnetz vermittelt, ist für die übermittelten Informationen nicht verantwortlich, wenn er:\na) die Übermittlung nicht veranlasst;\nb) den Empfänger der übermittelten Informationen nicht auswählt; und\nc) die übermittelten Informationen weder auswählt noch verändert.\n2) Die Übermittlung von Informationen und die Vermittlung des Zugangs im Sinne des Abs. 1 umfassen auch die automatische kurzzeitige Zwischenspeicherung der übermittelten Informationen, soweit diese Zwischenspeicherung nur der Durchführung der Übermittlung im Kommunikationsnetz dient und die Information nicht länger gespeichert wird, als es für die Übermittlung üblicherweise erforderlich ist."
     },
     {
       "provision_ref": "art14",
-      "section": "art14",
-      "title": "Art. 14. Verhältnis zu anderen Rechtsvorschriften",
-      "content": "This Law applies without prejudice to applicable data protection law, consumer protection law, intellectual property law, and other sectoral legislation applicable to information society services in Liechtenstein. Where other law provides specific requirements applicable to particular categories of information society services or service providers, those requirements shall apply in addition to or instead of the general requirements established by this Law. The country of origin principle applicable under this Law is subject to exceptions for areas excluded from its scope, including taxation, data protection, cartel law, and activities involving the exercise of public authority."
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
+      "section": "14",
+      "title": "Art. 14 Ausschluss der Verantwortlichkeit bei Suchmaschinen",
+      "content": "1) Ein Diensteanbieter, der Nutzern eine Suchmaschine oder andere elektronische Hilfsmittel zur Suche nach fremden Informationen bereitstellt, ist für die abgefragten Informationen nicht verantwortlich, sofern er:\na) die Übermittlung der abgefragten Informationen nicht veranlasst;\nb) den Empfänger der abgefragten Informationen nicht auswählt; und\nc) die abgefragten Informationen weder auswählt noch verändert.\n2) Abs. 1 ist nicht anzuwenden, wenn die Person, von der die abgefragten Informationen stammen, dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird."
     },
     {
       "provision_ref": "art15",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
       "section": "15",
-      "title": "Art. 15. Sanktionen",
-      "content": "The competent authority shall have the power to take enforcement action against service providers established in Liechtenstein that fail to comply with applicable requirements of this Law, including the power to issue orders requiring compliance, to impose fines, and to publish information about non-compliant providers. Enforcement action shall be proportionate to the nature and gravity of the breach and shall take account of the scale of the service provider's operations. In cross-border cases involving service providers established in other EEA states, the AK shall coordinate with the competent authority of the Member State of establishment in accordance with applicable cooperation procedures."
+      "title": "Art. 15 Ausschluss der Verantwortlichkeit bei Zwischenspeicherung (Caching)",
+      "content": "Ein Diensteanbieter, der von einem Nutzer eingegebene Informationen in einem Kommunikationsnetz übermittelt, ist für eine automatische, zeitlich begrenzte Zwischenspeicherung, die nur der effizienteren Gestaltung der auf Abruf anderer Nutzer erfolgenden Informationsübermittlung dient, nicht verantwortlich, sofern er:\na) die Information nicht verändert;\nb) die Bedingungen für den Zugang zur Information beachtet;\nc) die Regeln für die Aktualisierung der Information, die in allgemein anerkannten und verwendeten Industriestandards festgelegt sind, beachtet;\nd) die zulässige Anwendung von Technologien zur Sammlung von Daten über die Nutzung der Information, die in allgemein anerkannten und verwendeten Industriestandards festgelegt sind, nicht beeinträchtigt; und\ne) unverzüglich eine von ihm gespeicherte Information entfernt oder den Zugang zu ihr sperrt, sobald er tatsächliche Kenntnis davon erhalten hat, dass die Information am ursprünglichen Ausgangsort der Übertragung aus dem Netz entfernt oder der Zugang zu ihr gesperrt wurde oder dass ein Gericht oder eine Verwaltungsbehörde die Entfernung oder Sperre angeordnet hat."
     },
     {
       "provision_ref": "art16",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
       "section": "16",
-      "title": "Art. 16. Verhaltenskodizes",
-      "content": "The competent authority shall encourage the development of codes of conduct for information society service providers at EEA and national levels by trade associations, professional bodies, and consumer organisations. Codes of conduct shall be designed to contribute to the proper application of this Law and applicable EEA law. Service providers are encouraged to submit their codes of conduct to the competent authority for consultation and to the European Commission for dissemination throughout the EEA. The competent authority shall facilitate consultation between industry bodies, consumer organisations, and other stakeholders in the development of codes of conduct for specific sectors of the information society."
+      "title": "Art. 16 Ausschluss der Verantwortlichkeit bei Speicherung fremder Inhalte (Hosting)",
+      "content": "1) Ein Diensteanbieter, der von einem Nutzer eingegebene Informationen speichert, ist für die im Auftrag eines Nutzers gespeicherten Informationen nicht verantwortlich, sofern er:\na) von einer rechtswidrigen Tätigkeit oder Information keine tatsächliche Kenntnis hat und sich in Bezug auf Schadenersatzansprüche auch keiner Tatsachen oder Umstände bewusst ist, aus denen eine rechtswidrige Tätigkeit oder Information offensichtlich wird; oder\nb) sobald er diese Kenntnis oder dieses Bewusstsein erhalten hat und unverzüglich tätig wird, um die Information zu entfernen oder den Zugang zu ihr zu sperren.\n2) Abs. 1 ist nicht anzuwenden, wenn der Nutzer dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
+      "section": "17",
+      "title": "Art. 17 Ausschluss der Verantwortlichkeit bei Links",
+      "content": "1) Ein Diensteanbieter, der mittels eines elektronischen Verweises einen Zugang zu fremden Informationen eröffnet, ist für diese Informationen nicht verantwortlich:\na) sofern er von einer rechtswidrigen Tätigkeit oder Information keine tatsächliche Kenntnis hat und sich in Bezug auf Schadenersatzansprüche auch keiner Tatsachen oder Umstände bewusst ist, aus denen eine rechtswidrige Tätigkeit oder Information offensichtlich wird; oder\nb) sobald er diese Kenntnis oder dieses Bewusstsein erlangt hat und unverzüglich tätig wird, um den elektronischen Verweis zu entfernen.\n2) Abs. 1 ist nicht anzuwenden, wenn:\na) die Person, von der die Informationen stammen, dem Diensteanbieter untersteht, von ihm beaufsichtigt wird oder mit ihm in Geschäftsbeziehung steht; oder\nb) der Diensteanbieter die fremden Informationen als seine eigenen darstellt oder sie in sein Angebot einbindet."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
+      "section": "18",
+      "title": "Art. 18 Umfang der Pflichten der Diensteanbieter",
+      "content": "1) Die in Art. 13 bis 17 genannten Diensteanbieter sind nicht verpflichtet, die von ihnen gespeicherten, übermittelten oder zugänglich gemachten Informationen allgemein zu überwachen oder von sich aus nach Umständen zu forschen, die auf rechtswidrige Tätigkeiten hinweisen.\n2) Die in Art. 13 und 16 genannten Diensteanbieter haben auf Grund der Anordnung eines dazu gesetzlich befugten inländischen Gerichtes diesem alle Informationen zu übermitteln, an Hand derer die Nutzer ihres Dienstes, mit denen sie Vereinbarungen über die Übermittlung oder Speicherung von Informationen abgeschlossen haben, zur Verhütung, Ermittlung, Aufklärung oder Verfolgung gerichtlich strafbarer Handlungen ermittelt werden können.\n3) Die in Art. 16 genannten Diensteanbieter haben auf Grund der Anordnung einer Verwaltungsbehörde dieser den Namen und die Adressen der Nutzer ihres Dienstes, mit denen sie Vereinbarungen über die Speicherung von Informationen abgeschlossen haben, zu übermitteln, sofern die Kenntnis dieser Informationen eine wesentliche Voraussetzung der Wahrnehmung der diesen Behörden übertragenen Aufgaben bildet.\n4) Die in Art. 16 genannten Diensteanbieter haben den Namen und die Adresse eines Nutzers ihres Dienstes, mit dem sie Vereinbarungen über die Speicherung von Informationen abgeschlossen haben, auf Verlangen dritten Personen zu übermitteln, sofern diese ein überwiegendes rechtliches Interesse an der Feststellung der Identität eines Nutzers und eines bestimmten rechtswidrigen Sachverhalts sowie überdies glaubhaft machen, dass die Kenntnis dieser Informationen eine wesentliche Voraussetzung für die Rechtsverfolgung bildet.\n5) Sonstige Auskunfts- und Mitwirkungspflichten der Diensteanbieter gegenüber Behörden oder Gerichten bleiben unberührt."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
+      "section": "19",
+      "title": "Art. 19 Weitergehende Vorschriften",
+      "content": "1) Die Art. 13 bis 18 lassen gesetzliche Vorschriften, nach denen das Gericht oder eine Behörde dem Diensteanbieter die Unterlassung, Beseitigung oder Verhinderung einer Rechtsverletzung auftragen kann, unberührt.\n2) Abs. 1 sowie die Art. 13 bis 18 sind auch auf Diensteanbieter anzuwenden, die unentgeltlich elektronische Dienste bereitstellen."
+    },
+    {
+      "provision_ref": "art19a",
+      "chapter": "V. Verantwortlichkeit von Diensteanbietern und Nutzern",
+      "section": "19a",
+      "title": "Art. 19a Verantwortlichkeit des Nutzers",
+      "content": "Unbeschadet einer weitergehenden zivil- oder strafrechtlichen Verantwortlichkeit haftet der Nutzer dem Diensteanbieter für sämtlichen Schaden, der diesem durch den Missbrauch seines Dienstes der Informationsgesellschaft entsteht.\nVI. Herkunftslandprinzip und Ausnahmen"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "VI. Herkunftslandprinzip und Ausnahmen",
+      "section": "20",
+      "title": "Art. 20 Herkunftslandprinzip",
+      "content": "1) Im koordinierten Bereich (Art. 3 Bst. h) richten sich die rechtlichen Anforderungen an einen in einem Vertragsstaat niedergelassenen Diensteanbieter nach dem Recht dieses Staates.\n2) Der freie Verkehr von Diensten der Informationsgesellschaft aus einem anderen Vertragsstaat darf vorbehaltlich der Art. 21 bis 23 nicht auf Grund inländischer Rechtsvorschriften eingeschränkt werden, die in den koordinierten Bereich fallen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "VI. Herkunftslandprinzip und Ausnahmen",
+      "section": "21",
+      "title": "Art. 21 Ausnahmen vom Herkunftslandprinzip",
+      "content": "Das Herkunftslandprinzip ist in folgenden Bereichen nicht anzuwenden:\na) Belange des Urheberrechts und verwandter Schutzrechte, des Designgesetzes sowie des Topographieschutzes;\nb) die Ausgabe elektronischen Geldes durch Institute, auf die die Vertragsstaaten eine der in Art. 8 Abs. 1 der Richtlinie 2000/46/EG (EWR-Rechtssammlung: Anh. IX - 15.01) vorgesehenen Ausnahmen angewendet haben;\nc) Rechtsvorschriften über die Werbung für Investmentfonds und andere Organismen für gemeinsame Anlagen von Wertpapieren im Vertriebsstaat;\nd) die in Art. 30 und in Titel IV der Richtlinie 92/49/EWG (EWR-Rechtssammlung: Anh. IX - 7a.01), in ihrer geltenden Fassung, in Titel IV der Richtlinie 92/96/EWG (EWR-Rechtssammlung: Anh. IX - 12.02), in ihrer geltenden Fassung, in den Art. 7 und 8 der Richtlinie 88/357/EWG (EWR-Rechtssammlung: Anh. IX - 7.01), in ihrer geltenden Fassung, sowie in Art. 4 der Richtlinie 90/619/EWG (EWR-Rechtssammlung: Anh. IX - 12.01), in ihrer geltenden Fassung, enthaltenen Rechtsvorschriften über die Verpflichtungen von Versicherungsunternehmen zur Vorlage der Bedingungen für eine Pflichtversicherung an die zuständige Aufsichtsbehörde, über die freie Niederlassung und den freien Dienstleistungsverkehr von Versicherungsunternehmen im Europäischen Wirtschaftsraum und über das anwendbare Recht bei Nicht-Lebens- und Lebensversicherungsverträgen, die in einem Vertragsstaat gelegene Risiken decken;\ne) die Freiheit der Parteien eines Vertrags zur Rechtswahl;\nf) vertragliche Schuldverhältnisse in Bezug auf Verbraucherverträge einschliesslich der gesetzlichen Informationspflichten, die einen bestimmenden Einfluss auf die Entscheidung zum Vertragsabschluss haben;\ng) die Rechtswirksamkeit von Verträgen zur Begründung oder Übertragung von Rechten an Liegenschaften, sofern diese Verträge, nach dem Recht des Vertragsstaats, in dem sich die Liegenschaft befindet, zwingenden Formvorschriften unterliegen;\nh) die Zulässigkeit nicht angeforderter Werbung und anderer Massnahmen zur Absatzförderung im Weg der elektronischen Post;\ni) die Tätigkeit von Notaren und die Tätigkeit von Angehörigen gleichwertiger Berufe, soweit diese öffentlich-rechtliche Befugnisse ausüben;\nk) die Vertretung einer Partei und die Verteidigung ihrer Interessen vor Gericht;\nl) Gewinn- und Glückspiele, bei denen ein Einsatz, der einen Geldwert darstellt, zu leisten ist, einschliesslich Lotterien und Wetten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "VI. Herkunftslandprinzip und Ausnahmen",
+      "section": "22",
+      "title": "Art. 22 Abweichungen vom Herkunftslandprinzip",
+      "content": "1) Das Gericht oder eine Verwaltungsbehörde kann im Rahmen seiner bzw. ihrer gesetzlichen Befugnisse abweichend vom Herkunftslandprinzip Massnahmen ergreifen, die den freien Verkehr der Dienste der Informationsgesellschaft aus einem anderen Vertragsstaat einschränken. Solche Massnahmen müssen jedoch zum Schutz eines der in Abs. 2 genannten Rechtsgüter erforderlich sein. Sie dürfen sich nur gegen einen Diensteanbieter richten, der eines dieser Rechtsgüter beeinträchtigt oder ernstlich und schwerwiegend zu beeinträchtigen droht. Auch müssen sie in einem angemessenen Verhältnis zu den damit verfolgten Zielen stehen.\n2) Der freie Verkehr von Diensten der Informationsgesellschaft aus einem anderen Vertragsstaat kann nur aus folgenden Gründen eingeschränkt werden:\na) Schutz der öffentlichen Ordnung, insbesondere zur Verhütung, Ermittlung, Aufklärung oder Verfolgung strafbarer Handlungen, einschliesslich des Jugendschutzes und der Bekämpfung der Hetze aus Gründen der Rasse, des Geschlechts, des Glaubens oder der Nationalität;\nb) Schutz der Menschenwürde;\nc) Schutz der öffentlichen Gesundheit;\nd) Schutz der öffentlichen Sicherheit einschliesslich der Wahrung nationaler Sicherheitsinteressen; und\ne) Schutz der Verbraucher einschliesslich des Schutzes der Anleger."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "VI. Herkunftslandprinzip und Ausnahmen",
+      "section": "23",
+      "title": "Art. 23 Mitteilungspflicht",
+      "content": "1) Eine Verwaltungsbehörde hat ihre Absicht zur Ergreifung von Massnahmen, die den freien Verkehr von Diensten der Informationsgesellschaft aus einem anderen Vertragsstaat einschränken, der EFTA-Überwachungsbehörde und der zuständigen Stelle des anderen Staates mitzuteilen und diese aufzufordern, geeignete Massnahmen gegen den Diensteanbieter zu veranlassen. Die Behörde kann die von ihr beabsichtigten Massnahmen erst durchführen, wenn die zuständige Stelle des anderen Vertragsstaates dieser Aufforderung nicht innerhalb angemessener Frist Folge geleistet hat oder die von ihr ergriffenen Massnahmen unzulänglich sind.\n2) Bei Gefahr im Verzug kann die Behörde die von ihr beabsichtigten Massnahmen auch ohne Verständigung der EFTA-Überwachungsbehörde und Aufforderung der zuständigen Stelle des anderen Vertragsstaates erlassen. In diesem Fall hat sie die von ihr ergriffene Massnahme unverzüglich der EFTA-Überwachungsbehörde und der zuständigen Stelle unter Angabe der Gründe für die Annahme von Gefahr im Verzug mitzuteilen.\n3) Die Abs. 1 und 2 sind auf gerichtliche Verfahren nicht anzuwenden.\nVII. Transparenz und Verbindung mit anderen Vertragsstaaten"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "VII. Transparenz und Verbindung mit anderen Vertragsstaaten",
+      "section": "24",
+      "title": "Art. 24 Transparenz",
+      "content": "1) Die Regierung oder eine von ihr beauftragte Amtsstelle hat die wesentlichen gerichtlichen oder verwaltungsbehördlichen Entscheidungen im Zusammenhang mit Diensten der Informationsgesellschaft der EFTA-Überwachungsbehörde bekannt zu geben.\n2) Die Regierung oder eine von ihr beauftragte Amtsstelle hat im Internet Informationen zu veröffentlichen über:\na) die vertraglichen Rechte und Pflichten der Nutzer sowie über die bei Streitfällen verfügbaren Beschwerde- und Rechtsschutzverfahren einschliesslich der praktischen Aspekte dieser Verfahren; und\nb) die Anschriften von Behörden, Körperschaften öffentlichen Rechts und anderer Stellen, bei denen die Nutzer oder Diensteanbieter weitere Informationen oder praktische Unterstützung erhalten können."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "VII. Transparenz und Verbindung mit anderen Vertragsstaaten",
+      "section": "25",
+      "title": "Art. 25 Verbindungsstelle",
+      "content": "1) Die Regierung oder eine von ihr beauftragte Amtsstelle hat als Verbindungsstelle mit den zuständigen Stellen anderer Vertragsstaaten und dem Ständigen Ausschuss zusammenzuarbeiten. Sie hat den an sie gelangten Auskunftsbegehren anderer Vertragsstaaten und des Ständigen Ausschusses zu entsprechen und die nicht in ihren Wirkungsbereich fallenden Ersuchen um Amts- oder Rechtshilfe oder Auskünfte an die zuständigen Gerichte oder Verwaltungsbehörden weiterzuleiten.\n2) Die Behörde hat die Anschriften der ihr bekannt gegebenen Verbindungsstellen anderer Vertragsstaaten im Internet zu veröffentlichen.\nVIII. Strafbestimmungen"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "VIII. Strafbestimmungen",
+      "section": "26",
+      "title": "Art. 26 Übertretungen",
+      "content": "1) Ein Diensteanbieter ist vom Amt für Volkswirtschaft wegen Übertretung mit einer Geldstrafe bis zu 10 000 Franken zu bestrafen, wenn er:\na) gegen seine allgemeinen Informationspflichten nach Art. 5 Abs. 1 verstösst;\nb) gegen seine Informationspflichten für kommerzielle Kommunikation nach Art. 6 verstösst;\nc) gegen die Konsultationspflicht nach Art. 7 Abs. 2 verstösst;\nd) gegen seine Informationspflichten für Vertragsabschlüsse nach Art. 9 Abs. 1 verstösst oder entgegen Art. 9 Abs. 2 keinen elektronischen Zugang zu den freiwilligen Verhaltenskodizes, denen er sich unterwirft, angibt;\ne) entgegen Art. 10 Abs. 1 keine technischen Mittel zur Erkennung und Berichtigung von Eingabefehlern zur Verfügung stellt; oder\nf) entgegen Art. 11 die Vertragsbestimmungen und allgemeine Geschäftsbedingungen nicht so zur Verfügung stellt, dass sie der Nutzer speichern und wiedergeben kann.\n2) Eine Übertretung nach Abs. 1 liegt nicht vor, wenn die Tat den Tatbestand einer gerichtlich strafbaren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "VIII. Strafbestimmungen",
+      "section": "27",
+      "title": "Art. 27 Tätige Reue",
+      "content": "1) Das Amt für Volkswirtschaft kann einen Diensteanbieter, der die Verpflichtungen nach diesem Gesetz verletzt, darauf hinweisen und ihm auftragen, den gesetzmässigen Zustand innerhalb einer von ihm festgelegten angemessenen Frist herzustellen. Dabei hat es ihn auf die mit einer solchen Aufforderung verbundenen Rechtsfolgen hinzuweisen.\n2) Ein Diensteanbieter ist wegen einer Übertretung nach Art. 26 Abs. 1 nicht zu bestrafen, wenn er den gesetzmässigen Zustand innerhalb der vom Amt für Volkswirtschaft gesetzten Frist herstellt.\nIX. Schlussbestimmung"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "IX. Schlussbestimmung",
+      "section": "28",
+      "title": "Art. 28 Inkrafttreten",
+      "content": "Dieses Gesetz tritt am Tage der Kundmachung in Kraft.\ngez. Hans-Adam\ngez. Otmar Hasler\nFürstlicher Regierungschef\n1\nArt. 5 Abs. 1 Bst. d abgeändert durch LGBl. 2013 Nr. 6 .\n2\nArt. 7 Abs. 2 abgeändert durch LGBl. 2005 Nr. 254 .\n3\nArt. 7 Abs. 3 abgeändert durch LGBl. 2005 Nr. 254 .\n4\nArt. 7 Abs. 4 eingefügt durch LGBl. 2005 Nr. 254 .\n5\nÜberschrift vor Art. 13 abgeändert durch LGBl. 2005 Nr. 254 .\n6\nArt. 17 Abs. 2 abgeändert durch LGBl. 2005 Nr. 254 .\n7\nArt. 19a eingefügt durch LGBl. 2005 Nr. 254 .\n8\nArt. 26 Abs. 1 Einleitungssatz abgeändert durch LGBl. 2015 Nr. 278 .\n9\nArt. 27 abgeändert durch LGBl. 2015 Nr. 278 ."
     }
   ],
   "definitions": [
     {
-      "term": "information society service",
-      "definition": "Any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
-      "source_provision": "art2"
+      "term": "Dienst der Informationsgesellschaft",
+      "definition": "jeder in der Regel gegen Entgelt elektronisch im Fernabsatz auf individuellen Abruf des Empfängers bereitgestellte Dienst, insbesondere der Online-Vertrieb von Waren und Dienstleistungen, Online-Informationsangebote, die Online-Werbung, elektronische Suchmaschinen und Datenabfragemöglichkeiten sowie Dienste, die Informationen über ein elektronisches Netz übermitteln, die den Zugang zu einem solchen vermitteln oder die Information eines Nutzers speichern;",
+      "source_provision": "art3"
     },
     {
-      "term": "established service provider",
-      "definition": "A service provider effectively pursuing an economic activity using a fixed establishment for an indefinite period and actually established in Liechtenstein.",
-      "source_provision": "art2"
+      "term": "Diensteanbieter",
+      "definition": "eine natürliche oder juristische Person oder sonstige rechtsfähige Einrichtung, die einen Dienst der Informationsgesellschaft bereitstellt;",
+      "source_provision": "art3"
     },
     {
-      "term": "commercial communication",
-      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services, or image of a company, organisation, or person pursuing a commercial, industrial, or craft activity.",
-      "source_provision": "art2"
+      "term": "niedergelassener Diensteanbieter",
+      "definition": "ein Diensteanbieter, der eine Wirtschaftstätigkeit mittels einer festen Einrichtung auf unbestimmte Zeit tatsächlich ausübt; das Vorhandensein und die Nutzung technischer Mittel und Technologien, die zur Bereitstellung des Dienstes erforderlich sind, begründen für sich allein noch keine Niederlassung des Diensteanbieters;",
+      "source_provision": "art3"
     },
     {
-      "term": "coordinated field",
-      "definition": "Requirements laid down in EEA states' legal systems applicable to information society service providers or information society services, whether of a general nature or specifically designed for them.",
+      "term": "Nutzer",
+      "definition": "eine natürliche oder juristische Person oder sonstige rechtsfähige Einrichtung, die zu beruflichen oder sonstigen Zwecken einen Dienst der Informationsgesellschaft in Anspruch nimmt, insbesondere um Informationen zu erlangen oder Informationen zugänglich zu machen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Verbraucher",
+      "definition": "eine natürliche Person, die zu Zwecken handelt, die nicht zu ihren gewerblichen, geschäftlichen oder beruflichen Tätigkeiten gehören;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "kommerzielle Kommunikation",
+      "definition": "Werbung und andere Formen der Kommunikation, die der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren und Dienstleistungen oder des Erscheinungsbildes eines Unternehmens, einer Organisation oder einer natürlichen Person dienen, ausgenommen:",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vertragsstaat",
+      "definition": "ein Vertragsstaat des EWRA;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "koordinierter Bereich",
+      "definition": "die allgemein oder besonders für Dienste der Informationsgesellschaft und für Diensteanbieter geltenden Rechtsvorschriften über die Aufnahme und die Ausübung einer solchen Tätigkeit, insbesondere Rechtsvorschriften über die Qualifikation und das Verhalten der Diensteanbieter, über die Genehmigung oder Anmeldung sowie die Qualität und den Inhalt der Dienste der Informationsgesellschaft - einschliesslich der für die Werbung und für Verträge geltenden Bestimmungen - und über die rechtliche Verantwortlichkeit der Diensteanbieter.",
       "source_provision": "art3"
     }
   ]
