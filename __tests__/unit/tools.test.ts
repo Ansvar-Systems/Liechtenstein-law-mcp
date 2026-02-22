@@ -1,6 +1,7 @@
 import { afterAll, describe, expect, it } from 'vitest';
 import Database from 'better-sqlite3';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 
 import { getAbout } from '../../src/tools/about.js';
@@ -20,11 +21,16 @@ import { validateEUCompliance } from '../../src/tools/validate-eu-compliance.js'
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const REAL_DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const HAS_DB = fs.existsSync(REAL_DB_PATH);
 
-const realDb = new Database(REAL_DB_PATH, { readonly: true });
+let realDb: InstanceType<typeof Database>;
+
+if (HAS_DB) {
+  realDb = new Database(REAL_DB_PATH, { readonly: true });
+}
 
 afterAll(() => {
-  realDb.close();
+  if (HAS_DB) realDb.close();
 });
 
 function makeDb(sql?: string): Database.Database {
@@ -134,7 +140,7 @@ function makeEuDb(): Database.Database {
   `);
 }
 
-describe('about and list_sources', () => {
+describe.skipIf(!HAS_DB)('about and list_sources', () => {
   it('returns populated about information from real database', () => {
     const about = getAbout(realDb as never, {
       version: '1.0.0',
@@ -225,7 +231,7 @@ describe('validate citation', () => {
   });
 });
 
-describe('get provision', () => {
+describe.skipIf(!HAS_DB)('get provision', () => {
   it('returns no results for unknown documents', async () => {
     const result = await getProvision(realDb as never, { document_id: 'definitely-not-real' });
     expect(result.results).toEqual([]);
@@ -270,7 +276,7 @@ describe('get provision', () => {
   });
 });
 
-describe('search and legal stance tools', () => {
+describe.skipIf(!HAS_DB)('search and legal stance tools', () => {
   it('handles empty queries', async () => {
     const s = await searchLegislation(realDb as never, { query: '   ' });
     const b = await buildLegalStance(realDb as never, { query: '' });
@@ -307,7 +313,7 @@ describe('search and legal stance tools', () => {
   });
 });
 
-describe('check currency', () => {
+describe.skipIf(!HAS_DB)('check currency', () => {
   it('returns not_found for missing doc', async () => {
     const r = await checkCurrency(realDb as never, { document_id: 'missing' });
     expect(r.results.status).toBe('not_found');
