@@ -1,6 +1,7 @@
 import { afterAll, describe, expect, it } from 'vitest';
 import Database from 'better-sqlite3';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprotocol/sdk/types.js';
 
@@ -9,11 +10,16 @@ import { buildTools, registerTools } from '../../src/tools/registry.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const REAL_DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const HAS_DB = fs.existsSync(REAL_DB_PATH);
 
-const realDb = new Database(REAL_DB_PATH, { readonly: true });
+let realDb: InstanceType<typeof Database>;
+
+if (HAS_DB) {
+  realDb = new Database(REAL_DB_PATH, { readonly: true });
+}
 
 afterAll(() => {
-  realDb.close();
+  if (HAS_DB) realDb.close();
 });
 
 class FakeServer {
@@ -24,7 +30,7 @@ class FakeServer {
   }
 }
 
-describe('registry buildTools', () => {
+describe.skipIf(!HAS_DB)('registry buildTools', () => {
   it('includes base tools and conditionally includes about', () => {
     const toolsWithoutAbout = buildTools(realDb as never);
     expect(toolsWithoutAbout.find(t => t.name === 'about')).toBeUndefined();
@@ -46,7 +52,7 @@ describe('registry buildTools', () => {
   });
 });
 
-describe('registry handlers', () => {
+describe.skipIf(!HAS_DB)('registry handlers', () => {
   it('registers list and call handlers and routes all tools', async () => {
     const server = new FakeServer();
 

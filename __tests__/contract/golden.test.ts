@@ -1,6 +1,8 @@
 /**
  * Golden contract tests for Liechtenstein Law MCP.
  * Validates core tool functionality against seed data.
+ *
+ * Skipped automatically when database.db is absent (e.g. CI without data/).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
@@ -13,15 +15,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
 const SEED_DIR = path.resolve(__dirname, '../../data/seed');
+const HAS_DB = fs.existsSync(DB_PATH);
 
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!HAS_DB) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 });
 
-describe('Database integrity', () => {
+describe.skipIf(!HAS_DB)('Database integrity', () => {
   it('should have one legal document per seed file', () => {
     const expected = fs.readdirSync(SEED_DIR).filter(file => file.endsWith('.json')).length;
     const row = db.prepare(
@@ -43,7 +47,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Article retrieval', () => {
+describe.skipIf(!HAS_DB)('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
       "SELECT content FROM legal_provisions WHERE document_id = 'li-cybersicherheitsgesetz' AND section = '1'"
@@ -53,7 +57,7 @@ describe('Article retrieval', () => {
   });
 });
 
-describe('Search', () => {
+describe.skipIf(!HAS_DB)('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
       "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'personenbezogene'"
@@ -62,7 +66,7 @@ describe('Search', () => {
   });
 });
 
-describe('EU cross-references', () => {
+describe.skipIf(!HAS_DB)('EU cross-references', () => {
   it('should have EU document references', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM eu_documents').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThan(0);
@@ -76,7 +80,7 @@ describe('EU cross-references', () => {
   });
 });
 
-describe('Negative tests', () => {
+describe.skipIf(!HAS_DB)('Negative tests', () => {
   it('should return no results for fictional document', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'"
@@ -92,7 +96,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('All 10 laws are present', () => {
+describe.skipIf(!HAS_DB)('All 10 laws are present', () => {
   const expectedDocs = [
     'li-cybersicherheitsgesetz',
     'li-datenschutzgesetz',
@@ -103,7 +107,8 @@ describe('All 10 laws are present', () => {
     'li-signaturgesetz',
     'li-stgb-it-provisions',
     'li-tvtg-blockchain',
-    'li-uwg-trade-secrets',  ];
+    'li-uwg-trade-secrets',
+  ];
 
   for (const docId of expectedDocs) {
     it(`should contain document: ${docId}`, () => {
@@ -116,7 +121,7 @@ describe('All 10 laws are present', () => {
   }
 });
 
-describe('list_sources', () => {
+describe.skipIf(!HAS_DB)('list_sources', () => {
   it('should have db_metadata table', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM db_metadata').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThan(0);
