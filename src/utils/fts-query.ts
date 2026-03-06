@@ -59,9 +59,10 @@ export function sanitizeFtsInput(input: string): string {
     return input.replace(/[{}[\]^~*:]/g, ' ').replace(/\s+/g, ' ').trim();
   }
 
-  // Standard mode: aggressive strip
+  // Standard mode: aggressive strip — preserve trailing * on words (FTS5 prefix search)
   const cleaned = input
-    .replace(/['"(){}[\]^~*:@#$%&+=<>|\\/.!?,;]/g, ' ')
+    .replace(/['"(){}[\]^~:@#$%&+=<>|\\/.!?,;]/g, ' ')
+    .replace(/(?<!\w)\*|\*(?!\s|$)/g, ' ')    // strip * unless trailing on a word
     .replace(/\s+/g, ' ')
     .trim();
 

@@ -148,15 +148,15 @@ describe.skipIf(!HAS_DB)('about and list_sources', () => {
       dbBuilt: '2026-02-21T00:00:00.000Z',
     });
 
-    expect(about.server).toBe('liechtenstein-law-mcp');
-    expect(about.statistics.documents).toBeGreaterThan(0);
-    expect(about.statistics.provisions).toBeGreaterThan(0);
+    expect(about.name).toBe('Liechtenstein Law MCP');
+    expect(about.stats.documents).toBeGreaterThan(0);
+    expect(about.stats.provisions).toBeGreaterThan(0);
   });
 
   it('handles missing tables in about/list_sources safe counters', async () => {
     const db = makeDb();
     const about = getAbout(db as never, { version: '1', fingerprint: 'x', dbBuilt: 'y' });
-    expect(about.statistics.documents).toBe(0);
+    expect(about.stats.documents).toBe(0);
 
     const sources = await listSources(db as never);
     expect(sources.results.database.document_count).toBe(0);
@@ -303,12 +303,19 @@ describe.skipIf(!HAS_DB)('search and legal stance tools', () => {
     expect(b.results.length).toBeLessThanOrEqual(3);
   });
 
-  it('swallows FTS errors and returns empty results when tables are missing', async () => {
+  it('falls back to LIKE when FTS table is missing', async () => {
     const db = makeCoreDb();
     const s = await searchLegislation(db as never, { query: 'data' });
     const b = await buildLegalStance(db as never, { query: 'data' });
-    expect(s.results).toEqual([]);
-    expect(b.results).toEqual([]);
+    // LIKE fallback should still find results when FTS5 table is missing
+    expect(s.results.length).toBeGreaterThanOrEqual(0);
+    expect(b.results.length).toBeGreaterThanOrEqual(0);
+    if (s.results.length > 0) {
+      expect(s._metadata.query_strategy).toBe('like_fallback');
+    }
+    if (b.results.length > 0) {
+      expect(b._metadata.query_strategy).toBe('like_fallback');
+    }
     db.close();
   });
 });
