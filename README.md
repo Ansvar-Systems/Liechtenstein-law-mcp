@@ -202,7 +202,7 @@ All content is sourced from authoritative Liechtenstein legal databases:
 | **Authority** | Stabsstelle für Landesrecht, Liechtenstein |
 | **Retrieval method** | gesetze.li consolidated statute database |
 | **Language** | German |
-| **License** | Open access (gesetze.li public domain) |
+| **License** | `LI-Statutory-PD` (URG Art. 5 — statutes, decrees, official decisions, authority reports, official compilations and translations) |
 | **Coverage** | 3,614 consolidated statutes |
 
 ### Automated Freshness Checks (Daily)
@@ -359,7 +359,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes:** Stabsstelle für Landesrecht, Liechtenstein (public access)
+- **Statutes:** `LI-Statutory-PD` — Liechtenstein statutory public domain under Gesetz vom 19. Mai 1999 über das Urheberrecht und verwandte Schutzrechte (URG, LR 231.5) Art. 5. Excludes laws, ordinances, treaties and other official decrees; means of payment; decisions, minutes and reports of authorities and public administrations; and patent specifications. Abs. 2 extends to official compilations and translations. Wording is lexically identical to Swiss URG Art. 5 — Liechtenstein adopted the Swiss URG numbering (the carve-out is Art. 5, NOT §6 as some earlier internal docs implied). Verbatim basis: [WIPO Lex consolidated German text](https://wipolex-res.wipo.int/edocs/lexdocs/laws/de/li/li037de.html). Commercial reuse permitted. Verified 2026-05-17.
 - **EU/EEA Metadata:** EUR-Lex (EU public domain)
 
 ---
