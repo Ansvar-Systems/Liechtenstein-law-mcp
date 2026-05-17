@@ -9,9 +9,9 @@ sources:
     retrieval_method: "HTML_SCRAPE"
     update_frequency: "unknown"
     license_or_terms:
-      type: "government_terms"
-      url: "https://www.gesetze.li/konso/suche"
-      summary: "Die konsolidierten Texte dienen der Information; rechtlich verbindlich sind die kundgemachten Fassungen im Landesgesetzblatt."
+      type: "LI-Statutory-PD"
+      url: "https://wipolex-res.wipo.int/edocs/lexdocs/laws/de/li/li037de.html"
+      summary: "Gesetz vom 19. Mai 1999 über das Urheberrecht und verwandte Schutzrechte (URG, LR 231.5) Art. 5 Abs. 1 lit. a–d excludes laws, ordinances, treaties and other official decrees; means of payment; decisions, minutes and reports of authorities and public administrations; and patent specifications. Abs. 2 extends to official compilations and translations. Wording is lexically identical to Swiss URG Art. 5 — Liechtenstein adopted the Swiss URG numbering (NOT German UrhG §6). Verbatim basis verified 2026-05-17 via WIPO Lex consolidated German text (gesetze.li was in maintenance at the time of audit). The portal disclaimer above remains accurate as a statement that only Landesgesetzblatt-promulgated versions are legally binding, but it does not constitute a separate licence."
     coverage:
       scope: "Konsolidiertes Landesrecht inklusive historischer Fassungen nach LGBl-Nummer."
       limitations: "Portal nutzt dynamische HTML-Seiten mit eingebettetem Text-iframe; Search-Endpunkte sind teilweise cookie-abhängig."
