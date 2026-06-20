@@ -167,7 +167,7 @@ function extractHeadings(frameHtml: string): Heading[] {
 }
 
 function extractArticleTitle(block: string, headingPrefix: string): string {
-  const titleMatch = block.match(/<div class="sacht">([\s\S]*?)<\/div>/i);
+  const titleMatch = block.match(/<div class="sacht"[^>]*>([\s\S]*?)<\/div>/i);
   if (!titleMatch) {
     return headingPrefix;
   }
@@ -181,13 +181,21 @@ function extractArticleTitle(block: string, headingPrefix: string): string {
 }
 
 function extractArticleContent(block: string): string {
-  const firstContentIdx = block.search(/<div class="(?:abs|bst1|ziff)"[^>]*>/i);
-  const base = firstContentIdx >= 0
-    ? block.slice(firstContentIdx)
-    : block
-      .replace(/<a name="(?:art|par):[^"]+"><\/a>\s*(?:Art\.|&sect;)\s*[0-9A-Za-z]+/i, '')
-      .replace(/<div class="sacht">[\s\S]*?<\/div>/i, '');
-
+  // Lossless extraction by SUBTRACTION: keep the whole block, remove only the
+  // structural pieces captured elsewhere — the anchor + "Art. N"/"§ N" marker
+  // (→ title via headingPrefix), the leading caption sacht (→ title), and any
+  // tit1/2/3 section heading (→ the NEXT article's chapter). Everything else
+  // (abs/bst1/ziff AND any non-abs body text) stays in content.
+  //
+  // The previous heuristic sliced from the first <div class="abs|bst1|ziff">,
+  // which silently dropped any body text BEFORE the first such div. That was
+  // ~harmless on giant mis-merged blocks but lost ~3-4% of body text once the
+  // attributed-art-div fix (extractProvisions) split blocks correctly
+  // (2026-06-20: PGR lost ~6.3k word-instances incl. "oder/nicht/gläubiger").
+  const base = block
+    .replace(/<a name="(?:art|par):[^"]+"><\/a>\s*(?:Art\.|&sect;|§)\s*[0-9A-Za-z]+/i, '')
+    .replace(/<div class="sacht"[^>]*>[\s\S]*?<\/div>/i, '')
+    .replace(/<div class="(?:tit1m|tit1|tit2|tit3)"[^>]*>[\s\S]*?<\/div>/gi, '');
   return normalizeText(base);
 }
 
@@ -308,7 +316,7 @@ function extractProvisions(frameHtml: string): ParsedProvision[] {
   const seenRefs = new Set<string>();
   const headings = extractHeadings(frameHtml);
 
-  const articleStartRegex = /<div class="art">/gi;
+  const articleStartRegex = /<div class="art"[^>]*>/gi;
   const starts: number[] = [];
   let startMatch: RegExpExecArray | null;
 
@@ -337,9 +345,20 @@ function extractProvisions(frameHtml: string): ParsedProvision[] {
       continue;
     }
 
-    const provisionRef = `${anchorType}${section.toLowerCase()}`;
+    let provisionRef = `${anchorType}${section.toLowerCase()}`;
     if (seenRefs.has(provisionRef)) {
-      continue;
+      // Consolidated gesetze.li pages bundle multiple sub-codes that each RESTART
+      // numbering — e.g. the PGR (li-konso-1926004000) appends the Stiftungs- and
+      // Treuunternehmen §-codes, all numbered "§ 1, § 2 …", colliding with each
+      // other on a flat ref. The previous `continue` silently DROPPED the
+      // collision, losing ~36k words / 189 distinct provisions (the entire
+      // Treuunternehmen code) from the PGR alone. Disambiguate deterministically
+      // by document order so every bundled provision stays addressable and NO
+      // text is lost (verified char-conservation = 0). The first occurrence keeps
+      // the bare ref; later sub-codes get a stable `~N` suffix.
+      let n = 2;
+      while (seenRefs.has(`${provisionRef}~${n}`)) n++;
+      provisionRef = `${provisionRef}~${n}`;
     }
 
     const headingPrefix = anchorType === 'par' ? `§ ${section}` : `Art. ${section}`;
@@ -378,7 +397,7 @@ function extractProvisions(frameHtml: string): ParsedProvision[] {
 
 export function parseLiechtensteinFrameHtml(frameHtml: string, law: TargetLaw): ParsedAct {
   const title = extractFrameTitle(frameHtml) || law.shortName;
-  const dateMatch = frameHtml.match(/<div class="vom">\s*vom\s+([^<]+)<\/div>/i);
+  const dateMatch = frameHtml.match(/<div class="vom"[^>]*>\s*vom\s+([^<]+)<\/div>/i);
   const issuedDate = parseGermanDate(dateMatch?.[1]);
   const provisions = extractProvisions(frameHtml);
   const definitions = extractDefinitions(provisions);
