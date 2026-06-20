@@ -167,7 +167,7 @@ function extractHeadings(frameHtml: string): Heading[] {
 }
 
 function extractArticleTitle(block: string, headingPrefix: string): string {
-  const titleMatch = block.match(/<div class="sacht">([\s\S]*?)<\/div>/i);
+  const titleMatch = block.match(/<div class="sacht"[^>]*>([\s\S]*?)<\/div>/i);
   if (!titleMatch) {
     return headingPrefix;
   }
@@ -194,7 +194,7 @@ function extractArticleContent(block: string): string {
   // (2026-06-20: PGR lost ~6.3k word-instances incl. "oder/nicht/gläubiger").
   const base = block
     .replace(/<a name="(?:art|par):[^"]+"><\/a>\s*(?:Art\.|&sect;|§)\s*[0-9A-Za-z]+/i, '')
-    .replace(/<div class="sacht">[\s\S]*?<\/div>/i, '')
+    .replace(/<div class="sacht"[^>]*>[\s\S]*?<\/div>/i, '')
     .replace(/<div class="(?:tit1m|tit1|tit2|tit3)"[^>]*>[\s\S]*?<\/div>/gi, '');
   return normalizeText(base);
 }
@@ -397,7 +397,7 @@ function extractProvisions(frameHtml: string): ParsedProvision[] {
 
 export function parseLiechtensteinFrameHtml(frameHtml: string, law: TargetLaw): ParsedAct {
   const title = extractFrameTitle(frameHtml) || law.shortName;
-  const dateMatch = frameHtml.match(/<div class="vom">\s*vom\s+([^<]+)<\/div>/i);
+  const dateMatch = frameHtml.match(/<div class="vom"[^>]*>\s*vom\s+([^<]+)<\/div>/i);
   const issuedDate = parseGermanDate(dateMatch?.[1]);
   const provisions = extractProvisions(frameHtml);
   const definitions = extractDefinitions(provisions);
